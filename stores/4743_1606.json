@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Car Repair",
+    "retailer": "shop_car_repair",
+    "shop": "car_repair",
+    "latitude": 47.4303223,
+    "longitude": 16.0610443
+  },
+  {
+    "name": "Florist",
+    "retailer": "shop_florist",
+    "shop": "florist",
+    "latitude": 47.4398707,
+    "longitude": 16.0656426
+  },
+  {
+    "name": "Renault Jesch",
+    "retailer": "renault",
+    "shop": "car",
+    "latitude": 47.4304131,
+    "longitude": 16.0608672,
+    "brand": "Renault"
+  },
+  {
+    "name": "VW Audi Service Lind",
+    "retailer": "vw_audi_service_lind",
+    "shop": "car_repair",
+    "latitude": 47.4342376,
+    "longitude": 16.0605456
+  },
+  {
+    "name": "VW Lind Automobile",
+    "retailer": "volkswagen",
+    "shop": "car",
+    "latitude": 47.4339775,
+    "longitude": 16.0603106,
+    "brand": "Volkswagen"
+  }
+]

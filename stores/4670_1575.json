@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Autohaus Schaffer",
+    "retailer": "audi_volkswagen",
+    "shop": "car_repair",
+    "latitude": 46.7070401,
+    "longitude": 15.7593819,
+    "brand": "Audi;Volkswagen"
+  },
+  {
+    "name": "Pein Hofverkauf",
+    "retailer": "pein_hofverkauf",
+    "shop": "farm",
+    "latitude": 46.7073615,
+    "longitude": 15.7578865
+  },
+  {
+    "name": "Tankstelle Pein",
+    "retailer": "pein_energy",
+    "shop": "convenience",
+    "latitude": 46.7064811,
+    "longitude": 15.7596242,
+    "brand": "pein.energy"
+  }
+]

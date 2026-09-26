@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Florist",
+    "retailer": "shop_florist",
+    "shop": "florist",
+    "latitude": 47.5203934,
+    "longitude": 14.1427977
+  },
+  {
+    "name": "Kiosk",
+    "retailer": "shop_kiosk",
+    "shop": "kiosk",
+    "latitude": 47.5207499,
+    "longitude": 14.1437583
+  },
+  {
+    "name": "Spar",
+    "retailer": "spar",
+    "shop": "supermarket",
+    "latitude": 47.5248296,
+    "longitude": 14.1474075,
+    "brand": "Spar"
+  },
+  {
+    "name": "Trafik",
+    "retailer": "trafik",
+    "shop": "tobacco",
+    "latitude": 47.5207909,
+    "longitude": 14.1437025
+  }
+]

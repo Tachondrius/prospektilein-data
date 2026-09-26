@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Kiosk",
+    "retailer": "shop_kiosk",
+    "shop": "kiosk",
+    "latitude": 47.3862885,
+    "longitude": 15.0897633
+  },
+  {
+    "name": "Reisebüro am Bahnhof",
+    "retailer": "reiseburo_am_bahnhof",
+    "shop": "travel_agency",
+    "latitude": 47.3863697,
+    "longitude": 15.0898202
+  },
+  {
+    "name": "Spar",
+    "retailer": "spar",
+    "shop": "supermarket",
+    "latitude": 47.3861214,
+    "longitude": 15.0896963,
+    "brand": "Spar"
+  },
+  {
+    "name": "Turbo Sun",
+    "retailer": "turbo_sun",
+    "shop": "beauty",
+    "latitude": 47.380447,
+    "longitude": 15.0869618
+  }
+]

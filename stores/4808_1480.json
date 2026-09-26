@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Auto-Granzer",
+    "retailer": "auto_granzer",
+    "shop": "car",
+    "latitude": 48.0851885,
+    "longitude": 14.806309
+  },
+  {
+    "name": "Autohaus Ford Aiginger",
+    "retailer": "ford_subaru",
+    "shop": "car",
+    "latitude": 48.086353,
+    "longitude": 14.8070707,
+    "brand": "Ford;Subaru"
+  },
+  {
+    "name": "Autohaus Senker GmbH",
+    "retailer": "vw_audi_seat_skoda",
+    "shop": "car",
+    "latitude": 48.0819693,
+    "longitude": 14.8036779,
+    "brand": "VW;Audi;Seat;Škoda"
+  },
+  {
+    "name": "Autohaus Volvo Aiginger",
+    "retailer": "volvo",
+    "shop": "car",
+    "latitude": 48.0858764,
+    "longitude": 14.806538,
+    "brand": "Volvo"
+  },
+  {
+    "name": "Autohaus Weitmann GesmbH",
+    "retailer": "lancia_alfa_romeo_jeep_chrysler_dodge",
+    "shop": "car",
+    "latitude": 48.0828093,
+    "longitude": 14.8034577,
+    "brand": "Lancia;Alfa Romeo;Jeep;Chrysler;Dodge"
+  },
+  {
+    "name": "Billa",
+    "retailer": "billa",
+    "shop": "supermarket",
+    "latitude": 48.0820951,
+    "longitude": 14.8069378,
+    "brand": "Billa"
+  },
+  {
+    "name": "KFZ Erwin Aigner",
+    "retailer": "kfz_erwin_aigner",
+    "shop": "car",
+    "latitude": 48.0818011,
+    "longitude": 14.8063726
+  },
+  {
+    "name": "Lietz Amstetten",
+    "retailer": "mazda_fiat_bmw_ducati_kawasaki_suzuki_yamaha",
+    "shop": "car",
+    "latitude": 48.0834616,
+    "longitude": 14.8039228,
+    "brand": "Mazda;Fiat;BMW;Ducati;Kawasaki;Suzuki;Yamaha"
+  },
+  {
+    "name": "Porsche Austria IBS Stützpunkt Amstetten",
+    "retailer": "porsche_austria_ibs_stutzpunkt_amstetten",
+    "shop": "car_repair",
+    "latitude": 48.081713,
+    "longitude": 14.8046004
+  }
+]

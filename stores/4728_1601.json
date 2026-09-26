@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Auto Proyer",
+    "retailer": "auto_proyer",
+    "shop": "car_repair",
+    "latitude": 47.2801516,
+    "longitude": 16.0117616
+  },
+  {
+    "name": "Car",
+    "retailer": "shop_car",
+    "shop": "car",
+    "latitude": 47.2814206,
+    "longitude": 16.0136775
+  },
+  {
+    "name": "Doczekal",
+    "retailer": "opel_suzuki",
+    "shop": "car",
+    "latitude": 47.2816319,
+    "longitude": 16.0151696,
+    "brand": "Opel;Suzuki"
+  },
+  {
+    "name": "Erro Moto",
+    "retailer": "aprilia_suzuki_vespa",
+    "shop": "motorcycle",
+    "latitude": 47.2813601,
+    "longitude": 16.013173,
+    "brand": "Aprilia;Suzuki;Vespa"
+  },
+  {
+    "name": "OBI",
+    "retailer": "obi",
+    "shop": "doityourself",
+    "latitude": 47.281655,
+    "longitude": 16.016868,
+    "brand": "OBI"
+  },
+  {
+    "name": "Teubl Baustoffe",
+    "retailer": "teubl_baustoffe",
+    "shop": "doityourself",
+    "latitude": 47.2815148,
+    "longitude": 16.018109
+  }
+]

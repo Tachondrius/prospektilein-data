@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Auto Wäger",
+    "retailer": "auto_wager",
+    "shop": "car",
+    "latitude": 47.2640707,
+    "longitude": 9.6276085
+  },
+  {
+    "name": "Autohaus Rohrer",
+    "retailer": "fiat_alfa_romeo_jeep_maserati_lancia_abarth",
+    "shop": "car",
+    "latitude": 47.2655054,
+    "longitude": 9.6294796,
+    "brand": "Fiat;Alfa Romeo;Jeep;Maserati;Lancia;Abarth"
+  },
+  {
+    "name": "Harley-Davidson Vorarlberg",
+    "retailer": "harley_davidson",
+    "shop": "motorcycle",
+    "latitude": 47.2652265,
+    "longitude": 9.6289689,
+    "brand": "Harley-Davidson"
+  },
+  {
+    "name": "Zangerlhof",
+    "retailer": "zangerlhof",
+    "shop": "farm",
+    "latitude": 47.2628778,
+    "longitude": 9.6264336
+  }
+]

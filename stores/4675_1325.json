@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Car Repair",
+    "retailer": "shop_car_repair",
+    "shop": "car_repair",
+    "latitude": 46.7588135,
+    "longitude": 13.251513
+  },
+  {
+    "name": "Elektro Hartlieb",
+    "retailer": "elektro_hartlieb",
+    "shop": "electrical",
+    "latitude": 46.7579207,
+    "longitude": 13.2508809
+  },
+  {
+    "name": "Ford Filzmaier",
+    "retailer": "ford",
+    "shop": "car",
+    "latitude": 46.7574823,
+    "longitude": 13.2525532,
+    "brand": "Ford"
+  },
+  {
+    "name": "KFZ Kolbitsch",
+    "retailer": "kfz_kolbitsch",
+    "shop": "car",
+    "latitude": 46.7587154,
+    "longitude": 13.2516599
+  },
+  {
+    "name": "Obereder Motos",
+    "retailer": "obereder_motos",
+    "shop": "motorcycle",
+    "latitude": 46.751826,
+    "longitude": 13.2524661
+  },
+  {
+    "name": "SPAR",
+    "retailer": "spar",
+    "shop": "supermarket",
+    "latitude": 46.7515208,
+    "longitude": 13.250507,
+    "brand": "Spar"
+  }
+]

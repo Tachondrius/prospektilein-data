@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Bicycle",
+    "retailer": "shop_bicycle",
+    "shop": "bicycle",
+    "latitude": 47.165002,
+    "longitude": 11.8560577
+  },
+  {
+    "name": "Eisenwarenhandlung Eisenbacher",
+    "retailer": "eisenwarenhandlung_eisenbacher",
+    "shop": "hardware",
+    "latitude": 47.1650746,
+    "longitude": 11.8560857
+  },
+  {
+    "name": "Getränke Eder",
+    "retailer": "getranke_eder",
+    "shop": "beverages",
+    "latitude": 47.1610097,
+    "longitude": 11.8510423
+  },
+  {
+    "name": "Gärtnerei Kröll",
+    "retailer": "gartnerei_kroll",
+    "shop": "garden_centre",
+    "latitude": 47.1663715,
+    "longitude": 11.8575876
+  },
+  {
+    "name": "Knauer Möbelhandwerk",
+    "retailer": "knauer_mobelhandwerk",
+    "shop": "furniture",
+    "latitude": 47.1616567,
+    "longitude": 11.8515075
+  },
+  {
+    "name": "Luxner",
+    "retailer": "skoda",
+    "shop": "car",
+    "latitude": 47.1648053,
+    "longitude": 11.8558412,
+    "brand": "Škoda"
+  },
+  {
+    "name": "Mayrhofen",
+    "retailer": "ford",
+    "shop": "car",
+    "latitude": 47.160671,
+    "longitude": 11.8507352,
+    "brand": "Ford"
+  },
+  {
+    "name": "Raumausstatter Franz Fischer",
+    "retailer": "raumausstatter_franz_fischer",
+    "shop": "interior_decoration",
+    "latitude": 47.1638932,
+    "longitude": 11.8550956
+  },
+  {
+    "name": "Spar",
+    "retailer": "spar",
+    "shop": "supermarket",
+    "latitude": 47.1644334,
+    "longitude": 11.8552314,
+    "brand": "Spar"
+  },
+  {
+    "name": "Spieth & Wensky",
+    "retailer": "spieth_und_wensky",
+    "shop": "clothes",
+    "latitude": 47.1617923,
+    "longitude": 11.8597224,
+    "brand": "Spieth & Wensky"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Billa",
+    "retailer": "billa",
+    "shop": "supermarket",
+    "latitude": 47.4114675,
+    "longitude": 13.7708822,
+    "brand": "Billa"
+  },
+  {
+    "name": "Meissnitzer Autoverleih",
+    "retailer": "meissnitzer_autoverleih",
+    "shop": "car",
+    "latitude": 47.4115561,
+    "longitude": 13.7747895
+  },
+  {
+    "name": "Meissnitzer Werkstatt",
+    "retailer": "meissnitzer_werkstatt",
+    "shop": "car_repair",
+    "latitude": 47.4113301,
+    "longitude": 13.7742682
+  },
+  {
+    "name": "Souveniershop Geschenkestadl",
+    "retailer": "souveniershop_geschenkestadl",
+    "shop": "convenience",
+    "latitude": 47.4111069,
+    "longitude": 13.7740506
+  },
+  {
+    "name": "Sport Hauser Kaibling",
+    "retailer": "sport_hauser_kaibling",
+    "shop": "sports",
+    "latitude": 47.4113771,
+    "longitude": 13.7787658
+  },
+  {
+    "name": "Ticket",
+    "retailer": "shop_ticket",
+    "shop": "ticket",
+    "latitude": 47.411609,
+    "longitude": 13.7791384
+  }
+]

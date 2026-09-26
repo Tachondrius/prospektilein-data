@@ -1,8 +1,139 @@
 [
   {
-    "name": "BILLA Himberg",
+    "name": "Beautiffal",
+    "retailer": "beautiffal",
+    "shop": "hairdresser",
+    "latitude": 48.0825553,
+    "longitude": 16.4388037
+  },
+  {
+    "name": "Bestattung Hanser",
+    "retailer": "bestattung_hanser",
+    "shop": "funeral_directors",
+    "latitude": 48.0831268,
+    "longitude": 16.439705
+  },
+  {
+    "name": "Billa",
     "retailer": "billa",
-    "latitude": 48.085490,
-    "longitude": 16.436454
+    "shop": "supermarket",
+    "latitude": 48.0854751,
+    "longitude": 16.4369521,
+    "brand": "Billa"
+  },
+  {
+    "name": "Bipa",
+    "retailer": "bipa",
+    "shop": "chemist",
+    "latitude": 48.0863843,
+    "longitude": 16.435039,
+    "brand": "Bipa"
+  },
+  {
+    "name": "Café Brotkörberl",
+    "retailer": "cafe_brotkorberl",
+    "shop": "bakery",
+    "latitude": 48.0825302,
+    "longitude": 16.439881
+  },
+  {
+    "name": "Frisiersalon Fürst",
+    "retailer": "frisiersalon_furst",
+    "shop": "hairdresser",
+    "latitude": 48.0839896,
+    "longitude": 16.4366299
+  },
+  {
+    "name": "Lindner Autobedarf",
+    "retailer": "lindner_autobedarf",
+    "shop": "car_parts",
+    "latitude": 48.0848794,
+    "longitude": 16.4398525
+  },
+  {
+    "name": "Musser",
+    "retailer": "musser",
+    "shop": "watches",
+    "latitude": 48.0822614,
+    "longitude": 16.439738
+  },
+  {
+    "name": "Nit´s Massage",
+    "retailer": "nit_s_massage",
+    "shop": "massage",
+    "latitude": 48.0813098,
+    "longitude": 16.4398358
+  },
+  {
+    "name": "Optician",
+    "retailer": "shop_optician",
+    "shop": "optician",
+    "latitude": 48.0819885,
+    "longitude": 16.4393156
+  },
+  {
+    "name": "PENNY",
+    "retailer": "penny",
+    "shop": "supermarket",
+    "latitude": 48.0863651,
+    "longitude": 16.4347799,
+    "brand": "PENNY"
+  },
+  {
+    "name": "Rupert Seethaler",
+    "retailer": "rupert_seethaler",
+    "shop": "butcher",
+    "latitude": 48.0828753,
+    "longitude": 16.4396257
+  },
+  {
+    "name": "Salon Inge",
+    "retailer": "salon_inge",
+    "shop": "hairdresser",
+    "latitude": 48.0838505,
+    "longitude": 16.4394775
+  },
+  {
+    "name": "Sockenbertl",
+    "retailer": "sockenbertl",
+    "shop": "clothes",
+    "latitude": 48.0837399,
+    "longitude": 16.4395085
+  },
+  {
+    "name": "Star Friseur",
+    "retailer": "star_friseur",
+    "shop": "hairdresser",
+    "latitude": 48.082523,
+    "longitude": 16.4392349
+  },
+  {
+    "name": "Szihn",
+    "retailer": "szihn",
+    "shop": "bakery",
+    "latitude": 48.0841467,
+    "longitude": 16.4394691
+  },
+  {
+    "name": "Tabaktrafik",
+    "retailer": "tabaktrafik",
+    "shop": "tobacco",
+    "latitude": 48.0827386,
+    "longitude": 16.4392945,
+    "brand": "Tabaktrafik"
+  },
+  {
+    "name": "Textilien Nicole",
+    "retailer": "textilien_nicole",
+    "shop": "sewing",
+    "latitude": 48.0840024,
+    "longitude": 16.4388951
+  },
+  {
+    "name": "Waldbad",
+    "retailer": "waldbad",
+    "shop": "ticket",
+    "latitude": 48.0801924,
+    "longitude": 16.4328756
   }
 ]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Buchhandlung Alexowsky",
+    "retailer": "buchhandlung_alexowsky",
+    "shop": "books",
+    "latitude": 48.7075925,
+    "longitude": 16.0759421
+  },
+  {
+    "name": "Druck Hofer Filiale Haugsdorf",
+    "retailer": "druck_hofer_filiale_haugsdorf",
+    "shop": "books",
+    "latitude": 48.7082391,
+    "longitude": 16.07632
+  },
+  {
+    "name": "Spar",
+    "retailer": "spar",
+    "shop": "supermarket",
+    "latitude": 48.7074933,
+    "longitude": 16.0758417,
+    "brand": "Spar"
+  },
+  {
+    "name": "Weinhandlung Walter Schicha",
+    "retailer": "weinhandlung_walter_schicha",
+    "shop": "alcohol",
+    "latitude": 48.7061516,
+    "longitude": 16.0717654
+  }
+]

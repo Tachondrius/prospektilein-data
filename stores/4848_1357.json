@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Bäckerei Krenn",
+    "retailer": "backerei_krenn",
+    "shop": "bakery",
+    "latitude": 48.4850298,
+    "longitude": 13.5703705
+  },
+  {
+    "name": "Car Repair",
+    "retailer": "shop_car_repair",
+    "shop": "car_repair",
+    "latitude": 48.4845272,
+    "longitude": 13.5723161
+  },
+  {
+    "name": "Land und Technik",
+    "retailer": "land_und_technik",
+    "shop": "hardware",
+    "latitude": 48.4846769,
+    "longitude": 13.5734587
+  },
+  {
+    "name": "Lichtenauer",
+    "retailer": "fiat_hyundai",
+    "shop": "car_repair",
+    "latitude": 48.4845065,
+    "longitude": 13.571968,
+    "brand": "Fiat;Hyundai"
+  },
+  {
+    "name": "Lichtenauer",
+    "retailer": "fiat_hyundai",
+    "shop": "car",
+    "latitude": 48.4851622,
+    "longitude": 13.572915,
+    "brand": "Fiat;Hyundai"
+  }
+]

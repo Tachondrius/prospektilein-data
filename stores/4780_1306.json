@@ -1,0 +1,349 @@
+[
+  {
+    "name": "24 Stunden Kiosk",
+    "retailer": "24_stunden_kiosk",
+    "shop": "kiosk",
+    "latitude": 47.8028636,
+    "longitude": 13.0674119
+  },
+  {
+    "name": "Action",
+    "retailer": "action",
+    "shop": "variety_store",
+    "latitude": 47.8086188,
+    "longitude": 13.064529,
+    "brand": "Action"
+  },
+  {
+    "name": "Auto-KFZ Pfandleihe",
+    "retailer": "auto_kfz_pfandleihe",
+    "shop": "pawnbroker",
+    "latitude": 47.8086488,
+    "longitude": 13.0660022
+  },
+  {
+    "name": "Bauhaus",
+    "retailer": "bauhaus",
+    "shop": "doityourself",
+    "latitude": 47.8099937,
+    "longitude": 13.0602611,
+    "brand": "Bauhaus"
+  },
+  {
+    "name": "Beauty Salon Christine",
+    "retailer": "beauty_salon_christine",
+    "shop": "beauty",
+    "latitude": 47.803236,
+    "longitude": 13.0652922
+  },
+  {
+    "name": "Bergspezl Salzburg Stadt",
+    "retailer": "bergspezl_salzburg_stadt",
+    "shop": "bicycle",
+    "latitude": 47.802187,
+    "longitude": 13.067385
+  },
+  {
+    "name": "Bergspezl Salzburg Stadt - Werkstatt",
+    "retailer": "bergspezl_salzburg_stadt_werkstatt",
+    "shop": "bicycle",
+    "latitude": 47.8022581,
+    "longitude": 13.067236
+  },
+  {
+    "name": "Billa",
+    "retailer": "billa",
+    "shop": "supermarket",
+    "latitude": 47.8016115,
+    "longitude": 13.0667055,
+    "brand": "Billa"
+  },
+  {
+    "name": "Billa Plus",
+    "retailer": "billa_plus",
+    "shop": "supermarket",
+    "latitude": 47.8082624,
+    "longitude": 13.0639866,
+    "brand": "Billa Plus"
+  },
+  {
+    "name": "Bipa",
+    "retailer": "bipa",
+    "shop": "chemist",
+    "latitude": 47.8080885,
+    "longitude": 13.0664631,
+    "brand": "Bipa"
+  },
+  {
+    "name": "Buchsteiner Wallmann",
+    "retailer": "buchsteiner_wallmann",
+    "shop": "funeral_directors",
+    "latitude": 47.808771,
+    "longitude": 13.0659988
+  },
+  {
+    "name": "Bäckerei Pföß - Parsch",
+    "retailer": "backerei_pfo_parsch",
+    "shop": "bakery",
+    "latitude": 47.8008692,
+    "longitude": 13.0653506
+  },
+  {
+    "name": "Bäckerei und Konditorei Flöckner",
+    "retailer": "backerei_und_konditorei_flockner",
+    "shop": "bakery",
+    "latitude": 47.801571,
+    "longitude": 13.0677186
+  },
+  {
+    "name": "Carglass",
+    "retailer": "carglass",
+    "shop": "car_repair",
+    "latitude": 47.8077612,
+    "longitude": 13.0658185,
+    "brand": "Carglass"
+  },
+  {
+    "name": "Deichmann",
+    "retailer": "deichmann",
+    "shop": "shoes",
+    "latitude": 47.8084303,
+    "longitude": 13.0643364,
+    "brand": "Deichmann"
+  },
+  {
+    "name": "dm",
+    "retailer": "dm",
+    "shop": "chemist",
+    "latitude": 47.8084013,
+    "longitude": 13.0651791,
+    "brand": "dm"
+  },
+  {
+    "name": "Doll - Kunstgärtnerei",
+    "retailer": "doll_kunstgartnerei",
+    "shop": "florist",
+    "latitude": 47.8014845,
+    "longitude": 13.0677883
+  },
+  {
+    "name": "E-Kiosk 24",
+    "retailer": "e_kiosk_24",
+    "shop": "kiosk",
+    "latitude": 47.8010219,
+    "longitude": 13.0656488
+  },
+  {
+    "name": "Ernsting's family",
+    "retailer": "ernsting_s_family",
+    "shop": "clothes",
+    "latitude": 47.8080955,
+    "longitude": 13.0642815,
+    "brand": "Ernsting's family"
+  },
+  {
+    "name": "Fightgear Sport GmbH",
+    "retailer": "fightgear_sport_gmbh",
+    "shop": "sports",
+    "latitude": 47.80813,
+    "longitude": 13.0646532
+  },
+  {
+    "name": "Gerd Singer BikeBank",
+    "retailer": "gerd_singer_bikebank",
+    "shop": "car",
+    "latitude": 47.8015361,
+    "longitude": 13.0665874
+  },
+  {
+    "name": "Hairricane Hairstyle",
+    "retailer": "hairricane_hairstyle",
+    "shop": "hairdresser",
+    "latitude": 47.8067124,
+    "longitude": 13.0658884
+  },
+  {
+    "name": "Headwork Salzburg",
+    "retailer": "headwork_salzburg",
+    "shop": "hairdresser",
+    "latitude": 47.8012698,
+    "longitude": 13.0661213
+  },
+  {
+    "name": "Herz Teehaus",
+    "retailer": "herz_teehaus",
+    "shop": "tea",
+    "latitude": 47.8081358,
+    "longitude": 13.0650029
+  },
+  {
+    "name": "Hofer",
+    "retailer": "hofer",
+    "shop": "supermarket",
+    "latitude": 47.8074785,
+    "longitude": 13.0669972,
+    "brand": "Hofer"
+  },
+  {
+    "name": "JYSK",
+    "retailer": "jysk",
+    "shop": "furniture",
+    "latitude": 47.8099195,
+    "longitude": 13.0626293,
+    "brand": "JYSK"
+  },
+  {
+    "name": "Klipp",
+    "retailer": "klipp",
+    "shop": "hairdresser",
+    "latitude": 47.8082133,
+    "longitude": 13.0647336,
+    "brand": "Klipp"
+  },
+  {
+    "name": "Libro",
+    "retailer": "libro",
+    "shop": "books",
+    "latitude": 47.808672,
+    "longitude": 13.0651594,
+    "brand": "Libro"
+  },
+  {
+    "name": "Max",
+    "retailer": "max",
+    "shop": "clothes",
+    "latitude": 47.8071384,
+    "longitude": 13.0659284,
+    "brand": "Max"
+  },
+  {
+    "name": "MIDIA Schneiderei und Reinigung",
+    "retailer": "midia_schneiderei_und_reinigung",
+    "shop": "tailor",
+    "latitude": 47.8081507,
+    "longitude": 13.0645123
+  },
+  {
+    "name": "Mirabell-Counde´",
+    "retailer": "mirabell_counde",
+    "shop": "laundry",
+    "latitude": 47.8014323,
+    "longitude": 13.0678463
+  },
+  {
+    "name": "NaturApo - Deine Online Apotheke",
+    "retailer": "naturapo_deine_online_apotheke",
+    "shop": "catalogue",
+    "latitude": 47.8017338,
+    "longitude": 13.0675581
+  },
+  {
+    "name": "Niedermayer Neues Wohnen GmbH",
+    "retailer": "niedermayer_neues_wohnen_gmbh",
+    "shop": "furniture",
+    "latitude": 47.8064805,
+    "longitude": 13.0662684
+  },
+  {
+    "name": "P.MAX Maßmöbel",
+    "retailer": "p_max_mamobel",
+    "shop": "furniture",
+    "latitude": 47.8093021,
+    "longitude": 13.0608285
+  },
+  {
+    "name": "Pogacnik",
+    "retailer": "pogacnik",
+    "shop": "interior_decoration",
+    "latitude": 47.8084707,
+    "longitude": 13.0660014
+  },
+  {
+    "name": "Posh & Polished",
+    "retailer": "posh_und_polished",
+    "shop": "beauty",
+    "latitude": 47.8086512,
+    "longitude": 13.0644272
+  },
+  {
+    "name": "Rasp",
+    "retailer": "rasp",
+    "shop": "general;wholesale",
+    "latitude": 47.8029512,
+    "longitude": 13.0668588
+  },
+  {
+    "name": "S-Auto-Mobil-Center",
+    "retailer": "s_auto_mobil_center",
+    "shop": "car_repair",
+    "latitude": 47.8059964,
+    "longitude": 13.0655325
+  },
+  {
+    "name": "SchuBua",
+    "retailer": "schubua",
+    "shop": "shoe_repair",
+    "latitude": 47.8094371,
+    "longitude": 13.0615692
+  },
+  {
+    "name": "Slama",
+    "retailer": "slama",
+    "shop": "trade",
+    "latitude": 47.805689,
+    "longitude": 13.0676455
+  },
+  {
+    "name": "Spar",
+    "retailer": "spar",
+    "shop": "supermarket",
+    "latitude": 47.803203,
+    "longitude": 13.0660522,
+    "brand": "Spar"
+  },
+  {
+    "name": "Tabak Trafik",
+    "retailer": "tabak_trafik",
+    "shop": "tobacco",
+    "latitude": 47.802494,
+    "longitude": 13.0664964
+  },
+  {
+    "name": "TEDi",
+    "retailer": "tedi",
+    "shop": "variety_store",
+    "latitude": 47.8086069,
+    "longitude": 13.0647837,
+    "brand": "TEDi"
+  },
+  {
+    "name": "Wash Me",
+    "retailer": "wash_me",
+    "shop": "laundry",
+    "latitude": 47.8073748,
+    "longitude": 13.0668788,
+    "brand": "Wash Me"
+  },
+  {
+    "name": "Würth",
+    "retailer": "wurth",
+    "shop": "hardware",
+    "latitude": 47.8092446,
+    "longitude": 13.0603888,
+    "brand": "Würth"
+  },
+  {
+    "name": "Yeti Ink Tattoo Studio",
+    "retailer": "yeti_ink_tattoo_studio",
+    "shop": "tattoo",
+    "latitude": 47.8066817,
+    "longitude": 13.0658401
+  },
+  {
+    "name": "Zentrum im Berg",
+    "retailer": "zentrum_im_berg",
+    "shop": "mall",
+    "latitude": 47.8083112,
+    "longitude": 13.0644749
+  }
+]

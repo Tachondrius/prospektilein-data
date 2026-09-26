@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Convenience",
+    "retailer": "shop_convenience",
+    "shop": "convenience",
+    "latitude": 48.0487402,
+    "longitude": 14.4308184
+  },
+  {
+    "name": "Hrinkow",
+    "retailer": "hrinkow",
+    "shop": "bicycle",
+    "latitude": 48.0425073,
+    "longitude": 14.4331823
+  },
+  {
+    "name": "Intersport",
+    "retailer": "intersport",
+    "shop": "sports",
+    "latitude": 48.0417369,
+    "longitude": 14.4300003,
+    "brand": "Intersport"
+  },
+  {
+    "name": "Kiosk",
+    "retailer": "shop_kiosk",
+    "shop": "kiosk",
+    "latitude": 48.0463789,
+    "longitude": 14.4385678
+  },
+  {
+    "name": "Mercedes-Benz",
+    "retailer": "mercedes_benz",
+    "shop": "car",
+    "latitude": 48.0424986,
+    "longitude": 14.432862,
+    "brand": "Mercedes-Benz"
+  }
+]

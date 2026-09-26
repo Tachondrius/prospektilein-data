@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Action",
+    "retailer": "action",
+    "shop": "houseware",
+    "latitude": 48.253606,
+    "longitude": 14.2802053
+  },
+  {
+    "name": "Baar",
+    "retailer": "baar",
+    "shop": "beauty",
+    "latitude": 48.2518925,
+    "longitude": 14.2859383
+  },
+  {
+    "name": "BestDrive by Continental",
+    "retailer": "bestdrive_by_continental",
+    "shop": "car_repair",
+    "latitude": 48.2561605,
+    "longitude": 14.2879183
+  },
+  {
+    "name": "Billa",
+    "retailer": "billa",
+    "shop": "supermarket",
+    "latitude": 48.2536232,
+    "longitude": 14.2840174
+  },
+  {
+    "name": "Bipa",
+    "retailer": "bipa",
+    "shop": "chemist",
+    "latitude": 48.2540087,
+    "longitude": 14.2805153
+  },
+  {
+    "name": "Blumen B&B",
+    "retailer": "blumen_b_und_b",
+    "shop": "florist",
+    "latitude": 48.2532346,
+    "longitude": 14.2897844,
+    "brand": "Blumen B&B"
+  },
+  {
+    "name": "Buchvertrieb Klinger",
+    "retailer": "buchvertrieb_klinger",
+    "shop": "books",
+    "latitude": 48.258923,
+    "longitude": 14.2892097
+  },
+  {
+    "name": "DanKüchen",
+    "retailer": "dankuchen",
+    "shop": "kitchen",
+    "latitude": 48.2548021,
+    "longitude": 14.2852168
+  },
+  {
+    "name": "Deichmann",
+    "retailer": "deichmann",
+    "shop": "shoes",
+    "latitude": 48.2563378,
+    "longitude": 14.2868373,
+    "brand": "Deichmann"
+  },
+  {
+    "name": "dm",
+    "retailer": "dm",
+    "shop": "chemist",
+    "latitude": 48.2562336,
+    "longitude": 14.2864898,
+    "brand": "dm"
+  },
+  {
+    "name": "Dr. Phone",
+    "retailer": "dr_phone",
+    "shop": "mobile_phone",
+    "latitude": 48.2561354,
+    "longitude": 14.2862151
+  },
+  {
+    "name": "eBike City",
+    "retailer": "ebike_city",
+    "shop": "bicycle",
+    "latitude": 48.2552133,
+    "longitude": 14.2827327
+  },
+  {
+    "name": "Ernsting’s family",
+    "retailer": "ernstings_family",
+    "shop": "clothes",
+    "latitude": 48.2540338,
+    "longitude": 14.2806177
+  },
+  {
+    "name": "Felgen Wimmer",
+    "retailer": "felgen_wimmer",
+    "shop": "car_repair",
+    "latitude": 48.2547154,
+    "longitude": 14.2800507
+  },
+  {
+    "name": "Fressnapf",
+    "retailer": "fressnapf",
+    "shop": "pet",
+    "latitude": 48.2537407,
+    "longitude": 14.2807541
+  },
+  {
+    "name": "Friseur Volker",
+    "retailer": "friseur_volker",
+    "shop": "hairdresser",
+    "latitude": 48.2509695,
+    "longitude": 14.2882832
+  },
+  {
+    "name": "Günther Buck",
+    "retailer": "gunther_buck",
+    "shop": "jewelry",
+    "latitude": 48.2537503,
+    "longitude": 14.2803671
+  },
+  {
+    "name": "Haubis Backstube & Café",
+    "retailer": "haubis_backstube_und_cafe",
+    "shop": "bakery",
+    "latitude": 48.2520454,
+    "longitude": 14.2864611
+  },
+  {
+    "name": "Infra Center",
+    "retailer": "infra_center",
+    "shop": "mall",
+    "latitude": 48.2538847,
+    "longitude": 14.2802956
+  },
+  {
+    "name": "Interspar",
+    "retailer": "interspar",
+    "shop": "supermarket",
+    "latitude": 48.2560188,
+    "longitude": 14.2855328,
+    "brand": "Interspar"
+  },
+  {
+    "name": "Interspar-Einkaufszentrum Linz-Wegscheid",
+    "retailer": "interspar",
+    "shop": "mall",
+    "latitude": 48.2558916,
+    "longitude": 14.2863855
+  },
+  {
+    "name": "KiK",
+    "retailer": "kik",
+    "shop": "clothes",
+    "latitude": 48.2563922,
+    "longitude": 14.2870022,
+    "brand": "KiK"
+  },
+  {
+    "name": "Klipp",
+    "retailer": "klipp",
+    "shop": "hairdresser",
+    "latitude": 48.256528,
+    "longitude": 14.2860429
+  },
+  {
+    "name": "Libro",
+    "retailer": "libro",
+    "shop": "books;stationery",
+    "latitude": 48.2538947,
+    "longitude": 14.2800506
+  },
+  {
+    "name": "Licht Lumenform",
+    "retailer": "licht_lumenform",
+    "shop": "lighting",
+    "latitude": 48.258917,
+    "longitude": 14.2895395
+  },
+  {
+    "name": "Lidl",
+    "retailer": "lidl",
+    "shop": "supermarket",
+    "latitude": 48.2544905,
+    "longitude": 14.2833095,
+    "brand": "Lidl"
+  },
+  {
+    "name": "Matratzen Concord",
+    "retailer": "matratzen_concord",
+    "shop": "bed",
+    "latitude": 48.2534833,
+    "longitude": 14.2882258,
+    "brand": "Matratzen Concord"
+  },
+  {
+    "name": "Mistlbacher",
+    "retailer": "mistlbacher",
+    "shop": "kiosk",
+    "latitude": 48.2559828,
+    "longitude": 14.2860608
+  },
+  {
+    "name": "Mode Italia",
+    "retailer": "mode_italia",
+    "shop": "clothes",
+    "latitude": 48.256441,
+    "longitude": 14.2863338
+  },
+  {
+    "name": "My Flowers",
+    "retailer": "my_flowers",
+    "shop": "florist",
+    "latitude": 48.2540778,
+    "longitude": 14.2807969
+  },
+  {
+    "name": "OROS Delikatessen",
+    "retailer": "oros_delikatessen",
+    "shop": "supermarket",
+    "latitude": 48.2539771,
+    "longitude": 14.2803863
+  },
+  {
+    "name": "sabtours",
+    "retailer": "sabtours",
+    "shop": "travel_agency",
+    "latitude": 48.2563583,
+    "longitude": 14.2860449
+  },
+  {
+    "name": "Tabak Trafik",
+    "retailer": "tabak_trafik",
+    "shop": "kiosk",
+    "latitude": 48.2521364,
+    "longitude": 14.2869063
+  },
+  {
+    "name": "Tabaktrafik",
+    "retailer": "tabaktrafik",
+    "shop": "tobacco",
+    "latitude": 48.2537824,
+    "longitude": 14.2804981,
+    "brand": "Tabaktrafik"
+  },
+  {
+    "name": "Tabaktrafik",
+    "retailer": "tabaktrafik",
+    "shop": "tobacco",
+    "latitude": 48.2562164,
+    "longitude": 14.2860587,
+    "brand": "Tabaktrafik"
+  },
+  {
+    "name": "TEDi",
+    "retailer": "tedi",
+    "shop": "houseware",
+    "latitude": 48.2537065,
+    "longitude": 14.2806149
+  },
+  {
+    "name": "TEDi",
+    "retailer": "tedi",
+    "shop": "variety_store",
+    "latitude": 48.2562842,
+    "longitude": 14.286675,
+    "brand": "TEDi"
+  },
+  {
+    "name": "TopStuck",
+    "retailer": "topstuck",
+    "shop": "interior_decoration",
+    "latitude": 48.2542491,
+    "longitude": 14.2850263
+  },
+  {
+    "name": "Walter Aichlseder",
+    "retailer": "walter_aichlseder",
+    "shop": "bicycle",
+    "latitude": 48.2544224,
+    "longitude": 14.2802194
+  },
+  {
+    "name": "Zellinger",
+    "retailer": "zellinger",
+    "shop": "deli",
+    "latitude": 48.253829,
+    "longitude": 14.280688
+  }
+]

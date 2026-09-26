@@ -1,0 +1,85 @@
+[
+  {
+    "name": "ACTION",
+    "retailer": "action",
+    "shop": "general",
+    "latitude": 48.5742523,
+    "longitude": 16.0753252
+  },
+  {
+    "name": "Autohaus Eissner GmbH",
+    "retailer": "autohaus_eissner_gmbh",
+    "shop": "car_repair",
+    "latitude": 48.5797457,
+    "longitude": 16.0761152
+  },
+  {
+    "name": "Gantner",
+    "retailer": "gantner",
+    "shop": "butcher",
+    "latitude": 48.5788215,
+    "longitude": 16.0737063
+  },
+  {
+    "name": "Hager",
+    "retailer": "mazda",
+    "shop": "car",
+    "latitude": 48.5737114,
+    "longitude": 16.0752201,
+    "brand": "Mazda"
+  },
+  {
+    "name": "Hager",
+    "retailer": "renault_dacia",
+    "shop": "car",
+    "latitude": 48.573825,
+    "longitude": 16.0758316,
+    "brand": "Renault; Dacia"
+  },
+  {
+    "name": "Jana",
+    "retailer": "jana",
+    "shop": "coffee",
+    "latitude": 48.5761148,
+    "longitude": 16.0740841
+  },
+  {
+    "name": "Mayer",
+    "retailer": "opel_suzuki_chevrolet",
+    "shop": "car",
+    "latitude": 48.5752802,
+    "longitude": 16.0745872,
+    "brand": "Opel; Suzuki; Chevrolet"
+  },
+  {
+    "name": "PENNY",
+    "retailer": "penny",
+    "shop": "supermarket",
+    "latitude": 48.5749535,
+    "longitude": 16.0751231,
+    "brand": "Penny"
+  },
+  {
+    "name": "STOFFCITY",
+    "retailer": "stoffcity",
+    "shop": "clothes",
+    "latitude": 48.5744241,
+    "longitude": 16.0752673
+  },
+  {
+    "name": "Weber",
+    "retailer": "mercedes_mitsubishi",
+    "shop": "car",
+    "latitude": 48.5770424,
+    "longitude": 16.0738611,
+    "brand": "Mercedes; Mitsubishi"
+  },
+  {
+    "name": "WÜRTH Werkzeug",
+    "retailer": "wurth",
+    "shop": "hardware",
+    "latitude": 48.5745943,
+    "longitude": 16.0752028,
+    "brand": "Würth"
+  }
+]

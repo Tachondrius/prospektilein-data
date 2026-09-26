@@ -1,0 +1,53 @@
+[
+  {
+    "name": "23SK Motors",
+    "retailer": "23sk_motors",
+    "shop": "car_repair",
+    "latitude": 48.1381853,
+    "longitude": 16.3366987
+  },
+  {
+    "name": "Car",
+    "retailer": "shop_car",
+    "shop": "car",
+    "latitude": 48.137068,
+    "longitude": 16.335297
+  },
+  {
+    "name": "Car Repair",
+    "retailer": "shop_car_repair",
+    "shop": "car_repair",
+    "latitude": 48.1397477,
+    "longitude": 16.3345194
+  },
+  {
+    "name": "Forstinger",
+    "retailer": "forstinger",
+    "shop": "car_parts",
+    "latitude": 48.1399103,
+    "longitude": 16.3347265
+  },
+  {
+    "name": "Hagleitner",
+    "retailer": "hagleitner",
+    "shop": "kitchen",
+    "latitude": 48.1354509,
+    "longitude": 16.3387117
+  },
+  {
+    "name": "Toyota",
+    "retailer": "toyota",
+    "shop": "car_repair",
+    "latitude": 48.1378794,
+    "longitude": 16.3355323,
+    "brand": "Toyota"
+  },
+  {
+    "name": "Toyota Frey Inzersdorf",
+    "retailer": "toyota",
+    "shop": "car",
+    "latitude": 48.1373949,
+    "longitude": 16.3353208,
+    "brand": "Toyota"
+  }
+]

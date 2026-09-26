@@ -1,0 +1,541 @@
+[
+  {
+    "name": "A1",
+    "retailer": "a1",
+    "shop": "telecommunication",
+    "latitude": 47.2869918,
+    "longitude": 16.1876795,
+    "brand": "A1"
+  },
+  {
+    "name": "Action",
+    "retailer": "action",
+    "shop": "variety_store",
+    "latitude": 47.2827168,
+    "longitude": 16.1883183,
+    "brand": "Action"
+  },
+  {
+    "name": "Bijou Brigitte",
+    "retailer": "bijou_brigitte",
+    "shop": "jewelry",
+    "latitude": 47.2874043,
+    "longitude": 16.18762,
+    "brand": "Bijou Brigitte"
+  },
+  {
+    "name": "Billa",
+    "retailer": "billa",
+    "shop": "supermarket",
+    "latitude": 47.2842154,
+    "longitude": 16.1856516,
+    "brand": "Billa"
+  },
+  {
+    "name": "Billa Plus",
+    "retailer": "billa_plus",
+    "shop": "supermarket",
+    "latitude": 47.2848865,
+    "longitude": 16.1879228,
+    "brand": "Billa Plus"
+  },
+  {
+    "name": "Bipa",
+    "retailer": "bipa",
+    "shop": "chemist",
+    "latitude": 47.2842285,
+    "longitude": 16.1852878,
+    "brand": "Bipa"
+  },
+  {
+    "name": "Blue Tomato",
+    "retailer": "blue_tomato",
+    "shop": "clothes",
+    "latitude": 47.2872388,
+    "longitude": 16.186527,
+    "brand": "Blue Tomato"
+  },
+  {
+    "name": "Blumen Helena",
+    "retailer": "blumen_helena",
+    "shop": "florist",
+    "latitude": 47.2875251,
+    "longitude": 16.1865468
+  },
+  {
+    "name": "BONITA",
+    "retailer": "bonita",
+    "shop": "clothes",
+    "latitude": 47.2871291,
+    "longitude": 16.1872337,
+    "brand": "BONITA"
+  },
+  {
+    "name": "C&A",
+    "retailer": "c_and_a",
+    "shop": "clothes",
+    "latitude": 47.2860942,
+    "longitude": 16.1884923,
+    "brand": "C&A"
+  },
+  {
+    "name": "comma",
+    "retailer": "comma",
+    "shop": "clothes",
+    "latitude": 47.2871238,
+    "longitude": 16.1869569,
+    "brand": "comma"
+  },
+  {
+    "name": "Das Futterhaus",
+    "retailer": "das_futterhaus",
+    "shop": "pet",
+    "latitude": 47.2832906,
+    "longitude": 16.1892433,
+    "brand": "Das Futterhaus"
+  },
+  {
+    "name": "Deichmann",
+    "retailer": "deichmann",
+    "shop": "shoes",
+    "latitude": 47.2858087,
+    "longitude": 16.1884244,
+    "brand": "Deichmann"
+  },
+  {
+    "name": "dm",
+    "retailer": "dm",
+    "shop": "chemist",
+    "latitude": 47.2854671,
+    "longitude": 16.1842163,
+    "brand": "dm"
+  },
+  {
+    "name": "Drei",
+    "retailer": "drei",
+    "shop": "telecommunication",
+    "latitude": 47.2873034,
+    "longitude": 16.1871405,
+    "brand": "Drei"
+  },
+  {
+    "name": "Einkaufszentrum Oberwart",
+    "retailer": "einkaufszentrum_oberwart",
+    "shop": "mall",
+    "latitude": 47.2869164,
+    "longitude": 16.1872823
+  },
+  {
+    "name": "EO Park",
+    "retailer": "eo_park",
+    "shop": "mall",
+    "latitude": 47.2852976,
+    "longitude": 16.1844893
+  },
+  {
+    "name": "Fressnapf",
+    "retailer": "fressnapf",
+    "shop": "pet",
+    "latitude": 47.2852261,
+    "longitude": 16.1844053,
+    "brand": "Fressnapf"
+  },
+  {
+    "name": "Fussl",
+    "retailer": "fussl",
+    "shop": "clothes",
+    "latitude": 47.285674,
+    "longitude": 16.1884179,
+    "brand": "Fussl"
+  },
+  {
+    "name": "H&M",
+    "retailer": "h_and_m",
+    "shop": "clothes",
+    "latitude": 47.2874484,
+    "longitude": 16.1874384,
+    "brand": "H&M"
+  },
+  {
+    "name": "Hervis",
+    "retailer": "hervis",
+    "shop": "sports",
+    "latitude": 47.2850546,
+    "longitude": 16.184538,
+    "brand": "Hervis"
+  },
+  {
+    "name": "Hofer",
+    "retailer": "hofer",
+    "shop": "supermarket",
+    "latitude": 47.2856521,
+    "longitude": 16.1892057,
+    "brand": "Hofer"
+  },
+  {
+    "name": "Huber Shop",
+    "retailer": "huber_shop",
+    "shop": "clothes",
+    "latitude": 47.286589,
+    "longitude": 16.1883254,
+    "brand": "Huber Shop"
+  },
+  {
+    "name": "Humanic",
+    "retailer": "humanic",
+    "shop": "shoes",
+    "latitude": 47.2862877,
+    "longitude": 16.1884918,
+    "brand": "Humanic"
+  },
+  {
+    "name": "Hunkemöller",
+    "retailer": "hunkemoller",
+    "shop": "clothes",
+    "latitude": 47.2859378,
+    "longitude": 16.1884502,
+    "brand": "Hunkemöller"
+  },
+  {
+    "name": "INKA",
+    "retailer": "inka",
+    "shop": "jewelry",
+    "latitude": 47.2853637,
+    "longitude": 16.1843088
+  },
+  {
+    "name": "Interspar",
+    "retailer": "interspar",
+    "shop": "supermarket",
+    "latitude": 47.2859725,
+    "longitude": 16.1838217,
+    "brand": "Interspar"
+  },
+  {
+    "name": "Intersport",
+    "retailer": "intersport",
+    "shop": "sports",
+    "latitude": 47.2852006,
+    "longitude": 16.1853747,
+    "brand": "Intersport"
+  },
+  {
+    "name": "Jack & Jones",
+    "retailer": "jack_und_jones",
+    "shop": "clothes",
+    "latitude": 47.2871316,
+    "longitude": 16.1871484,
+    "brand": "Jack & Jones"
+  },
+  {
+    "name": "Juwelier Kröpfl",
+    "retailer": "juwelier_kropfl",
+    "shop": "jewelry",
+    "latitude": 47.28709,
+    "longitude": 16.1874175
+  },
+  {
+    "name": "K&Ö",
+    "retailer": "k_und_o",
+    "shop": "clothes",
+    "latitude": 47.2875107,
+    "longitude": 16.1872052,
+    "brand": "K&Ö"
+  },
+  {
+    "name": "Kettner",
+    "retailer": "kettner",
+    "shop": "hunting",
+    "latitude": 47.2835448,
+    "longitude": 16.1879918
+  },
+  {
+    "name": "KiK",
+    "retailer": "kik",
+    "shop": "clothes",
+    "latitude": 47.2834785,
+    "longitude": 16.1890471,
+    "brand": "KiK"
+  },
+  {
+    "name": "Klier",
+    "retailer": "klier",
+    "shop": "hairdresser",
+    "latitude": 47.2833676,
+    "longitude": 16.1892202,
+    "brand": "Klier"
+  },
+  {
+    "name": "Klipp",
+    "retailer": "klipp",
+    "shop": "hairdresser",
+    "latitude": 47.287186,
+    "longitude": 16.1871505,
+    "brand": "Klipp"
+  },
+  {
+    "name": "Kuch Tee & Reformhaus",
+    "retailer": "kuch_tee_und_reformhaus",
+    "shop": "tea",
+    "latitude": 47.2871031,
+    "longitude": 16.1875597
+  },
+  {
+    "name": "Käspeck",
+    "retailer": "kaspeck",
+    "shop": "butcher",
+    "latitude": 47.287391,
+    "longitude": 16.1868837
+  },
+  {
+    "name": "Libro",
+    "retailer": "libro",
+    "shop": "books",
+    "latitude": 47.2873598,
+    "longitude": 16.1877016,
+    "brand": "Libro"
+  },
+  {
+    "name": "Mall",
+    "retailer": "shop_mall",
+    "shop": "mall",
+    "latitude": 47.283346,
+    "longitude": 16.1891934
+  },
+  {
+    "name": "Marionnaud",
+    "retailer": "marionnaud",
+    "shop": "perfumery",
+    "latitude": 47.2870419,
+    "longitude": 16.1875704,
+    "brand": "Marionnaud"
+  },
+  {
+    "name": "MCI HandyPatner",
+    "retailer": "mci_handypatner",
+    "shop": "mobile_phone",
+    "latitude": 47.28511,
+    "longitude": 16.1850642
+  },
+  {
+    "name": "MediaMarkt",
+    "retailer": "mediamarkt",
+    "shop": "electronics",
+    "latitude": 47.287211,
+    "longitude": 16.1863945,
+    "brand": "MediaMarkt"
+  },
+  {
+    "name": "Mercedes Schranz",
+    "retailer": "mercedes_benz",
+    "shop": "car",
+    "latitude": 47.2841748,
+    "longitude": 16.1887716,
+    "brand": "Mercedes-Benz"
+  },
+  {
+    "name": "Müller",
+    "retailer": "mueller",
+    "shop": "chemist",
+    "latitude": 47.287295,
+    "longitude": 16.1878024,
+    "brand": "Müller"
+  },
+  {
+    "name": "Nanu-Nana",
+    "retailer": "nanu_nana",
+    "shop": "gift",
+    "latitude": 47.2871544,
+    "longitude": 16.1864892,
+    "brand": "Nanu-Nana"
+  },
+  {
+    "name": "New Yorker",
+    "retailer": "new_yorker",
+    "shop": "clothes",
+    "latitude": 47.2866966,
+    "longitude": 16.1882667,
+    "brand": "New Yorker"
+  },
+  {
+    "name": "ONLY",
+    "retailer": "only",
+    "shop": "clothes",
+    "latitude": 47.2865193,
+    "longitude": 16.1883768,
+    "brand": "ONLY"
+  },
+  {
+    "name": "Palmers",
+    "retailer": "palmers",
+    "shop": "clothes",
+    "latitude": 47.2870683,
+    "longitude": 16.1874951,
+    "brand": "Palmers"
+  },
+  {
+    "name": "Pearle",
+    "retailer": "pearle",
+    "shop": "optician",
+    "latitude": 47.2871076,
+    "longitude": 16.187326,
+    "brand": "Pearle"
+  },
+  {
+    "name": "reformstark Martin",
+    "retailer": "reformstark_martin",
+    "shop": "health_food",
+    "latitude": 47.2855832,
+    "longitude": 16.1841227,
+    "brand": "reformstark Martin"
+  },
+  {
+    "name": "Restplatzbörse",
+    "retailer": "restplatzborse",
+    "shop": "travel_agency",
+    "latitude": 47.2875612,
+    "longitude": 16.1867095
+  },
+  {
+    "name": "Rituals",
+    "retailer": "rituals",
+    "shop": "cosmetics",
+    "latitude": 47.287112,
+    "longitude": 16.186867,
+    "brand": "Rituals"
+  },
+  {
+    "name": "ROMA",
+    "retailer": "roma",
+    "shop": "hairdresser_supply",
+    "latitude": 47.2874756,
+    "longitude": 16.1866181,
+    "brand": "ROMA"
+  },
+  {
+    "name": "s.Oliver",
+    "retailer": "s_oliver",
+    "shop": "clothes",
+    "latitude": 47.2870674,
+    "longitude": 16.1864678,
+    "brand": "s.Oliver"
+  },
+  {
+    "name": "sehen! wutscher",
+    "retailer": "sehen_wutscher",
+    "shop": "optician",
+    "latitude": 47.2871467,
+    "longitude": 16.1874171
+  },
+  {
+    "name": "shoe4you",
+    "retailer": "shoe4you",
+    "shop": "shoes",
+    "latitude": 47.2869421,
+    "longitude": 16.1881131,
+    "brand": "shoe4you"
+  },
+  {
+    "name": "Snipes",
+    "retailer": "snipes",
+    "shop": "shoes",
+    "latitude": 47.2868092,
+    "longitude": 16.1882063,
+    "brand": "Snipes"
+  },
+  {
+    "name": "Tamaris",
+    "retailer": "tamaris",
+    "shop": "shoes",
+    "latitude": 47.2873647,
+    "longitude": 16.1866214,
+    "brand": "Tamaris"
+  },
+  {
+    "name": "Tchibo",
+    "retailer": "tchibo",
+    "shop": "coffee",
+    "latitude": 47.2872399,
+    "longitude": 16.1878885,
+    "brand": "Tchibo"
+  },
+  {
+    "name": "TEDi",
+    "retailer": "tedi",
+    "shop": "variety_store",
+    "latitude": 47.2834224,
+    "longitude": 16.189199,
+    "brand": "TEDi"
+  },
+  {
+    "name": "TEDi",
+    "retailer": "tedi",
+    "shop": "variety_store",
+    "latitude": 47.285066,
+    "longitude": 16.1849216,
+    "brand": "TEDi"
+  },
+  {
+    "name": "Thalia",
+    "retailer": "thalia",
+    "shop": "books",
+    "latitude": 47.2875304,
+    "longitude": 16.1869281,
+    "brand": "Thalia"
+  },
+  {
+    "name": "Tom Tailor",
+    "retailer": "tom_tailor",
+    "shop": "clothes",
+    "latitude": 47.2869833,
+    "longitude": 16.1864558,
+    "brand": "Tom Tailor"
+  },
+  {
+    "name": "Triumph",
+    "retailer": "triumph",
+    "shop": "clothes",
+    "latitude": 47.2870843,
+    "longitude": 16.1867929,
+    "brand": "Triumph"
+  },
+  {
+    "name": "Vero Moda",
+    "retailer": "vero_moda",
+    "shop": "clothes",
+    "latitude": 47.2873146,
+    "longitude": 16.1865624,
+    "brand": "Vero Moda"
+  },
+  {
+    "name": "Wolf Bäckerei & Konditorei",
+    "retailer": "wolf_backerei_und_konditorei",
+    "shop": "bakery",
+    "latitude": 47.2870338,
+    "longitude": 16.1867232
+  },
+  {
+    "name": "Würth",
+    "retailer": "wurth",
+    "shop": "hardware",
+    "latitude": 47.2825677,
+    "longitude": 16.1838707,
+    "brand": "Würth"
+  },
+  {
+    "name": "zero",
+    "retailer": "zero",
+    "shop": "clothes",
+    "latitude": 47.2874142,
+    "longitude": 16.1866794,
+    "brand": "zero"
+  },
+  {
+    "name": "Zillertaler Trachtenwelt",
+    "retailer": "zillertaler_trachtenwelt",
+    "shop": "clothes",
+    "latitude": 47.2870452,
+    "longitude": 16.1876881,
+    "brand": "Zillertaler Trachtenwelt"
+  }
+]

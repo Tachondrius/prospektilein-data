@@ -1,0 +1,798 @@
+[
+  {
+    "name": "Alexa",
+    "retailer": "alexa",
+    "shop": "clothes",
+    "latitude": 47.0702083,
+    "longitude": 15.4442119
+  },
+  {
+    "name": "Ancient Art",
+    "retailer": "ancient_art",
+    "shop": "art",
+    "latitude": 47.0707746,
+    "longitude": 15.4420197
+  },
+  {
+    "name": "Anita's Trachtengwandl",
+    "retailer": "anita_s_trachtengwandl",
+    "shop": "clothes",
+    "latitude": 47.0725805,
+    "longitude": 15.4403799
+  },
+  {
+    "name": "Antika Geidorf",
+    "retailer": "antika_geidorf",
+    "shop": "antiques",
+    "latitude": 47.0785971,
+    "longitude": 15.4461077
+  },
+  {
+    "name": "Antiquitäten",
+    "retailer": "antiquitaten",
+    "shop": "antiques",
+    "latitude": 47.0724374,
+    "longitude": 15.44005
+  },
+  {
+    "name": "APT am Stadtpark",
+    "retailer": "apt_am_stadtpark",
+    "shop": "massage",
+    "latitude": 47.0704238,
+    "longitude": 15.4483851
+  },
+  {
+    "name": "Baumgartner",
+    "retailer": "baumgartner",
+    "shop": "florist",
+    "latitude": 47.075071,
+    "longitude": 15.4404322
+  },
+  {
+    "name": "be-be Designermode",
+    "retailer": "be_be_designermode",
+    "shop": "clothes",
+    "latitude": 47.0704875,
+    "longitude": 15.4401848
+  },
+  {
+    "name": "Berlinchen-Workshops",
+    "retailer": "berlinchen_workshops",
+    "shop": "art",
+    "latitude": 47.0702534,
+    "longitude": 15.4441928
+  },
+  {
+    "name": "Bijou Brigitte",
+    "retailer": "bijou_brigitte",
+    "shop": "fashion_accessories",
+    "latitude": 47.0700952,
+    "longitude": 15.4400535
+  },
+  {
+    "name": "Bipa",
+    "retailer": "bipa",
+    "shop": "chemist",
+    "latitude": 47.0780078,
+    "longitude": 15.4443501,
+    "brand": "Bipa"
+  },
+  {
+    "name": "Blazek",
+    "retailer": "blazek",
+    "shop": "carpet",
+    "latitude": 47.0719405,
+    "longitude": 15.4498002
+  },
+  {
+    "name": "Blumen Geidorf",
+    "retailer": "blumen_geidorf",
+    "shop": "florist",
+    "latitude": 47.0780685,
+    "longitude": 15.4437658
+  },
+  {
+    "name": "Boutique sFinks",
+    "retailer": "boutique_sfinks",
+    "shop": "clothes",
+    "latitude": 47.0725606,
+    "longitude": 15.4406188
+  },
+  {
+    "name": "Boutique Vogue",
+    "retailer": "boutique_vogue",
+    "shop": "clothes",
+    "latitude": 47.0704022,
+    "longitude": 15.4404379
+  },
+  {
+    "name": "Buchbinderei Folkhard",
+    "retailer": "buchbinderei_folkhard",
+    "shop": "books",
+    "latitude": 47.0710829,
+    "longitude": 15.4410534
+  },
+  {
+    "name": "Burgflorist-Hajek",
+    "retailer": "burgflorist_hajek",
+    "shop": "florist",
+    "latitude": 47.0720801,
+    "longitude": 15.4429991
+  },
+  {
+    "name": "Bücherstube",
+    "retailer": "bucherstube",
+    "shop": "books",
+    "latitude": 47.0709201,
+    "longitude": 15.4405533
+  },
+  {
+    "name": "Casa Michaela",
+    "retailer": "casa_michaela",
+    "shop": "furniture",
+    "latitude": 47.0704023,
+    "longitude": 15.4419635
+  },
+  {
+    "name": "City Nails Studio",
+    "retailer": "city_nails_studio",
+    "shop": "beauty",
+    "latitude": 47.0750797,
+    "longitude": 15.4484201
+  },
+  {
+    "name": "claire's",
+    "retailer": "claire_s",
+    "shop": "fashion_accessories",
+    "latitude": 47.0700415,
+    "longitude": 15.4401225,
+    "brand": "claire's"
+  },
+  {
+    "name": "Clara Licht",
+    "retailer": "clara_licht",
+    "shop": "lighting",
+    "latitude": 47.0701713,
+    "longitude": 15.444582
+  },
+  {
+    "name": "Eckhards Confiserie",
+    "retailer": "eckhards_confiserie",
+    "shop": "chocolate",
+    "latitude": 47.0702378,
+    "longitude": 15.4402485
+  },
+  {
+    "name": "Edmund Resch Geigenbaumeister",
+    "retailer": "edmund_resch_geigenbaumeister",
+    "shop": "musical_instrument",
+    "latitude": 47.0727964,
+    "longitude": 15.4482907
+  },
+  {
+    "name": "Fasching",
+    "retailer": "fasching",
+    "shop": "tailor",
+    "latitude": 47.0745643,
+    "longitude": 15.4498503
+  },
+  {
+    "name": "Fein und Flink",
+    "retailer": "fein_und_flink",
+    "shop": "beauty",
+    "latitude": 47.0705125,
+    "longitude": 15.4410765
+  },
+  {
+    "name": "Feinkost Lichtenegger",
+    "retailer": "feinkost_lichtenegger",
+    "shop": "convenience",
+    "latitude": 47.0769429,
+    "longitude": 15.4444663
+  },
+  {
+    "name": "Felix Eck",
+    "retailer": "felix_eck",
+    "shop": "gift",
+    "latitude": 47.0717773,
+    "longitude": 15.4417584
+  },
+  {
+    "name": "Fiagaro Inzahi",
+    "retailer": "fiagaro_inzahi",
+    "shop": "hairdresser",
+    "latitude": 47.0704686,
+    "longitude": 15.4419243
+  },
+  {
+    "name": "Frankowitsch",
+    "retailer": "frankowitsch",
+    "shop": "deli",
+    "latitude": 47.0706865,
+    "longitude": 15.4413099
+  },
+  {
+    "name": "freistil und Schlafsofa Store",
+    "retailer": "freistil_und_schlafsofa_store",
+    "shop": "bed",
+    "latitude": 47.0719306,
+    "longitude": 15.4496464
+  },
+  {
+    "name": "Frisiersalon Gabriele",
+    "retailer": "frisiersalon_gabriele",
+    "shop": "hairdresser",
+    "latitude": 47.0756609,
+    "longitude": 15.4456263
+  },
+  {
+    "name": "Gabbiani",
+    "retailer": "gabbiani",
+    "shop": "clothes",
+    "latitude": 47.0710248,
+    "longitude": 15.4411423
+  },
+  {
+    "name": "Gala Immobilien",
+    "retailer": "gala_immobilien",
+    "shop": "estate_agent",
+    "latitude": 47.0728444,
+    "longitude": 15.4482848
+  },
+  {
+    "name": "Glaserei Steiner Uitz",
+    "retailer": "glaserei_steiner_uitz",
+    "shop": "glaziery",
+    "latitude": 47.0705781,
+    "longitude": 15.4438999
+  },
+  {
+    "name": "Güldenstern",
+    "retailer": "guldenstern",
+    "shop": "art",
+    "latitude": 47.0707124,
+    "longitude": 15.4418845
+  },
+  {
+    "name": "Haar Virus",
+    "retailer": "haar_virus",
+    "shop": "hairdresser",
+    "latitude": 47.0701498,
+    "longitude": 15.4440933
+  },
+  {
+    "name": "Haar|Scharf",
+    "retailer": "haar_scharf",
+    "shop": "hairdresser",
+    "latitude": 47.071507,
+    "longitude": 15.4486911
+  },
+  {
+    "name": "Hadler",
+    "retailer": "hadler",
+    "shop": "jewelry",
+    "latitude": 47.0704955,
+    "longitude": 15.4415952
+  },
+  {
+    "name": "Hairhunter Zinzendorfgasse",
+    "retailer": "hairhunter_zinzendorfgasse",
+    "shop": "hairdresser",
+    "latitude": 47.0756268,
+    "longitude": 15.4481331
+  },
+  {
+    "name": "Hannelore Hoelbling",
+    "retailer": "hannelore_hoelbling",
+    "shop": "perfumery",
+    "latitude": 47.0704442,
+    "longitude": 15.4405232
+  },
+  {
+    "name": "Hof-Frisör",
+    "retailer": "hof_frisor",
+    "shop": "hairdresser",
+    "latitude": 47.0725734,
+    "longitude": 15.4404739
+  },
+  {
+    "name": "Hofschneiderei by Herbert Traumüller",
+    "retailer": "hofschneiderei_by_herbert_traumuller",
+    "shop": "tailor",
+    "latitude": 47.0726227,
+    "longitude": 15.4406696
+  },
+  {
+    "name": "Hubert Auer",
+    "retailer": "hubert_auer",
+    "shop": "bakery",
+    "latitude": 47.0780251,
+    "longitude": 15.4436229
+  },
+  {
+    "name": "Hutmode Pelko",
+    "retailer": "hutmode_pelko",
+    "shop": "clothes",
+    "latitude": 47.070461,
+    "longitude": 15.4416493
+  },
+  {
+    "name": "Idivi",
+    "retailer": "idivi",
+    "shop": "clothes",
+    "latitude": 47.0705228,
+    "longitude": 15.4415452
+  },
+  {
+    "name": "Immobilien Dipl.-Ing. Mag. Ingo Lasserus",
+    "retailer": "immobilien_dipl_ing_mag_ingo_lasserus",
+    "shop": "estate_agent",
+    "latitude": 47.0724528,
+    "longitude": 15.4483531
+  },
+  {
+    "name": "Johan",
+    "retailer": "johan",
+    "shop": "clothes",
+    "latitude": 47.0704798,
+    "longitude": 15.4406479
+  },
+  {
+    "name": "Joma Fashion Concept Store",
+    "retailer": "joma_fashion_concept_store",
+    "shop": "clothes",
+    "latitude": 47.0709114,
+    "longitude": 15.4422136
+  },
+  {
+    "name": "Juwelier Gressl",
+    "retailer": "juwelier_gressl",
+    "shop": "jewelry",
+    "latitude": 47.0702817,
+    "longitude": 15.440073
+  },
+  {
+    "name": "Kaspar Harnisch - Bastelbedarf",
+    "retailer": "kaspar_harnisch_bastelbedarf",
+    "shop": "craft",
+    "latitude": 47.0709513,
+    "longitude": 15.4412443
+  },
+  {
+    "name": "Kaspar Harnisch - Kunst- & Farbengeschäft",
+    "retailer": "kaspar_harnisch_kunst_und_farbengeschaft",
+    "shop": "craft",
+    "latitude": 47.071288,
+    "longitude": 15.4409487
+  },
+  {
+    "name": "Kirchner",
+    "retailer": "kirchner",
+    "shop": "clothes",
+    "latitude": 47.07075,
+    "longitude": 15.4419463
+  },
+  {
+    "name": "Kosmetik Brigitte",
+    "retailer": "kosmetik_brigitte",
+    "shop": "beauty",
+    "latitude": 47.0788645,
+    "longitude": 15.4471235
+  },
+  {
+    "name": "KS for Hair",
+    "retailer": "ks_for_hair",
+    "shop": "hairdresser",
+    "latitude": 47.0759846,
+    "longitude": 15.4496066
+  },
+  {
+    "name": "KS for Lashes, Wimpernstudio",
+    "retailer": "ks_for_lashes_wimpernstudio",
+    "shop": "beauty",
+    "latitude": 47.0750886,
+    "longitude": 15.4484151
+  },
+  {
+    "name": "Kunsang Tibet Shop",
+    "retailer": "kunsang_tibet_shop",
+    "shop": "gift",
+    "latitude": 47.0708369,
+    "longitude": 15.4400321
+  },
+  {
+    "name": "Kunstatelier",
+    "retailer": "kunstatelier",
+    "shop": "art",
+    "latitude": 47.0772922,
+    "longitude": 15.4455274
+  },
+  {
+    "name": "Las Ko Na",
+    "retailer": "las_ko_na",
+    "shop": "beauty",
+    "latitude": 47.0726822,
+    "longitude": 15.4483536
+  },
+  {
+    "name": "Magazzin",
+    "retailer": "magazzin",
+    "shop": "clothes",
+    "latitude": 47.0705077,
+    "longitude": 15.4426707
+  },
+  {
+    "name": "Mail Boxes Etc",
+    "retailer": "mail_boxes_etc",
+    "shop": "stationery",
+    "latitude": 47.0719985,
+    "longitude": 15.4476434
+  },
+  {
+    "name": "Maria & Maria",
+    "retailer": "maria_und_maria",
+    "shop": "hairdresser",
+    "latitude": 47.0785526,
+    "longitude": 15.4459275
+  },
+  {
+    "name": "mexton",
+    "retailer": "mexton",
+    "shop": "clothes",
+    "latitude": 47.0708127,
+    "longitude": 15.4420882
+  },
+  {
+    "name": "Miki's Papierfachgeschäft",
+    "retailer": "miki_s_papierfachgeschaft",
+    "shop": "stationery",
+    "latitude": 47.0751779,
+    "longitude": 15.4464772
+  },
+  {
+    "name": "Mimi's Graz",
+    "retailer": "mimi_s_graz",
+    "shop": "pastry",
+    "latitude": 47.0777993,
+    "longitude": 15.443758
+  },
+  {
+    "name": "Mosshammer",
+    "retailer": "mosshammer",
+    "shop": "butcher",
+    "latitude": 47.0752956,
+    "longitude": 15.4475792
+  },
+  {
+    "name": "Mothwurf Shop",
+    "retailer": "mothwurf_shop",
+    "shop": "clothes",
+    "latitude": 47.0704272,
+    "longitude": 15.4400761
+  },
+  {
+    "name": "MuR - Modernes & Raritäten",
+    "retailer": "mur_modernes_und_raritaten",
+    "shop": "gift",
+    "latitude": 47.0708217,
+    "longitude": 15.4414578
+  },
+  {
+    "name": "Mühlbauer",
+    "retailer": "muhlbauer",
+    "shop": "jewelry",
+    "latitude": 47.0720221,
+    "longitude": 15.4483087
+  },
+  {
+    "name": "Neuroth",
+    "retailer": "neuroth",
+    "shop": "hearing_aids",
+    "latitude": 47.0790377,
+    "longitude": 15.4428916,
+    "brand": "Neuroth"
+  },
+  {
+    "name": "nino.d",
+    "retailer": "nino_d",
+    "shop": "clothes",
+    "latitude": 47.0706609,
+    "longitude": 15.4415972
+  },
+  {
+    "name": "Noblestyle",
+    "retailer": "noblestyle",
+    "shop": "hairdresser",
+    "latitude": 47.0706262,
+    "longitude": 15.4438742
+  },
+  {
+    "name": "N°8",
+    "retailer": "n8",
+    "shop": "clothes",
+    "latitude": 47.0706683,
+    "longitude": 15.4417808
+  },
+  {
+    "name": "Oskar am Markt",
+    "retailer": "oskar_am_markt",
+    "shop": "yes",
+    "latitude": 47.0781044,
+    "longitude": 15.4439093
+  },
+  {
+    "name": "Ox&Bear",
+    "retailer": "ox_und_bear",
+    "shop": "interior_decoration",
+    "latitude": 47.0707763,
+    "longitude": 15.4424985
+  },
+  {
+    "name": "Oxyd",
+    "retailer": "oxyd",
+    "shop": "clothes",
+    "latitude": 47.0710375,
+    "longitude": 15.4413259
+  },
+  {
+    "name": "Pasaricek",
+    "retailer": "pasaricek",
+    "shop": "hearing_aids",
+    "latitude": 47.0779017,
+    "longitude": 15.4439635
+  },
+  {
+    "name": "Paul Mitchell",
+    "retailer": "paul_mitchell",
+    "shop": "hairdresser",
+    "latitude": 47.0700443,
+    "longitude": 15.4438815
+  },
+  {
+    "name": "Pilatus",
+    "retailer": "pilatus",
+    "shop": "clothes",
+    "latitude": 47.0708763,
+    "longitude": 15.4409132
+  },
+  {
+    "name": "R. Leykauf",
+    "retailer": "r_leykauf",
+    "shop": "jewelry",
+    "latitude": 47.070171,
+    "longitude": 15.4429197
+  },
+  {
+    "name": "Reisebüro Südland",
+    "retailer": "reiseburo_sudland",
+    "shop": "travel_agency",
+    "latitude": 47.0708814,
+    "longitude": 15.4408585
+  },
+  {
+    "name": "Schuhwerk",
+    "retailer": "schuhwerk",
+    "shop": "shoes",
+    "latitude": 47.0723696,
+    "longitude": 15.4401327
+  },
+  {
+    "name": "Schöne Dinge",
+    "retailer": "schone_dinge",
+    "shop": "gift",
+    "latitude": 47.0718479,
+    "longitude": 15.44893
+  },
+  {
+    "name": "Showroom Barbara Edlinger",
+    "retailer": "showroom_barbara_edlinger",
+    "shop": "jewelry",
+    "latitude": 47.0702524,
+    "longitude": 15.4428753
+  },
+  {
+    "name": "Spar",
+    "retailer": "spar",
+    "shop": "supermarket",
+    "latitude": 47.071136,
+    "longitude": 15.4484564,
+    "brand": "Spar"
+  },
+  {
+    "name": "Steiner Teppichwäscherei",
+    "retailer": "steiner_teppichwascherei",
+    "shop": "dry_cleaning",
+    "latitude": 47.0703011,
+    "longitude": 15.4441527
+  },
+  {
+    "name": "SteiraBOX Selbstbedienungsladen",
+    "retailer": "steirabox_selbstbedienungsladen",
+    "shop": "convenience",
+    "latitude": 47.0780701,
+    "longitude": 15.444677
+  },
+  {
+    "name": "SUSASMUS und Feines",
+    "retailer": "susasmus_und_feines",
+    "shop": "pastry",
+    "latitude": 47.0779547,
+    "longitude": 15.4442315
+  },
+  {
+    "name": "Tabak Trafik",
+    "retailer": "tabak_trafik",
+    "shop": "tobacco",
+    "latitude": 47.0716633,
+    "longitude": 15.4487804
+  },
+  {
+    "name": "Tabak Trafik Inh. Melanie Bettini",
+    "retailer": "tabak_trafik_inh_melanie_bettini",
+    "shop": "newsagent",
+    "latitude": 47.075656,
+    "longitude": 15.4489915
+  },
+  {
+    "name": "Taschnerei Konrad Pölzer",
+    "retailer": "taschnerei_konrad_polzer",
+    "shop": "bag",
+    "latitude": 47.0706605,
+    "longitude": 15.4432004
+  },
+  {
+    "name": "Teubl Baustoffe",
+    "retailer": "teubl_baustoffe",
+    "shop": "tiles",
+    "latitude": 47.0705621,
+    "longitude": 15.4413038
+  },
+  {
+    "name": "The Body Balance, Massage Graz",
+    "retailer": "the_body_balance_massage_graz",
+    "shop": "massage",
+    "latitude": 47.0790164,
+    "longitude": 15.4476164
+  },
+  {
+    "name": "The Box",
+    "retailer": "the_box",
+    "shop": "clothes",
+    "latitude": 47.072582,
+    "longitude": 15.4400687
+  },
+  {
+    "name": "Theaterkasse",
+    "retailer": "theaterkasse",
+    "shop": "ticket",
+    "latitude": 47.0724405,
+    "longitude": 15.4416738
+  },
+  {
+    "name": "Trafik Hütter",
+    "retailer": "trafik_hutter",
+    "shop": "newsagent",
+    "latitude": 47.0787078,
+    "longitude": 15.4464933
+  },
+  {
+    "name": "Turners Café",
+    "retailer": "turners_cafe",
+    "shop": "bakery",
+    "latitude": 47.0736501,
+    "longitude": 15.4400911
+  },
+  {
+    "name": "U.S.E. Barbershop",
+    "retailer": "u_s_e_barbershop",
+    "shop": "hairdresser",
+    "latitude": 47.0776407,
+    "longitude": 15.4439369
+  },
+  {
+    "name": "Uhren Goldschmied",
+    "retailer": "uhren_goldschmied",
+    "shop": "jewelry",
+    "latitude": 47.0719505,
+    "longitude": 15.4499389
+  },
+  {
+    "name": "Uni-Antik",
+    "retailer": "uni_antik",
+    "shop": "antiques",
+    "latitude": 47.0753004,
+    "longitude": 15.4459743
+  },
+  {
+    "name": "uni-buchladen",
+    "retailer": "uni_buchladen",
+    "shop": "books",
+    "latitude": 47.0759647,
+    "longitude": 15.4494716
+  },
+  {
+    "name": "Unicycle Bike Werkstatt",
+    "retailer": "unicycle_bike_werkstatt",
+    "shop": "bicycle",
+    "latitude": 47.0781819,
+    "longitude": 15.4452052
+  },
+  {
+    "name": "Unterwäsche Herunter",
+    "retailer": "unterwasche_herunter",
+    "shop": "clothes",
+    "latitude": 47.0705036,
+    "longitude": 15.4407532
+  },
+  {
+    "name": "V&M Die Steign KG",
+    "retailer": "v_und_m_die_steign_kg",
+    "shop": "convenience",
+    "latitude": 47.075409,
+    "longitude": 15.4472761
+  },
+  {
+    "name": "Vinothek bei der Oper",
+    "retailer": "vinothek_bei_der_oper",
+    "shop": "wine",
+    "latitude": 47.0700034,
+    "longitude": 15.4442677
+  },
+  {
+    "name": "Vom Hügel",
+    "retailer": "vom_hugel",
+    "shop": "florist",
+    "latitude": 47.0725752,
+    "longitude": 15.4402388
+  },
+  {
+    "name": "vomFASS",
+    "retailer": "vomfass",
+    "shop": "deli",
+    "latitude": 47.0710653,
+    "longitude": 15.4409651,
+    "brand": "vomFASS"
+  },
+  {
+    "name": "Weiberkleider",
+    "retailer": "weiberkleider",
+    "shop": "clothes",
+    "latitude": 47.0713064,
+    "longitude": 15.442583
+  },
+  {
+    "name": "Weinhandel Kohlbacher",
+    "retailer": "weinhandel_kohlbacher",
+    "shop": "wine",
+    "latitude": 47.0722275,
+    "longitude": 15.4480656
+  },
+  {
+    "name": "Wunderkammer",
+    "retailer": "wunderkammer",
+    "shop": "antiques",
+    "latitude": 47.0756931,
+    "longitude": 15.445596
+  },
+  {
+    "name": "Xocolat",
+    "retailer": "xocolat",
+    "shop": "confectionery",
+    "latitude": 47.0701559,
+    "longitude": 15.4400016
+  },
+  {
+    "name": "´s Fachl",
+    "retailer": "s_fachl",
+    "shop": "convenience",
+    "latitude": 47.0701571,
+    "longitude": 15.4402573
+  },
+  {
+    "name": "Änderungsschneiderei Vaness",
+    "retailer": "anderungsschneiderei_vaness",
+    "shop": "tailor",
+    "latitude": 47.0717919,
+    "longitude": 15.4484939
+  }
+]

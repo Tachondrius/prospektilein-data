@@ -1,0 +1,520 @@
+[
+  {
+    "name": "Al Baron",
+    "retailer": "al_baron",
+    "shop": "junk",
+    "latitude": 48.2619354,
+    "longitude": 16.4009621
+  },
+  {
+    "name": "Al Kair Markt",
+    "retailer": "al_kair_markt",
+    "shop": "supermarket",
+    "latitude": 48.2618193,
+    "longitude": 16.4007943
+  },
+  {
+    "name": "Ali Markt: Fleisch und Geflügel",
+    "retailer": "ali_markt_fleisch_und_geflugel",
+    "shop": "butcher",
+    "latitude": 48.2615791,
+    "longitude": 16.4018167
+  },
+  {
+    "name": "Anny's",
+    "retailer": "anny_s",
+    "shop": "beauty",
+    "latitude": 48.2613831,
+    "longitude": 16.401046
+  },
+  {
+    "name": "Auto-Spenglerei",
+    "retailer": "auto_spenglerei",
+    "shop": "car_repair",
+    "latitude": 48.2685185,
+    "longitude": 16.4033634
+  },
+  {
+    "name": "Ben Condito Gewürzmanufaktur",
+    "retailer": "ben_condito_gewurzmanufaktur",
+    "shop": "spices",
+    "latitude": 48.2612293,
+    "longitude": 16.4027099
+  },
+  {
+    "name": "Bestattung Wien Kundenservice Floridsdorf Nord",
+    "retailer": "bestattung_wien_kundenservice_floridsdorf_nord",
+    "shop": "funeral_directors",
+    "latitude": 48.2691733,
+    "longitude": 16.4049269
+  },
+  {
+    "name": "Billa",
+    "retailer": "billa",
+    "shop": "supermarket",
+    "latitude": 48.2681864,
+    "longitude": 16.4024809,
+    "brand": "Billa"
+  },
+  {
+    "name": "Billa Now",
+    "retailer": "billa",
+    "shop": "convenience",
+    "latitude": 48.266701,
+    "longitude": 16.4024514,
+    "brand": "Billa Now"
+  },
+  {
+    "name": "BlitzBlank",
+    "retailer": "blitzblank",
+    "shop": "cleaning",
+    "latitude": 48.2690745,
+    "longitude": 16.4091866
+  },
+  {
+    "name": "Bäckerei Wien",
+    "retailer": "backerei_wien",
+    "shop": "bakery",
+    "latitude": 48.2626039,
+    "longitude": 16.4004194
+  },
+  {
+    "name": "cafe+co",
+    "retailer": "cafe_plus_co",
+    "shop": "vending_machine",
+    "latitude": 48.2687023,
+    "longitude": 16.4046465
+  },
+  {
+    "name": "Classwoman",
+    "retailer": "classwoman",
+    "shop": "hairdresser",
+    "latitude": 48.2635813,
+    "longitude": 16.4009206
+  },
+  {
+    "name": "Clothes",
+    "retailer": "shop_clothes",
+    "shop": "clothes",
+    "latitude": 48.2627027,
+    "longitude": 16.4004726
+  },
+  {
+    "name": "Dan Küchen Floridsdorf",
+    "retailer": "dan_kuchen_floridsdorf",
+    "shop": "furniture",
+    "latitude": 48.2622363,
+    "longitude": 16.4005883
+  },
+  {
+    "name": "Die Blumenecke",
+    "retailer": "die_blumenecke",
+    "shop": "florist",
+    "latitude": 48.2617712,
+    "longitude": 16.4014171
+  },
+  {
+    "name": "Die Stoffecke",
+    "retailer": "die_stoffecke",
+    "shop": "fabric",
+    "latitude": 48.2613905,
+    "longitude": 16.4006885
+  },
+  {
+    "name": "Drei",
+    "retailer": "drei",
+    "shop": "mobile_phone",
+    "latitude": 48.2641803,
+    "longitude": 16.4017963
+  },
+  {
+    "name": "Drei Lichter Esoterik",
+    "retailer": "drei_lichter_esoterik",
+    "shop": "esoteric",
+    "latitude": 48.2614319,
+    "longitude": 16.4025047
+  },
+  {
+    "name": "Estera Barbershop",
+    "retailer": "estera_barbershop",
+    "shop": "hairdresser",
+    "latitude": 48.2684137,
+    "longitude": 16.4037038
+  },
+  {
+    "name": "EVA",
+    "retailer": "eva",
+    "shop": "convenience",
+    "latitude": 48.2613369,
+    "longitude": 16.4011532
+  },
+  {
+    "name": "Faradis Alsham",
+    "retailer": "faradis_alsham",
+    "shop": "convenience",
+    "latitude": 48.2612367,
+    "longitude": 16.4013983
+  },
+  {
+    "name": "Fino",
+    "retailer": "fino",
+    "shop": "pet_grooming",
+    "latitude": 48.2611774,
+    "longitude": 16.401496
+  },
+  {
+    "name": "Fleischerei Traxler",
+    "retailer": "fleischerei_traxler",
+    "shop": "butcher",
+    "latitude": 48.2615638,
+    "longitude": 16.4015979
+  },
+  {
+    "name": "Fleischerei Wild",
+    "retailer": "fleischerei_wild",
+    "shop": "butcher",
+    "latitude": 48.2617107,
+    "longitude": 16.4015114
+  },
+  {
+    "name": "Fleischerei Yasmien Alscham",
+    "retailer": "fleischerei_yasmien_alscham",
+    "shop": "butcher",
+    "latitude": 48.2619181,
+    "longitude": 16.4010334
+  },
+  {
+    "name": "FloKistl – Design, Literatur und Produkte aus Floridsdorf und Umgebung",
+    "retailer": "flokistl_design_literatur_und_produkte_aus_floridsdorf_und_umgebung",
+    "shop": "gift",
+    "latitude": 48.2615517,
+    "longitude": 16.4022568
+  },
+  {
+    "name": "Friseur Yvonne",
+    "retailer": "friseur_yvonne",
+    "shop": "hairdresser",
+    "latitude": 48.2629842,
+    "longitude": 16.4006515
+  },
+  {
+    "name": "Fußpflegerei by Mirella",
+    "retailer": "fupflegerei_by_mirella",
+    "shop": "beauty",
+    "latitude": 48.2610108,
+    "longitude": 16.4018393
+  },
+  {
+    "name": "gusto",
+    "retailer": "gusto",
+    "shop": "hairdresser",
+    "latitude": 48.2627842,
+    "longitude": 16.4005227
+  },
+  {
+    "name": "Haarstudio 21",
+    "retailer": "haarstudio_21",
+    "shop": "hairdresser",
+    "latitude": 48.2606807,
+    "longitude": 16.4021483
+  },
+  {
+    "name": "Hofer",
+    "retailer": "hofer",
+    "shop": "supermarket",
+    "latitude": 48.2600092,
+    "longitude": 16.4098139,
+    "brand": "Hofer"
+  },
+  {
+    "name": "Home Karam Haushaltsware",
+    "retailer": "home_karam_haushaltsware",
+    "shop": "houseware",
+    "latitude": 48.2621033,
+    "longitude": 16.400864
+  },
+  {
+    "name": "Karolin's Nagelstudio",
+    "retailer": "karolin_s_nagelstudio",
+    "shop": "beauty",
+    "latitude": 48.2633107,
+    "longitude": 16.4013168
+  },
+  {
+    "name": "Karpfenkönig",
+    "retailer": "karpfenkonig",
+    "shop": "seafood",
+    "latitude": 48.2617231,
+    "longitude": 16.4010915
+  },
+  {
+    "name": "Kosmetik Helene",
+    "retailer": "kosmetik_helene",
+    "shop": "cosmetics",
+    "latitude": 48.2634814,
+    "longitude": 16.4008454
+  },
+  {
+    "name": "Lackstätter Geschirr",
+    "retailer": "lackstatter_geschirr",
+    "shop": "houseware",
+    "latitude": 48.2615782,
+    "longitude": 16.4015555
+  },
+  {
+    "name": "LCT Autohandel",
+    "retailer": "lct_autohandel",
+    "shop": "car",
+    "latitude": 48.2657695,
+    "longitude": 16.4034131
+  },
+  {
+    "name": "Lukajic",
+    "retailer": "lukajic",
+    "shop": "butcher",
+    "latitude": 48.2616163,
+    "longitude": 16.4016306
+  },
+  {
+    "name": "M&M City Markt 2",
+    "retailer": "m_und_m_city_markt_2",
+    "shop": "convenience",
+    "latitude": 48.2606892,
+    "longitude": 16.4003076
+  },
+  {
+    "name": "make-Money",
+    "retailer": "make_money",
+    "shop": "second_hand",
+    "latitude": 48.2636542,
+    "longitude": 16.4015197
+  },
+  {
+    "name": "Messerschmied",
+    "retailer": "messerschmied",
+    "shop": "knives",
+    "latitude": 48.2610843,
+    "longitude": 16.4027524
+  },
+  {
+    "name": "MVC Motors",
+    "retailer": "volvo_ford",
+    "shop": "car",
+    "latitude": 48.266465,
+    "longitude": 16.4039982,
+    "brand": "Volvo;Ford"
+  },
+  {
+    "name": "MÖBELIX",
+    "retailer": "moebelix",
+    "shop": "furniture",
+    "latitude": 48.2659866,
+    "longitude": 16.4019102
+  },
+  {
+    "name": "Mömax",
+    "retailer": "moemax",
+    "shop": "furniture",
+    "latitude": 48.2671957,
+    "longitude": 16.4005503,
+    "brand": "Mömax"
+  },
+  {
+    "name": "Nuad Thai Therapie",
+    "retailer": "nuad_thai_therapie",
+    "shop": "massage",
+    "latitude": 48.2609564,
+    "longitude": 16.4019553
+  },
+  {
+    "name": "Nöbauer",
+    "retailer": "nobauer",
+    "shop": "bakery",
+    "latitude": 48.2680281,
+    "longitude": 16.4049724
+  },
+  {
+    "name": "Obst und Gemüse bei Daniel",
+    "retailer": "obst_und_gemuse_bei_daniel",
+    "shop": "greengrocer",
+    "latitude": 48.2615931,
+    "longitude": 16.4014186
+  },
+  {
+    "name": "Ortoproban",
+    "retailer": "ortoproban",
+    "shop": "medical_supply",
+    "latitude": 48.2685298,
+    "longitude": 16.4045379
+  },
+  {
+    "name": "Pferdefleischerei Gumprecht",
+    "retailer": "pferdefleischerei_gumprecht",
+    "shop": "butcher",
+    "latitude": 48.2615363,
+    "longitude": 16.4015362
+  },
+  {
+    "name": "Rad21",
+    "retailer": "rad21",
+    "shop": "bicycle",
+    "latitude": 48.2610478,
+    "longitude": 16.4002981
+  },
+  {
+    "name": "Raumkonzept Verblendsteine, Parkettböden",
+    "retailer": "raumkonzept_verblendsteine_parkettboden",
+    "shop": "floors",
+    "latitude": 48.2627328,
+    "longitude": 16.401072
+  },
+  {
+    "name": "Russische Delikatessen",
+    "retailer": "russische_delikatessen",
+    "shop": "deli",
+    "latitude": 48.2619592,
+    "longitude": 16.400477
+  },
+  {
+    "name": "SANDNER Havarieschnelldienst",
+    "retailer": "sandner_havarieschnelldienst",
+    "shop": "car_repair",
+    "latitude": 48.2683217,
+    "longitude": 16.4036368
+  },
+  {
+    "name": "Scherkunst",
+    "retailer": "scherkunst",
+    "shop": "hairdresser",
+    "latitude": 48.2614204,
+    "longitude": 16.4009664
+  },
+  {
+    "name": "Schneiderei Oskar",
+    "retailer": "schneiderei_oskar",
+    "shop": "tailor",
+    "latitude": 48.261243,
+    "longitude": 16.4004622
+  },
+  {
+    "name": "Schuhservice Schlüsseldienst",
+    "retailer": "schuhservice_schlusseldienst",
+    "shop": "shoes",
+    "latitude": 48.2613174,
+    "longitude": 16.4026751
+  },
+  {
+    "name": "Selena Marekt",
+    "retailer": "selena_marekt",
+    "shop": "deli",
+    "latitude": 48.2619073,
+    "longitude": 16.4011024
+  },
+  {
+    "name": "Sonnenschutzcenter 21",
+    "retailer": "sonnenschutzcenter_21",
+    "shop": "window_blind",
+    "latitude": 48.2637157,
+    "longitude": 16.4009913
+  },
+  {
+    "name": "Spar",
+    "retailer": "spar",
+    "shop": "supermarket",
+    "latitude": 48.2682291,
+    "longitude": 16.4050994,
+    "brand": "Spar"
+  },
+  {
+    "name": "Tabak Trafik",
+    "retailer": "tabak_trafik",
+    "shop": "tobacco",
+    "latitude": 48.2607848,
+    "longitude": 16.4023234
+  },
+  {
+    "name": "Tabak Trafik Brünner Straße",
+    "retailer": "tabak_trafik_brunner_strae",
+    "shop": "tobacco",
+    "latitude": 48.26187,
+    "longitude": 16.4005056
+  },
+  {
+    "name": "Tattoos by Erich",
+    "retailer": "tattoos_by_erich",
+    "shop": "tattoo",
+    "latitude": 48.2611765,
+    "longitude": 16.400402
+  },
+  {
+    "name": "The Merchant",
+    "retailer": "the_merchant",
+    "shop": "clothes",
+    "latitude": 48.2607008,
+    "longitude": 16.4018287
+  },
+  {
+    "name": "Unlmtd Technik",
+    "retailer": "unlmtd_technik",
+    "shop": "mobile_phone",
+    "latitude": 48.2634234,
+    "longitude": 16.4013106
+  },
+  {
+    "name": "UNSON Fenster-Türen",
+    "retailer": "unson_fenster_turen",
+    "shop": "glaziery",
+    "latitude": 48.2612106,
+    "longitude": 16.4004323
+  },
+  {
+    "name": "Vienna Style",
+    "retailer": "vienna_style",
+    "shop": "hairdresser",
+    "latitude": 48.2603179,
+    "longitude": 16.4013353
+  },
+  {
+    "name": "Weinsein",
+    "retailer": "weinsein",
+    "shop": "wine",
+    "latitude": 48.2616438,
+    "longitude": 16.4016516
+  },
+  {
+    "name": "Werkmit",
+    "retailer": "werkmit",
+    "shop": "paint",
+    "latitude": 48.2632908,
+    "longitude": 16.4012413
+  },
+  {
+    "name": "Wild und Geflügel Braduljevic",
+    "retailer": "wild_und_geflugel_braduljevic",
+    "shop": "butcher",
+    "latitude": 48.2616322,
+    "longitude": 16.4012685
+  },
+  {
+    "name": "XXXLutz",
+    "retailer": "xxxlutz",
+    "shop": "furniture",
+    "latitude": 48.2660285,
+    "longitude": 16.4009597,
+    "brand": "XXXLutz"
+  },
+  {
+    "name": "Yusuf Obst und Gemüse",
+    "retailer": "yusuf_obst_und_gemuse",
+    "shop": "greengrocer",
+    "latitude": 48.2617892,
+    "longitude": 16.4009307
+  },
+  {
+    "name": "Zoohandlung Tier+Natur",
+    "retailer": "zoohandlung_tier_plus_natur",
+    "shop": "pet",
+    "latitude": 48.2635292,
+    "longitude": 16.401435
+  }
+]

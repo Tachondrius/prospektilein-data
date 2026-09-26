@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Audi",
+    "retailer": "audi",
+    "shop": "car",
+    "latitude": 47.762021,
+    "longitude": 13.072789,
+    "brand": "Audi"
+  },
+  {
+    "name": "Billa",
+    "retailer": "billa",
+    "shop": "convenience",
+    "latitude": 47.7659005,
+    "longitude": 13.0713963
+  },
+  {
+    "name": "Porsche",
+    "retailer": "porsche",
+    "shop": "car",
+    "latitude": 47.7606966,
+    "longitude": 13.0730073,
+    "brand": "Porsche"
+  },
+  {
+    "name": "Porsche - Volkswagen",
+    "retailer": "porsche",
+    "shop": "car_repair",
+    "latitude": 47.762384,
+    "longitude": 13.0735869,
+    "brand": "Porsche"
+  },
+  {
+    "name": "VW",
+    "retailer": "volkswagen",
+    "shop": "car",
+    "latitude": 47.7612193,
+    "longitude": 13.0733502,
+    "brand": "Volkswagen"
+  }
+]

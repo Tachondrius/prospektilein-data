@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Car",
+    "retailer": "shop_car",
+    "shop": "car",
+    "latitude": 47.0629622,
+    "longitude": 14.4318625
+  },
+  {
+    "name": "Car Repair",
+    "retailer": "shop_car_repair",
+    "shop": "car_repair",
+    "latitude": 47.0624735,
+    "longitude": 14.4316797
+  },
+  {
+    "name": "Mazda Fellner",
+    "retailer": "mazda_fellner",
+    "shop": "car_repair",
+    "latitude": 47.0681945,
+    "longitude": 14.4304137
+  },
+  {
+    "name": "Unimarkt",
+    "retailer": "unimarkt",
+    "shop": "supermarket",
+    "latitude": 47.0669829,
+    "longitude": 14.4309173,
+    "brand": "Unimarkt"
+  },
+  {
+    "name": "Viva",
+    "retailer": "viva",
+    "shop": "convenience",
+    "latitude": 47.0675999,
+    "longitude": 14.4303345,
+    "brand": "Viva"
+  },
+  {
+    "name": "VW Kaiser GesmbH",
+    "retailer": "volkswagen",
+    "shop": "car_repair",
+    "latitude": 47.0624843,
+    "longitude": 14.4321123,
+    "brand": "Volkswagen"
+  }
+]

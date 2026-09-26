@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Convenience",
+    "retailer": "shop_convenience",
+    "shop": "convenience",
+    "latitude": 46.9288828,
+    "longitude": 15.6642753
+  },
+  {
+    "name": "Doityourself",
+    "retailer": "shop_doityourself",
+    "shop": "doityourself",
+    "latitude": 46.9281681,
+    "longitude": 15.6659347
+  },
+  {
+    "name": "Lagerhaus",
+    "retailer": "lagerhaus",
+    "shop": "doityourself",
+    "latitude": 46.9294708,
+    "longitude": 15.6648225,
+    "brand": "Lagerhaus"
+  },
+  {
+    "name": "Moden Reicht",
+    "retailer": "moden_reicht",
+    "shop": "clothes",
+    "latitude": 46.9275783,
+    "longitude": 15.6664402
+  },
+  {
+    "name": "Trafik Schönberger",
+    "retailer": "trafik_schonberger",
+    "shop": "kiosk",
+    "latitude": 46.9295496,
+    "longitude": 15.6634384
+  }
+]

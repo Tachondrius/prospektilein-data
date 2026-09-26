@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Autohaus Knöbl",
+    "retailer": "autohaus_knobl",
+    "shop": "car",
+    "latitude": 48.0535701,
+    "longitude": 14.4181588
+  },
+  {
+    "name": "Autohaus Knöbl",
+    "retailer": "bmw",
+    "shop": "car_repair",
+    "latitude": 48.0541097,
+    "longitude": 14.4181499,
+    "brand": "BMW"
+  },
+  {
+    "name": "City Outlet",
+    "retailer": "city_outlet",
+    "shop": "outdoor",
+    "latitude": 48.0559747,
+    "longitude": 14.41977
+  },
+  {
+    "name": "Cutting Crew",
+    "retailer": "cutting_crew",
+    "shop": "hairdresser",
+    "latitude": 48.0528825,
+    "longitude": 14.418999
+  },
+  {
+    "name": "Elektro Outlet Steyr",
+    "retailer": "elektro_outlet_steyr",
+    "shop": "electrical",
+    "latitude": 48.0521086,
+    "longitude": 14.4199817
+  },
+  {
+    "name": "Fachmarktzentrum Steyr",
+    "retailer": "fachmarktzentrum_steyr",
+    "shop": "mall",
+    "latitude": 48.0543245,
+    "longitude": 14.4199732
+  },
+  {
+    "name": "Fressnapf",
+    "retailer": "fressnapf",
+    "shop": "pet",
+    "latitude": 48.0559021,
+    "longitude": 14.4196063,
+    "brand": "Fressnapf"
+  },
+  {
+    "name": "Interspar",
+    "retailer": "interspar",
+    "shop": "computer",
+    "latitude": 48.0528897,
+    "longitude": 14.4193893
+  },
+  {
+    "name": "Interspar",
+    "retailer": "interspar",
+    "shop": "mall",
+    "latitude": 48.0532688,
+    "longitude": 14.4191227
+  },
+  {
+    "name": "Interspar",
+    "retailer": "interspar",
+    "shop": "supermarket",
+    "latitude": 48.0534078,
+    "longitude": 14.4193056,
+    "brand": "Interspar"
+  },
+  {
+    "name": "Liedlgut / Purkhart",
+    "retailer": "liedlgut_purkhart",
+    "shop": "beverages",
+    "latitude": 48.0542907,
+    "longitude": 14.4150459
+  },
+  {
+    "name": "MediaMarkt",
+    "retailer": "mediamarkt",
+    "shop": "electronics",
+    "latitude": 48.0526918,
+    "longitude": 14.4190717,
+    "brand": "MediaMarkt"
+  },
+  {
+    "name": "Music Corn",
+    "retailer": "music_corn",
+    "shop": "musical_instrument",
+    "latitude": 48.0529568,
+    "longitude": 14.4154559
+  },
+  {
+    "name": "Möbelix",
+    "retailer": "moebelix",
+    "shop": "furniture",
+    "latitude": 48.0584628,
+    "longitude": 14.4195033,
+    "brand": "Möbelix"
+  },
+  {
+    "name": "Pagro",
+    "retailer": "pagro",
+    "shop": "stationery",
+    "latitude": 48.0558775,
+    "longitude": 14.4193175,
+    "brand": "Pagro"
+  },
+  {
+    "name": "XXXLutz",
+    "retailer": "xxxlutz",
+    "shop": "furniture",
+    "latitude": 48.0590042,
+    "longitude": 14.4195293,
+    "brand": "XXXLutz"
+  },
+  {
+    "name": "ZGONC",
+    "retailer": "zgonc",
+    "shop": "doityourself",
+    "latitude": 48.0574269,
+    "longitude": 14.4198488
+  }
+]

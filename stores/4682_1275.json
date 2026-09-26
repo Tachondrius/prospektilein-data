@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Baumgartner",
+    "retailer": "nissan_subaru",
+    "shop": "car",
+    "latitude": 46.8253416,
+    "longitude": 12.7558175,
+    "brand": "Nissan;Subaru"
+  },
+  {
+    "name": "Defregger",
+    "retailer": "defregger",
+    "shop": "paint",
+    "latitude": 46.8256917,
+    "longitude": 12.7566092
+  },
+  {
+    "name": "Hairdresser",
+    "retailer": "shop_hairdresser",
+    "shop": "hairdresser",
+    "latitude": 46.8209466,
+    "longitude": 12.7594175
+  },
+  {
+    "name": "Hofer",
+    "retailer": "hofer",
+    "shop": "supermarket",
+    "latitude": 46.8212477,
+    "longitude": 12.7561172,
+    "brand": "Hofer"
+  },
+  {
+    "name": "MPREIS",
+    "retailer": "mpreis",
+    "shop": "supermarket",
+    "latitude": 46.8297451,
+    "longitude": 12.7546222,
+    "brand": "MPREIS"
+  },
+  {
+    "name": "Prisker",
+    "retailer": "citroen_land_rover",
+    "shop": "car",
+    "latitude": 46.8260544,
+    "longitude": 12.7561829,
+    "brand": "Citroen;Land Rover"
+  },
+  {
+    "name": "Sanitätshaus Ortner",
+    "retailer": "sanitatshaus_ortner",
+    "shop": "medical_supply",
+    "latitude": 46.8278764,
+    "longitude": 12.7586158
+  },
+  {
+    "name": "Tobacco",
+    "retailer": "shop_tobacco",
+    "shop": "tobacco",
+    "latitude": 46.8210468,
+    "longitude": 12.7585781
+  }
+]

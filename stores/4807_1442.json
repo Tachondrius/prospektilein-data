@@ -1,0 +1,38 @@
+[
+  {
+    "name": "KFZ Steinkellner",
+    "retailer": "kfz_steinkellner",
+    "shop": "car_repair",
+    "latitude": 48.0734871,
+    "longitude": 14.4264488
+  },
+  {
+    "name": "Lagerhaus",
+    "retailer": "lagerhaus",
+    "shop": "doityourself",
+    "latitude": 48.076578,
+    "longitude": 14.4247314
+  },
+  {
+    "name": "OBI",
+    "retailer": "obi",
+    "shop": "doityourself",
+    "latitude": 48.0775753,
+    "longitude": 14.4238921,
+    "brand": "OBI"
+  },
+  {
+    "name": "Reiter Steyr",
+    "retailer": "reiter_steyr",
+    "shop": "car",
+    "latitude": 48.070685,
+    "longitude": 14.4288034
+  },
+  {
+    "name": "Turbobine",
+    "retailer": "turbobine",
+    "shop": "car_parts",
+    "latitude": 48.0736362,
+    "longitude": 14.4264235
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "name": "Andrejak",
+    "retailer": "tabaktrafik",
+    "shop": "tobacco",
+    "latitude": 48.3088209,
+    "longitude": 14.0231627,
+    "brand": "Tabaktrafik"
+  },
+  {
+    "name": "Autohaus Leithner",
+    "retailer": "fiat_suzuki",
+    "shop": "car_repair",
+    "latitude": 48.307494,
+    "longitude": 14.0223004,
+    "brand": "Fiat, Suzuki"
+  },
+  {
+    "name": "Autohaus Nöhmeyr",
+    "retailer": "autohaus_nohmeyr",
+    "shop": "car",
+    "latitude": 48.3031144,
+    "longitude": 14.0284873
+  },
+  {
+    "name": "Billa",
+    "retailer": "billa",
+    "shop": "supermarket",
+    "latitude": 48.3041699,
+    "longitude": 14.0267161,
+    "brand": "Billa"
+  },
+  {
+    "name": "BIPA",
+    "retailer": "bipa",
+    "shop": "chemist",
+    "latitude": 48.3086204,
+    "longitude": 14.0225748
+  },
+  {
+    "name": "Blumen Ingrid",
+    "retailer": "blumen_ingrid",
+    "shop": "florist",
+    "latitude": 48.3086817,
+    "longitude": 14.0211605
+  },
+  {
+    "name": "Blumenhandwerk Elke",
+    "retailer": "blumenhandwerk_elke",
+    "shop": "florist",
+    "latitude": 48.308586,
+    "longitude": 14.0231374
+  },
+  {
+    "name": "BONITA",
+    "retailer": "bonita",
+    "shop": "clothes",
+    "latitude": 48.302275,
+    "longitude": 14.0285548,
+    "brand": "BONITA"
+  },
+  {
+    "name": "Brandl & Shala OG",
+    "retailer": "brandl_und_shala_og",
+    "shop": "tiles",
+    "latitude": 48.3020307,
+    "longitude": 14.0248517
+  },
+  {
+    "name": "Buch Schachinger",
+    "retailer": "buch_schachinger",
+    "shop": "books",
+    "latitude": 48.308624,
+    "longitude": 14.0217416
+  },
+  {
+    "name": "C&A",
+    "retailer": "c_and_a",
+    "shop": "clothes",
+    "latitude": 48.3022931,
+    "longitude": 14.0286961,
+    "brand": "C&A"
+  },
+  {
+    "name": "Colloseum",
+    "retailer": "colloseum",
+    "shop": "clothes",
+    "latitude": 48.302316,
+    "longitude": 14.0279059,
+    "brand": "Colloseum"
+  },
+  {
+    "name": "Deichmann",
+    "retailer": "deichmann",
+    "shop": "shoes",
+    "latitude": 48.302271,
+    "longitude": 14.0282,
+    "brand": "Deichmann"
+  },
+  {
+    "name": "Doplbauer",
+    "retailer": "doplbauer",
+    "shop": "interior_decoration",
+    "latitude": 48.3087427,
+    "longitude": 14.0231428
+  },
+  {
+    "name": "Elektrotechnik Gruber",
+    "retailer": "elektrotechnik_gruber",
+    "shop": "electronics",
+    "latitude": 48.3071331,
+    "longitude": 14.0237406
+  },
+  {
+    "name": "Expert Edinger",
+    "retailer": "expert_edinger",
+    "shop": "electronics",
+    "latitude": 48.3084864,
+    "longitude": 14.0238846
+  },
+  {
+    "name": "Expert Schachinger",
+    "retailer": "expert_schachinger",
+    "shop": "electronics",
+    "latitude": 48.3087706,
+    "longitude": 14.0216757
+  },
+  {
+    "name": "Fellow Barber Shop",
+    "retailer": "fellow_barber_shop",
+    "shop": "hairdresser",
+    "latitude": 48.3088083,
+    "longitude": 14.021375
+  },
+  {
+    "name": "Fräulein Nora",
+    "retailer": "fraulein_nora",
+    "shop": "clothes",
+    "latitude": 48.3087458,
+    "longitude": 14.0229067
+  },
+  {
+    "name": "Hartlauer",
+    "retailer": "hartlauer",
+    "shop": "electronics",
+    "latitude": 48.308729,
+    "longitude": 14.0218605
+  },
+  {
+    "name": "Josef Jungmaier",
+    "retailer": "josef_jungmaier",
+    "shop": "butcher",
+    "latitude": 48.3084977,
+    "longitude": 14.0236873
+  },
+  {
+    "name": "Juwelier Stadelmann",
+    "retailer": "juwelier_stadelmann",
+    "shop": "jewelry",
+    "latitude": 48.3086085,
+    "longitude": 14.0220684
+  },
+  {
+    "name": "JYSK",
+    "retailer": "jysk",
+    "shop": "furniture",
+    "latitude": 48.3022884,
+    "longitude": 14.0295594,
+    "brand": "JYSK"
+  },
+  {
+    "name": "Klipp",
+    "retailer": "klipp",
+    "shop": "hairdresser",
+    "latitude": 48.3022668,
+    "longitude": 14.0283877,
+    "brand": "Klipp"
+  },
+  {
+    "name": "La Donna",
+    "retailer": "la_donna",
+    "shop": "clothes",
+    "latitude": 48.3087227,
+    "longitude": 14.0220362
+  },
+  {
+    "name": "Libro",
+    "retailer": "libro",
+    "shop": "books",
+    "latitude": 48.3024622,
+    "longitude": 14.029262,
+    "brand": "Libro"
+  },
+  {
+    "name": "Lidauer",
+    "retailer": "lidauer",
+    "shop": "hairdresser",
+    "latitude": 48.3087285,
+    "longitude": 14.0225466
+  },
+  {
+    "name": "Lidl",
+    "retailer": "lidl",
+    "shop": "supermarket",
+    "latitude": 48.3023657,
+    "longitude": 14.0277685,
+    "brand": "Lidl"
+  },
+  {
+    "name": "Lüzlbauer",
+    "retailer": "luzlbauer",
+    "shop": "jewelry",
+    "latitude": 48.3086192,
+    "longitude": 14.0217666
+  },
+  {
+    "name": "Mall",
+    "retailer": "shop_mall",
+    "shop": "mall",
+    "latitude": 48.3022046,
+    "longitude": 14.0293584
+  },
+  {
+    "name": "Mathä",
+    "retailer": "matha",
+    "shop": "hardware",
+    "latitude": 48.3052464,
+    "longitude": 14.0252636
+  },
+  {
+    "name": "MiMiMi & Friends",
+    "retailer": "mimimi_und_friends",
+    "shop": "fashion_accessories",
+    "latitude": 48.3087359,
+    "longitude": 14.0227635
+  },
+  {
+    "name": "Mode und Wolle",
+    "retailer": "mode_und_wolle",
+    "shop": "clothes",
+    "latitude": 48.3086139,
+    "longitude": 14.0224519
+  },
+  {
+    "name": "Moser",
+    "retailer": "moser",
+    "shop": "bakery",
+    "latitude": 48.3086335,
+    "longitude": 14.0216567
+  },
+  {
+    "name": "Penny",
+    "retailer": "penny",
+    "shop": "supermarket",
+    "latitude": 48.3089361,
+    "longitude": 14.0206394
+  },
+  {
+    "name": "pink",
+    "retailer": "pink",
+    "shop": "yes",
+    "latitude": 48.3085708,
+    "longitude": 14.0203161,
+    "brand": "pink"
+  },
+  {
+    "name": "Salon Ulli",
+    "retailer": "salon_ulli",
+    "shop": "hairdresser",
+    "latitude": 48.3086006,
+    "longitude": 14.0230413
+  },
+  {
+    "name": "Schuwi Du",
+    "retailer": "schuwi_du",
+    "shop": "shoes",
+    "latitude": 48.3086728,
+    "longitude": 14.0213469
+  },
+  {
+    "name": "Shopping Eferding",
+    "retailer": "shopping_eferding",
+    "shop": "mall",
+    "latitude": 48.3022576,
+    "longitude": 14.02805
+  },
+  {
+    "name": "Sport Ecker",
+    "retailer": "sport_ecker",
+    "shop": "sports",
+    "latitude": 48.30784,
+    "longitude": 14.0214789
+  },
+  {
+    "name": "TEDi",
+    "retailer": "tedi",
+    "shop": "variety_store",
+    "latitude": 48.3019778,
+    "longitude": 14.0293753,
+    "brand": "TEDi"
+  },
+  {
+    "name": "Trafik",
+    "retailer": "trafik",
+    "shop": "kiosk",
+    "latitude": 48.3088216,
+    "longitude": 14.0209554
+  },
+  {
+    "name": "Vincourek",
+    "retailer": "vincourek",
+    "shop": "optician",
+    "latitude": 48.3086076,
+    "longitude": 14.0219182
+  },
+  {
+    "name": "Zweirad Aichlseder",
+    "retailer": "zweirad_aichlseder",
+    "shop": "motorcycle_repair",
+    "latitude": 48.3050031,
+    "longitude": 14.0268185
+  }
+]

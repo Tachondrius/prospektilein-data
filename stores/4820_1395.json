@@ -1,0 +1,60 @@
+[
+  {
+    "name": "EDV-AE",
+    "retailer": "edv_ae",
+    "shop": "computer",
+    "latitude": 48.2049138,
+    "longitude": 13.9551256
+  },
+  {
+    "name": "Laßnig Kraftfahrzeugteile",
+    "retailer": "lanig_kraftfahrzeugteile",
+    "shop": "car_parts",
+    "latitude": 48.2054981,
+    "longitude": 13.954863
+  },
+  {
+    "name": "Licht & Planung",
+    "retailer": "licht_und_planung",
+    "shop": "electronics",
+    "latitude": 48.2085356,
+    "longitude": 13.9551731
+  },
+  {
+    "name": "medicos",
+    "retailer": "l_erbolario",
+    "shop": "cosmetics",
+    "latitude": 48.2043722,
+    "longitude": 13.9553133,
+    "brand": "L'Erbolario"
+  },
+  {
+    "name": "Nah & Frisch",
+    "retailer": "nah_und_frisch",
+    "shop": "convenience",
+    "latitude": 48.2024779,
+    "longitude": 13.9561362
+  },
+  {
+    "name": "Naturbackstube Klausmayer",
+    "retailer": "naturbackstube_klausmayer",
+    "shop": "bakery",
+    "latitude": 48.2046645,
+    "longitude": 13.9551248
+  },
+  {
+    "name": "Salon Buchner",
+    "retailer": "salon_buchner",
+    "shop": "hairdresser",
+    "latitude": 48.2030259,
+    "longitude": 13.9580874
+  },
+  {
+    "name": "Tabak Trafik Plainer",
+    "retailer": "tabaktrafik",
+    "shop": "tobacco",
+    "latitude": 48.2047577,
+    "longitude": 13.955167,
+    "brand": "Tabaktrafik"
+  }
+]

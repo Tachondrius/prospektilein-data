@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Car",
+    "retailer": "shop_car",
+    "shop": "car",
+    "latitude": 47.3694372,
+    "longitude": 16.0158207
+  },
+  {
+    "name": "Car Repair",
+    "retailer": "shop_car_repair",
+    "shop": "car_repair",
+    "latitude": 47.3694045,
+    "longitude": 16.0159066
+  },
+  {
+    "name": "Hifi",
+    "retailer": "shop_hifi",
+    "shop": "hifi",
+    "latitude": 47.3694,
+    "longitude": 16.0124349
+  },
+  {
+    "name": "Licht Loidl",
+    "retailer": "licht_loidl",
+    "shop": "electronics",
+    "latitude": 47.369336,
+    "longitude": 16.0119353
+  },
+  {
+    "name": "Spar",
+    "retailer": "spar",
+    "shop": "supermarket",
+    "latitude": 47.3689843,
+    "longitude": 16.0153717,
+    "brand": "Spar"
+  },
+  {
+    "name": "Supermarket",
+    "retailer": "shop_supermarket",
+    "shop": "supermarket",
+    "latitude": 47.368954,
+    "longitude": 16.0154935
+  }
+]

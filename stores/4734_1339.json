@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Bakery",
+    "retailer": "shop_bakery",
+    "shop": "bakery",
+    "latitude": 47.345211,
+    "longitude": 13.3913993
+  },
+  {
+    "name": "D‘ Bachstub’n",
+    "retailer": "d_bachstubn",
+    "shop": "bakery",
+    "latitude": 47.3457825,
+    "longitude": 13.3916713
+  },
+  {
+    "name": "Spar",
+    "retailer": "spar",
+    "shop": "supermarket",
+    "latitude": 47.3479053,
+    "longitude": 13.3916076,
+    "brand": "Spar"
+  },
+  {
+    "name": "Sport 2000",
+    "retailer": "sport_2000",
+    "shop": "sports",
+    "latitude": 47.3467384,
+    "longitude": 13.3920952,
+    "brand": "Sport 2000"
+  },
+  {
+    "name": "Taxi 3000",
+    "retailer": "taxi_3000",
+    "shop": "car_repair",
+    "latitude": 47.3410854,
+    "longitude": 13.3945459
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "name": "A. Medvey",
+    "retailer": "a_medvey",
+    "shop": "optician",
+    "latitude": 48.1744181,
+    "longitude": 16.3299644
+  },
+  {
+    "name": "Alles Wurst",
+    "retailer": "alles_wurst",
+    "shop": "butcher",
+    "latitude": 48.1782779,
+    "longitude": 16.3294027
+  },
+  {
+    "name": "Anas",
+    "retailer": "anas",
+    "shop": "hairdresser",
+    "latitude": 48.178131,
+    "longitude": 16.3290032
+  },
+  {
+    "name": "Andrea Hochstrasser",
+    "retailer": "andrea_hochstrasser",
+    "shop": "massage",
+    "latitude": 48.1724403,
+    "longitude": 16.3283595
+  },
+  {
+    "name": "Angelina",
+    "retailer": "angelina",
+    "shop": "hairdresser",
+    "latitude": 48.1729023,
+    "longitude": 16.329428
+  },
+  {
+    "name": "Ariana Mobile",
+    "retailer": "ariana_mobile",
+    "shop": "mobile_phone",
+    "latitude": 48.1795232,
+    "longitude": 16.3299292
+  },
+  {
+    "name": "Aygül",
+    "retailer": "aygul",
+    "shop": "hairdresser",
+    "latitude": 48.1762178,
+    "longitude": 16.3299883
+  },
+  {
+    "name": "Balkan Amar",
+    "retailer": "balkan_amar",
+    "shop": "bakery",
+    "latitude": 48.1730119,
+    "longitude": 16.3297253
+  },
+  {
+    "name": "BARBERSHOP AYAZ",
+    "retailer": "barbershop_ayaz",
+    "shop": "hairdresser",
+    "latitude": 48.1765369,
+    "longitude": 16.329964
+  },
+  {
+    "name": "Berkat",
+    "retailer": "berkat",
+    "shop": "convenience",
+    "latitude": 48.1727965,
+    "longitude": 16.3291838
+  },
+  {
+    "name": "Bijou Brigitte",
+    "retailer": "bijou_brigitte",
+    "shop": "jewelry",
+    "latitude": 48.1784829,
+    "longitude": 16.3298222,
+    "brand": "Bijou Brigitte"
+  },
+  {
+    "name": "Billa",
+    "retailer": "billa",
+    "shop": "supermarket",
+    "latitude": 48.1770409,
+    "longitude": 16.3233106,
+    "brand": "Billa"
+  },
+  {
+    "name": "Billa",
+    "retailer": "billa",
+    "shop": "supermarket",
+    "latitude": 48.1785599,
+    "longitude": 16.3264708,
+    "brand": "Billa"
+  },
+  {
+    "name": "Bäckerei Schwarz",
+    "retailer": "backerei_schwarz",
+    "shop": "bakery",
+    "latitude": 48.1767787,
+    "longitude": 16.3299289
+  },
+  {
+    "name": "Canna Shop",
+    "retailer": "canna_shop",
+    "shop": "cannabis",
+    "latitude": 48.1778036,
+    "longitude": 16.3298682
+  },
+  {
+    "name": "CityStorage",
+    "retailer": "citystorage",
+    "shop": "storage_rental",
+    "latitude": 48.1772367,
+    "longitude": 16.3262711
+  },
+  {
+    "name": "Darwish Lebensmittel",
+    "retailer": "darwish_lebensmittel",
+    "shop": "deli",
+    "latitude": 48.1771673,
+    "longitude": 16.3286715
+  },
+  {
+    "name": "David's Sofort-Service",
+    "retailer": "david_s_sofort_service",
+    "shop": "laundry",
+    "latitude": 48.1774495,
+    "longitude": 16.3242118
+  },
+  {
+    "name": "DC-TradingOG",
+    "retailer": "dc_tradingog",
+    "shop": "toys",
+    "latitude": 48.1770296,
+    "longitude": 16.3281857
+  },
+  {
+    "name": "Deichmann",
+    "retailer": "deichmann",
+    "shop": "shoes",
+    "latitude": 48.1783521,
+    "longitude": 16.3298097,
+    "brand": "Deichmann"
+  },
+  {
+    "name": "Dubai Style",
+    "retailer": "dubai_style",
+    "shop": "hairdresser",
+    "latitude": 48.1794525,
+    "longitude": 16.3299324
+  },
+  {
+    "name": "eyes + more",
+    "retailer": "eyes_plus_more",
+    "shop": "optician",
+    "latitude": 48.1793372,
+    "longitude": 16.3299686
+  },
+  {
+    "name": "Eymen",
+    "retailer": "eymen",
+    "shop": "hairdresser",
+    "latitude": 48.172011,
+    "longitude": 16.3278805
+  },
+  {
+    "name": "Felber",
+    "retailer": "felber",
+    "shop": "bakery",
+    "latitude": 48.1787354,
+    "longitude": 16.3298031
+  },
+  {
+    "name": "Fielmann",
+    "retailer": "fielmann",
+    "shop": "optician",
+    "latitude": 48.1791825,
+    "longitude": 16.3297351,
+    "brand": "Fielmann"
+  },
+  {
+    "name": "Flohmarkt Lager",
+    "retailer": "flohmarkt_lager",
+    "shop": "second_hand",
+    "latitude": 48.1799473,
+    "longitude": 16.326817
+  },
+  {
+    "name": "Friseur Aygül",
+    "retailer": "friseur_aygul",
+    "shop": "hairdresser",
+    "latitude": 48.1763103,
+    "longitude": 16.3299726
+  },
+  {
+    "name": "Friseur Meidling",
+    "retailer": "friseur_meidling",
+    "shop": "hairdresser",
+    "latitude": 48.179817,
+    "longitude": 16.3296541
+  },
+  {
+    "name": "Friseur Neša",
+    "retailer": "friseur_nesa",
+    "shop": "hairdresser",
+    "latitude": 48.1762107,
+    "longitude": 16.3234139
+  },
+  {
+    "name": "Gel-GÖR SUPERMARKT",
+    "retailer": "gel_gor_supermarkt",
+    "shop": "supermarket",
+    "latitude": 48.1781115,
+    "longitude": 16.3294312
+  },
+  {
+    "name": "Gold-Fluss",
+    "retailer": "gold_fluss",
+    "shop": "gold_buyer",
+    "latitude": 48.1798776,
+    "longitude": 16.3296425
+  },
+  {
+    "name": "Gö Do Schaust",
+    "retailer": "go_do_schaust",
+    "shop": "optician",
+    "latitude": 48.1723703,
+    "longitude": 16.3282138
+  },
+  {
+    "name": "H&M",
+    "retailer": "h_and_m",
+    "shop": "clothes",
+    "latitude": 48.1776565,
+    "longitude": 16.3298487,
+    "brand": "H&M"
+  },
+  {
+    "name": "Handy City2",
+    "retailer": "handy_city2",
+    "shop": "mobile_phone",
+    "latitude": 48.1762423,
+    "longitude": 16.3299877
+  },
+  {
+    "name": "HANDY STAR",
+    "retailer": "handy_star",
+    "shop": "mobile_phone",
+    "latitude": 48.1796558,
+    "longitude": 16.3296766
+  },
+  {
+    "name": "Hartlauer",
+    "retailer": "hartlauer",
+    "shop": "optician",
+    "latitude": 48.1771717,
+    "longitude": 16.3298836,
+    "brand": "Hartlauer"
+  },
+  {
+    "name": "Herbert Hallwirth's Trödlerei",
+    "retailer": "herbert_hallwirth_s_trodlerei",
+    "shop": "antiques",
+    "latitude": 48.1773137,
+    "longitude": 16.3272508
+  },
+  {
+    "name": "Hofer",
+    "retailer": "hofer",
+    "shop": "supermarket",
+    "latitude": 48.1798179,
+    "longitude": 16.3273043,
+    "brand": "Hofer"
+  },
+  {
+    "name": "Ivana",
+    "retailer": "ivana",
+    "shop": "beauty",
+    "latitude": 48.1727692,
+    "longitude": 16.3291253
+  },
+  {
+    "name": "Jamile's Hairsalon",
+    "retailer": "jamile_s_hairsalon",
+    "shop": "hairdresser",
+    "latitude": 48.1762099,
+    "longitude": 16.3277834
+  },
+  {
+    "name": "Keramik Atelier",
+    "retailer": "keramik_atelier",
+    "shop": "pottery",
+    "latitude": 48.1766582,
+    "longitude": 16.3217166
+  },
+  {
+    "name": "KiK",
+    "retailer": "kik",
+    "shop": "clothes",
+    "latitude": 48.177506,
+    "longitude": 16.3298489,
+    "brand": "KiK"
+  },
+  {
+    "name": "Kiosk",
+    "retailer": "shop_kiosk",
+    "shop": "kiosk",
+    "latitude": 48.1753147,
+    "longitude": 16.3204754
+  },
+  {
+    "name": "Kismet",
+    "retailer": "kismet",
+    "shop": "jewelry",
+    "latitude": 48.1794182,
+    "longitude": 16.3296985
+  },
+  {
+    "name": "Knopfkönig",
+    "retailer": "knopfkonig",
+    "shop": "sewing",
+    "latitude": 48.1797175,
+    "longitude": 16.3296499
+  },
+  {
+    "name": "KOPP",
+    "retailer": "kopp",
+    "shop": "bakery",
+    "latitude": 48.1743707,
+    "longitude": 16.3297119
+  },
+  {
+    "name": "Kunst + Tand",
+    "retailer": "kunst_plus_tand",
+    "shop": "second_hand",
+    "latitude": 48.1783189,
+    "longitude": 16.3268096
+  },
+  {
+    "name": "La Schein",
+    "retailer": "la_schein",
+    "shop": "hairdresser",
+    "latitude": 48.1719372,
+    "longitude": 16.3268497
+  },
+  {
+    "name": "Lidl",
+    "retailer": "lidl",
+    "shop": "supermarket",
+    "latitude": 48.1799329,
+    "longitude": 16.328266,
+    "brand": "Lidl"
+  },
+  {
+    "name": "Lili-Wellness",
+    "retailer": "lili_wellness",
+    "shop": "massage",
+    "latitude": 48.1773604,
+    "longitude": 16.326685
+  },
+  {
+    "name": "Malakal",
+    "retailer": "malakal",
+    "shop": "convenience",
+    "latitude": 48.1728354,
+    "longitude": 16.3292544
+  },
+  {
+    "name": "MC Wien",
+    "retailer": "mc_wien",
+    "shop": "car_repair",
+    "latitude": 48.1779262,
+    "longitude": 16.3275326
+  },
+  {
+    "name": "Meereskristall Salzgrotte",
+    "retailer": "meereskristall_salzgrotte",
+    "shop": "beauty",
+    "latitude": 48.1772754,
+    "longitude": 16.3288059
+  },
+  {
+    "name": "Mode Friseur Yüksel",
+    "retailer": "mode_friseur_yuksel",
+    "shop": "hairdresser",
+    "latitude": 48.1771116,
+    "longitude": 16.3291322
+  },
+  {
+    "name": "My Nail's",
+    "retailer": "my_nail_s",
+    "shop": "beauty",
+    "latitude": 48.1724982,
+    "longitude": 16.3285025
+  },
+  {
+    "name": "Möbelix",
+    "retailer": "moebelix",
+    "shop": "furniture",
+    "latitude": 48.1702389,
+    "longitude": 16.3238525,
+    "brand": "Möbelix"
+  },
+  {
+    "name": "Naim Merza",
+    "retailer": "naim_merza",
+    "shop": "tailor",
+    "latitude": 48.1770975,
+    "longitude": 16.3292481
+  },
+  {
+    "name": "Neuroth",
+    "retailer": "neuroth",
+    "shop": "hearing_aids",
+    "latitude": 48.1773192,
+    "longitude": 16.3298747,
+    "brand": "Neuroth"
+  },
+  {
+    "name": "Pearle",
+    "retailer": "pearle",
+    "shop": "optician",
+    "latitude": 48.1799709,
+    "longitude": 16.3296358,
+    "brand": "Pearle"
+  },
+  {
+    "name": "Pfeifen Fischer",
+    "retailer": "pfeifen_fischer",
+    "shop": "tobacco",
+    "latitude": 48.1786348,
+    "longitude": 16.3297942
+  },
+  {
+    "name": "Phone Store",
+    "retailer": "phone_store",
+    "shop": "mobile_phone",
+    "latitude": 48.1789327,
+    "longitude": 16.3297614
+  },
+  {
+    "name": "ROBERTO SCHUHE",
+    "retailer": "roberto_schuhe",
+    "shop": "shoes",
+    "latitude": 48.1764971,
+    "longitude": 16.3299717
+  },
+  {
+    "name": "Roberto Schuhe Outlet",
+    "retailer": "roberto_schuhe_outlet",
+    "shop": "shoes",
+    "latitude": 48.1778362,
+    "longitude": 16.3298521
+  },
+  {
+    "name": "Rosa Moser",
+    "retailer": "rosa_moser",
+    "shop": "hardware",
+    "latitude": 48.1717367,
+    "longitude": 16.3204537
+  },
+  {
+    "name": "Schlüsseldienst",
+    "retailer": "schlusseldienst",
+    "shop": "locksmith",
+    "latitude": 48.1797439,
+    "longitude": 16.3296604
+  },
+  {
+    "name": "Simony Shop",
+    "retailer": "simony_shop",
+    "shop": "convenience",
+    "latitude": 48.1746317,
+    "longitude": 16.3274487
+  },
+  {
+    "name": "Slaer Beauty",
+    "retailer": "slaer_beauty",
+    "shop": "beauty",
+    "latitude": 48.172445,
+    "longitude": 16.3283732
+  },
+  {
+    "name": "SMARTPHONE City",
+    "retailer": "smartphone_city",
+    "shop": "mobile_phone",
+    "latitude": 48.1766988,
+    "longitude": 16.3299484
+  },
+  {
+    "name": "SUNANTHA THAI MASSAGE",
+    "retailer": "sunantha_thai_massage",
+    "shop": "massage",
+    "latitude": 48.1774193,
+    "longitude": 16.3288102
+  },
+  {
+    "name": "Takko Fashion",
+    "retailer": "takko",
+    "shop": "clothes",
+    "latitude": 48.1780105,
+    "longitude": 16.3298304,
+    "brand": "Takko Fashion"
+  },
+  {
+    "name": "Tchibo",
+    "retailer": "tchibo",
+    "shop": "coffee",
+    "latitude": 48.1766133,
+    "longitude": 16.3299441,
+    "brand": "Tchibo"
+  },
+  {
+    "name": "TEDi",
+    "retailer": "tedi",
+    "shop": "variety_store",
+    "latitude": 48.179834,
+    "longitude": 16.329905,
+    "brand": "TEDi"
+  },
+  {
+    "name": "Tekin Friseur",
+    "retailer": "tekin_friseur",
+    "shop": "hairdresser",
+    "latitude": 48.1719573,
+    "longitude": 16.3297913
+  },
+  {
+    "name": "Tobacco",
+    "retailer": "shop_tobacco",
+    "shop": "tobacco",
+    "latitude": 48.174907,
+    "longitude": 16.3293131
+  },
+  {
+    "name": "Tobacco",
+    "retailer": "shop_tobacco",
+    "shop": "tobacco",
+    "latitude": 48.1753142,
+    "longitude": 16.320467
+  },
+  {
+    "name": "Triumph",
+    "retailer": "triumph",
+    "shop": "clothes",
+    "latitude": 48.1795108,
+    "longitude": 16.3296875,
+    "brand": "Triumph"
+  },
+  {
+    "name": "US-Autos",
+    "retailer": "us_autos",
+    "shop": "car_repair",
+    "latitude": 48.1777126,
+    "longitude": 16.3279801
+  },
+  {
+    "name": "Vekks / Kostnix-Laden",
+    "retailer": "gratzlrad",
+    "shop": "rental",
+    "latitude": 48.1773711,
+    "longitude": 16.3279698,
+    "brand": "Grätzlrad"
+  },
+  {
+    "name": "Wohnungsräumunge n",
+    "retailer": "wohnungsraumunge_n",
+    "shop": "second_hand",
+    "latitude": 48.1784343,
+    "longitude": 16.327923
+  },
+  {
+    "name": "Woolworth",
+    "retailer": "woolworth",
+    "shop": "supermarket",
+    "latitude": 48.1763915,
+    "longitude": 16.3299735
+  },
+  {
+    "name": "Zeki Erkaya",
+    "retailer": "zeki_erkaya",
+    "shop": "hairdresser",
+    "latitude": 48.1783929,
+    "longitude": 16.3283937
+  },
+  {
+    "name": "Änderungsschneiderei Putzerei Rashid",
+    "retailer": "anderungsschneiderei_putzerei_rashid",
+    "shop": "tailor",
+    "latitude": 48.1729715,
+    "longitude": 16.3295979
+  }
+]

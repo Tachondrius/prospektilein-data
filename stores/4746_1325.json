@@ -1,0 +1,60 @@
+[
+  {
+    "name": "ADEG",
+    "retailer": "adeg",
+    "shop": "supermarket",
+    "latitude": 47.4608168,
+    "longitude": 13.2557309
+  },
+  {
+    "name": "Bauernladen",
+    "retailer": "bauernladen",
+    "shop": "farm",
+    "latitude": 47.4628995,
+    "longitude": 13.2578245
+  },
+  {
+    "name": "Bikeverleih",
+    "retailer": "bikeverleih",
+    "shop": "bicycle",
+    "latitude": 47.4632854,
+    "longitude": 13.2593368
+  },
+  {
+    "name": "Hairdresser",
+    "retailer": "shop_hairdresser",
+    "shop": "hairdresser",
+    "latitude": 47.4620415,
+    "longitude": 13.2564682
+  },
+  {
+    "name": "Nah und Frisch Grünwald",
+    "retailer": "nah_und_frisch",
+    "shop": "supermarket",
+    "latitude": 47.4614211,
+    "longitude": 13.2581767,
+    "brand": "Nah & Frisch"
+  },
+  {
+    "name": "Sport 2000 Brandstätter",
+    "retailer": "sport_2000",
+    "shop": "sports",
+    "latitude": 47.4619775,
+    "longitude": 13.2566345,
+    "brand": "Sport 2000"
+  },
+  {
+    "name": "Sport Alpin Skiverleih Skischule",
+    "retailer": "sport_alpin_skiverleih_skischule",
+    "shop": "sports",
+    "latitude": 47.4610719,
+    "longitude": 13.2559533
+  },
+  {
+    "name": "Sportshop Sport Alpin",
+    "retailer": "sportshop_sport_alpin",
+    "shop": "clothes",
+    "latitude": 47.4632836,
+    "longitude": 13.2591984
+  }
+]
