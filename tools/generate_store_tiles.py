@@ -13,6 +13,8 @@ from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 import osmium
+from shapely.geometry import Point, shape
+from shapely.prepared import prep
 
 
 TILE_FACTOR = 100.0
@@ -500,13 +502,18 @@ def load_state_regions() -> list[dict]:
 
         state_code, state_name = STATE_BY_NUTS2[nuts2_code]
 
+        shapely_geometry = shape(geometry)
+
+        if not shapely_geometry.is_valid:
+            shapely_geometry = shapely_geometry.buffer(0)
+
         regions.append(
             {
                 "nuts2": nuts2_code,
                 "stateCode": state_code,
                 "state": state_name,
-                "geometry": geometry,
-                "bbox": geometry_bbox(geometry),
+                "bbox": shapely_geometry.bounds,
+                "prepared": prep(shapely_geometry),
             }
         )
 
@@ -519,13 +526,15 @@ def load_state_regions() -> list[dict]:
     print("Bundesland-Grenzen geladen: 9")
     return regions
 
-
 def assign_states(shops: list[dict], regions: list[dict]) -> int:
     missing = 0
 
-    for shop in shops:
+    print("Ordne Bundesländer zu (schnelle Geometrieprüfung) ...")
+
+    for index, shop in enumerate(shops, start=1):
         x = float(shop["longitude"])
         y = float(shop["latitude"])
+        point = Point(x, y)
         assigned = False
 
         for region in regions:
@@ -537,7 +546,9 @@ def assign_states(shops: list[dict], regions: list[dict]) -> int:
             ):
                 continue
 
-            if point_in_geometry(x, y, region["geometry"]):
+            # PreparedGeometry läuft in GEOS/C und ist deutlich schneller
+            # als die frühere Python-Punkt-in-Polygon-Schleife.
+            if region["prepared"].intersects(point):
                 shop["stateCode"] = region["stateCode"]
                 shop["state"] = region["state"]
                 assigned = True
@@ -546,8 +557,13 @@ def assign_states(shops: list[dict], regions: list[dict]) -> int:
         if not assigned:
             missing += 1
 
-    return missing
+        if index % 5000 == 0:
+            print(
+                f"  Bundesland-Zuordnung: "
+                f"{index:,} / {len(shops):,}"
+            )
 
+    return missing
 
 def haversine_meters(a: dict, b: dict) -> float:
     radius = 6_371_000.0
@@ -762,11 +778,6 @@ def main() -> None:
         print(f"  {retailer}: {count:,}")
 
     print("Fertig.")
-
-
-if __name__ == "__main__":
-    main()
-
 
 
 if __name__ == "__main__":
