@@ -22,10 +22,10 @@ jobs:
         with:
           python-version: "3.13"
 
-      - name: PyOsmium installieren
+      - name: Python-Pakete installieren
         run: |
           python -m pip install --upgrade pip
-          python -m pip install osmium==4.3.1
+          python -m pip install osmium==4.3.1 shapely
 
       - name: Österreich-OSM-Daten laden
         run: |
