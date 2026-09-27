@@ -1,7 +1,7 @@
 [
   {
     "name": "BP Tankstelle",
-    "retailer": "bp",
+    "retailer": "bp_tankstelle",
     "shop": "yes",
     "latitude": 48.2229919,
     "longitude": 14.8502641,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Fa. Grufeneder",
-    "retailer": "volkswagen",
+    "retailer": "fa_grufeneder",
     "shop": "car_repair",
     "latitude": 48.2211509,
     "longitude": 14.8522655,
@@ -31,7 +31,7 @@
   },
   {
     "name": "Honda Grell",
-    "retailer": "honda",
+    "retailer": "honda_grell",
     "shop": "motorcycle",
     "latitude": 48.2251546,
     "longitude": 14.8526008,

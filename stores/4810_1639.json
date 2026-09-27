@@ -24,6 +24,13 @@
     "brand": "Bipa"
   },
   {
+    "name": "Dani's",
+    "retailer": "dani_s",
+    "shop": "hairdresser",
+    "latitude": 48.1084469,
+    "longitude": 16.3956649
+  },
+  {
     "name": "Frisiersalon Christa",
     "retailer": "frisiersalon_christa",
     "shop": "hairdresser",
@@ -31,11 +38,25 @@
     "longitude": 16.397075
   },
   {
+    "name": "Haus der Werte",
+    "retailer": "haus_der_werte",
+    "shop": "gold_buyer",
+    "latitude": 48.1084062,
+    "longitude": 16.3958018
+  },
+  {
     "name": "KFZ Pinar",
     "retailer": "kfz_pinar",
     "shop": "car_repair",
     "latitude": 48.1089947,
     "longitude": 16.3939866
+  },
+  {
+    "name": "Kinnari",
+    "retailer": "kinnari",
+    "shop": "massage",
+    "latitude": 48.1088265,
+    "longitude": 16.394196
   },
   {
     "name": "Straight Eight",

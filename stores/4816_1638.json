@@ -81,7 +81,7 @@
   },
   {
     "name": "Dacia Wien Verkauf",
-    "retailer": "dacia",
+    "retailer": "dacia_wien_verkauf",
     "shop": "car",
     "latitude": 48.1656236,
     "longitude": 16.3888518,
@@ -103,7 +103,7 @@
   },
   {
     "name": "Eurospar",
-    "retailer": "spar",
+    "retailer": "eurospar",
     "shop": "supermarket",
     "latitude": 48.1662603,
     "longitude": 16.3818866,
@@ -169,7 +169,7 @@
   },
   {
     "name": "Nissan Wien Verkauf",
-    "retailer": "nissan",
+    "retailer": "nissan_wien_verkauf",
     "shop": "car",
     "latitude": 48.1658018,
     "longitude": 16.3885806,
@@ -192,7 +192,7 @@
   },
   {
     "name": "Renault Wien",
-    "retailer": "renault",
+    "retailer": "renault_wien",
     "shop": "car",
     "latitude": 48.1651061,
     "longitude": 16.388682,
@@ -200,7 +200,7 @@
   },
   {
     "name": "Renault Wien Verkauf",
-    "retailer": "renault",
+    "retailer": "renault_wien_verkauf",
     "shop": "car",
     "latitude": 48.1654001,
     "longitude": 16.3889068,
@@ -208,7 +208,7 @@
   },
   {
     "name": "Renault/Nissan Wien Gebrauchtwagen",
-    "retailer": "renault",
+    "retailer": "renault_nissan_wien_gebrauchtwagen",
     "shop": "car",
     "latitude": 48.1646427,
     "longitude": 16.3896915,
@@ -216,7 +216,7 @@
   },
   {
     "name": "Renault/Nissan Wien Werkstatt",
-    "retailer": "renault",
+    "retailer": "renault_nissan_wien_werkstatt",
     "shop": "car_repair",
     "latitude": 48.1652593,
     "longitude": 16.3881356,
@@ -245,7 +245,7 @@
   },
   {
     "name": "Triumph Wien Süd",
-    "retailer": "triumph",
+    "retailer": "triumph_wien_sud",
     "shop": "motorcycle",
     "latitude": 48.1652344,
     "longitude": 16.3888258,

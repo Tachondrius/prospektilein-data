@@ -1,7 +1,7 @@
 [
   {
     "name": "Autohaus Kucher",
-    "retailer": "seat",
+    "retailer": "autohaus_kucher",
     "shop": "car",
     "latitude": 46.8174749,
     "longitude": 14.8453513,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Autohaus Penz",
-    "retailer": "renault_dacia",
+    "retailer": "autohaus_penz",
     "shop": "car",
     "latitude": 46.819047,
     "longitude": 14.8414106,
@@ -32,7 +32,7 @@
   },
   {
     "name": "Lexus Service Wolfsberg",
-    "retailer": "lexus",
+    "retailer": "lexus_service_wolfsberg",
     "shop": "car_repair",
     "latitude": 46.8177269,
     "longitude": 14.8429031,
@@ -62,7 +62,7 @@
   },
   {
     "name": "Toyota Saloschnik",
-    "retailer": "toyota",
+    "retailer": "toyota_saloschnik",
     "shop": "car",
     "latitude": 46.8175371,
     "longitude": 14.8431356,

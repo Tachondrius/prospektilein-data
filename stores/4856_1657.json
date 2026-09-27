@@ -1,7 +1,7 @@
 [
   {
     "name": "Autohaus Mayer",
-    "retailer": "opel",
+    "retailer": "autohaus_mayer",
     "shop": "car",
     "latitude": 48.5627357,
     "longitude": 16.5782355,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Autohaus Polke",
-    "retailer": "renault_dacia",
+    "retailer": "autohaus_polke",
     "shop": "car",
     "latitude": 48.563978,
     "longitude": 16.5750179,
@@ -328,7 +328,7 @@
   },
   {
     "name": "Pearle Optik",
-    "retailer": "pearle",
+    "retailer": "pearle_optik",
     "shop": "optician",
     "latitude": 48.5688824,
     "longitude": 16.5716476,
@@ -444,7 +444,7 @@
   },
   {
     "name": "Toyota Braun Ges.m.b.H.",
-    "retailer": "toyota",
+    "retailer": "toyota_braun_ges_m_b_h",
     "shop": "car",
     "latitude": 48.5601638,
     "longitude": 16.5763479,

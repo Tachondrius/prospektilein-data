@@ -233,7 +233,7 @@
   },
   {
     "name": "Apple",
-    "retailer": "apple_store",
+    "retailer": "apple",
     "shop": "electronics",
     "latitude": 48.2069882,
     "longitude": 16.3717651,
@@ -1229,13 +1229,6 @@
     "longitude": 16.3740757
   },
   {
-    "name": "Gabriele Breisach",
-    "retailer": "gabriele_breisach",
-    "shop": "jewelry",
-    "latitude": 48.2066992,
-    "longitude": 16.373372
-  },
-  {
     "name": "Galerie am Stubentor",
     "retailer": "galerie_am_stubentor",
     "shop": "art",
@@ -1279,7 +1272,7 @@
   },
   {
     "name": "GALOP Parfum",
-    "retailer": "frederic_malle_byredo_penhaligon_s_kilian_initio",
+    "retailer": "galop_parfum",
     "shop": "perfumery",
     "latitude": 48.2074118,
     "longitude": 16.3710478,
@@ -1856,7 +1849,7 @@
   },
   {
     "name": "Keusch Premium",
-    "retailer": "ferrari",
+    "retailer": "keusch_premium",
     "shop": "car",
     "latitude": 48.2015515,
     "longitude": 16.3717839,
@@ -2239,7 +2232,7 @@
   },
   {
     "name": "Mail Boxes Etc. - Versand, Verpackung, Grafik & Druck",
-    "retailer": "mail_boxes_etc",
+    "retailer": "mail_boxes_etc_versand_verpackung_grafik_und_druck",
     "shop": "copyshop",
     "latitude": 48.2032505,
     "longitude": 16.3714032,
@@ -2247,7 +2240,7 @@
   },
   {
     "name": "Mail Boxes Etc. Zedlitzgasse",
-    "retailer": "mail_boxes_etc",
+    "retailer": "mail_boxes_etc_zedlitzgasse",
     "shop": "copyshop",
     "latitude": 48.2073673,
     "longitude": 16.3779901,
@@ -2284,7 +2277,7 @@
   },
   {
     "name": "Manner Shop Wien 1",
-    "retailer": "manner",
+    "retailer": "manner_shop_wien_1",
     "shop": "confectionery",
     "latitude": 48.2091791,
     "longitude": 16.373091,
@@ -2875,7 +2868,7 @@
   },
   {
     "name": "Paul - Hotschiwu",
-    "retailer": "paul",
+    "retailer": "paul_hotschiwu",
     "shop": "bakery",
     "latitude": 48.2036023,
     "longitude": 16.3756322,
@@ -2980,6 +2973,13 @@
     "shop": "clothes",
     "latitude": 48.2034404,
     "longitude": 16.370481
+  },
+  {
+    "name": "Poppys",
+    "retailer": "poppys",
+    "shop": "clothes",
+    "latitude": 48.205765,
+    "longitude": 16.3749643
   },
   {
     "name": "Print Shop",
@@ -3577,13 +3577,6 @@
     "longitude": 16.3721304
   },
   {
-    "name": "Steiff",
-    "retailer": "steiff",
-    "shop": "toys",
-    "latitude": 48.205765,
-    "longitude": 16.3749643
-  },
-  {
     "name": "Steininger",
     "retailer": "steininger",
     "shop": "furniture",
@@ -3623,8 +3616,8 @@
     "name": "Ströck",
     "retailer": "strock",
     "shop": "bakery",
-    "latitude": 48.2085805,
-    "longitude": 16.3719318,
+    "latitude": 48.2085789,
+    "longitude": 16.3719631,
     "brand": "Ströck"
   },
   {
@@ -3641,6 +3634,13 @@
     "shop": "clothes",
     "latitude": 48.2069583,
     "longitude": 16.3797339
+  },
+  {
+    "name": "SVEVO",
+    "retailer": "svevo",
+    "shop": "books",
+    "latitude": 48.2088524,
+    "longitude": 16.3748453
   },
   {
     "name": "Swarovski",
@@ -4095,7 +4095,7 @@
   },
   {
     "name": "Wutscher",
-    "retailer": "sehen_wutscher",
+    "retailer": "wutscher",
     "shop": "optician",
     "latitude": 48.2076183,
     "longitude": 16.3715469,

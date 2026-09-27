@@ -45,7 +45,7 @@
   },
   {
     "name": "Admiral",
-    "retailer": "admiral_sportwetten",
+    "retailer": "admiral",
     "shop": "bookmaker",
     "latitude": 48.2086782,
     "longitude": 16.3391832,
@@ -199,13 +199,6 @@
     "shop": "doityourself",
     "latitude": 48.2018951,
     "longitude": 16.3395023
-  },
-  {
-    "name": "Baran",
-    "retailer": "baran",
-    "shop": "convenience",
-    "latitude": 48.2023309,
-    "longitude": 16.3378514
   },
   {
     "name": "Barbershop Club Vienna",
@@ -1063,6 +1056,13 @@
     "longitude": 16.3358463
   },
   {
+    "name": "Motorcycle",
+    "retailer": "shop_motorcycle",
+    "shop": "motorcycle",
+    "latitude": 48.2023309,
+    "longitude": 16.3378514
+  },
+  {
     "name": "Mucos Snack Shop",
     "retailer": "mucos_snack_shop",
     "shop": "confectionery",
@@ -1493,13 +1493,6 @@
     "shop": "cannabis",
     "latitude": 48.2068698,
     "longitude": 16.3394131
-  },
-  {
-    "name": "The Vending Brothers",
-    "retailer": "the_vending_brothers",
-    "shop": "vending_machine",
-    "latitude": 48.2022245,
-    "longitude": 16.3381833
   },
   {
     "name": "Tier & Natur",

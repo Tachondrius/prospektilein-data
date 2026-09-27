@@ -25,7 +25,7 @@
   {
     "name": "Alladean",
     "retailer": "alladean",
-    "shop": "convenience",
+    "shop": "vending_machine",
     "latitude": 48.1805392,
     "longitude": 16.3295789
   },
@@ -451,7 +451,7 @@
   },
   {
     "name": "Mail Boxes Etc. Schönbrunner Str",
-    "retailer": "mail_boxes_etc",
+    "retailer": "mail_boxes_etc_schonbrunner_str",
     "shop": "shipping",
     "latitude": 48.1829929,
     "longitude": 16.3231731,
@@ -755,13 +755,6 @@
     "shop": "clothes",
     "latitude": 48.1838164,
     "longitude": 16.325987
-  },
-  {
-    "name": "ZEL HOME",
-    "retailer": "zel_home",
-    "shop": "variety_store",
-    "latitude": 48.1812902,
-    "longitude": 16.3294945
   },
   {
     "name": "Änderungs-Schneiderei",

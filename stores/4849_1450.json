@@ -91,7 +91,7 @@
   },
   {
     "name": "Eurospar",
-    "retailer": "spar",
+    "retailer": "eurospar",
     "shop": "supermarket",
     "latitude": 48.4964873,
     "longitude": 14.5056869,
@@ -106,7 +106,7 @@
   },
   {
     "name": "Ford  Cerenko",
-    "retailer": "ford",
+    "retailer": "ford_cerenko",
     "shop": "car_repair",
     "latitude": 48.4944322,
     "longitude": 14.5031362,
@@ -282,7 +282,7 @@
   },
   {
     "name": "Toyota Feichtmayr",
-    "retailer": "toyota",
+    "retailer": "toyota_feichtmayr",
     "shop": "car",
     "latitude": 48.4958544,
     "longitude": 14.5036651,
@@ -290,7 +290,7 @@
   },
   {
     "name": "VW/Porsche Freistadt",
-    "retailer": "volkswagen",
+    "retailer": "vw_porsche_freistadt",
     "shop": "car",
     "latitude": 48.4953325,
     "longitude": 14.5020481,

@@ -1,7 +1,7 @@
 [
   {
     "name": "Audi Ausstellungsraum",
-    "retailer": "audi",
+    "retailer": "audi_ausstellungsraum",
     "shop": "car",
     "latitude": 46.8313352,
     "longitude": 12.7816871,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Audi Pontiller",
-    "retailer": "audi",
+    "retailer": "audi_pontiller",
     "shop": "car_repair",
     "latitude": 46.831316,
     "longitude": 12.7817204,
@@ -101,7 +101,7 @@
   },
   {
     "name": "VW Audi Pontiller",
-    "retailer": "volkswagen",
+    "retailer": "vw_audi_pontiller",
     "shop": "car",
     "latitude": 46.8312506,
     "longitude": 12.7806187,

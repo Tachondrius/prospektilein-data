@@ -15,7 +15,7 @@
   },
   {
     "name": "Billa unterwegs",
-    "retailer": "spar",
+    "retailer": "billa",
     "shop": "convenience",
     "latitude": 47.4257332,
     "longitude": 9.7413991,
@@ -45,7 +45,7 @@
   },
   {
     "name": "Eurospar",
-    "retailer": "spar",
+    "retailer": "eurospar",
     "shop": "supermarket",
     "latitude": 47.429609,
     "longitude": 9.7407382,
@@ -82,7 +82,7 @@
   },
   {
     "name": "Lexus Service Dornbirn",
-    "retailer": "lexus",
+    "retailer": "lexus_service_dornbirn",
     "shop": "car_repair",
     "latitude": 47.424938,
     "longitude": 9.7416197,
@@ -97,7 +97,7 @@
   },
   {
     "name": "Schneider Automobil",
-    "retailer": "citroen_peugeot_isuzu_subaru",
+    "retailer": "schneider_automobil",
     "shop": "car",
     "latitude": 47.4220309,
     "longitude": 9.7420486,
@@ -105,7 +105,7 @@
   },
   {
     "name": "Schneider Automobil",
-    "retailer": "mercedes_smart",
+    "retailer": "schneider_automobil",
     "shop": "car",
     "latitude": 47.4221367,
     "longitude": 9.7426143,
@@ -144,7 +144,7 @@
   },
   {
     "name": "Toyota Ellensohn Dornbirn",
-    "retailer": "toyota",
+    "retailer": "toyota_ellensohn_dornbirn",
     "shop": "car",
     "latitude": 47.424698,
     "longitude": 9.7418195,

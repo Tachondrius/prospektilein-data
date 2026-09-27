@@ -1,7 +1,7 @@
 [
   {
     "name": "Autohaus Danninger",
-    "retailer": "merzedes_ford_fiat",
+    "retailer": "autohaus_danninger",
     "shop": "car",
     "latitude": 48.266862,
     "longitude": 14.2572599,
@@ -101,5 +101,12 @@
     "shop": "sports",
     "latitude": 48.2603703,
     "longitude": 14.2558102
+  },
+  {
+    "name": "Woolworth Österreich GMbH",
+    "retailer": "woolworth",
+    "shop": "furniture",
+    "latitude": 48.2604817,
+    "longitude": 14.257148
   }
 ]
