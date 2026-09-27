@@ -9,11 +9,28 @@ import shutil
 import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
+from urllib.parse import urlencode
+from urllib.request import Request, urlopen
 
 import osmium
 
 
 TILE_FACTOR = 100.0
+
+NUTS2_WFS_URL = "https://www.statistik.gv.at/gs-open/GEODATA/ows"
+NUTS2_TYPE_NAME = "GEODATA:STATISTIK_AUSTRIA_NUTS2_20210101"
+
+STATE_BY_NUTS2 = {
+    "AT11": ("AT-1", "Burgenland"),
+    "AT12": ("AT-3", "Niederösterreich"),
+    "AT13": ("AT-9", "Wien"),
+    "AT21": ("AT-2", "Kärnten"),
+    "AT22": ("AT-6", "Steiermark"),
+    "AT31": ("AT-4", "Oberösterreich"),
+    "AT32": ("AT-5", "Salzburg"),
+    "AT33": ("AT-7", "Tirol"),
+    "AT34": ("AT-8", "Vorarlberg"),
+}
 
 # Häufige österreichische Handelsmarken.
 # Wichtig: längere/spezifischere Namen stehen vor allgemeineren Namen.
@@ -96,6 +113,7 @@ def slugify(value: str) -> str:
 
 
 def canonical_retailer(tags: dict[str, str]) -> str:
+    # Name zuerst: OSM kann z. B. name=INTERSPAR, brand=SPAR enthalten.
     candidates = [
         tags.get("name", ""),
         tags.get("brand", ""),
@@ -110,12 +128,9 @@ def canonical_retailer(tags: dict[str, str]) -> str:
 
         for alias, retailer in KNOWN_RETAILERS:
             alias_normalized = normalize_for_match(alias)
-
             if (
                 normalized == alias_normalized
-                or normalized.startswith(
-                    alias_normalized + " "
-                )
+                or normalized.startswith(alias_normalized + " ")
             ):
                 return retailer
 
@@ -131,11 +146,7 @@ def canonical_retailer(tags: dict[str, str]) -> str:
     if fallback:
         return slugify(fallback)
 
-    shop_type = tags.get(
-        "shop",
-        "shop"
-    )
-
+    shop_type = tags.get("shop", "shop")
     return f"shop_{slugify(shop_type)}"
 
 
@@ -213,6 +224,14 @@ class ShopHandler(osmium.SimpleHandler):
         if brand:
             entry["brand"] = brand
 
+        postcode = copied_tags.get("addr:postcode", "").strip()
+        if postcode:
+            entry["postcode"] = postcode
+
+        city = copied_tags.get("addr:city", "").strip()
+        if city:
+            entry["city"] = city
+
         self.shops.append(entry)
 
     def node(self, node) -> None:
@@ -279,6 +298,255 @@ class ShopHandler(osmium.SimpleHandler):
             longitude,
             source,
         )
+
+
+def first_position(coordinates):
+    current = coordinates
+    while isinstance(current, list) and current:
+        if (
+            len(current) >= 2
+            and isinstance(current[0], (int, float))
+            and isinstance(current[1], (int, float))
+        ):
+            return float(current[0]), float(current[1])
+        current = current[0]
+    return None
+
+
+def swap_geojson_axes(coordinates):
+    if (
+        isinstance(coordinates, list)
+        and len(coordinates) >= 2
+        and isinstance(coordinates[0], (int, float))
+        and isinstance(coordinates[1], (int, float))
+    ):
+        rest = coordinates[2:]
+        return [coordinates[1], coordinates[0], *rest]
+
+    if isinstance(coordinates, list):
+        return [swap_geojson_axes(item) for item in coordinates]
+
+    return coordinates
+
+
+def extract_nuts2_code(properties: dict) -> str | None:
+    normalized = {
+        str(key).upper(): str(value).strip()
+        for key, value in properties.items()
+        if value is not None
+    }
+
+    for key in ("ID", "NUTS_ID", "NUTS_CODE", "CODE"):
+        value = normalized.get(key, "")
+        if value in STATE_BY_NUTS2:
+            return value
+
+    for value in normalized.values():
+        match = re.search(r"\bAT(?:11|12|13|21|22|31|32|33|34)\b", value)
+        if match:
+            return match.group(0)
+
+    return None
+
+
+def coordinate_pairs(coordinates):
+    if (
+        isinstance(coordinates, list)
+        and len(coordinates) >= 2
+        and isinstance(coordinates[0], (int, float))
+        and isinstance(coordinates[1], (int, float))
+    ):
+        yield float(coordinates[0]), float(coordinates[1])
+        return
+
+    if isinstance(coordinates, list):
+        for item in coordinates:
+            yield from coordinate_pairs(item)
+
+
+def geometry_bbox(geometry: dict) -> tuple[float, float, float, float]:
+    pairs = list(coordinate_pairs(geometry.get("coordinates", [])))
+    if not pairs:
+        raise ValueError("Leere Bundesland-Geometrie")
+
+    xs = [item[0] for item in pairs]
+    ys = [item[1] for item in pairs]
+    return min(xs), min(ys), max(xs), max(ys)
+
+
+def point_on_segment(
+    x: float,
+    y: float,
+    x1: float,
+    y1: float,
+    x2: float,
+    y2: float,
+) -> bool:
+    cross = (x - x1) * (y2 - y1) - (y - y1) * (x2 - x1)
+    if abs(cross) > 1e-10:
+        return False
+
+    return (
+        min(x1, x2) - 1e-10 <= x <= max(x1, x2) + 1e-10
+        and min(y1, y2) - 1e-10 <= y <= max(y1, y2) + 1e-10
+    )
+
+
+def point_in_ring(x: float, y: float, ring: list) -> bool:
+    inside = False
+    count = len(ring)
+
+    if count < 3:
+        return False
+
+    j = count - 1
+
+    for i in range(count):
+        xi, yi = float(ring[i][0]), float(ring[i][1])
+        xj, yj = float(ring[j][0]), float(ring[j][1])
+
+        if point_on_segment(x, y, xi, yi, xj, yj):
+            return True
+
+        intersects = (
+            (yi > y) != (yj > y)
+            and x < (xj - xi) * (y - yi) / ((yj - yi) or 1e-30) + xi
+        )
+
+        if intersects:
+            inside = not inside
+
+        j = i
+
+    return inside
+
+
+def point_in_polygon(x: float, y: float, polygon: list) -> bool:
+    if not polygon:
+        return False
+
+    if not point_in_ring(x, y, polygon[0]):
+        return False
+
+    for hole in polygon[1:]:
+        if point_in_ring(x, y, hole):
+            return False
+
+    return True
+
+
+def point_in_geometry(x: float, y: float, geometry: dict) -> bool:
+    geometry_type = geometry.get("type")
+    coordinates = geometry.get("coordinates", [])
+
+    if geometry_type == "Polygon":
+        return point_in_polygon(x, y, coordinates)
+
+    if geometry_type == "MultiPolygon":
+        return any(
+            point_in_polygon(x, y, polygon)
+            for polygon in coordinates
+        )
+
+    return False
+
+
+def load_state_regions() -> list[dict]:
+    params = urlencode(
+        {
+            "service": "WFS",
+            "version": "1.0.0",
+            "request": "GetFeature",
+            "typeName": NUTS2_TYPE_NAME,
+            "outputFormat": "application/json",
+            "srsName": "EPSG:4326",
+        }
+    )
+
+    url = f"{NUTS2_WFS_URL}?{params}"
+
+    print("Lade Bundesland-Grenzen von Statistik Austria ...")
+
+    request = Request(
+        url,
+        headers={
+            "User-Agent": "Prospektilein store tile generator",
+            "Accept": "application/json",
+        },
+    )
+
+    with urlopen(request, timeout=90) as response:
+        data = json.load(response)
+
+    regions: list[dict] = []
+
+    for feature in data.get("features", []):
+        properties = feature.get("properties") or {}
+        nuts2_code = extract_nuts2_code(properties)
+
+        if nuts2_code not in STATE_BY_NUTS2:
+            continue
+
+        geometry = feature.get("geometry") or {}
+        coordinates = geometry.get("coordinates", [])
+        position = first_position(coordinates)
+
+        # Sicherheitsnetz für vertauschte Achsen.
+        if position is not None:
+            first_x, first_y = position
+            if abs(first_x) > 30 and abs(first_y) < 30:
+                geometry = dict(geometry)
+                geometry["coordinates"] = swap_geojson_axes(coordinates)
+
+        state_code, state_name = STATE_BY_NUTS2[nuts2_code]
+
+        regions.append(
+            {
+                "nuts2": nuts2_code,
+                "stateCode": state_code,
+                "state": state_name,
+                "geometry": geometry,
+                "bbox": geometry_bbox(geometry),
+            }
+        )
+
+    if len(regions) != 9:
+        raise RuntimeError(
+            "Bundesland-Grenzen konnten nicht vollständig geladen werden: "
+            f"{len(regions)} von 9 Regionen gefunden."
+        )
+
+    print("Bundesland-Grenzen geladen: 9")
+    return regions
+
+
+def assign_states(shops: list[dict], regions: list[dict]) -> int:
+    missing = 0
+
+    for shop in shops:
+        x = float(shop["longitude"])
+        y = float(shop["latitude"])
+        assigned = False
+
+        for region in regions:
+            min_x, min_y, max_x, max_y = region["bbox"]
+
+            if not (
+                min_x <= x <= max_x
+                and min_y <= y <= max_y
+            ):
+                continue
+
+            if point_in_geometry(x, y, region["geometry"]):
+                shop["stateCode"] = region["stateCode"]
+                shop["state"] = region["state"]
+                assigned = True
+                break
+
+        if not assigned:
+            missing += 1
+
+    return missing
 
 
 def haversine_meters(a: dict, b: dict) -> float:
@@ -459,6 +727,14 @@ def main() -> None:
 
     print(f"Nach vorsichtiger Deduplizierung: {len(shops):,}")
 
+    regions = load_state_regions()
+    missing_states = assign_states(shops, regions)
+
+    print(
+        "Bundesland-Zuordnung ohne Treffer: "
+        f"{missing_states:,} von {len(shops):,} Shops"
+    )
+
     tile_count = write_tiles(
         shops,
         args.output,
@@ -469,13 +745,28 @@ def main() -> None:
         for shop in shops
     )
 
+    state_counts = Counter(
+        shop.get("state", "UNBEKANNT")
+        for shop in shops
+    )
+
     print(f"Erzeugte Tiles: {tile_count:,}")
+    print("Shops nach Bundesland:")
+
+    for state, count in sorted(state_counts.items()):
+        print(f"  {state}: {count:,}")
+
     print("Häufigste Händler/Keys:")
 
     for retailer, count in retailer_counts.most_common(30):
         print(f"  {retailer}: {count:,}")
 
     print("Fertig.")
+
+
+if __name__ == "__main__":
+    main()
+
 
 
 if __name__ == "__main__":
