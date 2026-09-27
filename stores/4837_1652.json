@@ -4,41 +4,59 @@
     "retailer": "alfreds_fahrradwerkstatt",
     "shop": "bicycle",
     "latitude": 48.3747139,
-    "longitude": 16.5205486
+    "longitude": 16.5205486,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Buschenschank Rudolf Gössinger",
     "retailer": "buschenschank_rudolf_gossinger",
     "shop": "wine",
     "latitude": 48.3705372,
-    "longitude": 16.5226756
+    "longitude": 16.5226756,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MILCH.KASinO",
     "retailer": "milch_kasino",
     "shop": "farm",
     "latitude": 48.37135,
-    "longitude": 16.5222587
+    "longitude": 16.5222587,
+    "postcode": "2120",
+    "city": "Obersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weinbau Rögner",
     "retailer": "weinbau_rogner",
     "shop": "wine",
     "latitude": 48.3736852,
-    "longitude": 16.520285
+    "longitude": 16.520285,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Gerald Gindl",
     "retailer": "weingut_gerald_gindl",
     "shop": "alcohol",
     "latitude": 48.3701015,
-    "longitude": 16.5230451
+    "longitude": 16.5230451,
+    "postcode": "2120",
+    "city": "Obersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Hirschbüchler",
     "retailer": "weingut_hirschbuchler",
     "shop": "alcohol",
     "latitude": 48.3728565,
-    "longitude": 16.5218739
+    "longitude": 16.5218739,
+    "postcode": "2120",
+    "city": "Obersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

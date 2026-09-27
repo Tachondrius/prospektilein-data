@@ -5,7 +5,9 @@
     "shop": "telecommunication",
     "latitude": 47.2989603,
     "longitude": 12.7946788,
-    "brand": "A1"
+    "brand": "A1",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Audi",
@@ -13,7 +15,9 @@
     "shop": "car",
     "latitude": 47.294492,
     "longitude": 12.7963309,
-    "brand": "Audi"
+    "brand": "Audi",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -21,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 47.2970414,
     "longitude": 12.7945692,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa Plus",
@@ -29,14 +37,20 @@
     "shop": "supermarket",
     "latitude": 47.2986606,
     "longitude": 12.7949025,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Blumen Riegler",
     "retailer": "blumen_riegler",
     "shop": "florist",
     "latitude": 47.2952333,
-    "longitude": 12.7940025
+    "longitude": 12.7940025,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "C&A",
@@ -44,14 +58,20 @@
     "shop": "clothes",
     "latitude": 47.2994103,
     "longitude": 12.7965373,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Candido",
     "retailer": "candido",
     "shop": "clothes",
     "latitude": 47.2991292,
-    "longitude": 12.7965894
+    "longitude": 12.7965894,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "H&M",
@@ -59,7 +79,9 @@
     "shop": "clothes",
     "latitude": 47.2985836,
     "longitude": 12.7954393,
-    "brand": "H&M"
+    "brand": "H&M",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lidl",
@@ -67,7 +89,11 @@
     "shop": "supermarket",
     "latitude": 47.2979272,
     "longitude": 12.7929759,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MediaMarkt",
@@ -75,7 +101,11 @@
     "shop": "electronics",
     "latitude": 47.2989043,
     "longitude": 12.7946934,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Möbelix",
@@ -83,7 +113,11 @@
     "shop": "furniture",
     "latitude": 47.2947158,
     "longitude": 12.7978701,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "PENNY",
@@ -91,21 +125,31 @@
     "shop": "supermarket",
     "latitude": 47.2950033,
     "longitude": 12.7955444,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "PEZZ",
     "retailer": "pezz",
     "shop": "mall",
     "latitude": 47.2987127,
-    "longitude": 12.7950945
+    "longitude": 12.7950945,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "PEZZ",
     "retailer": "pezz",
     "shop": "mall",
     "latitude": 47.299328,
-    "longitude": 12.7965396
+    "longitude": 12.7965396,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Porsche",
@@ -113,7 +157,9 @@
     "shop": "car",
     "latitude": 47.2943685,
     "longitude": 12.7942061,
-    "brand": "Porsche"
+    "brand": "Porsche",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Porsche Zell am See",
@@ -121,14 +167,20 @@
     "shop": "car",
     "latitude": 47.2944251,
     "longitude": 12.7958942,
-    "brand": "Porsche"
+    "brand": "Porsche",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schwaiger's",
     "retailer": "schwaiger_s",
     "shop": "furniture",
     "latitude": 47.2955475,
-    "longitude": 12.7967524
+    "longitude": 12.7967524,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Seat",
@@ -136,14 +188,19 @@
     "shop": "car",
     "latitude": 47.2967867,
     "longitude": 12.7952289,
-    "brand": "Seat"
+    "brand": "Seat",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tridor",
     "retailer": "tridor",
     "shop": "coffee",
     "latitude": 47.2974786,
-    "longitude": 12.7906585
+    "longitude": 12.7906585,
+    "postcode": "5700",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Volkswagen",
@@ -151,7 +208,9 @@
     "shop": "car",
     "latitude": 47.2944033,
     "longitude": 12.7956958,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Würth Shop Zell am See",
@@ -159,7 +218,11 @@
     "shop": "hardware",
     "latitude": 47.2949596,
     "longitude": 12.7934021,
-    "brand": "Würth"
+    "brand": "Würth",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "XXXLutz",
@@ -167,7 +230,11 @@
     "shop": "furniture",
     "latitude": 47.2962556,
     "longitude": 12.7972229,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Škoda",
@@ -175,6 +242,8 @@
     "shop": "car",
     "latitude": 47.2944191,
     "longitude": 12.794575,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

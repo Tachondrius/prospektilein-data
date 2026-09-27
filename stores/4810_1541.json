@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.1033954,
     "longitude": 15.413122,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3233",
+    "city": "Kilb",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rohringer",
     "retailer": "rohringer",
     "shop": "garden_centre",
     "latitude": 48.1069279,
-    "longitude": 15.4176217
+    "longitude": 15.4176217,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

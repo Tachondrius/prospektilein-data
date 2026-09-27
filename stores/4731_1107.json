@@ -4,27 +4,42 @@
     "retailer": "backerei_waldhart",
     "shop": "bakery",
     "latitude": 47.3119279,
-    "longitude": 11.0785172
+    "longitude": 11.0785172,
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Lechner Rauth KG",
     "retailer": "metzgerei_lechner_rauth_kg",
     "shop": "butcher",
     "latitude": 47.3152879,
-    "longitude": 11.0777986
+    "longitude": 11.0777986,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Senfmanufaktur Weber",
     "retailer": "senfmanufaktur_weber",
     "shop": "supermarket",
     "latitude": 47.3156141,
-    "longitude": 11.0768062
+    "longitude": 11.0768062,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Holzedl",
     "retailer": "trafik_holzedl",
     "shop": "tobacco",
     "latitude": 47.3150915,
-    "longitude": 11.0777888
+    "longitude": 11.0777888,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

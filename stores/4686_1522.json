@@ -4,14 +4,18 @@
     "retailer": "brautmode_und_kleider_edegger",
     "shop": "clothes",
     "latitude": 46.8696268,
-    "longitude": 15.2213558
+    "longitude": 15.2213558,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektro Max",
     "retailer": "elektro_max",
     "shop": "electronics",
     "latitude": 46.8696623,
-    "longitude": 15.2240673
+    "longitude": 15.2240673,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -19,6 +23,9 @@
     "shop": "supermarket",
     "latitude": 46.8682221,
     "longitude": 15.227494,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8524",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

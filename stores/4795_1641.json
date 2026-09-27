@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 47.9549415,
     "longitude": 16.4119929,
-    "brand": "Mitsubishi"
+    "brand": "Mitsubishi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Brunner - Citroen Schauraum",
@@ -13,6 +15,10 @@
     "shop": "car",
     "latitude": 47.9564117,
     "longitude": 16.4131531,
-    "brand": "Citroen"
+    "brand": "Citroen",
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

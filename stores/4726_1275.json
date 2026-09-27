@@ -4,7 +4,9 @@
     "retailer": "figaro",
     "shop": "hairdresser",
     "latitude": 47.2692024,
-    "longitude": 12.7545529
+    "longitude": 12.7545529,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport",
@@ -12,6 +14,8 @@
     "shop": "sports",
     "latitude": 47.2684915,
     "longitude": 12.7544766,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

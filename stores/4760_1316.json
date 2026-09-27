@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.6037643,
     "longitude": 13.167816,
-    "brand": "Toyota, Kia"
+    "brand": "Toyota, Kia",
+    "postcode": "5431",
+    "city": "Kuchl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Baguette",
@@ -13,28 +17,40 @@
     "shop": "bakery",
     "latitude": 47.6006434,
     "longitude": 13.1652368,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "5440",
+    "city": "Golling an der Salzach",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Döllerer Weinhandels GmbH",
     "retailer": "dollerer_weinhandels_gmbh",
     "shop": "wine",
     "latitude": 47.6076979,
-    "longitude": 13.1639221
+    "longitude": 13.1639221,
+    "postcode": "5431",
+    "city": "Kuchl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fahrradservice Wallinger",
     "retailer": "fahrradservice_wallinger",
     "shop": "bicycle",
     "latitude": 47.6075831,
-    "longitude": 13.1671815
+    "longitude": 13.1671815,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KFZ Meisterbetrieb Steiner",
     "retailer": "kfz_meisterbetrieb_steiner",
     "shop": "car_repair",
     "latitude": 47.6068864,
-    "longitude": 13.1616189
+    "longitude": 13.1616189,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MPREIS",
@@ -42,14 +58,22 @@
     "shop": "supermarket",
     "latitude": 47.6006739,
     "longitude": 13.1650556,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "5440",
+    "city": "Golling an der Salzach",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Neureiter Maschinen - Zentrale KUCHL",
     "retailer": "neureiter_maschinen_zentrale_kuchl",
     "shop": "hardware",
     "latitude": 47.6083765,
-    "longitude": 13.1646145
+    "longitude": 13.1646145,
+    "postcode": "5431",
+    "city": "Kuchl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -57,6 +81,10 @@
     "shop": "supermarket",
     "latitude": 47.6081253,
     "longitude": 13.1671883,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5431",
+    "city": "Kuchl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

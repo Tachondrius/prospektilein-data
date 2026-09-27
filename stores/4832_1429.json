@@ -4,35 +4,48 @@
     "retailer": "125_mobile",
     "shop": "mobile_phone",
     "latitude": 48.3217756,
-    "longitude": 14.2929201
+    "longitude": 14.2929201,
+    "postcode": "4020",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Angela Mittermayr",
     "retailer": "angela_mittermayr",
     "shop": "hairdresser",
     "latitude": 48.3200101,
-    "longitude": 14.2901242
+    "longitude": 14.2901242,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Auto-KFZ-Pfandleihe",
     "retailer": "auto_kfz_pfandleihe",
     "shop": "pawnbroker",
     "latitude": 48.3217237,
-    "longitude": 14.2927678
+    "longitude": 14.2927678,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Brigitte Wigstein",
     "retailer": "brigitte_wigstein",
     "shop": "yes",
     "latitude": 48.3216955,
-    "longitude": 14.2926301
+    "longitude": 14.2926301,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "ETECH Schmid u Pachler Elektrotechnik GmbH & Co KG",
     "retailer": "etech_schmid_u_pachler_elektrotechnik_gmbh_und_co_kg",
     "shop": "electrical",
     "latitude": 48.3220556,
-    "longitude": 14.2909848
+    "longitude": 14.2909848,
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mercedes Gusenbauer",
@@ -40,6 +53,8 @@
     "shop": "car",
     "latitude": 48.3221643,
     "longitude": 14.2934864,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

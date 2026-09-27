@@ -5,7 +5,11 @@
     "shop": "bakery",
     "latitude": 48.1765499,
     "longitude": 16.294691,
-    "brand": "Anker"
+    "brand": "Anker",
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -13,41 +17,61 @@
     "shop": "supermarket",
     "latitude": 48.1749597,
     "longitude": 16.297038,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen Elmazi",
     "retailer": "blumen_elmazi",
     "shop": "florist",
     "latitude": 48.1749573,
-    "longitude": 16.2976541
+    "longitude": 16.2976541,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen Weisz",
     "retailer": "blumen_weisz",
     "shop": "florist",
     "latitude": 48.1765033,
-    "longitude": 16.297655
+    "longitude": 16.297655,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Friseur Royal",
     "retailer": "friseur_royal",
     "shop": "hairdresser",
     "latitude": 48.1720001,
-    "longitude": 16.296489
+    "longitude": 16.296489,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.1703331,
-    "longitude": 16.2965929
+    "longitude": 16.2965929,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 48.1701872,
-    "longitude": 16.2990319
+    "longitude": 16.2990319,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

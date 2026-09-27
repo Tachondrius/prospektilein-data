@@ -4,7 +4,9 @@
     "retailer": "bauer",
     "shop": "bakery",
     "latitude": 48.382836,
-    "longitude": 16.5189081
+    "longitude": 16.5189081,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 48.3825595,
     "longitude": 16.5157484,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -20,98 +26,146 @@
     "shop": "chemist",
     "latitude": 48.383545,
     "longitude": 16.5175963,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Fellner",
     "retailer": "blumen_fellner",
     "shop": "florist",
     "latitude": 48.3838826,
-    "longitude": 16.5171704
+    "longitude": 16.5171704,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BLUMEN von SCHULLER",
     "retailer": "blumen_von_schuller",
     "shop": "florist",
     "latitude": 48.3825562,
-    "longitude": 16.5174641
+    "longitude": 16.5174641,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Buchhandlung Sterzinger",
     "retailer": "buchhandlung_sterzinger",
     "shop": "books",
     "latitude": 48.3835943,
-    "longitude": 16.5175169
+    "longitude": 16.5175169,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Buschenschank Simonides",
     "retailer": "buschenschank_simonides",
     "shop": "alcohol",
     "latitude": 48.3816956,
-    "longitude": 16.5121199
+    "longitude": 16.5121199,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Elektro Ecker",
     "retailer": "elektro_ecker",
     "shop": "electronics",
     "latitude": 48.3845034,
-    "longitude": 16.5164774
+    "longitude": 16.5164774,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "EMMA",
     "retailer": "emma",
     "shop": "yes",
     "latitude": 48.3840453,
-    "longitude": 16.517015
+    "longitude": 16.517015,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei Krames",
     "retailer": "fleischerei_krames",
     "shop": "butcher",
     "latitude": 48.3828916,
-    "longitude": 16.518815
+    "longitude": 16.518815,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Martha",
     "retailer": "friseur_martha",
     "shop": "hairdresser",
     "latitude": 48.3839007,
-    "longitude": 16.5141326
+    "longitude": 16.5141326,
+    "postcode": "2120",
+    "city": "Wolkersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Geier",
     "retailer": "geier",
     "shop": "bakery",
     "latitude": 48.3845765,
-    "longitude": 16.5151287
+    "longitude": 16.5151287,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Handarbeiten Eckstein",
     "retailer": "handarbeiten_eckstein",
     "shop": "wool",
     "latitude": 48.3860912,
-    "longitude": 16.516249
+    "longitude": 16.516249,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hrebenda",
     "retailer": "hrebenda",
     "shop": "bicycle",
     "latitude": 48.3842126,
-    "longitude": 16.5165531
+    "longitude": 16.5165531,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ideenbäckerei Geier",
     "retailer": "ideenbackerei_geier",
     "shop": "bakery",
     "latitude": 48.3834445,
-    "longitude": 16.5177668
+    "longitude": 16.5177668,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lieber BIO",
     "retailer": "lieber_bio",
     "shop": "convenience",
     "latitude": 48.3850561,
-    "longitude": 16.5151714
+    "longitude": 16.5151714,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -119,28 +173,44 @@
     "shop": "clothes",
     "latitude": 48.3845748,
     "longitude": 16.5161169,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Salon Madiva",
     "retailer": "salon_madiva",
     "shop": "hairdresser",
     "latitude": 48.3807952,
-    "longitude": 16.5125831
+    "longitude": 16.5125831,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SOMA",
     "retailer": "soma",
     "shop": "convenience",
     "latitude": 48.3863827,
-    "longitude": 16.5164628
+    "longitude": 16.5164628,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SOMA Sozialmarkt",
     "retailer": "soma_sozialmarkt",
     "shop": "convenience",
     "latitude": 48.3866678,
-    "longitude": 16.5160443
+    "longitude": 16.5160443,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -148,27 +218,41 @@
     "shop": "supermarket",
     "latitude": 48.3857743,
     "longitude": 16.5150727,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik Stiermeier",
     "retailer": "tabak_trafik_stiermeier",
     "shop": "kiosk",
     "latitude": 48.3847505,
-    "longitude": 16.5150869
+    "longitude": 16.5150869,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Haindl-Erlacher",
     "retailer": "weingut_haindl_erlacher",
     "shop": "farm",
     "latitude": 48.3847024,
-    "longitude": 16.5118927
+    "longitude": 16.5118927,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weinviertler Wohnmanufaktur",
     "retailer": "weinviertler_wohnmanufaktur",
     "shop": "furniture",
     "latitude": 48.3836464,
-    "longitude": 16.5139539
+    "longitude": 16.5139539,
+    "postcode": "2120",
+    "city": "Wolkersdorf im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

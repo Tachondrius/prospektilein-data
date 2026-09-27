@@ -5,14 +5,18 @@
     "shop": "supermarket",
     "latitude": 47.8891492,
     "longitude": 13.1211906,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kleineberg Maschinen GesmbH",
     "retailer": "kleineberg_maschinen_gesmbh",
     "shop": "hardware",
     "latitude": 47.8876557,
-    "longitude": 13.1202933
+    "longitude": 13.1202933,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lidl",
@@ -20,13 +24,19 @@
     "shop": "supermarket",
     "latitude": 47.8871615,
     "longitude": 13.1237036,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "5201",
+    "city": "Seekirchen am Wallersee",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Supermarket",
     "retailer": "shop_supermarket",
     "shop": "supermarket",
     "latitude": 47.8871251,
-    "longitude": 13.1237115
+    "longitude": 13.1237115,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

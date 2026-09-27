@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.7235251,
     "longitude": 14.3132255,
-    "brand": "Volkswagen;Suzuki;Škoda"
+    "brand": "Volkswagen;Suzuki;Škoda",
+    "postcode": "4580",
+    "city": "Windischgarsten",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 47.7233043,
     "longitude": 14.3145112,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4580",
+    "city": "Windischgarsten",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -21,7 +29,11 @@
     "shop": "supermarket",
     "latitude": 47.7235248,
     "longitude": 14.3138688,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4580",
+    "city": "Windischgarsten",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Expert Etech",
@@ -29,6 +41,9 @@
     "shop": "electronics",
     "latitude": 47.7230179,
     "longitude": 14.3151657,
-    "brand": "Expert"
+    "brand": "Expert",
+    "postcode": "4580",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

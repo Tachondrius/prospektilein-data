@@ -4,20 +4,26 @@
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.1425325,
-    "longitude": 13.6645743
+    "longitude": 13.6645743,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Laundry",
     "retailer": "shop_laundry",
     "shop": "laundry",
     "latitude": 47.1425307,
-    "longitude": 13.6646681
+    "longitude": 13.6646681,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Rest",
     "retailer": "sport_rest",
     "shop": "clothes",
     "latitude": 47.1421844,
-    "longitude": 13.6624964
+    "longitude": 13.6624964,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

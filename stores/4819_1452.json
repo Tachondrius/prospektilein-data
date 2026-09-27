@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 48.1917458,
     "longitude": 14.5202178,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Exmanco",
     "retailer": "exmanco",
     "shop": "car_parts",
     "latitude": 48.1926762,
-    "longitude": 14.5222068
+    "longitude": 14.5222068,
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -20,7 +28,11 @@
     "shop": "supermarket",
     "latitude": 48.1908447,
     "longitude": 14.5205105,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -28,14 +40,18 @@
     "shop": "doityourself",
     "latitude": 48.1918222,
     "longitude": 14.5213375,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Landzeit",
     "retailer": "landzeit",
     "shop": "gift",
     "latitude": 48.1959824,
-    "longitude": 14.5249926
+    "longitude": 14.5249926,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "OMV",
@@ -43,13 +59,19 @@
     "shop": "yes",
     "latitude": 48.1964377,
     "longitude": 14.5271488,
-    "brand": "OMV"
+    "brand": "OMV",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wosa's Bio",
     "retailer": "wosa_s_bio",
     "shop": "farm",
     "latitude": 48.1987126,
-    "longitude": 14.5274318
+    "longitude": 14.5274318,
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "c_plus_c_wedl",
     "shop": "supermarket",
     "latitude": 48.2153852,
-    "longitude": 13.4774063
+    "longitude": 13.4774063,
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ford",
@@ -12,14 +16,20 @@
     "shop": "car",
     "latitude": 48.2117634,
     "longitude": 13.4744325,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mayer",
     "retailer": "mayer",
     "shop": "bakery",
     "latitude": 48.2113728,
-    "longitude": 13.474997
+    "longitude": 13.474997,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Norma",
@@ -27,34 +37,48 @@
     "shop": "supermarket",
     "latitude": 48.2136289,
     "longitude": 13.4796343,
-    "brand": "Norma"
+    "brand": "Norma",
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reifen Doblhofer",
     "retailer": "reifen_doblhofer",
     "shop": "tyres",
     "latitude": 48.2122215,
-    "longitude": 13.4753339
+    "longitude": 13.4753339,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reifen John GmbH & Co KG",
     "retailer": "reifen_john_gmbh_und_co_kg",
     "shop": "car_repair",
     "latitude": 48.2131098,
-    "longitude": 13.4773116
+    "longitude": 13.4773116,
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 48.2148444,
-    "longitude": 13.4742363
+    "longitude": 13.4742363,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Trafik Rudolf Klingeisen",
     "retailer": "tabak_trafik_rudolf_klingeisen",
     "shop": "tobacco",
     "latitude": 48.2120138,
-    "longitude": 13.4782392
+    "longitude": 13.4782392,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,20 +4,28 @@
     "retailer": "farben_seiwald",
     "shop": "paint",
     "latitude": 47.0770972,
-    "longitude": 10.4505432
+    "longitude": 10.4505432,
+    "postcode": "6553",
+    "city": "See",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Grün",
     "retailer": "grun",
     "shop": "beverages",
     "latitude": 47.0782385,
-    "longitude": 10.4560463
+    "longitude": 10.4560463,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rosi's Dorfladen",
     "retailer": "rosi_s_dorfladen",
     "shop": "convenience",
     "latitude": 47.0789638,
-    "longitude": 10.4575657
+    "longitude": 10.4575657,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

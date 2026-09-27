@@ -4,7 +4,11 @@
     "retailer": "a_und_o_wieser",
     "shop": "supermarket",
     "latitude": 47.2779491,
-    "longitude": 12.3704671
+    "longitude": 12.3704671,
+    "postcode": "5733",
+    "city": "Bramberg am Wildkogel",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MPREIS",
@@ -12,6 +16,8 @@
     "shop": "supermarket",
     "latitude": 47.2791258,
     "longitude": 12.3765793,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -5,13 +5,19 @@
     "shop": "car_repair",
     "latitude": 46.8334109,
     "longitude": 13.4036755,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "9812",
+    "city": "Pusarnitz",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Unser Lagerhaus",
     "retailer": "unser_lagerhaus",
     "shop": "doityourself",
     "latitude": 46.8360556,
-    "longitude": 13.4031264
+    "longitude": 13.4031264,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

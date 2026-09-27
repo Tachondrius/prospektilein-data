@@ -4,7 +4,11 @@
     "retailer": "allcolor_wimpassing",
     "shop": "paint",
     "latitude": 47.6963929,
-    "longitude": 16.0203703
+    "longitude": 16.0203703,
+    "postcode": "2632",
+    "city": "Wimpassing im Schwarzatale",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -12,14 +16,20 @@
     "shop": "chemist",
     "latitude": 47.696294,
     "longitude": 16.0202282,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2632",
+    "city": "Wimpassing im Schwarzatale",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumeninsel Spanblöchel",
     "retailer": "blumeninsel_spanblochel",
     "shop": "florist",
     "latitude": 47.6982752,
-    "longitude": 16.0233119
+    "longitude": 16.0233119,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Der Mann",
@@ -27,63 +37,89 @@
     "shop": "bakery",
     "latitude": 47.6977991,
     "longitude": 16.0224119,
-    "brand": "Der Mann"
+    "brand": "Der Mann",
+    "postcode": "2632",
+    "city": "Wimpassing im Schwarzatale",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fell Box",
     "retailer": "fell_box",
     "shop": "pet_grooming",
     "latitude": 47.6974304,
-    "longitude": 16.0240888
+    "longitude": 16.0240888,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "FMZ Wimpassing",
     "retailer": "fmz_wimpassing",
     "shop": "mall",
     "latitude": 47.69647,
-    "longitude": 16.0200958
+    "longitude": 16.0200958,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Maxy",
     "retailer": "friseur_maxy",
     "shop": "hairdresser",
     "latitude": 47.699339,
-    "longitude": 16.0264059
+    "longitude": 16.0264059,
+    "postcode": "2632",
+    "city": "Wimpassing im Schwarzatale",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Küchencenter Wimpassing",
     "retailer": "kuchencenter_wimpassing",
     "shop": "kitchen",
     "latitude": 47.698646,
-    "longitude": 16.0258858
+    "longitude": 16.0258858,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Let's Do It - Zingl",
     "retailer": "let_s_do_it_zingl",
     "shop": "doityourself",
     "latitude": 47.6982679,
-    "longitude": 16.0227388
+    "longitude": 16.0227388,
+    "postcode": "2632",
+    "city": "Wimpassing im Schwarzatale",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schatten Center",
     "retailer": "schatten_center",
     "shop": "*",
     "latitude": 47.697541,
-    "longitude": 16.0222359
+    "longitude": 16.0222359,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schlief der Bäcker",
     "retailer": "schlief_der_backer",
     "shop": "bakery",
     "latitude": 47.6983424,
-    "longitude": 16.0249707
+    "longitude": 16.0249707,
+    "postcode": "2632",
+    "city": "Wimpassing im Schwarzatale",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "sunflower & beauty",
     "retailer": "sunflower_und_beauty",
     "shop": "beauty",
     "latitude": 47.6987388,
-    "longitude": 16.0253587
+    "longitude": 16.0253587,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -91,13 +127,17 @@
     "shop": "tobacco",
     "latitude": 47.6973636,
     "longitude": 16.0220233,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Versteigerungshaus Wimpassing",
     "retailer": "versteigerungshaus_wimpassing",
     "shop": "auction_house",
     "latitude": 47.6987323,
-    "longitude": 16.0260568
+    "longitude": 16.0260568,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

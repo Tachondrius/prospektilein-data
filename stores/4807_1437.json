@@ -4,14 +4,20 @@
     "retailer": "antiquitaten_schrattenecker",
     "shop": "antiques",
     "latitude": 48.0781166,
-    "longitude": 14.3795358
+    "longitude": 14.3795358,
+    "postcode": "4493",
+    "city": "Wolfern",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bikelop GmbH",
     "retailer": "bikelop_gmbh",
     "shop": "motorcycle",
     "latitude": 48.0741217,
-    "longitude": 14.3709299
+    "longitude": 14.3709299,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -19,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 48.0792411,
     "longitude": 14.3747976,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4493",
+    "city": "Wolfern",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lietz",
@@ -27,6 +37,10 @@
     "shop": "car",
     "latitude": 48.0782589,
     "longitude": 14.376016,
-    "brand": "Hyundai"
+    "brand": "Hyundai",
+    "postcode": "4493",
+    "city": "Wolfern",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,27 +4,41 @@
     "retailer": "bauernladen_aschach_steyr",
     "shop": "convenience",
     "latitude": 48.0128059,
-    "longitude": 14.3341159
+    "longitude": 14.3341159,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Cafe Schnadenauer",
     "retailer": "backerei_cafe_schnadenauer",
     "shop": "bakery",
     "latitude": 48.0128623,
-    "longitude": 14.3338371
+    "longitude": 14.3338371,
+    "postcode": "4421",
+    "city": "Aschach an der Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Osteopathie & Physiotherapie",
     "retailer": "osteopathie_und_physiotherapie",
     "shop": "massage",
     "latitude": 48.0127274,
-    "longitude": 14.3349261
+    "longitude": 14.3349261,
+    "postcode": "4421",
+    "city": "Aschach an der Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stöcklmair",
     "retailer": "stocklmair",
     "shop": "hairdresser",
     "latitude": 48.0122709,
-    "longitude": 14.3358746
+    "longitude": 14.3358746,
+    "postcode": "4421",
+    "city": "Aschach an der Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

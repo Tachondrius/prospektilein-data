@@ -4,7 +4,9 @@
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 47.8963889,
-    "longitude": 16.2494906
+    "longitude": 16.2494906,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -12,41 +14,59 @@
     "shop": "chemist",
     "latitude": 47.8975334,
     "longitude": 16.2499561,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2601",
+    "city": "Sollenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.8975966,
-    "longitude": 16.2452242
+    "longitude": 16.2452242,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kleiderreinigung Deutsch",
     "retailer": "kleiderreinigung_deutsch",
     "shop": "laundry",
     "latitude": 47.8984019,
-    "longitude": 16.2485035
+    "longitude": 16.2485035,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pacal",
     "retailer": "pacal",
     "shop": "bicycle",
     "latitude": 47.8995228,
-    "longitude": 16.2472419
+    "longitude": 16.2472419,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.8965972,
-    "longitude": 16.2499976
+    "longitude": 16.2499976,
+    "postcode": "2601",
+    "city": "Sollenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.8975847,
-    "longitude": 16.2452473
+    "longitude": 16.2452473,
+    "postcode": "2601",
+    "city": "Sollenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

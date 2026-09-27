@@ -4,7 +4,11 @@
     "retailer": "autohaus_nagiller_gmbh",
     "shop": "car_repair",
     "latitude": 47.2389829,
-    "longitude": 11.4344152
+    "longitude": 11.4344152,
+    "postcode": "6072",
+    "city": "Lans",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Autohaus Nagiller GmbH",
@@ -12,20 +16,30 @@
     "shop": "car",
     "latitude": 47.2390129,
     "longitude": 11.4347022,
-    "brand": "Skoda, VW, VW LNF, Audi, Seat, Cupra"
+    "brand": "Skoda, VW, VW LNF, Audi, Seat, Cupra",
+    "postcode": "6072",
+    "city": "Lans",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Merlin Group / L-E-D.COM Led Shop",
     "retailer": "merlin_group_l_e_d_com_led_shop",
     "shop": "doityourself",
     "latitude": 47.2392009,
-    "longitude": 11.4346459
+    "longitude": 11.4346459,
+    "postcode": "6072",
+    "city": "Lans",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sandra Leitner",
     "retailer": "sandra_leitner",
     "shop": "farm",
     "latitude": 47.2379699,
-    "longitude": 11.4334855
+    "longitude": 11.4334855,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.0016641,
     "longitude": 13.602263,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -13,21 +17,33 @@
     "shop": "chemist",
     "latitude": 48.0014513,
     "longitude": 13.6018327,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen Gebetsroither",
     "retailer": "blumen_gebetsroither",
     "shop": "florist",
     "latitude": 48.0012505,
-    "longitude": 13.6096597
+    "longitude": 13.6096597,
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Christine & Marc Unique Hairstyling",
     "retailer": "christine_und_marc_unique_hairstyling",
     "shop": "hairdresser",
     "latitude": 48.0028058,
-    "longitude": 13.6093887
+    "longitude": 13.6093887,
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Desigual",
@@ -35,34 +51,50 @@
     "shop": "clothes",
     "latitude": 48.0026772,
     "longitude": 13.6098424,
-    "brand": "Desigual"
+    "brand": "Desigual",
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofstadler Anita Juwelier",
     "retailer": "hofstadler_anita_juwelier",
     "shop": "jewelry",
     "latitude": 48.0024663,
-    "longitude": 13.6097476
+    "longitude": 13.6097476,
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Leckerbäcker - Walter Trückel",
     "retailer": "leckerbacker_walter_truckel",
     "shop": "bakery",
     "latitude": 48.0041082,
-    "longitude": 13.6074311
+    "longitude": 13.6074311,
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.0024869,
-    "longitude": 13.609545
+    "longitude": 13.609545,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik Gruber",
     "retailer": "trafik_gruber",
     "shop": "kiosk",
     "latitude": 48.0046069,
-    "longitude": 13.6074464
+    "longitude": 13.6074464,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,28 +4,40 @@
     "retailer": "achentaler_glaskunst",
     "shop": "gift",
     "latitude": 47.4233971,
-    "longitude": 11.7484314
+    "longitude": 11.7484314,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bakery",
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 47.4231452,
-    "longitude": 11.749253
+    "longitude": 11.749253,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gürtler Moden",
     "retailer": "gurtler_moden",
     "shop": "clothes",
     "latitude": 47.4237879,
-    "longitude": 11.7470926
+    "longitude": 11.7470926,
+    "postcode": "6212",
+    "city": "Eben am Achensee",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "H. Paregger",
     "retailer": "h_paregger",
     "shop": "jewelry",
     "latitude": 47.4233116,
-    "longitude": 11.7486988
+    "longitude": 11.7486988,
+    "postcode": "6212",
+    "city": "Eben am Achensee",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -33,6 +45,10 @@
     "shop": "supermarket",
     "latitude": 47.4237127,
     "longitude": 11.7477948,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6212",
+    "city": "Eben am Achensee",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

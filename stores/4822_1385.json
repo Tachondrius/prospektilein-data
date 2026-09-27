@@ -4,7 +4,11 @@
     "retailer": "bergsport_outlet",
     "shop": "outdoor",
     "latitude": 48.2256531,
-    "longitude": 13.8503696
+    "longitude": 13.8503696,
+    "postcode": "4707",
+    "city": "Schlüßlberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "C&A",
@@ -12,7 +16,9 @@
     "shop": "clothes",
     "latitude": 48.2255867,
     "longitude": 13.8501663,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -20,14 +26,22 @@
     "shop": "supermarket",
     "latitude": 48.2261376,
     "longitude": 13.8513141,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4707",
+    "city": "Schlüßlberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Floradies",
     "retailer": "floradies",
     "shop": "florist",
     "latitude": 48.2268132,
-    "longitude": 13.8515562
+    "longitude": 13.8515562,
+    "postcode": "4707",
+    "city": "Schlüßlberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Libro",
@@ -35,14 +49,22 @@
     "shop": "books",
     "latitude": 48.2259847,
     "longitude": 13.8502628,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "4707",
+    "city": "Schlüßlberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.2255421,
-    "longitude": 13.8502877
+    "longitude": 13.8502877,
+    "postcode": "4707",
+    "city": "Schlüßlberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stöbich",
@@ -50,6 +72,10 @@
     "shop": "car",
     "latitude": 48.2234222,
     "longitude": 13.850459,
-    "brand": "Nissan"
+    "brand": "Nissan",
+    "postcode": "4707",
+    "city": "Schlüßlberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

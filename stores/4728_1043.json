@@ -5,14 +5,18 @@
     "shop": "bakery",
     "latitude": 47.2872646,
     "longitude": 10.4302652,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lechtaler Haussegen",
     "retailer": "lechtaler_haussegen",
     "shop": "alcohol",
     "latitude": 47.2885955,
-    "longitude": 10.4324132
+    "longitude": 10.4324132,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -20,7 +24,11 @@
     "shop": "supermarket",
     "latitude": 47.2870755,
     "longitude": 10.4303968,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6652",
+    "city": "Elbigenalp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -28,6 +36,10 @@
     "shop": "supermarket",
     "latitude": 47.289273,
     "longitude": 10.4345321,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6652",
+    "city": "Elbigenalp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

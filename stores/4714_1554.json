@@ -4,14 +4,22 @@
     "retailer": "blumen_graf",
     "shop": "florist",
     "latitude": 47.1446924,
-    "longitude": 15.5479493
+    "longitude": 15.5479493,
+    "postcode": "8062",
+    "city": "Kumberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Farbberatung - Schönheitsschmiede",
     "retailer": "farbberatung_schonheitsschmiede",
     "shop": "cosmetics",
     "latitude": 47.1453029,
-    "longitude": 15.5457389
+    "longitude": 15.5457389,
+    "postcode": "8062",
+    "city": "Kumberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -19,7 +27,9 @@
     "shop": "supermarket",
     "latitude": 47.1440354,
     "longitude": 15.5482235,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -27,13 +37,21 @@
     "shop": "supermarket",
     "latitude": 47.1453243,
     "longitude": 15.5492579,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8062",
+    "city": "Kumberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tankstelle All-in",
     "retailer": "tankstelle_all_in",
     "shop": "yes",
     "latitude": 47.1440337,
-    "longitude": 15.5482514
+    "longitude": 15.5482514,
+    "postcode": "8062",
+    "city": "Kumberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "friseur_barbara",
     "shop": "hairdresser",
     "latitude": 47.3797177,
-    "longitude": 11.7718904
+    "longitude": 11.7718904,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -12,13 +14,18 @@
     "shop": "convenience",
     "latitude": 47.3794398,
     "longitude": 11.771495,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "city": "Buch in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.3795108,
-    "longitude": 11.7715252
+    "longitude": 11.7715252,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

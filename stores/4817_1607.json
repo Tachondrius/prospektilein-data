@@ -4,21 +4,29 @@
     "retailer": "bernd_pfleger",
     "shop": "travel_agency",
     "latitude": 48.1783921,
-    "longitude": 16.0770313
+    "longitude": 16.0770313,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumenladen Pop am Lindenhof",
     "retailer": "blumenladen_pop_am_lindenhof",
     "shop": "florist",
     "latitude": 48.1779221,
-    "longitude": 16.0751125
+    "longitude": 16.0751125,
+    "postcode": "3021",
+    "city": "Pressbaum",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dewanger",
     "retailer": "dewanger",
     "shop": "funeral_directors",
     "latitude": 48.1785455,
-    "longitude": 16.0766569
+    "longitude": 16.0766569,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -26,13 +34,19 @@
     "shop": "clothes",
     "latitude": 48.1798731,
     "longitude": 16.0784463,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "3021",
+    "city": "Pressbaum",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TuG Mobile",
     "retailer": "tug_mobile",
     "shop": "mobile_phone",
     "latitude": 48.1785681,
-    "longitude": 16.0766958
+    "longitude": 16.0766958,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

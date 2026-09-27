@@ -4,14 +4,22 @@
     "retailer": "autohaus_slanitsch",
     "shop": "car",
     "latitude": 46.5828856,
-    "longitude": 14.7969456
+    "longitude": 14.7969456,
+    "postcode": "9150",
+    "city": "Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blažej Center",
     "retailer": "blazej_center",
     "shop": "mall",
     "latitude": 46.5880736,
-    "longitude": 14.7989435
+    "longitude": 14.7989435,
+    "postcode": "9150",
+    "city": "Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eurospar",
@@ -19,7 +27,11 @@
     "shop": "supermarket",
     "latitude": 46.5868283,
     "longitude": 14.7952372,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "9150",
+    "city": "Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -27,6 +39,8 @@
     "shop": "clothes",
     "latitude": 46.5897547,
     "longitude": 14.7949398,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

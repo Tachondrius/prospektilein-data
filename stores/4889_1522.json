@@ -4,7 +4,9 @@
     "retailer": "adeg",
     "shop": "convenience",
     "latitude": 48.8926226,
-    "longitude": 15.2225486
+    "longitude": 15.2225486,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ing. Elmar Reininger eU",
@@ -12,7 +14,11 @@
     "shop": "car",
     "latitude": 48.8933815,
     "longitude": 15.2205062,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "3852",
+    "city": "Gastern",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -20,6 +26,10 @@
     "shop": "supermarket",
     "latitude": 48.8929417,
     "longitude": 15.2225598,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3852",
+    "city": "Gastern",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

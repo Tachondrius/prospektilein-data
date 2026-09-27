@@ -4,27 +4,37 @@
     "retailer": "bus_und_lkw_service_gmbh",
     "shop": "truck_repair",
     "latitude": 47.3631906,
-    "longitude": 11.7274919
+    "longitude": 11.7274919,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Landtechnik Oberhofer",
     "retailer": "landtechnik_oberhofer",
     "shop": "car_repair",
     "latitude": 47.3633409,
-    "longitude": 11.7294577
+    "longitude": 11.7294577,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schleudermax",
     "retailer": "schleudermax",
     "shop": "fabric",
     "latitude": 47.3600683,
-    "longitude": 11.7207921
+    "longitude": 11.7207921,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Seebacher",
     "retailer": "seebacher",
     "shop": "sports",
     "latitude": 47.3607787,
-    "longitude": 11.7215833
+    "longitude": 11.7215833,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

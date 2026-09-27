@@ -4,7 +4,9 @@
     "retailer": "bad_kleinkirchheimer_skigebiet",
     "shop": "ticket",
     "latitude": 46.8442215,
-    "longitude": 13.7662406
+    "longitude": 13.7662406,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Intersport",
@@ -12,13 +14,19 @@
     "shop": "sports",
     "latitude": 46.8444089,
     "longitude": 13.7664533,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ski- & Sportschulen Krainer - Wulschnig",
     "retailer": "ski_und_sportschulen_krainer_wulschnig",
     "shop": "sports",
     "latitude": 46.8441791,
-    "longitude": 13.7647904
+    "longitude": 13.7647904,
+    "postcode": "9546",
+    "city": "Bad Kleinkirchheim",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

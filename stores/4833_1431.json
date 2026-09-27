@@ -5,21 +5,27 @@
     "shop": "convenience",
     "latitude": 48.331177,
     "longitude": 14.317189,
-    "brand": "Billa Now"
+    "brand": "Billa Now",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Buch & Schreibwaren Winkler Markt",
     "retailer": "buch_und_schreibwaren_winkler_markt",
     "shop": "books",
     "latitude": 48.3336512,
-    "longitude": 14.3191864
+    "longitude": 14.3191864,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Digiprint",
     "retailer": "digiprint",
     "shop": "copyshop",
     "latitude": 48.3314121,
-    "longitude": 14.3120392
+    "longitude": 14.3120392,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -27,28 +33,39 @@
     "shop": "chemist",
     "latitude": 48.3301933,
     "longitude": 14.3180156,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "4040",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "eris-beauty",
     "retailer": "eris_beauty",
     "shop": "beauty",
     "latitude": 48.3346762,
-    "longitude": 14.3112401
+    "longitude": 14.3112401,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ernte Land Zauner",
     "retailer": "ernte_land_zauner",
     "shop": "convenience",
     "latitude": 48.3315204,
-    "longitude": 14.3121996
+    "longitude": 14.3121996,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Foto Strobl",
     "retailer": "foto_strobl",
     "shop": "photo",
     "latitude": 48.3372848,
-    "longitude": 14.3109523
+    "longitude": 14.3109523,
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fressnapf",
@@ -56,21 +73,33 @@
     "shop": "pet",
     "latitude": 48.3332694,
     "longitude": 14.3121861,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseur Heidemarie Wagner",
     "retailer": "friseur_heidemarie_wagner",
     "shop": "hairdresser",
     "latitude": 48.3308094,
-    "longitude": 14.3124627
+    "longitude": 14.3124627,
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseur im Auhof Christian Himmer",
     "retailer": "friseur_im_auhof_christian_himmer",
     "shop": "hairdresser",
     "latitude": 48.3303684,
-    "longitude": 14.3183438
+    "longitude": 14.3183438,
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hartlauer",
@@ -78,21 +107,27 @@
     "shop": "electronics",
     "latitude": 48.3343773,
     "longitude": 14.3189777,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Honeder",
     "retailer": "honeder",
     "shop": "bakery",
     "latitude": 48.3310344,
-    "longitude": 14.317933
+    "longitude": 14.317933,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Konditorei Preining",
     "retailer": "konditorei_preining",
     "shop": "pastry",
     "latitude": 48.3320038,
-    "longitude": 14.3101929
+    "longitude": 14.3101929,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Libro",
@@ -100,21 +135,31 @@
     "shop": "books",
     "latitude": 48.3301821,
     "longitude": 14.3127998,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Linz AG Bestattung",
     "retailer": "linz_ag_bestattung",
     "shop": "funeral_directors",
     "latitude": 48.331769,
-    "longitude": 14.3102325
+    "longitude": 14.3102325,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "myFlowers",
     "retailer": "myflowers",
     "shop": "florist",
     "latitude": 48.3304256,
-    "longitude": 14.3181341
+    "longitude": 14.3181341,
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "PENNY",
@@ -122,14 +167,22 @@
     "shop": "supermarket",
     "latitude": 48.335178,
     "longitude": 14.3130973,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Karizma Herrenfriseur",
     "retailer": "salon_karizma_herrenfriseur",
     "shop": "hairdresser",
     "latitude": 48.3300757,
-    "longitude": 14.3128361
+    "longitude": 14.3128361,
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -137,7 +190,11 @@
     "shop": "supermarket",
     "latitude": 48.331159,
     "longitude": 14.3125988,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -145,41 +202,56 @@
     "shop": "convenience",
     "latitude": 48.3368136,
     "longitude": 14.3153693,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4040",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Textilreinigung Gaby Zimmermann",
     "retailer": "textilreinigung_gaby_zimmermann",
     "shop": "dry_cleaning",
     "latitude": 48.3339012,
-    "longitude": 14.319167
+    "longitude": 14.319167,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 48.3309899,
-    "longitude": 14.3178691
+    "longitude": 14.3178691,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik Miskovic",
     "retailer": "trafik_miskovic",
     "shop": "tobacco",
     "latitude": 48.3315139,
-    "longitude": 14.3121083
+    "longitude": 14.3121083,
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Winkler-Markt",
     "retailer": "winkler_markt",
     "shop": "supermarket",
     "latitude": 48.3334439,
-    "longitude": 14.3193364
+    "longitude": 14.3193364,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Winklermarkt",
     "retailer": "winklermarkt",
     "shop": "bakery",
     "latitude": 48.3337568,
-    "longitude": 14.319127
+    "longitude": 14.319127,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

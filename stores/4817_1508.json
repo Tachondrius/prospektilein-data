@@ -5,21 +5,27 @@
     "shop": "variety_store",
     "latitude": 48.1700498,
     "longitude": 15.0862487,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ASC Der Bogenladen",
     "retailer": "asc_der_bogenladen",
     "shop": "sports",
     "latitude": 48.1787359,
-    "longitude": 15.0834232
+    "longitude": 15.0834232,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 48.1750004,
-    "longitude": 15.0812392
+    "longitude": 15.0812392,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -27,7 +33,9 @@
     "shop": "supermarket",
     "latitude": 48.1716693,
     "longitude": 15.0851516,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -35,21 +43,29 @@
     "shop": "chemist",
     "latitude": 48.1716615,
     "longitude": 15.0853605,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Buchmayer",
     "retailer": "buchmayer",
     "shop": "butcher",
     "latitude": 48.1773393,
-    "longitude": 15.0827243
+    "longitude": 15.0827243,
+    "postcode": "3370",
+    "city": "Ybbs an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ceni's Barber Shop",
     "retailer": "ceni_s_barber_shop",
     "shop": "hairdresser",
     "latitude": 48.1782918,
-    "longitude": 15.084979
+    "longitude": 15.084979,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Colloseum",
@@ -57,7 +73,9 @@
     "shop": "clothes",
     "latitude": 48.1728146,
     "longitude": 15.0852159,
-    "brand": "Colloseum"
+    "brand": "Colloseum",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Das Futterhaus",
@@ -65,7 +83,9 @@
     "shop": "pet",
     "latitude": 48.172895,
     "longitude": 15.0852602,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichmann",
@@ -73,21 +93,27 @@
     "shop": "shoes",
     "latitude": 48.1725548,
     "longitude": 15.0852194,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Elektro Lindner",
     "retailer": "elektro_lindner",
     "shop": "electronics",
     "latitude": 48.178718,
-    "longitude": 15.0803997
+    "longitude": 15.0803997,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Emanuela Dessous & Bademoden",
     "retailer": "emanuela_dessous_und_bademoden",
     "shop": "boutique",
     "latitude": 48.1767841,
-    "longitude": 15.0812016
+    "longitude": 15.0812016,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Essmeister Full Service",
@@ -95,7 +121,9 @@
     "shop": "kiosk",
     "latitude": 48.1753588,
     "longitude": 15.0850203,
-    "brand": "Essmeister"
+    "brand": "Essmeister",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -103,21 +131,27 @@
     "shop": "supermarket",
     "latitude": 48.1724676,
     "longitude": 15.0846706,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Forster",
     "retailer": "forster",
     "shop": "optician",
     "latitude": 48.1726471,
-    "longitude": 15.085231
+    "longitude": 15.085231,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Ybbs",
     "retailer": "friseur_ybbs",
     "shop": "hairdresser",
     "latitude": 48.1772071,
-    "longitude": 15.0847289
+    "longitude": 15.0847289,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fussl",
@@ -125,35 +159,47 @@
     "shop": "clothes",
     "latitude": 48.1729559,
     "longitude": 15.0851545,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gemüse Lechner",
     "retailer": "gemuse_lechner",
     "shop": "greengrocer",
     "latitude": 48.1782502,
-    "longitude": 15.0806846
+    "longitude": 15.0806846,
+    "postcode": "3370",
+    "city": "Ybbs an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Jiyan's Beauty",
     "retailer": "jiyan_s_beauty",
     "shop": "hairdresser",
     "latitude": 48.1791303,
-    "longitude": 15.0802843
+    "longitude": 15.0802843,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KAUFein Ybbs",
     "retailer": "kaufein_ybbs",
     "shop": "mall",
     "latitude": 48.1726784,
-    "longitude": 15.08516
+    "longitude": 15.08516,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Luftensteiner",
     "retailer": "kfz_luftensteiner",
     "shop": "car_repair",
     "latitude": 48.1705382,
-    "longitude": 15.084272
+    "longitude": 15.084272,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -161,21 +207,29 @@
     "shop": "supermarket",
     "latitude": 48.1750968,
     "longitude": 15.084548,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "3370",
+    "city": "Ybbs an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Massage-Fußpflege Ruttnig",
     "retailer": "massage_fupflege_ruttnig",
     "shop": "beauty",
     "latitude": 48.1783636,
-    "longitude": 15.084866
+    "longitude": 15.084866,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Möbel Edelman",
     "retailer": "mobel_edelman",
     "shop": "furniture",
     "latitude": 48.1703591,
-    "longitude": 15.0854167
+    "longitude": 15.0854167,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Müller",
@@ -183,14 +237,18 @@
     "shop": "chemist",
     "latitude": 48.1724617,
     "longitude": 15.0851282,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nagelstudio Beauty Nails",
     "retailer": "nagelstudio_beauty_nails",
     "shop": "beauty",
     "latitude": 48.1769181,
-    "longitude": 15.082682
+    "longitude": 15.082682,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "New Yorker",
@@ -198,7 +256,9 @@
     "shop": "clothes",
     "latitude": 48.1730943,
     "longitude": 15.0850688,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -206,21 +266,27 @@
     "shop": "clothes",
     "latitude": 48.1716851,
     "longitude": 15.0849081,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pecksteiner",
     "retailer": "pecksteiner",
     "shop": "toys",
     "latitude": 48.1785282,
-    "longitude": 15.0835713
+    "longitude": 15.0835713,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pecksteiner",
     "retailer": "pecksteiner",
     "shop": "clothes",
     "latitude": 48.1788324,
-    "longitude": 15.0839237
+    "longitude": 15.0839237,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY Ybbs",
@@ -228,97 +294,129 @@
     "shop": "supermarket",
     "latitude": 48.1722833,
     "longitude": 15.0835338,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Putzerei Schmidt",
     "retailer": "putzerei_schmidt",
     "shop": "dry_cleaning",
     "latitude": 48.1772423,
-    "longitude": 15.0846411
+    "longitude": 15.0846411,
+    "postcode": "3370",
+    "city": "Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rainer Hair & Beauty",
     "retailer": "rainer_hair_und_beauty",
     "shop": "hairdresser",
     "latitude": 48.1775449,
-    "longitude": 15.0836987
+    "longitude": 15.0836987,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Raumausstatter Riegler",
     "retailer": "raumausstatter_riegler",
     "shop": "interior_decoration",
     "latitude": 48.1798259,
-    "longitude": 15.0800419
+    "longitude": 15.0800419,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "RAWselections",
     "retailer": "rawselections",
     "shop": "alcohol",
     "latitude": 48.177375,
-    "longitude": 15.0833621
+    "longitude": 15.0833621,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Salon Mayer",
     "retailer": "salon_mayer",
     "shop": "hairdresser",
     "latitude": 48.1772912,
-    "longitude": 15.0855975
+    "longitude": 15.0855975,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schuhe Orthopädie Geyrecker",
     "retailer": "schuhe_orthopadie_geyrecker",
     "shop": "shoes",
     "latitude": 48.1775765,
-    "longitude": 15.0813608
+    "longitude": 15.0813608,
+    "postcode": "3370",
+    "city": "Ybbs an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Silvia Käfinger",
     "retailer": "silvia_kafinger",
     "shop": "beauty",
     "latitude": 48.1780989,
-    "longitude": 15.0849497
+    "longitude": 15.0849497,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sport Walcher",
     "retailer": "sport_walcher",
     "shop": "sports",
     "latitude": 48.1797124,
-    "longitude": 15.0801137
+    "longitude": 15.0801137,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabaktrafik Grafeneder",
     "retailer": "tabaktrafik_grafeneder",
     "shop": "newsagent",
     "latitude": 48.1768078,
-    "longitude": 15.0814656
+    "longitude": 15.0814656,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 48.1774166,
-    "longitude": 15.0854242
+    "longitude": 15.0854242,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Uhren Siegl",
     "retailer": "uhren_siegl",
     "shop": "jewelry",
     "latitude": 48.1770238,
-    "longitude": 15.0839496
+    "longitude": 15.0839496,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ybbs City Tattoo",
     "retailer": "ybbs_city_tattoo",
     "shop": "tattoo",
     "latitude": 48.1791236,
-    "longitude": 15.0836443
+    "longitude": 15.0836443,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ybbstech Mobile&Computer",
     "retailer": "ybbstech_mobile_und_computer",
     "shop": "electronics",
     "latitude": 48.1768816,
-    "longitude": 15.0862321
+    "longitude": 15.0862321,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

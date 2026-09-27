@@ -4,7 +4,11 @@
     "retailer": "gegenhuber_backerei_plus_konditorei",
     "shop": "bakery",
     "latitude": 48.0760352,
-    "longitude": 14.5129448
+    "longitude": 14.5129448,
+    "postcode": "4431",
+    "city": "Haidershofen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -12,13 +16,19 @@
     "shop": "supermarket",
     "latitude": 48.0772273,
     "longitude": 14.5169923,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4431",
+    "city": "Haidershofen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.0772201,
-    "longitude": 14.5169715
+    "longitude": 14.5169715,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

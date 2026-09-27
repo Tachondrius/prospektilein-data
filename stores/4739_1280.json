@@ -4,7 +4,9 @@
     "retailer": "berger",
     "shop": "car",
     "latitude": 47.3996119,
-    "longitude": 12.8040249
+    "longitude": 12.8040249,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -12,6 +14,10 @@
     "shop": "trade",
     "latitude": 47.3908576,
     "longitude": 12.8027047,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "5760",
+    "city": "Saalfelden am Steinernen Meer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

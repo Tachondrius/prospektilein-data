@@ -4,28 +4,40 @@
     "retailer": "dorfladen_wirth",
     "shop": "deli",
     "latitude": 47.8368197,
-    "longitude": 16.4128976
+    "longitude": 16.4128976,
+    "postcode": "7035",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Erlebnis Dekoration",
     "retailer": "erlebnis_dekoration",
     "shop": "gift",
     "latitude": 47.8365671,
-    "longitude": 16.4128487
+    "longitude": 16.4128487,
+    "postcode": "7035",
+    "city": "Steinbrunn",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Friseur Denise Schmidt",
     "retailer": "friseur_denise_schmidt",
     "shop": "hairdresser",
     "latitude": 47.8349983,
-    "longitude": 16.4158475
+    "longitude": 16.4158475,
+    "postcode": "7035",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.8371023,
-    "longitude": 16.4137781
+    "longitude": 16.4137781,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Toyota Ullrich",
@@ -33,6 +45,8 @@
     "shop": "car",
     "latitude": 47.8320542,
     "longitude": 16.416982,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

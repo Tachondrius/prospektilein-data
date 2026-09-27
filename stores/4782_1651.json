@@ -5,7 +5,11 @@
     "shop": "garden_centre",
     "latitude": 47.8277856,
     "longitude": 16.5185775,
-    "brand": "Bellaflora"
+    "brand": "Bellaflora",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Billa Plus",
@@ -13,14 +17,20 @@
     "shop": "supermarket",
     "latitude": 47.8298605,
     "longitude": 16.5199631,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Installationstechnik Wild",
     "retailer": "installationstechnik_wild",
     "shop": "yes",
     "latitude": 47.8296743,
-    "longitude": 16.519174
+    "longitude": 16.519174,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "KiK",
@@ -28,7 +38,9 @@
     "shop": "clothes",
     "latitude": 47.8295591,
     "longitude": 16.5191869,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lidl",
@@ -36,21 +48,27 @@
     "shop": "supermarket",
     "latitude": 47.8295432,
     "longitude": 16.5194852,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "MERA Handy Shop",
     "retailer": "mera_handy_shop",
     "shop": "mobile_phone",
     "latitude": 47.8293891,
-    "longitude": 16.519395
+    "longitude": 16.519395,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Möbel Atlas",
     "retailer": "mobel_atlas",
     "shop": "furniture",
     "latitude": 47.8293171,
-    "longitude": 16.5195023
+    "longitude": 16.5195023,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "NKD",
@@ -58,7 +76,9 @@
     "shop": "clothes",
     "latitude": 47.829235,
     "longitude": 16.5196547,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "TEDi",
@@ -66,6 +86,8 @@
     "shop": "variety_store",
     "latitude": 47.8290995,
     "longitude": 16.5197834,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

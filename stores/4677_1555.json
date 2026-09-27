@@ -5,13 +5,20 @@
     "shop": "tyres",
     "latitude": 46.7733857,
     "longitude": 15.5517457,
-    "brand": "BestDrive by Continental"
+    "brand": "BestDrive by Continental",
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Studio Wunderschoen",
     "retailer": "studio_wunderschoen",
     "shop": "cosmetics",
     "latitude": 46.7735311,
-    "longitude": 15.5504326
+    "longitude": 15.5504326,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,20 +4,27 @@
     "retailer": "beauty_und_medical_spa",
     "shop": "beauty",
     "latitude": 47.5293747,
-    "longitude": 11.7094503
+    "longitude": 11.7094503,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Cafe Adler",
     "retailer": "backerei_cafe_adler",
     "shop": "bakery",
     "latitude": 47.5261628,
-    "longitude": 11.7075598
+    "longitude": 11.7075598,
+    "city": "Achenkirch",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseursalon Pany",
     "retailer": "friseursalon_pany",
     "shop": "hairdresser",
     "latitude": 47.5288289,
-    "longitude": 11.7071338
+    "longitude": 11.7071338,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

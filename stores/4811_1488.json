@@ -5,14 +5,22 @@
     "shop": "garden_centre",
     "latitude": 48.1174521,
     "longitude": 14.8810778,
-    "brand": "Bellaflora"
+    "brand": "Bellaflora",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Doityourself",
     "retailer": "shop_doityourself",
     "shop": "doityourself",
     "latitude": 48.117298,
-    "longitude": 14.8841475
+    "longitude": 14.8841475,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -20,6 +28,10 @@
     "shop": "car_repair",
     "latitude": 48.1193137,
     "longitude": 14.882684,
-    "brand": "MAN"
+    "brand": "MAN",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

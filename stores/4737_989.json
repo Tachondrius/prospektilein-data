@@ -5,20 +5,28 @@
     "shop": "supermarket",
     "latitude": 47.3780174,
     "longitude": 9.8908394,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Devich Holzschuherzeugung",
     "retailer": "devich_holzschuherzeugung",
     "shop": "shoes",
     "latitude": 47.3773168,
-    "longitude": 9.8953868
+    "longitude": 9.8953868,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "s'Ronklädele",
     "retailer": "s_ronkladele",
     "shop": "farm",
     "latitude": 47.3766881,
-    "longitude": 9.8955162
+    "longitude": 9.8955162,
+    "postcode": "6870",
+    "city": "Bezau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

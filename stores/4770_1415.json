@@ -5,21 +5,29 @@
     "shop": "supermarket",
     "latitude": 47.7004304,
     "longitude": 14.1581701,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bunkl&Co",
     "retailer": "bunkl_und_co",
     "shop": "bakery",
     "latitude": 47.7000842,
-    "longitude": 14.1530962
+    "longitude": 14.1530962,
+    "postcode": "4573",
+    "city": "Hinterstoder",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hössbahn",
     "retailer": "hossbahn",
     "shop": "ticket",
     "latitude": 47.7008498,
-    "longitude": 14.1586802
+    "longitude": 14.1586802,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Intersport",
@@ -27,6 +35,10 @@
     "shop": "sports",
     "latitude": 47.7005639,
     "longitude": 14.1579671,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "4573",
+    "city": "Hinterstoder",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

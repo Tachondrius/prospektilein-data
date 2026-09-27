@@ -4,7 +4,11 @@
     "retailer": "frisiersalon_anita",
     "shop": "hairdresser",
     "latitude": 48.7819695,
-    "longitude": 15.8105979
+    "longitude": 15.8105979,
+    "postcode": "2084",
+    "city": "Weitersfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Harrer",
@@ -12,20 +16,30 @@
     "shop": "car_repair",
     "latitude": 48.7802561,
     "longitude": 15.8111126,
-    "brand": "Toyota;New Holland"
+    "brand": "Toyota;New Holland",
+    "postcode": "2084",
+    "city": "Weitersfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Jugendkapelle Weitersfeld",
     "retailer": "jugendkapelle_weitersfeld",
     "shop": "musical_instrument",
     "latitude": 48.7815649,
-    "longitude": 15.8116424
+    "longitude": 15.8116424,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch Robert Schmid",
     "retailer": "nah_und_frisch",
     "shop": "convenience",
     "latitude": 48.7825665,
-    "longitude": 15.8107333
+    "longitude": 15.8107333,
+    "postcode": "2084",
+    "city": "Weitersfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

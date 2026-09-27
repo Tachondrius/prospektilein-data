@@ -4,27 +4,37 @@
     "retailer": "fachmarkt_leitner",
     "shop": "hardware",
     "latitude": 48.6651148,
-    "longitude": 16.2461843
+    "longitude": 16.2461843,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei Holzer",
     "retailer": "fleischerei_holzer",
     "shop": "butcher",
     "latitude": 48.6636994,
-    "longitude": 16.2449949
+    "longitude": 16.2449949,
+    "postcode": "2034",
+    "city": "Großharras",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah&Frisch Langer",
     "retailer": "nah_und_frisch",
     "shop": "convenience",
     "latitude": 48.6650183,
-    "longitude": 16.2463801
+    "longitude": 16.2463801,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schuster",
     "retailer": "schuster",
     "shop": "butcher",
     "latitude": 48.6632547,
-    "longitude": 16.2468964
+    "longitude": 16.2468964,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

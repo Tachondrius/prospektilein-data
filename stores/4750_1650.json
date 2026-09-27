@@ -4,7 +4,9 @@
     "retailer": "auto_kneisz",
     "shop": "car",
     "latitude": 47.5079142,
-    "longitude": 16.5031719
+    "longitude": 16.5031719,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Eurospar",
@@ -12,14 +14,20 @@
     "shop": "supermarket",
     "latitude": 47.5065072,
     "longitude": 16.500037,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "7350",
+    "city": "Oberpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Home Decor Anilin",
     "retailer": "home_decor_anilin",
     "shop": "interior_decoration",
     "latitude": 47.5002561,
-    "longitude": 16.5057364
+    "longitude": 16.5057364,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Mazda Kleinrath",
@@ -27,21 +35,31 @@
     "shop": "car",
     "latitude": 47.5090828,
     "longitude": 16.5012085,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Optiker Hengge",
     "retailer": "optiker_hengge",
     "shop": "optician",
     "latitude": 47.5012216,
-    "longitude": 16.5054201
+    "longitude": 16.5054201,
+    "postcode": "7350",
+    "city": "Oberpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Optiker Wohlfart",
     "retailer": "optiker_wohlfart",
     "shop": "optician",
     "latitude": 47.5016498,
-    "longitude": 16.5048433
+    "longitude": 16.5048433,
+    "postcode": "7350",
+    "city": "Oberpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "PENNY",
@@ -49,6 +67,10 @@
     "shop": "supermarket",
     "latitude": 47.5032628,
     "longitude": 16.5081289,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "7350",
+    "city": "Oberpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

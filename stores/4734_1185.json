@@ -5,14 +5,20 @@
     "shop": "bakery",
     "latitude": 47.3452477,
     "longitude": 11.8520096,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Einrichtungshaus Wetscher",
     "retailer": "einrichtungshaus_wetscher",
     "shop": "furniture",
     "latitude": 47.3475971,
-    "longitude": 11.8520398
+    "longitude": 11.8520398,
+    "postcode": "6263",
+    "city": "Fügen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -20,14 +26,20 @@
     "shop": "supermarket",
     "latitude": 47.3451801,
     "longitude": 11.8518324,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Opbacher",
     "retailer": "opbacher",
     "shop": "bathroom_furnishing",
     "latitude": 47.3410303,
-    "longitude": 11.8502356
+    "longitude": 11.8502356,
+    "postcode": "6263",
+    "city": "Fügen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Quick Schuh",
@@ -35,14 +47,18 @@
     "shop": "shoes",
     "latitude": 47.3455944,
     "longitude": 11.8501397,
-    "brand": "Quick Schuh"
+    "brand": "Quick Schuh",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ritzl",
     "retailer": "ritzl",
     "shop": "optician",
     "latitude": 47.3456028,
-    "longitude": 11.8503623
+    "longitude": 11.8503623,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -50,7 +66,9 @@
     "shop": "supermarket",
     "latitude": 47.3426662,
     "longitude": 11.8504291,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -58,20 +76,30 @@
     "shop": "supermarket",
     "latitude": 47.3487033,
     "longitude": 11.8518573,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6263",
+    "city": "Fügen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wetscher Max",
     "retailer": "wetscher_max",
     "shop": "furniture",
     "latitude": 47.3474824,
-    "longitude": 11.8536341
+    "longitude": 11.8536341,
+    "postcode": "6263",
+    "city": "Fügen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zillertaler Heumilch-Sennerei",
     "retailer": "zillertaler_heumilch_sennerei",
     "shop": "supermarket",
     "latitude": 47.3420912,
-    "longitude": 11.8526992
+    "longitude": 11.8526992,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

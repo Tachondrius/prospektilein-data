@@ -5,63 +5,91 @@
     "shop": "car",
     "latitude": 48.2717564,
     "longitude": 14.4278643,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "4225",
+    "city": "Luftenberg an der Donau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "bioobstbau peterseil",
     "retailer": "bioobstbau_peterseil",
     "shop": "farm",
     "latitude": 48.275084,
-    "longitude": 14.4288875
+    "longitude": 14.4288875,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Care & Go",
     "retailer": "care_und_go",
     "shop": "cosmetics",
     "latitude": 48.2715458,
-    "longitude": 14.4248095
+    "longitude": 14.4248095,
+    "postcode": "4225",
+    "city": "Luftenberg an der Donau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Die Weinhandlung",
     "retailer": "die_weinhandlung",
     "shop": "alcohol",
     "latitude": 48.2710816,
-    "longitude": 14.4282028
+    "longitude": 14.4282028,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseur FigaroUno",
     "retailer": "friseur_figarouno",
     "shop": "hairdresser",
     "latitude": 48.2710776,
-    "longitude": 14.428292
+    "longitude": 14.428292,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.2712192,
-    "longitude": 14.4280445
+    "longitude": 14.4280445,
+    "postcode": "4225",
+    "city": "Luftenberg an der Donau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Massage Baumgartner",
     "retailer": "massage_baumgartner",
     "shop": "massage",
     "latitude": 48.2742532,
-    "longitude": 14.4281166
+    "longitude": 14.4281166,
+    "postcode": "4225",
+    "city": "Luftenberg an der Donau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sabine Leonhardsberger - Trafik",
     "retailer": "sabine_leonhardsberger_trafik",
     "shop": "kiosk",
     "latitude": 48.2710852,
-    "longitude": 14.4280552
+    "longitude": 14.4280552,
+    "postcode": "4225",
+    "city": "Luftenberg an der Donau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Selbstbedienungsladen Peterseil",
     "retailer": "selbstbedienungsladen_peterseil",
     "shop": "farm",
     "latitude": 48.2751849,
-    "longitude": 14.428699
+    "longitude": 14.428699,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -69,6 +97,8 @@
     "shop": "supermarket",
     "latitude": 48.2713117,
     "longitude": 14.4280016,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

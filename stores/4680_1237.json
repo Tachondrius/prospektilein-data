@@ -4,14 +4,18 @@
     "retailer": "backerei_bachmann",
     "shop": "bakery",
     "latitude": 46.8080195,
-    "longitude": 12.370753
+    "longitude": 12.370753,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dorf.ladele",
     "retailer": "dorf_ladele",
     "shop": "craft",
     "latitude": 46.8078797,
-    "longitude": 12.3704667
+    "longitude": 12.3704667,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -19,13 +23,21 @@
     "shop": "supermarket",
     "latitude": 46.8080896,
     "longitude": 12.3715339,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9932",
+    "city": "Innervillgraten",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Villgrater Bauernladen",
     "retailer": "villgrater_bauernladen",
     "shop": "supermarket",
     "latitude": 46.808241,
-    "longitude": 12.3714361
+    "longitude": 12.3714361,
+    "postcode": "9932",
+    "city": "Innervillgraten",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

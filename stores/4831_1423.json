@@ -5,20 +5,31 @@
     "shop": "supermarket",
     "latitude": 48.3103946,
     "longitude": 14.2342085,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4048",
+    "city": "Puchenau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Filipp",
     "retailer": "filipp",
     "shop": "bakery",
     "latitude": 48.3104445,
-    "longitude": 14.2337435
+    "longitude": 14.2337435,
+    "postcode": "4048",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lederleitner",
     "retailer": "lederleitner",
     "shop": "garden_centre",
     "latitude": 48.3120817,
-    "longitude": 14.2349992
+    "longitude": 14.2349992,
+    "postcode": "4048",
+    "city": "Puchenau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

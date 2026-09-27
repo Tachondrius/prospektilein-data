@@ -5,34 +5,48 @@
     "shop": "chemist",
     "latitude": 47.0770133,
     "longitude": 15.5827801,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Diebald",
     "retailer": "diebald",
     "shop": "medical_supply",
     "latitude": 47.0770194,
-    "longitude": 15.5830171
+    "longitude": 15.5830171,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Marina",
     "retailer": "friseur_marina",
     "shop": "hairdresser",
     "latitude": 47.0749962,
-    "longitude": 15.5894331
+    "longitude": 15.5894331,
+    "postcode": "8301",
+    "city": "Laßnitzhöhe",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reitzer´s Bauernladen",
     "retailer": "reitzer_s_bauernladen",
     "shop": "greengrocer",
     "latitude": 47.0764304,
-    "longitude": 15.5828281
+    "longitude": 15.5828281,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Noll",
     "retailer": "trafik_noll",
     "shop": "kiosk",
     "latitude": 47.0761545,
-    "longitude": 15.5845033
+    "longitude": 15.5845033,
+    "postcode": "8301",
+    "city": "Laßnitzhöhe",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

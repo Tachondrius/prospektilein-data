@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.3907855,
     "longitude": 13.6576789,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -13,14 +17,18 @@
     "shop": "clothes",
     "latitude": 47.3910954,
     "longitude": 13.6588917,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klieber Schuhe",
     "retailer": "klieber_schuhe",
     "shop": "shoes",
     "latitude": 47.3911,
-    "longitude": 13.6591
+    "longitude": 13.6591,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -28,13 +36,19 @@
     "shop": "supermarket",
     "latitude": 47.3911278,
     "longitude": 13.6594836,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Taxi Maxi",
     "retailer": "taxi_maxi",
     "shop": "travel_agency",
     "latitude": 47.3900557,
-    "longitude": 13.6550962
+    "longitude": 13.6550962,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

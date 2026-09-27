@@ -5,14 +5,22 @@
     "shop": "doityourself",
     "latitude": 48.0772736,
     "longitude": 16.3315824,
-    "brand": "Bauhaus"
+    "brand": "Bauhaus",
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bergin Werkzeugmärkte GmbH",
     "retailer": "bergin_werkzeugmarkte_gmbh",
     "shop": "doityourself",
     "latitude": 48.0734555,
-    "longitude": 16.3356226
+    "longitude": 16.3356226,
+    "postcode": "2362",
+    "city": "Biedermannsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Box",
@@ -20,27 +28,41 @@
     "shop": "supermarket",
     "latitude": 48.0772538,
     "longitude": 16.3302341,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ferrocom Möbelgroßhandel",
     "retailer": "ferrocom_mobelgrohandel",
     "shop": "furniture",
     "latitude": 48.076631,
-    "longitude": 16.3351679
+    "longitude": 16.3351679,
+    "postcode": "2362",
+    "city": "Biedermannsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Golf House Wiener Neudorf",
     "retailer": "golf_house_wiener_neudorf",
     "shop": "sports",
     "latitude": 48.0724309,
-    "longitude": 16.3370522
+    "longitude": 16.3370522,
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SIT WELL Gartenmöbel",
     "retailer": "sit_well_gartenmobel",
     "shop": "furniture",
     "latitude": 48.0768388,
-    "longitude": 16.3351357
+    "longitude": 16.3351357,
+    "postcode": "2362",
+    "city": "Biedermannsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

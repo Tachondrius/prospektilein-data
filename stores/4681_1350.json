@@ -4,7 +4,9 @@
     "retailer": "garten_und_floristik_winkler",
     "shop": "garden_centre",
     "latitude": 46.8148311,
-    "longitude": 13.5084995
+    "longitude": 13.5084995,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 46.8170546,
     "longitude": 13.5087721,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "9871",
+    "city": "Seeboden am Millstätter See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -20,6 +26,10 @@
     "shop": "supermarket",
     "latitude": 46.8163413,
     "longitude": 13.5094231,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9871",
+    "city": "Seeboden am Millstätter See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

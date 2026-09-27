@@ -4,28 +4,40 @@
     "retailer": "andrea_egger",
     "shop": "massage",
     "latitude": 47.8100958,
-    "longitude": 13.0501046
+    "longitude": 13.0501046,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Autoland Salzburg",
     "retailer": "autoland_salzburg",
     "shop": "car",
     "latitude": 47.817451,
-    "longitude": 13.0536704
+    "longitude": 13.0536704,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bauwerk Parkett",
     "retailer": "bauwerk_parkett",
     "shop": "doityourself",
     "latitude": 47.8169341,
-    "longitude": 13.0594042
+    "longitude": 13.0594042,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Boden Outlet Salzburg",
     "retailer": "boden_outlet_salzburg",
     "shop": "doityourself",
     "latitude": 47.8110059,
-    "longitude": 13.05432
+    "longitude": 13.05432,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bosch Service Ebi",
@@ -33,91 +45,131 @@
     "shop": "car_repair",
     "latitude": 47.8193103,
     "longitude": 13.0557778,
-    "brand": "Bosch Car Service"
+    "brand": "Bosch Car Service",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Car Klinik",
     "retailer": "car_klinik",
     "shop": "car_repair",
     "latitude": 47.8135129,
-    "longitude": 13.0512032
+    "longitude": 13.0512032,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Car-Point Fahrzeuge",
     "retailer": "car_point_fahrzeuge",
     "shop": "car",
     "latitude": 47.8182134,
-    "longitude": 13.0530102
+    "longitude": 13.0530102,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Chinesische Massagepraxis",
     "retailer": "chinesische_massagepraxis",
     "shop": "massage",
     "latitude": 47.8110778,
-    "longitude": 13.054834
+    "longitude": 13.054834,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "CIA-Tattoo",
     "retailer": "cia_tattoo",
     "shop": "tattoo",
     "latitude": 47.8101768,
-    "longitude": 13.0503287
+    "longitude": 13.0503287,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "d'Loigoma",
     "retailer": "d_loigoma",
     "shop": "furniture",
     "latitude": 47.8153772,
-    "longitude": 13.0538089
+    "longitude": 13.0538089,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Der Friseur",
     "retailer": "der_friseur",
     "shop": "hairdresser",
     "latitude": 47.8180361,
-    "longitude": 13.0518826
+    "longitude": 13.0518826,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "FASTBOX",
     "retailer": "fastbox",
     "shop": "car_repair",
     "latitude": 47.8153421,
-    "longitude": 13.0503058
+    "longitude": 13.0503058,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fischer Parkett",
     "retailer": "fischer_parkett",
     "shop": "flooring",
     "latitude": 47.8136522,
-    "longitude": 13.0537789
+    "longitude": 13.0537789,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fliesendesign Peschek",
     "retailer": "fliesendesign_peschek",
     "shop": "tiles",
     "latitude": 47.8127965,
-    "longitude": 13.0558247
+    "longitude": 13.0558247,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Foto Kücher",
     "retailer": "foto_kucher",
     "shop": "photo",
     "latitude": 47.8147616,
-    "longitude": 13.0539781
+    "longitude": 13.0539781,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gran Tourismo Bike",
     "retailer": "gran_tourismo_bike",
     "shop": "bicycle",
     "latitude": 47.8133299,
-    "longitude": 13.0506779
+    "longitude": 13.0506779,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Guido Zotti",
     "retailer": "guido_zotti",
     "shop": "furniture",
     "latitude": 47.8186156,
-    "longitude": 13.0534741
+    "longitude": 13.0534741,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Honda Frauenschuh",
@@ -125,35 +177,55 @@
     "shop": "motorcycle",
     "latitude": 47.8155674,
     "longitude": 13.0581793,
-    "brand": "Honda"
+    "brand": "Honda",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kavak Supermarkt",
     "retailer": "kavak_supermarkt",
     "shop": "supermarket",
     "latitude": 47.8136908,
-    "longitude": 13.0502961
+    "longitude": 13.0502961,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Klein Autoteile",
     "retailer": "klein_autoteile",
     "shop": "car_parts",
     "latitude": 47.8189261,
-    "longitude": 13.0581377
+    "longitude": 13.0581377,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Küchenprofis",
     "retailer": "kuchenprofis",
     "shop": "kitchen",
     "latitude": 47.8135602,
-    "longitude": 13.0537633
+    "longitude": 13.0537633,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lucky Car",
     "retailer": "lucky_car",
     "shop": "car_repair",
     "latitude": 47.8198283,
-    "longitude": 13.0542115
+    "longitude": 13.0542115,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Matratzen Concord",
@@ -161,21 +233,31 @@
     "shop": "bed",
     "latitude": 47.8106197,
     "longitude": 13.0548919,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Media Tech",
     "retailer": "media_tech",
     "shop": "electronics",
     "latitude": 47.8135261,
-    "longitude": 13.0531405
+    "longitude": 13.0531405,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Ninjas.Jetzt",
     "retailer": "ninjas_jetzt",
     "shop": "supermarket",
     "latitude": 47.8128154,
-    "longitude": 13.0561412
+    "longitude": 13.0561412,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Norma",
@@ -183,42 +265,64 @@
     "shop": "supermarket",
     "latitude": 47.8135982,
     "longitude": 13.0517393,
-    "brand": "Norma"
+    "brand": "Norma",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Plankenauer",
     "retailer": "plankenauer",
     "shop": "car_repair",
     "latitude": 47.8153398,
-    "longitude": 13.0504373
+    "longitude": 13.0504373,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Porsche Salzburg",
     "retailer": "porsche_salzburg",
     "shop": "car",
     "latitude": 47.8161659,
-    "longitude": 13.0526883
+    "longitude": 13.0526883,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Reifen Enzinger GesmbH & Co KG",
     "retailer": "reifen_enzinger_gesmbh_und_co_kg",
     "shop": "tyres",
     "latitude": 47.8127189,
-    "longitude": 13.0572484
+    "longitude": 13.0572484,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Rieger Weinloft",
     "retailer": "rieger_weinloft",
     "shop": "wine",
     "latitude": 47.8127141,
-    "longitude": 13.0503256
+    "longitude": 13.0503256,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schneider Motoren Technik",
     "retailer": "schneider_motoren_technik",
     "shop": "car_repair",
     "latitude": 47.8113789,
-    "longitude": 13.0528802
+    "longitude": 13.0528802,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Seat",
@@ -226,7 +330,9 @@
     "shop": "car",
     "latitude": 47.816541,
     "longitude": 13.0531087,
-    "brand": "Seat"
+    "brand": "Seat",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Shell",
@@ -234,35 +340,49 @@
     "shop": "kiosk",
     "latitude": 47.8199558,
     "longitude": 13.0533223,
-    "brand": "Shell"
+    "brand": "Shell",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sodia Jagdwaffen",
     "retailer": "sodia_jagdwaffen",
     "shop": "hunting",
     "latitude": 47.8130416,
-    "longitude": 13.0537789
+    "longitude": 13.0537789,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Steinecker",
     "retailer": "steinecker",
     "shop": "clothes",
     "latitude": 47.8123982,
-    "longitude": 13.0549697
+    "longitude": 13.0549697,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "newsagent",
     "latitude": 47.8129697,
-    "longitude": 13.0542489
+    "longitude": 13.0542489,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 47.8156736,
-    "longitude": 13.0537664
+    "longitude": 13.0537664,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "VW Nutzfahrzeuge",
@@ -270,14 +390,20 @@
     "shop": "car",
     "latitude": 47.8159617,
     "longitude": 13.0524103,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Walter. Modische Berufskleidung.",
     "retailer": "walter_modische_berufskleidung",
     "shop": "clothes",
     "latitude": 47.8121381,
-    "longitude": 13.0547237
+    "longitude": 13.0547237,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -285,13 +411,21 @@
     "shop": "trade",
     "latitude": 47.8106574,
     "longitude": 13.0552102,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Änderungsschneiderei Karin",
     "retailer": "anderungsschneiderei_karin",
     "shop": "tailor",
     "latitude": 47.8104202,
-    "longitude": 13.0559868
+    "longitude": 13.0559868,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

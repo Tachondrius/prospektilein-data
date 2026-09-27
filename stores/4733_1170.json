@@ -4,7 +4,9 @@
     "retailer": "heumilchladerl_minishop",
     "shop": "convenience",
     "latitude": 47.3302048,
-    "longitude": 11.7064145
+    "longitude": 11.7064145,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Picker",
@@ -12,14 +14,22 @@
     "shop": "car",
     "latitude": 47.3325762,
     "longitude": 11.7003338,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Picker Gebrauchtwagen",
     "retailer": "picker_gebrauchtwagen",
     "shop": "car",
     "latitude": 47.3336915,
-    "longitude": 11.700354
+    "longitude": 11.700354,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schick",
@@ -27,6 +37,10 @@
     "shop": "car",
     "latitude": 47.3341275,
     "longitude": 11.700846,
-    "brand": "Citroën;Peugeot"
+    "brand": "Citroën;Peugeot",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,42 +4,63 @@
     "retailer": "backerei_leimuller",
     "shop": "bakery",
     "latitude": 47.8115888,
-    "longitude": 12.9861255
+    "longitude": 12.9861255,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Dehner",
     "retailer": "dehner",
     "shop": "garden_centre",
     "latitude": 47.8167459,
-    "longitude": 12.9858116
+    "longitude": 12.9858116,
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Dehner",
     "retailer": "dehner",
     "shop": "florist",
     "latitude": 47.8176223,
-    "longitude": 12.9845956
+    "longitude": 12.9845956,
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Friseur Anna Kolb",
     "retailer": "friseur_anna_kolb",
     "shop": "hairdresser",
     "latitude": 47.8111164,
-    "longitude": 12.9851706
+    "longitude": 12.9851706,
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kosmetikstudio Leikermoser",
     "retailer": "kosmetikstudio_leikermoser",
     "shop": "cosmetics",
     "latitude": 47.8112037,
-    "longitude": 12.9851049
+    "longitude": 12.9851049,
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lackier-Center",
     "retailer": "lackier_center",
     "shop": "car_repair",
     "latitude": 47.8150228,
-    "longitude": 12.980399
+    "longitude": 12.980399,
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -47,6 +68,10 @@
     "shop": "trade",
     "latitude": 47.8173503,
     "longitude": 12.9830986,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

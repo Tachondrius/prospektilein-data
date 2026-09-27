@@ -4,14 +4,18 @@
     "retailer": "die_pflegerei",
     "shop": "beauty",
     "latitude": 48.2949088,
-    "longitude": 16.3291237
+    "longitude": 16.3291237,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "HoEDV",
     "retailer": "hoedv",
     "shop": "computer",
     "latitude": 48.2948923,
-    "longitude": 16.3288562
+    "longitude": 16.3288562,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -19,27 +23,37 @@
     "shop": "supermarket",
     "latitude": 48.2921031,
     "longitude": 16.3209428,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3400",
+    "city": "Weidling",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Svoboda",
     "retailer": "svoboda",
     "shop": "seafood",
     "latitude": 48.2952662,
-    "longitude": 16.3292466
+    "longitude": 16.3292466,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TnT",
     "retailer": "tnt",
     "shop": "hairdresser",
     "latitude": 48.2948834,
-    "longitude": 16.3291524
+    "longitude": 16.3291524,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.2949771,
-    "longitude": 16.3290444
+    "longitude": 16.3290444,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

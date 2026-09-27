@@ -4,7 +4,11 @@
     "retailer": "lagertechnik_salzburg",
     "shop": "wholesale",
     "latitude": 47.7624677,
-    "longitude": 12.9471664
+    "longitude": 12.9471664,
+    "postcode": "5084",
+    "city": "Großgmain",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Shell Select",
@@ -12,7 +16,9 @@
     "shop": "convenience",
     "latitude": 47.7688692,
     "longitude": 12.9461097,
-    "brand": "Shell Select"
+    "brand": "Shell Select",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Shell Shop",
@@ -20,6 +26,10 @@
     "shop": "convenience",
     "latitude": 47.7681473,
     "longitude": 12.9483332,
-    "brand": "Shell Shop"
+    "brand": "Shell Shop",
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

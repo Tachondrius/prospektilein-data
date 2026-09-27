@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.0714239,
     "longitude": 13.9097827,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trippl",
     "retailer": "trippl",
     "shop": "fireplace",
     "latitude": 47.0715664,
-    "longitude": 13.9093604
+    "longitude": 13.9093604,
+    "postcode": "8863",
+    "city": "Stadl-Predlitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

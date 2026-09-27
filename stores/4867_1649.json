@@ -5,13 +5,17 @@
     "shop": "supermarket",
     "latitude": 48.6741518,
     "longitude": 16.4923301,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Yes",
     "retailer": "shop_yes",
     "shop": "yes",
     "latitude": 48.6748581,
-    "longitude": 16.4911198
+    "longitude": 16.4911198,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

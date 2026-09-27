@@ -4,13 +4,19 @@
     "retailer": "backerei_und_cafe_brotkultur",
     "shop": "bakery",
     "latitude": 47.4694909,
-    "longitude": 12.618564
+    "longitude": 12.618564,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
     "retailer": "mpreis",
     "shop": "supermarket",
     "latitude": 47.469131,
-    "longitude": 12.6137249
+    "longitude": 12.6137249,
+    "postcode": "6395",
+    "city": "Hochfilzen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,21 +4,27 @@
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 46.7641632,
-    "longitude": 14.3524253
+    "longitude": 14.3524253,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Besold",
     "retailer": "besold",
     "shop": "books",
     "latitude": 46.7672242,
-    "longitude": 14.357985
+    "longitude": 14.357985,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bienenvater",
     "retailer": "bienenvater",
     "shop": "beekeeping",
     "latitude": 46.7681428,
-    "longitude": 14.3596299
+    "longitude": 14.3596299,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -26,7 +32,11 @@
     "shop": "supermarket",
     "latitude": 46.7667938,
     "longitude": 14.3574625,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9300",
+    "city": "St. Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -34,7 +44,9 @@
     "shop": "chemist",
     "latitude": 46.7627954,
     "longitude": 14.3578088,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -42,14 +54,18 @@
     "shop": "chemist",
     "latitude": 46.7679621,
     "longitude": 14.3593794,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Dreams Friseur",
     "retailer": "dreams_friseur",
     "shop": "hairdresser",
     "latitude": 46.7673005,
-    "longitude": 14.3573747
+    "longitude": 14.3573747,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eurospar",
@@ -57,21 +73,29 @@
     "shop": "supermarket",
     "latitude": 46.7623617,
     "longitude": 14.3513533,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fireplace",
     "retailer": "shop_fireplace",
     "shop": "fireplace",
     "latitude": 46.7653456,
-    "longitude": 14.3569934
+    "longitude": 14.3569934,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Griesser",
     "retailer": "griesser",
     "shop": "shoes",
     "latitude": 46.7670349,
-    "longitude": 14.3577344
+    "longitude": 14.3577344,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "H&M",
@@ -79,7 +103,9 @@
     "shop": "clothes",
     "latitude": 46.767872,
     "longitude": 14.3586106,
-    "brand": "H&M"
+    "brand": "H&M",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -87,28 +113,38 @@
     "shop": "supermarket",
     "latitude": 46.7632725,
     "longitude": 14.3591266,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Jewelry",
     "retailer": "shop_jewelry",
     "shop": "jewelry",
     "latitude": 46.7665026,
-    "longitude": 14.3597497
+    "longitude": 14.3597497,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Koller",
     "retailer": "koller",
     "shop": "photo",
     "latitude": 46.7671603,
-    "longitude": 14.3578507
+    "longitude": 14.3578507,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Le Delizie",
     "retailer": "le_delizie",
     "shop": "deli",
     "latitude": 46.767765,
-    "longitude": 14.3580493
+    "longitude": 14.3580493,
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Neuroth",
@@ -116,35 +152,47 @@
     "shop": "hearing_aids",
     "latitude": 46.7667153,
     "longitude": 14.3595091,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Perro",
     "retailer": "perro",
     "shop": "pet",
     "latitude": 46.7631849,
-    "longitude": 14.351548
+    "longitude": 14.351548,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pfandl Konrad",
     "retailer": "pfandl_konrad",
     "shop": "butcher",
     "latitude": 46.7679806,
-    "longitude": 14.3587827
+    "longitude": 14.3587827,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pro Fashion",
     "retailer": "pro_fashion",
     "shop": "clothes",
     "latitude": 46.7671683,
-    "longitude": 14.3572301
+    "longitude": 14.3572301,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Springer Reisen",
     "retailer": "springer_reisen",
     "shop": "travel_agency",
     "latitude": 46.7671115,
-    "longitude": 14.3577725
+    "longitude": 14.3577725,
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "TEDi",
@@ -152,28 +200,38 @@
     "shop": "variety_store",
     "latitude": 46.7629247,
     "longitude": 14.3510723,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.7673319,
-    "longitude": 14.3581661
+    "longitude": 14.3581661,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.7686926,
-    "longitude": 14.3557161
+    "longitude": 14.3557161,
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trachten Gössl",
     "retailer": "trachten_gossl",
     "shop": "clothes",
     "latitude": 46.7678029,
-    "longitude": 14.358489
+    "longitude": 14.358489,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "United Colors of Benetton",
@@ -181,6 +239,10 @@
     "shop": "clothes",
     "latitude": 46.7675483,
     "longitude": 14.3584264,
-    "brand": "United Colors of Benetton"
+    "brand": "United Colors of Benetton",
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

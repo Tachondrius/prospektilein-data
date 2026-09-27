@@ -4,7 +4,9 @@
     "retailer": "skipass",
     "shop": "ticket",
     "latitude": 47.2320807,
-    "longitude": 12.1546182
+    "longitude": 12.1546182,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000 Lachmayer",
@@ -12,6 +14,8 @@
     "shop": "sports",
     "latitude": 47.232174,
     "longitude": 12.1557204,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

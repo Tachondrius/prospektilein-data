@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.9216295,
     "longitude": 16.8750096,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7121",
+    "city": "Weiden am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bipa",
@@ -13,14 +17,22 @@
     "shop": "chemist",
     "latitude": 47.921017,
     "longitude": 16.8763387,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "7121",
+    "city": "Weiden am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Maletschek Nautics GmbH",
     "retailer": "maletschek_nautics_gmbh",
     "shop": "boat",
     "latitude": 47.9204531,
-    "longitude": 16.8768917
+    "longitude": 16.8768917,
+    "postcode": "7121",
+    "city": "Weiden am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Penny",
@@ -28,6 +40,10 @@
     "shop": "supermarket",
     "latitude": 47.9214091,
     "longitude": 16.8759584,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "7121",
+    "city": "Weiden am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

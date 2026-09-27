@@ -5,21 +5,27 @@
     "shop": "bakery",
     "latitude": 47.1638988,
     "longitude": 10.7308601,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Andy",
     "retailer": "blumen_andy",
     "shop": "florist",
     "latitude": 47.1683514,
-    "longitude": 10.731509
+    "longitude": 10.731509,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haarschneiderei Alex",
     "retailer": "haarschneiderei_alex",
     "shop": "hairdresser",
     "latitude": 47.1675003,
-    "longitude": 10.7316443
+    "longitude": 10.7316443,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -27,7 +33,9 @@
     "shop": "sports",
     "latitude": 47.1686445,
     "longitude": 10.7308795,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -35,7 +43,9 @@
     "shop": "supermarket",
     "latitude": 47.1640683,
     "longitude": 10.7308798,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -43,6 +53,10 @@
     "shop": "supermarket",
     "latitude": 47.1679949,
     "longitude": 10.731697,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6473",
+    "city": "Wenns",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

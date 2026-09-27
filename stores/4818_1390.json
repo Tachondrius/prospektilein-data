@@ -4,35 +4,53 @@
     "retailer": "acs_und_s",
     "shop": "computer",
     "latitude": 48.1847092,
-    "longitude": 13.9007763
+    "longitude": 13.9007763,
+    "postcode": "4632",
+    "city": "Pichl bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Felbermair",
     "retailer": "autohaus_felbermair",
     "shop": "car_repair",
     "latitude": 48.1863897,
-    "longitude": 13.9098085
+    "longitude": 13.9098085,
+    "postcode": "4632",
+    "city": "Pichl bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Nöhammer",
     "retailer": "backerei_nohammer",
     "shop": "bakery",
     "latitude": 48.1845746,
-    "longitude": 13.901034
+    "longitude": 13.901034,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gruber Vieh-Fleisch",
     "retailer": "gruber_vieh_fleisch",
     "shop": "butcher",
     "latitude": 48.1831389,
-    "longitude": 13.902476
+    "longitude": 13.902476,
+    "postcode": "4632",
+    "city": "Pichl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Saab-Art Übleis Thomas KFZ-Handel",
     "retailer": "saab_art_ubleis_thomas_kfz_handel",
     "shop": "car_repair",
     "latitude": 48.1866013,
-    "longitude": 13.9095613
+    "longitude": 13.9095613,
+    "postcode": "4632",
+    "city": "Pichl bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -40,6 +58,10 @@
     "shop": "supermarket",
     "latitude": 48.1850458,
     "longitude": 13.9047382,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4632",
+    "city": "Pichl bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

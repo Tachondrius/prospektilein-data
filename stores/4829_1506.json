@@ -4,7 +4,9 @@
     "retailer": "lagerhaus",
     "shop": "doityourself",
     "latitude": 48.2982996,
-    "longitude": 15.0679416
+    "longitude": 15.0679416,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 48.2983049,
     "longitude": 15.0682009,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3683",
+    "city": "Yspertal",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

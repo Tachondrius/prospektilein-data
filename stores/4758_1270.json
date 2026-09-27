@@ -4,7 +4,9 @@
     "retailer": "landmaschinen_hohenwarter",
     "shop": "car_repair",
     "latitude": 47.5827528,
-    "longitude": 12.7009092
+    "longitude": 12.7009092,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MPREIS",
@@ -12,6 +14,8 @@
     "shop": "supermarket",
     "latitude": 47.582725,
     "longitude": 12.700061,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

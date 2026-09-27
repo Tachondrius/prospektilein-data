@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.5003553,
     "longitude": 12.5590558,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6392",
+    "city": "St. Jakob in Haus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -13,6 +17,8 @@
     "shop": "convenience",
     "latitude": 47.5004347,
     "longitude": 12.5595352,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

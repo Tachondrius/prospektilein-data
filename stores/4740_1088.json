@@ -4,7 +4,9 @@
     "retailer": "s_blumen_und_seifenladele",
     "shop": "florist",
     "latitude": 47.4015645,
-    "longitude": 10.882316
+    "longitude": 10.882316,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,28 +14,36 @@
     "shop": "bakery",
     "latitude": 47.4017733,
     "longitude": 10.88789,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fremdenheim Bergkristall",
     "retailer": "fremdenheim_bergkristall",
     "shop": "yes",
     "latitude": 47.4017037,
-    "longitude": 10.8810669
+    "longitude": 10.8810669,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "haireinspaziert",
     "retailer": "haireinspaziert",
     "shop": "hairdresser",
     "latitude": 47.4016385,
-    "longitude": 10.8821387
+    "longitude": 10.8821387,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofherr",
     "retailer": "hofherr",
     "shop": "clothes",
     "latitude": 47.4018877,
-    "longitude": 10.881214
+    "longitude": 10.881214,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -41,14 +51,18 @@
     "shop": "supermarket",
     "latitude": 47.4017446,
     "longitude": 10.8877535,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rieders Kaufladen",
     "retailer": "rieders_kaufladen",
     "shop": "gift",
     "latitude": 47.400791,
-    "longitude": 10.8836528
+    "longitude": 10.8836528,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -56,7 +70,11 @@
     "shop": "supermarket",
     "latitude": 47.4013424,
     "longitude": 10.8846378,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6631",
+    "city": "Lermoos",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport 2000",
@@ -64,7 +82,9 @@
     "shop": "sports",
     "latitude": 47.4010396,
     "longitude": 10.8837768,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Toyota Hundertpfund",
@@ -72,27 +92,37 @@
     "shop": "car",
     "latitude": 47.4001373,
     "longitude": 10.8874546,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "6631",
+    "city": "Lermoos",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Yes",
     "retailer": "shop_yes",
     "shop": "yes",
     "latitude": 47.4018745,
-    "longitude": 10.8804534
+    "longitude": 10.8804534,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zoller",
     "retailer": "zoller",
     "shop": "travel_agency",
     "latitude": 47.4004044,
-    "longitude": 10.8848128
+    "longitude": 10.8848128,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zugspitz Foto",
     "retailer": "zugspitz_foto",
     "shop": "photo",
     "latitude": 47.4016133,
-    "longitude": 10.8815183
+    "longitude": 10.8815183,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

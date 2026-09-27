@@ -5,28 +5,42 @@
     "shop": "car_repair",
     "latitude": 46.8267287,
     "longitude": 12.8152464,
-    "brand": "Seat"
+    "brand": "Seat",
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baar",
     "retailer": "baar",
     "shop": "car_parts",
     "latitude": 46.8279124,
-    "longitude": 12.8103761
+    "longitude": 12.8103761,
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 46.8276583,
-    "longitude": 12.8161705
+    "longitude": 12.8161705,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Domenig Motorschlittenhandel",
     "retailer": "domenig_motorschlittenhandel",
     "shop": "car",
     "latitude": 46.827696,
-    "longitude": 12.8161531
+    "longitude": 12.8161531,
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -34,35 +48,47 @@
     "shop": "supermarket",
     "latitude": 46.8276142,
     "longitude": 12.814922,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Jeller",
     "retailer": "jeller",
     "shop": "car_repair",
     "latitude": 46.8276822,
-    "longitude": 12.8171269
+    "longitude": 12.8171269,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Leiner",
     "retailer": "leiner",
     "shop": "beverages",
     "latitude": 46.8298878,
-    "longitude": 12.8174101
+    "longitude": 12.8174101,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T&G",
     "retailer": "t_und_g",
     "shop": "beverages",
     "latitude": 46.8276028,
-    "longitude": 12.816205
+    "longitude": 12.816205,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Truntschnig",
     "retailer": "truntschnig",
     "shop": "vacuum_cleaner",
     "latitude": 46.8282094,
-    "longitude": 12.8171269
+    "longitude": 12.8171269,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -70,6 +96,10 @@
     "shop": "trade",
     "latitude": 46.8273325,
     "longitude": 12.8128704,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

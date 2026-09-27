@@ -5,7 +5,11 @@
     "shop": "bakery",
     "latitude": 47.2708983,
     "longitude": 11.2013233,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6401",
+    "city": "Inzing",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -13,13 +17,19 @@
     "shop": "supermarket",
     "latitude": 47.2708091,
     "longitude": 11.201366,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6401",
+    "city": "Inzing",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Trafik Glatz",
     "retailer": "tabak_trafik_glatz",
     "shop": "tobacco",
     "latitude": 47.2708514,
-    "longitude": 11.2014467
+    "longitude": 11.2014467,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

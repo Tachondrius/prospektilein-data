@@ -5,7 +5,9 @@
     "shop": "bakery",
     "latitude": 47.8113859,
     "longitude": 16.2342776,
-    "brand": "Anker"
+    "brand": "Anker",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Anker",
@@ -13,7 +15,9 @@
     "shop": "bakery",
     "latitude": 47.8118176,
     "longitude": 16.234556,
-    "brand": "Anker"
+    "brand": "Anker",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -21,7 +25,9 @@
     "shop": "supermarket",
     "latitude": 47.8132745,
     "longitude": 16.2392206,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -29,28 +35,40 @@
     "shop": "chemist",
     "latitude": 47.8136126,
     "longitude": 16.2399074,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Collector",
     "retailer": "shop_collector",
     "shop": "collector",
     "latitude": 47.8132927,
-    "longitude": 16.2303392
+    "longitude": 16.2303392,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Goldschmidt",
     "retailer": "goldschmidt",
     "shop": "bakery",
     "latitude": 47.8109443,
-    "longitude": 16.2303434
+    "longitude": 16.2303434,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "okay Reiseproviant",
     "retailer": "okay_reiseproviant",
     "shop": "convenience",
     "latitude": 47.8118032,
-    "longitude": 16.2343348
+    "longitude": 16.2343348,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Partsch",
@@ -58,7 +76,11 @@
     "shop": "car",
     "latitude": 47.8154125,
     "longitude": 16.2341684,
-    "brand": "Honda;Leapmotor;Mercedes-Benz;Subaru"
+    "brand": "Honda;Leapmotor;Mercedes-Benz;Subaru",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -66,27 +88,39 @@
     "shop": "supermarket",
     "latitude": 47.8123547,
     "longitude": 16.2325934,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Weghaupt",
     "retailer": "trafik_weghaupt",
     "shop": "kiosk",
     "latitude": 47.8118213,
-    "longitude": 16.2344613
+    "longitude": 16.2344613,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trend Friseur",
     "retailer": "trend_friseur",
     "shop": "hairdresser",
     "latitude": 47.8127024,
-    "longitude": 16.2317681
+    "longitude": 16.2317681,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ÖBB Reisezentrum",
     "retailer": "obb_reisezentrum",
     "shop": "ticket",
     "latitude": 47.811433,
-    "longitude": 16.2344814
+    "longitude": 16.2344814,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

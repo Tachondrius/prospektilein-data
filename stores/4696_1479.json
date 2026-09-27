@@ -5,63 +5,89 @@
     "shop": "chemist",
     "latitude": 46.9631303,
     "longitude": 14.7928665,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9462",
+    "city": "Bad St. Leonhard",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "das Cafe/die Konditorei Prisse",
     "retailer": "das_cafe_die_konditorei_prisse",
     "shop": "pastry",
     "latitude": 46.9636308,
-    "longitude": 14.7904424
+    "longitude": 14.7904424,
+    "postcode": "9462",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fabiani di Sotto",
     "retailer": "fabiani_di_sotto",
     "shop": "alcohol",
     "latitude": 46.9632312,
-    "longitude": 14.7916094
+    "longitude": 14.7916094,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fanatic",
     "retailer": "fanatic",
     "shop": "clothes",
     "latitude": 46.9632609,
-    "longitude": 14.7915132
+    "longitude": 14.7915132,
+    "postcode": "9462",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 46.9616407,
-    "longitude": 14.7953201
+    "longitude": 14.7953201,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Girod",
     "retailer": "girod",
     "shop": "florist",
     "latitude": 46.9667137,
-    "longitude": 14.7937868
+    "longitude": 14.7937868,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "küche plus Andreas Schloffer",
     "retailer": "kuche_plus_andreas_schloffer",
     "shop": "kitchen",
     "latitude": 46.9640762,
-    "longitude": 14.7903424
+    "longitude": 14.7903424,
+    "postcode": "9462",
+    "city": "Bad St. Leonhard im Lavanttal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "La Biosthétique Birgit Schüssler",
     "retailer": "la_biosthetique_birgit_schussler",
     "shop": "hairdresser",
     "latitude": 46.9621877,
-    "longitude": 14.792382
+    "longitude": 14.792382,
+    "postcode": "9462",
+    "city": "Bad St. Leonhard im Lavanttal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Optik Lipp-Gressl",
     "retailer": "optik_lipp_gressl",
     "shop": "optician",
     "latitude": 46.9630882,
-    "longitude": 14.7929685
+    "longitude": 14.7929685,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Penny",
@@ -69,28 +95,42 @@
     "shop": "supermarket",
     "latitude": 46.9633858,
     "longitude": 14.7936447,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "9462",
+    "city": "Bad St. Leonhard im Lavanttal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Petras kleine Nähfabrik",
     "retailer": "petras_kleine_nahfabrik",
     "shop": "tailor",
     "latitude": 46.9636256,
-    "longitude": 14.7915753
+    "longitude": 14.7915753,
+    "postcode": "9462",
+    "city": "Bad St. Leonhard im Lavanttal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schuhe Neuwirth",
     "retailer": "schuhe_neuwirth",
     "shop": "shoes",
     "latitude": 46.9629528,
-    "longitude": 14.792764
+    "longitude": 14.792764,
+    "postcode": "9462",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sissys Cafe",
     "retailer": "sissys_cafe",
     "shop": "bakery",
     "latitude": 46.9633152,
-    "longitude": 14.791402
+    "longitude": 14.791402,
+    "postcode": "9462",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -98,20 +138,29 @@
     "shop": "supermarket",
     "latitude": 46.9605773,
     "longitude": 14.7944254,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9462",
+    "city": "Bad St. Leonhard im Lavanttal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trafik Köppl",
     "retailer": "trafik_koppl",
     "shop": "kiosk",
     "latitude": 46.9641588,
-    "longitude": 14.7901108
+    "longitude": 14.7901108,
+    "postcode": "9462",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trafik-Handarbeiten Silke Schmerlaib",
     "retailer": "trafik_handarbeiten_silke_schmerlaib",
     "shop": "kiosk",
     "latitude": 46.9631512,
-    "longitude": 14.7918452
+    "longitude": 14.7918452,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

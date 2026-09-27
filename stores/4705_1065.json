@@ -4,35 +4,49 @@
     "retailer": "backerei_kohle",
     "shop": "bakery",
     "latitude": 47.0551258,
-    "longitude": 10.6537282
+    "longitude": 10.6537282,
+    "postcode": "6531",
+    "city": "Ried im Oberinntal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Christiane's Salon",
     "retailer": "christiane_s_salon",
     "shop": "hairdresser",
     "latitude": 47.0544597,
-    "longitude": 10.6527014
+    "longitude": 10.6527014,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Handle",
     "retailer": "elektro_handle",
     "shop": "electrical",
     "latitude": 47.0549011,
-    "longitude": 10.6533364
+    "longitude": 10.6533364,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Floristikdesign Schwarz",
     "retailer": "floristikdesign_schwarz",
     "shop": "florist",
     "latitude": 47.0555424,
-    "longitude": 10.6517802
+    "longitude": 10.6517802,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "H2O Adventure Bar & Restaurant",
     "retailer": "h2o_adventure_bar_und_restaurant",
     "shop": "outdoor",
     "latitude": 47.0595972,
-    "longitude": 10.6585147
+    "longitude": 10.6585147,
+    "postcode": "6531",
+    "city": "Ried im Oberinntal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hilti",
@@ -40,7 +54,11 @@
     "shop": "hardware",
     "latitude": 47.0581457,
     "longitude": 10.6567065,
-    "brand": "Hilti"
+    "brand": "Hilti",
+    "postcode": "6531",
+    "city": "Ried im Oberinntal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Landtechnik Rietzler",
@@ -48,14 +66,20 @@
     "shop": "trade",
     "latitude": 47.0554347,
     "longitude": 10.6563058,
-    "brand": "Case;Steyr;Reform;Honda;Weidemann;Lindner"
+    "brand": "Case;Steyr;Reform;Honda;Weidemann;Lindner",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Pfeifer",
     "retailer": "metzgerei_pfeifer",
     "shop": "butcher",
     "latitude": 47.0533783,
-    "longitude": 10.6523281
+    "longitude": 10.6523281,
+    "postcode": "6531",
+    "city": "Ried im Oberinntal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -63,27 +87,37 @@
     "shop": "supermarket",
     "latitude": 47.0550874,
     "longitude": 10.6540045,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Paradies",
     "retailer": "paradies",
     "shop": "hairdresser",
     "latitude": 47.0537492,
-    "longitude": 10.6529209
+    "longitude": 10.6529209,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Burtscher",
     "retailer": "sport_burtscher",
     "shop": "sports",
     "latitude": 47.0552931,
-    "longitude": 10.6543015
+    "longitude": 10.6543015,
+    "postcode": "6531",
+    "city": "Ried im Oberinntal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Mangott",
     "retailer": "trafik_mangott",
     "shop": "tobacco",
     "latitude": 47.0546706,
-    "longitude": 10.6532032
+    "longitude": 10.6532032,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

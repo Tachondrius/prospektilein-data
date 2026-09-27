@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 48.2013874,
     "longitude": 15.8989495,
-    "brand": "Renault;Fiat"
+    "brand": "Renault;Fiat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -13,6 +15,10 @@
     "shop": "supermarket",
     "latitude": 48.2001278,
     "longitude": 15.898952,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3040",
+    "city": "Neulengbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

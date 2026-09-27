@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.0294214,
     "longitude": 14.2265967,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4541",
+    "city": "Adlwang",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -13,14 +17,22 @@
     "shop": "chemist",
     "latitude": 48.0294524,
     "longitude": 14.2262588,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4541",
+    "city": "Adlwang",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Holzhaus E1ns Hofladen",
     "retailer": "holzhaus_e1ns_hofladen",
     "shop": "farm",
     "latitude": 48.0296079,
-    "longitude": 14.2249185
+    "longitude": 14.2249185,
+    "postcode": "4541",
+    "city": "Adlwang",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny",
@@ -28,6 +40,10 @@
     "shop": "supermarket",
     "latitude": 48.0294112,
     "longitude": 14.225911,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "4541",
+    "city": "Adlwang",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

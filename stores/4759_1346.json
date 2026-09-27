@@ -4,20 +4,28 @@
     "retailer": "johannas_dorfladen",
     "shop": "kiosk",
     "latitude": 47.5928774,
-    "longitude": 13.466665
+    "longitude": 13.466665,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Salon Heidy",
     "retailer": "salon_heidy",
     "shop": "hairdresser",
     "latitude": 47.5926856,
-    "longitude": 13.4681294
+    "longitude": 13.4681294,
+    "postcode": "5442",
+    "city": "Rußbach am Paß Gschütt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 47.5928926,
-    "longitude": 13.4667062
+    "longitude": 13.4667062,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

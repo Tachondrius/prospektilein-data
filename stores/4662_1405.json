@@ -4,7 +4,9 @@
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 46.6217219,
-    "longitude": 14.0504186
+    "longitude": 14.0504186,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 46.6205242,
     "longitude": 14.0599138,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "9220",
+    "city": "Velden am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "auner_optik",
     "shop": "optician",
     "latitude": 47.7875364,
-    "longitude": 12.9857735
+    "longitude": 12.9857735,
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Auto Lindner",
@@ -12,21 +16,33 @@
     "shop": "car",
     "latitude": 47.7899688,
     "longitude": 12.987328,
-    "brand": "Audi"
+    "brand": "Audi",
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Jobst",
     "retailer": "backerei_jobst",
     "shop": "bakery",
     "latitude": 47.7889123,
-    "longitude": 12.9862837
+    "longitude": 12.9862837,
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gartenbau Winklhofer",
     "retailer": "gartenbau_winklhofer",
     "shop": "herbalist",
     "latitude": 47.781971,
-    "longitude": 12.9857805
+    "longitude": 12.9857805,
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tesla Service Center",
@@ -34,13 +50,19 @@
     "shop": "car",
     "latitude": 47.78801,
     "longitude": 12.9802464,
-    "brand": "Tesla"
+    "brand": "Tesla",
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Waffen Russegger",
     "retailer": "waffen_russegger",
     "shop": "weapons",
     "latitude": 47.7827642,
-    "longitude": 12.9860892
+    "longitude": 12.9860892,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

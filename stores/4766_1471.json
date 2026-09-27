@@ -4,14 +4,19 @@
     "retailer": "active_fishing_river_house_shop",
     "shop": "fishing",
     "latitude": 47.6663173,
-    "longitude": 14.7138558
+    "longitude": 14.7138558,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei-Konditorei Schwarzlmüller",
     "retailer": "backerei_konditorei_schwarzlmuller",
     "shop": "bakery",
     "latitude": 47.6658503,
-    "longitude": 14.7125825
+    "longitude": 14.7125825,
+    "postcode": "8931",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch",
@@ -19,6 +24,10 @@
     "shop": "supermarket",
     "latitude": 47.6663327,
     "longitude": 14.7122767,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "8931",
+    "city": "Landl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

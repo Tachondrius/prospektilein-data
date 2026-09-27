@@ -4,20 +4,31 @@
     "retailer": "autohaus_gattinger",
     "shop": "car",
     "latitude": 48.0458095,
-    "longitude": 13.7846276
+    "longitude": 13.7846276,
+    "postcode": "4690",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 48.0478432,
-    "longitude": 13.7814574
+    "longitude": 13.7814574,
+    "postcode": "4690",
+    "city": "Schwanenstadt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "BIPA",
     "retailer": "bipa",
     "shop": "chemist",
     "latitude": 48.0474084,
-    "longitude": 13.7813943
+    "longitude": 13.7813943,
+    "postcode": "4690",
+    "city": "Schwanenstadt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

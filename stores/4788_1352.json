@@ -4,14 +4,18 @@
     "retailer": "backerei_cafe_joh_auinger",
     "shop": "bakery",
     "latitude": 47.8815682,
-    "longitude": 13.5230367
+    "longitude": 13.5230367,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kaufhaus Strohmayer",
     "retailer": "kaufhaus_strohmayer",
     "shop": "variety_store",
     "latitude": 47.8834866,
-    "longitude": 13.5236086
+    "longitude": 13.5236086,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah&Frisch Millinger Anton",
@@ -19,6 +23,10 @@
     "shop": "supermarket",
     "latitude": 47.8849857,
     "longitude": 13.5250423,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4865",
+    "city": "Nussdorf am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,20 +4,28 @@
     "retailer": "anke_loh",
     "shop": "sewing",
     "latitude": 47.4981306,
-    "longitude": 10.7332788
+    "longitude": 10.7332788,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Jenewein",
     "retailer": "backerei_jenewein",
     "shop": "bakery",
     "latitude": 47.4948427,
-    "longitude": 10.7326539
+    "longitude": 10.7326539,
+    "postcode": "6600",
+    "city": "Breitenwang",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabaktrafik Beinstingl",
     "retailer": "tabaktrafik_beinstingl",
     "shop": "kiosk",
     "latitude": 47.4952008,
-    "longitude": 10.7350702
+    "longitude": 10.7350702,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

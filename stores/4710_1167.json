@@ -5,27 +5,35 @@
     "shop": "sports",
     "latitude": 47.1082015,
     "longitude": 11.6748004,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kaufhäus'l",
     "retailer": "kaufhaus_l",
     "shop": "gift",
     "latitude": 47.1079552,
-    "longitude": 11.6746127
+    "longitude": 11.6746127,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Skiverleih",
     "retailer": "skiverleih",
     "shop": "sports",
     "latitude": 47.1070956,
-    "longitude": 11.6748247
+    "longitude": 11.6748247,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Nenner Talstation Hintertux",
     "retailer": "sport_nenner_talstation_hintertux",
     "shop": "sports",
     "latitude": 47.106791,
-    "longitude": 11.6750053
+    "longitude": 11.6750053,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

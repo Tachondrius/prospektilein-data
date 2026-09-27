@@ -4,7 +4,9 @@
     "retailer": "3_drei",
     "shop": "mobile_phone",
     "latitude": 47.8154614,
-    "longitude": 13.0061958
+    "longitude": 13.0061958,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "A1",
@@ -12,21 +14,27 @@
     "shop": "telecommunication",
     "latitude": 47.8156155,
     "longitude": 13.0068599,
-    "brand": "A1"
+    "brand": "A1",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Abraham",
     "retailer": "abraham",
     "shop": "stationery",
     "latitude": 47.8155906,
-    "longitude": 13.0061574
+    "longitude": 13.0061574,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bag Store",
     "retailer": "bag_store",
     "shop": "bag",
     "latitude": 47.815402,
-    "longitude": 13.0065708
+    "longitude": 13.0065708,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bershka",
@@ -34,7 +42,9 @@
     "shop": "clothes",
     "latitude": 47.815783,
     "longitude": 13.0077363,
-    "brand": "Bershka"
+    "brand": "Bershka",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bijou Brigitte",
@@ -42,7 +52,9 @@
     "shop": "jewelry",
     "latitude": 47.815536,
     "longitude": 13.0066259,
-    "brand": "Bijou Brigitte"
+    "brand": "Bijou Brigitte",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -50,7 +62,11 @@
     "shop": "supermarket",
     "latitude": 47.8115604,
     "longitude": 13.0062158,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billabong",
@@ -58,14 +74,18 @@
     "shop": "clothes",
     "latitude": 47.8159044,
     "longitude": 13.0058843,
-    "brand": "Billabong"
+    "brand": "Billabong",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Biogena",
     "retailer": "biogena",
     "shop": "nutrition_supplements",
     "latitude": 47.8155835,
-    "longitude": 13.0069203
+    "longitude": 13.0069203,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bipa",
@@ -73,21 +93,31 @@
     "shop": "chemist",
     "latitude": 47.8116709,
     "longitude": 13.005073,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Brenner",
     "retailer": "brenner",
     "shop": "bakery",
     "latitude": 47.8104792,
-    "longitude": 13.0015917
+    "longitude": 13.0015917,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Ursprunger",
     "retailer": "backerei_ursprunger",
     "shop": "bakery",
     "latitude": 47.811633,
-    "longitude": 13.0052331
+    "longitude": 13.0052331,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "C&A",
@@ -95,7 +125,9 @@
     "shop": "clothes",
     "latitude": 47.8157598,
     "longitude": 13.0056254,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Calvin Klein",
@@ -103,7 +135,9 @@
     "shop": "clothes",
     "latitude": 47.8152576,
     "longitude": 13.0067086,
-    "brand": "Calvin Klein"
+    "brand": "Calvin Klein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Calzedonia",
@@ -111,7 +145,9 @@
     "shop": "clothes",
     "latitude": 47.8156356,
     "longitude": 13.0082503,
-    "brand": "Calzedonia"
+    "brand": "Calzedonia",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "claire's",
@@ -119,7 +155,9 @@
     "shop": "fashion_accessories",
     "latitude": 47.8153194,
     "longitude": 13.0065151,
-    "brand": "claire's"
+    "brand": "claire's",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "comma",
@@ -127,28 +165,38 @@
     "shop": "clothes",
     "latitude": 47.8161446,
     "longitude": 13.0080151,
-    "brand": "comma"
+    "brand": "comma",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Cornelia Eder",
     "retailer": "cornelia_eder",
     "shop": "beauty",
     "latitude": 47.8123849,
-    "longitude": 13.0054102
+    "longitude": 13.0054102,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Crush",
     "retailer": "crush",
     "shop": "beverages",
     "latitude": 47.8153311,
-    "longitude": 13.0077816
+    "longitude": 13.0077816,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Damn Plastic",
     "retailer": "damn_plastic",
     "shop": "general",
     "latitude": 47.8153721,
-    "longitude": 13.0067386
+    "longitude": 13.0067386,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Deichmann",
@@ -156,14 +204,18 @@
     "shop": "shoes",
     "latitude": 47.8160413,
     "longitude": 13.0079478,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Dino Company",
     "retailer": "dino_company",
     "shop": "gift",
     "latitude": 47.81531,
-    "longitude": 13.0082676
+    "longitude": 13.0082676,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -171,7 +223,9 @@
     "shop": "chemist",
     "latitude": 47.8155336,
     "longitude": 13.0082392,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Douglas",
@@ -179,14 +233,18 @@
     "shop": "perfumery",
     "latitude": 47.8155118,
     "longitude": 13.0067231,
-    "brand": "Douglas"
+    "brand": "Douglas",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "edc",
     "retailer": "edc",
     "shop": "clothes",
     "latitude": 47.8155609,
-    "longitude": 13.0077843
+    "longitude": 13.0077843,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Esprit",
@@ -194,14 +252,20 @@
     "shop": "clothes",
     "latitude": 47.8156332,
     "longitude": 13.0078305,
-    "brand": "Esprit"
+    "brand": "Esprit",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Europark",
     "retailer": "europark",
     "shop": "mall",
     "latitude": 47.8155165,
-    "longitude": 13.0074072
+    "longitude": 13.0074072,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fielmann",
@@ -209,7 +273,9 @@
     "shop": "optician",
     "latitude": 47.815698,
     "longitude": 13.0066465,
-    "brand": "Fielmann"
+    "brand": "Fielmann",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "G-Star Raw",
@@ -217,7 +283,9 @@
     "shop": "clothes",
     "latitude": 47.8155944,
     "longitude": 13.0075944,
-    "brand": "G-Star Raw"
+    "brand": "G-Star Raw",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Geox",
@@ -225,14 +293,18 @@
     "shop": "shoes",
     "latitude": 47.8158127,
     "longitude": 13.0079247,
-    "brand": "Geox"
+    "brand": "Geox",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Goldwelt",
     "retailer": "goldwelt",
     "shop": "watches",
     "latitude": 47.8154173,
-    "longitude": 13.0075043
+    "longitude": 13.0075043,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "H&M",
@@ -240,14 +312,20 @@
     "shop": "clothes",
     "latitude": 47.8151609,
     "longitude": 13.006861,
-    "brand": "H&M"
+    "brand": "H&M",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "HaarClub Beauty",
     "retailer": "haarclub_beauty",
     "shop": "hairdresser",
     "latitude": 47.8105989,
-    "longitude": 13.001703
+    "longitude": 13.001703,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hallhuber",
@@ -255,7 +333,9 @@
     "shop": "clothes",
     "latitude": 47.8153573,
     "longitude": 13.0064247,
-    "brand": "Hallhuber"
+    "brand": "Hallhuber",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hervis",
@@ -263,7 +343,9 @@
     "shop": "sports",
     "latitude": 47.8150934,
     "longitude": 13.0074689,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hollister",
@@ -271,7 +353,9 @@
     "shop": "clothes",
     "latitude": 47.8158708,
     "longitude": 13.0079997,
-    "brand": "Hollister"
+    "brand": "Hollister",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Humanic",
@@ -279,7 +363,9 @@
     "shop": "shoes",
     "latitude": 47.8162982,
     "longitude": 13.0087215,
-    "brand": "Humanic"
+    "brand": "Humanic",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hussel",
@@ -287,7 +373,9 @@
     "shop": "confectionery",
     "latitude": 47.8153981,
     "longitude": 13.0080225,
-    "brand": "Hussel"
+    "brand": "Hussel",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "IKEA",
@@ -295,7 +383,9 @@
     "shop": "furniture",
     "latitude": 47.8171988,
     "longitude": 13.0067043,
-    "brand": "IKEA"
+    "brand": "IKEA",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Interspar",
@@ -303,14 +393,18 @@
     "shop": "supermarket",
     "latitude": 47.8147926,
     "longitude": 13.0078125,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Interspar Backstube",
     "retailer": "interspar",
     "shop": "bakery",
     "latitude": 47.8153322,
-    "longitude": 13.0079388
+    "longitude": 13.0079388,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intimissimi",
@@ -318,7 +412,9 @@
     "shop": "clothes",
     "latitude": 47.8156786,
     "longitude": 13.0082885,
-    "brand": "Intimissimi"
+    "brand": "Intimissimi",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Jack & Jones",
@@ -326,7 +422,9 @@
     "shop": "clothes",
     "latitude": 47.8156794,
     "longitude": 13.008484,
-    "brand": "Jack & Jones"
+    "brand": "Jack & Jones",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Jack Wolfskin",
@@ -334,21 +432,27 @@
     "shop": "outdoor",
     "latitude": 47.815854,
     "longitude": 13.0077786,
-    "brand": "Jack Wolfskin"
+    "brand": "Jack Wolfskin",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Jones",
     "retailer": "jones",
     "shop": "clothes",
     "latitude": 47.8154937,
-    "longitude": 13.0061151
+    "longitude": 13.0061151,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kunststücke",
     "retailer": "kunststucke",
     "shop": "gift",
     "latitude": 47.8154292,
-    "longitude": 13.0062612
+    "longitude": 13.0062612,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lacoste",
@@ -356,7 +460,9 @@
     "shop": "clothes",
     "latitude": 47.8159173,
     "longitude": 13.0087267,
-    "brand": "Lacoste"
+    "brand": "Lacoste",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Levi's",
@@ -364,7 +470,9 @@
     "shop": "clothes",
     "latitude": 47.8155598,
     "longitude": 13.0060401,
-    "brand": "Levi's"
+    "brand": "Levi's",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lovisa",
@@ -372,14 +480,20 @@
     "shop": "jewelry",
     "latitude": 47.8154216,
     "longitude": 13.0076009,
-    "brand": "Lovisa"
+    "brand": "Lovisa",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lunglai Services",
     "retailer": "lunglai_services",
     "shop": "copyshop",
     "latitude": 47.8121636,
-    "longitude": 13.0050637
+    "longitude": 13.0050637,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MAC Cosmetics",
@@ -387,7 +501,9 @@
     "shop": "cosmetics",
     "latitude": 47.8154735,
     "longitude": 13.007508,
-    "brand": "MAC Cosmetics"
+    "brand": "MAC Cosmetics",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Marc O'Polo",
@@ -395,7 +511,9 @@
     "shop": "clothes",
     "latitude": 47.8155651,
     "longitude": 13.0065614,
-    "brand": "Marc O'Polo"
+    "brand": "Marc O'Polo",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Marionnaud",
@@ -403,14 +521,18 @@
     "shop": "perfumery",
     "latitude": 47.8152729,
     "longitude": 13.0066189,
-    "brand": "Marionnaud"
+    "brand": "Marionnaud",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "McShark",
     "retailer": "mcshark",
     "shop": "electronics",
     "latitude": 47.815559,
-    "longitude": 13.008393
+    "longitude": 13.008393,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MediaMarkt",
@@ -418,28 +540,38 @@
     "shop": "electronics",
     "latitude": 47.8156275,
     "longitude": 13.0055878,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mia",
     "retailer": "mia",
     "shop": "shoes",
     "latitude": 47.8151657,
-    "longitude": 13.0072862
+    "longitude": 13.0072862,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MOOOM Trendjuwelier",
     "retailer": "mooom_trendjuwelier",
     "shop": "jewelry",
     "latitude": 47.815659,
-    "longitude": 13.0067472
+    "longitude": 13.0067472,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "mymuesli",
     "retailer": "mymuesli",
     "shop": "cereal",
     "latitude": 47.8159961,
-    "longitude": 13.0080843
+    "longitude": 13.0080843,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Nespresso",
@@ -447,7 +579,9 @@
     "shop": "coffee",
     "latitude": 47.8155383,
     "longitude": 13.0072369,
-    "brand": "Nespresso"
+    "brand": "Nespresso",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Nespresso",
@@ -455,14 +589,18 @@
     "shop": "coffee",
     "latitude": 47.8159673,
     "longitude": 13.0086109,
-    "brand": "Nespresso"
+    "brand": "Nespresso",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Neubaur",
     "retailer": "neubaur",
     "shop": "ticket",
     "latitude": 47.8161761,
-    "longitude": 13.0088678
+    "longitude": 13.0088678,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "New Yorker",
@@ -470,7 +608,9 @@
     "shop": "clothes",
     "latitude": 47.8158266,
     "longitude": 13.0085378,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Olymp",
@@ -478,7 +618,9 @@
     "shop": "clothes",
     "latitude": 47.8156345,
     "longitude": 13.0068064,
-    "brand": "Olymp"
+    "brand": "Olymp",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "ONLY",
@@ -486,7 +628,9 @@
     "shop": "clothes",
     "latitude": 47.8155983,
     "longitude": 13.0057747,
-    "brand": "ONLY"
+    "brand": "ONLY",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "orsay",
@@ -494,7 +638,9 @@
     "shop": "clothes",
     "latitude": 47.8157249,
     "longitude": 13.0078786,
-    "brand": "orsay"
+    "brand": "orsay",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Parfois",
@@ -502,14 +648,18 @@
     "shop": "fashion_accessories",
     "latitude": 47.8154634,
     "longitude": 13.0076902,
-    "brand": "Parfois"
+    "brand": "Parfois",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Peak Performance",
     "retailer": "peak_performance",
     "shop": "clothes",
     "latitude": 47.8157262,
-    "longitude": 13.007694
+    "longitude": 13.007694,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pearle",
@@ -517,7 +667,9 @@
     "shop": "optician",
     "latitude": 47.8152201,
     "longitude": 13.0081587,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Peek & Cloppenburg",
@@ -525,28 +677,36 @@
     "shop": "clothes",
     "latitude": 47.8165876,
     "longitude": 13.008365,
-    "brand": "Peek & Cloppenburg"
+    "brand": "Peek & Cloppenburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Red Level",
     "retailer": "red_level",
     "shop": "hairdresser",
     "latitude": 47.815916,
-    "longitude": 13.0078536
+    "longitude": 13.0078536,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Reformhaus",
     "retailer": "reformhaus",
     "shop": "convenience",
     "latitude": 47.8158846,
-    "longitude": 13.0058022
+    "longitude": 13.0058022,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Reiter",
     "retailer": "reiter",
     "shop": "jewelry",
     "latitude": 47.8154788,
-    "longitude": 13.006823
+    "longitude": 13.006823,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Rituals",
@@ -554,14 +714,18 @@
     "shop": "cosmetics",
     "latitude": 47.8154854,
     "longitude": 13.0071753,
-    "brand": "Rituals"
+    "brand": "Rituals",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "room with a view",
     "retailer": "room_with_a_view",
     "shop": "clothes",
     "latitude": 47.8154479,
-    "longitude": 13.0064774
+    "longitude": 13.0064774,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "s.Oliver",
@@ -569,7 +733,9 @@
     "shop": "clothes",
     "latitude": 47.8156228,
     "longitude": 13.0063862,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Salomon",
@@ -577,14 +743,20 @@
     "shop": "clothes",
     "latitude": 47.8158599,
     "longitude": 13.0084909,
-    "brand": "Salomon"
+    "brand": "Salomon",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sarah Munz. Kleidungsmanufaktur",
     "retailer": "sarah_munz_kleidungsmanufaktur",
     "shop": "tailor",
     "latitude": 47.8101067,
-    "longitude": 13.0090469
+    "longitude": 13.0090469,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Scotch & Soda",
@@ -592,7 +764,9 @@
     "shop": "clothes",
     "latitude": 47.8157693,
     "longitude": 13.0064169,
-    "brand": "Scotch & Soda"
+    "brand": "Scotch & Soda",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "sehen!Wutscher",
@@ -600,21 +774,27 @@
     "shop": "optician",
     "latitude": 47.8155028,
     "longitude": 13.0063228,
-    "brand": "sehen!wutscher"
+    "brand": "sehen!wutscher",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Skiny",
     "retailer": "skiny",
     "shop": "clothes",
     "latitude": 47.8154782,
-    "longitude": 13.006392
+    "longitude": 13.006392,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sneakz",
     "retailer": "sneakz",
     "shop": "shoes",
     "latitude": 47.8158648,
-    "longitude": 13.0062519
+    "longitude": 13.0062519,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Snipes",
@@ -622,7 +802,9 @@
     "shop": "shoes",
     "latitude": 47.8156841,
     "longitude": 13.0076498,
-    "brand": "Snipes"
+    "brand": "Snipes",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sonnentor",
@@ -630,28 +812,36 @@
     "shop": "tea",
     "latitude": 47.8155594,
     "longitude": 13.0062233,
-    "brand": "Sonnentor"
+    "brand": "Sonnentor",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spielzeugschachtel",
     "retailer": "spielzeugschachtel",
     "shop": "toys",
     "latitude": 47.8153956,
-    "longitude": 13.0063516
+    "longitude": 13.0063516,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Stay Spiced",
     "retailer": "stay_spiced",
     "shop": "spices",
     "latitude": 47.81587,
-    "longitude": 13.0086724
+    "longitude": 13.0086724,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sturmayr",
     "retailer": "sturmayr",
     "shop": "hairdresser",
     "latitude": 47.8159868,
-    "longitude": 13.0059423
+    "longitude": 13.0059423,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Superdry",
@@ -659,7 +849,9 @@
     "shop": "clothes",
     "latitude": 47.8159396,
     "longitude": 13.008837,
-    "brand": "Superdry"
+    "brand": "Superdry",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Swarovski",
@@ -667,7 +859,9 @@
     "shop": "jewelry",
     "latitude": 47.8153664,
     "longitude": 13.008149,
-    "brand": "Swarovski"
+    "brand": "Swarovski",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Swatch",
@@ -675,21 +869,31 @@
     "shop": "watches",
     "latitude": 47.8157221,
     "longitude": 13.0065601,
-    "brand": "Swatch"
+    "brand": "Swatch",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 47.810531,
-    "longitude": 13.0016337
+    "longitude": 13.0016337,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 47.8128852,
-    "longitude": 13.0045611
+    "longitude": 13.0045611,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabaktrafik",
@@ -697,7 +901,9 @@
     "shop": "tobacco",
     "latitude": 47.8154519,
     "longitude": 13.0073122,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tally Weijl",
@@ -705,7 +911,9 @@
     "shop": "clothes",
     "latitude": 47.8160723,
     "longitude": 13.0080805,
-    "brand": "Tally Weijl"
+    "brand": "Tally Weijl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tchibo",
@@ -713,7 +921,9 @@
     "shop": "coffee",
     "latitude": 47.8156461,
     "longitude": 13.006287,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tchibo",
@@ -721,7 +931,9 @@
     "shop": "coffee",
     "latitude": 47.8165173,
     "longitude": 13.0080194,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tezenis",
@@ -729,7 +941,9 @@
     "shop": "clothes",
     "latitude": 47.8160165,
     "longitude": 13.0079038,
-    "brand": "Tezenis"
+    "brand": "Tezenis",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Thalia",
@@ -737,7 +951,11 @@
     "shop": "books",
     "latitude": 47.8156137,
     "longitude": 13.0084385,
-    "brand": "Thalia"
+    "brand": "Thalia",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "The Body Shop",
@@ -745,7 +963,9 @@
     "shop": "cosmetics",
     "latitude": 47.8153078,
     "longitude": 13.0067997,
-    "brand": "The Body Shop"
+    "brand": "The Body Shop",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Thomas Sabo",
@@ -753,7 +973,9 @@
     "shop": "jewelry",
     "latitude": 47.8154897,
     "longitude": 13.0074463,
-    "brand": "Thomas Sabo"
+    "brand": "Thomas Sabo",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tommy Hilfiger",
@@ -761,7 +983,9 @@
     "shop": "clothes",
     "latitude": 47.815484,
     "longitude": 13.0082621,
-    "brand": "Tommy Hilfiger"
+    "brand": "Tommy Hilfiger",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "TUI",
@@ -769,7 +993,9 @@
     "shop": "travel_agency",
     "latitude": 47.8151283,
     "longitude": 13.007403,
-    "brand": "TUI"
+    "brand": "TUI",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Vero Moda",
@@ -777,14 +1003,18 @@
     "shop": "clothes",
     "latitude": 47.8155723,
     "longitude": 13.0081761,
-    "brand": "Vero Moda"
+    "brand": "Vero Moda",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Wäscherei Habsburg",
     "retailer": "wascherei_habsburg",
     "shop": "dry_cleaning",
     "latitude": 47.8152488,
-    "longitude": 13.0081063
+    "longitude": 13.0081063,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Zara",
@@ -792,7 +1022,9 @@
     "shop": "clothes",
     "latitude": 47.8158951,
     "longitude": 13.008615,
-    "brand": "Zara"
+    "brand": "Zara",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Zara",
@@ -800,7 +1032,9 @@
     "shop": "clothes",
     "latitude": 47.816321,
     "longitude": 13.0087609,
-    "brand": "Zara"
+    "brand": "Zara",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Zara Home",
@@ -808,6 +1042,8 @@
     "shop": "interior_decoration",
     "latitude": 47.8154827,
     "longitude": 13.0080952,
-    "brand": "Zara Home"
+    "brand": "Zara Home",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

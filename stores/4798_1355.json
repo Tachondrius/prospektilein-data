@@ -5,20 +5,28 @@
     "shop": "supermarket",
     "latitude": 47.9877709,
     "longitude": 13.5548697,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4851",
+    "city": "Gampern",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Physiotherapie Katharina Kneissl",
     "retailer": "physiotherapie_katharina_kneissl",
     "shop": "massage",
     "latitude": 47.9879515,
-    "longitude": 13.5539551
+    "longitude": 13.5539551,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trausner",
     "retailer": "trausner",
     "shop": "convenience",
     "latitude": 47.9894437,
-    "longitude": 13.5551192
+    "longitude": 13.5551192,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,27 +4,38 @@
     "retailer": "insider_hintertux",
     "shop": "sports",
     "latitude": 47.114502,
-    "longitude": 11.6819388
+    "longitude": 11.6819388,
+    "postcode": "6294",
+    "city": "Tux",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MiniMarkt",
     "retailer": "minimarkt",
     "shop": "convenience",
     "latitude": 47.1148426,
-    "longitude": 11.6827522
+    "longitude": 11.6827522,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Nenner Fashion",
     "retailer": "sport_nenner_fashion",
     "shop": "sports",
     "latitude": 47.1145853,
-    "longitude": 11.6812211
+    "longitude": 11.6812211,
+    "city": "Tux",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Nenner Lifestyle",
     "retailer": "sport_nenner_lifestyle",
     "shop": "sports",
     "latitude": 47.1147111,
-    "longitude": 11.6816615
+    "longitude": 11.6816615,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

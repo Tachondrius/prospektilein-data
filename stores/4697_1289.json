@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 46.9703535,
     "longitude": 12.8960975,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "9843",
+    "city": "Großkirchheim",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Chloé",
@@ -13,6 +17,8 @@
     "shop": "clothes",
     "latitude": 46.9713312,
     "longitude": 12.8956004,
-    "brand": "Chloé"
+    "brand": "Chloé",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "bestattung_taucher",
     "shop": "funeral_directors",
     "latitude": 47.0511054,
-    "longitude": 16.1198866
+    "longitude": 16.1198866,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ford Ernst",
@@ -12,14 +14,21 @@
     "shop": "car",
     "latitude": 47.051813,
     "longitude": 16.1192867,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "7571",
+    "city": "Rudersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lagler.haus - ELK Fertigteilhaus",
     "retailer": "lagler_haus_elk_fertigteilhaus",
     "shop": "electronics",
     "latitude": 47.0542117,
-    "longitude": 16.1162024
+    "longitude": 16.1162024,
+    "postcode": "7571",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Nah & Frisch",
@@ -27,6 +36,8 @@
     "shop": "supermarket",
     "latitude": 47.0512252,
     "longitude": 16.1193659,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

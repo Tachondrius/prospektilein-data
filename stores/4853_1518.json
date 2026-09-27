@@ -4,7 +4,11 @@
     "retailer": "backerei_heindl",
     "shop": "bakery",
     "latitude": 48.5386786,
-    "longitude": 15.1891857
+    "longitude": 15.1891857,
+    "postcode": "3913",
+    "city": "Großgöttfritz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch Wagner",
@@ -12,6 +16,8 @@
     "shop": "supermarket",
     "latitude": 48.5382733,
     "longitude": 15.1895833,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

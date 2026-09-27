@@ -5,41 +5,59 @@
     "shop": "supermarket",
     "latitude": 48.3058493,
     "longitude": 15.9289543,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "3451",
+    "city": "Rust im Tullnerfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Galler",
     "retailer": "backerei_galler",
     "shop": "bakery",
     "latitude": 48.3027414,
-    "longitude": 15.9277197
+    "longitude": 15.9277197,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Getränkehandel Donabaum",
     "retailer": "getrankehandel_donabaum",
     "shop": "beverages",
     "latitude": 48.3032634,
-    "longitude": 15.9274866
+    "longitude": 15.9274866,
+    "postcode": "3451",
+    "city": "Rust im Tullnerfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Getränkehandel Donabaum",
     "retailer": "getrankehandel_donabaum",
     "shop": "beverages",
     "latitude": 48.3035085,
-    "longitude": 15.9269978
+    "longitude": 15.9269978,
+    "postcode": "3451",
+    "city": "Rust im Tullnerfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pumpler",
     "retailer": "pumpler",
     "shop": "farm",
     "latitude": 48.3026229,
-    "longitude": 15.9274233
+    "longitude": 15.9274233,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zachhalmel",
     "retailer": "zachhalmel",
     "shop": "farm",
     "latitude": 48.3065426,
-    "longitude": 15.9282526
+    "longitude": 15.9282526,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

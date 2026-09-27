@@ -4,21 +4,29 @@
     "retailer": "auto_ossmann",
     "shop": "car",
     "latitude": 47.2460708,
-    "longitude": 9.6083544
+    "longitude": 9.6083544,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Autowelt",
     "retailer": "autowelt",
     "shop": "car",
     "latitude": 47.2459523,
-    "longitude": 9.6079814
+    "longitude": 9.6079814,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "BestDrive",
     "retailer": "bestdrive",
     "shop": "car_repair",
     "latitude": 47.2469397,
-    "longitude": 9.6090807
+    "longitude": 9.6090807,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "BILLA Unterwegs",
@@ -26,21 +34,29 @@
     "shop": "convenience",
     "latitude": 47.2468085,
     "longitude": 9.6099607,
-    "brand": "Billa Unterwegs"
+    "brand": "Billa Unterwegs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "EKZ Ambergpark",
     "retailer": "ekz_ambergpark",
     "shop": "mall",
     "latitude": 47.2486926,
-    "longitude": 9.6098552
+    "longitude": 9.6098552,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Furniture",
     "retailer": "shop_furniture",
     "shop": "furniture",
     "latitude": 47.2414234,
-    "longitude": 9.6023045
+    "longitude": 9.6023045,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hofer",
@@ -48,42 +64,62 @@
     "shop": "supermarket",
     "latitude": 47.2490173,
     "longitude": 9.6097753,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mangold",
     "retailer": "mangold",
     "shop": "bakery",
     "latitude": 47.2409943,
-    "longitude": 9.6039217
+    "longitude": 9.6039217,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "MediCig",
     "retailer": "medicig",
     "shop": "e-cigarette",
     "latitude": 47.2410502,
-    "longitude": 9.6038003
+    "longitude": 9.6038003,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Pümpel",
     "retailer": "pumpel",
     "shop": "trade",
     "latitude": 47.2439018,
-    "longitude": 9.6049602
+    "longitude": 9.6049602,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sara Markt",
     "retailer": "sara_markt",
     "shop": "convenience",
     "latitude": 47.241988,
-    "longitude": 9.6029735
+    "longitude": 9.6029735,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Seinader",
     "retailer": "seinader",
     "shop": "car",
     "latitude": 47.2428062,
-    "longitude": 9.6043456
+    "longitude": 9.6043456,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sutterlüty",
@@ -91,20 +127,28 @@
     "shop": "supermarket",
     "latitude": 47.2415562,
     "longitude": 9.6044334,
-    "brand": "Sutterlüty"
+    "brand": "Sutterlüty",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "VMOBIL Center",
     "retailer": "vmobil_center",
     "shop": "ticket",
     "latitude": 47.2409985,
-    "longitude": 9.6035876
+    "longitude": 9.6035876,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "ÖBB Reisezentrum",
     "retailer": "obb_reisezentrum",
     "shop": "ticket",
     "latitude": 47.2411815,
-    "longitude": 9.60406
+    "longitude": 9.60406,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

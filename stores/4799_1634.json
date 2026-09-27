@@ -5,35 +5,55 @@
     "shop": "supermarket",
     "latitude": 47.9946302,
     "longitude": 16.3403158,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "2521",
+    "city": "Trumau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Automatenshop Trumau",
     "retailer": "automatenshop_trumau",
     "shop": "vending_machine",
     "latitude": 47.994384,
-    "longitude": 16.3412401
+    "longitude": 16.3412401,
+    "postcode": "2521",
+    "city": "Trumau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bauernhof Märzweiler",
     "retailer": "bauernhof_marzweiler",
     "shop": "farm",
     "latitude": 47.9943499,
-    "longitude": 16.3439982
+    "longitude": 16.3439982,
+    "postcode": "2521",
+    "city": "Trumau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cut & Color",
     "retailer": "cut_und_color",
     "shop": "hairdresser",
     "latitude": 47.9963419,
-    "longitude": 16.3446677
+    "longitude": 16.3446677,
+    "postcode": "2521",
+    "city": "Trumau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fam. Heilinger",
     "retailer": "fam_heilinger",
     "shop": "farm",
     "latitude": 47.9937039,
-    "longitude": 16.3434645
+    "longitude": 16.3434645,
+    "postcode": "2521",
+    "city": "Trumau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -41,27 +61,41 @@
     "shop": "tobacco",
     "latitude": 47.9939432,
     "longitude": 16.3412172,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trumau Lebensmittel",
     "retailer": "trumau_lebensmittel",
     "shop": "convenience",
     "latitude": 47.9970866,
-    "longitude": 16.346727
+    "longitude": 16.346727,
+    "postcode": "2521",
+    "city": "Trumau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weinbau Gramsel",
     "retailer": "weinbau_gramsel",
     "shop": "wine",
     "latitude": 47.9914676,
-    "longitude": 16.3442597
+    "longitude": 16.3442597,
+    "postcode": "2521",
+    "city": "Trumau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Artner",
     "retailer": "weingut_artner",
     "shop": "wine",
     "latitude": 47.9920961,
-    "longitude": 16.3447456
+    "longitude": 16.3447456,
+    "postcode": "2521",
+    "city": "Trumau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

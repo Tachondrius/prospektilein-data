@@ -4,27 +4,39 @@
     "retailer": "biosympatic",
     "shop": "deli",
     "latitude": 47.9313718,
-    "longitude": 15.4929595
+    "longitude": 15.4929595,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.9364588,
-    "longitude": 15.4973199
+    "longitude": 15.4973199,
+    "postcode": "3184",
+    "city": "Türnitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Werkstätte",
     "retailer": "lagerhaus_werkstatte",
     "shop": "car_repair",
     "latitude": 47.9365005,
-    "longitude": 15.4973577
+    "longitude": 15.4973577,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schindl",
     "retailer": "schindl",
     "shop": "bakery",
     "latitude": 47.9311464,
-    "longitude": 15.4915714
+    "longitude": 15.4915714,
+    "postcode": "3184",
+    "city": "Türnitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

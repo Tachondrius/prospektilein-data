@@ -4,7 +4,9 @@
     "retailer": "bohm_s_deko_und_wohnambiente",
     "shop": "interior_decoration",
     "latitude": 47.4763707,
-    "longitude": 12.3449854
+    "longitude": 12.3449854,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPreis",
@@ -12,20 +14,26 @@
     "shop": "supermarket",
     "latitude": 47.472382,
     "longitude": 12.3461633,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Neumayr",
     "retailer": "neumayr",
     "shop": "bakery",
     "latitude": 47.4762856,
-    "longitude": 12.341897
+    "longitude": 12.341897,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Pro",
     "retailer": "sport_pro",
     "shop": "sports",
     "latitude": 47.4759135,
-    "longitude": 12.343503
+    "longitude": 12.343503,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

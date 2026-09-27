@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 46.9691967,
     "longitude": 15.4030651,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8141",
+    "city": "Premstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sabrinas Oase Fuß-Hand-Gesicht",
     "retailer": "sabrinas_oase_fu_hand_gesicht",
     "shop": "hairdresser",
     "latitude": 46.9601472,
-    "longitude": 15.4016671
+    "longitude": 15.4016671,
+    "postcode": "8141",
+    "city": "Premstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -20,6 +28,10 @@
     "shop": "supermarket",
     "latitude": 46.9697613,
     "longitude": 15.4086736,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8141",
+    "city": "Premstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

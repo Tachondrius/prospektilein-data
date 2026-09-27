@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 48.0852591,
     "longitude": 16.3585565,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2362",
+    "city": "Biedermannsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Ostermann",
     "retailer": "gartnerei_ostermann",
     "shop": "garden_centre",
     "latitude": 48.0827456,
-    "longitude": 16.3519495
+    "longitude": 16.3519495,
+    "postcode": "2362",
+    "city": "Biedermannsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -20,20 +28,28 @@
     "shop": "supermarket",
     "latitude": 48.0862141,
     "longitude": 16.3576559,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2362",
+    "city": "Biedermannsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ostermann",
     "retailer": "ostermann",
     "shop": "florist",
     "latitude": 48.0825281,
-    "longitude": 16.3519209
+    "longitude": 16.3519209,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wildenauer",
     "retailer": "wildenauer",
     "shop": "car_repair",
     "latitude": 48.0828323,
-    "longitude": 16.3531218
+    "longitude": 16.3531218,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "shoes",
     "latitude": 46.7181412,
     "longitude": 14.1037113,
-    "brand": "ara"
+    "brand": "ara",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mazda Nusser GmbH",
@@ -13,7 +15,9 @@
     "shop": "car",
     "latitude": 46.7178727,
     "longitude": 14.1021453,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -21,13 +25,21 @@
     "shop": "supermarket",
     "latitude": 46.7171463,
     "longitude": 14.1000709,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "ÖBAU Egger",
     "retailer": "obau_egger",
     "shop": "doityourself",
     "latitude": 46.7196476,
-    "longitude": 14.1009872
+    "longitude": 14.1009872,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

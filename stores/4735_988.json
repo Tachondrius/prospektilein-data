@@ -5,14 +5,18 @@
     "shop": "car",
     "latitude": 47.350098,
     "longitude": 9.8856791,
-    "brand": "Alfa Romeo"
+    "brand": "Alfa Romeo",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Friseur Patrizia Kleber",
     "retailer": "friseur_patrizia_kleber",
     "shop": "hairdresser",
     "latitude": 47.3505539,
-    "longitude": 9.8805815
+    "longitude": 9.8805815,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -20,20 +24,30 @@
     "shop": "supermarket",
     "latitude": 47.3511664,
     "longitude": 9.8813383,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6881",
+    "city": "Mellau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sport Natter",
     "retailer": "sport_natter",
     "shop": "sports",
     "latitude": 47.3512538,
-    "longitude": 9.882703
+    "longitude": 9.882703,
+    "postcode": "6881",
+    "city": "Mellau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Wüstner Teppiche Bettsysteme",
     "retailer": "wustner_teppiche_bettsysteme",
     "shop": "carpet",
     "latitude": 47.3541933,
-    "longitude": 9.8821918
+    "longitude": 9.8821918,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

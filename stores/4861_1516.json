@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 48.6113099,
     "longitude": 15.1608646,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3910",
+    "city": "Zwettl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Natur Im Garten",
     "retailer": "natur_im_garten",
     "shop": "garden_centre",
     "latitude": 48.6104405,
-    "longitude": 15.163228
+    "longitude": 15.163228,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Neuroth",
@@ -20,6 +26,10 @@
     "shop": "hearing_aids",
     "latitude": 48.610499,
     "longitude": 15.1613127,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "postcode": "3910",
+    "city": "Zwettl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

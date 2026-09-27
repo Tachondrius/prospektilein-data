@@ -5,13 +5,21 @@
     "shop": "car",
     "latitude": 48.1904972,
     "longitude": 15.4095107,
-    "brand": "Renault"
+    "brand": "Renault",
+    "postcode": "3382",
+    "city": "Loosdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Schwinn",
     "retailer": "backerei_schwinn",
     "shop": "bakery",
     "latitude": 48.1993875,
-    "longitude": 15.401577
+    "longitude": 15.401577,
+    "postcode": "3382",
+    "city": "Loosdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

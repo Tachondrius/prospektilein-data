@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.1006582,
     "longitude": 15.8250332,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8261",
+    "city": "Sinabelkirchen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -13,13 +17,19 @@
     "shop": "supermarket",
     "latitude": 47.1015942,
     "longitude": 15.8204614,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8261",
+    "city": "Sinabelkirchen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wurm",
     "retailer": "wurm",
     "shop": "bakery",
     "latitude": 47.1011444,
-    "longitude": 15.8270968
+    "longitude": 15.8270968,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

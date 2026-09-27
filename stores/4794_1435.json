@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.9445687,
     "longitude": 14.3589404,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "4452",
+    "city": "Ternberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Sieghartsleitner eU",
@@ -13,7 +17,11 @@
     "shop": "car_repair",
     "latitude": 47.9429578,
     "longitude": 14.357782,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "4452",
+    "city": "Ternberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -21,21 +29,31 @@
     "shop": "supermarket",
     "latitude": 47.9467149,
     "longitude": 14.359387,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4452",
+    "city": "Ternberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haselbauer Möbel",
     "retailer": "haselbauer_mobel",
     "shop": "furniture",
     "latitude": 47.9434571,
-    "longitude": 14.3556775
+    "longitude": 14.3556775,
+    "postcode": "4452",
+    "city": "Ternberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hohlrieder",
     "retailer": "hohlrieder",
     "shop": "bakery",
     "latitude": 47.9459948,
-    "longitude": 14.3573157
+    "longitude": 14.3573157,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Norma",
@@ -43,7 +61,11 @@
     "shop": "supermarket",
     "latitude": 47.9438744,
     "longitude": 14.3599917,
-    "brand": "Norma"
+    "brand": "Norma",
+    "postcode": "4452",
+    "city": "Ternberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sieghartsleitner",
@@ -51,6 +73,10 @@
     "shop": "car",
     "latitude": 47.9426373,
     "longitude": 14.3582848,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "4452",
+    "city": "Ternberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 48.3002662,
-    "longitude": 14.0141742
+    "longitude": 14.0141742,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -12,41 +14,63 @@
     "shop": "doityourself",
     "latitude": 48.3003945,
     "longitude": 14.0142892,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "4070",
+    "city": "Eferding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Möbel Ecker",
     "retailer": "mobel_ecker",
     "shop": "furniture",
     "latitude": 48.308323,
-    "longitude": 14.0188923
+    "longitude": 14.0188923,
+    "postcode": "4070",
+    "city": "Eferding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spiel- und Babyland Ecker",
     "retailer": "spiel_und_babyland_ecker",
     "shop": "toys",
     "latitude": 48.3090208,
-    "longitude": 14.0195355
+    "longitude": 14.0195355,
+    "postcode": "4070",
+    "city": "Eferding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Trafik Taubinger",
     "retailer": "tabak_trafik_taubinger",
     "shop": "tobacco",
     "latitude": 48.3040753,
-    "longitude": 14.0162435
+    "longitude": 14.0162435,
+    "postcode": "4070",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Volkshilfe",
     "retailer": "volkshilfe",
     "shop": "second_hand",
     "latitude": 48.3041264,
-    "longitude": 14.0163114
+    "longitude": 14.0163114,
+    "postcode": "4070",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zanzerl",
     "retailer": "zanzerl",
     "shop": "hardware",
     "latitude": 48.3057433,
-    "longitude": 14.0167692
+    "longitude": 14.0167692,
+    "postcode": "4070",
+    "city": "Eferding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

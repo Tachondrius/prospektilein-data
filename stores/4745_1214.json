@@ -4,7 +4,9 @@
     "retailer": "fensterportal",
     "shop": "glaziery",
     "latitude": 47.4569666,
-    "longitude": 12.1489286
+    "longitude": 12.1489286,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nimo Automobile",
@@ -12,13 +14,17 @@
     "shop": "car",
     "latitude": 47.4587719,
     "longitude": 12.1464288,
-    "brand": "Hyundai"
+    "brand": "Hyundai",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sulzenbacher",
     "retailer": "sulzenbacher",
     "shop": "garden_centre",
     "latitude": 47.4562451,
-    "longitude": 12.1494281
+    "longitude": 12.1494281,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

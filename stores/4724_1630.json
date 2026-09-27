@@ -4,7 +4,9 @@
     "retailer": "opel_plank",
     "shop": "car",
     "latitude": 47.2455036,
-    "longitude": 16.3047269
+    "longitude": 16.3047269,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Unimarkt",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.2428206,
     "longitude": 16.3091673,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "7503",
+    "city": "Großpetersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

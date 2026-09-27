@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.2091098,
     "longitude": 11.8730097,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "6284",
+    "city": "Ramsau im Zillertal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -13,91 +17,119 @@
     "shop": "bakery",
     "latitude": 47.2096551,
     "longitude": 11.8728411,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Betten Eberharter",
     "retailer": "betten_eberharter",
     "shop": "bed",
     "latitude": 47.2038689,
-    "longitude": 11.8705137
+    "longitude": 11.8705137,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bike Zoo Zillertal",
     "retailer": "bike_zoo_zillertal",
     "shop": "bicycle",
     "latitude": 47.2054229,
-    "longitude": 11.8706608
+    "longitude": 11.8706608,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Kerschdorfer",
     "retailer": "blumen_kerschdorfer",
     "shop": "florist",
     "latitude": 47.20763,
-    "longitude": 11.8713363
+    "longitude": 11.8713363,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Braunegger KG",
     "retailer": "braunegger_kg",
     "shop": "supermarket",
     "latitude": 47.2047332,
-    "longitude": 11.8714205
+    "longitude": 11.8714205,
+    "postcode": "6284",
+    "city": "Ramsau im Zillertal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Daniel's Haare",
     "retailer": "daniel_s_haare",
     "shop": "hairdresser",
     "latitude": 47.2040839,
-    "longitude": 11.8705089
+    "longitude": 11.8705089,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Hainz",
     "retailer": "elektro_hainz",
     "shop": "electronics",
     "latitude": 47.2067983,
-    "longitude": 11.8711318
+    "longitude": 11.8711318,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Euromaster Team Wartelsteiner",
     "retailer": "euromaster_team_wartelsteiner",
     "shop": "car_repair",
     "latitude": 47.2077827,
-    "longitude": 11.8719223
+    "longitude": 11.8719223,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "ezeb",
     "retailer": "ezeb",
     "shop": "bakery",
     "latitude": 47.2057365,
-    "longitude": 11.870082
+    "longitude": 11.870082,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haas",
     "retailer": "haas",
     "shop": "motorcycle",
     "latitude": 47.2047793,
-    "longitude": 11.8704515
+    "longitude": 11.8704515,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Handy Franz",
     "retailer": "handy_franz",
     "shop": "mobile_phone",
     "latitude": 47.2078716,
-    "longitude": 11.8714125
+    "longitude": 11.8714125,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Handyklinik Zillertal",
     "retailer": "handyklinik_zillertal",
     "shop": "mobile_phone",
     "latitude": 47.2071857,
-    "longitude": 11.8712327
+    "longitude": 11.8712327,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hörtnagl",
     "retailer": "hortnagl",
     "shop": "butcher",
     "latitude": 47.2056411,
-    "longitude": 11.8700671
+    "longitude": 11.8700671,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -105,14 +137,20 @@
     "shop": "supermarket",
     "latitude": 47.2098428,
     "longitude": 11.8729419,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6284",
+    "city": "Ramsau im Zillertal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nagelstudio Beauty Nails",
     "retailer": "nagelstudio_beauty_nails",
     "shop": "beauty",
     "latitude": 47.2070894,
-    "longitude": 11.8711888
+    "longitude": 11.8711888,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -120,14 +158,18 @@
     "shop": "clothes",
     "latitude": 47.2089495,
     "longitude": 11.8724439,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pfister",
     "retailer": "pfister",
     "shop": "hairdresser",
     "latitude": 47.2093026,
-    "longitude": 11.8730063
+    "longitude": 11.8730063,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Shell",
@@ -135,48 +177,66 @@
     "shop": "kiosk",
     "latitude": 47.205478,
     "longitude": 11.871269,
-    "brand": "Shell"
+    "brand": "Shell",
+    "postcode": "6284",
+    "city": "Ramsau im Zillertal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Schiestl",
     "retailer": "sport_schiestl",
     "shop": "sports",
     "latitude": 47.2046968,
-    "longitude": 11.8710567
+    "longitude": 11.8710567,
+    "postcode": "6284",
+    "city": "Ramsau im Zillertal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sportshop Jürgen",
     "retailer": "sportshop_jurgen",
     "shop": "sports",
     "latitude": 47.207988,
-    "longitude": 11.8714231
+    "longitude": 11.8714231,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T&G",
     "retailer": "t_und_g",
     "shop": "supermarket",
     "latitude": 47.2059268,
-    "longitude": 11.870064
+    "longitude": 11.870064,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "tiroler adlerin",
     "retailer": "tiroler_adlerin",
     "shop": "clothes",
     "latitude": 47.2033038,
-    "longitude": 11.8705778
+    "longitude": 11.8705778,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wambti Shop",
     "retailer": "wambti_shop",
     "shop": "gift",
     "latitude": 47.2082406,
-    "longitude": 11.8715191
+    "longitude": 11.8715191,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zillertaler Hausmannskost",
     "retailer": "zillertaler_hausmannskost",
     "shop": "frozen_food",
     "latitude": 47.2055303,
-    "longitude": 11.8703963
+    "longitude": 11.8703963,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

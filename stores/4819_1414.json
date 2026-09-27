@@ -4,21 +4,29 @@
     "retailer": "as_automobile",
     "shop": "car",
     "latitude": 48.1984003,
-    "longitude": 14.1464928
+    "longitude": 14.1464928,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car Center",
     "retailer": "car_center",
     "shop": "car_repair",
     "latitude": 48.198098,
-    "longitude": 14.1460197
+    "longitude": 14.1460197,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KFZ Gmeiner",
     "retailer": "kfz_gmeiner",
     "shop": "car",
     "latitude": 48.1992835,
-    "longitude": 14.1492868
+    "longitude": 14.1492868,
+    "postcode": "4614",
+    "city": "Marchtrenk",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Maxx Products",
@@ -26,13 +34,19 @@
     "shop": "motorcycle",
     "latitude": 48.1984644,
     "longitude": 14.1466556,
-    "brand": "Kymco;Rieju"
+    "brand": "Kymco;Rieju",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ziegenhof Welser Heide",
     "retailer": "ziegenhof_welser_heide",
     "shop": "farm",
     "latitude": 48.1945837,
-    "longitude": 14.1436353
+    "longitude": 14.1436353,
+    "postcode": "4614",
+    "city": "Marchtrenk",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

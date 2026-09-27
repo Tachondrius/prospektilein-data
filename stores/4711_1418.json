@@ -5,7 +5,10 @@
     "shop": "variety_store",
     "latitude": 47.1115515,
     "longitude": 14.1807819,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "8850",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -13,28 +16,40 @@
     "shop": "chemist",
     "latitude": 47.1134649,
     "longitude": 14.1800893,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8850",
+    "city": "Murau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Convenience",
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 47.1123158,
-    "longitude": 14.1823067
+    "longitude": 14.1823067,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HandyShop Murau",
     "retailer": "handyshop_murau",
     "shop": "mobile_phone",
     "latitude": 47.1135525,
-    "longitude": 14.1801242
+    "longitude": 14.1801242,
+    "postcode": "8850",
+    "city": "Murau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kosmetikstudio HAUTnah",
     "retailer": "kosmetikstudio_hautnah",
     "shop": "beauty",
     "latitude": 47.1117699,
-    "longitude": 14.1821225
+    "longitude": 14.1821225,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -42,7 +57,11 @@
     "shop": "supermarket",
     "latitude": 47.1107417,
     "longitude": 14.1869862,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8850",
+    "city": "Laßnitz bei Murau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pagro",
@@ -50,14 +69,22 @@
     "shop": "stationery",
     "latitude": 47.1121336,
     "longitude": 14.1857297,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "8850",
+    "city": "Murau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schuh Kollmann",
     "retailer": "schuh_kollmann",
     "shop": "shoes",
     "latitude": 47.1135212,
-    "longitude": 14.1801064
+    "longitude": 14.1801064,
+    "postcode": "8850",
+    "city": "Murau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schuhberger",
@@ -65,7 +92,9 @@
     "shop": "car",
     "latitude": 47.1117549,
     "longitude": 14.1845029,
-    "brand": "Audi;VW;Seat;Skoda;Cupra"
+    "brand": "Audi;VW;Seat;Skoda;Cupra",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -73,14 +102,21 @@
     "shop": "supermarket",
     "latitude": 47.1113111,
     "longitude": 14.1892143,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8850",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stolz",
     "retailer": "stolz",
     "shop": "furniture",
     "latitude": 47.1119215,
-    "longitude": 14.1820472
+    "longitude": 14.1820472,
+    "postcode": "8850",
+    "city": "Murau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Würth",
@@ -88,6 +124,8 @@
     "shop": "hardware",
     "latitude": 47.1122554,
     "longitude": 14.1838596,
-    "brand": "Würth"
+    "brand": "Würth",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

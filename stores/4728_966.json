@@ -4,13 +4,19 @@
     "retailer": "freihof_bioladen",
     "shop": "convenience",
     "latitude": 47.2883748,
-    "longitude": 9.6602614
+    "longitude": 9.6602614,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Käsehof",
     "retailer": "kasehof",
     "shop": "farm",
     "latitude": 47.2803232,
-    "longitude": 9.6632199
+    "longitude": 9.6632199,
+    "postcode": "6835",
+    "city": "Zwischenwasser",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

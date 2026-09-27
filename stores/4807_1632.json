@@ -5,7 +5,9 @@
     "shop": "bookmaker",
     "latitude": 48.0782344,
     "longitude": 16.3247349,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Baumgartner GmbH",
@@ -13,7 +15,11 @@
     "shop": "car",
     "latitude": 48.0765363,
     "longitude": 16.3281351,
-    "brand": "Mitsubishi Hyundai"
+    "brand": "Mitsubishi Hyundai",
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Now",
@@ -21,14 +27,20 @@
     "shop": "convenience",
     "latitude": 48.0787362,
     "longitude": 16.32388,
-    "brand": "Billa Now"
+    "brand": "Billa Now",
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dan Küchen",
     "retailer": "dan_kuchen",
     "shop": "kitchen",
     "latitude": 48.0783112,
-    "longitude": 16.3225145
+    "longitude": 16.3225145,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Das Futterhaus",
@@ -36,7 +48,11 @@
     "shop": "pet",
     "latitude": 48.0780051,
     "longitude": 16.3246892,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -44,14 +60,20 @@
     "shop": "chemist",
     "latitude": 48.0784785,
     "longitude": 16.3228284,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_parts",
     "latitude": 48.0792219,
-    "longitude": 16.3245852
+    "longitude": 16.3245852,
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fressnapf",
@@ -59,7 +81,11 @@
     "shop": "pet",
     "latitude": 48.0786575,
     "longitude": 16.3228629,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fussl",
@@ -67,7 +93,11 @@
     "shop": "clothes",
     "latitude": 48.0790132,
     "longitude": 16.3229846,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kare Lager/Outlet",
@@ -75,7 +105,11 @@
     "shop": "furniture",
     "latitude": 48.0763878,
     "longitude": 16.321185,
-    "brand": "Kare"
+    "brand": "Kare",
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -83,7 +117,9 @@
     "shop": "clothes",
     "latitude": 48.0780946,
     "longitude": 16.3247382,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "mister*lady",
@@ -91,21 +127,31 @@
     "shop": "clothes",
     "latitude": 48.078562,
     "longitude": 16.3228461,
-    "brand": "mister*lady"
+    "brand": "mister*lady",
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MyShoes",
     "retailer": "myshoes",
     "shop": "shoes",
     "latitude": 48.0788982,
-    "longitude": 16.322957
+    "longitude": 16.322957,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Novo Park Shopping Mall",
     "retailer": "novo_park_shopping_mall",
     "shop": "mall",
     "latitude": 48.0781506,
-    "longitude": 16.3248708
+    "longitude": 16.3248708,
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pappas Auto GmbH",
@@ -113,7 +159,11 @@
     "shop": "car",
     "latitude": 48.0756634,
     "longitude": 16.3252544,
-    "brand": "Mercedes"
+    "brand": "Mercedes",
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -121,21 +171,29 @@
     "shop": "supermarket",
     "latitude": 48.0792136,
     "longitude": 16.3230264,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Shopping Wiener Neudorf",
     "retailer": "shopping_wiener_neudorf",
     "shop": "mall",
     "latitude": 48.0786945,
-    "longitude": 16.3226687
+    "longitude": 16.3226687,
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 48.0787827,
-    "longitude": 16.3229094
+    "longitude": 16.3229094,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -143,27 +201,37 @@
     "shop": "variety_store",
     "latitude": 48.0778988,
     "longitude": 16.3246646,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Viva",
     "retailer": "viva",
     "shop": "convenience",
     "latitude": 48.077535,
-    "longitude": 16.3234027
+    "longitude": 16.3234027,
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wurstico",
     "retailer": "wurstico",
     "shop": "butcher",
     "latitude": 48.0777736,
-    "longitude": 16.3246687
+    "longitude": 16.3246687,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wölfel Auto Elektrik Ges.m.b.H.",
     "retailer": "wolfel_auto_elektrik_ges_m_b_h",
     "shop": "car_repair",
     "latitude": 48.0745854,
-    "longitude": 16.3257204
+    "longitude": 16.3257204,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

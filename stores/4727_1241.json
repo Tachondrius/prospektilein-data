@@ -4,20 +4,30 @@
     "retailer": "fair_gsund_und_guad",
     "shop": "convenience",
     "latitude": 47.2743298,
-    "longitude": 12.4152298
+    "longitude": 12.4152298,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Karola Knapp - Friseurteam",
     "retailer": "karola_knapp_friseurteam",
     "shop": "hairdresser",
     "latitude": 47.2748991,
-    "longitude": 12.4196348
+    "longitude": 12.4196348,
+    "postcode": "5731",
+    "city": "Hollersbach im Pinzgau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "TEH Naturkraftwerk Hollersbach",
     "retailer": "teh_naturkraftwerk_hollersbach",
     "shop": "chemist",
     "latitude": 47.2743234,
-    "longitude": 12.4198279
+    "longitude": 12.4198279,
+    "postcode": "5731",
+    "city": "Hollersbach im Pinzgau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

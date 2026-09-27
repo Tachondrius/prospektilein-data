@@ -4,14 +4,20 @@
     "retailer": "adessa",
     "shop": "clothes",
     "latitude": 48.2524803,
-    "longitude": 13.045063
+    "longitude": 13.045063,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Hoffmann",
     "retailer": "autohaus_hoffmann",
     "shop": "car",
     "latitude": 48.2576319,
-    "longitude": 13.046166
+    "longitude": 13.046166,
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bellaflora",
@@ -19,14 +25,22 @@
     "shop": "garden_centre",
     "latitude": 48.2512849,
     "longitude": 13.0437924,
-    "brand": "Bellaflora"
+    "brand": "Bellaflora",
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Berta's Fundgrube",
     "retailer": "berta_s_fundgrube",
     "shop": "second_hand",
     "latitude": 48.259485,
-    "longitude": 13.0492965
+    "longitude": 13.0492965,
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -34,7 +48,11 @@
     "shop": "supermarket",
     "latitude": 48.2547698,
     "longitude": 13.0433839,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -42,7 +60,11 @@
     "shop": "chemist",
     "latitude": 48.2502955,
     "longitude": 13.0446894,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fussl",
@@ -50,7 +72,11 @@
     "shop": "clothes",
     "latitude": 48.2509021,
     "longitude": 13.0459693,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Interspar",
@@ -58,7 +84,11 @@
     "shop": "supermarket",
     "latitude": 48.2512752,
     "longitude": 13.0459711,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Intersport",
@@ -66,7 +96,11 @@
     "shop": "sports",
     "latitude": 48.2500114,
     "longitude": 13.0448497,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KiK",
@@ -74,7 +108,9 @@
     "shop": "clothes",
     "latitude": 48.2507237,
     "longitude": 13.0444488,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Libro",
@@ -82,7 +118,11 @@
     "shop": "books",
     "latitude": 48.2504041,
     "longitude": 13.0446323,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny",
@@ -90,7 +130,11 @@
     "shop": "supermarket",
     "latitude": 48.2547269,
     "longitude": 13.0439472,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -98,27 +142,37 @@
     "shop": "clothes",
     "latitude": 48.2505083,
     "longitude": 13.0445746,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Vögele Shoes",
     "retailer": "vogele_shoes",
     "shop": "shoes",
     "latitude": 48.2501381,
-    "longitude": 13.044779
+    "longitude": 13.044779,
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "XXL-Resch",
     "retailer": "xxl_resch",
     "shop": "electronics",
     "latitude": 48.2523255,
-    "longitude": 13.0444914
+    "longitude": 13.0444914,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zgonc",
     "retailer": "zgonc",
     "shop": "hardware",
     "latitude": 48.2524182,
-    "longitude": 13.045224
+    "longitude": 13.045224,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

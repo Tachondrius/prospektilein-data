@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 47.1504212,
     "longitude": 15.67198,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus BMW Unger",
@@ -13,20 +15,30 @@
     "shop": "car",
     "latitude": 47.1502236,
     "longitude": 15.6740748,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "8181",
+    "city": "Sankt Ruprecht an der Raab",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "fliesen & wärmedesign Kletzenbauer",
     "retailer": "fliesen_und_warmedesign_kletzenbauer",
     "shop": "tiles",
     "latitude": 47.1556223,
-    "longitude": 15.6718255
+    "longitude": 15.6718255,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rosis Bikershop",
     "retailer": "rosis_bikershop",
     "shop": "motorcycle",
     "latitude": 47.154831,
-    "longitude": 15.6721322
+    "longitude": 15.6721322,
+    "postcode": "8181",
+    "city": "Sankt Ruprecht an der Raab",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

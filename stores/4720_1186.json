@@ -4,69 +4,99 @@
     "retailer": "blumen_maria",
     "shop": "florist",
     "latitude": 47.2039479,
-    "longitude": 11.8657886
+    "longitude": 11.8657886,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Braunegger",
     "retailer": "braunegger",
     "shop": "supermarket",
     "latitude": 47.2038176,
-    "longitude": 11.8669229
+    "longitude": 11.8669229,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Bacher",
     "retailer": "backerei_bacher",
     "shop": "bakery",
     "latitude": 47.2005938,
-    "longitude": 11.8654489
+    "longitude": 11.8654489,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Frankhauser",
     "retailer": "frankhauser",
     "shop": "outdoor",
     "latitude": 47.2039621,
-    "longitude": 11.8671768
+    "longitude": 11.8671768,
+    "postcode": "6283",
+    "city": "Hippach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.2021258,
-    "longitude": 11.8684664
+    "longitude": 11.8684664,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kröll",
     "retailer": "kroll",
     "shop": "coffee",
     "latitude": 47.2048436,
-    "longitude": 11.8653363
+    "longitude": 11.8653363,
+    "postcode": "6283",
+    "city": "Hippach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Musik Hammerschmidt",
     "retailer": "musik_hammerschmidt",
     "shop": "musical_instrument",
     "latitude": 47.2035019,
-    "longitude": 11.866891
+    "longitude": 11.866891,
+    "postcode": "6283",
+    "city": "Schwendau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Outdoor",
     "retailer": "shop_outdoor",
     "shop": "outdoor",
     "latitude": 47.2042547,
-    "longitude": 11.8674318
+    "longitude": 11.8674318,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Souvenir-Papier Sporer",
     "retailer": "souvenir_papier_sporer",
     "shop": "stationery",
     "latitude": 47.2037954,
-    "longitude": 11.8658841
+    "longitude": 11.8658841,
+    "postcode": "6283",
+    "city": "Hippach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zillertaler Bauernladen",
     "retailer": "zillertaler_bauernladen",
     "shop": "gift",
     "latitude": 47.2042803,
-    "longitude": 11.8674077
+    "longitude": 11.8674077,
+    "postcode": "6283",
+    "city": "Hippach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

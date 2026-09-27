@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 46.7641921,
     "longitude": 15.9664956,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8493",
+    "city": "Klöch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak-Trafik-Kunsthandwerk Lerner",
     "retailer": "tabak_trafik_kunsthandwerk_lerner",
     "shop": "tobacco",
     "latitude": 46.764561,
-    "longitude": 15.9671456
+    "longitude": 15.9671456,
+    "postcode": "8493",
+    "city": "Klöch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vinothek Klöch",
     "retailer": "vinothek_kloch",
     "shop": "wine",
     "latitude": 46.7642117,
-    "longitude": 15.9656254
+    "longitude": 15.9656254,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

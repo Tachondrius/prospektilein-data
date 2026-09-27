@@ -4,28 +4,38 @@
     "retailer": "dampfvilla",
     "shop": "e-cigarette",
     "latitude": 48.1489981,
-    "longitude": 16.3094312
+    "longitude": 16.3094312,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Greißler-Cafe",
     "retailer": "greiler_cafe",
     "shop": "convenience",
     "latitude": 48.148107,
-    "longitude": 16.3062533
+    "longitude": 16.3062533,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "KFZ Adnan Martin KG",
     "retailer": "kfz_adnan_martin_kg",
     "shop": "car_repair",
     "latitude": 48.1442353,
-    "longitude": 16.300927
+    "longitude": 16.300927,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Norbert Fischer",
     "retailer": "norbert_fischer",
     "shop": "kiosk",
     "latitude": 48.1480841,
-    "longitude": 16.3061612
+    "longitude": 16.3061612,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -33,13 +43,19 @@
     "shop": "supermarket",
     "latitude": 48.1406034,
     "longitude": 16.3092439,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Stylist Tom",
     "retailer": "stylist_tom",
     "shop": "hairdresser",
     "latitude": 48.1480717,
-    "longitude": 16.3060691
+    "longitude": 16.3060691,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

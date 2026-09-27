@@ -4,7 +4,9 @@
     "retailer": "autoreifencenter",
     "shop": "tyres",
     "latitude": 48.2034132,
-    "longitude": 16.4029271
+    "longitude": 16.4029271,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,14 +14,20 @@
     "shop": "supermarket",
     "latitude": 48.2013739,
     "longitude": 16.4014626,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Dainese shop",
     "retailer": "dainese_shop",
     "shop": "clothes",
     "latitude": 48.2020437,
-    "longitude": 16.4000367
+    "longitude": 16.4000367,
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "dm",
@@ -27,7 +35,11 @@
     "shop": "chemist",
     "latitude": 48.2000777,
     "longitude": 16.4067226,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -35,14 +47,18 @@
     "shop": "supermarket",
     "latitude": 48.2002602,
     "longitude": 16.406461,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Liliputbahn (Rotunde)",
     "retailer": "liliputbahn_rotunde",
     "shop": "ticket",
     "latitude": 48.2095699,
-    "longitude": 16.4074114
+    "longitude": 16.4074114,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Porsche Wien-Erdberg",
@@ -50,13 +66,21 @@
     "shop": "car",
     "latitude": 48.2008043,
     "longitude": 16.4049168,
-    "brand": "VW;Audi;Škoda"
+    "brand": "VW;Audi;Škoda",
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Sator Bike Shop",
     "retailer": "sator_bike_shop",
     "shop": "bicycle",
     "latitude": 48.2031922,
-    "longitude": 16.4038935
+    "longitude": 16.4038935,
+    "postcode": "1020",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

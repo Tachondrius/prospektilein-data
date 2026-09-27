@@ -4,34 +4,48 @@
     "retailer": "beautyworld",
     "shop": "hairdresser;beauty",
     "latitude": 47.7748366,
-    "longitude": 16.5310142
+    "longitude": 16.5310142,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Dublino",
     "retailer": "dublino",
     "shop": "furniture",
     "latitude": 47.7749273,
-    "longitude": 16.5308985
+    "longitude": 16.5308985,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.774579,
-    "longitude": 16.5312938
+    "longitude": 16.5312938,
+    "postcode": "7011",
+    "city": "Siegendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Schnäppchenmarkt",
     "retailer": "schnappchenmarkt",
     "shop": "variety_store",
     "latitude": 47.7747411,
-    "longitude": 16.5311359
+    "longitude": 16.5311359,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Thomas Philipps",
     "retailer": "thomas_philipps",
     "shop": "variety_store",
     "latitude": 47.7743004,
-    "longitude": 16.5316874
+    "longitude": 16.5316874,
+    "postcode": "7011",
+    "city": "Siegendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

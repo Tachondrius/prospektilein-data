@@ -4,7 +4,11 @@
     "retailer": "blanco_hotex_gmbh",
     "shop": "laundry",
     "latitude": 46.7486922,
-    "longitude": 12.4509173
+    "longitude": 12.4509173,
+    "postcode": "9919",
+    "city": "Heinfels",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -12,6 +16,8 @@
     "shop": "supermarket",
     "latitude": 46.7485372,
     "longitude": 12.453731,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

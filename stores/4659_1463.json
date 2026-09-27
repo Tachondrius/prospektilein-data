@@ -4,7 +4,9 @@
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 46.5917217,
-    "longitude": 14.6374796
+    "longitude": 14.6374796,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -12,20 +14,32 @@
     "shop": "supermarket",
     "latitude": 46.5910864,
     "longitude": 14.6373795,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "9141",
+    "city": "Eberndorf",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Partl",
     "retailer": "partl",
     "shop": "butcher",
     "latitude": 46.5902359,
-    "longitude": 14.6398905
+    "longitude": 14.6398905,
+    "postcode": "9141",
+    "city": "Eberndorf",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Z-Boats",
     "retailer": "z_boats",
     "shop": "boat",
     "latitude": 46.5900235,
-    "longitude": 14.6391719
+    "longitude": 14.6391719,
+    "postcode": "9141",
+    "city": "Eberndorf",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

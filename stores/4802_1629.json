@@ -5,21 +5,31 @@
     "shop": "variety_store",
     "latitude": 48.0220527,
     "longitude": 16.2970871,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ARBÖ Traiskirchen",
     "retailer": "arbo_traiskirchen",
     "shop": "car_repair",
     "latitude": 48.0220419,
-    "longitude": 16.298586
+    "longitude": 16.298586,
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BestDrive",
     "retailer": "bestdrive",
     "shop": "car_repair",
     "latitude": 48.0231661,
-    "longitude": 16.2979228
+    "longitude": 16.2979228,
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -27,7 +37,11 @@
     "shop": "supermarket",
     "latitude": 48.0200985,
     "longitude": 16.2961867,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -35,14 +49,22 @@
     "shop": "chemist",
     "latitude": 48.0202276,
     "longitude": 16.296251,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cowos Telefonmarketing & Büromanagement",
     "retailer": "cowos_telefonmarketing_und_buromanagement",
     "shop": "telefonmarketing und Büromanagment",
     "latitude": 48.0232041,
-    "longitude": 16.2992185
+    "longitude": 16.2992185,
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -50,21 +72,33 @@
     "shop": "chemist",
     "latitude": 48.0218257,
     "longitude": 16.2970215,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "EKZ-Traiskirchen Nord",
     "retailer": "ekz_traiskirchen_nord",
     "shop": "mall",
     "latitude": 48.0215733,
-    "longitude": 16.2966487
+    "longitude": 16.2966487,
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "elektro-b-markt",
     "retailer": "elektro_b_markt",
     "shop": "electronics",
     "latitude": 48.0206944,
-    "longitude": 16.2957982
+    "longitude": 16.2957982,
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -72,7 +106,9 @@
     "shop": "supermarket",
     "latitude": 48.0214163,
     "longitude": 16.2968805,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -80,14 +116,22 @@
     "shop": "supermarket",
     "latitude": 48.0211766,
     "longitude": 16.2962603,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Warner",
     "retailer": "kfz_warner",
     "shop": "car",
     "latitude": 48.0243546,
-    "longitude": 16.2984971
+    "longitude": 16.2984971,
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -95,7 +139,9 @@
     "shop": "clothes",
     "latitude": 48.0215844,
     "longitude": 16.2969377,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -103,7 +149,11 @@
     "shop": "supermarket",
     "latitude": 48.0225874,
     "longitude": 16.2972982,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -111,13 +161,19 @@
     "shop": "stationery",
     "latitude": 48.0217172,
     "longitude": 16.296983,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "VW Gramsel",
     "retailer": "vw_gramsel",
     "shop": "car_repair",
     "latitude": 48.0200532,
-    "longitude": 16.2973889
+    "longitude": 16.2973889,
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 48.4257945,
     "longitude": 15.8971667,
-    "brand": "Hyundai;Ford"
+    "brand": "Hyundai;Ford",
+    "postcode": "3470",
+    "city": "Kirchberg am Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 48.4268639,
     "longitude": 15.8982322,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3470",
+    "city": "Kirchberg am Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -21,35 +29,51 @@
     "shop": "chemist",
     "latitude": 48.4270129,
     "longitude": 15.897736,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Nagy",
     "retailer": "blumen_nagy",
     "shop": "florist",
     "latitude": 48.4279065,
-    "longitude": 15.8904076
+    "longitude": 15.8904076,
+    "postcode": "3470",
+    "city": "Dörfl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.4247238,
-    "longitude": 15.8989531
+    "longitude": 15.8989531,
+    "postcode": "3470",
+    "city": "Kirchberg am Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KatCut Hairstyle",
     "retailer": "katcut_hairstyle",
     "shop": "hairdresser",
     "latitude": 48.4244681,
-    "longitude": 15.8987028
+    "longitude": 15.8987028,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KRAFT BAU GmbH",
     "retailer": "kraft_bau_gmbh",
     "shop": "trade",
     "latitude": 48.424939,
-    "longitude": 15.8991151
+    "longitude": 15.8991151,
+    "postcode": "3470",
+    "city": "Kirchberg am Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -57,21 +81,29 @@
     "shop": "doityourself",
     "latitude": 48.4275586,
     "longitude": 15.8961659,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Max's Kfz Technik",
     "retailer": "max_s_kfz_technik",
     "shop": "car_repair",
     "latitude": 48.4247693,
-    "longitude": 15.8987718
+    "longitude": 15.8987718,
+    "postcode": "3470",
+    "city": "Kirchberg am Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Milchhof Langschlag",
     "retailer": "milchhof_langschlag",
     "shop": "farm",
     "latitude": 48.4279097,
-    "longitude": 15.89455
+    "longitude": 15.89455,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -79,13 +111,20 @@
     "shop": "supermarket",
     "latitude": 48.4276459,
     "longitude": 15.8988821,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "3470",
+    "city": "Kirchberg am Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wallensteiner",
     "retailer": "wallensteiner",
     "shop": "florist",
     "latitude": 48.4299906,
-    "longitude": 15.8957774
+    "longitude": 15.8957774,
+    "postcode": "3470",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

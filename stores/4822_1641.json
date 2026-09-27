@@ -4,14 +4,18 @@
     "retailer": "altenburger",
     "shop": "optician",
     "latitude": 48.2298553,
-    "longitude": 16.4181501
+    "longitude": 16.4181501,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 48.2294183,
-    "longitude": 16.4176486
+    "longitude": 16.4176486,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -19,13 +23,19 @@
     "shop": "supermarket",
     "latitude": 48.2293602,
     "longitude": 16.4187635,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Wurst & mehr",
     "retailer": "wurst_und_mehr",
     "shop": "convenience",
     "latitude": 48.2297349,
-    "longitude": 16.4183188
+    "longitude": 16.4183188,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

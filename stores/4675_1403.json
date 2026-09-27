@@ -4,7 +4,9 @@
     "retailer": "bp_shop",
     "shop": "convenience",
     "latitude": 46.7517884,
-    "longitude": 14.034684
+    "longitude": 14.034684,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 46.7516939,
     "longitude": 14.0346898,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9562",
+    "city": "Himmelberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

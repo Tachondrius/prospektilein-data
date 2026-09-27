@@ -4,14 +4,20 @@
     "retailer": "az_tennisshop",
     "shop": "sports",
     "latitude": 48.2508013,
-    "longitude": 16.4399235
+    "longitude": 16.4399235,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Barber Shop 22",
     "retailer": "barber_shop_22",
     "shop": "hairdresser",
     "latitude": 48.2510566,
-    "longitude": 16.4309721
+    "longitude": 16.4309721,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -19,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 48.2512751,
     "longitude": 16.4312236,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -27,49 +37,72 @@
     "shop": "supermarket",
     "latitude": 48.2531724,
     "longitude": 16.4374586,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Esthetic Schönheitssalon",
     "retailer": "esthetic_schonheitssalon",
     "shop": "beauty",
     "latitude": 48.2508433,
-    "longitude": 16.4350341
+    "longitude": 16.4350341,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "K'Eck Hair Lounge",
     "retailer": "k_eck_hair_lounge",
     "shop": "hairdresser",
     "latitude": 48.2507619,
-    "longitude": 16.4361771
+    "longitude": 16.4361771,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Nails In Design",
     "retailer": "nails_in_design",
     "shop": "beauty",
     "latitude": 48.2510061,
-    "longitude": 16.4314593
+    "longitude": 16.4314593,
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Nova Supermarkt",
     "retailer": "nova_supermarkt",
     "shop": "supermarket",
     "latitude": 48.2512616,
-    "longitude": 16.4317657
+    "longitude": 16.4317657,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Schlosserei & Aufsperrdienst Thomas Romsdorfer",
     "retailer": "schlosserei_und_aufsperrdienst_thomas_romsdorfer",
     "shop": "locksmith",
     "latitude": 48.2502536,
-    "longitude": 16.4387181
+    "longitude": 16.4387181,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Sozialmarkt Donaustadt",
     "retailer": "sozialmarkt_donaustadt",
     "shop": "supermarket",
     "latitude": 48.2532132,
-    "longitude": 16.4335415
+    "longitude": 16.4335415,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -77,13 +110,20 @@
     "shop": "supermarket",
     "latitude": 48.2505343,
     "longitude": 16.4360689,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trachtenmädl",
     "retailer": "trachtenmadl",
     "shop": "clothes",
     "latitude": 48.2506719,
-    "longitude": 16.4349122
+    "longitude": 16.4349122,
+    "postcode": "1220",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

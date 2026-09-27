@@ -4,7 +4,9 @@
     "retailer": "blumen_kopf",
     "shop": "garden_centre",
     "latitude": 47.223887,
-    "longitude": 9.6297136
+    "longitude": 9.6297136,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lidl",
@@ -12,14 +14,22 @@
     "shop": "supermarket",
     "latitude": 47.2239181,
     "longitude": 9.6202147,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "6820",
+    "city": "Frastanz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "MTC Gantner",
     "retailer": "mtc_gantner",
     "shop": "motorcycle",
     "latitude": 47.2254499,
-    "longitude": 9.6223015
+    "longitude": 9.6223015,
+    "postcode": "6820",
+    "city": "Frastanz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sutterlüty",
@@ -27,13 +37,21 @@
     "shop": "supermarket",
     "latitude": 47.2235551,
     "longitude": 9.6241163,
-    "brand": "Sutterlüty"
+    "brand": "Sutterlüty",
+    "postcode": "6820",
+    "city": "Frastanz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 47.2232599,
-    "longitude": 9.6268294
+    "longitude": 9.6268294,
+    "postcode": "6820",
+    "city": "Frastanz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

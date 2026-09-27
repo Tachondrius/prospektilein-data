@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.9992528,
     "longitude": 13.2325451,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car Masters",
     "retailer": "car_masters",
     "shop": "car_repair",
     "latitude": 47.9969366,
-    "longitude": 13.2356867
+    "longitude": 13.2356867,
+    "postcode": "5211",
+    "city": "Lengau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

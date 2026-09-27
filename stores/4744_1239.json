@@ -4,7 +4,11 @@
     "retailer": "beluna_fashion",
     "shop": "clothes",
     "latitude": 47.4466227,
-    "longitude": 12.3900107
+    "longitude": 12.3900107,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 47.4453035,
     "longitude": 12.3947989,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -20,14 +28,20 @@
     "shop": "supermarket",
     "latitude": 47.44628,
     "longitude": 12.391364,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bodyfit",
     "retailer": "bodyfit",
     "shop": "fitness_equipment",
     "latitude": 47.4484181,
-    "longitude": 12.3901682
+    "longitude": 12.3901682,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bogner",
@@ -35,56 +49,76 @@
     "shop": "clothes",
     "latitude": 47.4471378,
     "longitude": 12.3903666,
-    "brand": "Bogner"
+    "brand": "Bogner",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Cashmere House",
     "retailer": "cashmere_house",
     "shop": "clothes",
     "latitude": 47.4452636,
-    "longitude": 12.3923588
+    "longitude": 12.3923588,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.4456959,
-    "longitude": 12.3919022
+    "longitude": 12.3919022,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Country Classics",
     "retailer": "country_classics",
     "shop": "interior_decoration",
     "latitude": 47.4440433,
-    "longitude": 12.3971182
+    "longitude": 12.3971182,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "DaleBoot",
     "retailer": "daleboot",
     "shop": "sports",
     "latitude": 47.448447,
-    "longitude": 12.3907724
+    "longitude": 12.3907724,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dewalds Weinladen",
     "retailer": "dewalds_weinladen",
     "shop": "wine",
     "latitude": 47.4468654,
-    "longitude": 12.3922026
+    "longitude": 12.3922026,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Die Wohnidee",
     "retailer": "die_wohnidee",
     "shop": "furniture",
     "latitude": 47.4483588,
-    "longitude": 12.3917518
+    "longitude": 12.3917518,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Different",
     "retailer": "different",
     "shop": "clothes",
     "latitude": 47.4460469,
-    "longitude": 12.3915041
+    "longitude": 12.3915041,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dm",
@@ -92,14 +126,18 @@
     "shop": "chemist",
     "latitude": 47.44496,
     "longitude": 12.3923397,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dog Grooming Kitzbühel",
     "retailer": "dog_grooming_kitzbuhel",
     "shop": "pet_grooming",
     "latitude": 47.4448349,
-    "longitude": 12.3925101
+    "longitude": 12.3925101,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Douglas",
@@ -107,231 +145,313 @@
     "shop": "perfumery",
     "latitude": 47.4460678,
     "longitude": 12.3912592,
-    "brand": "Douglas"
+    "brand": "Douglas",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Drogerie Stadtapotheke Vogl",
     "retailer": "drogerie_stadtapotheke_vogl",
     "shop": "chemist",
     "latitude": 47.4468126,
-    "longitude": 12.3909931
+    "longitude": 12.3909931,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "EA7",
     "retailer": "ea7",
     "shop": "clothes",
     "latitude": 47.4464623,
-    "longitude": 12.3912558
+    "longitude": 12.3912558,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Edeluielt",
     "retailer": "edeluielt",
     "shop": "stationery",
     "latitude": 47.4448345,
-    "longitude": 12.3927897
+    "longitude": 12.3927897,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Obermoser",
     "retailer": "elektro_obermoser",
     "shop": "electrical",
     "latitude": 47.4477316,
-    "longitude": 12.3900534
+    "longitude": 12.3900534,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Element3",
     "retailer": "element3",
     "shop": "ski",
     "latitude": 47.4447299,
-    "longitude": 12.3900615
+    "longitude": 12.3900615,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fashion Outlet",
     "retailer": "fashion_outlet",
     "shop": "clothes",
     "latitude": 47.4483499,
-    "longitude": 12.3915055
+    "longitude": 12.3915055,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Feinkost Özer",
     "retailer": "feinkost_ozer",
     "shop": "butcher",
     "latitude": 47.4458436,
-    "longitude": 12.3928784
+    "longitude": 12.3928784,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Flash Fotoservice",
     "retailer": "flash_fotoservice",
     "shop": "camera",
     "latitude": 47.445604,
-    "longitude": 12.3942944
+    "longitude": 12.3942944,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Frauenschuh",
     "retailer": "frauenschuh",
     "shop": "clothes",
     "latitude": 47.4443538,
-    "longitude": 12.3906675
+    "longitude": 12.3906675,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Max",
     "retailer": "friseur_max",
     "shop": "hairdresser",
     "latitude": 47.4451046,
-    "longitude": 12.3926594
+    "longitude": 12.3926594,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseursalon Herbert Draxl",
     "retailer": "friseursalon_herbert_draxl",
     "shop": "hairdresser",
     "latitude": 47.445188,
-    "longitude": 12.3944356
+    "longitude": 12.3944356,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Galleria",
     "retailer": "galleria",
     "shop": "department_store",
     "latitude": 47.4468375,
-    "longitude": 12.391695
+    "longitude": 12.391695,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gartenmöbelausstellung",
     "retailer": "gartenmobelausstellung",
     "shop": "houseware",
     "latitude": 47.4439102,
-    "longitude": 12.3968307
+    "longitude": 12.3968307,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 47.4452119,
-    "longitude": 12.3920611
+    "longitude": 12.3920611,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 47.4480654,
-    "longitude": 12.3900344
+    "longitude": 12.3900344,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Goldschmiede Margarete Klingler",
     "retailer": "goldschmiede_margarete_klingler",
     "shop": "jewelry",
     "latitude": 47.4489195,
-    "longitude": 12.3916145
+    "longitude": 12.3916145,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gschwantler Pop-Up Outlet",
     "retailer": "gschwantler_pop_up_outlet",
     "shop": "clothes",
     "latitude": 47.4440478,
-    "longitude": 12.3902328
+    "longitude": 12.3902328,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gxund",
     "retailer": "gxund",
     "shop": "supermarket",
     "latitude": 47.4481245,
-    "longitude": 12.3901361
+    "longitude": 12.3901361,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Habsburg",
     "retailer": "habsburg",
     "shop": "clothes",
     "latitude": 47.4460028,
-    "longitude": 12.3913286
+    "longitude": 12.3913286,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haderer",
     "retailer": "haderer",
     "shop": "shoes",
     "latitude": 47.4461,
-    "longitude": 12.3914541
+    "longitude": 12.3914541,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haidacher",
     "retailer": "haidacher",
     "shop": "furniture",
     "latitude": 47.4441504,
-    "longitude": 12.3962716
+    "longitude": 12.3962716,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hair Design",
     "retailer": "hair_design",
     "shop": "hairdresser",
     "latitude": 47.4463303,
-    "longitude": 12.3910882
+    "longitude": 12.3910882,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hansaton",
     "retailer": "hansaton",
     "shop": "hearing_aids",
     "latitude": 47.4440433,
-    "longitude": 12.3957956
+    "longitude": 12.3957956,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hartlauer",
     "retailer": "hartlauer",
     "shop": "electronics",
     "latitude": 47.4446165,
-    "longitude": 12.3927874
+    "longitude": 12.3927874,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Helmut Eder",
     "retailer": "helmut_eder",
     "shop": "clothes",
     "latitude": 47.4455479,
-    "longitude": 12.3919794
+    "longitude": 12.3919794,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Helmut Elder Outlet",
     "retailer": "helmut_elder_outlet",
     "shop": "clothes",
     "latitude": 47.4467985,
-    "longitude": 12.3920566
+    "longitude": 12.3920566,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hinterholzer",
     "retailer": "hinterholzer",
     "shop": "electronics",
     "latitude": 47.4485016,
-    "longitude": 12.3913458
+    "longitude": 12.3913458,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Holzer",
     "retailer": "holzer",
     "shop": "tobacco",
     "latitude": 47.4440078,
-    "longitude": 12.3963842
+    "longitude": 12.3963842,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Huber",
     "retailer": "huber",
     "shop": "butcher",
     "latitude": 47.4451321,
-    "longitude": 12.3921246
+    "longitude": 12.3921246,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hölzl",
     "retailer": "holzl",
     "shop": "pastry",
     "latitude": 47.444091,
-    "longitude": 12.39543
+    "longitude": 12.39543,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ieri + Oggi",
     "retailer": "ieri_plus_oggi",
     "shop": "clothes",
     "latitude": 47.4465676,
-    "longitude": 12.391146
+    "longitude": 12.391146,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 47.4439165,
-    "longitude": 12.3901086
+    "longitude": 12.3901086,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -339,84 +459,115 @@
     "shop": "sports",
     "latitude": 47.4442858,
     "longitude": 12.3955599,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "K. Haertel",
     "retailer": "k_haertel",
     "shop": "books",
     "latitude": 47.4460861,
-    "longitude": 12.3912057
+    "longitude": 12.3912057,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kaeufer",
     "retailer": "kaeufer",
     "shop": "clothes",
     "latitude": 47.4485088,
-    "longitude": 12.391644
+    "longitude": 12.391644,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kinga Mathe",
     "retailer": "kinga_mathe",
     "shop": "clothes",
     "latitude": 47.4440967,
-    "longitude": 12.3955197
+    "longitude": 12.3955197,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kitz Galleria",
     "retailer": "kitz_galleria",
     "shop": "department_store",
     "latitude": 47.4466111,
-    "longitude": 12.391131
+    "longitude": 12.391131,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kitz Galleria",
     "retailer": "kitz_galleria",
     "shop": "clothes",
     "latitude": 47.4468093,
-    "longitude": 12.3916602
+    "longitude": 12.3916602,
+    "postcode": "6370",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kitz Massage",
     "retailer": "kitz_massage",
     "shop": "beauty",
     "latitude": 47.4498565,
-    "longitude": 12.391001
+    "longitude": 12.391001,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kitzbuheler Handarbeiten",
     "retailer": "kitzbuheler_handarbeiten",
     "shop": "craft",
     "latitude": 47.4464127,
-    "longitude": 12.3923705
+    "longitude": 12.3923705,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kitzbüheler Werkstätten",
     "retailer": "kitzbuheler_werkstatten",
     "shop": "interior_decoration",
     "latitude": 47.4443348,
-    "longitude": 12.394884
+    "longitude": 12.394884,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kitzbühler G'wand",
     "retailer": "kitzbuhler_g_wand",
     "shop": "clothes",
     "latitude": 47.4443106,
-    "longitude": 12.3939086
+    "longitude": 12.3939086,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KitzGlück",
     "retailer": "kitzgluck",
     "shop": "clothes",
     "latitude": 47.4442202,
-    "longitude": 12.3957462
+    "longitude": 12.3957462,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Krines",
     "retailer": "krines",
     "shop": "clothes",
     "latitude": 47.4462015,
-    "longitude": 12.3913819
+    "longitude": 12.3913819,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lacoste",
@@ -424,21 +575,27 @@
     "shop": "clothes",
     "latitude": 47.4460327,
     "longitude": 12.3912906,
-    "brand": "Lacoste"
+    "brand": "Lacoste",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Leder & Tracht Frauenschuh",
     "retailer": "leder_und_tracht_frauenschuh",
     "shop": "clothes",
     "latitude": 47.4458605,
-    "longitude": 12.3932799
+    "longitude": 12.3932799,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Leo Hillinger Wineshop & Bar",
     "retailer": "leo_hillinger_wineshop_und_bar",
     "shop": "wine",
     "latitude": 47.4463805,
-    "longitude": 12.3905062
+    "longitude": 12.3905062,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Libro",
@@ -446,70 +603,98 @@
     "shop": "houseware",
     "latitude": 47.444022,
     "longitude": 12.3958532,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Louis Vuitton",
     "retailer": "louis_vuitton",
     "shop": "fashion_accessories",
     "latitude": 47.4468385,
-    "longitude": 12.3909623
+    "longitude": 12.3909623,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ludwig Reiter in Kitzbühel",
     "retailer": "ludwig_reiter_in_kitzbuhel",
     "shop": "shoes",
     "latitude": 47.4443566,
-    "longitude": 12.3933574
+    "longitude": 12.3933574,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Luxury Outlet",
     "retailer": "luxury_outlet",
     "shop": "clothes",
     "latitude": 47.4455307,
-    "longitude": 12.3917159
+    "longitude": 12.3917159,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Max",
     "retailer": "max",
     "shop": "clothes",
     "latitude": 47.4457571,
-    "longitude": 12.3914443
+    "longitude": 12.3914443,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MaxMara",
     "retailer": "maxmara",
     "shop": "clothes",
     "latitude": 47.4460092,
-    "longitude": 12.3915564
+    "longitude": 12.3915564,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MC2 Saint Barth",
     "retailer": "mc2_saint_barth",
     "shop": "clothes",
     "latitude": 47.4447657,
-    "longitude": 12.3911672
+    "longitude": 12.3911672,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Meikl",
     "retailer": "meikl",
     "shop": "optician",
     "latitude": 47.4470825,
-    "longitude": 12.3908098
+    "longitude": 12.3908098,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Messner",
     "retailer": "messner",
     "shop": "jewelry",
     "latitude": 47.4469215,
-    "longitude": 12.3909302
+    "longitude": 12.3909302,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Michael Meyer",
     "retailer": "michael_meyer",
     "shop": "clothes",
     "latitude": 47.445366,
-    "longitude": 12.3919124
+    "longitude": 12.3919124,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Moncler",
@@ -517,14 +702,18 @@
     "shop": "clothes",
     "latitude": 47.4473439,
     "longitude": 12.3902714,
-    "brand": "Moncler"
+    "brand": "Moncler",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nathal Epren",
     "retailer": "nathal_epren",
     "shop": "jewelry",
     "latitude": 47.448311,
-    "longitude": 12.3915324
+    "longitude": 12.3915324,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -532,84 +721,113 @@
     "shop": "clothes",
     "latitude": 47.445694,
     "longitude": 12.3932953,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "PeakPerformance",
     "retailer": "peakperformance",
     "shop": "sports",
     "latitude": 47.4452499,
-    "longitude": 12.3919833
+    "longitude": 12.3919833,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pfleghof",
     "retailer": "pfleghof",
     "shop": "chemist",
     "latitude": 47.4458464,
-    "longitude": 12.3917081
+    "longitude": 12.3917081,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Phönix",
     "retailer": "phonix",
     "shop": "dry_cleaning",
     "latitude": 47.4449891,
-    "longitude": 12.3930822
+    "longitude": 12.3930822,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Plangger Delikatessen",
     "retailer": "plangger_delikatessen",
     "shop": "deli",
     "latitude": 47.4467774,
-    "longitude": 12.3917181
+    "longitude": 12.3917181,
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Prader",
     "retailer": "prader",
     "shop": "clothes",
     "latitude": 47.4441331,
-    "longitude": 12.3904295
+    "longitude": 12.3904295,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sanitätshaus Kostner",
     "retailer": "sanitatshaus_kostner",
     "shop": "medical_supply",
     "latitude": 47.4461369,
-    "longitude": 12.3926688
+    "longitude": 12.3926688,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schmidt",
     "retailer": "schmidt",
     "shop": "bakery",
     "latitude": 47.4466175,
-    "longitude": 12.3918701
+    "longitude": 12.3918701,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schott",
     "retailer": "schott",
     "shop": "optician",
     "latitude": 47.4459822,
-    "longitude": 12.3913575
+    "longitude": 12.3913575,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schroll",
     "retailer": "schroll",
     "shop": "jewelry",
     "latitude": 47.4463956,
-    "longitude": 12.3913484
+    "longitude": 12.3913484,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schroll",
     "retailer": "schroll",
     "shop": "fashion_accessories",
     "latitude": 47.4464024,
-    "longitude": 12.3910101
+    "longitude": 12.3910101,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuh Outlet",
     "retailer": "schuh_outlet",
     "shop": "shoes",
     "latitude": 47.4450602,
-    "longitude": 12.3926046
+    "longitude": 12.3926046,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Select",
@@ -617,139 +835,183 @@
     "shop": "convenience",
     "latitude": 47.4447073,
     "longitude": 12.3987579,
-    "brand": "Select"
+    "brand": "Select",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sinner Eyewear",
     "retailer": "sinner_eyewear",
     "shop": "sports",
     "latitude": 47.4481816,
-    "longitude": 12.3916016
+    "longitude": 12.3916016,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sommeregger Design",
     "retailer": "sommeregger_design",
     "shop": "clothes",
     "latitude": 47.4455395,
-    "longitude": 12.390702
+    "longitude": 12.390702,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spiel Fuchs",
     "retailer": "spiel_fuchs",
     "shop": "toys",
     "latitude": 47.4457531,
-    "longitude": 12.391606
+    "longitude": 12.391606,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Etz 2000",
     "retailer": "sport_etz_2000",
     "shop": "sports",
     "latitude": 47.4451621,
-    "longitude": 12.3924231
+    "longitude": 12.3924231,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sportalm",
     "retailer": "sportalm",
     "shop": "clothes",
     "latitude": 47.4494054,
-    "longitude": 12.3903131
+    "longitude": 12.3903131,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "St. George",
     "retailer": "st_george",
     "shop": "clothes",
     "latitude": 47.4452291,
-    "longitude": 12.3920254
+    "longitude": 12.3920254,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Streifzug",
     "retailer": "streifzug",
     "shop": "interior_decoration",
     "latitude": 47.4457675,
-    "longitude": 12.3917089
+    "longitude": 12.3917089,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "gift",
     "latitude": 47.4471693,
-    "longitude": 12.390733
+    "longitude": 12.390733,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Team Comp",
     "retailer": "team_comp",
     "shop": "bicycle",
     "latitude": 47.443693,
-    "longitude": 12.3997397
+    "longitude": 12.3997397,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Toni Sailer",
     "retailer": "toni_sailer",
     "shop": "clothes",
     "latitude": 47.4443522,
-    "longitude": 12.3934867
+    "longitude": 12.3934867,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tracht Couture Eder",
     "retailer": "tracht_couture_eder",
     "shop": "clothes",
     "latitude": 47.4465259,
-    "longitude": 12.3906835
+    "longitude": 12.3906835,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tutto Italia",
     "retailer": "tutto_italia",
     "shop": "deli",
     "latitude": 47.4465846,
-    "longitude": 12.3900499
+    "longitude": 12.3900499,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ueberall",
     "retailer": "ueberall",
     "shop": "sports",
     "latitude": 47.4448278,
-    "longitude": 12.3937713
+    "longitude": 12.3937713,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Uschi Grote Store",
     "retailer": "uschi_grote_store",
     "shop": "clothes",
     "latitude": 47.4443429,
-    "longitude": 12.3902201
+    "longitude": 12.3902201,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wagermaier",
     "retailer": "wagermaier",
     "shop": "florist",
     "latitude": 47.4431732,
-    "longitude": 12.3987576
+    "longitude": 12.3987576,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Walter",
     "retailer": "walter",
     "shop": "hairdresser",
     "latitude": 47.446328,
-    "longitude": 12.3912999
+    "longitude": 12.3912999,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Weidner's",
     "retailer": "weidner_s",
     "shop": "houseware",
     "latitude": 47.4484987,
-    "longitude": 12.3908385
+    "longitude": 12.3908385,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wine",
     "retailer": "shop_wine",
     "shop": "wine",
     "latitude": 47.4447512,
-    "longitude": 12.391841
+    "longitude": 12.391841,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Yves Salomon",
     "retailer": "yves_salomon",
     "shop": "clothes",
     "latitude": 47.4458557,
-    "longitude": 12.3915178
+    "longitude": 12.3915178,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

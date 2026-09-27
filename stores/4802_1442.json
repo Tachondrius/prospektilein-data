@@ -4,7 +4,9 @@
     "retailer": "a_und_o",
     "shop": "optician",
     "latitude": 48.0293862,
-    "longitude": 14.4260024
+    "longitude": 14.4260024,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -12,28 +14,38 @@
     "shop": "supermarket",
     "latitude": 48.0293648,
     "longitude": 14.4258361,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumenfreund",
     "retailer": "blumenfreund",
     "shop": "florist",
     "latitude": 48.029518,
-    "longitude": 14.4255772
+    "longitude": 14.4255772,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Health & Beauty Institut Steyr",
     "retailer": "health_und_beauty_institut_steyr",
     "shop": "beauty",
     "latitude": 48.0297256,
-    "longitude": 14.4254491
+    "longitude": 14.4254491,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "monika leitner - friseure mit herz",
     "retailer": "monika_leitner_friseure_mit_herz",
     "shop": "hairdresser",
     "latitude": 48.0293844,
-    "longitude": 14.425934
+    "longitude": 14.425934,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -41,13 +53,19 @@
     "shop": "clothes",
     "latitude": 48.0296633,
     "longitude": 14.4255236,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "ULLA",
     "retailer": "ulla",
     "shop": "convenience",
     "latitude": 48.0221662,
-    "longitude": 14.4240492
+    "longitude": 14.4240492,
+    "postcode": "4400",
+    "city": "St. Ulrich bei Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

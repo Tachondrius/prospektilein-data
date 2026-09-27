@@ -4,21 +4,29 @@
     "retailer": "a1_store",
     "shop": "mobile_phone",
     "latitude": 47.1397363,
-    "longitude": 10.5662486
+    "longitude": 10.5662486,
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Allin Barbershop - Modern Barber Studio",
     "retailer": "allin_barbershop_modern_barber_studio",
     "shop": "hairdresser",
     "latitude": 47.1370004,
-    "longitude": 10.566887
+    "longitude": 10.566887,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Alpen Cut",
     "retailer": "alpen_cut",
     "shop": "hairdresser",
     "latitude": 47.1389427,
-    "longitude": 10.5678378
+    "longitude": 10.5678378,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Autohaus Gaudenzi",
@@ -26,14 +34,22 @@
     "shop": "car_repair",
     "latitude": 47.1398503,
     "longitude": 10.5646192,
-    "brand": "SsangYong"
+    "brand": "SsangYong",
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bestattung Dellemann",
     "retailer": "bestattung_dellemann",
     "shop": "funeral_directors",
     "latitude": 47.1378379,
-    "longitude": 10.5693506
+    "longitude": 10.5693506,
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "C&A",
@@ -41,56 +57,74 @@
     "shop": "clothes",
     "latitude": 47.1390348,
     "longitude": 10.5660917,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Derman",
     "retailer": "derman",
     "shop": "supermarket",
     "latitude": 47.1389115,
-    "longitude": 10.5659486
+    "longitude": 10.5659486,
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Müller Fachgeschäft/Küchenstudio",
     "retailer": "elektro_muller_fachgeschaft_kuchenstudio",
     "shop": "electronics",
     "latitude": 47.1379328,
-    "longitude": 10.5650751
+    "longitude": 10.5650751,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Felby",
     "retailer": "friseur_felby",
     "shop": "hairdresser",
     "latitude": 47.1381902,
-    "longitude": 10.5667683
+    "longitude": 10.5667683,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Velly",
     "retailer": "friseur_velly",
     "shop": "hairdresser",
     "latitude": 47.1369512,
-    "longitude": 10.5672048
+    "longitude": 10.5672048,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gerald's Fingerspitzengefühl",
     "retailer": "gerald_s_fingerspitzengefuhl",
     "shop": "beauty",
     "latitude": 47.139199,
-    "longitude": 10.5678995
+    "longitude": 10.5678995,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Greuter",
     "retailer": "greuter",
     "shop": "interior_decoration",
     "latitude": 47.1392008,
-    "longitude": 10.5660843
+    "longitude": 10.5660843,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haarstudio Sibylle",
     "retailer": "haarstudio_sibylle",
     "shop": "hairdresser",
     "latitude": 47.1371327,
-    "longitude": 10.5673429
+    "longitude": 10.5673429,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hartlauer",
@@ -98,14 +132,20 @@
     "shop": "electronics",
     "latitude": 47.1394776,
     "longitude": 10.5659804,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hörrein",
     "retailer": "horrein",
     "shop": "hearing_aids",
     "latitude": 47.1363328,
-    "longitude": 10.567354
+    "longitude": 10.567354,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -113,42 +153,56 @@
     "shop": "sports",
     "latitude": 47.1395274,
     "longitude": 10.566266,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Istanbul Juwelier",
     "retailer": "istanbul_juwelier",
     "shop": "jewelry",
     "latitude": 47.1391679,
-    "longitude": 10.5663639
+    "longitude": 10.5663639,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lebensmittelhandel Dilara Karakurt",
     "retailer": "lebensmittelhandel_dilara_karakurt",
     "shop": "supermarket",
     "latitude": 47.1365936,
-    "longitude": 10.5670117
+    "longitude": 10.5670117,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lupu's Boutique Änderungsschneiderei",
     "retailer": "lupu_s_boutique_anderungsschneiderei",
     "shop": "clothes",
     "latitude": 47.1365151,
-    "longitude": 10.5670425
+    "longitude": 10.5670425,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Minivino",
     "retailer": "minivino",
     "shop": "wine",
     "latitude": 47.1389253,
-    "longitude": 10.5664612
+    "longitude": 10.5664612,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Modehaus Feucht",
     "retailer": "modehaus_feucht",
     "shop": "clothes",
     "latitude": 47.1387287,
-    "longitude": 10.5665435
+    "longitude": 10.5665435,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Moreboards",
@@ -156,14 +210,18 @@
     "shop": "clothes",
     "latitude": 47.1391388,
     "longitude": 10.5661017,
-    "brand": "Moreboards"
+    "brand": "Moreboards",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Movement",
     "retailer": "movement",
     "shop": "car_parts",
     "latitude": 47.1391801,
-    "longitude": 10.5644957
+    "longitude": 10.5644957,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -171,14 +229,20 @@
     "shop": "supermarket",
     "latitude": 47.1375503,
     "longitude": 10.5663362,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "My Partyshop Tirol",
     "retailer": "my_partyshop_tirol",
     "shop": "gift",
     "latitude": 47.1392629,
-    "longitude": 10.5662754
+    "longitude": 10.5662754,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Müller",
@@ -186,7 +250,9 @@
     "shop": "chemist",
     "latitude": 47.1374007,
     "longitude": 10.5667149,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Neuroth",
@@ -194,21 +260,29 @@
     "shop": "hearing_aids",
     "latitude": 47.1382115,
     "longitude": 10.566718,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nähwerkstatt Brimo",
     "retailer": "nahwerkstatt_brimo",
     "shop": "tailor",
     "latitude": 47.1376828,
-    "longitude": 10.566895
+    "longitude": 10.566895,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Optik Plangger",
     "retailer": "optik_plangger",
     "shop": "optician",
     "latitude": 47.136308,
-    "longitude": 10.5670908
+    "longitude": 10.5670908,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Palmers",
@@ -216,28 +290,38 @@
     "shop": "clothes",
     "latitude": 47.1369503,
     "longitude": 10.567119,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Paradisch",
     "retailer": "paradisch",
     "shop": "hairdresser",
     "latitude": 47.1396524,
-    "longitude": 10.565965
+    "longitude": 10.565965,
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Posh Beauty",
     "retailer": "posh_beauty",
     "shop": "beauty",
     "latitude": 47.139025,
-    "longitude": 10.5664025
+    "longitude": 10.5664025,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Royal Blades Barber Shop",
     "retailer": "royal_blades_barber_shop",
     "shop": "hairdresser",
     "latitude": 47.1367021,
-    "longitude": 10.56695
+    "longitude": 10.56695,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "s.Oliver",
@@ -245,83 +329,113 @@
     "shop": "clothes",
     "latitude": 47.139417,
     "longitude": 10.5662365,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuhhaus Harrer",
     "retailer": "schuhhaus_harrer",
     "shop": "shoes",
     "latitude": 47.1380479,
-    "longitude": 10.5668288
+    "longitude": 10.5668288,
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "sehen!Wutscher",
     "retailer": "sehen_wutscher",
     "shop": "optician",
     "latitude": 47.1370768,
-    "longitude": 10.567093
+    "longitude": 10.567093,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Textil Auer",
     "retailer": "textil_auer",
     "shop": "fabric",
     "latitude": 47.1381138,
-    "longitude": 10.5668073
+    "longitude": 10.5668073,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "time by Winkler",
     "retailer": "time_by_winkler",
     "shop": "watches",
     "latitude": 47.1375893,
-    "longitude": 10.5669259
+    "longitude": 10.5669259,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tiroler Edle Schokoladen",
     "retailer": "tiroler_edle_schokoladen",
     "shop": "chocolate",
     "latitude": 47.1382183,
-    "longitude": 10.5673604
+    "longitude": 10.5673604,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Tiefenbrunn",
     "retailer": "trafik_tiefenbrunn",
     "shop": "tobacco",
     "latitude": 47.138825,
-    "longitude": 10.5664766
+    "longitude": 10.5664766,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tschibo",
     "retailer": "tschibo",
     "shop": "coffee",
     "latitude": 47.1392838,
-    "longitude": 10.5660481
+    "longitude": 10.5660481,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tyrolia Buch und Papier",
     "retailer": "tyrolia_buch_und_papier",
     "shop": "books",
     "latitude": 47.1371011,
-    "longitude": 10.5667354
+    "longitude": 10.5667354,
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Uhren Juwelen Winkler",
     "retailer": "uhren_juwelen_winkler",
     "shop": "jewelry",
     "latitude": 47.1368663,
-    "longitude": 10.5675119
+    "longitude": 10.5675119,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Uhren Schmuck Schieferer",
     "retailer": "uhren_schmuck_schieferer",
     "shop": "watches",
     "latitude": 47.1377366,
-    "longitude": 10.5668782
+    "longitude": 10.5668782,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Weltladen",
     "retailer": "weltladen",
     "shop": "convenience",
     "latitude": 47.1397819,
-    "longitude": 10.5662499
+    "longitude": 10.5662499,
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

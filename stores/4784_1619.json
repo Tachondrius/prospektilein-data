@@ -5,7 +5,9 @@
     "shop": "convenience",
     "latitude": 47.8488628,
     "longitude": 16.1918837,
-    "brand": "Billa Unterwegs"
+    "brand": "Billa Unterwegs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Möbelix",
@@ -13,6 +15,10 @@
     "shop": "furniture",
     "latitude": 47.8401118,
     "longitude": 16.1981134,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "2752",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

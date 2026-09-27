@@ -4,7 +4,9 @@
     "retailer": "autohaus_pustnik",
     "shop": "car",
     "latitude": 46.5940259,
-    "longitude": 14.7951249
+    "longitude": 14.7951249,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -12,49 +14,71 @@
     "shop": "supermarket",
     "latitude": 46.5924134,
     "longitude": 14.7958525,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9150",
+    "city": "Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
     "retailer": "bipa",
     "shop": "chemist",
     "latitude": 46.5931401,
-    "longitude": 14.7961943
+    "longitude": 14.7961943,
+    "postcode": "9150",
+    "city": "Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen Steiner",
     "retailer": "blumen_steiner",
     "shop": "florist",
     "latitude": 46.5916515,
-    "longitude": 14.7954458
+    "longitude": 14.7954458,
+    "postcode": "9150",
+    "city": "Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 46.5900566,
-    "longitude": 14.7949646
+    "longitude": 14.7949646,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Elektro Hollauf",
     "retailer": "elektro_hollauf",
     "shop": "electronics",
     "latitude": 46.5902305,
-    "longitude": 14.7980311
+    "longitude": 14.7980311,
+    "postcode": "9150",
+    "city": "Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Haarstudio Doris",
     "retailer": "haarstudio_doris",
     "shop": "hairdresser",
     "latitude": 46.5905025,
-    "longitude": 14.7985582
+    "longitude": 14.7985582,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Haimburger",
     "retailer": "haimburger",
     "shop": "bakery",
     "latitude": 46.5900359,
-    "longitude": 14.7986219
+    "longitude": 14.7986219,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KiK",
@@ -62,7 +86,9 @@
     "shop": "clothes",
     "latitude": 46.5901934,
     "longitude": 14.796389,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagerhaus",
@@ -70,28 +96,38 @@
     "shop": "doityourself",
     "latitude": 46.5934709,
     "longitude": 14.7948687,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Let's doit",
     "retailer": "let_s_doit",
     "shop": "doityourself",
     "latitude": 46.591389,
-    "longitude": 14.7947111
+    "longitude": 14.7947111,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Oli's Radwerkstatt",
     "retailer": "oli_s_radwerkstatt",
     "shop": "bicycle",
     "latitude": 46.5998026,
-    "longitude": 14.7972797
+    "longitude": 14.7972797,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Penny",
     "retailer": "penny",
     "shop": "supermarket",
     "latitude": 46.5936046,
-    "longitude": 14.7963945
+    "longitude": 14.7963945,
+    "postcode": "9150",
+    "city": "Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Red Zac",
@@ -99,7 +135,11 @@
     "shop": "electronics",
     "latitude": 46.5923318,
     "longitude": 14.7947914,
-    "brand": "Red Zac"
+    "brand": "Red Zac",
+    "postcode": "9150",
+    "city": "Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -107,34 +147,48 @@
     "shop": "supermarket",
     "latitude": 46.5911696,
     "longitude": 14.7946873,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9150",
+    "city": "Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 46.5924981,
-    "longitude": 14.7950191
+    "longitude": 14.7950191,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "TEDi",
     "retailer": "tedi",
     "shop": "variety_store",
     "latitude": 46.5928674,
-    "longitude": 14.7959776
+    "longitude": 14.7959776,
+    "postcode": "9150",
+    "city": "Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Textilien Schmid",
     "retailer": "textilien_schmid",
     "shop": "clothes",
     "latitude": 46.5931147,
-    "longitude": 14.7948623
+    "longitude": 14.7948623,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Zwick",
     "retailer": "zwick",
     "shop": "hardware",
     "latitude": 46.5902457,
-    "longitude": 14.7983003
+    "longitude": 14.7983003,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

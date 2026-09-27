@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 47.715511,
     "longitude": 16.1849464,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2823",
+    "city": "Pitten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cafe-Bäckerei Koll",
     "retailer": "cafe_backerei_koll",
     "shop": "bakery",
     "latitude": 47.7163859,
-    "longitude": 16.1863003
+    "longitude": 16.1863003,
+    "postcode": "2823",
+    "city": "Pitten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Citroën Gruber",
@@ -20,49 +28,75 @@
     "shop": "car",
     "latitude": 47.7174142,
     "longitude": 16.1819165,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "postcode": "2823",
+    "city": "Pitten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Citroën Gruber",
     "retailer": "citroen_gruber",
     "shop": "car",
     "latitude": 47.7184915,
-    "longitude": 16.1833472
+    "longitude": 16.1833472,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hauptsache",
     "retailer": "hauptsache",
     "shop": "hairdresser",
     "latitude": 47.7174548,
-    "longitude": 16.1877302
+    "longitude": 16.1877302,
+    "postcode": "2823",
+    "city": "Pitten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kerschbaumer SAT-TV-Elektrogeräte",
     "retailer": "kerschbaumer_sat_tv_elektrogerate",
     "shop": "electronics",
     "latitude": 47.714729,
-    "longitude": 16.1875749
+    "longitude": 16.1875749,
+    "postcode": "2823",
+    "city": "Pitten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Optik Oase",
     "retailer": "optik_oase",
     "shop": "optician",
     "latitude": 47.7151852,
-    "longitude": 16.1862554
+    "longitude": 16.1862554,
+    "postcode": "2823",
+    "city": "Pitten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Petra Holzer",
     "retailer": "petra_holzer",
     "shop": "hairdresser",
     "latitude": 47.7157438,
-    "longitude": 16.1873571
+    "longitude": 16.1873571,
+    "postcode": "2823",
+    "city": "Pitten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reisebüro Sandra Schandel",
     "retailer": "reiseburo_sandra_schandel",
     "shop": "travel_agency",
     "latitude": 47.7160564,
-    "longitude": 16.1868753
+    "longitude": 16.1868753,
+    "postcode": "2823",
+    "city": "Pitten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -70,6 +104,8 @@
     "shop": "tobacco",
     "latitude": 47.7157051,
     "longitude": 16.1853034,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

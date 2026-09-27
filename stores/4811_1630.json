@@ -4,14 +4,22 @@
     "retailer": "ammersin",
     "shop": "beverages",
     "latitude": 48.113228,
-    "longitude": 16.301644
+    "longitude": 16.301644,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bag2345",
     "retailer": "bag2345",
     "shop": "bag",
     "latitude": 48.1116838,
-    "longitude": 16.3036857
+    "longitude": 16.3036857,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -19,35 +27,53 @@
     "shop": "supermarket",
     "latitude": 48.1126917,
     "longitude": 16.3008961,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "C. Bergmann Fliesen",
     "retailer": "c_bergmann_fliesen",
     "shop": "tiles",
     "latitude": 48.113403,
-    "longitude": 16.3025636
+    "longitude": 16.3025636,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Elesa+Gantner",
     "retailer": "elesa_plus_gantner",
     "shop": "hardware",
     "latitude": 48.1109668,
-    "longitude": 16.3010921
+    "longitude": 16.3010921,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Haas",
     "retailer": "kfz_haas",
     "shop": "car_repair",
     "latitude": 48.1104472,
-    "longitude": 16.3028634
+    "longitude": 16.3028634,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kolar",
     "retailer": "kolar",
     "shop": "yes",
     "latitude": 48.1139109,
-    "longitude": 16.3014292
+    "longitude": 16.3014292,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Merbag Brunn",
@@ -55,7 +81,9 @@
     "shop": "car",
     "latitude": 48.1121432,
     "longitude": 16.3051776,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MVC motors",
@@ -63,7 +91,9 @@
     "shop": "car",
     "latitude": 48.1121202,
     "longitude": 16.3036862,
-    "brand": "Alfa Romeo;Ford;Fiat"
+    "brand": "Alfa Romeo;Ford;Fiat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Scania",
@@ -71,7 +101,11 @@
     "shop": "truck_repair",
     "latitude": 48.1106309,
     "longitude": 16.3070903,
-    "brand": "Scania"
+    "brand": "Scania",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spes Automobile",
@@ -79,14 +113,20 @@
     "shop": "car",
     "latitude": 48.1107512,
     "longitude": 16.3050075,
-    "brand": "Nissan;Suzuki;Volvo;Infiniti"
+    "brand": "Nissan;Suzuki;Volvo;Infiniti",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weber",
     "retailer": "weber",
     "shop": "houseware",
     "latitude": 48.1127654,
-    "longitude": 16.3019782
+    "longitude": 16.3019782,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zoo & Co.",
@@ -94,6 +134,10 @@
     "shop": "pet",
     "latitude": 48.1133463,
     "longitude": 16.3003199,
-    "brand": "Zoo & Co."
+    "brand": "Zoo & Co.",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

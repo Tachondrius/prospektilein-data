@@ -4,27 +4,39 @@
     "retailer": "marchfelder_bazar",
     "shop": "variety_store",
     "latitude": 48.4737565,
-    "longitude": 16.8492933
+    "longitude": 16.8492933,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mischek",
     "retailer": "mischek",
     "shop": "florist",
     "latitude": 48.4724155,
-    "longitude": 16.8483448
+    "longitude": 16.8483448,
+    "city": "Dürnkrut",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Murzek",
     "retailer": "murzek",
     "shop": "electronics",
     "latitude": 48.4743845,
-    "longitude": 16.8482936
+    "longitude": 16.8482936,
+    "city": "Dürnkrut",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Salon Gabi",
     "retailer": "salon_gabi",
     "shop": "hairdresser",
     "latitude": 48.473287,
-    "longitude": 16.8493508
+    "longitude": 16.8493508,
+    "postcode": "2263",
+    "city": "Dürnkrut",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

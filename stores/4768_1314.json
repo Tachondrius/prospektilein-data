@@ -4,13 +4,19 @@
     "retailer": "backstube_rosenegger",
     "shop": "bakery",
     "latitude": 47.6883546,
-    "longitude": 13.1445429
+    "longitude": 13.1445429,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kaslad'n",
     "retailer": "kaslad_n",
     "shop": "cheese",
     "latitude": 47.6866014,
-    "longitude": 13.1423909
+    "longitude": 13.1423909,
+    "postcode": "5421",
+    "city": "Adnet",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

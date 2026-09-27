@@ -4,42 +4,56 @@
     "retailer": "antiquitaten",
     "shop": "antiques",
     "latitude": 47.4096104,
-    "longitude": 15.268971
+    "longitude": 15.268971,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Fuchs",
     "retailer": "backerei_fuchs",
     "shop": "bakery",
     "latitude": 47.4092202,
-    "longitude": 15.2667448
+    "longitude": 15.2667448,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Café Bäckerei Koini",
     "retailer": "cafe_backerei_koini",
     "shop": "bakery",
     "latitude": 47.4095127,
-    "longitude": 15.2690465
+    "longitude": 15.2690465,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "haarscharf",
     "retailer": "haarscharf",
     "shop": "hairdresser",
     "latitude": 47.4096126,
-    "longitude": 15.2679115
+    "longitude": 15.2679115,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mur-Stüberl",
     "retailer": "mur_stuberl",
     "shop": "kiosk",
     "latitude": 47.4068705,
-    "longitude": 15.2612778
+    "longitude": 15.2612778,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Optik Nömayr",
     "retailer": "optik_nomayr",
     "shop": "optician",
     "latitude": 47.4097426,
-    "longitude": 15.2688447
+    "longitude": 15.2688447,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Penny",
@@ -47,21 +61,31 @@
     "shop": "supermarket",
     "latitude": 47.4071356,
     "longitude": 15.2630181,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Radsport Berger",
     "retailer": "radsport_berger",
     "shop": "bicycle",
     "latitude": 47.408934,
-    "longitude": 15.2693202
+    "longitude": 15.2693202,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reisebüro Bruck",
     "retailer": "reiseburo_bruck",
     "shop": "travel_agency",
     "latitude": 47.4094688,
-    "longitude": 15.2695658
+    "longitude": 15.2695658,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Viva",
@@ -69,6 +93,8 @@
     "shop": "convenience",
     "latitude": 47.4063195,
     "longitude": 15.2660092,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

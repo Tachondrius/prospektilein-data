@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 48.1831198,
     "longitude": 14.0727222,
-    "brand": "Seat"
+    "brand": "Seat",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eni",
@@ -13,14 +17,18 @@
     "shop": "kiosk",
     "latitude": 48.1898582,
     "longitude": 14.0732713,
-    "brand": "Eni"
+    "brand": "Eni",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Porsche Wels",
     "retailer": "porsche_wels",
     "shop": "car_repair",
     "latitude": 48.1821478,
-    "longitude": 14.0712494
+    "longitude": 14.0712494,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Porsche Wels",
@@ -28,7 +36,9 @@
     "shop": "car",
     "latitude": 48.18245,
     "longitude": 14.0708309,
-    "brand": "Audi;Škoda;Volkswagen"
+    "brand": "Audi;Škoda;Volkswagen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Porsche Wels",
@@ -36,13 +46,19 @@
     "shop": "car_parts",
     "latitude": 48.1824518,
     "longitude": 14.0714854,
-    "brand": "Audi;Škoda;Volkswagen"
+    "brand": "Audi;Škoda;Volkswagen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Walter Aitzetmüller",
     "retailer": "walter_aitzetmuller",
     "shop": "car",
     "latitude": 48.1834286,
-    "longitude": 14.071295
+    "longitude": 14.071295,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

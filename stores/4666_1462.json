@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 46.6627219,
     "longitude": 14.6216584,
-    "brand": "Renault"
+    "brand": "Renault",
+    "postcode": "9100",
+    "city": "Völkermarkt",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Autohaus Niemiez",
@@ -13,7 +17,9 @@
     "shop": "car",
     "latitude": 46.6611287,
     "longitude": 14.6207812,
-    "brand": "Hyundai"
+    "brand": "Hyundai",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -21,14 +27,18 @@
     "shop": "chemist",
     "latitude": 46.66205,
     "longitude": 14.6232899,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Birner",
     "retailer": "birner",
     "shop": "car_parts",
     "latitude": 46.6615753,
-    "longitude": 14.621419
+    "longitude": 14.621419,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eurospar",
@@ -36,7 +46,9 @@
     "shop": "supermarket",
     "latitude": 46.662882,
     "longitude": 14.6247284,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fussl",
@@ -44,7 +56,9 @@
     "shop": "clothes",
     "latitude": 46.6628815,
     "longitude": 14.6253238,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Glaboniat",
@@ -52,7 +66,9 @@
     "shop": "car",
     "latitude": 46.6619137,
     "longitude": 14.6206625,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hervis",
@@ -60,7 +76,9 @@
     "shop": "sports",
     "latitude": 46.661894,
     "longitude": 14.6232027,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -68,7 +86,9 @@
     "shop": "supermarket",
     "latitude": 46.6629284,
     "longitude": 14.6229936,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KiK",
@@ -76,7 +96,9 @@
     "shop": "clothes",
     "latitude": 46.6629273,
     "longitude": 14.6233922,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Klipp",
@@ -84,7 +106,9 @@
     "shop": "hairdresser",
     "latitude": 46.6628817,
     "longitude": 14.6251092,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -92,7 +116,11 @@
     "shop": "supermarket",
     "latitude": 46.6619746,
     "longitude": 14.6226715,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "9100",
+    "city": "Völkermarkt",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Penny",
@@ -100,7 +128,9 @@
     "shop": "supermarket",
     "latitude": 46.6622759,
     "longitude": 14.6276966,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "shoe4you",
@@ -108,7 +138,9 @@
     "shop": "shoes",
     "latitude": 46.6628813,
     "longitude": 14.6255388,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Takko Fashion",
@@ -116,6 +148,8 @@
     "shop": "clothes",
     "latitude": 46.6628812,
     "longitude": 14.6257582,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

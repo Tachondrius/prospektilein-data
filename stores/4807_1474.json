@@ -5,21 +5,31 @@
     "shop": "supermarket",
     "latitude": 48.0737795,
     "longitude": 14.7415302,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3361",
+    "city": "Aschbach-Markt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Riesenhuber",
     "retailer": "backerei_riesenhuber",
     "shop": "pastry",
     "latitude": 48.0729164,
-    "longitude": 14.7489108
+    "longitude": 14.7489108,
+    "postcode": "3361",
+    "city": "Aschbach-Markt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Üblacker",
     "retailer": "kfz_ublacker",
     "shop": "car_repair",
     "latitude": 48.0730859,
-    "longitude": 14.7499176
+    "longitude": 14.7499176,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pehböck GmbH",
@@ -27,7 +37,9 @@
     "shop": "car_repair",
     "latitude": 48.0733478,
     "longitude": 14.7462863,
-    "brand": "Bosch Service"
+    "brand": "Bosch Service",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -35,13 +47,21 @@
     "shop": "supermarket",
     "latitude": 48.0707464,
     "longitude": 14.7420422,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3361",
+    "city": "Aschbach-Markt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Vinothek ViniWagner",
     "retailer": "vinothek_viniwagner",
     "shop": "wine",
     "latitude": 48.073103,
-    "longitude": 14.749526
+    "longitude": 14.749526,
+    "postcode": "3361",
+    "city": "Aschbach-Markt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

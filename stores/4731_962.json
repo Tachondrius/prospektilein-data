@@ -4,41 +4,57 @@
     "retailer": "alpin_loacker",
     "shop": "clothes",
     "latitude": 47.3137058,
-    "longitude": 9.6206695
+    "longitude": 9.6206695,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Arena Balkan Spezialitäten",
     "retailer": "arena_balkan_spezialitaten",
     "shop": "bakery",
     "latitude": 47.3196628,
-    "longitude": 9.6229315
+    "longitude": 9.6229315,
+    "postcode": "6842",
+    "city": "Koblach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Autoland Fink",
     "retailer": "autoland_fink",
     "shop": "car",
     "latitude": 47.3100728,
-    "longitude": 9.6205202
+    "longitude": 9.6205202,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "L&P Parts Autoteile",
     "retailer": "l_und_p_parts_autoteile",
     "shop": "car_parts",
     "latitude": 47.3130829,
-    "longitude": 9.6203838
+    "longitude": 9.6203838,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "M&M Servicestation",
     "retailer": "m_und_m_servicestation",
     "shop": "car_repair",
     "latitude": 47.3182641,
-    "longitude": 9.6218125
+    "longitude": 9.6218125,
+    "postcode": "6842",
+    "city": "Koblach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Target Service Center",
     "retailer": "target_service_center",
     "shop": "computer",
     "latitude": 47.3131788,
-    "longitude": 9.6204056
+    "longitude": 9.6204056,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

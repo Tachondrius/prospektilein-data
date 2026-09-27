@@ -5,14 +5,22 @@
     "shop": "car",
     "latitude": 48.1275935,
     "longitude": 15.1410681,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "3250",
+    "city": "Wieselburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Buchmayer",
     "retailer": "buchmayer",
     "shop": "butcher",
     "latitude": 48.1276253,
-    "longitude": 15.1429661
+    "longitude": 15.1429661,
+    "postcode": "3250",
+    "city": "Wieselburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Expert",
@@ -20,27 +28,41 @@
     "shop": "electronics",
     "latitude": 48.1280061,
     "longitude": 15.1422975,
-    "brand": "Expert"
+    "brand": "Expert",
+    "postcode": "3250",
+    "city": "Wieselburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Glanz & Magie - Schmuck und Esoterik",
     "retailer": "glanz_und_magie_schmuck_und_esoterik",
     "shop": "jewelry",
     "latitude": 48.1275811,
-    "longitude": 15.1414654
+    "longitude": 15.1414654,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hölzl Brauerei",
     "retailer": "holzl_brauerei",
     "shop": "alcohol",
     "latitude": 48.1253934,
-    "longitude": 15.1480811
+    "longitude": 15.1480811,
+    "postcode": "3250",
+    "city": "Wieselburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Neubacher",
     "retailer": "neubacher",
     "shop": "bakery",
     "latitude": 48.1280443,
-    "longitude": 15.143109
+    "longitude": 15.143109,
+    "postcode": "3250",
+    "city": "Wieselburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

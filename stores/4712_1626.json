@@ -5,14 +5,22 @@
     "shop": "car",
     "latitude": 47.120189,
     "longitude": 16.2699741,
-    "brand": "Ford; Land Rover"
+    "brand": "Ford; Land Rover",
+    "postcode": "7535",
+    "city": "Sankt Michael im Burgenland",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fleischerei Potzmann",
     "retailer": "fleischerei_potzmann",
     "shop": "butcher",
     "latitude": 47.1244514,
-    "longitude": 16.2690233
+    "longitude": 16.2690233,
+    "postcode": "7535",
+    "city": "Sankt Michael im Burgenland",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -20,6 +28,10 @@
     "shop": "supermarket",
     "latitude": 47.126495,
     "longitude": 16.2638486,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7535",
+    "city": "Sankt Michael im Burgenland",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

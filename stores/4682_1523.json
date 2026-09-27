@@ -5,7 +5,9 @@
     "shop": "variety_store",
     "latitude": 46.8205774,
     "longitude": 15.2301255,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -13,21 +15,31 @@
     "shop": "chemist",
     "latitude": 46.8202147,
     "longitude": 15.2350899,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 46.8283035,
-    "longitude": 15.2369934
+    "longitude": 15.2369934,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Farm & Forst Maschinenhandel GmbH u. Co KG.",
     "retailer": "farm_und_forst_maschinenhandel_gmbh_u_co_kg",
     "shop": "agrarian",
     "latitude": 46.8277173,
-    "longitude": 15.2358159
+    "longitude": 15.2358159,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Forstinger",
@@ -35,7 +47,11 @@
     "shop": "car_repair",
     "latitude": 46.8201033,
     "longitude": 15.2315542,
-    "brand": "Forstinger"
+    "brand": "Forstinger",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fressnapf",
@@ -43,21 +59,31 @@
     "shop": "pet",
     "latitude": 46.8209959,
     "longitude": 15.2327797,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Garden Centre",
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 46.8217299,
-    "longitude": 15.23713
+    "longitude": 15.23713,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "GP Motors",
     "retailer": "gp_motors",
     "shop": "motorcycle_repair",
     "latitude": 46.8269458,
-    "longitude": 15.2364732
+    "longitude": 15.2364732,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hagebaumarkt",
@@ -65,7 +91,11 @@
     "shop": "doityourself",
     "latitude": 46.8215947,
     "longitude": 15.2378994,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -73,7 +103,11 @@
     "shop": "supermarket",
     "latitude": 46.8208127,
     "longitude": 15.2315871,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intersport",
@@ -81,7 +115,11 @@
     "shop": "sports",
     "latitude": 46.8212633,
     "longitude": 15.2339534,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kribernegg Autohaus GmbH",
@@ -89,7 +127,11 @@
     "shop": "car",
     "latitude": 46.8281883,
     "longitude": 15.2370653,
-    "brand": "Nissan, Dacia, Renault"
+    "brand": "Nissan, Dacia, Renault",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -97,14 +139,22 @@
     "shop": "doityourself",
     "latitude": 46.8212082,
     "longitude": 15.2352149,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Michael Elsnik Lack und Karosserie",
     "retailer": "michael_elsnik_lack_und_karosserie",
     "shop": "car_repair",
     "latitude": 46.8211009,
-    "longitude": 15.237285
+    "longitude": 15.237285,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Penny",
@@ -112,7 +162,11 @@
     "shop": "supermarket",
     "latitude": 46.8202566,
     "longitude": 15.235261,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8530",
+    "city": "Deutschland",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Point S",
@@ -120,21 +174,33 @@
     "shop": "car_repair",
     "latitude": 46.8295178,
     "longitude": 15.2394832,
-    "brand": "Point S"
+    "brand": "Point S",
+    "postcode": "8523",
+    "city": "Frauental an der Laßnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Radsport Weichberger",
     "retailer": "radsport_weichberger",
     "shop": "bicycle",
     "latitude": 46.8274401,
-    "longitude": 15.2367889
+    "longitude": 15.2367889,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reifen Weichberger",
     "retailer": "reifen_weichberger",
     "shop": "tyres",
     "latitude": 46.827189,
-    "longitude": 15.236613
+    "longitude": 15.236613,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reiterer GmbH",
@@ -142,7 +208,11 @@
     "shop": "car",
     "latitude": 46.8201258,
     "longitude": 15.2345802,
-    "brand": "BMW;Peugeot"
+    "brand": "BMW;Peugeot",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sport 2000",
@@ -150,7 +220,11 @@
     "shop": "sports",
     "latitude": 46.8211697,
     "longitude": 15.2378003,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -158,7 +232,11 @@
     "shop": "variety_store",
     "latitude": 46.8209604,
     "longitude": 15.2325554,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Würth Shop Deutschlandsberg",
@@ -166,20 +244,30 @@
     "shop": "hardware",
     "latitude": 46.8267011,
     "longitude": 15.2364678,
-    "brand": "Würth"
+    "brand": "Würth",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Yes",
     "retailer": "shop_yes",
     "shop": "yes",
     "latitude": 46.8210551,
-    "longitude": 15.2324642
+    "longitude": 15.2324642,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zgonc",
     "retailer": "zgonc",
     "shop": "doityourself",
     "latitude": 46.8200024,
-    "longitude": 15.2320085
+    "longitude": 15.2320085,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

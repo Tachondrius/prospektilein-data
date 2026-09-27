@@ -4,7 +4,11 @@
     "retailer": "auto_huber",
     "shop": "car",
     "latitude": 48.2164187,
-    "longitude": 14.4553213
+    "longitude": 14.4553213,
+    "postcode": "4470",
+    "city": "Enns",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 48.2166671,
     "longitude": 14.4582094,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4470",
+    "city": "Enns",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,35 +4,45 @@
     "retailer": "point_for_beauty",
     "shop": "hairdresser",
     "latitude": 47.3415954,
-    "longitude": 11.6834778
+    "longitude": 11.6834778,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Prem",
     "retailer": "prem",
     "shop": "butcher",
     "latitude": 47.3418808,
-    "longitude": 11.682657
+    "longitude": 11.682657,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Raumaustatter Fick",
     "retailer": "raumaustatter_fick",
     "shop": "interior_decoration",
     "latitude": 47.3407175,
-    "longitude": 11.680732
+    "longitude": 11.680732,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Raumdesign Hadatsch",
     "retailer": "raumdesign_hadatsch",
     "shop": "interior_decoration",
     "latitude": 47.3417763,
-    "longitude": 11.6836925
+    "longitude": 11.6836925,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Gabi",
     "retailer": "salon_gabi",
     "shop": "hairdresser",
     "latitude": 47.3422239,
-    "longitude": 11.6836424
+    "longitude": 11.6836424,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -40,13 +50,20 @@
     "shop": "supermarket",
     "latitude": 47.3420561,
     "longitude": 11.683261,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Werkstück",
     "retailer": "werkstuck",
     "shop": "health_food",
     "latitude": 47.3409013,
-    "longitude": 11.6830447
+    "longitude": 11.6830447,
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

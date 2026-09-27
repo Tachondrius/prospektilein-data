@@ -4,27 +4,41 @@
     "retailer": "arbo_ybbs",
     "shop": "car_repair",
     "latitude": 48.1613937,
-    "longitude": 15.105072
+    "longitude": 15.105072,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mitterbauer",
     "retailer": "mitterbauer",
     "shop": "travel_agency",
     "latitude": 48.163386,
-    "longitude": 15.109162
+    "longitude": 15.109162,
+    "postcode": "3370",
+    "city": "Ybbs an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "WTEC",
     "retailer": "wtec",
     "shop": "trade",
     "latitude": 48.160223,
-    "longitude": 15.1045701
+    "longitude": 15.1045701,
+    "postcode": "3254",
+    "city": "Bergland",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Würth Shop",
     "retailer": "wurth_shop",
     "shop": "hardware",
     "latitude": 48.1603847,
-    "longitude": 15.105102
+    "longitude": 15.105102,
+    "postcode": "3254",
+    "city": "Bergland",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

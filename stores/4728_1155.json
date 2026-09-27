@@ -4,20 +4,29 @@
     "retailer": "fliesenpark_mils",
     "shop": "tiles",
     "latitude": 47.2835178,
-    "longitude": 11.5501714
+    "longitude": 11.5501714,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Brunner",
     "retailer": "kfz_brunner",
     "shop": "car",
     "latitude": 47.283562,
-    "longitude": 11.5503772
+    "longitude": 11.5503772,
+    "postcode": "6068",
+    "city": "Mils",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Anna",
     "retailer": "salon_anna",
     "shop": "beauty",
     "latitude": 47.2879066,
-    "longitude": 11.5539844
+    "longitude": 11.5539844,
+    "city": "Baumkirchen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,35 +5,51 @@
     "shop": "supermarket",
     "latitude": 47.5245657,
     "longitude": 15.2334613,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8621",
+    "city": "Thörl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Hollik",
     "retailer": "backerei_hollik",
     "shop": "bakery",
     "latitude": 47.5239137,
-    "longitude": 15.2327741
+    "longitude": 15.2327741,
+    "postcode": "8621",
+    "city": "Thörl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Convenience",
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 47.5209555,
-    "longitude": 15.2307955
+    "longitude": 15.2307955,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektro Fladischer",
     "retailer": "elektro_fladischer",
     "shop": "electronics",
     "latitude": 47.523216,
-    "longitude": 15.2326376
+    "longitude": 15.2326376,
+    "postcode": "8621",
+    "city": "Thörl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.5231429,
-    "longitude": 15.2329282
+    "longitude": 15.2329282,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -41,7 +57,11 @@
     "shop": "clothes",
     "latitude": 47.5222318,
     "longitude": 15.2342804,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8621",
+    "city": "Thörl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -49,13 +69,21 @@
     "shop": "supermarket",
     "latitude": 47.5220247,
     "longitude": 15.2342787,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "8621",
+    "city": "Thörl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wäscherei Brunnhofer",
     "retailer": "wascherei_brunnhofer",
     "shop": "laundry",
     "latitude": 47.5220353,
-    "longitude": 15.2348125
+    "longitude": 15.2348125,
+    "postcode": "8621",
+    "city": "Thörl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

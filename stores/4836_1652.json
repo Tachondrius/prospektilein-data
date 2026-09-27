@@ -4,20 +4,28 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.3674938,
-    "longitude": 16.5263726
+    "longitude": 16.5263726,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.3693027,
-    "longitude": 16.5242651
+    "longitude": 16.5242651,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Wallner",
     "retailer": "weingut_wallner",
     "shop": "alcohol",
     "latitude": 48.3672923,
-    "longitude": 16.5246279
+    "longitude": 16.5246279,
+    "postcode": "2120",
+    "city": "Obersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

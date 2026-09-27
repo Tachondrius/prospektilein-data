@@ -4,28 +4,42 @@
     "retailer": "blumen_nutschnig",
     "shop": "florist",
     "latitude": 46.5488471,
-    "longitude": 13.7094858
+    "longitude": 13.7094858,
+    "postcode": "9601",
+    "city": "Arnoldstein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei -Café Selitsch",
     "retailer": "backerei_cafe_selitsch",
     "shop": "bakery",
     "latitude": 46.5494571,
-    "longitude": 13.7082799
+    "longitude": 13.7082799,
+    "postcode": "9601",
+    "city": "Arnoldstein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Evi's Hundestyling",
     "retailer": "evi_s_hundestyling",
     "shop": "pet_grooming",
     "latitude": 46.5497387,
-    "longitude": 13.7077544
+    "longitude": 13.7077544,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "La Grande Mela",
     "retailer": "la_grande_mela",
     "shop": "convenience",
     "latitude": 46.549792,
-    "longitude": 13.7034769
+    "longitude": 13.7034769,
+    "postcode": "9601",
+    "city": "Arnoldstein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -33,13 +47,17 @@
     "shop": "clothes",
     "latitude": 46.5491147,
     "longitude": 13.7097357,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tabaktrafik Krakolinig",
     "retailer": "tabaktrafik_krakolinig",
     "shop": "tobacco",
     "latitude": 46.5494811,
-    "longitude": 13.7078838
+    "longitude": 13.7078838,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

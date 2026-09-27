@@ -4,7 +4,11 @@
     "retailer": "authoaus_pruckner",
     "shop": "car",
     "latitude": 48.0126003,
-    "longitude": 15.1571711
+    "longitude": 15.1571711,
+    "postcode": "3270",
+    "city": "Scheibbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 48.0130739,
     "longitude": 15.1581709,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3270",
+    "city": "Scheibbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -20,21 +28,33 @@
     "shop": "supermarket",
     "latitude": 48.0140493,
     "longitude": 15.1574812,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3270",
+    "city": "Scheibbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Julius Griessler & Sohn KG heim+handwerk",
     "retailer": "julius_griessler_und_sohn_kg_heim_plus_handwerk",
     "shop": "doityourself",
     "latitude": 48.0140954,
-    "longitude": 15.1554797
+    "longitude": 15.1554797,
+    "postcode": "3270",
+    "city": "Scheibbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah Guat",
     "retailer": "nah_guat",
     "shop": "convenience",
     "latitude": 48.0129892,
-    "longitude": 15.1579146
+    "longitude": 15.1579146,
+    "postcode": "3270",
+    "city": "Scheibbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -42,7 +62,11 @@
     "shop": "stationery",
     "latitude": 48.0128085,
     "longitude": 15.157721,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "3270",
+    "city": "Scheibbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -50,6 +74,10 @@
     "shop": "supermarket",
     "latitude": 48.0139621,
     "longitude": 15.156933,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3270",
+    "city": "Scheibbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,27 +4,41 @@
     "retailer": "beer_autoteile_inhaber_beer_michaela",
     "shop": "car_parts",
     "latitude": 48.7940771,
-    "longitude": 15.0584794
+    "longitude": 15.0584794,
+    "postcode": "3943",
+    "city": "Schrems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ-Werkstatt Christian MAIER",
     "retailer": "kfz_werkstatt_christian_maier",
     "shop": "car_repair",
     "latitude": 48.7990781,
-    "longitude": 15.055242
+    "longitude": 15.055242,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Supermarket",
     "retailer": "shop_supermarket",
     "shop": "supermarket",
     "latitude": 48.7922736,
-    "longitude": 15.0593344
+    "longitude": 15.0593344,
+    "postcode": "3943",
+    "city": "Schrems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "UPS Access Point",
     "retailer": "ups_access_point",
     "shop": "catalogue",
     "latitude": 48.7920107,
-    "longitude": 15.0590099
+    "longitude": 15.0590099,
+    "postcode": "3943",
+    "city": "Schrems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

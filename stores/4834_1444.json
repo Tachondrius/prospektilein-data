@@ -4,14 +4,20 @@
     "retailer": "biogreilerei_zur_dorfschmiede",
     "shop": "convenience",
     "latitude": 48.3442045,
-    "longitude": 14.4405781
+    "longitude": 14.4405781,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Goldmann Pools",
     "retailer": "goldmann_pools",
     "shop": "swimming_pool",
     "latitude": 48.3421419,
-    "longitude": 14.4441893
+    "longitude": 14.4441893,
+    "postcode": "4209",
+    "city": "Engerwitzdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -19,6 +25,10 @@
     "shop": "houseware",
     "latitude": 48.3434732,
     "longitude": 14.4403256,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "4209",
+    "city": "Engerwitzdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

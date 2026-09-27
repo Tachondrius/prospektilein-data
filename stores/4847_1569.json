@@ -4,7 +4,9 @@
     "retailer": "antiquitaten_zum_doppeladler",
     "shop": "antiques",
     "latitude": 48.4761821,
-    "longitude": 15.6904897
+    "longitude": 15.6904897,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 48.4746854,
     "longitude": 15.695555,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3550",
+    "city": "Langenlois",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Birngruber",
@@ -20,28 +26,42 @@
     "shop": "car",
     "latitude": 48.4754294,
     "longitude": 15.6968902,
-    "brand": "VW Volkswagen, Audi, Skoda, Cupra, Seat"
+    "brand": "VW Volkswagen, Audi, Skoda, Cupra, Seat",
+    "postcode": "3550",
+    "city": "Langenlois",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.4787281,
-    "longitude": 15.6938658
+    "longitude": 15.6938658,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gartenbau Josef Weber",
     "retailer": "gartenbau_josef_weber",
     "shop": "garden_centre",
     "latitude": 48.4745803,
-    "longitude": 15.6919975
+    "longitude": 15.6919975,
+    "postcode": "3550",
+    "city": "Langenlois",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haarkunst Daniela",
     "retailer": "haarkunst_daniela",
     "shop": "hairdresser",
     "latitude": 48.4758516,
-    "longitude": 15.6906083
+    "longitude": 15.6906083,
+    "postcode": "3550",
+    "city": "Langenlois",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -49,7 +69,11 @@
     "shop": "doityourself",
     "latitude": 48.4716734,
     "longitude": 15.6918631,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3550",
+    "city": "Langenlois",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -57,27 +81,37 @@
     "shop": "supermarket",
     "latitude": 48.4750807,
     "longitude": 15.6938556,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "3550",
+    "city": "Langenlois",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pflanzenverkauf der Gartenbauschule",
     "retailer": "pflanzenverkauf_der_gartenbauschule",
     "shop": "garden_centre",
     "latitude": 48.4727482,
-    "longitude": 15.6975591
+    "longitude": 15.6975591,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ruiner",
     "retailer": "ruiner",
     "shop": "car",
     "latitude": 48.4751736,
-    "longitude": 15.6942966
+    "longitude": 15.6942966,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Saftverkauf der Gartenbauschule",
     "retailer": "saftverkauf_der_gartenbauschule",
     "shop": "farm",
     "latitude": 48.4728183,
-    "longitude": 15.697616
+    "longitude": 15.697616,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

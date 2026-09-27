@@ -5,14 +5,20 @@
     "shop": "convenience",
     "latitude": 47.195538,
     "longitude": 11.1563651,
-    "brand": "Adeg"
+    "brand": "Adeg",
+    "postcode": "6182",
+    "city": "Gries im Sellrain",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.1952943,
-    "longitude": 11.1571528
+    "longitude": 11.1571528,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Seppl Gries",
@@ -20,6 +26,10 @@
     "shop": "sports",
     "latitude": 47.1951824,
     "longitude": 11.1560411,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "6182",
+    "city": "Gries im Sellrain",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

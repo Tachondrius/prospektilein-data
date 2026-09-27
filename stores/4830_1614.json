@@ -4,20 +4,30 @@
     "retailer": "blunzkaiser_gutscher",
     "shop": "butcher",
     "latitude": 48.3023775,
-    "longitude": 16.1474168
+    "longitude": 16.1474168,
+    "postcode": "3433",
+    "city": "Königstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "E-Bike + Fahrrad Werkstatt",
     "retailer": "e_bike_plus_fahrrad_werkstatt",
     "shop": "bicycle",
     "latitude": 48.3029584,
-    "longitude": 16.1499209
+    "longitude": 16.1499209,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 48.3023118,
-    "longitude": 16.1468935
+    "longitude": 16.1468935,
+    "postcode": "3433",
+    "city": "Königstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

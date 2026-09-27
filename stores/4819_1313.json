@@ -4,42 +4,62 @@
     "retailer": "autowerkstatt_landerdinger",
     "shop": "car_repair",
     "latitude": 48.1916138,
-    "longitude": 13.1375807
+    "longitude": 13.1375807,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "ORA-Flohmarkt",
     "retailer": "ora_flohmarkt",
     "shop": "charity",
     "latitude": 48.1948763,
-    "longitude": 13.1333663
+    "longitude": 13.1333663,
+    "postcode": "5270",
+    "city": "Mauerkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Roboschaf",
     "retailer": "roboschaf",
     "shop": "groundskeeping",
     "latitude": 48.195287,
-    "longitude": 13.1334611
+    "longitude": 13.1334611,
+    "postcode": "5270",
+    "city": "Mauerkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sailer",
     "retailer": "sailer",
     "shop": "bakery",
     "latitude": 48.1905276,
-    "longitude": 13.135467
+    "longitude": 13.135467,
+    "postcode": "5270",
+    "city": "Mauerkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schnittig",
     "retailer": "schnittig",
     "shop": "hairdresser",
     "latitude": 48.1904125,
-    "longitude": 13.1344989
+    "longitude": 13.1344989,
+    "postcode": "5270",
+    "city": "Mauerkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schrems",
     "retailer": "schrems",
     "shop": "jewelry",
     "latitude": 48.1905683,
-    "longitude": 13.134887
+    "longitude": 13.134887,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -47,21 +67,33 @@
     "shop": "supermarket",
     "latitude": 48.1906391,
     "longitude": 13.1350527,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5270",
+    "city": "Mauerkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabaktrafik Litzlbauer",
     "retailer": "tabaktrafik_litzlbauer",
     "shop": "kiosk",
     "latitude": 48.1903641,
-    "longitude": 13.1350456
+    "longitude": 13.1350456,
+    "postcode": "5270",
+    "city": "Mauerkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tieftrunk",
     "retailer": "tieftrunk",
     "shop": "hairdresser",
     "latitude": 48.1906055,
-    "longitude": 13.1356025
+    "longitude": 13.1356025,
+    "postcode": "5270",
+    "city": "Mauerkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Unimarkt",
@@ -69,6 +101,10 @@
     "shop": "supermarket",
     "latitude": 48.1917728,
     "longitude": 13.1304358,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "5270",
+    "city": "Mauerkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

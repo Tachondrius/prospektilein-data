@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 47.209598,
     "longitude": 14.809626,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Jud&Kleissner. KFZ Technik",
     "retailer": "jud_und_kleissner_kfz_technik",
     "shop": "car_repair",
     "latitude": 47.209575,
-    "longitude": 14.8066494
+    "longitude": 14.8066494,
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "JYSK",
@@ -20,7 +28,11 @@
     "shop": "furniture",
     "latitude": 47.2097408,
     "longitude": 14.8086074,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -28,6 +40,10 @@
     "shop": "clothes",
     "latitude": 47.2098774,
     "longitude": 14.8078886,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

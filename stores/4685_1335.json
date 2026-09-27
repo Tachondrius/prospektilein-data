@@ -4,14 +4,18 @@
     "retailer": "pirker_gartentechnik",
     "shop": "agrarian",
     "latitude": 46.8563575,
-    "longitude": 13.3519557
+    "longitude": 13.3519557,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Popodi",
     "retailer": "popodi",
     "shop": "motorcycle",
     "latitude": 46.8582186,
-    "longitude": 13.3514136
+    "longitude": 13.3514136,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -19,6 +23,10 @@
     "shop": "supermarket",
     "latitude": 46.8553918,
     "longitude": 13.3536416,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9814",
+    "city": "Mühldorf",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 48.3592939,
     "longitude": 16.3469965,
-    "brand": "Volvo;Hyundai"
+    "brand": "Volvo;Hyundai",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dangl & Dietrich",
@@ -13,7 +15,11 @@
     "shop": "car",
     "latitude": 48.351388,
     "longitude": 16.3414504,
-    "brand": "Volkswagen;Audi;Seat"
+    "brand": "Volkswagen;Audi;Seat",
+    "postcode": "2100",
+    "city": "Korneuburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -21,7 +27,9 @@
     "shop": "supermarket",
     "latitude": 48.3512659,
     "longitude": 16.340109,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Futterhaus",
@@ -29,7 +37,11 @@
     "shop": "pet",
     "latitude": 48.3523082,
     "longitude": 16.3415781,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "2100",
+    "city": "Korneuburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Huber Shop",
@@ -37,6 +49,10 @@
     "shop": "clothes",
     "latitude": 48.3521793,
     "longitude": 16.3419222,
-    "brand": "Huber Shop"
+    "brand": "Huber Shop",
+    "postcode": "2100",
+    "city": "Korneuburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

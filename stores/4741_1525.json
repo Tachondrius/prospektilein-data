@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 47.4115506,
     "longitude": 15.2577786,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairdesign Krainz",
     "retailer": "hairdesign_krainz",
     "shop": "hairdresser",
     "latitude": 47.4110347,
-    "longitude": 15.2577886
+    "longitude": 15.2577886,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

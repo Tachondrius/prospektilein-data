@@ -5,35 +5,50 @@
     "shop": "supermarket",
     "latitude": 46.6229212,
     "longitude": 14.2843202,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Coiffeur Gottfried",
     "retailer": "coiffeur_gottfried",
     "shop": "hairdresser",
     "latitude": 46.6207032,
-    "longitude": 14.2825081
+    "longitude": 14.2825081,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "ctm",
     "retailer": "ctm",
     "shop": "vacuum_cleaner",
     "latitude": 46.6235494,
-    "longitude": 14.2852047
+    "longitude": 14.2852047,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hirsch Christina - Einzelhandel mit Lederwaren",
     "retailer": "hirsch_christina_einzelhandel_mit_lederwaren",
     "shop": "yes",
     "latitude": 46.6257164,
-    "longitude": 14.2851856
+    "longitude": 14.2851856,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Morle Eis",
     "retailer": "morle_eis",
     "shop": "ice_cream",
     "latitude": 46.6206526,
-    "longitude": 14.2832449
+    "longitude": 14.2832449,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "PENNY",
@@ -41,6 +56,10 @@
     "shop": "supermarket",
     "latitude": 46.623614,
     "longitude": 14.2847462,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

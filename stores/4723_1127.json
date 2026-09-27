@@ -4,49 +4,63 @@
     "retailer": "a_holz_lagerfachmarkt",
     "shop": "doityourself",
     "latitude": 47.2366459,
-    "longitude": 11.2738325
+    "longitude": 11.2738325,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "AB-Service",
     "retailer": "ab_service",
     "shop": "car_repair",
     "latitude": 47.2372087,
-    "longitude": 11.2752004
+    "longitude": 11.2752004,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Andy's Fachwerkstatt",
     "retailer": "andy_s_fachwerkstatt",
     "shop": "car_repair",
     "latitude": 47.2366659,
-    "longitude": 11.2745956
+    "longitude": 11.2745956,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Fleischmann",
     "retailer": "blumen_fleischmann",
     "shop": "florist",
     "latitude": 47.2302398,
-    "longitude": 11.2793533
+    "longitude": 11.2793533,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Brekner Paletten Logistik GmbH",
     "retailer": "brekner_paletten_logistik_gmbh",
     "shop": "trade",
     "latitude": 47.2361704,
-    "longitude": 11.273663
+    "longitude": 11.273663,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bunter Laden",
     "retailer": "bunter_laden",
     "shop": "clothes",
     "latitude": 47.2302147,
-    "longitude": 11.279587
+    "longitude": 11.279587,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Kaufmann",
     "retailer": "elektro_kaufmann",
     "shop": "electronics",
     "latitude": 47.2312467,
-    "longitude": 11.2797396
+    "longitude": 11.2797396,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -54,27 +68,37 @@
     "shop": "convenience",
     "latitude": 47.2310788,
     "longitude": 11.2788566,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "postcode": "6094",
+    "city": "Axams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Sabine",
     "retailer": "salon_sabine",
     "shop": "hairdresser",
     "latitude": 47.2313414,
-    "longitude": 11.2788049
+    "longitude": 11.2788049,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schluifer",
     "retailer": "schluifer",
     "shop": "bakery",
     "latitude": 47.2317651,
-    "longitude": 11.2795735
+    "longitude": 11.2795735,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuheinlagen Daniela Nogler",
     "retailer": "schuheinlagen_daniela_nogler",
     "shop": "medical_supply",
     "latitude": 47.2313223,
-    "longitude": 11.2788224
+    "longitude": 11.2788224,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "bauprofi_maringer",
     "shop": "doityourself",
     "latitude": 48.5752026,
-    "longitude": 14.0501113
+    "longitude": 14.0501113,
+    "postcode": "4170",
+    "city": "Haslach an der Mühl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "BMW Kneidinger",
@@ -12,7 +16,11 @@
     "shop": "car",
     "latitude": 48.5746949,
     "longitude": 14.0517359,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "4170",
+    "city": "Haslach an der Mühl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -20,13 +28,17 @@
     "shop": "doityourself",
     "latitude": 48.5734227,
     "longitude": 14.0554866,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tapezierer",
     "retailer": "tapezierer",
     "shop": "interior_decoration",
     "latitude": 48.5731751,
-    "longitude": 14.0572596
+    "longitude": 14.0572596,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

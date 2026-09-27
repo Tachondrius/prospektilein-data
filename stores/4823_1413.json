@@ -4,27 +4,40 @@
     "retailer": "fleischhauerei_netherer",
     "shop": "butcher",
     "latitude": 48.2347463,
-    "longitude": 14.1331446
+    "longitude": 14.1331446,
+    "city": "Oftering",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hochis' Laden",
     "retailer": "hochis_laden",
     "shop": "convenience",
     "latitude": 48.2344409,
-    "longitude": 14.1335285
+    "longitude": 14.1335285,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lehnergut",
     "retailer": "lehnergut",
     "shop": "farm",
     "latitude": 48.2352412,
-    "longitude": 14.1331051
+    "longitude": 14.1331051,
+    "postcode": "4064",
+    "city": "Oftering",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zettl",
     "retailer": "zettl",
     "shop": "gift",
     "latitude": 48.2353234,
-    "longitude": 14.1331226
+    "longitude": 14.1331226,
+    "postcode": "4064",
+    "city": "Oftering",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

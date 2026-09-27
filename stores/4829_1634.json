@@ -4,14 +4,20 @@
     "retailer": "flagstore_gmbh",
     "shop": "furniture",
     "latitude": 48.2926327,
-    "longitude": 16.3432422
+    "longitude": 16.3432422,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischmann Reifen",
     "retailer": "fleischmann_reifen",
     "shop": "car",
     "latitude": 48.2902342,
-    "longitude": 16.3410173
+    "longitude": 16.3410173,
+    "postcode": "3400",
+    "city": "Klosterneuburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fressnapf",
@@ -19,7 +25,11 @@
     "shop": "pet",
     "latitude": 48.2923056,
     "longitude": 16.3429382,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "3400",
+    "city": "Klosterneuburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -27,6 +37,10 @@
     "shop": "supermarket",
     "latitude": 48.2958515,
     "longitude": 16.3403839,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3400",
+    "city": "Klosterneuburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

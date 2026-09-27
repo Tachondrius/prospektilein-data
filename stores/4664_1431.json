@@ -4,7 +4,9 @@
     "retailer": "al_tavoliere",
     "shop": "cheese",
     "latitude": 46.6414041,
-    "longitude": 14.3145546
+    "longitude": 14.3145546,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 46.6478623,
     "longitude": 14.3137293,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -20,77 +26,112 @@
     "shop": "chemist",
     "latitude": 46.6476057,
     "longitude": 14.3136809,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen Jordan",
     "retailer": "blumen_jordan",
     "shop": "florist",
     "latitude": 46.6493063,
-    "longitude": 14.3143914
+    "longitude": 14.3143914,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen Kainz",
     "retailer": "blumen_kainz",
     "shop": "florist",
     "latitude": 46.642333,
-    "longitude": 14.3146867
+    "longitude": 14.3146867,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "cafe&mehr",
     "retailer": "cafe_und_mehr",
     "shop": "coffee",
     "latitude": 46.645359,
-    "longitude": 14.3127003
+    "longitude": 14.3127003,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Caravan",
     "retailer": "caravan",
     "shop": "car",
     "latitude": 46.6459869,
-    "longitude": 14.3116267
+    "longitude": 14.3116267,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eisner Auto",
     "retailer": "eisner_auto",
     "shop": "car",
     "latitude": 46.6427447,
-    "longitude": 14.3153116
+    "longitude": 14.3153116,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Genussraum Frierss",
     "retailer": "genussraum_frierss",
     "shop": "butcher",
     "latitude": 46.6477132,
-    "longitude": 14.3147987
+    "longitude": 14.3147987,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Genussraum Kaslab'n Nockberge",
     "retailer": "genussraum_kaslab_n_nockberge",
     "shop": "cheese",
     "latitude": 46.6474561,
-    "longitude": 14.3148152
+    "longitude": 14.3148152,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Genussraum Wienerroither",
     "retailer": "genussraum_wienerroither",
     "shop": "bakery",
     "latitude": 46.6475898,
-    "longitude": 14.3148094
+    "longitude": 14.3148094,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Haarscharf",
     "retailer": "haarscharf",
     "shop": "hairdresser",
     "latitude": 46.643785,
-    "longitude": 14.3153753
+    "longitude": 14.3153753,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Halal Metzgerei Arnaut",
     "retailer": "halal_metzgerei_arnaut",
     "shop": "butcher",
     "latitude": 46.6402429,
-    "longitude": 14.3139458
+    "longitude": 14.3139458,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -98,28 +139,38 @@
     "shop": "supermarket",
     "latitude": 46.6453531,
     "longitude": 14.3135851,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Igro 1° Pescheria",
     "retailer": "igro_1_pescheria",
     "shop": "seafood",
     "latitude": 46.6412586,
-    "longitude": 14.3144845
+    "longitude": 14.3144845,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kamm In Friseure",
     "retailer": "kamm_in_friseure",
     "shop": "hairdresser",
     "latitude": 46.6424188,
-    "longitude": 14.3147846
+    "longitude": 14.3147846,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 46.6440568,
-    "longitude": 14.3146113
+    "longitude": 14.3146113,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mazda",
@@ -127,35 +178,47 @@
     "shop": "car",
     "latitude": 46.6428934,
     "longitude": 14.314697,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Meyer-Hafner",
     "retailer": "meyer_hafner",
     "shop": "car_repair",
     "latitude": 46.6454809,
-    "longitude": 14.3152454
+    "longitude": 14.3152454,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Meyer-Hafner",
     "retailer": "meyer_hafner",
     "shop": "car",
     "latitude": 46.6465923,
-    "longitude": 14.3139407
+    "longitude": 14.3139407,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Meyer-Hafner",
     "retailer": "meyer_hafner",
     "shop": "car",
     "latitude": 46.6466102,
-    "longitude": 14.3148697
+    "longitude": 14.3148697,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NIMI GmbH",
     "retailer": "nimi_gmbh",
     "shop": "e-cigarette",
     "latitude": 46.6423225,
-    "longitude": 14.3147668
+    "longitude": 14.3147668,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pagro",
@@ -163,55 +226,77 @@
     "shop": "stationery",
     "latitude": 46.6462424,
     "longitude": 14.3137935,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Perro",
     "retailer": "perro",
     "shop": "pet",
     "latitude": 46.6460638,
-    "longitude": 14.3140241
+    "longitude": 14.3140241,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "R&N",
     "retailer": "r_und_n",
     "shop": "doityourself",
     "latitude": 46.64374,
-    "longitude": 14.3153309
+    "longitude": 14.3153309,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Radler",
     "retailer": "radler",
     "shop": "carpet",
     "latitude": 46.6407013,
-    "longitude": 14.3145685
+    "longitude": 14.3145685,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Rolltek Rollladen",
     "retailer": "rolltek_rollladen",
     "shop": "doityourself",
     "latitude": 46.6405504,
-    "longitude": 14.3141056
+    "longitude": 14.3141056,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "SCHÄFER Service GmbH",
     "retailer": "schafer_service_gmbh",
     "shop": "appliance",
     "latitude": 46.6401483,
-    "longitude": 14.3143023
+    "longitude": 14.3143023,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sunwell",
     "retailer": "sunwell",
     "shop": "swimming_pool",
     "latitude": 46.6455126,
-    "longitude": 14.312521
+    "longitude": 14.312521,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wohnstudio Leitmann Showroom",
     "retailer": "wohnstudio_leitmann_showroom",
     "shop": "furniture",
     "latitude": 46.6459534,
-    "longitude": 14.3141931
+    "longitude": 14.3141931,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

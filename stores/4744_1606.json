@@ -4,7 +4,9 @@
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 47.4435258,
-    "longitude": 16.0652677
+    "longitude": 16.0652677,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,34 +14,50 @@
     "shop": "supermarket",
     "latitude": 47.4427142,
     "longitude": 16.0681969,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8243",
+    "city": "Pinggau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Butcher",
     "retailer": "shop_butcher",
     "shop": "butcher",
     "latitude": 47.4438433,
-    "longitude": 16.0648492
+    "longitude": 16.0648492,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Dorfis Laden",
     "retailer": "dorfis_laden",
     "shop": "supermarket",
     "latitude": 47.4440419,
-    "longitude": 16.0646759
+    "longitude": 16.0646759,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hilde&Hilde Brautmoden",
     "retailer": "hilde_und_hilde_brautmoden",
     "shop": "clothes",
     "latitude": 47.4442345,
-    "longitude": 16.0648327
+    "longitude": 16.0648327,
+    "postcode": "8243",
+    "city": "Pinggau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Michaelihof",
     "retailer": "michaelihof",
     "shop": "farm",
     "latitude": 47.4462608,
-    "longitude": 16.0629888
+    "longitude": 16.0629888,
+    "postcode": "8243",
+    "city": "Pinggau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

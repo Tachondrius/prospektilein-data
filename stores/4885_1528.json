@@ -4,35 +4,49 @@
     "retailer": "fleischerei_josef_franz_fleischhacker",
     "shop": "butcher",
     "latitude": 48.855739,
-    "longitude": 15.2866976
+    "longitude": 15.2866976,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gutmann",
     "retailer": "gutmann",
     "shop": "repair",
     "latitude": 48.8543178,
-    "longitude": 15.2849767
+    "longitude": 15.2849767,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "L. Kasses GmbH",
     "retailer": "l_kasses_gmbh",
     "shop": "bakery",
     "latitude": 48.8550903,
-    "longitude": 15.288809
+    "longitude": 15.288809,
+    "postcode": "3842",
+    "city": "Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Marias Friseursalon",
     "retailer": "marias_friseursalon",
     "shop": "hairdresser",
     "latitude": 48.8523953,
-    "longitude": 15.2898713
+    "longitude": 15.2898713,
+    "postcode": "3842",
+    "city": "Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mathias Pany, Baustoffhandel",
     "retailer": "mathias_pany_baustoffhandel",
     "shop": "trade",
     "latitude": 48.8554396,
-    "longitude": 15.2867919
+    "longitude": 15.2867919,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -40,6 +54,10 @@
     "shop": "supermarket",
     "latitude": 48.8553851,
     "longitude": 15.2896168,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3842",
+    "city": "Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

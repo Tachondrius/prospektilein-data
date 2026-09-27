@@ -5,14 +5,20 @@
     "shop": "variety_store",
     "latitude": 47.4171364,
     "longitude": 15.2736946,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bestattung PIUS",
     "retailer": "bestattung_pius",
     "shop": "funeral_directors",
     "latitude": 47.4113923,
-    "longitude": 15.2712352
+    "longitude": 15.2712352,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -20,7 +26,11 @@
     "shop": "chemist",
     "latitude": 47.4103237,
     "longitude": 15.2704774,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "BONITA",
@@ -28,42 +38,56 @@
     "shop": "clothes",
     "latitude": 47.4101739,
     "longitude": 15.2701464,
-    "brand": "BONITA"
+    "brand": "BONITA",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Köck",
     "retailer": "backerei_kock",
     "shop": "bakery",
     "latitude": 47.4132585,
-    "longitude": 15.2793005
+    "longitude": 15.2793005,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bücher Leo",
     "retailer": "bucher_leo",
     "shop": "books",
     "latitude": 47.4103392,
-    "longitude": 15.2711504
+    "longitude": 15.2711504,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Cafe Schloffer",
     "retailer": "cafe_schloffer",
     "shop": "bakery",
     "latitude": 47.4103779,
-    "longitude": 15.2712674
+    "longitude": 15.2712674,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.4180907,
-    "longitude": 15.2740345
+    "longitude": 15.2740345,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Egger",
     "retailer": "egger",
     "shop": "medical_supply",
     "latitude": 47.4115285,
-    "longitude": 15.2727599
+    "longitude": 15.2727599,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eurospar",
@@ -71,7 +95,11 @@
     "shop": "supermarket",
     "latitude": 47.4128199,
     "longitude": 15.2745256,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fressnapf",
@@ -79,91 +107,121 @@
     "shop": "pet",
     "latitude": 47.4180911,
     "longitude": 15.2738835,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fritzer Trachten",
     "retailer": "fritzer_trachten",
     "shop": "clothes",
     "latitude": 47.4102464,
-    "longitude": 15.2707111
+    "longitude": 15.2707111,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.4112826,
-    "longitude": 15.2731763
+    "longitude": 15.2731763,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.4113307,
-    "longitude": 15.2734595
+    "longitude": 15.2734595,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Handy Bruck",
     "retailer": "handy_bruck",
     "shop": "mobile_phone",
     "latitude": 47.4107459,
-    "longitude": 15.2728861
+    "longitude": 15.2728861,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haus & Wohnen Lechner",
     "retailer": "haus_und_wohnen_lechner",
     "shop": "interior_decoration",
     "latitude": 47.418258,
-    "longitude": 15.2738809
+    "longitude": 15.2738809,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "IBH Industriebedarf Hermann Petrakovitsch GmbH",
     "retailer": "ibh_industriebedarf_hermann_petrakovitsch_gmbh",
     "shop": "hardware",
     "latitude": 47.4159861,
-    "longitude": 15.2744551
+    "longitude": 15.2744551,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Juwelier Neubauer",
     "retailer": "juwelier_neubauer",
     "shop": "jewelry",
     "latitude": 47.4103063,
-    "longitude": 15.2710369
+    "longitude": 15.2710369,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Juwelier Schweiger",
     "retailer": "juwelier_schweiger",
     "shop": "jewelry",
     "latitude": 47.4103472,
-    "longitude": 15.270579
+    "longitude": 15.270579,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Karlon",
     "retailer": "karlon",
     "shop": "stationery",
     "latitude": 47.4110898,
-    "longitude": 15.2700738
+    "longitude": 15.2700738,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "kocher",
     "retailer": "kocher",
     "shop": "shoes",
     "latitude": 47.4110869,
-    "longitude": 15.270594
+    "longitude": 15.270594,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "merl",
     "retailer": "merl",
     "shop": "electronics",
     "latitude": 47.4104885,
-    "longitude": 15.2707377
+    "longitude": 15.2707377,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Modebox",
     "retailer": "modebox",
     "shop": "clothes",
     "latitude": 47.4104362,
-    "longitude": 15.2715383
+    "longitude": 15.2715383,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Morawa",
@@ -171,28 +229,36 @@
     "shop": "books",
     "latitude": 47.4104088,
     "longitude": 15.2714004,
-    "brand": "Morawa"
+    "brand": "Morawa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.4182446,
-    "longitude": 15.2740173
+    "longitude": 15.2740173,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PLS Leder",
     "retailer": "pls_leder",
     "shop": "leather",
     "latitude": 47.4111487,
-    "longitude": 15.2701953
+    "longitude": 15.2701953,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rattenegger",
     "retailer": "rattenegger",
     "shop": "shoes",
     "latitude": 47.4106537,
-    "longitude": 15.2717902
+    "longitude": 15.2717902,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "s.Oliver",
@@ -200,42 +266,58 @@
     "shop": "clothes",
     "latitude": 47.4101557,
     "longitude": 15.2707195,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schuhe Haberl",
     "retailer": "schuhe_haberl",
     "shop": "shoes",
     "latitude": 47.4107883,
-    "longitude": 15.2721626
+    "longitude": 15.2721626,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spielwaren Voglmeir",
     "retailer": "spielwaren_voglmeir",
     "shop": "toys",
     "latitude": 47.4102119,
-    "longitude": 15.2708129
+    "longitude": 15.2708129,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "newsagent;tobacco",
     "latitude": 47.4132219,
-    "longitude": 15.2791987
+    "longitude": 15.2791987,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Thomas",
     "retailer": "thomas",
     "shop": "jewelry",
     "latitude": 47.410952,
-    "longitude": 15.2707297
+    "longitude": 15.2707297,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tierpräparator",
     "retailer": "tierpraparator",
     "shop": "taxidermist",
     "latitude": 47.4118481,
-    "longitude": 15.2707373
+    "longitude": 15.2707373,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trek",
@@ -243,27 +325,35 @@
     "shop": "bicycle",
     "latitude": 47.416792,
     "longitude": 15.2736306,
-    "brand": "Trek"
+    "brand": "Trek",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vanille",
     "retailer": "vanille",
     "shop": "bakery",
     "latitude": 47.410145,
-    "longitude": 15.2701008
+    "longitude": 15.2701008,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Volksbankgalerie",
     "retailer": "volksbankgalerie",
     "shop": "mall",
     "latitude": 47.4108547,
-    "longitude": 15.271271
+    "longitude": 15.271271,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ÖBB Reisezentrum",
     "retailer": "obb_reisezentrum",
     "shop": "ticket",
     "latitude": 47.4135932,
-    "longitude": 15.2790421
+    "longitude": 15.2790421,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

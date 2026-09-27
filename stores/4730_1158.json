@@ -5,14 +5,22 @@
     "shop": "farm",
     "latitude": 47.30599,
     "longitude": 11.589936,
-    "brand": "bio"
+    "brand": "bio",
+    "postcode": "6122",
+    "city": "Fritzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Karl Seelos",
     "retailer": "karl_seelos",
     "shop": "car_repair",
     "latitude": 47.3015472,
-    "longitude": 11.5890154
+    "longitude": 11.5890154,
+    "postcode": "6122",
+    "city": "Fritzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -20,7 +28,9 @@
     "shop": "convenience",
     "latitude": 47.3048181,
     "longitude": 11.5897771,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth Hochenburger Baumarkt",
@@ -28,7 +38,11 @@
     "shop": "doityourself",
     "latitude": 47.3014765,
     "longitude": 11.5898116,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "6122",
+    "city": "Fritzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -36,6 +50,10 @@
     "shop": "trade",
     "latitude": 47.3031529,
     "longitude": 11.5802045,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "6122",
+    "city": "Fritzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

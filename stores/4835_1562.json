@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.3508257,
     "longitude": 15.6210984,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3508",
+    "city": "Paudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Robineau",
@@ -13,7 +17,11 @@
     "shop": "yes",
     "latitude": 48.3501353,
     "longitude": 15.6203294,
-    "brand": "Independent"
+    "brand": "Independent",
+    "postcode": "3508",
+    "city": "Paudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -21,13 +29,21 @@
     "shop": "supermarket",
     "latitude": 48.351871,
     "longitude": 15.6213695,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3508",
+    "city": "Paudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik Kirali Burak",
     "retailer": "tabak_trafik_kirali_burak",
     "shop": "tobacco",
     "latitude": 48.3518865,
-    "longitude": 15.6206873
+    "longitude": 15.6206873,
+    "postcode": "3508",
+    "city": "Paudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

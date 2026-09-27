@@ -4,14 +4,22 @@
     "retailer": "aus_und_raus_aktionsmarkt",
     "shop": "variety_store",
     "latitude": 47.2297387,
-    "longitude": 10.8573481
+    "longitude": 10.8573481,
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bike Store - xDreamlite",
     "retailer": "bike_store_xdreamlite",
     "shop": "bicycle",
     "latitude": 47.2293425,
-    "longitude": 10.8577692
+    "longitude": 10.8577692,
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -19,7 +27,11 @@
     "shop": "supermarket",
     "latitude": 47.2289157,
     "longitude": 10.8574148,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Viva",
@@ -27,6 +39,10 @@
     "shop": "convenience",
     "latitude": 47.2295883,
     "longitude": 10.8567128,
-    "brand": "Viva"
+    "brand": "Viva",
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

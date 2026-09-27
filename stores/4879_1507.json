@@ -4,42 +4,60 @@
     "retailer": "admiral_entertainment",
     "shop": "bookmaker",
     "latitude": 48.7917607,
-    "longitude": 15.0702018
+    "longitude": 15.0702018,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Weiss GmbH",
     "retailer": "autohaus_weiss_gmbh",
     "shop": "car",
     "latitude": 48.7917731,
-    "longitude": 15.0780988
+    "longitude": 15.0780988,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumenreich",
     "retailer": "blumenreich",
     "shop": "florist",
     "latitude": 48.7916187,
-    "longitude": 15.0705642
+    "longitude": 15.0705642,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Brau Union Österreich AG",
     "retailer": "brau_union_osterreich_ag",
     "shop": "beverages",
     "latitude": 48.7913697,
-    "longitude": 15.0771072
+    "longitude": 15.0771072,
+    "postcode": "3943",
+    "city": "Schrems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei-Cafe Kaufmann",
     "retailer": "backerei_cafe_kaufmann",
     "shop": "bakery",
     "latitude": 48.7928141,
-    "longitude": 15.0706214
+    "longitude": 15.0706214,
+    "postcode": "3943",
+    "city": "Schrems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "D Systeme",
     "retailer": "d_systeme",
     "shop": "computer",
     "latitude": 48.7929518,
-    "longitude": 15.072304
+    "longitude": 15.072304,
+    "postcode": "3943",
+    "city": "Schrems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Expert Hörmann",
@@ -47,7 +65,11 @@
     "shop": "electronics",
     "latitude": 48.7906126,
     "longitude": 15.0705771,
-    "brand": "Expert"
+    "brand": "Expert",
+    "postcode": "3943",
+    "city": "Schrems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fürnkranz GesmbH & Co KG",
@@ -55,21 +77,29 @@
     "shop": "chemist",
     "latitude": 48.7931513,
     "longitude": 15.0711645,
-    "brand": "Gewußt wie"
+    "brand": "Gewußt wie",
+    "postcode": "3943",
+    "city": "Schrems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "HairStudioSabine",
     "retailer": "hairstudiosabine",
     "shop": "hairdresser",
     "latitude": 48.7916007,
-    "longitude": 15.0732009
+    "longitude": 15.0732009,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hari's Tabak-Trafik",
     "retailer": "hari_s_tabak_trafik",
     "shop": "kiosk",
     "latitude": 48.7916946,
-    "longitude": 15.070847
+    "longitude": 15.070847,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "JYSK",
@@ -77,14 +107,20 @@
     "shop": "furniture",
     "latitude": 48.7904805,
     "longitude": 15.0705739,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "3943",
+    "city": "Schrems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KerzenGlas",
     "retailer": "kerzenglas",
     "shop": "yes",
     "latitude": 48.793136,
-    "longitude": 15.075202
+    "longitude": 15.075202,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -92,7 +128,9 @@
     "shop": "clothes",
     "latitude": 48.7911048,
     "longitude": 15.0705812,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Optik Meyer",
@@ -100,28 +138,42 @@
     "shop": "optician",
     "latitude": 48.7926041,
     "longitude": 15.0730171,
-    "brand": "Hörgeräte Meyer Optik"
+    "brand": "Hörgeräte Meyer Optik",
+    "postcode": "3943",
+    "city": "Schrems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Paul Löffler",
     "retailer": "paul_loffler",
     "shop": "interior_decoration",
     "latitude": 48.7928812,
-    "longitude": 15.0726529
+    "longitude": 15.0726529,
+    "postcode": "3943",
+    "city": "Schrems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rene Buchsbaum, KFZ-Wartung und Pflege",
     "retailer": "rene_buchsbaum_kfz_wartung_und_pflege",
     "shop": "car_repair",
     "latitude": 48.7908984,
-    "longitude": 15.0792956
+    "longitude": 15.0792956,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Shiatsu-Praxis",
     "retailer": "shiatsu_praxis",
     "shop": "massage",
     "latitude": 48.7929196,
-    "longitude": 15.0725002
+    "longitude": 15.0725002,
+    "postcode": "3943",
+    "city": "Schrems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -129,7 +181,9 @@
     "shop": "supermarket",
     "latitude": 48.7903937,
     "longitude": 15.0702974,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -137,13 +191,17 @@
     "shop": "variety_store",
     "latitude": 48.7913389,
     "longitude": 15.0705774,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Manfred Rubicko",
     "retailer": "trafik_manfred_rubicko",
     "shop": "kiosk",
     "latitude": 48.7927812,
-    "longitude": 15.0719564
+    "longitude": 15.0719564,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

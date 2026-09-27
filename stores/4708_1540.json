@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.0809613,
     "longitude": 15.4035657,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa Plus",
@@ -13,62 +17,92 @@
     "shop": "supermarket",
     "latitude": 47.0892527,
     "longitude": 15.4075428,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "fotografie.at Studio Graz",
     "retailer": "fotografie_at_studio_graz",
     "shop": "photo_studio",
     "latitude": 47.0881806,
-    "longitude": 15.4024373
+    "longitude": 15.4024373,
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.081515,
-    "longitude": 15.4043657
+    "longitude": 15.4043657,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Modefriseur Leitner",
     "retailer": "modefriseur_leitner",
     "shop": "hairdresser",
     "latitude": 47.0810324,
-    "longitude": 15.40401
+    "longitude": 15.40401,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Paul & Bohne - Pauls Kaffeewelt",
     "retailer": "paul_und_bohne_pauls_kaffeewelt",
     "shop": "coffee",
     "latitude": 47.0821557,
-    "longitude": 15.4091755
+    "longitude": 15.4091755,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pfötchenstube Gösting",
     "retailer": "pfotchenstube_gosting",
     "shop": "pet",
     "latitude": 47.0880262,
-    "longitude": 15.4025674
+    "longitude": 15.4025674,
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PHOENIX Arzneiwarengroßhandlung GmbH",
     "retailer": "phoenix_arzneiwarengrohandlung_gmbh",
     "shop": "wholesale",
     "latitude": 47.0891965,
-    "longitude": 15.4039394
+    "longitude": 15.4039394,
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pichler Küchen",
     "retailer": "pichler_kuchen",
     "shop": "furniture",
     "latitude": 47.088106,
-    "longitude": 15.4035815
+    "longitude": 15.4035815,
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wholesale",
     "retailer": "shop_wholesale",
     "shop": "wholesale",
     "latitude": 47.0886667,
-    "longitude": 15.4041963
+    "longitude": 15.4041963,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

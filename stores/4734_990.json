@@ -5,7 +5,11 @@
     "shop": "car_repair",
     "latitude": 47.3474605,
     "longitude": 9.9035925,
-    "brand": "VW, Audi"
+    "brand": "VW, Audi",
+    "postcode": "6881",
+    "city": "Mellau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Renault",
@@ -13,7 +17,9 @@
     "shop": "car",
     "latitude": 47.3473453,
     "longitude": 9.9049879,
-    "brand": "Renault"
+    "brand": "Renault",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Veres Tank Stop",
@@ -21,13 +27,21 @@
     "shop": "kiosk",
     "latitude": 47.3474727,
     "longitude": 9.9052036,
-    "brand": "Independent"
+    "brand": "Independent",
+    "postcode": "6882",
+    "city": "Schnepfau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Wälder Getränkeblitz",
     "retailer": "walder_getrankeblitz",
     "shop": "beverages",
     "latitude": 47.347651,
-    "longitude": 9.9068985
+    "longitude": 9.9068985,
+    "postcode": "6882",
+    "city": "Schnepfau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

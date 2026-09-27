@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 47.2918648,
     "longitude": 11.6008823,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Swarovski Optik Shop",
     "retailer": "swarovski_optik_shop",
     "shop": "gift",
     "latitude": 47.2946852,
-    "longitude": 11.6011927
+    "longitude": 11.6011927,
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Swarovski Shop",
     "retailer": "swarovski_shop",
     "shop": "gift",
     "latitude": 47.2939827,
-    "longitude": 11.6012162
+    "longitude": 11.6012162,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

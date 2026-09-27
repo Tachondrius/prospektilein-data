@@ -4,20 +4,28 @@
     "retailer": "market",
     "shop": "supermarket",
     "latitude": 47.9263405,
-    "longitude": 16.3016482
+    "longitude": 16.3016482,
+    "postcode": "2602",
+    "city": "Blumau-Neurißhof",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ROGO media GmbH",
     "retailer": "rogo_media_gmbh",
     "shop": "yes",
     "latitude": 47.9241765,
-    "longitude": 16.3050413
+    "longitude": 16.3050413,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik Gernot Pauer",
     "retailer": "tabak_trafik_gernot_pauer",
     "shop": "newsagent",
     "latitude": 47.9268122,
-    "longitude": 16.3018751
+    "longitude": 16.3018751,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

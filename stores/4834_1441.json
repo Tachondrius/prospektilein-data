@@ -5,14 +5,22 @@
     "shop": "clothes",
     "latitude": 48.3494784,
     "longitude": 14.411468,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Getränkeabholmarkt - Penzenleitner",
     "retailer": "getrankeabholmarkt_penzenleitner",
     "shop": "beverages",
     "latitude": 48.3489291,
-    "longitude": 14.4187281
+    "longitude": 14.4187281,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -20,6 +28,10 @@
     "shop": "supermarket",
     "latitude": 48.347588,
     "longitude": 14.4112183,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "4209",
+    "city": "Engerwitzdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

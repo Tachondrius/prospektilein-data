@@ -5,14 +5,21 @@
     "shop": "supermarket",
     "latitude": 47.0092865,
     "longitude": 15.444307,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8073",
+    "city": "Feldkirchen bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Znidar",
     "retailer": "blumen_znidar",
     "shop": "florist",
     "latitude": 47.0021108,
-    "longitude": 15.4493878
+    "longitude": 15.4493878,
+    "postcode": "8073",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Krämer MEGA STORE Feldkirchen / Graz",
@@ -20,7 +27,11 @@
     "shop": "sports",
     "latitude": 47.0083077,
     "longitude": 15.4422669,
-    "brand": "Krämer Pferdesport"
+    "brand": "Krämer Pferdesport",
+    "postcode": "8073",
+    "city": "Feldkirchen bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Martin Auer",
@@ -28,20 +39,32 @@
     "shop": "bakery",
     "latitude": 47.0076385,
     "longitude": 15.4415282,
-    "brand": "Martin Auer"
+    "brand": "Martin Auer",
+    "postcode": "8073",
+    "city": "Feldkirchen bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "shoemakers outled",
     "retailer": "shoemakers_outled",
     "shop": "shoes",
     "latitude": 47.007657,
-    "longitude": 15.441361
+    "longitude": 15.441361,
+    "postcode": "8073",
+    "city": "Feldkirchen bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ölmühle Esterer",
     "retailer": "olmuhle_esterer",
     "shop": "yes",
     "latitude": 47.0066761,
-    "longitude": 15.4468104
+    "longitude": 15.4468104,
+    "postcode": "8073",
+    "city": "Feldkirchen bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "autohaus_wenger_gmbh",
     "shop": "car_repair",
     "latitude": 48.3172482,
-    "longitude": 13.424681
+    "longitude": 13.424681,
+    "postcode": "4974",
+    "city": "Ort im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -12,20 +16,30 @@
     "shop": "supermarket",
     "latitude": 48.3169022,
     "longitude": 13.4266735,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4974",
+    "city": "Reichersberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Metzgerei Bachinger",
     "retailer": "metzgerei_bachinger",
     "shop": "butcher",
     "latitude": 48.3179838,
-    "longitude": 13.4288697
+    "longitude": 13.4288697,
+    "postcode": "4974",
+    "city": "Ort im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stauden Feldweber",
     "retailer": "stauden_feldweber",
     "shop": "garden_centre",
     "latitude": 48.3117371,
-    "longitude": 13.4291773
+    "longitude": 13.4291773,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

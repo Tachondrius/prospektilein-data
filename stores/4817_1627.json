@@ -4,14 +4,20 @@
     "retailer": "leckerwiese",
     "shop": "deli",
     "latitude": 48.1747733,
-    "longitude": 16.2778082
+    "longitude": 16.2778082,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Materialmagazin",
     "retailer": "materialmagazin",
     "shop": "security",
     "latitude": 48.170906,
-    "longitude": 16.2759906
+    "longitude": 16.2759906,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -19,13 +25,19 @@
     "shop": "supermarket",
     "latitude": 48.1778457,
     "longitude": 16.2702915,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.1774113,
-    "longitude": 16.2728019
+    "longitude": 16.2728019,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

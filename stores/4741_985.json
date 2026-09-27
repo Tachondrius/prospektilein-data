@@ -4,14 +4,20 @@
     "retailer": "kasladen_vogel",
     "shop": "cheese",
     "latitude": 47.4141241,
-    "longitude": 9.8532913
+    "longitude": 9.8532913,
+    "postcode": "6867",
+    "city": "Schwarzenberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Nah&Frisch",
     "retailer": "nah_und_frisch",
     "shop": "convenience",
     "latitude": 47.4142435,
-    "longitude": 9.8532439
+    "longitude": 9.8532439,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar Sennhus",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 47.4143943,
     "longitude": 9.855444,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6867",
+    "city": "Schwarzenberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

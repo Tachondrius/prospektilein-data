@@ -5,7 +5,11 @@
     "shop": "yes",
     "latitude": 48.2229919,
     "longitude": 14.8502641,
-    "brand": "BP"
+    "brand": "BP",
+    "postcode": "4360",
+    "city": "Grein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fa. Grufeneder",
@@ -13,21 +17,31 @@
     "shop": "car_repair",
     "latitude": 48.2211509,
     "longitude": 14.8522655,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gerlindes Stadtladen",
     "retailer": "gerlindes_stadtladen",
     "shop": "convenience",
     "latitude": 48.2288068,
-    "longitude": 14.8577946
+    "longitude": 14.8577946,
+    "postcode": "4360",
+    "city": "Grein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Grell KFZ-Tech",
     "retailer": "grell_kfz_tech",
     "shop": "bicycle",
     "latitude": 48.2267989,
-    "longitude": 14.8546212
+    "longitude": 14.8546212,
+    "postcode": "4360",
+    "city": "Grein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Honda Grell",
@@ -35,21 +49,29 @@
     "shop": "motorcycle",
     "latitude": 48.2251546,
     "longitude": 14.8526008,
-    "brand": "Honda"
+    "brand": "Honda",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kassa",
     "retailer": "kassa",
     "shop": "ticket",
     "latitude": 48.2266964,
-    "longitude": 14.8524354
+    "longitude": 14.8524354,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kunststube",
     "retailer": "kunststube",
     "shop": "gift",
     "latitude": 48.2280521,
-    "longitude": 14.8553085
+    "longitude": 14.8553085,
+    "postcode": "4360",
+    "city": "Grein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -57,20 +79,28 @@
     "shop": "doityourself",
     "latitude": 48.2220848,
     "longitude": 14.8502198,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Luger",
     "retailer": "luger",
     "shop": "florist",
     "latitude": 48.2285593,
-    "longitude": 14.8505438
+    "longitude": 14.8505438,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "MASSAGE Pia Puchberger",
     "retailer": "massage_pia_puchberger",
     "shop": "massage",
     "latitude": 48.2284844,
-    "longitude": 14.8563508
+    "longitude": 14.8563508,
+    "postcode": "4360",
+    "city": "Grein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

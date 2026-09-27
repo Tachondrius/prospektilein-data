@@ -4,27 +4,37 @@
     "retailer": "elektro_kandler",
     "shop": "electronics",
     "latitude": 47.3249451,
-    "longitude": 11.6751569
+    "longitude": 11.6751569,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fliesen & Ofenbau Schneider",
     "retailer": "fliesen_und_ofenbau_schneider",
     "shop": "tiles",
     "latitude": 47.3257132,
-    "longitude": 11.6748203
+    "longitude": 11.6748203,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "No Problem Werbetextilien & Stickerei",
     "retailer": "no_problem_werbetextilien_und_stickerei",
     "shop": "clothes",
     "latitude": 47.3253487,
-    "longitude": 11.6757551
+    "longitude": 11.6757551,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Radgut",
     "retailer": "radgut",
     "shop": "sports",
     "latitude": 47.3250342,
-    "longitude": 11.6758934
+    "longitude": 11.6758934,
+    "postcode": "6123",
+    "city": "Terfens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

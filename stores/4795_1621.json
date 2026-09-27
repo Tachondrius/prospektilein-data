@@ -4,7 +4,11 @@
     "retailer": "konsum_markt",
     "shop": "supermarket",
     "latitude": 47.9594478,
-    "longitude": 16.2167699
+    "longitude": 16.2167699,
+    "postcode": "2540",
+    "city": "Bad Vöslau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -12,7 +16,11 @@
     "shop": "stationery",
     "latitude": 47.9569306,
     "longitude": 16.2192521,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "2540",
+    "city": "Bad Vöslau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -20,6 +28,8 @@
     "shop": "supermarket",
     "latitude": 47.9559986,
     "longitude": 16.219167,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

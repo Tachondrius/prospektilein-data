@@ -5,7 +5,9 @@
     "shop": "furniture",
     "latitude": 47.1607501,
     "longitude": 10.5844957,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "XXXLutz",
@@ -13,6 +15,10 @@
     "shop": "furniture",
     "latitude": 47.1601653,
     "longitude": 10.5845624,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

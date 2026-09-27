@@ -5,70 +5,100 @@
     "shop": "florist",
     "latitude": 48.1984179,
     "longitude": 15.6210327,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Brandstötter",
     "retailer": "brandstotter",
     "shop": "electronics",
     "latitude": 48.1972889,
-    "longitude": 15.6219738
+    "longitude": 15.6219738,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ehn",
     "retailer": "ehn",
     "shop": "bakery",
     "latitude": 48.1971681,
-    "longitude": 15.6223634
+    "longitude": 15.6223634,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Energy Store",
     "retailer": "energy_store",
     "shop": "nutrition_supplements",
     "latitude": 48.1997015,
-    "longitude": 15.6203723
+    "longitude": 15.6203723,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Farben Christoph",
     "retailer": "farben_christoph",
     "shop": "paint",
     "latitude": 48.1998973,
-    "longitude": 15.6203458
+    "longitude": 15.6203458,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fire4You",
     "retailer": "fire4you",
     "shop": "fireplace",
     "latitude": 48.1948737,
-    "longitude": 15.6225546
+    "longitude": 15.6225546,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur ADI",
     "retailer": "friseur_adi",
     "shop": "hairdresser",
     "latitude": 48.1945119,
-    "longitude": 15.6222077
+    "longitude": 15.6222077,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hanfvalid",
     "retailer": "hanfvalid",
     "shop": "cannabis",
     "latitude": 48.1948252,
-    "longitude": 15.6209353
+    "longitude": 15.6209353,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Jupet Brettspiele",
     "retailer": "jupet_brettspiele",
     "shop": "games",
     "latitude": 48.1972105,
-    "longitude": 15.6224447
+    "longitude": 15.6224447,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.1952834,
-    "longitude": 15.6270493
+    "longitude": 15.6270493,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -76,42 +106,60 @@
     "shop": "supermarket",
     "latitude": 48.1966707,
     "longitude": 15.6201744,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Maßküchen",
     "retailer": "makuchen",
     "shop": "kitchen",
     "latitude": 48.1966667,
-    "longitude": 15.6219924
+    "longitude": 15.6219924,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nähsalon Natali",
     "retailer": "nahsalon_natali",
     "shop": "tailor",
     "latitude": 48.1969862,
-    "longitude": 15.6219836
+    "longitude": 15.6219836,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "R. Gärdtner & Co",
     "retailer": "r_gardtner_und_co",
     "shop": "stationery",
     "latitude": 48.1967474,
-    "longitude": 15.6219919
+    "longitude": 15.6219919,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Red plates",
     "retailer": "red_plates",
     "shop": "bicycle",
     "latitude": 48.1967696,
-    "longitude": 15.621467
+    "longitude": 15.621467,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Romania Markt",
     "retailer": "romania_markt",
     "shop": "supermarket",
     "latitude": 48.1976352,
-    "longitude": 15.620231
+    "longitude": 15.620231,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -119,7 +167,11 @@
     "shop": "supermarket",
     "latitude": 48.1942074,
     "longitude": 15.6210418,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar Express",
@@ -127,27 +179,37 @@
     "shop": "convenience",
     "latitude": 48.198872,
     "longitude": 15.6210161,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Thür Textilpflege",
     "retailer": "thur_textilpflege",
     "shop": "dry_cleaning",
     "latitude": 48.1943289,
-    "longitude": 15.6222256
+    "longitude": 15.6222256,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Timan",
     "retailer": "timan",
     "shop": "hairdresser",
     "latitude": 48.1968385,
-    "longitude": 15.6219915
+    "longitude": 15.6219915,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.1972483,
-    "longitude": 15.6223584
+    "longitude": 15.6223584,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

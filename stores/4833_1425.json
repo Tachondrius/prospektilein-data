@@ -4,7 +4,9 @@
     "retailer": "bioladen_theresiengut",
     "shop": "farm",
     "latitude": 48.333954,
-    "longitude": 14.2556357
+    "longitude": 14.2556357,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 48.330667,
     "longitude": 14.2550402,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4040",
+    "city": "Gramastetten",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

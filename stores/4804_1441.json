@@ -5,21 +5,31 @@
     "shop": "car",
     "latitude": 48.0467888,
     "longitude": 14.4126828,
-    "brand": "Ford;Fiat Professional"
+    "brand": "Ford;Fiat Professional",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bernarderl Upcycling",
     "retailer": "bernarderl_upcycling",
     "shop": "bag",
     "latitude": 48.04357,
-    "longitude": 14.4183871
+    "longitude": 14.4183871,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "BestDrive Steyr",
     "retailer": "bestdrive_steyr",
     "shop": "car_repair",
     "latitude": 48.0472984,
-    "longitude": 14.4131663
+    "longitude": 14.4131663,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa Plus",
@@ -27,28 +37,36 @@
     "shop": "supermarket",
     "latitude": 48.0486723,
     "longitude": 14.4152454,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Buch & Bohne",
     "retailer": "buch_und_bohne",
     "shop": "books",
     "latitude": 48.0439411,
-    "longitude": 14.4191485
+    "longitude": 14.4191485,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Fröhlich",
     "retailer": "backerei_frohlich",
     "shop": "bakery",
     "latitude": 48.0437627,
-    "longitude": 14.4193882
+    "longitude": 14.4193882,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Convenience",
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 48.0489991,
-    "longitude": 14.4142952
+    "longitude": 14.4142952,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dacia",
@@ -56,7 +74,11 @@
     "shop": "car",
     "latitude": 48.0472036,
     "longitude": 14.4122441,
-    "brand": "Dacia"
+    "brand": "Dacia",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -64,14 +86,18 @@
     "shop": "chemist",
     "latitude": 48.0478726,
     "longitude": 14.4154277,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dry Cleaning",
     "retailer": "shop_dry_cleaning",
     "shop": "dry_cleaning",
     "latitude": 48.0477949,
-    "longitude": 14.4178296
+    "longitude": 14.4178296,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ernsting's family",
@@ -79,42 +105,58 @@
     "shop": "clothes",
     "latitude": 48.0477628,
     "longitude": 14.4151334,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fahrradtechnik Spatt",
     "retailer": "fahrradtechnik_spatt",
     "shop": "bicycle",
     "latitude": 48.0443375,
-    "longitude": 14.4187138
+    "longitude": 14.4187138,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fliesen Markt",
     "retailer": "fliesen_markt",
     "shop": "doityourself",
     "latitude": 48.046181,
-    "longitude": 14.4126549
+    "longitude": 14.4126549,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "HAARCENTER",
     "retailer": "haarcenter",
     "shop": "hairdresser",
     "latitude": 48.0482756,
-    "longitude": 14.4154808
+    "longitude": 14.4154808,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.0476613,
-    "longitude": 14.4178237
+    "longitude": 14.4178237,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Happy Records",
     "retailer": "happy_records",
     "shop": "music",
     "latitude": 48.0448179,
-    "longitude": 14.4164734
+    "longitude": 14.4164734,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hartlauer",
@@ -122,7 +164,11 @@
     "shop": "electronics",
     "latitude": 48.0402592,
     "longitude": 14.4198475,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hartlauer",
@@ -130,21 +176,27 @@
     "shop": "electronics",
     "latitude": 48.0480752,
     "longitude": 14.4152601,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Juwelier Alexander",
     "retailer": "juwelier_alexander",
     "shop": "jewelry",
     "latitude": 48.0401538,
-    "longitude": 14.41976
+    "longitude": 14.41976,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Modellbau Simacek",
     "retailer": "modellbau_simacek",
     "shop": "model",
     "latitude": 48.0439213,
-    "longitude": 14.4182219
+    "longitude": 14.4182219,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -152,42 +204,56 @@
     "shop": "clothes",
     "latitude": 48.049696,
     "longitude": 14.4185727,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Orthopädie-Schuhtechnik Haidenthaler",
     "retailer": "orthopadie_schuhtechnik_haidenthaler",
     "shop": "shoes",
     "latitude": 48.0439137,
-    "longitude": 14.4176385
+    "longitude": 14.4176385,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Oui",
     "retailer": "oui",
     "shop": "fashion_accessories",
     "latitude": 48.0403528,
-    "longitude": 14.4199431
+    "longitude": 14.4199431,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Papierwaren Mörthenhuber",
     "retailer": "papierwaren_morthenhuber",
     "shop": "stationery",
     "latitude": 48.0438134,
-    "longitude": 14.4181113
+    "longitude": 14.4181113,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pfeiffer",
     "retailer": "pfeiffer",
     "shop": "chemist",
     "latitude": 48.0400579,
-    "longitude": 14.4197131
+    "longitude": 14.4197131,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Helmut",
     "retailer": "salon_helmut",
     "shop": "hairdresser",
     "latitude": 48.0400971,
-    "longitude": 14.4120812
+    "longitude": 14.4120812,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "sQooter.com",
@@ -195,35 +261,49 @@
     "shop": "motorcycle",
     "latitude": 48.0496754,
     "longitude": 14.4193823,
-    "brand": "Vespa, Scomadi, Piaggio, Beta, Italjet und Brixton"
+    "brand": "Vespa, Scomadi, Piaggio, Beta, Italjet und Brixton",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Steyrdorfladen",
     "retailer": "steyrdorfladen",
     "shop": "convenience",
     "latitude": 48.0453511,
-    "longitude": 14.416789
+    "longitude": 14.416789,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Taborland",
     "retailer": "taborland",
     "shop": "mall",
     "latitude": 48.0481846,
-    "longitude": 14.4154536
+    "longitude": 14.4154536,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wine",
     "retailer": "shop_wine",
     "shop": "wine",
     "latitude": 48.0439348,
-    "longitude": 14.4189997
+    "longitude": 14.4189997,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Winkler",
     "retailer": "winkler",
     "shop": "bakery",
     "latitude": 48.0482277,
-    "longitude": 14.414927
+    "longitude": 14.414927,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zillertaler Trachtenwelt",
@@ -231,13 +311,19 @@
     "shop": "clothes",
     "latitude": 48.0479541,
     "longitude": 14.415272,
-    "brand": "Zillertaler Trachtenwelt"
+    "brand": "Zillertaler Trachtenwelt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "ÖBAU Weindl",
     "retailer": "obau_weindl",
     "shop": "doityourself",
     "latitude": 48.0470342,
-    "longitude": 14.4144879
+    "longitude": 14.4144879,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

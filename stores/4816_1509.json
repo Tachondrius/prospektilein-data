@@ -4,14 +4,20 @@
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.1637656,
-    "longitude": 15.0966849
+    "longitude": 15.0966849,
+    "postcode": "3370",
+    "city": "Ybbs an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "eni shop",
     "retailer": "eni_shop",
     "shop": "convenience",
     "latitude": 48.1633873,
-    "longitude": 15.0992484
+    "longitude": 15.0992484,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Scania",
@@ -19,6 +25,10 @@
     "shop": "truck_repair",
     "latitude": 48.1643637,
     "longitude": 15.0969011,
-    "brand": "Scania"
+    "brand": "Scania",
+    "postcode": "3370",
+    "city": "Ybbs an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

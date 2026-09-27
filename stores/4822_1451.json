@@ -4,7 +4,9 @@
     "retailer": "af_auto",
     "shop": "car",
     "latitude": 48.2249094,
-    "longitude": 14.5189061
+    "longitude": 14.5189061,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,13 +14,19 @@
     "shop": "supermarket",
     "latitude": 48.222454,
     "longitude": 14.5101483,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4482",
+    "city": "Ennsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.2246392,
-    "longitude": 14.5181517
+    "longitude": 14.5181517,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

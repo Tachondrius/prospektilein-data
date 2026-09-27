@@ -4,14 +4,22 @@
     "retailer": "alex",
     "shop": "hairdresser",
     "latitude": 47.355473,
-    "longitude": 9.6626674
+    "longitude": 9.6626674,
+    "postcode": "6844",
+    "city": "Altach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Auto Egle GmbH",
     "retailer": "auto_egle_gmbh",
     "shop": "car_repair",
     "latitude": 47.3551372,
-    "longitude": 9.6629035
+    "longitude": 9.6629035,
+    "postcode": "6845",
+    "city": "Hohenems",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bipa",
@@ -19,7 +27,11 @@
     "shop": "chemist",
     "latitude": 47.3556772,
     "longitude": 9.6623944,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6844",
+    "city": "Altach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "KiK",
@@ -27,27 +39,43 @@
     "shop": "clothes",
     "latitude": 47.3558153,
     "longitude": 9.6623421,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "6844",
+    "city": "Altach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mix Markt",
     "retailer": "mix_markt",
     "shop": "supermarket",
     "latitude": 47.3554765,
-    "longitude": 9.6631468
+    "longitude": 9.6631468,
+    "postcode": "6845",
+    "city": "Hohenems",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Vita Aktiva",
     "retailer": "vita_aktiva",
     "shop": "shoes",
     "latitude": 47.3576594,
-    "longitude": 9.6638119
+    "longitude": 9.6638119,
+    "postcode": "6844",
+    "city": "Altach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Wolf KFZ",
     "retailer": "wolf_kfz",
     "shop": "car_repair",
     "latitude": 47.3539759,
-    "longitude": 9.6664971
+    "longitude": 9.6664971,
+    "postcode": "6845",
+    "city": "Hohenems",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

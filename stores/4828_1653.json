@@ -5,48 +5,66 @@
     "shop": "car",
     "latitude": 48.2842707,
     "longitude": 16.5304657,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "2232",
+    "city": "Aderklaa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "CSM Computer Service",
     "retailer": "csm_computer_service",
     "shop": "computer",
     "latitude": 48.2834027,
-    "longitude": 16.5323933
+    "longitude": 16.5323933,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Harbich Spargel",
     "retailer": "harbich_spargel",
     "shop": "farm",
     "latitude": 48.2848603,
-    "longitude": 16.5354942
+    "longitude": 16.5354942,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Iser Spargel und Erdbeeren",
     "retailer": "iser_spargel_und_erdbeeren",
     "shop": "farm",
     "latitude": 48.2850753,
-    "longitude": 16.5393568
+    "longitude": 16.5393568,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lucky Hair",
     "retailer": "lucky_hair",
     "shop": "hairdresser",
     "latitude": 48.2838146,
-    "longitude": 16.5337888
+    "longitude": 16.5337888,
+    "postcode": "2232",
+    "city": "Aderklaa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Thai Gemüse Aderklaa",
     "retailer": "thai_gemuse_aderklaa",
     "shop": "greengrocer",
     "latitude": 48.2834785,
-    "longitude": 16.5374225
+    "longitude": 16.5374225,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zörnpfennig",
     "retailer": "zornpfennig",
     "shop": "farm",
     "latitude": 48.2848192,
-    "longitude": 16.53522
+    "longitude": 16.53522,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,14 +4,22 @@
     "retailer": "buchhandlung_alexowsky",
     "shop": "books",
     "latitude": 48.7075925,
-    "longitude": 16.0759421
+    "longitude": 16.0759421,
+    "postcode": "2054",
+    "city": "Haugsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Druck Hofer Filiale Haugsdorf",
     "retailer": "druck_hofer_filiale_haugsdorf",
     "shop": "books",
     "latitude": 48.7082391,
-    "longitude": 16.07632
+    "longitude": 16.07632,
+    "postcode": "2054",
+    "city": "Haugsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -19,13 +27,20 @@
     "shop": "supermarket",
     "latitude": 48.7074933,
     "longitude": 16.0758417,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2054",
+    "city": "Haugsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weinhandlung Walter Schicha",
     "retailer": "weinhandlung_walter_schicha",
     "shop": "alcohol",
     "latitude": 48.7061516,
-    "longitude": 16.0717654
+    "longitude": 16.0717654,
+    "postcode": "2054",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "abholmarkt_fleisch_und_wurstwaren",
     "shop": "butcher",
     "latitude": 46.9466525,
-    "longitude": 15.9165151
+    "longitude": 15.9165151,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Hirschmugl",
@@ -12,7 +14,11 @@
     "shop": "car",
     "latitude": 46.9496456,
     "longitude": 15.9102791,
-    "brand": "Suzuki;Fiat;Peugeot;Opel"
+    "brand": "Suzuki;Fiat;Peugeot;Opel",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Strobl",
@@ -20,14 +26,22 @@
     "shop": "car",
     "latitude": 46.948356,
     "longitude": 15.9173337,
-    "brand": "Kia"
+    "brand": "Kia",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bakery",
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 46.9491133,
-    "longitude": 15.9180569
+    "longitude": 15.9180569,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -35,14 +49,20 @@
     "shop": "supermarket",
     "latitude": 46.94746,
     "longitude": 15.915215,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bioresonanz Irene",
     "retailer": "bioresonanz_irene",
     "shop": "beauty",
     "latitude": 46.9485805,
-    "longitude": 15.9117557
+    "longitude": 15.9117557,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -50,7 +70,11 @@
     "shop": "chemist",
     "latitude": 46.9470233,
     "longitude": 15.9156775,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "C&A",
@@ -58,7 +82,9 @@
     "shop": "clothes",
     "latitude": 46.9488793,
     "longitude": 15.9153743,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deichmann",
@@ -66,14 +92,22 @@
     "shop": "shoes",
     "latitude": 46.948814,
     "longitude": 15.9156195,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Der Genser",
     "retailer": "der_genser",
     "shop": "furniture",
     "latitude": 46.9479632,
-    "longitude": 15.9170008
+    "longitude": 15.9170008,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -81,14 +115,22 @@
     "shop": "chemist",
     "latitude": 46.948795,
     "longitude": 15.9158721,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektro-A-markt",
     "retailer": "elektro_a_markt",
     "shop": "houseware",
     "latitude": 46.9468288,
-    "longitude": 15.9148594
+    "longitude": 15.9148594,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Esprit",
@@ -96,14 +138,22 @@
     "shop": "clothes",
     "latitude": 46.9490182,
     "longitude": 15.9147233,
-    "brand": "Esprit"
+    "brand": "Esprit",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "doityourself",
     "latitude": 46.9486746,
-    "longitude": 15.9122894
+    "longitude": 15.9122894,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fressnapf",
@@ -111,7 +161,11 @@
     "shop": "pet",
     "latitude": 46.9472864,
     "longitude": 15.9159123,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hervis",
@@ -119,7 +173,11 @@
     "shop": "sports",
     "latitude": 46.9489706,
     "longitude": 15.916855,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -127,14 +185,22 @@
     "shop": "supermarket",
     "latitude": 46.9464519,
     "longitude": 15.9154849,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KDK",
     "retailer": "kdk",
     "shop": "interior_decoration",
     "latitude": 46.9484972,
-    "longitude": 15.9128912
+    "longitude": 15.9128912,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -142,14 +208,22 @@
     "shop": "clothes",
     "latitude": 46.9461865,
     "longitude": 15.9170251,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Koller & Koller",
     "retailer": "koller_und_koller",
     "shop": "jewelry",
     "latitude": 46.9490556,
-    "longitude": 15.9145725
+    "longitude": 15.9145725,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Libro",
@@ -157,7 +231,11 @@
     "shop": "books",
     "latitude": 46.9495086,
     "longitude": 15.9149077,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "mister*lady",
@@ -165,7 +243,11 @@
     "shop": "clothes",
     "latitude": 46.9497023,
     "longitude": 15.9150177,
-    "brand": "mister*lady"
+    "brand": "mister*lady",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Möbelix",
@@ -173,7 +255,11 @@
     "shop": "furniture",
     "latitude": 46.9460888,
     "longitude": 15.9181913,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Müller",
@@ -181,7 +267,11 @@
     "shop": "chemist",
     "latitude": 46.9498989,
     "longitude": 15.9151258,
-    "brand": "Müller"
+    "brand": "Müller",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "New Yorker",
@@ -189,7 +279,11 @@
     "shop": "clothes",
     "latitude": 46.9493744,
     "longitude": 15.9148325,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "OBI",
@@ -197,28 +291,44 @@
     "shop": "doityourself",
     "latitude": 46.9499915,
     "longitude": 15.9115581,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pagro Diskont",
     "retailer": "pagro",
     "shop": "convenience",
     "latitude": 46.9485488,
-    "longitude": 15.9127402
+    "longitude": 15.9127402,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reifenhaus Plankenauer",
     "retailer": "reifenhaus_plankenauer",
     "shop": "tyres",
     "latitude": 46.9456379,
-    "longitude": 15.9101122
+    "longitude": 15.9101122,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Shoe 4 Your",
     "retailer": "shoe_4_your",
     "shop": "shoes",
     "latitude": 46.9491627,
-    "longitude": 15.9147658
+    "longitude": 15.9147658,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -226,7 +336,11 @@
     "shop": "supermarket",
     "latitude": 46.9496263,
     "longitude": 15.9136159,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Takko",
@@ -234,7 +348,11 @@
     "shop": "clothes",
     "latitude": 46.9498386,
     "longitude": 15.9139993,
-    "brand": "Takko"
+    "brand": "Takko",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -242,14 +360,22 @@
     "shop": "variety_store",
     "latitude": 46.9471182,
     "longitude": 15.9170471,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.9488682,
-    "longitude": 15.9145063
+    "longitude": 15.9145063,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Würth Shop Feldbach",
@@ -257,13 +383,19 @@
     "shop": "hardware",
     "latitude": 46.949716,
     "longitude": 15.91045,
-    "brand": "Würth"
+    "brand": "Würth",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zgonc",
     "retailer": "zgonc",
     "shop": "hardware",
     "latitude": 46.9469792,
-    "longitude": 15.9175427
+    "longitude": 15.9175427,
+    "postcode": "8330",
+    "city": "Mühldorf bei Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "arbo",
     "shop": "car_repair",
     "latitude": 47.3168034,
-    "longitude": 11.0925689
+    "longitude": 11.0925689,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,35 +16,53 @@
     "shop": "bakery",
     "latitude": 47.3165926,
     "longitude": 11.0909659,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "De Maestro",
     "retailer": "de_maestro",
     "shop": "car_repair",
     "latitude": 47.3144409,
-    "longitude": 11.0978588
+    "longitude": 11.0978588,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gebrauchtwagen Hillebrand",
     "retailer": "gebrauchtwagen_hillebrand",
     "shop": "car",
     "latitude": 47.3154985,
-    "longitude": 11.0940886
+    "longitude": 11.0940886,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Köfler",
     "retailer": "kfz_kofler",
     "shop": "car_repair",
     "latitude": 47.3147286,
-    "longitude": 11.0971468
+    "longitude": 11.0971468,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mineraliengrosshandel Hausen GmbH",
     "retailer": "mineraliengrosshandel_hausen_gmbh",
     "shop": "yes",
     "latitude": 47.3141047,
-    "longitude": 11.0977968
+    "longitude": 11.0977968,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -48,7 +70,11 @@
     "shop": "supermarket",
     "latitude": 47.3166608,
     "longitude": 11.0911886,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Neurauter",
@@ -56,27 +82,41 @@
     "shop": "car",
     "latitude": 47.3161793,
     "longitude": 11.0922698,
-    "brand": "Audi;Volkswagen"
+    "brand": "Audi;Volkswagen",
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pet",
     "retailer": "shop_pet",
     "shop": "pet",
     "latitude": 47.3163703,
-    "longitude": 11.0968759
+    "longitude": 11.0968759,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Risa",
     "retailer": "risa",
     "shop": "storage_rental",
     "latitude": 47.3160801,
-    "longitude": 11.0933346
+    "longitude": 11.0933346,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Speck Mair",
     "retailer": "speck_mair",
     "shop": "butcher",
     "latitude": 47.3144948,
-    "longitude": 11.0982507
+    "longitude": 11.0982507,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

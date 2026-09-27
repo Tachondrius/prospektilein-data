@@ -4,7 +4,11 @@
     "retailer": "burotechnik_elo_gmbh",
     "shop": "stationery",
     "latitude": 47.9694942,
-    "longitude": 16.8403559
+    "longitude": 16.8403559,
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "KFZ Zsoldos",
@@ -12,6 +16,10 @@
     "shop": "car_repair",
     "latitude": 47.9691853,
     "longitude": 16.8405073,
-    "brand": "Kia"
+    "brand": "Kia",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

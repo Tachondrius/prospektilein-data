@@ -5,48 +5,64 @@
     "shop": "supermarket",
     "latitude": 48.3259153,
     "longitude": 16.0605655,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Zoupek",
     "retailer": "blumen_zoupek",
     "shop": "garden_centre",
     "latitude": 48.3296866,
-    "longitude": 16.0676987
+    "longitude": 16.0676987,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Felber",
     "retailer": "felber",
     "shop": "bakery",
     "latitude": 48.3271174,
-    "longitude": 16.0646739
+    "longitude": 16.0646739,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Judith Müllner im Universitätsklinikum Tulln",
     "retailer": "friseur_judith_mullner_im_universitatsklinikum_tulln",
     "shop": "hairdresser",
     "latitude": 48.3222912,
-    "longitude": 16.0656407
+    "longitude": 16.0656407,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fritz Installationen GmbH",
     "retailer": "fritz_installationen_gmbh",
     "shop": "bathroom_furnishing",
     "latitude": 48.3258039,
-    "longitude": 16.0632536
+    "longitude": 16.0632536,
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "kiosk",
     "shop": "convenience",
     "latitude": 48.3223597,
-    "longitude": 16.0657951
+    "longitude": 16.0657951,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ÖBB Reisezentrum",
     "retailer": "obb_reisezentrum",
     "shop": "ticket",
     "latitude": 48.3272417,
-    "longitude": 16.0646224
+    "longitude": 16.0646224,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

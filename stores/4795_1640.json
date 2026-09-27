@@ -5,7 +5,9 @@
     "shop": "bookmaker",
     "latitude": 47.9544164,
     "longitude": 16.4032455,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -13,21 +15,32 @@
     "shop": "supermarket",
     "latitude": 47.9525502,
     "longitude": 16.4069645,
-    "brand": "Billa"
+    "brand": "Billa",
+    "city": "Weigelsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "D.M.S KFZ Technik",
     "retailer": "d_m_s_kfz_technik",
     "shop": "car_repair",
     "latitude": 47.9538761,
-    "longitude": 16.4042107
+    "longitude": 16.4042107,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deine Werkstatt",
     "retailer": "deine_werkstatt",
     "shop": "car_repair",
     "latitude": 47.9567346,
-    "longitude": 16.4024233
+    "longitude": 16.4024233,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -35,14 +48,22 @@
     "shop": "chemist",
     "latitude": 47.9552594,
     "longitude": 16.4028963,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Elektrogeräte Gabriel",
     "retailer": "elektrogerate_gabriel",
     "shop": "appliance",
     "latitude": 47.9539209,
-    "longitude": 16.4051917
+    "longitude": 16.4051917,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Erstings Family",
@@ -50,7 +71,9 @@
     "shop": "clothes",
     "latitude": 47.9551875,
     "longitude": 16.4029811,
-    "brand": "Erstings Family"
+    "brand": "Erstings Family",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -58,35 +81,47 @@
     "shop": "supermarket",
     "latitude": 47.9542748,
     "longitude": 16.4036919,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Futteroase",
     "retailer": "futteroase",
     "shop": "pet",
     "latitude": 47.9566787,
-    "longitude": 16.4022135
+    "longitude": 16.4022135,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fußpflege und Kosmetik Miriam",
     "retailer": "fupflege_und_kosmetik_miriam",
     "shop": "beauty",
     "latitude": 47.9578194,
-    "longitude": 16.4008956
+    "longitude": 16.4008956,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gebrauchtwagen Brunner",
     "retailer": "gebrauchtwagen_brunner",
     "shop": "car",
     "latitude": 47.9563601,
-    "longitude": 16.4027556
+    "longitude": 16.4027556,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hauer der Biobauer",
     "retailer": "hauer_der_biobauer",
     "shop": "farm",
     "latitude": 47.9500227,
-    "longitude": 16.4071297
+    "longitude": 16.4071297,
+    "postcode": "2483",
+    "city": "Weigelsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -94,21 +129,31 @@
     "shop": "supermarket",
     "latitude": 47.955452,
     "longitude": 16.4037489,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Mozelt",
     "retailer": "kfz_mozelt",
     "shop": "car_repair",
     "latitude": 47.9531215,
-    "longitude": 16.4061987
+    "longitude": 16.4061987,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ-Meisterbetrieb ARTNER",
     "retailer": "kfz_meisterbetrieb_artner",
     "shop": "car_repair",
     "latitude": 47.9537872,
-    "longitude": 16.4044604
+    "longitude": 16.4044604,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -116,7 +161,9 @@
     "shop": "clothes",
     "latitude": 47.9554638,
     "longitude": 16.4026643,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -124,7 +171,9 @@
     "shop": "books",
     "latitude": 47.9553586,
     "longitude": 16.4027974,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -132,14 +181,20 @@
     "shop": "supermarket",
     "latitude": 47.9560378,
     "longitude": 16.4018434,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.9552564,
-    "longitude": 16.4028123
+    "longitude": 16.4028123,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -147,20 +202,26 @@
     "shop": "clothes",
     "latitude": 47.9550941,
     "longitude": 16.4030702,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pearl Ebreichsdorf",
     "retailer": "pearl_ebreichsdorf",
     "shop": "optician",
     "latitude": 47.9555221,
-    "longitude": 16.4024895
+    "longitude": 16.4024895,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wintersperger",
     "retailer": "wintersperger",
     "shop": "car_repair",
     "latitude": 47.9537122,
-    "longitude": 16.4053762
+    "longitude": 16.4053762,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

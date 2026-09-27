@@ -4,7 +4,9 @@
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.0199533,
-    "longitude": 16.7859147
+    "longitude": 16.7859147,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ströck",
@@ -12,6 +14,10 @@
     "shop": "bakery",
     "latitude": 48.0192132,
     "longitude": 16.7806234,
-    "brand": "Ströck"
+    "brand": "Ströck",
+    "postcode": "2460",
+    "city": "Bruckneudorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

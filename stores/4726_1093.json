@@ -4,48 +4,66 @@
     "retailer": "auto_stucken",
     "shop": "car",
     "latitude": 47.2681148,
-    "longitude": 10.9365481
+    "longitude": 10.9365481,
+    "postcode": "6424",
+    "city": "Silz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäcker Rudigier",
     "retailer": "backer_rudigier",
     "shop": "bakery",
     "latitude": 47.2680875,
-    "longitude": 10.935991
+    "longitude": 10.935991,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur",
     "retailer": "friseur",
     "shop": "hairdresser",
     "latitude": 47.2680743,
-    "longitude": 10.936139
+    "longitude": 10.936139,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haar genau",
     "retailer": "haar_genau",
     "shop": "hairdresser",
     "latitude": 47.2664446,
-    "longitude": 10.930193
+    "longitude": 10.930193,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Richis Checkpoint",
     "retailer": "richis_checkpoint",
     "shop": "car_repair",
     "latitude": 47.2685549,
-    "longitude": 10.9318655
+    "longitude": 10.9318655,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schreibwarengeschäft Scheiber",
     "retailer": "schreibwarengeschaft_scheiber",
     "shop": "stationery",
     "latitude": 47.2681103,
-    "longitude": 10.9362732
+    "longitude": 10.9362732,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Silz Shop",
     "retailer": "silz_shop",
     "shop": "department_store",
     "latitude": 47.2681141,
-    "longitude": 10.9361935
+    "longitude": 10.9361935,
+    "postcode": "6424",
+    "city": "Silz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

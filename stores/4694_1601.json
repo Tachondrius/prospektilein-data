@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 46.940779,
     "longitude": 16.0109355,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8350",
+    "city": "Fehring",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -13,14 +17,22 @@
     "shop": "chemist",
     "latitude": 46.9410721,
     "longitude": 16.0105675,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8350",
+    "city": "Fehring",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lutterschmidt",
     "retailer": "lutterschmidt",
     "shop": "doityourself",
     "latitude": 46.9402011,
-    "longitude": 16.0129681
+    "longitude": 16.0129681,
+    "postcode": "8350",
+    "city": "Fehring",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -28,6 +40,10 @@
     "shop": "clothes",
     "latitude": 46.9409728,
     "longitude": 16.0101885,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8350",
+    "city": "Fehring",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

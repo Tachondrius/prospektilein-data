@@ -4,20 +4,30 @@
     "retailer": "donaugarten",
     "shop": "farm",
     "latitude": 48.3657554,
-    "longitude": 15.4211404
+    "longitude": 15.4211404,
+    "postcode": "3620",
+    "city": "Spitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Vinothek Lahrnsteig",
     "retailer": "vinothek_lahrnsteig",
     "shop": "wine",
     "latitude": 48.3621596,
-    "longitude": 15.4287399
+    "longitude": 15.4287399,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Lahrnsteig",
     "retailer": "weingut_lahrnsteig",
     "shop": "wine",
     "latitude": 48.3622109,
-    "longitude": 15.4289583
+    "longitude": 15.4289583,
+    "postcode": "3621",
+    "city": "Rossatz-Arnsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

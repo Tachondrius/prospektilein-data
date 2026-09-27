@@ -4,27 +4,42 @@
     "retailer": "fleischerei_brand",
     "shop": "butcher",
     "latitude": 46.7798415,
-    "longitude": 15.5377526
+    "longitude": 15.5377526,
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Skergeth",
     "retailer": "skergeth",
     "shop": "medical_supply",
     "latitude": 46.7796042,
-    "longitude": 15.5397752
+    "longitude": 15.5397752,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vinzi-Markt",
     "retailer": "vinzi_markt",
     "shop": "variety_store",
     "latitude": 46.7798391,
-    "longitude": 15.5392774
+    "longitude": 15.5392774,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vinzi-Shop",
     "retailer": "vinzi_shop",
     "shop": "variety_store",
     "latitude": 46.7794801,
-    "longitude": 15.5399732
+    "longitude": 15.5399732,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

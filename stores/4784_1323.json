@@ -4,20 +4,30 @@
     "retailer": "baier",
     "shop": "massage",
     "latitude": 47.8406801,
-    "longitude": 13.2345115
+    "longitude": 13.2345115,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Car Service GmbH Frenkenberger",
     "retailer": "car_service_gmbh_frenkenberger",
     "shop": "car_repair",
     "latitude": 47.8432004,
-    "longitude": 13.2341239
+    "longitude": 13.2341239,
+    "postcode": "5303",
+    "city": "Thalgau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "D'Kramerin",
     "retailer": "d_kramerin",
     "shop": "convenience",
     "latitude": 47.8416306,
-    "longitude": 13.23714
+    "longitude": 13.23714,
+    "postcode": "5303",
+    "city": "Thalgau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

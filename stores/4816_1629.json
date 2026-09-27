@@ -4,14 +4,20 @@
     "retailer": "friseur_call_for_cut",
     "shop": "hairdresser",
     "latitude": 48.1666485,
-    "longitude": 16.2996393
+    "longitude": 16.2996393,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mein Bio Laden",
     "retailer": "mein_bio_laden",
     "shop": "supermarket",
     "latitude": 48.1695418,
-    "longitude": 16.2954872
+    "longitude": 16.2954872,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -19,13 +25,19 @@
     "shop": "supermarket",
     "latitude": 48.1662931,
     "longitude": 16.2996092,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Automat",
     "retailer": "tabak_automat",
     "shop": "tobacco",
     "latitude": 48.1663729,
-    "longitude": 16.2995817
+    "longitude": 16.2995817,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

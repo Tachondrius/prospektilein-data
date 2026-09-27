@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 48.0943004,
     "longitude": 16.2823982,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,77 +15,111 @@
     "shop": "chemist",
     "latitude": 48.0952562,
     "longitude": 16.2840712,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Das Riff",
     "retailer": "das_riff",
     "shop": "pet",
     "latitude": 48.0980017,
-    "longitude": 16.2839649
+    "longitude": 16.2839649,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Destillerie Gallhuber",
     "retailer": "destillerie_gallhuber",
     "shop": "alcohol",
     "latitude": 48.0990534,
-    "longitude": 16.2843505
+    "longitude": 16.2843505,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Elisabeth Grohs",
     "retailer": "elisabeth_grohs",
     "shop": "florist",
     "latitude": 48.0933043,
-    "longitude": 16.2832672
+    "longitude": 16.2832672,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "friendly",
     "retailer": "friendly",
     "shop": "supermarket",
     "latitude": 48.0936627,
-    "longitude": 16.2845654
+    "longitude": 16.2845654,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gitti's Frisurenstüberl",
     "retailer": "gitti_s_frisurenstuberl",
     "shop": "hairdresser",
     "latitude": 48.0926306,
-    "longitude": 16.2853591
+    "longitude": 16.2853591,
+    "postcode": "2340",
+    "city": "Mödling",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Predl",
     "retailer": "gartnerei_predl",
     "shop": "florist",
     "latitude": 48.0934152,
-    "longitude": 16.2817631
+    "longitude": 16.2817631,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haarfee",
     "retailer": "haarfee",
     "shop": "hairdresser",
     "latitude": 48.0999858,
-    "longitude": 16.2840532
+    "longitude": 16.2840532,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haargenau",
     "retailer": "haargenau",
     "shop": "hairdresser",
     "latitude": 48.0987321,
-    "longitude": 16.2836796
+    "longitude": 16.2836796,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Löw Touristik",
     "retailer": "low_touristik",
     "shop": "travel_agency",
     "latitude": 48.0984413,
-    "longitude": 16.2840256
+    "longitude": 16.2840256,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Orientteppiche Mehdipour",
     "retailer": "orientteppiche_mehdipour",
     "shop": "carpet",
     "latitude": 48.094843,
-    "longitude": 16.2839191
+    "longitude": 16.2839191,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny Markt",
@@ -91,13 +127,21 @@
     "shop": "supermarket",
     "latitude": 48.0953858,
     "longitude": 16.2840666,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Veronika Heger",
     "retailer": "veronika_heger",
     "shop": "newsagent",
     "latitude": 48.0988553,
-    "longitude": 16.2840362
+    "longitude": 16.2840362,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

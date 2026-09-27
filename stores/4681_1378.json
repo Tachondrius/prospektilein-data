@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 46.81355,
     "longitude": 13.7899505,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Weissensteiner",
     "retailer": "backerei_weissensteiner",
     "shop": "bakery",
     "latitude": 46.8128758,
-    "longitude": 13.7805686
+    "longitude": 13.7805686,
+    "postcode": "9546",
+    "city": "Bad Kleinkirchheim",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hervis",
@@ -20,7 +26,9 @@
     "shop": "sports",
     "latitude": 46.8135664,
     "longitude": 13.7885219,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Intersport",
@@ -28,7 +36,9 @@
     "shop": "sports",
     "latitude": 46.8128859,
     "longitude": 13.780966,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -36,6 +46,10 @@
     "shop": "supermarket",
     "latitude": 46.8135204,
     "longitude": 13.7888411,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9546",
+    "city": "Bad Kleinkirchheim",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

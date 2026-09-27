@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 46.7499095,
     "longitude": 12.4214237,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "CARTEC-GMBH",
     "retailer": "cartec_gmbh",
     "shop": "car_repair",
     "latitude": 46.7450278,
-    "longitude": 12.4217794
+    "longitude": 12.4217794,
+    "postcode": "9920",
+    "city": "Sillian",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lagerhaus",
@@ -20,6 +26,10 @@
     "shop": "doityourself",
     "latitude": 46.7456412,
     "longitude": 12.4240668,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "9920",
+    "city": "Sillian",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

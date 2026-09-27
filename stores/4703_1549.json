@@ -4,14 +4,22 @@
     "retailer": "fleischerei_schonberger",
     "shop": "butcher",
     "latitude": 47.0351882,
-    "longitude": 15.4930818
+    "longitude": 15.4930818,
+    "postcode": "8074",
+    "city": "Raaba-Grambach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofladen Carotte",
     "retailer": "hofladen_carotte",
     "shop": "farm",
     "latitude": 47.0371697,
-    "longitude": 15.4933371
+    "longitude": 15.4933371,
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -19,20 +27,30 @@
     "shop": "supermarket",
     "latitude": 47.034749,
     "longitude": 15.4926031,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8074",
+    "city": "Raaba",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.0346799,
-    "longitude": 15.4923653
+    "longitude": 15.4923653,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Weinhof Auer",
     "retailer": "weinhof_auer",
     "shop": "wine",
     "latitude": 47.0346017,
-    "longitude": 15.4935536
+    "longitude": 15.4935536,
+    "postcode": "8074",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -5,20 +5,28 @@
     "shop": "convenience",
     "latitude": 47.5097267,
     "longitude": 12.1200335,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuh-Fuchs",
     "retailer": "schuh_fuchs",
     "shop": "shoes",
     "latitude": 47.5098768,
-    "longitude": 12.1202604
+    "longitude": 12.1202604,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Variety Store",
     "retailer": "shop_variety_store",
     "shop": "variety_store",
     "latitude": 47.506812,
-    "longitude": 12.1245281
+    "longitude": 12.1245281,
+    "postcode": "6323",
+    "city": "Bad Häring",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,20 +5,30 @@
     "shop": "car",
     "latitude": 47.9259072,
     "longitude": 13.8151871,
-    "brand": "Alfa Romeo, Fiat, Abarth, Dodge"
+    "brand": "Alfa Romeo, Fiat, Abarth, Dodge",
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fraesershop.at - by Grampelhuber GmbH",
     "retailer": "fraesershop_at_by_grampelhuber_gmbh",
     "shop": "hardware",
     "latitude": 47.9269872,
-    "longitude": 13.8144439
+    "longitude": 13.8144439,
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "IQ Bürotechnik",
     "retailer": "iq_burotechnik",
     "shop": "computer",
     "latitude": 47.9252973,
-    "longitude": 13.814626
+    "longitude": 13.814626,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

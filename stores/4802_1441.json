@@ -4,7 +4,9 @@
     "retailer": "blumen_angerer",
     "shop": "florist",
     "latitude": 48.0294452,
-    "longitude": 14.4135985
+    "longitude": 14.4135985,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -12,20 +14,30 @@
     "shop": "supermarket",
     "latitude": 48.0257698,
     "longitude": 14.4175491,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mammut",
     "retailer": "mammut",
     "shop": "outdoor",
     "latitude": 48.0299346,
-    "longitude": 14.4177072
+    "longitude": 14.4177072,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Winkler",
     "retailer": "winkler",
     "shop": "bakery",
     "latitude": 48.0299058,
-    "longitude": 14.410491
+    "longitude": 14.410491,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

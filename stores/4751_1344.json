@@ -4,13 +4,17 @@
     "retailer": "ski_rental",
     "shop": "sports",
     "latitude": 47.5151668,
-    "longitude": 13.4499498
+    "longitude": 13.4499498,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.5199016,
-    "longitude": 13.4489176
+    "longitude": 13.4489176,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

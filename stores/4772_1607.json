@@ -4,7 +4,11 @@
     "retailer": "asoss_yoresel",
     "shop": "grocery",
     "latitude": 47.7226294,
-    "longitude": 16.0788652
+    "longitude": 16.0788652,
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,21 +16,29 @@
     "shop": "supermarket",
     "latitude": 47.7234717,
     "longitude": 16.0784112,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.7258447,
-    "longitude": 16.0746379
+    "longitude": 16.0746379,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ciao Bella",
     "retailer": "ciao_bella",
     "shop": "clothes",
     "latitude": 47.7214018,
-    "longitude": 16.0799881
+    "longitude": 16.0799881,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichmann",
@@ -34,7 +46,9 @@
     "shop": "shoes",
     "latitude": 47.7234674,
     "longitude": 16.0791278,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Der Mann",
@@ -42,7 +56,11 @@
     "shop": "bakery",
     "latitude": 47.7235424,
     "longitude": 16.0796944,
-    "brand": "Der Mann"
+    "brand": "Der Mann",
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -50,7 +68,11 @@
     "shop": "chemist",
     "latitude": 47.7234674,
     "longitude": 16.0788488,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -58,42 +80,64 @@
     "shop": "supermarket",
     "latitude": 47.7277522,
     "longitude": 16.0768117,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Isabella",
     "retailer": "friseur_isabella",
     "shop": "hairdresser",
     "latitude": 47.7212235,
-    "longitude": 16.0797283
+    "longitude": 16.0797283,
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gel & GÖR GmbH",
     "retailer": "gel_und_gor_gmbh",
     "shop": "supermarket",
     "latitude": 47.7264466,
-    "longitude": 16.074321
+    "longitude": 16.074321,
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gräftner",
     "retailer": "graftner",
     "shop": "fabric",
     "latitude": 47.7211566,
-    "longitude": 16.079929
+    "longitude": 16.079929,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Handy shop",
     "retailer": "handy_shop",
     "shop": "mobile_phone",
     "latitude": 47.7238987,
-    "longitude": 16.0795373
+    "longitude": 16.0795373,
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Ilhan POLAT",
     "retailer": "kfz_ilhan_polat",
     "shop": "car_repair",
     "latitude": 47.7299013,
-    "longitude": 16.0771052
+    "longitude": 16.0771052,
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kfz-Technik Grabner",
@@ -101,7 +145,11 @@
     "shop": "car;car_repair",
     "latitude": 47.7231645,
     "longitude": 16.0701958,
-    "brand": "Aixam"
+    "brand": "Aixam",
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -109,14 +157,21 @@
     "shop": "books",
     "latitude": 47.723894,
     "longitude": 16.0798319,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "2620",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidan Massage",
     "retailer": "lidan_massage",
     "shop": "massage",
     "latitude": 47.7226954,
-    "longitude": 16.0787266
+    "longitude": 16.0787266,
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -124,21 +179,29 @@
     "shop": "supermarket",
     "latitude": 47.7249197,
     "longitude": 16.0779256,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lumturije Osmanaj",
     "retailer": "lumturije_osmanaj",
     "shop": "clothes",
     "latitude": 47.7208744,
-    "longitude": 16.0799415
+    "longitude": 16.0799415,
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Matratzen Concord",
     "retailer": "matratzen_concord",
     "shop": "bed",
     "latitude": 47.7263209,
-    "longitude": 16.0744471
+    "longitude": 16.0744471,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Möbelix",
@@ -146,7 +209,9 @@
     "shop": "furniture",
     "latitude": 47.7249439,
     "longitude": 16.0769035,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Müller",
@@ -154,7 +219,11 @@
     "shop": "chemist",
     "latitude": 47.7249652,
     "longitude": 16.078262,
-    "brand": "Müller"
+    "brand": "Müller",
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "New Yorker",
@@ -162,28 +231,36 @@
     "shop": "clothes",
     "latitude": 47.7234566,
     "longitude": 16.0799002,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Panoramapark",
     "retailer": "panoramapark",
     "shop": "mall",
     "latitude": 47.7235881,
-    "longitude": 16.0797961
+    "longitude": 16.0797961,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PC Shop Neunkirchen",
     "retailer": "pc_shop_neunkirchen",
     "shop": "computer",
     "latitude": 47.7265699,
-    "longitude": 16.0758396
+    "longitude": 16.0758396,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Radfreund",
     "retailer": "radfreund",
     "shop": "repair",
     "latitude": 47.7282356,
-    "longitude": 16.0774175
+    "longitude": 16.0774175,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ruefa",
@@ -191,14 +268,18 @@
     "shop": "travel_agency",
     "latitude": 47.7234602,
     "longitude": 16.0793692,
-    "brand": "Ruefa"
+    "brand": "Ruefa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sanag",
     "retailer": "sanag",
     "shop": "medical_supply",
     "latitude": 47.7218731,
-    "longitude": 16.0791995
+    "longitude": 16.0791995,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "shoe4you",
@@ -206,7 +287,9 @@
     "shop": "shoes",
     "latitude": 47.723903,
     "longitude": 16.0792601,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -214,13 +297,17 @@
     "shop": "clothes",
     "latitude": 47.7239069,
     "longitude": 16.0790103,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Yellow",
     "retailer": "yellow",
     "shop": "shoes",
     "latitude": 47.7262767,
-    "longitude": 16.0743499
+    "longitude": 16.0743499,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

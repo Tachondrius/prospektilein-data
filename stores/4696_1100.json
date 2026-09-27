@@ -4,35 +4,47 @@
     "retailer": "dirndl_und_more_gossl_solden",
     "shop": "clothes",
     "latitude": 46.9645505,
-    "longitude": 11.0075359
+    "longitude": 11.0075359,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "EP:Falkner & Riml",
     "retailer": "ep_falkner_und_riml",
     "shop": "electronics",
     "latitude": 46.9655075,
-    "longitude": 11.007916
+    "longitude": 11.007916,
+    "postcode": "6450",
+    "city": "Sölden",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fiegl Harald",
     "retailer": "fiegl_harald",
     "shop": "hairdresser",
     "latitude": 46.9658821,
-    "longitude": 11.0070031
+    "longitude": 11.0070031,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Glanz & Glory",
     "retailer": "glanz_und_glory",
     "shop": "fashion_accessories",
     "latitude": 46.9671858,
-    "longitude": 11.0077164
+    "longitude": 11.0077164,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Glanzpunkte",
     "retailer": "glanzpunkte",
     "shop": "gift",
     "latitude": 46.9654921,
-    "longitude": 11.0076619
+    "longitude": 11.0076619,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -40,7 +52,9 @@
     "shop": "sports",
     "latitude": 46.9601857,
     "longitude": 11.0088753,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -48,7 +62,9 @@
     "shop": "sports",
     "latitude": 46.96519,
     "longitude": 11.007277,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -56,21 +72,31 @@
     "shop": "sports",
     "latitude": 46.9676508,
     "longitude": 11.008074,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6450",
+    "city": "Sölden",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lindeberg",
     "retailer": "lindeberg",
     "shop": "clothes",
     "latitude": 46.9686209,
-    "longitude": 11.0078661
+    "longitude": 11.0078661,
+    "postcode": "6450",
+    "city": "Sölden",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MIETSKI",
     "retailer": "mietski",
     "shop": "rental",
     "latitude": 46.9687055,
-    "longitude": 11.0098002
+    "longitude": 11.0098002,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -78,7 +104,9 @@
     "shop": "convenience",
     "latitude": 46.9691923,
     "longitude": 11.0083341,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Moreboards",
@@ -86,7 +114,9 @@
     "shop": "clothes",
     "latitude": 46.9674965,
     "longitude": 11.0075725,
-    "brand": "Moreboards"
+    "brand": "Moreboards",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Napapijri",
@@ -94,21 +124,27 @@
     "shop": "clothes",
     "latitude": 46.9680947,
     "longitude": 11.0080754,
-    "brand": "Napapijri"
+    "brand": "Napapijri",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Optik Scharnagl",
     "retailer": "optik_scharnagl",
     "shop": "optician",
     "latitude": 46.9681773,
-    "longitude": 11.0078853
+    "longitude": 11.0078853,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Plangger",
     "retailer": "plangger",
     "shop": "deli",
     "latitude": 46.9646435,
-    "longitude": 11.0073962
+    "longitude": 11.0073962,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -116,69 +152,93 @@
     "shop": "supermarket",
     "latitude": 46.9645497,
     "longitude": 11.0078748,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6450",
+    "city": "Sölden",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Speck Stube Handl Tyrol",
     "retailer": "speck_stube_handl_tyrol",
     "shop": "butcher",
     "latitude": 46.9659533,
-    "longitude": 11.0071823
+    "longitude": 11.0071823,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport4You",
     "retailer": "sport4you",
     "shop": "sports",
     "latitude": 46.9618258,
-    "longitude": 11.0082869
+    "longitude": 11.0082869,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport4You",
     "retailer": "sport4you",
     "shop": "sports",
     "latitude": 46.9699892,
-    "longitude": 11.0093657
+    "longitude": 11.0093657,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sporthütte Fiegl",
     "retailer": "sporthutte_fiegl",
     "shop": "sports",
     "latitude": 46.9637663,
-    "longitude": 11.004609
+    "longitude": 11.004609,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sportlife Brugger",
     "retailer": "sportlife_brugger",
     "shop": "sports",
     "latitude": 46.9664539,
-    "longitude": 11.0071509
+    "longitude": 11.0071509,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Style",
     "retailer": "style",
     "shop": "clothes",
     "latitude": 46.965186,
-    "longitude": 11.007686
+    "longitude": 11.007686,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tyrol Geniessen",
     "retailer": "tyrol_geniessen",
     "shop": "alcohol",
     "latitude": 46.9660139,
-    "longitude": 11.0071758
+    "longitude": 11.0071758,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ötztal Bäck",
     "retailer": "otztal_back",
     "shop": "bakery",
     "latitude": 46.9641385,
-    "longitude": 11.0075763
+    "longitude": 11.0075763,
+    "postcode": "6450",
+    "city": "Sölden",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ötztal Bäck",
     "retailer": "otztal_back",
     "shop": "bakery",
     "latitude": 46.9694531,
-    "longitude": 11.0096646
+    "longitude": 11.0096646,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

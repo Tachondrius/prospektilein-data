@@ -4,7 +4,9 @@
     "retailer": "axis_filmproduktion_gmbh",
     "shop": "electronics",
     "latitude": 47.9719499,
-    "longitude": 16.2228626
+    "longitude": 16.2228626,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bellaflora",
@@ -12,7 +14,9 @@
     "shop": "garden_centre",
     "latitude": 47.9754411,
     "longitude": 16.2221103,
-    "brand": "Bellaflora"
+    "brand": "Bellaflora",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Plus",
@@ -20,7 +24,9 @@
     "shop": "supermarket",
     "latitude": 47.9775832,
     "longitude": 16.2219962,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -28,21 +34,31 @@
     "shop": "chemist",
     "latitude": 47.9774137,
     "longitude": 16.2220189,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2540",
+    "city": "Bad Vöslau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Elektronic Lauermann",
     "retailer": "elektronic_lauermann",
     "shop": "electronics",
     "latitude": 47.9784075,
-    "longitude": 16.2200198
+    "longitude": 16.2200198,
+    "postcode": "2540",
+    "city": "Bad Vöslau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Flieg & Spar",
     "retailer": "flieg_und_spar",
     "shop": "travel_agency",
     "latitude": 47.9773491,
-    "longitude": 16.2216032
+    "longitude": 16.2216032,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fussl",
@@ -50,7 +66,9 @@
     "shop": "clothes",
     "latitude": 47.9768373,
     "longitude": 16.2219787,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -58,7 +76,11 @@
     "shop": "supermarket",
     "latitude": 47.9783963,
     "longitude": 16.2219096,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2540",
+    "city": "Bad Vöslau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "JYSK",
@@ -66,21 +88,31 @@
     "shop": "furniture",
     "latitude": 47.976509,
     "longitude": 16.22098,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "2540",
+    "city": "Bad Vöslau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Fachbetrieb Tretthann",
     "retailer": "kfz_fachbetrieb_tretthann",
     "shop": "car_repair",
     "latitude": 47.9738279,
-    "longitude": 16.2203237
+    "longitude": 16.2203237,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kfz-Meier",
     "retailer": "kfz_meier",
     "shop": "car_repair",
     "latitude": 47.9728506,
-    "longitude": 16.2216993
+    "longitude": 16.2216993,
+    "postcode": "2540",
+    "city": "Bad Vöslau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -88,7 +120,9 @@
     "shop": "clothes",
     "latitude": 47.9770971,
     "longitude": 16.2200781,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klipp",
@@ -96,7 +130,9 @@
     "shop": "hairdresser",
     "latitude": 47.9772306,
     "longitude": 16.2216595,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -104,20 +140,30 @@
     "shop": "supermarket",
     "latitude": 47.9765704,
     "longitude": 16.2202244,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2540",
+    "city": "Bad Vöslau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.9774854,
-    "longitude": 16.221745
+    "longitude": 16.221745,
+    "postcode": "2540",
+    "city": "Bad Vöslau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak-Trafik Michael Weber",
     "retailer": "tabak_trafik_michael_weber",
     "shop": "tobacco",
     "latitude": 47.9774424,
-    "longitude": 16.2216112
+    "longitude": 16.2216112,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

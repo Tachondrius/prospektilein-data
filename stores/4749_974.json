@@ -5,27 +5,41 @@
     "shop": "supermarket",
     "latitude": 47.4926039,
     "longitude": 9.7425256,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "6900",
+    "city": "Bregenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kiosk im Dorf",
     "retailer": "kiosk_im_dorf",
     "shop": "kiosk",
     "latitude": 47.4978541,
-    "longitude": 9.7449292
+    "longitude": 9.7449292,
+    "postcode": "6900",
+    "city": "Bregenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Maischön",
     "retailer": "maischon",
     "shop": "hairdresser",
     "latitude": 47.492704,
-    "longitude": 9.7425404
+    "longitude": 9.7425404,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mangold Bäckerei langa Marianum Bregenz",
     "retailer": "mangold_backerei_langa_marianum_bregenz",
     "shop": "bakery",
     "latitude": 47.4979146,
-    "longitude": 9.7432076
+    "longitude": 9.7432076,
+    "postcode": "6900",
+    "city": "Bregenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

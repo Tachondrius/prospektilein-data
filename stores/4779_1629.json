@@ -4,28 +4,42 @@
     "retailer": "anker_cafe",
     "shop": "bakery",
     "latitude": 47.7970714,
-    "longitude": 16.294782
+    "longitude": 16.294782,
+    "postcode": "7201",
+    "city": "Neudörfl",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Blumeninge",
     "retailer": "blumeninge",
     "shop": "florist",
     "latitude": 47.7966213,
-    "longitude": 16.2949044
+    "longitude": 16.2949044,
+    "postcode": "7201",
+    "city": "Neudörfl",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bäckerei&Backstube Kaiser",
     "retailer": "backerei_und_backstube_kaiser",
     "shop": "bakery",
     "latitude": 47.7964637,
-    "longitude": 16.2964572
+    "longitude": 16.2964572,
+    "postcode": "7201",
+    "city": "Neudörfl",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Friseur Goyer",
     "retailer": "friseur_goyer",
     "shop": "hairdresser",
     "latitude": 47.7986601,
-    "longitude": 16.2921006
+    "longitude": 16.2921006,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Nah & Frisch",
@@ -33,6 +47,8 @@
     "shop": "supermarket",
     "latitude": 47.795916,
     "longitude": 16.2971867,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "aigner_united_optics",
     "shop": "optician",
     "latitude": 48.2309533,
-    "longitude": 13.9205347
+    "longitude": 13.9205347,
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -12,14 +16,20 @@
     "shop": "supermarket",
     "latitude": 48.2317186,
     "longitude": 13.9203278,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 48.230998,
-    "longitude": 13.9205631
+    "longitude": 13.9205631,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Expert",
@@ -27,35 +37,49 @@
     "shop": "electronics",
     "latitude": 48.2310306,
     "longitude": 13.9206282,
-    "brand": "Expert"
+    "brand": "Expert",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "La Moda - Italian Lifestyle",
     "retailer": "la_moda_italian_lifestyle",
     "shop": "clothes",
     "latitude": 48.2308926,
-    "longitude": 13.9204919
+    "longitude": 13.9204919,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mineralienwelt Glück",
     "retailer": "mineralienwelt_gluck",
     "shop": "gift",
     "latitude": 48.2307107,
-    "longitude": 13.9202822
+    "longitude": 13.9202822,
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Radsache",
     "retailer": "radsache",
     "shop": "bicycle",
     "latitude": 48.2301881,
-    "longitude": 13.9224538
+    "longitude": 13.9224538,
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Seidermann",
     "retailer": "salon_seidermann",
     "shop": "hairdresser",
     "latitude": 48.2311128,
-    "longitude": 13.9207022
+    "longitude": 13.9207022,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -63,27 +87,37 @@
     "shop": "supermarket",
     "latitude": 48.2314322,
     "longitude": 13.9212253,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Strasser",
     "retailer": "strasser",
     "shop": "butcher",
     "latitude": 48.2306228,
-    "longitude": 13.9201972
+    "longitude": 13.9201972,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Waldi's Kult Backstube & Cafe",
     "retailer": "waldi_s_kult_backstube_und_cafe",
     "shop": "bakery",
     "latitude": 48.2308443,
-    "longitude": 13.92133
+    "longitude": 13.92133,
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Welt Laden",
     "retailer": "welt_laden",
     "shop": "yes",
     "latitude": 48.2310034,
-    "longitude": 13.9209425
+    "longitude": 13.9209425,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

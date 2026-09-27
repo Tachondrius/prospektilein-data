@@ -4,20 +4,28 @@
     "retailer": "alpaka_agnes_winzig",
     "shop": "clothes",
     "latitude": 47.9695047,
-    "longitude": 13.0787221
+    "longitude": 13.0787221,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Zillner",
     "retailer": "backerei_zillner",
     "shop": "bakery",
     "latitude": 47.968106,
-    "longitude": 13.0787264
+    "longitude": 13.0787264,
+    "postcode": "5164",
+    "city": "Seeham",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Haarstudio Sissy",
     "retailer": "haarstudio_sissy",
     "shop": "hairdresser",
     "latitude": 47.9682085,
-    "longitude": 13.07869
+    "longitude": 13.07869,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -4,27 +4,37 @@
     "retailer": "friseur_am_platzl",
     "shop": "hairdresser",
     "latitude": 46.8088098,
-    "longitude": 14.8325108
+    "longitude": 14.8325108,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kehraus",
     "retailer": "kehraus",
     "shop": "butcher",
     "latitude": 46.8087402,
-    "longitude": 14.8325046
+    "longitude": 14.8325046,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Matratze Royal",
     "retailer": "matratze_royal",
     "shop": "furniture",
     "latitude": 46.809949,
-    "longitude": 14.8323658
+    "longitude": 14.8323658,
+    "postcode": "9431",
+    "city": "Wolfsberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.8093369,
-    "longitude": 14.8321064
+    "longitude": 14.8321064,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

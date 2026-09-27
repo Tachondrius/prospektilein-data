@@ -4,7 +4,11 @@
     "retailer": "raiffeisen_lagerhaus_horitschon_mattersburg_egen",
     "shop": "hardware",
     "latitude": 47.6047992,
-    "longitude": 16.6218513
+    "longitude": 16.6218513,
+    "postcode": "7301",
+    "city": "Deutschkreutz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -12,27 +16,42 @@
     "shop": "supermarket",
     "latitude": 47.6024293,
     "longitude": 16.6229972,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7301",
+    "city": "Deutschkreutz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Storchennest",
     "retailer": "storchennest",
     "shop": "baby_goods",
     "latitude": 47.602205,
-    "longitude": 16.6235782
+    "longitude": 16.6235782,
+    "postcode": "7301",
+    "city": "Deutschkreutz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Trafik Horvath",
     "retailer": "trafik_horvath",
     "shop": "tobacco",
     "latitude": 47.6005436,
-    "longitude": 16.624949
+    "longitude": 16.624949,
+    "postcode": "7301",
+    "city": "Deutschkreutz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weingut Gager",
     "retailer": "weingut_gager",
     "shop": "wine",
     "latitude": 47.6001486,
-    "longitude": 16.624181
+    "longitude": 16.624181,
+    "postcode": "7301",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

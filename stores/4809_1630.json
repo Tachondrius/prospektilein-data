@@ -4,14 +4,18 @@
     "retailer": "aha_fashion",
     "shop": "clothes",
     "latitude": 48.0947034,
-    "longitude": 16.308278
+    "longitude": 16.308278,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "arte frisura",
     "retailer": "arte_frisura",
     "shop": "hairdresser",
     "latitude": 48.0947001,
-    "longitude": 16.3084704
+    "longitude": 16.3084704,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -19,7 +23,9 @@
     "shop": "supermarket",
     "latitude": 48.095214,
     "longitude": 16.309019,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Radatz",
@@ -27,41 +33,57 @@
     "shop": "butcher",
     "latitude": 48.0952176,
     "longitude": 16.3085268,
-    "brand": "Radatz"
+    "brand": "Radatz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Salon Südstadt",
     "retailer": "salon_sudstadt",
     "shop": "hairdresser",
     "latitude": 48.095217,
-    "longitude": 16.308663
+    "longitude": 16.308663,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sanag",
     "retailer": "sanag",
     "shop": "medical_supply",
     "latitude": 48.0946996,
-    "longitude": 16.3089492
+    "longitude": 16.3089492,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Szihn",
     "retailer": "szihn",
     "shop": "bakery",
     "latitude": 48.0946707,
-    "longitude": 16.3090511
+    "longitude": 16.3090511,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik Silvia Hafner",
     "retailer": "tabak_trafik_silvia_hafner",
     "shop": "tobacco",
     "latitude": 48.0952164,
-    "longitude": 16.3087832
+    "longitude": 16.3087832,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Änderungsschneiderei",
     "retailer": "anderungsschneiderei",
     "shop": "laundry",
     "latitude": 48.095189,
-    "longitude": 16.3067273
+    "longitude": 16.3067273,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

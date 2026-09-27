@@ -5,7 +5,9 @@
     "shop": "shoes",
     "latitude": 48.5999033,
     "longitude": 15.1912672,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fressnapf",
@@ -13,14 +15,18 @@
     "shop": "pet",
     "latitude": 48.5997234,
     "longitude": 15.1912388,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Freyskorn",
     "retailer": "freyskorn",
     "shop": "clothes",
     "latitude": 48.5999038,
-    "longitude": 15.1906802
+    "longitude": 15.1906802,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Möbelix",
@@ -28,14 +34,20 @@
     "shop": "furniture",
     "latitude": 48.5991036,
     "longitude": 15.1904375,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "3910",
+    "city": "Zwettl-Niederösterreich",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pichelbauer Reisen",
     "retailer": "pichelbauer_reisen",
     "shop": "travel_agency",
     "latitude": 48.5985652,
-    "longitude": 15.1970422
+    "longitude": 15.1970422,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "s.Oliver",
@@ -43,6 +55,8 @@
     "shop": "clothes",
     "latitude": 48.5999741,
     "longitude": 15.1904179,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

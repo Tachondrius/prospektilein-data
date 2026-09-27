@@ -4,7 +4,11 @@
     "retailer": "astro",
     "shop": "department_store",
     "latitude": 48.3002374,
-    "longitude": 16.3711508
+    "longitude": 16.3711508,
+    "postcode": "2103",
+    "city": "Langenzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bauhaus",
@@ -12,14 +16,22 @@
     "shop": "doityourself",
     "latitude": 48.3020558,
     "longitude": 16.3705164,
-    "brand": "Bauhaus"
+    "brand": "Bauhaus",
+    "postcode": "2103",
+    "city": "Langenzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BikeStore Wien Nord",
     "retailer": "bikestore_wien_nord",
     "shop": "bicycle",
     "latitude": 48.3001645,
-    "longitude": 16.3711974
+    "longitude": 16.3711974,
+    "postcode": "2103",
+    "city": "Langenzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -27,7 +39,10 @@
     "shop": "chemist",
     "latitude": 48.3016878,
     "longitude": 16.3724004,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2103",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fressnapf",
@@ -35,7 +50,9 @@
     "shop": "pet",
     "latitude": 48.3017352,
     "longitude": 16.3726014,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Möbelix",
@@ -43,7 +60,11 @@
     "shop": "furniture",
     "latitude": 48.3008116,
     "longitude": 16.3729538,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "2103",
+    "city": "Langenzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -51,14 +72,20 @@
     "shop": "stationery",
     "latitude": 48.3006714,
     "longitude": 16.371812,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Radatz Großmarkt",
     "retailer": "radatz_gromarkt",
     "shop": "butcher",
     "latitude": 48.3004963,
-    "longitude": 16.3713426
+    "longitude": 16.3713426,
+    "postcode": "2103",
+    "city": "Langenzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -66,14 +93,18 @@
     "shop": "supermarket",
     "latitude": 48.3027971,
     "longitude": 16.3711901,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wettpunkt",
     "retailer": "wettpunkt",
     "shop": "bookmaker",
     "latitude": 48.30065,
-    "longitude": 16.3709537
+    "longitude": 16.3709537,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zillertaler Trachtenwelt",
@@ -81,6 +112,8 @@
     "shop": "clothes",
     "latitude": 48.3007927,
     "longitude": 16.3717477,
-    "brand": "Zillertaler Trachtenwelt"
+    "brand": "Zillertaler Trachtenwelt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

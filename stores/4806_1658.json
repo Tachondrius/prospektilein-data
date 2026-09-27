@@ -4,7 +4,11 @@
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.0657771,
-    "longitude": 16.5879787
+    "longitude": 16.5879787,
+    "postcode": "2431",
+    "city": "Enzersdorf an der Fischa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 48.0687826,
     "longitude": 16.5868134,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "2432",
+    "city": "Schwadorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -20,6 +28,10 @@
     "shop": "doityourself",
     "latitude": 48.0659876,
     "longitude": 16.5888195,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2431",
+    "city": "Enzersdorf an der Fischa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 47.442829,
     "longitude": 9.6588702,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Italia A Tavola",
     "retailer": "italia_a_tavola",
     "shop": "deli",
     "latitude": 47.4416502,
-    "longitude": 9.6578487
+    "longitude": 9.6578487,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lidl",
@@ -20,6 +26,10 @@
     "shop": "supermarket",
     "latitude": 47.440691,
     "longitude": 9.6586716,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 48.1160103,
     "longitude": 16.3505557,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ferrari Gohm",
     "retailer": "ferrari_gohm",
     "shop": "car",
     "latitude": 48.1171251,
-    "longitude": 16.3535985
+    "longitude": 16.3535985,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -20,7 +28,11 @@
     "shop": "supermarket",
     "latitude": 48.1153919,
     "longitude": 16.3539258,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -28,13 +40,19 @@
     "shop": "supermarket",
     "latitude": 48.1128857,
     "longitude": 16.3578116,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2332",
+    "city": "Hennersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.1151744,
-    "longitude": 16.3536053
+    "longitude": 16.3536053,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

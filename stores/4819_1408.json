@@ -4,20 +4,30 @@
     "retailer": "auto_roitner",
     "shop": "car",
     "latitude": 48.1964045,
-    "longitude": 14.0851928
+    "longitude": 14.0851928,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "CTS",
     "retailer": "cts",
     "shop": "car_repair",
     "latitude": 48.1988136,
-    "longitude": 14.0801459
+    "longitude": 14.0801459,
+    "postcode": "4611",
+    "city": "Buchkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Jessernigg",
     "retailer": "jessernigg",
     "shop": "agrarian",
     "latitude": 48.1928533,
-    "longitude": 14.0896622
+    "longitude": 14.0896622,
+    "postcode": "4614",
+    "city": "Marchtrenk",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

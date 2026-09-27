@@ -4,21 +4,29 @@
     "retailer": "bike_vital",
     "shop": "bicycle",
     "latitude": 47.2935523,
-    "longitude": 11.8745567
+    "longitude": 11.8745567,
+    "postcode": "6272",
+    "city": "Kaltenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "G-Cut Barbershop",
     "retailer": "g_cut_barbershop",
     "shop": "hairdresser",
     "latitude": 47.293528,
-    "longitude": 11.87447
+    "longitude": 11.87447,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kröll",
     "retailer": "kroll",
     "shop": "florist",
     "latitude": 47.2933841,
-    "longitude": 11.8744353
+    "longitude": 11.8744353,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -26,14 +34,20 @@
     "shop": "supermarket",
     "latitude": 47.2901129,
     "longitude": 11.8770982,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6272",
+    "city": "Kaltenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuster Orthopädie Schuhtechnik",
     "retailer": "schuster_orthopadie_schuhtechnik",
     "shop": "shoes",
     "latitude": 47.2931974,
-    "longitude": 11.8743927
+    "longitude": 11.8743927,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -41,20 +55,30 @@
     "shop": "supermarket",
     "latitude": 47.2946956,
     "longitude": 11.8746985,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6272",
+    "city": "Kaltenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spielzeugparadies Zillertal",
     "retailer": "spielzeugparadies_zillertal",
     "shop": "toys",
     "latitude": 47.2918809,
-    "longitude": 11.8751205
+    "longitude": 11.8751205,
+    "postcode": "6272",
+    "city": "Kaltenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vroni's Laden",
     "retailer": "vroni_s_laden",
     "shop": "supermarket",
     "latitude": 47.2934273,
-    "longitude": 11.8744107
+    "longitude": 11.8744107,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

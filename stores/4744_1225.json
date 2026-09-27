@@ -4,34 +4,49 @@
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 47.4494425,
-    "longitude": 12.2559007
+    "longitude": 12.2559007,
+    "postcode": "6364",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Erber Edelbrände",
     "retailer": "erber_edelbrande",
     "shop": "alcohol",
     "latitude": 47.4494535,
-    "longitude": 12.2562259
+    "longitude": 12.2562259,
+    "postcode": "6364",
+    "city": "Brixen im Thale",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Goldschmiede Ehrensberger",
     "retailer": "goldschmiede_ehrensberger",
     "shop": "jewelry",
     "latitude": 47.4496116,
-    "longitude": 12.2566428
+    "longitude": 12.2566428,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hannerl",
     "retailer": "hannerl",
     "shop": "hairdresser",
     "latitude": 47.4495452,
-    "longitude": 12.2580107
+    "longitude": 12.2580107,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.4496894,
-    "longitude": 12.2563764
+    "longitude": 12.2563764,
+    "postcode": "6364",
+    "city": "Brixen im Thale",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

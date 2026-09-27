@@ -4,7 +4,9 @@
     "retailer": "schnittwerk",
     "shop": "hairdresser",
     "latitude": 47.978207,
-    "longitude": 15.1828431
+    "longitude": 15.1828431,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zapfwerk",
@@ -12,6 +14,10 @@
     "shop": "yes",
     "latitude": 47.9781894,
     "longitude": 15.1831303,
-    "brand": "Shell"
+    "brand": "Shell",
+    "postcode": "3283",
+    "city": "St. Anton an der Jeßnitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

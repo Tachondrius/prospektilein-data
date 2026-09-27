@@ -4,20 +4,28 @@
     "retailer": "kastlgreissler",
     "shop": "convenience",
     "latitude": 48.2959827,
-    "longitude": 16.1210129
+    "longitude": 16.1210129,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lugus Getränkeshop",
     "retailer": "lugus_getrankeshop",
     "shop": "beverages",
     "latitude": 48.2910176,
-    "longitude": 16.1205069
+    "longitude": 16.1205069,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MKT - Markus Marzi",
     "retailer": "mkt_markus_marzi",
     "shop": "car_repair",
     "latitude": 48.2964899,
-    "longitude": 16.1267408
+    "longitude": 16.1267408,
+    "postcode": "3434",
+    "city": "Tulbing",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

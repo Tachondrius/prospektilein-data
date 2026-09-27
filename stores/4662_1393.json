@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 46.6223387,
     "longitude": 13.9393435,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9241",
+    "city": "Wernberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eurospar",
@@ -13,27 +17,37 @@
     "shop": "supermarket",
     "latitude": 46.6234619,
     "longitude": 13.9359997,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "9241",
+    "city": "Wernberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.6229795,
-    "longitude": 13.9397107
+    "longitude": 13.9397107,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Klosterladen",
     "retailer": "klosterladen",
     "shop": "convenience",
     "latitude": 46.620606,
-    "longitude": 13.9313079
+    "longitude": 13.9313079,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schlosserei Liposchek",
     "retailer": "schlosserei_liposchek",
     "shop": "hardware",
     "latitude": 46.6238293,
-    "longitude": 13.9387107
+    "longitude": 13.9387107,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

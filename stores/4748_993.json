@@ -4,7 +4,9 @@
     "retailer": "blumen_blutenstil",
     "shop": "florist",
     "latitude": 47.4858996,
-    "longitude": 9.9337603
+    "longitude": 9.9337603,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -12,13 +14,17 @@
     "shop": "supermarket",
     "latitude": 47.4832507,
     "longitude": 9.9347289,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trafik Krumbach",
     "retailer": "trafik_krumbach",
     "shop": "tobacco",
     "latitude": 47.4832427,
-    "longitude": 9.9349106
+    "longitude": 9.9349106,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

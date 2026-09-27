@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 48.3550708,
     "longitude": 14.4249838,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -13,6 +15,10 @@
     "shop": "supermarket",
     "latitude": 48.354402,
     "longitude": 14.4218525,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

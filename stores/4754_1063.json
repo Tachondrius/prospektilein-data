@@ -4,27 +4,37 @@
     "retailer": "bader",
     "shop": "bakery",
     "latitude": 47.5487449,
-    "longitude": 10.6305146
+    "longitude": 10.6305146,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mountain Rider",
     "retailer": "mountain_rider",
     "shop": "bicycle",
     "latitude": 47.5494607,
-    "longitude": 10.6300434
+    "longitude": 10.6300434,
+    "postcode": "6682",
+    "city": "Vils",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabaktrafik Vils",
     "retailer": "tabaktrafik_vils",
     "shop": "tobacco",
     "latitude": 47.549288,
-    "longitude": 10.6300435
+    "longitude": 10.6300435,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vilser Bergbräu, Bierverkauf",
     "retailer": "vilser_bergbrau_bierverkauf",
     "shop": "alcohol",
     "latitude": 47.5495619,
-    "longitude": 10.6304612
+    "longitude": 10.6304612,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

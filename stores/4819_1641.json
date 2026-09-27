@@ -5,7 +5,11 @@
     "shop": "bakery",
     "latitude": 48.1919672,
     "longitude": 16.4132104,
-    "brand": "Anker"
+    "brand": "Anker",
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Autohaus Erdberg",
@@ -13,7 +17,11 @@
     "shop": "car",
     "latitude": 48.190703,
     "longitude": 16.4119032,
-    "brand": "Subaru;Renault;Nissan;Dacia"
+    "brand": "Subaru;Renault;Nissan;Dacia",
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -21,7 +29,11 @@
     "shop": "supermarket",
     "latitude": 48.1924924,
     "longitude": 16.4121713,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -29,14 +41,20 @@
     "shop": "supermarket",
     "latitude": 48.1944907,
     "longitude": 16.4118603,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bäckerei Scherleithner",
     "retailer": "backerei_scherleithner",
     "shop": "bakery",
     "latitude": 48.1904309,
-    "longitude": 16.4143521
+    "longitude": 16.4143521,
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ströck",
@@ -44,6 +62,8 @@
     "shop": "bakery",
     "latitude": 48.193871,
     "longitude": 16.4110399,
-    "brand": "Ströck"
+    "brand": "Ströck",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

@@ -4,20 +4,30 @@
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.3506977,
-    "longitude": 14.1595463
+    "longitude": 14.1595463,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sarina",
     "retailer": "sarina",
     "shop": "clothes",
     "latitude": 48.3507102,
-    "longitude": 14.1595899
+    "longitude": 14.1595899,
+    "postcode": "4111",
+    "city": "Walding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zwirn & Co",
     "retailer": "zwirn_und_co",
     "shop": "fabric",
     "latitude": 48.3507271,
-    "longitude": 14.159661
+    "longitude": 14.159661,
+    "postcode": "4111",
+    "city": "Walding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

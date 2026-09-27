@@ -5,7 +5,11 @@
     "shop": "chemist",
     "latitude": 47.5544022,
     "longitude": 16.0864037,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2870",
+    "city": "Aspangberg-St. Peter",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -13,7 +17,9 @@
     "shop": "clothes",
     "latitude": 47.5545955,
     "longitude": 16.0865101,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -21,7 +27,9 @@
     "shop": "books",
     "latitude": 47.5543627,
     "longitude": 16.089952,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -29,20 +37,28 @@
     "shop": "clothes",
     "latitude": 47.5543063,
     "longitude": 16.0898597,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Optik Klikovitz",
     "retailer": "optik_klikovitz",
     "shop": "optician",
     "latitude": 47.5540096,
-    "longitude": 16.0897815
+    "longitude": 16.0897815,
+    "postcode": "2870",
+    "city": "Aspang-Markt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.5536371,
-    "longitude": 16.0896768
+    "longitude": 16.0896768,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

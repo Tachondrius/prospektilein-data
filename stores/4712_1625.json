@@ -5,20 +5,26 @@
     "shop": "car_repair",
     "latitude": 47.1277162,
     "longitude": 16.2572687,
-    "brand": "BMW"
+    "brand": "BMW",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Kohla-Strauß",
     "retailer": "kohla_strau",
     "shop": "car",
     "latitude": 47.1281171,
-    "longitude": 16.2572612
+    "longitude": 16.2572612,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Masseur",
     "retailer": "masseur",
     "shop": "massage",
     "latitude": 47.1254801,
-    "longitude": 16.2567003
+    "longitude": 16.2567003,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "adele",
     "shop": "clothes",
     "latitude": 47.3853251,
-    "longitude": 9.9023639
+    "longitude": 9.9023639,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bipa",
@@ -12,55 +14,75 @@
     "shop": "chemist",
     "latitude": 47.3833898,
     "longitude": 9.9007742,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6870",
+    "city": "Bezau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Eine Welt",
     "retailer": "eine_welt",
     "shop": "convenience",
     "latitude": 47.3834286,
-    "longitude": 9.9010557
+    "longitude": 9.9010557,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Greber",
     "retailer": "greber",
     "shop": "butcher",
     "latitude": 47.3842185,
-    "longitude": 9.9011761
+    "longitude": 9.9011761,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Katharina Hohenegg Kosmetik",
     "retailer": "katharina_hohenegg_kosmetik",
     "shop": "cosmetics",
     "latitude": 47.3864969,
-    "longitude": 9.9055343
+    "longitude": 9.9055343,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Red Zak",
     "retailer": "red_zak",
     "shop": "hifi",
     "latitude": 47.3858949,
-    "longitude": 9.9012074
+    "longitude": 9.9012074,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sennerei Kriechere",
     "retailer": "sennerei_kriechere",
     "shop": "cheese",
     "latitude": 47.3862598,
-    "longitude": 9.9045937
+    "longitude": 9.9045937,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trevo Kaffeerösterei",
     "retailer": "trevo_kaffeerosterei",
     "shop": "coffee",
     "latitude": 47.3858266,
-    "longitude": 9.9023661
+    "longitude": 9.9023661,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ullis amachigs Lädele",
     "retailer": "ullis_amachigs_ladele",
     "shop": "farm",
     "latitude": 47.3867471,
-    "longitude": 9.9064512
+    "longitude": 9.9064512,
+    "postcode": "6870",
+    "city": "Bezau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

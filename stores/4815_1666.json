@@ -4,20 +4,30 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.151154,
-    "longitude": 16.6674273
+    "longitude": 16.6674273,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Getränkehandel Windisch",
     "retailer": "getrankehandel_windisch",
     "shop": "beverages",
     "latitude": 48.1522548,
-    "longitude": 16.6643343
+    "longitude": 16.6643343,
+    "postcode": "2304",
+    "city": "Mannsdorf an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spargelhof Sulzmann",
     "retailer": "spargelhof_sulzmann",
     "shop": "greengrocer",
     "latitude": 48.1526476,
-    "longitude": 16.6601
+    "longitude": 16.6601,
+    "postcode": "2304",
+    "city": "Mannsdorf an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

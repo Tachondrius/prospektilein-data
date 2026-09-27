@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 46.6341498,
     "longitude": 14.1575752,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9210",
+    "city": "Pörtschach am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Strunkis Salon Hundefriseur",
     "retailer": "strunkis_salon_hundefriseur",
     "shop": "pet_grooming",
     "latitude": 46.6355811,
-    "longitude": 14.1546387
+    "longitude": 14.1546387,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

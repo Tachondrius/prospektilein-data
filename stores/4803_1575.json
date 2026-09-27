@@ -5,14 +5,20 @@
     "shop": "chemist",
     "latitude": 48.0388949,
     "longitude": 15.7594324,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hair & Beauty",
     "retailer": "hair_und_beauty",
     "shop": "hairdresser",
     "latitude": 48.039183,
-    "longitude": 15.7582618
+    "longitude": 15.7582618,
+    "postcode": "3170",
+    "city": "Hainfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -20,7 +26,11 @@
     "shop": "supermarket",
     "latitude": 48.039878,
     "longitude": 15.7591449,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3170",
+    "city": "Hainfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -28,13 +38,20 @@
     "shop": "supermarket",
     "latitude": 48.0389224,
     "longitude": 15.7592116,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "3170",
+    "city": "Hainfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "RentFUN",
     "retailer": "rentfun",
     "shop": "car",
     "latitude": 48.0389967,
-    "longitude": 15.7578492
+    "longitude": 15.7578492,
+    "postcode": "3170",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

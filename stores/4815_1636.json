@@ -5,7 +5,11 @@
     "shop": "doityourself",
     "latitude": 48.1501752,
     "longitude": 16.3608258,
-    "brand": "Bauhaus"
+    "brand": "Bauhaus",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -13,6 +17,8 @@
     "shop": "supermarket",
     "latitude": 48.1591799,
     "longitude": 16.3662584,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

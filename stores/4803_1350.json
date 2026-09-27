@@ -4,13 +4,19 @@
     "retailer": "getrankemarkt_zipfer_brauerei",
     "shop": "beverages",
     "latitude": 48.0372356,
-    "longitude": 13.5025299
+    "longitude": 13.5025299,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ritzinger",
     "retailer": "ritzinger",
     "shop": "kiosk",
     "latitude": 48.0368334,
-    "longitude": 13.5017161
+    "longitude": 13.5017161,
+    "postcode": "4871",
+    "city": "Neukirchen an der Vöckla",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,28 +4,38 @@
     "retailer": "shop_electronics",
     "shop": "electronics",
     "latitude": 47.9805445,
-    "longitude": 15.3217965
+    "longitude": 15.3217965,
+    "postcode": "3213",
+    "city": "Frankenfels",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Electronics",
     "retailer": "shop_electronics",
     "shop": "electronics",
     "latitude": 47.9822905,
-    "longitude": 15.3255543
+    "longitude": 15.3255543,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 47.9820241,
-    "longitude": 15.3244513
+    "longitude": 15.3244513,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Leb",
     "retailer": "leb",
     "shop": "bakery",
     "latitude": 47.9825142,
-    "longitude": 15.3257906
+    "longitude": 15.3257906,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -33,6 +43,8 @@
     "shop": "supermarket",
     "latitude": 47.9804112,
     "longitude": 15.3221925,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

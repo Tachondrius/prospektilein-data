@@ -4,21 +4,29 @@
     "retailer": "altwaren_express_raumungen",
     "shop": "antiques",
     "latitude": 48.1761011,
-    "longitude": 16.3172625
+    "longitude": 16.3172625,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Haar Creativ",
     "retailer": "haar_creativ",
     "shop": "hairdresser",
     "latitude": 48.1740734,
-    "longitude": 16.3127164
+    "longitude": 16.3127164,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hairdesign - Meidling",
     "retailer": "hairdesign_meidling",
     "shop": "hairdresser",
     "latitude": 48.1761489,
-    "longitude": 16.3170251
+    "longitude": 16.3170251,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -26,6 +34,9 @@
     "shop": "supermarket",
     "latitude": 48.1750776,
     "longitude": 16.317703,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1120",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

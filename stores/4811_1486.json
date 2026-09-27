@@ -4,7 +4,11 @@
     "retailer": "blumenzauber",
     "shop": "florist",
     "latitude": 48.1185402,
-    "longitude": 14.8688932
+    "longitude": 14.8688932,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -12,13 +16,21 @@
     "shop": "supermarket",
     "latitude": 48.1142601,
     "longitude": 14.8692907,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zweiradcenter Jandl",
     "retailer": "zweiradcenter_jandl",
     "shop": "motorcycle",
     "latitude": 48.118851,
-    "longitude": 14.8684047
+    "longitude": 14.8684047,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

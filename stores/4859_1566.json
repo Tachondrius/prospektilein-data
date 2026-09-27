@@ -5,21 +5,31 @@
     "shop": "car_repair",
     "latitude": 48.597496,
     "longitude": 15.6687384,
-    "brand": "Hyundai"
+    "brand": "Hyundai",
+    "postcode": "3571",
+    "city": "Gars am Kamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "EP:Honeder",
     "retailer": "ep_honeder",
     "shop": "electronics",
     "latitude": 48.5975204,
-    "longitude": 15.6604638
+    "longitude": 15.6604638,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kolobratnik",
     "retailer": "kolobratnik",
     "shop": "butcher",
     "latitude": 48.597377,
-    "longitude": 15.6607039
+    "longitude": 15.6607039,
+    "postcode": "3571",
+    "city": "Gars am Kamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -27,6 +37,10 @@
     "shop": "supermarket",
     "latitude": 48.5964997,
     "longitude": 15.6607027,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3571",
+    "city": "Gars am Kamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 47.104595,
     "longitude": 13.1323675,
-    "brand": "Ford; Mercedes"
+    "brand": "Ford; Mercedes",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Eurospar",
@@ -13,63 +15,87 @@
     "shop": "supermarket",
     "latitude": 47.1096976,
     "longitude": 13.1335466,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5640",
+    "city": "Bad Gastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Farben Kreuztaler",
     "retailer": "farben_kreuztaler",
     "shop": "paint",
     "latitude": 47.1073657,
-    "longitude": 13.1344948
+    "longitude": 13.1344948,
+    "postcode": "5640",
+    "city": "Bad Gastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "hair & more",
     "retailer": "hair_und_more",
     "shop": "hairdresser",
     "latitude": 47.1080604,
-    "longitude": 13.1349894
+    "longitude": 13.1349894,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Konditorei Thurner",
     "retailer": "konditorei_thurner",
     "shop": "pastry",
     "latitude": 47.1045954,
-    "longitude": 13.1309326
+    "longitude": 13.1309326,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lackner Reisen",
     "retailer": "lackner_reisen",
     "shop": "travel_agency",
     "latitude": 47.1063571,
-    "longitude": 13.1324381
+    "longitude": 13.1324381,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Langlauf-Sportschule Gastein",
     "retailer": "langlauf_sportschule_gastein",
     "shop": "sports",
     "latitude": 47.1056488,
-    "longitude": 13.1338374
+    "longitude": 13.1338374,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "one hair",
     "retailer": "one_hair",
     "shop": "hairdresser",
     "latitude": 47.1054371,
-    "longitude": 13.1325596
+    "longitude": 13.1325596,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Rathgeb",
     "retailer": "rathgeb",
     "shop": "hairdresser",
     "latitude": 47.1039199,
-    "longitude": 13.1306724
+    "longitude": 13.1306724,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Skistall Lederer",
     "retailer": "skistall_lederer",
     "shop": "rental",
     "latitude": 47.1089937,
-    "longitude": 13.1314344
+    "longitude": 13.1314344,
+    "postcode": "5640",
+    "city": "Bad Gastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000",
@@ -77,6 +103,8 @@
     "shop": "sports",
     "latitude": 47.108729,
     "longitude": 13.1341224,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

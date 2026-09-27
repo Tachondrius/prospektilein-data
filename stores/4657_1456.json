@@ -5,13 +5,17 @@
     "shop": "supermarket",
     "latitude": 46.5769181,
     "longitude": 14.5645738,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Elektrogerätehandel",
     "retailer": "elektrogeratehandel",
     "shop": "electronics",
     "latitude": 46.5767666,
-    "longitude": 14.5634755
+    "longitude": 14.5634755,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

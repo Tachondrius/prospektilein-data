@@ -4,7 +4,9 @@
     "retailer": "shop_bookmaker",
     "shop": "bookmaker",
     "latitude": 46.7347293,
-    "longitude": 15.6098216
+    "longitude": 15.6098216,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -12,7 +14,11 @@
     "shop": "chemist",
     "latitude": 46.7386788,
     "longitude": 15.6031886,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8472",
+    "city": "Straß in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eurospar",
@@ -20,14 +26,19 @@
     "shop": "supermarket",
     "latitude": 46.7397297,
     "longitude": 15.6041471,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "city": "Straß in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisör & Barber Firas",
     "retailer": "frisor_und_barber_firas",
     "shop": "hairdresser",
     "latitude": 46.734821,
-    "longitude": 15.6097749
+    "longitude": 15.6097749,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -35,7 +46,11 @@
     "shop": "supermarket",
     "latitude": 46.7387895,
     "longitude": 15.6045413,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8472",
+    "city": "Straß in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -43,14 +58,22 @@
     "shop": "supermarket",
     "latitude": 46.7392555,
     "longitude": 15.6049177,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8472",
+    "city": "Straß in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Josef Thierschädl GmbH",
     "retailer": "josef_thierschadl_gmbh",
     "shop": "car_repair",
     "latitude": 46.7385432,
-    "longitude": 15.6071491
+    "longitude": 15.6071491,
+    "postcode": "8472",
+    "city": "Straß in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -58,7 +81,11 @@
     "shop": "clothes",
     "latitude": 46.7389287,
     "longitude": 15.6034891,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8472",
+    "city": "Straß in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -66,7 +93,11 @@
     "shop": "doityourself",
     "latitude": 46.7381011,
     "longitude": 15.6026637,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8472",
+    "city": "Straß in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -74,13 +105,21 @@
     "shop": "clothes",
     "latitude": 46.7392775,
     "longitude": 15.6037556,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8472",
+    "city": "Straß in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Preis Pirat",
     "retailer": "preis_pirat",
     "shop": "variety_store",
     "latitude": 46.739141,
-    "longitude": 15.6036841
+    "longitude": 15.6036841,
+    "postcode": "8472",
+    "city": "Straß in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

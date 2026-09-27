@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1398418,
     "longitude": 16.3930108,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -13,27 +17,41 @@
     "shop": "chemist",
     "latitude": 48.1398793,
     "longitude": 16.3932747,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Müller Otto – Schilderhersteller",
     "retailer": "mueller",
     "shop": "doityourself",
     "latitude": 48.1384841,
-    "longitude": 16.3986382
+    "longitude": 16.3986382,
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Rad&Service Oberlaa",
     "retailer": "rad_und_service_oberlaa",
     "shop": "bicycle",
     "latitude": 48.1384298,
-    "longitude": 16.3951738
+    "longitude": 16.3951738,
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tretton Ges.m.b.H.",
     "retailer": "tretton_ges_m_b_h",
     "shop": "car_repair",
     "latitude": 48.1385941,
-    "longitude": 16.3954283
+    "longitude": 16.3954283,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

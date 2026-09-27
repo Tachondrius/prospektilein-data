@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 46.8313352,
     "longitude": 12.7816871,
-    "brand": "Audi"
+    "brand": "Audi",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Audi Pontiller",
@@ -13,7 +15,9 @@
     "shop": "car_repair",
     "latitude": 46.831316,
     "longitude": 12.7817204,
-    "brand": "Audi"
+    "brand": "Audi",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -21,14 +25,20 @@
     "shop": "supermarket",
     "latitude": 46.8321217,
     "longitude": 12.7805639,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gärtnerei Unterscheider",
     "retailer": "gartnerei_unterscheider",
     "shop": "garden_centre",
     "latitude": 46.8311686,
-    "longitude": 12.7864319
+    "longitude": 12.7864319,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "JYSK",
@@ -36,7 +46,11 @@
     "shop": "furniture",
     "latitude": 46.8307667,
     "longitude": 12.7832911,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "OBI",
@@ -44,28 +58,44 @@
     "shop": "doityourself",
     "latitude": 46.8326215,
     "longitude": 12.781622,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Plankenauer Reifen",
     "retailer": "plankenauer_reifen",
     "shop": "tyres",
     "latitude": 46.8306892,
-    "longitude": 12.7837139
+    "longitude": 12.7837139,
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "RGO Lagerhaus",
     "retailer": "rgo_lagerhaus",
     "shop": "trade",
     "latitude": 46.830263,
-    "longitude": 12.7896
+    "longitude": 12.7896,
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Skinfit",
     "retailer": "skinfit",
     "shop": "clothes",
     "latitude": 46.8329799,
-    "longitude": 12.7805152
+    "longitude": 12.7805152,
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -73,7 +103,11 @@
     "shop": "supermarket",
     "latitude": 46.8309584,
     "longitude": 12.7824175,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Takko",
@@ -81,7 +115,11 @@
     "shop": "clothes",
     "latitude": 46.8329281,
     "longitude": 12.780898,
-    "brand": "Takko"
+    "brand": "Takko",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TEDi",
@@ -89,7 +127,11 @@
     "shop": "variety_store",
     "latitude": 46.832923,
     "longitude": 12.781044,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TEDi",
@@ -97,7 +139,11 @@
     "shop": "variety_store",
     "latitude": 46.8329587,
     "longitude": 12.7806888,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "VW Audi Pontiller",
@@ -105,6 +151,10 @@
     "shop": "car",
     "latitude": 46.8312506,
     "longitude": 12.7806187,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

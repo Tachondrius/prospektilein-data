@@ -4,7 +4,11 @@
     "retailer": "autohaus_purgstall",
     "shop": "car",
     "latitude": 48.0646034,
-    "longitude": 15.1386046
+    "longitude": 15.1386046,
+    "postcode": "3251",
+    "city": "Purgstall an der Erlauf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 48.0626078,
     "longitude": 15.1375927,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3251",
+    "city": "Purgstall an der Erlauf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -20,28 +28,43 @@
     "shop": "chemist",
     "latitude": 48.0633186,
     "longitude": 15.1368273,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "3251",
+    "city": "Purgstall an der Erlauf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fabris",
     "retailer": "fabris",
     "shop": "doityourself",
     "latitude": 48.0634909,
-    "longitude": 15.1383857
+    "longitude": 15.1383857,
+    "postcode": "3251",
+    "city": "Purgstall",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fürst",
     "retailer": "furst",
     "shop": "bakery",
     "latitude": 48.0620559,
-    "longitude": 15.1393019
+    "longitude": 15.1393019,
+    "postcode": "3251",
+    "city": "Purgstall an der Erlauf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haustechnik Bruckner",
     "retailer": "haustechnik_bruckner",
     "shop": "bathroom_furnishing",
     "latitude": 48.0630318,
-    "longitude": 15.1390601
+    "longitude": 15.1390601,
+    "postcode": "3251",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -49,20 +72,31 @@
     "shop": "supermarket",
     "latitude": 48.0644359,
     "longitude": 15.1345696,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3251",
+    "city": "Purgstall an der Erlauf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofstätter",
     "retailer": "hofstatter",
     "shop": "furniture",
     "latitude": 48.0630423,
-    "longitude": 15.1311857
+    "longitude": 15.1311857,
+    "postcode": "3251",
+    "city": "Purgstall an der Erlauf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Raiffeisen Lagerhaus",
     "retailer": "raiffeisen_lagerhaus",
     "shop": "agrarian",
     "latitude": 48.0656586,
-    "longitude": 15.1325617
+    "longitude": 15.1325617,
+    "postcode": "3251",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

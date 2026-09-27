@@ -4,7 +4,11 @@
     "retailer": "abf_autoarena_bernhard_frischmann",
     "shop": "car",
     "latitude": 47.1454185,
-    "longitude": 10.916416
+    "longitude": 10.916416,
+    "postcode": "6441",
+    "city": "Umhausen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.146176,
     "longitude": 10.9156272,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6441",
+    "city": "Umhausen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

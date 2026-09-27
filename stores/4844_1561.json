@@ -4,7 +4,11 @@
     "retailer": "kfz_weidenauer",
     "shop": "car_repair",
     "latitude": 48.4403558,
-    "longitude": 15.6185956
+    "longitude": 15.6185956,
+    "postcode": "3500",
+    "city": "Gneixendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik",
@@ -12,6 +16,10 @@
     "shop": "tobacco",
     "latitude": 48.4403167,
     "longitude": 15.618888,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "3500",
+    "city": "Gneixendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

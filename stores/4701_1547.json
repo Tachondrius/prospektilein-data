@@ -4,7 +4,11 @@
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.0193921,
-    "longitude": 15.4718471
+    "longitude": 15.4718471,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Martin Auer",
@@ -12,14 +16,22 @@
     "shop": "bakery",
     "latitude": 47.019731,
     "longitude": 15.4717006,
-    "brand": "Martin Auer"
+    "brand": "Martin Auer",
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MK Pools",
     "retailer": "mk_pools",
     "shop": "swimming_pool",
     "latitude": 47.0152556,
-    "longitude": 15.4751448
+    "longitude": 15.4751448,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch punkt",
@@ -27,7 +39,9 @@
     "shop": "supermarket",
     "latitude": 47.0144446,
     "longitude": 15.4739516,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Neuroth",
@@ -35,41 +49,65 @@
     "shop": "hearing_aids",
     "latitude": 47.01886,
     "longitude": 15.4720618,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Promedico Logistikzentrum",
     "retailer": "promedico_logistikzentrum",
     "shop": "wholesale",
     "latitude": 47.0177135,
-    "longitude": 15.4717155
+    "longitude": 15.4717155,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Regro Graz",
     "retailer": "regro_graz",
     "shop": "wholesale",
     "latitude": 47.0173085,
-    "longitude": 15.4710503
+    "longitude": 15.4710503,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schäcke Graz",
     "retailer": "schacke_graz",
     "shop": "wholesale",
     "latitude": 47.0176811,
-    "longitude": 15.4708602
+    "longitude": 15.4708602,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Macher",
     "retailer": "trafik_macher",
     "shop": "tobacco",
     "latitude": 47.0196557,
-    "longitude": 15.472123
+    "longitude": 15.472123,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Volvo Spes",
     "retailer": "volvo_spes",
     "shop": "car",
     "latitude": 47.0144549,
-    "longitude": 15.473025
+    "longitude": 15.473025,
+    "postcode": "8077",
+    "city": "Gössendorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

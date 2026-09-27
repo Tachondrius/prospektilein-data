@@ -4,7 +4,9 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 46.9967221,
-    "longitude": 15.9385987
+    "longitude": 15.9385987,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +14,8 @@
     "shop": "supermarket",
     "latitude": 46.9987959,
     "longitude": 15.9369414,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

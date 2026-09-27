@@ -5,48 +5,64 @@
     "shop": "supermarket",
     "latitude": 47.4936467,
     "longitude": 16.2838517,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2860",
+    "city": "Kirchschlag in der Buckligen Welt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.4954369,
-    "longitude": 16.2873399
+    "longitude": 16.2873399,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.4954456,
-    "longitude": 16.2864968
+    "longitude": 16.2864968,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Opel Knöbel",
     "retailer": "opel_knobel",
     "shop": "motorcycle",
     "latitude": 47.4951179,
-    "longitude": 16.287018
+    "longitude": 16.287018,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Opel Knöbl",
     "retailer": "opel_knobl",
     "shop": "car",
     "latitude": 47.4952593,
-    "longitude": 16.2871736
+    "longitude": 16.2871736,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rembart",
     "retailer": "rembart",
     "shop": "car_repair",
     "latitude": 47.4942106,
-    "longitude": 16.2826795
+    "longitude": 16.2826795,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "VW Beisteiner",
     "retailer": "vw_beisteiner",
     "shop": "car",
     "latitude": 47.4953962,
-    "longitude": 16.2864678
+    "longitude": 16.2864678,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

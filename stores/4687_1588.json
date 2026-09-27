@@ -4,20 +4,28 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 46.8785237,
-    "longitude": 15.8886418
+    "longitude": 15.8886418,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HAAR scharf",
     "retailer": "haar_scharf",
     "shop": "hairdresser",
     "latitude": 46.8733578,
-    "longitude": 15.8838016
+    "longitude": 15.8838016,
+    "postcode": "8343",
+    "city": "Bad Gleichenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Johann Rauch",
     "retailer": "johann_rauch",
     "shop": "butcher",
     "latitude": 46.8729505,
-    "longitude": 15.8824563
+    "longitude": 15.8824563,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

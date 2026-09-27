@@ -5,20 +5,31 @@
     "shop": "car",
     "latitude": 47.6528376,
     "longitude": 13.6116426,
-    "brand": "Fiat"
+    "brand": "Fiat",
+    "postcode": "4822",
+    "city": "Bad Goisern am Hallstättersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mauna Loa Bikeworld",
     "retailer": "mauna_loa_bikeworld",
     "shop": "bicycle",
     "latitude": 47.6501383,
-    "longitude": 13.6119598
+    "longitude": 13.6119598,
+    "postcode": "4822",
+    "city": "Bad Goisern am Hallstättersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Robbow",
     "retailer": "robbow",
     "shop": "sports",
     "latitude": 47.6532834,
-    "longitude": 13.6105317
+    "longitude": 13.6105317,
+    "postcode": "4822",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

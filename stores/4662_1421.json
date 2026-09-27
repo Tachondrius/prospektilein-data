@@ -4,49 +4,63 @@
     "retailer": "boutique_free_dance",
     "shop": "clothes",
     "latitude": 46.6271122,
-    "longitude": 14.2111829
+    "longitude": 14.2111829,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Boutique Joy",
     "retailer": "boutique_joy",
     "shop": "clothes",
     "latitude": 46.6270136,
-    "longitude": 14.212693
+    "longitude": 14.212693,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 46.626872,
-    "longitude": 14.2110437
+    "longitude": 14.2110437,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Haarlekin",
     "retailer": "haarlekin",
     "shop": "hairdresser",
     "latitude": 46.6270155,
-    "longitude": 14.2126246
+    "longitude": 14.2126246,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Happy Hair",
     "retailer": "happy_hair",
     "shop": "hairdresser",
     "latitude": 46.6270974,
-    "longitude": 14.2114377
+    "longitude": 14.2114377,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kolland",
     "retailer": "kolland",
     "shop": "dry_cleaning",
     "latitude": 46.6271094,
-    "longitude": 14.2113613
+    "longitude": 14.2113613,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Koschu",
     "retailer": "koschu",
     "shop": "butcher",
     "latitude": 46.6268736,
-    "longitude": 14.2104596
+    "longitude": 14.2104596,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "PENNY",
@@ -54,6 +68,10 @@
     "shop": "supermarket",
     "latitude": 46.6261442,
     "longitude": 14.2136519,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "9201",
+    "city": "Krumpendorf am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

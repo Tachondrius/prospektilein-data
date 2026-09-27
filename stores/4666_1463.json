@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 46.6626968,
     "longitude": 14.6315336,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9100",
+    "city": "Völkermarkt",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bioladen",
     "retailer": "bioladen",
     "shop": "convenience",
     "latitude": 46.6601783,
-    "longitude": 14.6337579
+    "longitude": 14.6337579,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -20,21 +26,31 @@
     "shop": "chemist",
     "latitude": 46.6604076,
     "longitude": 14.634227,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9100",
+    "city": "Völkermarkt",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fleisch Boutique",
     "retailer": "fleisch_boutique",
     "shop": "butcher",
     "latitude": 46.6665156,
-    "longitude": 14.6363997
+    "longitude": 14.6363997,
+    "postcode": "9100",
+    "city": "Völkermarkt",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kreative Inspirationen",
     "retailer": "kreative_inspirationen",
     "shop": "gift",
     "latitude": 46.6609614,
-    "longitude": 14.6336353
+    "longitude": 14.6336353,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagerhaus",
@@ -42,14 +58,20 @@
     "shop": "doityourself",
     "latitude": 46.6644244,
     "longitude": 14.6368875,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "9100",
+    "city": "Völkermarkt",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lorafo Uhren Schmuck",
     "retailer": "lorafo_uhren_schmuck",
     "shop": "jewelry",
     "latitude": 46.6622019,
-    "longitude": 14.6332025
+    "longitude": 14.6332025,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Müller",
@@ -57,28 +79,44 @@
     "shop": "chemist",
     "latitude": 46.662264,
     "longitude": 14.6318845,
-    "brand": "Müller"
+    "brand": "Müller",
+    "postcode": "9100",
+    "city": "Völkermarkt",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schuh und Sport Frankl",
     "retailer": "schuh_und_sport_frankl",
     "shop": "sports",
     "latitude": 46.6623209,
-    "longitude": 14.6331036
+    "longitude": 14.6331036,
+    "postcode": "9100",
+    "city": "Völkermarkt",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schuhaus Hribernik Gmbh",
     "retailer": "schuhaus_hribernik_gmbh",
     "shop": "shoes",
     "latitude": 46.6624099,
-    "longitude": 14.6330435
+    "longitude": 14.6330435,
+    "postcode": "9100",
+    "city": "Völkermarkt",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sport Mäc",
     "retailer": "sport_mac",
     "shop": "clothes",
     "latitude": 46.6611601,
-    "longitude": 14.6331316
+    "longitude": 14.6331316,
+    "postcode": "9100",
+    "city": "Völkermarkt",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "TEDi",
@@ -86,7 +124,9 @@
     "shop": "variety_store",
     "latitude": 46.6625044,
     "longitude": 14.6329141,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tom Tailor",
@@ -94,13 +134,17 @@
     "shop": "clothes",
     "latitude": 46.6600764,
     "longitude": 14.6337778,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "zeitlos",
     "retailer": "zeitlos",
     "shop": "convenience",
     "latitude": 46.6609359,
-    "longitude": 14.6335674
+    "longitude": 14.6335674,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

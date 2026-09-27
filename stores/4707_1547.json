@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.0787525,
     "longitude": 15.4729648,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -13,27 +17,39 @@
     "shop": "chemist",
     "latitude": 47.0786652,
     "longitude": 15.4737559,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gerald + Astrid",
     "retailer": "gerald_plus_astrid",
     "shop": "hairdresser",
     "latitude": 47.0787841,
-    "longitude": 15.4794086
+    "longitude": 15.4794086,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Maria & Maria",
     "retailer": "maria_und_maria",
     "shop": "hairdresser",
     "latitude": 47.0785201,
-    "longitude": 15.4738438
+    "longitude": 15.4738438,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Verkauf für TV, SAT, Video, HiFi",
     "retailer": "verkauf_fur_tv_sat_video_hifi",
     "shop": "electronics",
     "latitude": 47.0706025,
-    "longitude": 15.4726057
+    "longitude": 15.4726057,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

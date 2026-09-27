@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.2835903,
     "longitude": 16.2095141,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bipa",
@@ -13,21 +17,33 @@
     "shop": "chemist",
     "latitude": 47.2892462,
     "longitude": 16.2073531,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Figaro",
     "retailer": "figaro",
     "shop": "hairdresser",
     "latitude": 47.2843878,
-    "longitude": 16.2079294
+    "longitude": 16.2079294,
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "FRABEX GmbH",
     "retailer": "frabex_gmbh",
     "shop": "yes",
     "latitude": 47.2890349,
-    "longitude": 16.2091354
+    "longitude": 16.2091354,
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Penny",
@@ -35,14 +51,22 @@
     "shop": "supermarket",
     "latitude": 47.2856217,
     "longitude": 16.208327,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ringhofer",
     "retailer": "ringhofer",
     "shop": "bakery",
     "latitude": 47.2895563,
-    "longitude": 16.2097379
+    "longitude": 16.2097379,
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -50,6 +74,10 @@
     "shop": "supermarket",
     "latitude": 47.2897901,
     "longitude": 16.2086044,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

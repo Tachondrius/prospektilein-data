@@ -4,14 +4,20 @@
     "retailer": "motorrad_mahr",
     "shop": "motorcycle",
     "latitude": 47.2400635,
-    "longitude": 9.5779152
+    "longitude": 9.5779152,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schertler",
     "retailer": "schertler",
     "shop": "bakery",
     "latitude": 47.2408748,
-    "longitude": 9.5791128
+    "longitude": 9.5791128,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -19,6 +25,8 @@
     "shop": "supermarket",
     "latitude": 47.2401745,
     "longitude": 9.578175,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

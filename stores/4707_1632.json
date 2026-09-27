@@ -5,28 +5,38 @@
     "shop": "supermarket",
     "latitude": 47.0700384,
     "longitude": 16.321556,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.0723432,
-    "longitude": 16.3202162
+    "longitude": 16.3202162,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.0722091,
-    "longitude": 16.3200663
+    "longitude": 16.3200663,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "City Center Güssing",
     "retailer": "city_center_gussing",
     "shop": "mall",
     "latitude": 47.0702964,
-    "longitude": 16.3211087
+    "longitude": 16.3211087,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Deichmann",
@@ -34,7 +44,11 @@
     "shop": "shoes",
     "latitude": 47.0705326,
     "longitude": 16.3207258,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "KiK",
@@ -42,14 +56,20 @@
     "shop": "clothes",
     "latitude": 47.0706369,
     "longitude": 16.320911,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.0702606,
-    "longitude": 16.3206518
+    "longitude": 16.3206518,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "NKD",
@@ -57,7 +77,11 @@
     "shop": "clothes",
     "latitude": 47.0704324,
     "longitude": 16.3206513,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pagro",
@@ -65,7 +89,11 @@
     "shop": "stationery",
     "latitude": 47.0707656,
     "longitude": 16.3211303,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Takko Fashion",
@@ -73,6 +101,10 @@
     "shop": "clothes",
     "latitude": 47.0707081,
     "longitude": 16.3210224,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

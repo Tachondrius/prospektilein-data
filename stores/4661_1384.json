@@ -4,7 +4,11 @@
     "retailer": "123gold_at",
     "shop": "jewelry",
     "latitude": 46.6126685,
-    "longitude": 13.8443275
+    "longitude": 13.8443275,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "A1",
@@ -12,98 +16,140 @@
     "shop": "telecommunication",
     "latitude": 46.6146732,
     "longitude": 13.8474685,
-    "brand": "A1"
+    "brand": "A1",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "AckerBox Villach Kramer",
     "retailer": "ackerbox_villach_kramer",
     "shop": "farm",
     "latitude": 46.6111404,
-    "longitude": 13.8424009
+    "longitude": 13.8424009,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ackerbox Villach Parkhotel",
     "retailer": "ackerbox_villach_parkhotel",
     "shop": "farm",
     "latitude": 46.6119181,
-    "longitude": 13.8473526
+    "longitude": 13.8473526,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Aero",
     "retailer": "aero",
     "shop": "clothes",
     "latitude": 46.6116017,
-    "longitude": 13.8439696
+    "longitude": 13.8439696,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Alexander's Pizzeria Vinothek Cafe Bar Restaurant",
     "retailer": "alexander_s_pizzeria_vinothek_cafe_bar_restaurant",
     "shop": "wine",
     "latitude": 46.613441,
-    "longitude": 13.8493016
+    "longitude": 13.8493016,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Alpen Adria Jagd & Sportwaffen",
     "retailer": "alpen_adria_jagd_und_sportwaffen",
     "shop": "hunting",
     "latitude": 46.6121843,
-    "longitude": 13.8460304
+    "longitude": 13.8460304,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Antiques",
     "retailer": "shop_antiques",
     "shop": "antiques",
     "latitude": 46.6144668,
-    "longitude": 13.8445993
+    "longitude": 13.8445993,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Artl",
     "retailer": "artl",
     "shop": "hairdresser",
     "latitude": 46.6149739,
-    "longitude": 13.8443402
+    "longitude": 13.8443402,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "autArKerie",
     "retailer": "autarkerie",
     "shop": "convenience",
     "latitude": 46.6170853,
-    "longitude": 13.8486412
+    "longitude": 13.8486412,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Babsi's Künstler- und Bastelbedarf",
     "retailer": "babsi_s_kunstler_und_bastelbedarf",
     "shop": "craft",
     "latitude": 46.6102392,
-    "longitude": 13.8416266
+    "longitude": 13.8416266,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Barbershop Aus Style",
     "retailer": "barbershop_aus_style",
     "shop": "hairdresser",
     "latitude": 46.617502,
-    "longitude": 13.848907
+    "longitude": 13.848907,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 46.6145459,
-    "longitude": 13.8448027
+    "longitude": 13.8448027,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Behr",
     "retailer": "behr",
     "shop": "shoes",
     "latitude": 46.6126927,
-    "longitude": 13.8446237
+    "longitude": 13.8446237,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bikers Republic",
     "retailer": "bikers_republic",
     "shop": "bicycle",
     "latitude": 46.6138661,
-    "longitude": 13.8477205
+    "longitude": 13.8477205,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -111,21 +157,29 @@
     "shop": "supermarket",
     "latitude": 46.6175922,
     "longitude": 13.8492277,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bio-Markt",
     "retailer": "bio_markt",
     "shop": "greengrocer",
     "latitude": 46.6123095,
-    "longitude": 13.8438474
+    "longitude": 13.8438474,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Biogena",
     "retailer": "biogena",
     "shop": "cosmetics",
     "latitude": 46.6144294,
-    "longitude": 13.8467371
+    "longitude": 13.8467371,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -133,133 +187,180 @@
     "shop": "chemist",
     "latitude": 46.6141139,
     "longitude": 13.8465097,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Black Diamond",
     "retailer": "black_diamond",
     "shop": "clothes",
     "latitude": 46.6136624,
-    "longitude": 13.8452087
+    "longitude": 13.8452087,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "bloom Hörakustik",
     "retailer": "bloom_horakustik",
     "shop": "hearing_aids",
     "latitude": 46.6140587,
-    "longitude": 13.8464706
+    "longitude": 13.8464706,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blüm",
     "retailer": "blum",
     "shop": "clothes",
     "latitude": 46.611937,
-    "longitude": 13.8446605
+    "longitude": 13.8446605,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Butchery",
     "retailer": "butchery",
     "shop": "butcher",
     "latitude": 46.6121246,
-    "longitude": 13.8447668
+    "longitude": 13.8447668,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Berger",
     "retailer": "backerei_berger",
     "shop": "bakery",
     "latitude": 46.6142125,
-    "longitude": 13.8441269
+    "longitude": 13.8441269,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Strobl",
     "retailer": "backerei_strobl",
     "shop": "bakery",
     "latitude": 46.6170424,
-    "longitude": 13.8490193
+    "longitude": 13.8490193,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Café Draurast",
     "retailer": "cafe_draurast",
     "shop": "kiosk",
     "latitude": 46.6160553,
-    "longitude": 13.8479032
+    "longitude": 13.8479032,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Cannabis Store Vienna",
     "retailer": "cannabis_store_vienna",
     "shop": "cannabis",
     "latitude": 46.6141344,
-    "longitude": 13.8470052
+    "longitude": 13.8470052,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "carla",
     "retailer": "carla",
     "shop": "second_hand",
     "latitude": 46.6145445,
-    "longitude": 13.8459977
+    "longitude": 13.8459977,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "carla+",
     "retailer": "carla_plus",
     "shop": "second_hand",
     "latitude": 46.6139432,
-    "longitude": 13.8444342
+    "longitude": 13.8444342,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Charly Hofer",
     "retailer": "charly_hofer",
     "shop": "clothes",
     "latitude": 46.6136955,
-    "longitude": 13.8433033
+    "longitude": 13.8433033,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "D-T-S Heimkino Hifi",
     "retailer": "d_t_s_heimkino_hifi",
     "shop": "hifi",
     "latitude": 46.6125279,
-    "longitude": 13.8494842
+    "longitude": 13.8494842,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "D.S.C. de Cillia sports & classics",
     "retailer": "d_s_c_de_cillia_sports_und_classics",
     "shop": "car_repair",
     "latitude": 46.6122276,
-    "longitude": 13.8497099
+    "longitude": 13.8497099,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Das Gewürzrad",
     "retailer": "das_gewurzrad",
     "shop": "deli",
     "latitude": 46.6152906,
-    "longitude": 13.8466549
+    "longitude": 13.8466549,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "de cillia",
     "retailer": "de_cillia",
     "shop": "knives",
     "latitude": 46.6124966,
-    "longitude": 13.8444924
+    "longitude": 13.8444924,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Dein‘s & Mein‘s Gemeinwohl Ökonomie",
     "retailer": "deins_und_meins_gemeinwohl_okonomie",
     "shop": "convenience",
     "latitude": 46.6119341,
-    "longitude": 13.84487
+    "longitude": 13.84487,
+    "postcode": "9500",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Designer Outlet",
     "retailer": "designer_outlet",
     "shop": "clothes",
     "latitude": 46.6128094,
-    "longitude": 13.8451021
+    "longitude": 13.8451021,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Djul's Fashion",
     "retailer": "djul_s_fashion",
     "shop": "clothes",
     "latitude": 46.6121586,
-    "longitude": 13.8444624
+    "longitude": 13.8444624,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "dm",
@@ -267,63 +368,87 @@
     "shop": "chemist",
     "latitude": 46.6147909,
     "longitude": 13.8471066,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Drei",
     "retailer": "drei",
     "shop": "mobile_phone",
     "latitude": 46.6143893,
-    "longitude": 13.8421764
+    "longitude": 13.8421764,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Edelschwortn",
     "retailer": "edelschwortn",
     "shop": "clothes",
     "latitude": 46.613497,
-    "longitude": 13.8443822
+    "longitude": 13.8443822,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "EKZ Draupark",
     "retailer": "ekz_draupark",
     "shop": "mall",
     "latitude": 46.6145883,
-    "longitude": 13.8421423
+    "longitude": 13.8421423,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eleganza",
     "retailer": "eleganza",
     "shop": "clothes",
     "latitude": 46.6141993,
-    "longitude": 13.8471598
+    "longitude": 13.8471598,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Esoterik",
     "retailer": "esoterik",
     "shop": "convenience",
     "latitude": 46.611915,
-    "longitude": 13.8450487
+    "longitude": 13.8450487,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fellhof",
     "retailer": "fellhof",
     "shop": "gift",
     "latitude": 46.6135997,
-    "longitude": 13.8464638
+    "longitude": 13.8464638,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fessl",
     "retailer": "fessl",
     "shop": "optician",
     "latitude": 46.6159669,
-    "longitude": 13.848618
+    "longitude": 13.848618,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fessl",
     "retailer": "fessl",
     "shop": "jewelry",
     "latitude": 46.6175513,
-    "longitude": 13.8474417
+    "longitude": 13.8474417,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fielmann",
@@ -331,133 +456,181 @@
     "shop": "optician",
     "latitude": 46.613445,
     "longitude": 13.8463153,
-    "brand": "Fielmann"
+    "brand": "Fielmann",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fischgeschäft Miramare",
     "retailer": "fischgeschaft_miramare",
     "shop": "seafood",
     "latitude": 46.6112543,
-    "longitude": 13.8435792
+    "longitude": 13.8435792,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Friessnegg",
     "retailer": "friessnegg",
     "shop": "jewelry",
     "latitude": 46.6133755,
-    "longitude": 13.8462699
+    "longitude": 13.8462699,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Friseur Werni",
     "retailer": "friseur_werni",
     "shop": "hairdresser",
     "latitude": 46.6133316,
-    "longitude": 13.8433151
+    "longitude": 13.8433151,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Friseurbedarf Roma",
     "retailer": "friseurbedarf_roma",
     "shop": "chemist",
     "latitude": 46.6142934,
-    "longitude": 13.8424486
+    "longitude": 13.8424486,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Frisiersalon Belivia",
     "retailer": "frisiersalon_belivia",
     "shop": "hairdresser",
     "latitude": 46.6142325,
-    "longitude": 13.842738
+    "longitude": 13.842738,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Frisörbedarf",
     "retailer": "frisorbedarf",
     "shop": "hairdresser_supply",
     "latitude": 46.6145685,
-    "longitude": 13.8469243
+    "longitude": 13.8469243,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "GEA",
     "retailer": "gea",
     "shop": "shoes",
     "latitude": 46.6107541,
-    "longitude": 13.8433889
+    "longitude": 13.8433889,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Genuss-Eck",
     "retailer": "genuss_eck",
     "shop": "deli",
     "latitude": 46.6115225,
-    "longitude": 13.8439379
+    "longitude": 13.8439379,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Geschirrhaus Edelweiß",
     "retailer": "geschirrhaus_edelwei",
     "shop": "gift",
     "latitude": 46.6175747,
-    "longitude": 13.8489102
+    "longitude": 13.8489102,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Giftland Villach",
     "retailer": "giftland_villach",
     "shop": "gift",
     "latitude": 46.6128771,
-    "longitude": 13.8452843
+    "longitude": 13.8452843,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "GOLESTA Beauty Damen & Herren",
     "retailer": "golesta_beauty_damen_und_herren",
     "shop": "beauty",
     "latitude": 46.611497,
-    "longitude": 13.8436219
+    "longitude": 13.8436219,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hair by Janine",
     "retailer": "hair_by_janine",
     "shop": "hairdresser",
     "latitude": 46.6140624,
-    "longitude": 13.8441396
+    "longitude": 13.8441396,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hairfactory",
     "retailer": "hairfactory",
     "shop": "hairdresser",
     "latitude": 46.6124376,
-    "longitude": 13.844033
+    "longitude": 13.844033,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hairpoint",
     "retailer": "hairpoint",
     "shop": "hairdresser",
     "latitude": 46.6176254,
-    "longitude": 13.8491594
+    "longitude": 13.8491594,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Handarbeiten Sabrina",
     "retailer": "handarbeiten_sabrina",
     "shop": "yes",
     "latitude": 46.6154285,
-    "longitude": 13.8449466
+    "longitude": 13.8449466,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hartl's",
     "retailer": "hartl_s",
     "shop": "butcher",
     "latitude": 46.6138459,
-    "longitude": 13.8432277
+    "longitude": 13.8432277,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hartlauer",
     "retailer": "hartlauer",
     "shop": "optician",
     "latitude": 46.6139781,
-    "longitude": 13.8468917
+    "longitude": 13.8468917,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Herrenfriseur Leo",
     "retailer": "herrenfriseur_leo",
     "shop": "hairdresser",
     "latitude": 46.6168838,
-    "longitude": 13.8498326
+    "longitude": 13.8498326,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hervis",
@@ -465,56 +638,78 @@
     "shop": "sports",
     "latitude": 46.6142911,
     "longitude": 13.8421459,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hilberger",
     "retailer": "hilberger",
     "shop": "yes",
     "latitude": 46.610568,
-    "longitude": 13.8433068
+    "longitude": 13.8433068,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hildegard Naturkost",
     "retailer": "hildegard_naturkost",
     "shop": "deli",
     "latitude": 46.612154,
-    "longitude": 13.845425
+    "longitude": 13.845425,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hut Christl",
     "retailer": "hut_christl",
     "shop": "gift",
     "latitude": 46.6109536,
-    "longitude": 13.8434514
+    "longitude": 13.8434514,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "härb",
     "retailer": "harb",
     "shop": "clothes",
     "latitude": 46.612369,
-    "longitude": 13.8456998
+    "longitude": 13.8456998,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "In Ligno",
     "retailer": "in_ligno",
     "shop": "general",
     "latitude": 46.6145878,
-    "longitude": 13.8482569
+    "longitude": 13.8482569,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "inside fashion",
     "retailer": "inside_fashion",
     "shop": "clothes",
     "latitude": 46.6145596,
-    "longitude": 13.8473364
+    "longitude": 13.8473364,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Inside Fashion",
     "retailer": "inside_fashion",
     "shop": "fashion_accessories",
     "latitude": 46.6165399,
-    "longitude": 13.8488203
+    "longitude": 13.8488203,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Interspar",
@@ -522,63 +717,91 @@
     "shop": "supermarket",
     "latitude": 46.6145766,
     "longitude": 13.8424096,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Joe's Vinyl Garage",
     "retailer": "joe_s_vinyl_garage",
     "shop": "music",
     "latitude": 46.614194,
-    "longitude": 13.8451951
+    "longitude": 13.8451951,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Jostex",
     "retailer": "jostex",
     "shop": "laundry",
     "latitude": 46.6167362,
-    "longitude": 13.8495223
+    "longitude": 13.8495223,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Juwelier Schützlhoffer",
     "retailer": "juwelier_schutzlhoffer",
     "shop": "jewelry",
     "latitude": 46.6128402,
-    "longitude": 13.8444405
+    "longitude": 13.8444405,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kada",
     "retailer": "kada",
     "shop": "hairdresser",
     "latitude": 46.6125486,
-    "longitude": 13.8442207
+    "longitude": 13.8442207,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kidway",
     "retailer": "kidway",
     "shop": "toys",
     "latitude": 46.615844,
-    "longitude": 13.8453896
+    "longitude": 13.8453896,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 46.6113797,
-    "longitude": 13.8435803
+    "longitude": 13.8435803,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 46.6129198,
-    "longitude": 13.8458638
+    "longitude": 13.8458638,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 46.6144833,
-    "longitude": 13.8472659
+    "longitude": 13.8472659,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kleider Bauer",
@@ -586,7 +809,9 @@
     "shop": "clothes",
     "latitude": 46.61621,
     "longitude": 13.8492869,
-    "brand": "Kleider Bauer"
+    "brand": "Kleider Bauer",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Klipp",
@@ -594,28 +819,38 @@
     "shop": "hairdresser",
     "latitude": 46.6129171,
     "longitude": 13.8434327,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kowarik Club",
     "retailer": "kowarik_club",
     "shop": "clothes",
     "latitude": 46.6143418,
-    "longitude": 13.8485656
+    "longitude": 13.8485656,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kowarik Herrenmode",
     "retailer": "kowarik_herrenmode",
     "shop": "clothes",
     "latitude": 46.6124943,
-    "longitude": 13.8437456
+    "longitude": 13.8437456,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kyutea",
     "retailer": "kyutea",
     "shop": "bubble_tea",
     "latitude": 46.6150287,
-    "longitude": 13.8478453
+    "longitude": 13.8478453,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagler",
@@ -623,77 +858,107 @@
     "shop": "bakery",
     "latitude": 46.6183015,
     "longitude": 13.8488406,
-    "brand": "Lagler"
+    "brand": "Lagler",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "LaModula Vollholzmöbel",
     "retailer": "lamodula_vollholzmobel",
     "shop": "furniture",
     "latitude": 46.6112155,
-    "longitude": 13.8427606
+    "longitude": 13.8427606,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Laufsport Münzer",
     "retailer": "laufsport_munzer",
     "shop": "sports",
     "latitude": 46.6127934,
-    "longitude": 13.8447397
+    "longitude": 13.8447397,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Leeb & Leschanz GmbH",
     "retailer": "leeb_und_leschanz_gmbh",
     "shop": "jewelry",
     "latitude": 46.6156015,
-    "longitude": 13.8494815
+    "longitude": 13.8494815,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lisi's",
     "retailer": "lisi_s",
     "shop": "clothes",
     "latitude": 46.6129095,
-    "longitude": 13.8459051
+    "longitude": 13.8459051,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "marlinu",
     "retailer": "marlinu",
     "shop": "toys",
     "latitude": 46.6118887,
-    "longitude": 13.8438361
+    "longitude": 13.8438361,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mel Ami",
     "retailer": "mel_ami",
     "shop": "clothes",
     "latitude": 46.6145384,
-    "longitude": 13.8441306
+    "longitude": 13.8441306,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Messershop",
     "retailer": "messershop",
     "shop": "yes",
     "latitude": 46.6178646,
-    "longitude": 13.8499688
+    "longitude": 13.8499688,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Miri's Männersache - Herrenfriseurin & Kinderfriseurin",
     "retailer": "miri_s_mannersache_herrenfriseurin_und_kinderfriseurin",
     "shop": "hairdresser",
     "latitude": 46.61271,
-    "longitude": 13.8471971
+    "longitude": 13.8471971,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mister Handy",
     "retailer": "mister_handy",
     "shop": "mobile_phone",
     "latitude": 46.612099,
-    "longitude": 13.8438061
+    "longitude": 13.8438061,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Moden Härb",
     "retailer": "moden_harb",
     "shop": "clothes",
     "latitude": 46.6135931,
-    "longitude": 13.845416
+    "longitude": 13.845416,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Morawa",
@@ -701,42 +966,64 @@
     "shop": "books",
     "latitude": 46.6122019,
     "longitude": 13.8455867,
-    "brand": "Morawa"
+    "brand": "Morawa",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Moser",
     "retailer": "moser",
     "shop": "florist",
     "latitude": 46.6123618,
-    "longitude": 13.8457642
+    "longitude": 13.8457642,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "multi Store",
     "retailer": "multi_store",
     "shop": "supermarket",
     "latitude": 46.6138191,
-    "longitude": 13.8442092
+    "longitude": 13.8442092,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Möbel Hebein",
     "retailer": "mobel_hebein",
     "shop": "furniture",
     "latitude": 46.6129643,
-    "longitude": 13.8407664
+    "longitude": 13.8407664,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Nail Visions Austria",
     "retailer": "nail_visions_austria",
     "shop": "beauty",
     "latitude": 46.615571,
-    "longitude": 13.8496363
+    "longitude": 13.8496363,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Namio de Nicola",
     "retailer": "namio_de_nicola",
     "shop": "clothes",
     "latitude": 46.6136603,
-    "longitude": 13.8465269
+    "longitude": 13.8465269,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Neuroth",
@@ -744,7 +1031,9 @@
     "shop": "hearing_aids",
     "latitude": 46.6122222,
     "longitude": 13.847058,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -752,7 +1041,9 @@
     "shop": "clothes",
     "latitude": 46.6121889,
     "longitude": 13.8429575,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -760,35 +1051,45 @@
     "shop": "clothes",
     "latitude": 46.6171303,
     "longitude": 13.8489722,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Nähmaschinen Singer",
     "retailer": "nahmaschinen_singer",
     "shop": "sewing",
     "latitude": 46.6174308,
-    "longitude": 13.8489336
+    "longitude": 13.8489336,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Optician",
     "retailer": "shop_optician",
     "shop": "optician",
     "latitude": 46.6130557,
-    "longitude": 13.8465186
+    "longitude": 13.8465186,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Optik Plessin",
     "retailer": "optik_plessin",
     "shop": "optician",
     "latitude": 46.6128843,
-    "longitude": 13.8475135
+    "longitude": 13.8475135,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pablo Barber Shop",
     "retailer": "pablo_barber_shop",
     "shop": "hairdresser",
     "latitude": 46.6146731,
-    "longitude": 13.8481768
+    "longitude": 13.8481768,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Palmers",
@@ -796,7 +1097,9 @@
     "shop": "clothes",
     "latitude": 46.6128294,
     "longitude": 13.8458736,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Palmers",
@@ -804,140 +1107,199 @@
     "shop": "clothes",
     "latitude": 46.6143266,
     "longitude": 13.8466684,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Papier Strein Großhandel",
     "retailer": "papier_strein_grohandel",
     "shop": "stationery",
     "latitude": 46.6109846,
-    "longitude": 13.8444764
+    "longitude": 13.8444764,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Papin Bike Center Villach",
     "retailer": "papin_bike_center_villach",
     "shop": "bicycle",
     "latitude": 46.6119706,
-    "longitude": 13.8499048
+    "longitude": 13.8499048,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Petelin",
     "retailer": "petelin",
     "shop": "hairdresser",
     "latitude": 46.610528,
-    "longitude": 13.8435175
+    "longitude": 13.8435175,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pleamle",
     "retailer": "pleamle",
     "shop": "clothes",
     "latitude": 46.6149305,
-    "longitude": 13.8479457
+    "longitude": 13.8479457,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Plessin",
     "retailer": "plessin",
     "shop": "outdoor",
     "latitude": 46.6130794,
-    "longitude": 13.8462183
+    "longitude": 13.8462183,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "RAFATI teppich service center",
     "retailer": "rafati_teppich_service_center",
     "shop": "carpet",
     "latitude": 46.6124835,
-    "longitude": 13.8492231
+    "longitude": 13.8492231,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Reformhaus Martin",
     "retailer": "reformhaus_martin",
     "shop": "supermarket",
     "latitude": 46.6142704,
-    "longitude": 13.8425858
+    "longitude": 13.8425858,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Regenbogen",
     "retailer": "regenbogen",
     "shop": "convenience",
     "latitude": 46.6140982,
-    "longitude": 13.8481347
+    "longitude": 13.8481347,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "rei kafe karavanke.3",
     "retailer": "rei_kafe_karavanke_3",
     "shop": "bakery",
     "latitude": 46.6177793,
-    "longitude": 13.8473944
+    "longitude": 13.8473944,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Reinigung Masser",
     "retailer": "reinigung_masser",
     "shop": "laundry",
     "latitude": 46.6102013,
-    "longitude": 13.8431793
+    "longitude": 13.8431793,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Reisezentrum",
     "retailer": "reisezentrum",
     "shop": "ticket",
     "latitude": 46.6182205,
-    "longitude": 13.848223
+    "longitude": 13.848223,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Rettl",
     "retailer": "rettl",
     "shop": "clothes",
     "latitude": 46.6131479,
-    "longitude": 13.847366
+    "longitude": 13.847366,
+    "postcode": "9500",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Rieder",
     "retailer": "rieder",
     "shop": "shoes",
     "latitude": 46.6121956,
-    "longitude": 13.8443432
+    "longitude": 13.8443432,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Rieder",
     "retailer": "rieder",
     "shop": "shoes",
     "latitude": 46.6135347,
-    "longitude": 13.8463842
+    "longitude": 13.8463842,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "road rutter GmbH",
     "retailer": "road_rutter_gmbh",
     "shop": "motorcycle",
     "latitude": 46.6101843,
-    "longitude": 13.8482049
+    "longitude": 13.8482049,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "RUEFA Reisen",
     "retailer": "ruefa_reisen",
     "shop": "travel_agency",
     "latitude": 46.6143243,
-    "longitude": 13.8481385
+    "longitude": 13.8481385,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sarny",
     "retailer": "sarny",
     "shop": "shoes",
     "latitude": 46.6140315,
-    "longitude": 13.8440748
+    "longitude": 13.8440748,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Siegne",
     "retailer": "siegne",
     "shop": "clothes",
     "latitude": 46.612852,
-    "longitude": 13.8452246
+    "longitude": 13.8452246,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Silver cut",
     "retailer": "silver_cut",
     "shop": "hairdresser",
     "latitude": 46.6108818,
-    "longitude": 13.8434311
+    "longitude": 13.8434311,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sisley",
@@ -945,49 +1307,67 @@
     "shop": "clothes",
     "latitude": 46.6127556,
     "longitude": 13.8461411,
-    "brand": "Sisley"
+    "brand": "Sisley",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "soho",
     "retailer": "soho",
     "shop": "cannabis",
     "latitude": 46.6156445,
-    "longitude": 13.8458844
+    "longitude": 13.8458844,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sonnenstudio Villach",
     "retailer": "sonnenstudio_villach",
     "shop": "beauty",
     "latitude": 46.6121123,
-    "longitude": 13.8495325
+    "longitude": 13.8495325,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Springer Reisen",
     "retailer": "springer_reisen",
     "shop": "travel_agency",
     "latitude": 46.6120445,
-    "longitude": 13.8438316
+    "longitude": 13.8438316,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Strein",
     "retailer": "strein",
     "shop": "stationery",
     "latitude": 46.6114043,
-    "longitude": 13.8440535
+    "longitude": 13.8440535,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Strobl",
     "retailer": "strobl",
     "shop": "bakery",
     "latitude": 46.6121522,
-    "longitude": 13.8453265
+    "longitude": 13.8453265,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Stylimg Studio Katzdoobler",
     "retailer": "stylimg_studio_katzdoobler",
     "shop": "hairdresser",
     "latitude": 46.6151955,
-    "longitude": 13.8468074
+    "longitude": 13.8468074,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "T-Mobile",
@@ -995,21 +1375,31 @@
     "shop": "mobile_phone",
     "latitude": 46.6131299,
     "longitude": 13.8461634,
-    "brand": "Magenta"
+    "brand": "Magenta",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tattoo Tatau Tattoostudio Villach",
     "retailer": "tattoo_tatau_tattoostudio_villach",
     "shop": "tattoo",
     "latitude": 46.6123062,
-    "longitude": 13.8493691
+    "longitude": 13.8493691,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "teapot",
     "retailer": "teapot",
     "shop": "tea",
     "latitude": 46.614565,
-    "longitude": 13.8482544
+    "longitude": 13.8482544,
+    "postcode": "9500",
+    "city": "VIllach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Thalia",
@@ -1017,28 +1407,40 @@
     "shop": "books",
     "latitude": 46.6148814,
     "longitude": 13.8472162,
-    "brand": "Thalia"
+    "brand": "Thalia",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "The Hair Designer",
     "retailer": "the_hair_designer",
     "shop": "hairdresser",
     "latitude": 46.6121082,
-    "longitude": 13.8450941
+    "longitude": 13.8450941,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Threechairs",
     "retailer": "threechairs",
     "shop": "hairdresser",
     "latitude": 46.6154866,
-    "longitude": 13.8457955
+    "longitude": 13.8457955,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tinte & Druck",
     "retailer": "tinte_und_druck",
     "shop": "printing",
     "latitude": 46.6141339,
-    "longitude": 13.8478357
+    "longitude": 13.8478357,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tom Tailor",
@@ -1046,7 +1448,9 @@
     "shop": "clothes",
     "latitude": 46.6126455,
     "longitude": 13.8458303,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tom Tailor",
@@ -1054,28 +1458,38 @@
     "shop": "clothes",
     "latitude": 46.6126633,
     "longitude": 13.846156,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trachten Roll",
     "retailer": "trachten_roll",
     "shop": "clothes",
     "latitude": 46.6130582,
-    "longitude": 13.8464118
+    "longitude": 13.8464118,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trafik Jörgl",
     "retailer": "trafik_jorgl",
     "shop": "kiosk",
     "latitude": 46.6142877,
-    "longitude": 13.8423215
+    "longitude": 13.8423215,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "trend store",
     "retailer": "trend_store",
     "shop": "clothes",
     "latitude": 46.6129027,
-    "longitude": 13.8456351
+    "longitude": 13.8456351,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Triumph",
@@ -1083,7 +1497,11 @@
     "shop": "clothes",
     "latitude": 46.6134739,
     "longitude": 13.8460285,
-    "brand": "Triumph"
+    "brand": "Triumph",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "TUI",
@@ -1091,14 +1509,22 @@
     "shop": "travel_agency",
     "latitude": 46.611931,
     "longitude": 13.8444666,
-    "brand": "TUI"
+    "brand": "TUI",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Uhren-Schmuck Wachter",
     "retailer": "uhren_schmuck_wachter",
     "shop": "jewelry",
     "latitude": 46.6156863,
-    "longitude": 13.8449569
+    "longitude": 13.8449569,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "United Colors of Benetton",
@@ -1106,84 +1532,112 @@
     "shop": "clothes",
     "latitude": 46.6125245,
     "longitude": 13.8457909,
-    "brand": "United Colors of Benetton"
+    "brand": "United Colors of Benetton",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "unlimited sports",
     "retailer": "unlimited_sports",
     "shop": "sports",
     "latitude": 46.6128631,
-    "longitude": 13.8453489
+    "longitude": 13.8453489,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Unteregger",
     "retailer": "unteregger",
     "shop": "kitchen",
     "latitude": 46.6129231,
-    "longitude": 13.8409781
+    "longitude": 13.8409781,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Vanity",
     "retailer": "vanity",
     "shop": "clothes",
     "latitude": 46.6138526,
-    "longitude": 13.8462925
+    "longitude": 13.8462925,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Vespaverleih Blinzer",
     "retailer": "vespaverleih_blinzer",
     "shop": "motorcycle",
     "latitude": 46.6101776,
-    "longitude": 13.8485773
+    "longitude": 13.8485773,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Via Veneto",
     "retailer": "via_veneto",
     "shop": "clothes",
     "latitude": 46.6146224,
-    "longitude": 13.8469758
+    "longitude": 13.8469758,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Vianello",
     "retailer": "vianello",
     "shop": "clothes",
     "latitude": 46.6132976,
-    "longitude": 13.8462292
+    "longitude": 13.8462292,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Vier Haareszeiten",
     "retailer": "vier_haareszeiten",
     "shop": "hairdresser",
     "latitude": 46.6110119,
-    "longitude": 13.8429137
+    "longitude": 13.8429137,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Vif-Zack",
     "retailer": "vif_zack",
     "shop": "craft",
     "latitude": 46.6104404,
-    "longitude": 13.8434949
+    "longitude": 13.8434949,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Villacher Kartenbüro",
     "retailer": "villacher_kartenburo",
     "shop": "ticket",
     "latitude": 46.6136418,
-    "longitude": 13.8481729
+    "longitude": 13.8481729,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wallner",
     "retailer": "wallner",
     "shop": "clothes",
     "latitude": 46.6156456,
-    "longitude": 13.8457177
+    "longitude": 13.8457177,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Weltladen",
     "retailer": "weltladen",
     "shop": "convenience",
     "latitude": 46.6135761,
-    "longitude": 13.8455067
+    "longitude": 13.8455067,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wienerroither",
@@ -1191,7 +1645,11 @@
     "shop": "bakery",
     "latitude": 46.6135915,
     "longitude": 13.8460878,
-    "brand": "Wienerroither"
+    "brand": "Wienerroither",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wienerroither",
@@ -1199,27 +1657,35 @@
     "shop": "bakery",
     "latitude": 46.6184357,
     "longitude": 13.8485243,
-    "brand": "Wienerroither"
+    "brand": "Wienerroither",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Zana",
     "retailer": "zana",
     "shop": "fashion_accessories",
     "latitude": 46.6121467,
-    "longitude": 13.8455051
+    "longitude": 13.8455051,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Änderungsschneiderei Celil Aziz",
     "retailer": "anderungsschneiderei_celil_aziz",
     "shop": "sewing",
     "latitude": 46.6169829,
-    "longitude": 13.8495603
+    "longitude": 13.8495603,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "élite",
     "retailer": "elite",
     "shop": "clothes",
     "latitude": 46.6147098,
-    "longitude": 13.8474495
+    "longitude": 13.8474495,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

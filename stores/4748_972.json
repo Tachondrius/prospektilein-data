@@ -4,14 +4,18 @@
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.4859914,
-    "longitude": 9.7220934
+    "longitude": 9.7220934,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.4860743,
-    "longitude": 9.7223072
+    "longitude": 9.7223072,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "dm",
@@ -19,7 +23,11 @@
     "shop": "chemist",
     "latitude": 47.4837265,
     "longitude": 9.7202067,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "6923",
+    "city": "Lauterach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hofer",
@@ -27,14 +35,22 @@
     "shop": "supermarket",
     "latitude": 47.4838393,
     "longitude": 9.7209467,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6923",
+    "city": "Lauterach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "horner-holz",
     "retailer": "horner_holz",
     "shop": "garden_centre",
     "latitude": 47.4837649,
-    "longitude": 9.7269046
+    "longitude": 9.7269046,
+    "postcode": "6923",
+    "city": "Lauterach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "KiK",
@@ -42,13 +58,19 @@
     "shop": "clothes",
     "latitude": 47.4835566,
     "longitude": 9.7201203,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Moser",
     "retailer": "moser",
     "shop": "electronics",
     "latitude": 47.4878876,
-    "longitude": 9.721091
+    "longitude": 9.721091,
+    "postcode": "6900",
+    "city": "Bregenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

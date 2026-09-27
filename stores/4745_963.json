@@ -4,14 +4,20 @@
     "retailer": "cashpoint_wettburo",
     "shop": "bookmaker",
     "latitude": 47.4581422,
-    "longitude": 9.6394287
+    "longitude": 9.6394287,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Grenzkiosk, Trafik Fink",
     "retailer": "grenzkiosk_trafik_fink",
     "shop": "kiosk",
     "latitude": 47.4574024,
-    "longitude": 9.6391114
+    "longitude": 9.6391114,
+    "postcode": "6973",
+    "city": "Höchst",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Migrolino",
@@ -19,6 +25,8 @@
     "shop": "convenience",
     "latitude": 47.4551431,
     "longitude": 9.6381447,
-    "brand": "Migrolino"
+    "brand": "Migrolino",
+    "postcode": "9430",
+    "city": "St. Margrethen SG"
   }
 ]

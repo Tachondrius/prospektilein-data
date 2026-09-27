@@ -4,14 +4,20 @@
     "retailer": "auto_diepold_gmbh",
     "shop": "car_repair",
     "latitude": 47.555307,
-    "longitude": 15.3392472
+    "longitude": 15.3392472,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei-Cafe-Konditorei Seidl",
     "retailer": "backerei_cafe_konditorei_seidl",
     "shop": "bakery",
     "latitude": 47.558459,
-    "longitude": 15.3366958
+    "longitude": 15.3366958,
+    "postcode": "8625",
+    "city": "Turnau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -19,13 +25,21 @@
     "shop": "doityourself",
     "latitude": 47.5556517,
     "longitude": 15.3387603,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8625",
+    "city": "Turnau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "convenience",
     "latitude": 47.5579627,
-    "longitude": 15.3379293
+    "longitude": 15.3379293,
+    "postcode": "8625",
+    "city": "Turnau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

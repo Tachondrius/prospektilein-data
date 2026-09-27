@@ -5,13 +5,19 @@
     "shop": "tobacco",
     "latitude": 48.2300523,
     "longitude": 16.1507625,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "3003",
+    "city": "Gablitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wohlfühlpraxis Gablitz",
     "retailer": "wohlfuhlpraxis_gablitz",
     "shop": "massage",
     "latitude": 48.231639,
-    "longitude": 16.1504366
+    "longitude": 16.1504366,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

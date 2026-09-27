@@ -5,7 +5,9 @@
     "shop": "bookmaker",
     "latitude": 47.8280321,
     "longitude": 16.5308138,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Anker",
@@ -13,21 +15,27 @@
     "shop": "bakery",
     "latitude": 47.8256427,
     "longitude": 16.5309864,
-    "brand": "Anker"
+    "brand": "Anker",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Berghofer",
     "retailer": "berghofer",
     "shop": "paint",
     "latitude": 47.8264662,
-    "longitude": 16.5301268
+    "longitude": 16.5301268,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Biomarkt",
     "retailer": "biomarkt",
     "shop": "supermarket",
     "latitude": 47.8266052,
-    "longitude": 16.5342136
+    "longitude": 16.5342136,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Deichmann",
@@ -35,7 +43,9 @@
     "shop": "shoes",
     "latitude": 47.8272086,
     "longitude": 16.53109,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Denns BioMarkt",
@@ -43,7 +53,11 @@
     "shop": "supermarket",
     "latitude": 47.8253549,
     "longitude": 16.5328812,
-    "brand": "Denns BioMarkt"
+    "brand": "Denns BioMarkt",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ford Weintritt",
@@ -51,7 +65,11 @@
     "shop": "car",
     "latitude": 47.828587,
     "longitude": 16.5323149,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fressnapf",
@@ -59,7 +77,11 @@
     "shop": "pet",
     "latitude": 47.8262844,
     "longitude": 16.5315601,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hagebaumarkt",
@@ -67,7 +89,11 @@
     "shop": "doityourself",
     "latitude": 47.8269677,
     "longitude": 16.5336547,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hofer",
@@ -75,7 +101,11 @@
     "shop": "supermarket",
     "latitude": 47.8253388,
     "longitude": 16.5311456,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Intersport",
@@ -83,7 +113,9 @@
     "shop": "sports",
     "latitude": 47.8263691,
     "longitude": 16.5319234,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "KiK",
@@ -91,7 +123,11 @@
     "shop": "clothes",
     "latitude": 47.825295,
     "longitude": 16.5326569,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lidl",
@@ -99,7 +135,11 @@
     "shop": "supermarket",
     "latitude": 47.8294081,
     "longitude": 16.5314909,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Müller",
@@ -107,7 +147,9 @@
     "shop": "chemist",
     "latitude": 47.8258168,
     "longitude": 16.5308096,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "New Yorker",
@@ -115,7 +157,9 @@
     "shop": "clothes",
     "latitude": 47.8270674,
     "longitude": 16.5308265,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "NKD",
@@ -123,14 +167,20 @@
     "shop": "clothes",
     "latitude": 47.8265747,
     "longitude": 16.5313585,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "OSR Facility Services",
     "retailer": "osr_facility_services",
     "shop": "doityourself",
     "latitude": 47.8281136,
-    "longitude": 16.53063
+    "longitude": 16.53063,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pagro",
@@ -138,14 +188,22 @@
     "shop": "stationery",
     "latitude": 47.8252221,
     "longitude": 16.5324626,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Reifen Ritz GmbH",
     "retailer": "reifen_ritz_gmbh",
     "shop": "tyres",
     "latitude": 47.828624,
-    "longitude": 16.5303416
+    "longitude": 16.5303416,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Takko Fashion",
@@ -153,7 +211,9 @@
     "shop": "clothes",
     "latitude": 47.8265591,
     "longitude": 16.5300281,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "TEDi",
@@ -161,7 +221,9 @@
     "shop": "variety_store",
     "latitude": 47.8267046,
     "longitude": 16.5315407,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "XXXLutz",
@@ -169,7 +231,9 @@
     "shop": "furniture",
     "latitude": 47.827643,
     "longitude": 16.5350535,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "XXXLutz",
@@ -177,7 +241,11 @@
     "shop": "furniture",
     "latitude": 47.827968,
     "longitude": 16.5326116,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "XXXLutz",
@@ -185,6 +253,8 @@
     "shop": "furniture",
     "latitude": 47.8284202,
     "longitude": 16.5327187,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

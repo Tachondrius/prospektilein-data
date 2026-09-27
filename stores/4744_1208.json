@@ -5,7 +5,9 @@
     "shop": "bakery",
     "latitude": 47.4494172,
     "longitude": 12.083123,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -13,7 +15,9 @@
     "shop": "supermarket",
     "latitude": 47.4493284,
     "longitude": 12.0829205,
-    "brand": "Mpreis"
+    "brand": "Mpreis",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -21,20 +25,28 @@
     "shop": "supermarket",
     "latitude": 47.4487878,
     "longitude": 12.0868011,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tiroler Dorfladl",
     "retailer": "tiroler_dorfladl",
     "shop": "convenience",
     "latitude": 47.4489543,
-    "longitude": 12.088632
+    "longitude": 12.088632,
+    "postcode": "6314",
+    "city": "Wildschönau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Travel Agency",
     "retailer": "shop_travel_agency",
     "shop": "travel_agency",
     "latitude": 47.4489501,
-    "longitude": 12.0885815
+    "longitude": 12.0885815,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

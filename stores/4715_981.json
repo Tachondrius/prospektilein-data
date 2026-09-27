@@ -4,56 +4,85 @@
     "retailer": "action",
     "shop": "variety_store",
     "latitude": 47.153113,
-    "longitude": 9.8131381
+    "longitude": 9.8131381,
+    "postcode": "6706",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Akdik",
     "retailer": "akdik",
     "shop": "fabric",
     "latitude": 47.1570045,
-    "longitude": 9.819625
+    "longitude": 9.819625,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "ATD24",
     "retailer": "atd24",
     "shop": "car_parts",
     "latitude": 47.1525709,
-    "longitude": 9.8183184
+    "longitude": 9.8183184,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Barometter Vierklee Sportwetten",
     "retailer": "barometter_vierklee_sportwetten",
     "shop": "bookmaker",
     "latitude": 47.1525809,
-    "longitude": 9.8195706
+    "longitude": 9.8195706,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bartak",
     "retailer": "bartak",
     "shop": "stationery",
     "latitude": 47.1558682,
-    "longitude": 9.8181682
+    "longitude": 9.8181682,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "BayWa Vorarlberg",
     "retailer": "baywa_vorarlberg",
     "shop": "garden_centre",
     "latitude": 47.1515247,
-    "longitude": 9.8186722
+    "longitude": 9.8186722,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Beauty Pure",
     "retailer": "beauty_pure",
     "shop": "beauty",
     "latitude": 47.1556882,
-    "longitude": 9.8182508
+    "longitude": 9.8182508,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "BeQueen",
     "retailer": "bequeen",
     "shop": "clothes",
     "latitude": 47.1555532,
-    "longitude": 9.8199908
+    "longitude": 9.8199908,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bijou Brigitte",
@@ -61,7 +90,9 @@
     "shop": "jewelry",
     "latitude": 47.1506166,
     "longitude": 9.8120597,
-    "brand": "Bijou Brigitte"
+    "brand": "Bijou Brigitte",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Billa Stop & Shop",
@@ -69,14 +100,20 @@
     "shop": "convenience",
     "latitude": 47.1523732,
     "longitude": 9.8141925,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bio-Bauernladen Fini Larcher",
     "retailer": "bio_bauernladen_fini_larcher",
     "shop": "farm",
     "latitude": 47.1575666,
-    "longitude": 9.8162359
+    "longitude": 9.8162359,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bipa",
@@ -84,28 +121,44 @@
     "shop": "chemist",
     "latitude": 47.1547602,
     "longitude": 9.8153818,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bitsche Optik",
     "retailer": "bitsche_optik",
     "shop": "optician",
     "latitude": 47.1560028,
-    "longitude": 9.8183298
+    "longitude": 9.8183298,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Blumen Hürlimann",
     "retailer": "blumen_hurlimann",
     "shop": "florist",
     "latitude": 47.15827,
-    "longitude": 9.8173122
+    "longitude": 9.8173122,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Body & Soul",
     "retailer": "body_und_soul",
     "shop": "beauty",
     "latitude": 47.1532838,
-    "longitude": 9.8182142
+    "longitude": 9.8182142,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "BONITA",
@@ -113,42 +166,64 @@
     "shop": "clothes",
     "latitude": 47.1507425,
     "longitude": 9.8124373,
-    "brand": "BONITA"
+    "brand": "BONITA",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bäckerei Fuchs",
     "retailer": "backerei_fuchs",
     "shop": "bakery",
     "latitude": 47.1561305,
-    "longitude": 9.819238
+    "longitude": 9.819238,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bäckerei Mangold",
     "retailer": "backerei_mangold",
     "shop": "bakery",
     "latitude": 47.1502306,
-    "longitude": 9.812535
+    "longitude": 9.812535,
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bäckerei Mangold",
     "retailer": "backerei_mangold",
     "shop": "bakery",
     "latitude": 47.154563,
-    "longitude": 9.8160591
+    "longitude": 9.8160591,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bäckerei Mangold",
     "retailer": "backerei_mangold",
     "shop": "bakery",
     "latitude": 47.1559127,
-    "longitude": 9.819821
+    "longitude": 9.819821,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Conny Götsch",
     "retailer": "conny_gotsch",
     "shop": "hairdresser",
     "latitude": 47.153693,
-    "longitude": 9.818917
+    "longitude": 9.818917,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Deichmann",
@@ -156,21 +231,28 @@
     "shop": "shoes",
     "latitude": 47.1530328,
     "longitude": 9.813242,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Dein Nörd Shop",
     "retailer": "dein_nord_shop",
     "shop": "convenience",
     "latitude": 47.1558806,
-    "longitude": 9.8191873
+    "longitude": 9.8191873,
+    "postcode": "6700",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Der Bäcker Ruetz",
     "retailer": "der_backer_ruetz",
     "shop": "bakery",
     "latitude": 47.1547151,
-    "longitude": 9.8154487
+    "longitude": 9.8154487,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "dm",
@@ -178,21 +260,33 @@
     "shop": "chemist",
     "latitude": 47.1511052,
     "longitude": 9.8115367,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Enoteca",
     "retailer": "enoteca",
     "shop": "wine",
     "latitude": 47.1561805,
-    "longitude": 9.8198576
+    "longitude": 9.8198576,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "EP:Neyer",
     "retailer": "ep_neyer",
     "shop": "electronics",
     "latitude": 47.1557252,
-    "longitude": 9.8182957
+    "longitude": 9.8182957,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Esprit",
@@ -200,7 +294,11 @@
     "shop": "clothes",
     "latitude": 47.1565618,
     "longitude": 9.8189602,
-    "brand": "Esprit"
+    "brand": "Esprit",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Expert",
@@ -208,28 +306,42 @@
     "shop": "electronics",
     "latitude": 47.1547604,
     "longitude": 9.8191531,
-    "brand": "Expert"
+    "brand": "Expert",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Façona",
     "retailer": "facona",
     "shop": "clothes",
     "latitude": 47.1521736,
-    "longitude": 9.8103579
+    "longitude": 9.8103579,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Feinsein",
     "retailer": "feinsein",
     "shop": "clothes",
     "latitude": 47.1556521,
-    "longitude": 9.8199257
+    "longitude": 9.8199257,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Feuerstein",
     "retailer": "feuerstein",
     "shop": "funeral_directors",
     "latitude": 47.1553261,
-    "longitude": 9.8185879
+    "longitude": 9.8185879,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fielmann",
@@ -237,14 +349,20 @@
     "shop": "optician",
     "latitude": 47.1508155,
     "longitude": 9.8122744,
-    "brand": "Fielmann"
+    "brand": "Fielmann",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Finis Naturladen",
     "retailer": "finis_naturladen",
     "shop": "convenience",
     "latitude": 47.1540889,
-    "longitude": 9.8189441
+    "longitude": 9.8189441,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fressnapf",
@@ -252,14 +370,22 @@
     "shop": "pet",
     "latitude": 47.1548982,
     "longitude": 9.819738,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Goldschopf",
     "retailer": "goldschopf",
     "shop": "hairdresser",
     "latitude": 47.1554095,
-    "longitude": 9.8183789
+    "longitude": 9.8183789,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "H&M",
@@ -267,7 +393,9 @@
     "shop": "clothes",
     "latitude": 47.1504703,
     "longitude": 9.8122569,
-    "brand": "H&M"
+    "brand": "H&M",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hartlauer",
@@ -275,14 +403,20 @@
     "shop": "electronics",
     "latitude": 47.1521825,
     "longitude": 9.8108606,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Heim Mode",
     "retailer": "heim_mode",
     "shop": "clothes",
     "latitude": 47.1534325,
-    "longitude": 9.8180617
+    "longitude": 9.8180617,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hervis",
@@ -290,14 +424,22 @@
     "shop": "sports",
     "latitude": 47.1511813,
     "longitude": 9.8116361,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hingucker",
     "retailer": "hingucker",
     "shop": "clothes",
     "latitude": 47.1554913,
-    "longitude": 9.8199197
+    "longitude": 9.8199197,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hofer",
@@ -305,7 +447,11 @@
     "shop": "supermarket",
     "latitude": 47.1521257,
     "longitude": 9.8178927,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hofer",
@@ -313,14 +459,20 @@
     "shop": "supermarket",
     "latitude": 47.1525956,
     "longitude": 9.8147906,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Huber Shop",
     "retailer": "huber_shop",
     "shop": "clothes",
     "latitude": 47.1521776,
-    "longitude": 9.8107265
+    "longitude": 9.8107265,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Humanic",
@@ -328,7 +480,9 @@
     "shop": "shoes",
     "latitude": 47.1506496,
     "longitude": 9.8123499,
-    "brand": "Humanic"
+    "brand": "Humanic",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hunkemöller",
@@ -336,7 +490,9 @@
     "shop": "clothes",
     "latitude": 47.1506896,
     "longitude": 9.8119486,
-    "brand": "Hunkemöller"
+    "brand": "Hunkemöller",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Interspar",
@@ -344,7 +500,11 @@
     "shop": "supermarket",
     "latitude": 47.1500504,
     "longitude": 9.8131525,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Jack & Jones",
@@ -352,28 +512,42 @@
     "shop": "clothes",
     "latitude": 47.150453,
     "longitude": 9.8125632,
-    "brand": "Jack & Jones"
+    "brand": "Jack & Jones",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Jacki's Blumen",
     "retailer": "jacki_s_blumen",
     "shop": "florist",
     "latitude": 47.1560219,
-    "longitude": 9.8196351
+    "longitude": 9.8196351,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Jess Werkstatt",
     "retailer": "jess_werkstatt",
     "shop": "general",
     "latitude": 47.155524,
-    "longitude": 9.8197734
+    "longitude": 9.8197734,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kabel-TV Lampert GmbH & Co KG",
     "retailer": "kabel_tv_lampert_gmbh_und_co_kg",
     "shop": "telecommunication",
     "latitude": 47.1562664,
-    "longitude": 9.8199623
+    "longitude": 9.8199623,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "KiK",
@@ -381,14 +555,20 @@
     "shop": "clothes",
     "latitude": 47.1530949,
     "longitude": 9.8129899,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.1548247,
-    "longitude": 9.8152375
+    "longitude": 9.8152375,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Klipp",
@@ -396,21 +576,31 @@
     "shop": "hairdresser",
     "latitude": 47.1549845,
     "longitude": 9.8154622,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kosmetikstudio Tanja Kaufmann",
     "retailer": "kosmetikstudio_tanja_kaufmann",
     "shop": "cosmetics",
     "latitude": 47.1528034,
-    "longitude": 9.8197778
+    "longitude": 9.8197778,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Küchenfreude",
     "retailer": "kuchenfreude",
     "shop": "houseware",
     "latitude": 47.1558527,
-    "longitude": 9.8199494
+    "longitude": 9.8199494,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Levi's",
@@ -418,7 +608,11 @@
     "shop": "clothes",
     "latitude": 47.1510112,
     "longitude": 9.8116658,
-    "brand": "Levi's"
+    "brand": "Levi's",
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lidl",
@@ -426,35 +620,53 @@
     "shop": "supermarket",
     "latitude": 47.1521705,
     "longitude": 9.8105391,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "LMEnergy",
     "retailer": "lmenergy",
     "shop": "fuel",
     "latitude": 47.151507,
-    "longitude": 9.8106227
+    "longitude": 9.8106227,
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ländle KFZ GmbH",
     "retailer": "landle_kfz_gmbh",
     "shop": "car_repair",
     "latitude": 47.1535178,
-    "longitude": 9.8171726
+    "longitude": 9.8171726,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ländle Market",
     "retailer": "landle_market",
     "shop": "supermarket",
     "latitude": 47.1548984,
-    "longitude": 9.8156225
+    "longitude": 9.8156225,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lünersee Park",
     "retailer": "lunersee_park",
     "shop": "mall",
     "latitude": 47.152249,
-    "longitude": 9.8101097
+    "longitude": 9.8101097,
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "MediaMarkt",
@@ -462,35 +674,55 @@
     "shop": "electronics",
     "latitude": 47.1511776,
     "longitude": 9.8119425,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Milka-Lädele",
     "retailer": "milka_ladele",
     "shop": "confectionery",
     "latitude": 47.1554643,
-    "longitude": 9.8155073
+    "longitude": 9.8155073,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Min guata Lada",
     "retailer": "min_guata_lada",
     "shop": "convenience",
     "latitude": 47.1567421,
-    "longitude": 9.8195898
+    "longitude": 9.8195898,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Montisana",
     "retailer": "montisana",
     "shop": "medical_supply",
     "latitude": 47.1572238,
-    "longitude": 9.8190621
+    "longitude": 9.8190621,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "My Fashion",
     "retailer": "my_fashion",
     "shop": "clothes",
     "latitude": 47.1540199,
-    "longitude": 9.819108
+    "longitude": 9.819108,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Müller",
@@ -498,21 +730,29 @@
     "shop": "chemist",
     "latitude": 47.1505161,
     "longitude": 9.812306,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Müller Hörgeräte",
     "retailer": "mueller",
     "shop": "hearing_aids",
     "latitude": 47.1554532,
-    "longitude": 9.8196752
+    "longitude": 9.8196752,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Müller Mathias",
     "retailer": "mueller",
     "shop": "car_repair",
     "latitude": 47.1523102,
-    "longitude": 9.8186292
+    "longitude": 9.8186292,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Nanu-Nana",
@@ -520,7 +760,9 @@
     "shop": "gift",
     "latitude": 47.1509011,
     "longitude": 9.8118542,
-    "brand": "Nanu-Nana"
+    "brand": "Nanu-Nana",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Neuroth",
@@ -528,14 +770,22 @@
     "shop": "hearing_aids",
     "latitude": 47.1552883,
     "longitude": 9.8196882,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Nägele Zweirad-Elektro",
     "retailer": "nagele_zweirad_elektro",
     "shop": "electronics;bicycle",
     "latitude": 47.1545496,
-    "longitude": 9.8192127
+    "longitude": 9.8192127,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "ONLY",
@@ -543,7 +793,9 @@
     "shop": "clothes",
     "latitude": 47.1508256,
     "longitude": 9.8118042,
-    "brand": "ONLY"
+    "brand": "ONLY",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "orsay",
@@ -551,14 +803,20 @@
     "shop": "clothes",
     "latitude": 47.1506821,
     "longitude": 9.8120893,
-    "brand": "orsay"
+    "brand": "orsay",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ott-Mayr",
     "retailer": "ott_mayr",
     "shop": "hairdresser",
     "latitude": 47.1563393,
-    "longitude": 9.8187527
+    "longitude": 9.8187527,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Pagro",
@@ -566,7 +824,11 @@
     "shop": "stationery",
     "latitude": 47.1526907,
     "longitude": 9.8131895,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Palmers",
@@ -574,7 +836,9 @@
     "shop": "clothes",
     "latitude": 47.1510535,
     "longitude": 9.8120911,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Pearle",
@@ -582,28 +846,44 @@
     "shop": "optician",
     "latitude": 47.1562356,
     "longitude": 9.8195804,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Plakolm",
     "retailer": "plakolm",
     "shop": "jewelry",
     "latitude": 47.1561355,
-    "longitude": 9.8194715
+    "longitude": 9.8194715,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Radsport Bachmann",
     "retailer": "radsport_bachmann",
     "shop": "bicycle",
     "latitude": 47.1504658,
-    "longitude": 9.810973
+    "longitude": 9.810973,
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Reutterer",
     "retailer": "reutterer",
     "shop": "shoes",
     "latitude": 47.1566496,
-    "longitude": 9.8195449
+    "longitude": 9.8195449,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "s.Oliver",
@@ -611,21 +891,31 @@
     "shop": "clothes",
     "latitude": 47.1507652,
     "longitude": 9.8119782,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schmuckstück",
     "retailer": "schmuckstuck",
     "shop": "clothes",
     "latitude": 47.1560828,
-    "longitude": 9.8195612
+    "longitude": 9.8195612,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schneiderei Linda",
     "retailer": "schneiderei_linda",
     "shop": "tailor",
     "latitude": 47.1558125,
-    "longitude": 9.8191382
+    "longitude": 9.8191382,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schweizer",
@@ -633,21 +923,32 @@
     "shop": "car_repair",
     "latitude": 47.1569735,
     "longitude": 9.818485,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "SM Boutique",
     "retailer": "sm_boutique",
     "shop": "clothes",
     "latitude": 47.1560222,
-    "longitude": 9.8192994
+    "longitude": 9.8192994,
+    "postcode": "6700",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sprungbrett Lädele",
     "retailer": "sprungbrett_ladele",
     "shop": "interior_decoration",
     "latitude": 47.1554253,
-    "longitude": 9.818683
+    "longitude": 9.818683,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Street One",
@@ -655,7 +956,11 @@
     "shop": "clothes",
     "latitude": 47.1564661,
     "longitude": 9.8192397,
-    "brand": "Street One"
+    "brand": "Street One",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Takko",
@@ -663,7 +968,11 @@
     "shop": "clothes",
     "latitude": 47.1524888,
     "longitude": 9.8135457,
-    "brand": "Takko"
+    "brand": "Takko",
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tchibo",
@@ -671,7 +980,11 @@
     "shop": "coffee",
     "latitude": 47.1567821,
     "longitude": 9.8183548,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "TEDi",
@@ -679,7 +992,9 @@
     "shop": "variety_store",
     "latitude": 47.152038,
     "longitude": 9.8111332,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Thalia",
@@ -687,14 +1002,18 @@
     "shop": "books",
     "latitude": 47.1505501,
     "longitude": 9.8126506,
-    "brand": "Thalia"
+    "brand": "Thalia",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.1505217,
-    "longitude": 9.8124797
+    "longitude": 9.8124797,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tom Tailor",
@@ -702,7 +1021,9 @@
     "shop": "clothes",
     "latitude": 47.1506594,
     "longitude": 9.812541,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tom Tailor",
@@ -710,28 +1031,42 @@
     "shop": "clothes",
     "latitude": 47.156413,
     "longitude": 9.8189241,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trafik Elmenreich",
     "retailer": "trafik_elmenreich",
     "shop": "tobacco",
     "latitude": 47.1524038,
-    "longitude": 9.8167727
+    "longitude": 9.8167727,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tschabrun",
     "retailer": "tschabrun",
     "shop": "wood",
     "latitude": 47.1501334,
-    "longitude": 9.8163894
+    "longitude": 9.8163894,
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tyrolia",
     "retailer": "tyrolia",
     "shop": "books",
     "latitude": 47.1565037,
-    "longitude": 9.8191154
+    "longitude": 9.8191154,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Vero Moda",
@@ -739,21 +1074,31 @@
     "shop": "clothes",
     "latitude": 47.1509213,
     "longitude": 9.8121818,
-    "brand": "Vero Moda"
+    "brand": "Vero Moda",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "walchbewegt",
     "retailer": "walchbewegt",
     "shop": "outdoor",
     "latitude": 47.1544109,
-    "longitude": 9.8163351
+    "longitude": 9.8163351,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Wohnatelier Walter",
     "retailer": "wohnatelier_walter",
     "shop": "interior_decoration",
     "latitude": 47.1559022,
-    "longitude": 9.819043
+    "longitude": 9.819043,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "XXXLutz",
@@ -761,7 +1106,11 @@
     "shop": "furniture",
     "latitude": 47.1506793,
     "longitude": 9.8156872,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Zillertaler Trachtenwelt",
@@ -769,20 +1118,30 @@
     "shop": "clothes",
     "latitude": 47.1559689,
     "longitude": 9.8197442,
-    "brand": "Zillertaler Trachtenwelt"
+    "brand": "Zillertaler Trachtenwelt",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Zimbapark",
     "retailer": "zimbapark",
     "shop": "mall",
     "latitude": 47.1501794,
-    "longitude": 9.8121989
+    "longitude": 9.8121989,
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "ÖBB Reisezentrum",
     "retailer": "obb_reisezentrum",
     "shop": "ticket",
     "latitude": 47.1549972,
-    "longitude": 9.8149484
+    "longitude": 9.8149484,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

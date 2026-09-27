@@ -4,13 +4,19 @@
     "retailer": "kfz_zettel",
     "shop": "car_repair",
     "latitude": 47.0388247,
-    "longitude": 15.6363125
+    "longitude": 15.6363125,
+    "postcode": "8323",
+    "city": "Sankt Marein bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zettel Hofladen",
     "retailer": "zettel_hofladen",
     "shop": "farm",
     "latitude": 47.0385963,
-    "longitude": 15.6359142
+    "longitude": 15.6359142,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

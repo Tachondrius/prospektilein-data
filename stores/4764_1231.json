@@ -5,21 +5,29 @@
     "shop": "convenience",
     "latitude": 47.6495842,
     "longitude": 12.312857,
-    "brand": "BP"
+    "brand": "BP",
+    "postcode": "6344",
+    "city": "Walchsee",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Erharter",
     "retailer": "erharter",
     "shop": "kiosk",
     "latitude": 47.6490407,
-    "longitude": 12.3116831
+    "longitude": 12.3116831,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ-Greiderer",
     "retailer": "kfz_greiderer",
     "shop": "car_repair",
     "latitude": 47.6493528,
-    "longitude": 12.3128353
+    "longitude": 12.3128353,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -27,6 +35,8 @@
     "shop": "convenience",
     "latitude": 47.6488542,
     "longitude": 12.3113494,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

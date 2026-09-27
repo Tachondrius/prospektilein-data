@@ -4,7 +4,9 @@
     "retailer": "konditorei_gansfuss",
     "shop": "bakery",
     "latitude": 47.1067684,
-    "longitude": 16.4609501
+    "longitude": 16.4609501,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Nah & Frisch",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.1063663,
     "longitude": 16.4612465,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "7521",
+    "city": "Eberau",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

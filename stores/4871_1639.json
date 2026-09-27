@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 48.7186863,
     "longitude": 16.3975948,
-    "brand": "Mercedes, Suzuki"
+    "brand": "Mercedes, Suzuki",
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -13,13 +17,21 @@
     "shop": "supermarket",
     "latitude": 48.7185931,
     "longitude": 16.3982247,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Michael Gam",
     "retailer": "michael_gam",
     "shop": "tobacco",
     "latitude": 48.7190445,
-    "longitude": 16.3933775
+    "longitude": 16.3933775,
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 46.9895045,
-    "longitude": 16.2585523
+    "longitude": 16.2585523,
+    "postcode": "7561",
+    "city": "Heiligenkreuz im Lafnitztal",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Billa",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 46.9875562,
     "longitude": 16.252958,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7561",
+    "city": "Heiligenkreuz im Lafnitztal",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

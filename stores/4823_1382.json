@@ -4,21 +4,31 @@
     "retailer": "adesse",
     "shop": "supermarket",
     "latitude": 48.2320891,
-    "longitude": 13.8270809
+    "longitude": 13.8270809,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Aigner United Optics",
     "retailer": "aigner_united_optics",
     "shop": "optician",
     "latitude": 48.2359491,
-    "longitude": 13.8248785
+    "longitude": 13.8248785,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ammerer",
     "retailer": "ammerer",
     "shop": "bed",
     "latitude": 48.2355807,
-    "longitude": 13.8268542
+    "longitude": 13.8268542,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Auto Seifried",
@@ -26,7 +36,11 @@
     "shop": "car",
     "latitude": 48.2327658,
     "longitude": 13.8254152,
-    "brand": "Hyundai;Mitsubishi"
+    "brand": "Hyundai;Mitsubishi",
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Lang",
@@ -34,7 +48,11 @@
     "shop": "car",
     "latitude": 48.2321019,
     "longitude": 13.8249621,
-    "brand": "VW;Audi;Skoda"
+    "brand": "VW;Audi;Skoda",
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Zauner",
@@ -42,49 +60,71 @@
     "shop": "car",
     "latitude": 48.2325869,
     "longitude": 13.8234382,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Balkan Bäckerei",
     "retailer": "balkan_backerei",
     "shop": "bakery",
     "latitude": 48.2348213,
-    "longitude": 13.8299602
+    "longitude": 13.8299602,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Barber Shop 1",
     "retailer": "barber_shop_1",
     "shop": "hairdresser",
     "latitude": 48.2347645,
-    "longitude": 13.8286634
+    "longitude": 13.8286634,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "CTK",
     "retailer": "ctk",
     "shop": "mobile_phone",
     "latitude": 48.2349879,
-    "longitude": 13.8289332
+    "longitude": 13.8289332,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Desidero",
     "retailer": "desidero",
     "shop": "hairdresser",
     "latitude": 48.2320871,
-    "longitude": 13.8272642
+    "longitude": 13.8272642,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Einkaufszentrum Moos",
     "retailer": "einkaufszentrum_moos",
     "shop": "mall",
     "latitude": 48.232355,
-    "longitude": 13.829294
+    "longitude": 13.829294,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Elektro Muggenhumer",
     "retailer": "elektro_muggenhumer",
     "shop": "electronics",
     "latitude": 48.2356241,
-    "longitude": 13.8258667
+    "longitude": 13.8258667,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ernsting's family",
@@ -92,21 +132,31 @@
     "shop": "clothes",
     "latitude": 48.2323422,
     "longitude": 13.8291781,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ersatzteile Resl",
     "retailer": "ersatzteile_resl",
     "shop": "car_parts",
     "latitude": 48.2331516,
-    "longitude": 13.8275093
+    "longitude": 13.8275093,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fitim's Barbershop",
     "retailer": "fitim_s_barbershop",
     "shop": "hairdresser",
     "latitude": 48.2358581,
-    "longitude": 13.8260136
+    "longitude": 13.8260136,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fussl",
@@ -114,21 +164,29 @@
     "shop": "clothes",
     "latitude": 48.2320669,
     "longitude": 13.8293603,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gewußt wie",
     "retailer": "gewut_wie",
     "shop": "chemist",
     "latitude": 48.2348924,
-    "longitude": 13.8295653
+    "longitude": 13.8295653,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gruber & Kurt Wohnmanufaktur",
     "retailer": "gruber_und_kurt_wohnmanufaktur",
     "shop": "interior_decoration",
     "latitude": 48.2350734,
-    "longitude": 13.8265007
+    "longitude": 13.8265007,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hervis",
@@ -136,7 +194,9 @@
     "shop": "sports",
     "latitude": 48.2323173,
     "longitude": 13.8289446,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -144,14 +204,20 @@
     "shop": "supermarket",
     "latitude": 48.2315195,
     "longitude": 13.8299102,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Modellbau Reisl",
     "retailer": "modellbau_reisl",
     "shop": "model",
     "latitude": 48.2346979,
-    "longitude": 13.8287873
+    "longitude": 13.8287873,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Müller",
@@ -159,7 +225,9 @@
     "shop": "chemist",
     "latitude": 48.2322722,
     "longitude": 13.8292926,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "olina Küchen Ing. Klaus Brunnmair",
@@ -167,63 +235,95 @@
     "shop": "kitchen",
     "latitude": 48.2381871,
     "longitude": 13.8235125,
-    "brand": "olina Küchen"
+    "brand": "olina Küchen",
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Papermoon",
     "retailer": "papermoon",
     "shop": "clothes",
     "latitude": 48.2343169,
-    "longitude": 13.8297334
+    "longitude": 13.8297334,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reisewelt",
     "retailer": "reisewelt",
     "shop": "travel_agency",
     "latitude": 48.2354546,
-    "longitude": 13.8271783
+    "longitude": 13.8271783,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Rene Schielin e.U.",
     "retailer": "rene_schielin_e_u",
     "shop": "clothes",
     "latitude": 48.2350666,
-    "longitude": 13.8277817
+    "longitude": 13.8277817,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "sabtours Reisebüro",
     "retailer": "sabtours_reiseburo",
     "shop": "travel_agency",
     "latitude": 48.2348941,
-    "longitude": 13.8282591
+    "longitude": 13.8282591,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schuhmode Lang",
     "retailer": "schuhmode_lang",
     "shop": "shoes",
     "latitude": 48.2342802,
-    "longitude": 13.8299063
+    "longitude": 13.8299063,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stadtbäckerei Burghart",
     "retailer": "stadtbackerei_burghart",
     "shop": "bakery",
     "latitude": 48.23526,
-    "longitude": 13.8281411
+    "longitude": 13.8281411,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sterrer",
     "retailer": "sterrer",
     "shop": "interior_decoration",
     "latitude": 48.2343474,
-    "longitude": 13.8268586
+    "longitude": 13.8268586,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stockinger",
     "retailer": "stockinger",
     "shop": "shoes",
     "latitude": 48.2356513,
-    "longitude": 13.8266391
+    "longitude": 13.8266391,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -231,7 +331,9 @@
     "shop": "clothes",
     "latitude": 48.2350542,
     "longitude": 13.8295323,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TEDi",
@@ -239,20 +341,30 @@
     "shop": "variety_store",
     "latitude": 48.2350205,
     "longitude": 13.8297072,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Waffen Ortner",
     "retailer": "waffen_ortner",
     "shop": "weapons",
     "latitude": 48.2353118,
-    "longitude": 13.8278281
+    "longitude": 13.8278281,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Yes",
     "retailer": "shop_yes",
     "shop": "yes",
     "latitude": 48.2326498,
-    "longitude": 13.8222926
+    "longitude": 13.8222926,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

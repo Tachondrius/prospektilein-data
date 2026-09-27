@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 47.2020112,
     "longitude": 15.3446879,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8120",
+    "city": "Peggau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Biomode peaces.bio Kleiderkunst.Atelier",
     "retailer": "biomode_peaces_bio_kleiderkunst_atelier",
     "shop": "clothes",
     "latitude": 47.204349,
-    "longitude": 15.3425933
+    "longitude": 15.3425933,
+    "postcode": "8120",
+    "city": "Peggau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -20,7 +28,11 @@
     "shop": "chemist",
     "latitude": 47.202795,
     "longitude": 15.3448452,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8120",
+    "city": "Peggau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
@@ -28,14 +40,18 @@
     "shop": "hairdresser",
     "latitude": 47.2026369,
     "longitude": 15.3449161,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Krammer",
     "retailer": "krammer",
     "shop": "florist",
     "latitude": 47.2025672,
-    "longitude": 15.3449425
+    "longitude": 15.3449425,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -43,7 +59,9 @@
     "shop": "clothes",
     "latitude": 47.2028418,
     "longitude": 15.3448392,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -51,6 +69,10 @@
     "shop": "supermarket",
     "latitude": 47.2009582,
     "longitude": 15.3464047,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8120",
+    "city": "Peggau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

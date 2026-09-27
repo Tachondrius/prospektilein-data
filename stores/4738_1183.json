@@ -4,7 +4,9 @@
     "retailer": "aus_und_raus",
     "shop": "convenience",
     "latitude": 47.381814,
-    "longitude": 11.8327432
+    "longitude": 11.8327432,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Autohaus Schlitters",
@@ -12,28 +14,40 @@
     "shop": "car",
     "latitude": 47.3826496,
     "longitude": 11.8321067,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "6262",
+    "city": "Schlitters",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "BestDrive",
     "retailer": "bestdrive",
     "shop": "tyres",
     "latitude": 47.3822957,
-    "longitude": 11.8322373
+    "longitude": 11.8322373,
+    "postcode": "6262",
+    "city": "Schlitters",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bikepalast",
     "retailer": "bikepalast",
     "shop": "bicycle",
     "latitude": 47.3818212,
-    "longitude": 11.8326509
+    "longitude": 11.8326509,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 47.3821175,
-    "longitude": 11.8327986
+    "longitude": 11.8327986,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -41,21 +55,27 @@
     "shop": "chemist",
     "latitude": 47.381629,
     "longitude": 11.8330013,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hager",
     "retailer": "hager",
     "shop": "bakery",
     "latitude": 47.3804974,
-    "longitude": 11.839185
+    "longitude": 11.839185,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk Schlitterer See",
     "retailer": "kiosk_schlitterer_see",
     "shop": "kiosk",
     "latitude": 47.3836653,
-    "longitude": 11.8396139
+    "longitude": 11.8396139,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Takko",
@@ -63,6 +83,8 @@
     "shop": "clothes",
     "latitude": 47.3818918,
     "longitude": 11.8326712,
-    "brand": "Takko"
+    "brand": "Takko",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

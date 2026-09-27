@@ -4,7 +4,11 @@
     "retailer": "13er_fashion",
     "shop": "clothes",
     "latitude": 47.4870177,
-    "longitude": 12.064739
+    "longitude": 12.064739,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Action",
@@ -12,35 +16,49 @@
     "shop": "variety_store",
     "latitude": 47.4894329,
     "longitude": 12.0611885,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Admiral",
     "retailer": "admiral",
     "shop": "bookmaker",
     "latitude": 47.4868608,
-    "longitude": 12.0633335
+    "longitude": 12.0633335,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Alisan",
     "retailer": "alisan",
     "shop": "hairdresser",
     "latitude": 47.4866828,
-    "longitude": 12.0662751
+    "longitude": 12.0662751,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Armstark",
     "retailer": "armstark",
     "shop": "bathroom_furnishing",
     "latitude": 47.4840218,
-    "longitude": 12.0612748
+    "longitude": 12.0612748,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Atlas",
     "retailer": "atlas",
     "shop": "hairdresser",
     "latitude": 47.4860557,
-    "longitude": 12.0639163
+    "longitude": 12.0639163,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -48,35 +66,47 @@
     "shop": "bakery",
     "latitude": 47.4871818,
     "longitude": 12.0646853,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bergspezl",
     "retailer": "bergspezl",
     "shop": "outdoor",
     "latitude": 47.4881202,
-    "longitude": 12.0690514
+    "longitude": 12.0690514,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bestattung Fischer",
     "retailer": "bestattung_fischer",
     "shop": "funeral_directors",
     "latitude": 47.4873875,
-    "longitude": 12.0616981
+    "longitude": 12.0616981,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bestattung Linser",
     "retailer": "bestattung_linser",
     "shop": "funeral_directors",
     "latitude": 47.4816938,
-    "longitude": 12.0696817
+    "longitude": 12.0696817,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Betti's Bioladä",
     "retailer": "betti_s_biolada",
     "shop": "convenience",
     "latitude": 47.4883785,
-    "longitude": 12.0642831
+    "longitude": 12.0642831,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa Plus",
@@ -84,7 +114,11 @@
     "shop": "supermarket",
     "latitude": 47.489012,
     "longitude": 12.0696295,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -92,21 +126,29 @@
     "shop": "chemist",
     "latitude": 47.4894047,
     "longitude": 12.0612685,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bookmaker",
     "retailer": "shop_bookmaker",
     "shop": "bookmaker",
     "latitude": 47.4871678,
-    "longitude": 12.0633687
+    "longitude": 12.0633687,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Brotbuben",
     "retailer": "brotbuben",
     "shop": "bakery",
     "latitude": 47.4885513,
-    "longitude": 12.0695045
+    "longitude": 12.0695045,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "C&A",
@@ -114,14 +156,20 @@
     "shop": "clothes",
     "latitude": 47.4886447,
     "longitude": 12.0634837,
-    "brand": "C&A"
+    "brand": "C&A",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Caracas",
     "retailer": "caracas",
     "shop": "shoes",
     "latitude": 47.4896078,
-    "longitude": 12.0621561
+    "longitude": 12.0621561,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Cecil",
@@ -129,56 +177,80 @@
     "shop": "clothes",
     "latitude": 47.4884807,
     "longitude": 12.0636327,
-    "brand": "Cecil"
+    "brand": "Cecil",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Chaos Hairconcept",
     "retailer": "chaos_hairconcept",
     "shop": "hairdresser",
     "latitude": 47.4864593,
-    "longitude": 12.0663062
+    "longitude": 12.0663062,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "chk.at Computer",
     "retailer": "chk_at_computer",
     "shop": "computer",
     "latitude": 47.4839865,
-    "longitude": 12.0600916
+    "longitude": 12.0600916,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Christophorus Reisen",
     "retailer": "christophorus_reisen",
     "shop": "travel_agency",
     "latitude": 47.488654,
-    "longitude": 12.0697844
+    "longitude": 12.0697844,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "City Center",
     "retailer": "city_center",
     "shop": "mall",
     "latitude": 47.4892995,
-    "longitude": 12.0613029
+    "longitude": 12.0613029,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Claudia's Saftladen",
     "retailer": "claudia_s_saftladen",
     "shop": "deli",
     "latitude": 47.4894348,
-    "longitude": 12.0627398
+    "longitude": 12.0627398,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Daniel's Haare",
     "retailer": "daniel_s_haare",
     "shop": "hairdresser",
     "latitude": 47.4883669,
-    "longitude": 12.0694427
+    "longitude": 12.0694427,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Danillo",
     "retailer": "danillo",
     "shop": "clothes",
     "latitude": 47.4897456,
-    "longitude": 12.0621523
+    "longitude": 12.0621523,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Deichmann",
@@ -186,28 +258,40 @@
     "shop": "shoes",
     "latitude": 47.4889126,
     "longitude": 12.0694215,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "di Daniele",
     "retailer": "di_daniele",
     "shop": "clothes",
     "latitude": 47.4856268,
-    "longitude": 12.0643788
+    "longitude": 12.0643788,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Diadoro",
     "retailer": "diadoro",
     "shop": "jewelry",
     "latitude": 47.4886095,
-    "longitude": 12.0697379
+    "longitude": 12.0697379,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dm",
     "retailer": "dm",
     "shop": "hairdresser",
     "latitude": 47.4888363,
-    "longitude": 12.0624275
+    "longitude": 12.0624275,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dm",
@@ -215,14 +299,20 @@
     "shop": "chemist",
     "latitude": 47.4890176,
     "longitude": 12.0628195,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elviro",
     "retailer": "elviro",
     "shop": "clothes",
     "latitude": 47.4882153,
-    "longitude": 12.0638933
+    "longitude": 12.0638933,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ernsting's family",
@@ -230,42 +320,60 @@
     "shop": "clothes",
     "latitude": 47.4879366,
     "longitude": 12.0641533,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "EU-Design",
     "retailer": "eu_design",
     "shop": "interior_decoration",
     "latitude": 47.4826378,
-    "longitude": 12.0671215
+    "longitude": 12.0671215,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fabi",
     "retailer": "fabi",
     "shop": "interior_decoration",
     "latitude": 47.484183,
-    "longitude": 12.0605475
+    "longitude": 12.0605475,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farbmacher",
     "retailer": "farbmacher",
     "shop": "bakery",
     "latitude": 47.4866509,
-    "longitude": 12.063369
+    "longitude": 12.063369,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Festa della Moda",
     "retailer": "festa_della_moda",
     "shop": "clothes",
     "latitude": 47.4893508,
-    "longitude": 12.0611223
+    "longitude": 12.0611223,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Feuchteseele",
     "retailer": "feuchteseele",
     "shop": "clothes",
     "latitude": 47.4888108,
-    "longitude": 12.0695457
+    "longitude": 12.0695457,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fielmann",
@@ -273,21 +381,27 @@
     "shop": "optician",
     "latitude": 47.4889783,
     "longitude": 12.0631513,
-    "brand": "Fielmann"
+    "brand": "Fielmann",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fischer",
     "retailer": "fischer",
     "shop": "jewelry",
     "latitude": 47.4867649,
-    "longitude": 12.0668766
+    "longitude": 12.0668766,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "For Men",
     "retailer": "for_men",
     "shop": "hairdresser",
     "latitude": 47.4896867,
-    "longitude": 12.0625258
+    "longitude": 12.0625258,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fressnapf",
@@ -295,7 +409,11 @@
     "shop": "pet",
     "latitude": 47.4829295,
     "longitude": 12.0604893,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fussl Modestraße",
@@ -303,14 +421,22 @@
     "shop": "clothes",
     "latitude": 47.4890142,
     "longitude": 12.0697747,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "GEA",
     "retailer": "gea",
     "shop": "shoes",
     "latitude": 47.4890886,
-    "longitude": 12.0601764
+    "longitude": 12.0601764,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gerry Weber",
@@ -318,42 +444,58 @@
     "shop": "clothes",
     "latitude": 47.488809,
     "longitude": 12.063038,
-    "brand": "Gerry Weber"
+    "brand": "Gerry Weber",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Golden Style",
     "retailer": "golden_style",
     "shop": "hairdresser",
     "latitude": 47.4866806,
-    "longitude": 12.0650315
+    "longitude": 12.0650315,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gombasch",
     "retailer": "gombasch",
     "shop": "hairdresser",
     "latitude": 47.4888008,
-    "longitude": 12.0632925
+    "longitude": 12.0632925,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Graus",
     "retailer": "graus",
     "shop": "butcher",
     "latitude": 47.4868888,
-    "longitude": 12.0667034
+    "longitude": 12.0667034,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gärtnerei Gwiggner",
     "retailer": "gartnerei_gwiggner",
     "shop": "florist",
     "latitude": 47.4843739,
-    "longitude": 12.0667634
+    "longitude": 12.0667634,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Halis Markt",
     "retailer": "halis_markt",
     "shop": "convenience",
     "latitude": 47.4868261,
-    "longitude": 12.0645869
+    "longitude": 12.0645869,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hansaton",
@@ -361,7 +503,9 @@
     "shop": "hearing_aids",
     "latitude": 47.4885778,
     "longitude": 12.0635347,
-    "brand": "Hansaton"
+    "brand": "Hansaton",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hartlauer",
@@ -369,28 +513,38 @@
     "shop": "electronics",
     "latitude": 47.4881668,
     "longitude": 12.0635584,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Heindl",
     "retailer": "heindl",
     "shop": "medical_supply",
     "latitude": 47.4878437,
-    "longitude": 12.0691161
+    "longitude": 12.0691161,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Huber",
     "retailer": "huber",
     "shop": "clothes",
     "latitude": 47.4893026,
-    "longitude": 12.0625717
+    "longitude": 12.0625717,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hueber Mobiles",
     "retailer": "hueber_mobiles",
     "shop": "mobile_phone",
     "latitude": 47.4874765,
-    "longitude": 12.0644997
+    "longitude": 12.0644997,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hunkemöller",
@@ -398,35 +552,47 @@
     "shop": "clothes",
     "latitude": 47.4883972,
     "longitude": 12.0637256,
-    "brand": "Hunkemöller"
+    "brand": "Hunkemöller",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hörtnagl",
     "retailer": "hortnagl",
     "shop": "butcher",
     "latitude": 47.4885888,
-    "longitude": 12.0695305
+    "longitude": 12.0695305,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hörtnagl",
     "retailer": "hortnagl",
     "shop": "butcher",
     "latitude": 47.4894123,
-    "longitude": 12.0618785
+    "longitude": 12.0618785,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Il Gusto di Mario",
     "retailer": "il_gusto_di_mario",
     "shop": "deli",
     "latitude": 47.4892906,
-    "longitude": 12.061855
+    "longitude": 12.061855,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Josef Rupprechter",
     "retailer": "josef_rupprechter",
     "shop": "hairdresser",
     "latitude": 47.4857313,
-    "longitude": 12.0642294
+    "longitude": 12.0642294,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Joy of Coffee",
@@ -434,14 +600,18 @@
     "shop": "appliance",
     "latitude": 47.4837574,
     "longitude": 12.0605046,
-    "brand": "Jura"
+    "brand": "Jura",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kapferer",
     "retailer": "kapferer",
     "shop": "fabric",
     "latitude": 47.4892398,
-    "longitude": 12.061782
+    "longitude": 12.061782,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kik",
@@ -449,70 +619,96 @@
     "shop": "clothes",
     "latitude": 47.489218,
     "longitude": 12.0608757,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kirschl",
     "retailer": "kirschl",
     "shop": "bed",
     "latitude": 47.4873292,
-    "longitude": 12.06799
+    "longitude": 12.06799,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kirschl",
     "retailer": "kirschl",
     "shop": "interior_decoration",
     "latitude": 47.4876072,
-    "longitude": 12.068014
+    "longitude": 12.068014,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kolland",
     "retailer": "kolland",
     "shop": "newsagent",
     "latitude": 47.4870844,
-    "longitude": 12.0646843
+    "longitude": 12.0646843,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Landmann",
     "retailer": "landmann",
     "shop": "hairdresser",
     "latitude": 47.487967,
-    "longitude": 12.0638084
+    "longitude": 12.0638084,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Le Chat",
     "retailer": "le_chat",
     "shop": "clothes",
     "latitude": 47.4877666,
-    "longitude": 12.0643263
+    "longitude": 12.0643263,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lederwaren Grimm",
     "retailer": "lederwaren_grimm",
     "shop": "leather",
     "latitude": 47.487401,
-    "longitude": 12.0645276
+    "longitude": 12.0645276,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Leylaz Cut",
     "retailer": "leylaz_cut",
     "shop": "hairdresser",
     "latitude": 47.4897332,
-    "longitude": 12.0624793
+    "longitude": 12.0624793,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lieblingsstück",
     "retailer": "lieblingsstuck",
     "shop": "clothes",
     "latitude": 47.4889077,
-    "longitude": 12.0629326
+    "longitude": 12.0629326,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lodenhaus Tyrol",
     "retailer": "lodenhaus_tyrol",
     "shop": "clothes",
     "latitude": 47.486805,
-    "longitude": 12.064964
+    "longitude": 12.064964,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Marionnaud",
@@ -520,14 +716,20 @@
     "shop": "perfumery",
     "latitude": 47.4884368,
     "longitude": 12.0636815,
-    "brand": "Marionnaud"
+    "brand": "Marionnaud",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Maxis Mode",
     "retailer": "maxis_mode",
     "shop": "clothes",
     "latitude": 47.4878473,
-    "longitude": 12.0691565
+    "longitude": 12.0691565,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Miller United Optics",
@@ -535,28 +737,36 @@
     "shop": "optician",
     "latitude": 47.4879937,
     "longitude": 12.0640929,
-    "brand": "United Optics"
+    "brand": "United Optics",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mitache",
     "retailer": "mitache",
     "shop": "convenience",
     "latitude": 47.4885226,
-    "longitude": 12.0645822
+    "longitude": 12.0645822,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mitterer",
     "retailer": "mitterer",
     "shop": "bakery",
     "latitude": 47.485615,
-    "longitude": 12.064089
+    "longitude": 12.064089,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mitterer",
     "retailer": "mitterer",
     "shop": "bakery",
     "latitude": 47.4892039,
-    "longitude": 12.0629447
+    "longitude": 12.0629447,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Moreboards",
@@ -564,7 +774,9 @@
     "shop": "clothes",
     "latitude": 47.4876924,
     "longitude": 12.0643698,
-    "brand": "Moreboards"
+    "brand": "Moreboards",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -572,21 +784,31 @@
     "shop": "supermarket",
     "latitude": 47.4872447,
     "longitude": 12.064779,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MyShoes",
     "retailer": "myshoes",
     "shop": "shoes",
     "latitude": 47.4889787,
-    "longitude": 12.0695988
+    "longitude": 12.0695988,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nagelstudio T-Nails American Style",
     "retailer": "nagelstudio_t_nails_american_style",
     "shop": "beauty",
     "latitude": 47.4875139,
-    "longitude": 12.0644722
+    "longitude": 12.0644722,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Natur Laden",
@@ -594,7 +816,9 @@
     "shop": "nutrition_supplements",
     "latitude": 47.4898225,
     "longitude": 12.0621043,
-    "brand": "CurcuWid"
+    "brand": "CurcuWid",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Neuroth",
@@ -602,14 +826,20 @@
     "shop": "hearing_aids",
     "latitude": 47.4878242,
     "longitude": 12.0642675,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Northland",
     "retailer": "northland",
     "shop": "outdoor",
     "latitude": 47.4877794,
-    "longitude": 12.0639779
+    "longitude": 12.0639779,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Only",
@@ -617,28 +847,38 @@
     "shop": "clothes",
     "latitude": 47.4885532,
     "longitude": 12.0696573,
-    "brand": "ONLY"
+    "brand": "ONLY",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Orthopädie & Schuhtechnik Horngacher",
     "retailer": "orthopadie_und_schuhtechnik_horngacher",
     "shop": "shoes",
     "latitude": 47.4860704,
-    "longitude": 12.0632613
+    "longitude": 12.0632613,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Orthopädie Schneck",
     "retailer": "orthopadie_schneck",
     "shop": "shoes",
     "latitude": 47.4898839,
-    "longitude": 12.0623332
+    "longitude": 12.0623332,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pal",
     "retailer": "pal",
     "shop": "window_blind",
     "latitude": 47.48573,
-    "longitude": 12.068015
+    "longitude": 12.068015,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Palmers",
@@ -646,42 +886,56 @@
     "shop": "clothes",
     "latitude": 47.4896189,
     "longitude": 12.0622889,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Phönix die Textilreinigung",
     "retailer": "phonix_die_textilreinigung",
     "shop": "laundry",
     "latitude": 47.4880873,
-    "longitude": 12.0645657
+    "longitude": 12.0645657,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Puchwald",
     "retailer": "puchwald",
     "shop": "jewelry",
     "latitude": 47.489958,
-    "longitude": 12.0619837
+    "longitude": 12.0619837,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Raumdesign Steiner",
     "retailer": "raumdesign_steiner",
     "shop": "interior_decoration",
     "latitude": 47.4884642,
-    "longitude": 12.064473
+    "longitude": 12.064473,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reformstark Martin",
     "retailer": "reformstark_martin",
     "shop": "convenience",
     "latitude": 47.4887432,
-    "longitude": 12.0693119
+    "longitude": 12.0693119,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reisedienst Alpbachtal",
     "retailer": "reisedienst_alpbachtal",
     "shop": "travel_agency",
     "latitude": 47.486033,
-    "longitude": 12.066115
+    "longitude": 12.066115,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rituals",
@@ -689,7 +943,11 @@
     "shop": "cosmetics",
     "latitude": 47.4888863,
     "longitude": 12.069691,
-    "brand": "Rituals"
+    "brand": "Rituals",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ruetz",
@@ -697,21 +955,29 @@
     "shop": "bakery",
     "latitude": 47.489472,
     "longitude": 12.0623161,
-    "brand": "Der Bäcker Ruetz"
+    "brand": "Der Bäcker Ruetz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Runi",
     "retailer": "runi",
     "shop": "boutique",
     "latitude": 47.4885358,
-    "longitude": 12.069768
+    "longitude": 12.069768,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schlögl",
     "retailer": "schlogl",
     "shop": "butcher",
     "latitude": 47.4854341,
-    "longitude": 12.0644399
+    "longitude": 12.0644399,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Smyths",
@@ -719,7 +985,9 @@
     "shop": "toys",
     "latitude": 47.4892439,
     "longitude": 12.0613394,
-    "brand": "Smyths"
+    "brand": "Smyths",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Snipes",
@@ -727,7 +995,11 @@
     "shop": "shoes",
     "latitude": 47.4886127,
     "longitude": 12.0698378,
-    "brand": "Snipes"
+    "brand": "Snipes",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -735,35 +1007,45 @@
     "shop": "supermarket",
     "latitude": 47.4891313,
     "longitude": 12.0611589,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sportwetten",
     "retailer": "sportwetten",
     "shop": "bookmaker",
     "latitude": 47.4870298,
-    "longitude": 12.0621359
+    "longitude": 12.0621359,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Stadtjuwelier Hüttner",
     "retailer": "stadtjuwelier_huttner",
     "shop": "jewelry",
     "latitude": 47.488906,
-    "longitude": 12.0631806
+    "longitude": 12.0631806,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Star",
     "retailer": "star",
     "shop": "bookmaker",
     "latitude": 47.4859471,
-    "longitude": 12.0637431
+    "longitude": 12.0637431,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Steamy Mountain",
     "retailer": "steamy_mountain",
     "shop": "e-cigarette",
     "latitude": 47.4888397,
-    "longitude": 12.0632498
+    "longitude": 12.0632498,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Street One",
@@ -771,28 +1053,36 @@
     "shop": "clothes",
     "latitude": 47.4885212,
     "longitude": 12.0635876,
-    "brand": "Street One"
+    "brand": "Street One",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sunlight",
     "retailer": "sunlight",
     "shop": "beauty",
     "latitude": 47.4887476,
-    "longitude": 12.0611784
+    "longitude": 12.0611784,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T-Mobile Shop",
     "retailer": "t_mobile_shop",
     "shop": "mobile_phone",
     "latitude": 47.4878769,
-    "longitude": 12.0694225
+    "longitude": 12.0694225,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Schmid",
     "retailer": "tabak_schmid",
     "shop": "kiosk",
     "latitude": 47.4898638,
-    "longitude": 12.0620638
+    "longitude": 12.0620638,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tchibo",
@@ -800,7 +1090,9 @@
     "shop": "coffee",
     "latitude": 47.4882796,
     "longitude": 12.0638159,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TEDi",
@@ -808,21 +1100,27 @@
     "shop": "variety_store",
     "latitude": 47.4892847,
     "longitude": 12.0628858,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Teleplanet",
     "retailer": "teleplanet",
     "shop": "mobile_phone",
     "latitude": 47.489436,
-    "longitude": 12.0627442
+    "longitude": 12.0627442,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Thomas Philipps",
     "retailer": "thomas_philipps",
     "shop": "variety_store",
     "latitude": 47.48818,
-    "longitude": 12.0699875
+    "longitude": 12.0699875,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tipico",
@@ -830,7 +1128,9 @@
     "shop": "bookmaker",
     "latitude": 47.4866502,
     "longitude": 12.0630406,
-    "brand": "Tipico"
+    "brand": "Tipico",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tom Tailor",
@@ -838,7 +1138,9 @@
     "shop": "clothes",
     "latitude": 47.4880173,
     "longitude": 12.0636979,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tom Tailor",
@@ -846,7 +1148,9 @@
     "shop": "clothes",
     "latitude": 47.4894535,
     "longitude": 12.0613795,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Triumph",
@@ -854,14 +1158,20 @@
     "shop": "clothes",
     "latitude": 47.4878892,
     "longitude": 12.0638549,
-    "brand": "Triumph"
+    "brand": "Triumph",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tyrol Pneu",
     "retailer": "tyrol_pneu",
     "shop": "tyres",
     "latitude": 47.4879591,
-    "longitude": 12.0685831
+    "longitude": 12.0685831,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "United Colors of Benetton",
@@ -869,35 +1179,45 @@
     "shop": "clothes",
     "latitude": 47.4897736,
     "longitude": 12.0624398,
-    "brand": "United Colors of Benetton"
+    "brand": "United Colors of Benetton",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Waschhaus",
     "retailer": "waschhaus",
     "shop": "laundry",
     "latitude": 47.4888697,
-    "longitude": 12.0604509
+    "longitude": 12.0604509,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Werkbank",
     "retailer": "werkbank",
     "shop": "furniture",
     "latitude": 47.4862297,
-    "longitude": 12.0678377
+    "longitude": 12.0678377,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "wutscher",
     "retailer": "wutscher",
     "shop": "optician",
     "latitude": 47.4890129,
-    "longitude": 12.0699825
+    "longitude": 12.0699825,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zangerl",
     "retailer": "zangerl",
     "shop": "books",
     "latitude": 47.4864532,
-    "longitude": 12.0658937
+    "longitude": 12.0658937,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "ÖAMTC Wörgl",
@@ -905,6 +1225,10 @@
     "shop": "car_repair",
     "latitude": 47.4835984,
     "longitude": 12.060246,
-    "brand": "ÖAMTC"
+    "brand": "ÖAMTC",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

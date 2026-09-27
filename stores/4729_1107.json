@@ -4,7 +4,11 @@
     "retailer": "canal_und_co",
     "shop": "doityourself",
     "latitude": 47.2997789,
-    "longitude": 11.0773664
+    "longitude": 11.0773664,
+    "postcode": "6405",
+    "city": "Pfaffenhofen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -12,20 +16,30 @@
     "shop": "supermarket",
     "latitude": 47.2997065,
     "longitude": 11.0739076,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Truck Center",
     "retailer": "truck_center",
     "shop": "car_repair",
     "latitude": 47.2988543,
-    "longitude": 11.0721366
+    "longitude": 11.0721366,
+    "postcode": "6405",
+    "city": "Pfaffenhofen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Unser Lagerhaus",
     "retailer": "unser_lagerhaus",
     "shop": "garden_centre",
     "latitude": 47.2998522,
-    "longitude": 11.0729166
+    "longitude": 11.0729166,
+    "postcode": "6405",
+    "city": "Pfaffenhofen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

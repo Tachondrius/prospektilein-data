@@ -4,14 +4,20 @@
     "retailer": "bieraterie_craft_beer_shop",
     "shop": "beverages",
     "latitude": 47.4480822,
-    "longitude": 11.8873011
+    "longitude": 11.8873011,
+    "postcode": "6233",
+    "city": "Kramsach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bike Profi 31",
     "retailer": "bike_profi_31",
     "shop": "bicycle",
     "latitude": 47.4467601,
-    "longitude": 11.8838495
+    "longitude": 11.8838495,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -19,28 +25,42 @@
     "shop": "supermarket",
     "latitude": 47.4462306,
     "longitude": 11.8834603,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6233",
+    "city": "Kramsach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Mitterer",
     "retailer": "backerei_mitterer",
     "shop": "bakery",
     "latitude": 47.446873,
-    "longitude": 11.8837754
+    "longitude": 11.8837754,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Duftner",
     "retailer": "duftner",
     "shop": "supermarket",
     "latitude": 47.4481116,
-    "longitude": 11.8837106
+    "longitude": 11.8837106,
+    "postcode": "6233",
+    "city": "Kramsach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Konditorei Freudenschuss",
     "retailer": "konditorei_freudenschuss",
     "shop": "pastry",
     "latitude": 47.4464469,
-    "longitude": 11.8845272
+    "longitude": 11.8845272,
+    "postcode": "6233",
+    "city": "Kramsach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -48,27 +68,39 @@
     "shop": "supermarket",
     "latitude": 47.4431725,
     "longitude": 11.8801184,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6233",
+    "city": "Kramsach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Raumausstatter Haaser",
     "retailer": "raumausstatter_haaser",
     "shop": "interior_decoration",
     "latitude": 47.4440665,
-    "longitude": 11.8813494
+    "longitude": 11.8813494,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 47.4467811,
-    "longitude": 11.8850954
+    "longitude": 11.8850954,
+    "postcode": "6233",
+    "city": "Kramsach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Lang",
     "retailer": "trafik_lang",
     "shop": "tobacco",
     "latitude": 47.4466606,
-    "longitude": 11.8839276
+    "longitude": 11.8839276,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

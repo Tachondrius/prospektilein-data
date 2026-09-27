@@ -4,13 +4,19 @@
     "retailer": "backerei_mitterbauer",
     "shop": "bakery",
     "latitude": 48.2487936,
-    "longitude": 14.0451949
+    "longitude": 14.0451949,
+    "postcode": "4612",
+    "city": "Scharten",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.2496172,
-    "longitude": 14.0472759
+    "longitude": 14.0472759,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

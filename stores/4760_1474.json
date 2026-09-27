@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.6032741,
     "longitude": 14.7477185,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "postcode": "8920",
+    "city": "Hieflau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -13,13 +17,19 @@
     "shop": "supermarket",
     "latitude": 47.6070045,
     "longitude": 14.7440267,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8920",
+    "city": "Landl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Styling Salon Claudia",
     "retailer": "styling_salon_claudia",
     "shop": "hairdresser",
     "latitude": 47.606854,
-    "longitude": 14.7439721
+    "longitude": 14.7439721,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

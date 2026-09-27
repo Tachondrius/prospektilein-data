@@ -5,7 +5,9 @@
     "shop": "bakery",
     "latitude": 47.6343438,
     "longitude": 12.2136448,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -13,70 +15,96 @@
     "shop": "chemist",
     "latitude": 47.6305315,
     "longitude": 12.2140295,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6341",
+    "city": "Ebbs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumenstube Elisabeth",
     "retailer": "blumenstube_elisabeth",
     "shop": "florist",
     "latitude": 47.6346367,
-    "longitude": 12.2136548
+    "longitude": 12.2136548,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Horngacher",
     "retailer": "backerei_horngacher",
     "shop": "bakery",
     "latitude": 47.630215,
-    "longitude": 12.2156805
+    "longitude": 12.2156805,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Menna",
     "retailer": "friseur_menna",
     "shop": "hairdresser",
     "latitude": 47.6309302,
-    "longitude": 12.214473
+    "longitude": 12.214473,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Glonner",
     "retailer": "glonner",
     "shop": "car_repair",
     "latitude": 47.6326526,
-    "longitude": 12.2128115
+    "longitude": 12.2128115,
+    "postcode": "6341",
+    "city": "Ebbs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gründler Zäune",
     "retailer": "grundler_zaune",
     "shop": "trade",
     "latitude": 47.6331679,
-    "longitude": 12.212524
+    "longitude": 12.212524,
+    "postcode": "6341",
+    "city": "Ebbs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haar Exklusive Ebbs",
     "retailer": "haar_exklusive_ebbs",
     "shop": "hairdresser",
     "latitude": 47.6300534,
-    "longitude": 12.2156209
+    "longitude": 12.2156209,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mayer KEG Getränkehandel",
     "retailer": "mayer_keg_getrankehandel",
     "shop": "beverages",
     "latitude": 47.6381658,
-    "longitude": 12.2170792
+    "longitude": 12.2170792,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Wäger",
     "retailer": "metzgerei_wager",
     "shop": "butcher",
     "latitude": 47.6377998,
-    "longitude": 12.2169346
+    "longitude": 12.2169346,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Modehaus Kink",
     "retailer": "modehaus_kink",
     "shop": "clothes",
     "latitude": 47.6300703,
-    "longitude": 12.2154109
+    "longitude": 12.2154109,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -84,7 +112,9 @@
     "shop": "supermarket",
     "latitude": 47.6340953,
     "longitude": 12.2136126,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -92,55 +122,73 @@
     "shop": "clothes",
     "latitude": 47.6306089,
     "longitude": 12.2141346,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "PB-shop",
     "retailer": "pb_shop",
     "shop": "clothes",
     "latitude": 47.6314552,
-    "longitude": 12.2143131
+    "longitude": 12.2143131,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pichler",
     "retailer": "pichler",
     "shop": "hardware",
     "latitude": 47.6344174,
-    "longitude": 12.2144926
+    "longitude": 12.2144926,
+    "postcode": "6341",
+    "city": "Ebbs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reisebüro Fortuna Reisen",
     "retailer": "reiseburo_fortuna_reisen",
     "shop": "travel_agency",
     "latitude": 47.6353311,
-    "longitude": 12.2160535
+    "longitude": 12.2160535,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Speck Mayer",
     "retailer": "speck_mayer",
     "shop": "deli",
     "latitude": 47.6382686,
-    "longitude": 12.217137
+    "longitude": 12.217137,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Steinbacher",
     "retailer": "steinbacher",
     "shop": "shoes",
     "latitude": 47.6308127,
-    "longitude": 12.214496
+    "longitude": 12.214496,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tapezierer Seiler",
     "retailer": "tapezierer_seiler",
     "shop": "curtain",
     "latitude": 47.638281,
-    "longitude": 12.2176652
+    "longitude": 12.2176652,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Toyota Aniser",
     "retailer": "toyota_aniser",
     "shop": "car",
     "latitude": 47.633553,
-    "longitude": 12.2145511
+    "longitude": 12.2145511,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

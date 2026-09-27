@@ -5,28 +5,40 @@
     "shop": "supermarket",
     "latitude": 46.7705827,
     "longitude": 14.3655517,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Garden Centre",
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 46.773237,
-    "longitude": 14.3676134
+    "longitude": 14.3676134,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kfz Holzmann",
     "retailer": "kfz_holzmann",
     "shop": "car_repair",
     "latitude": 46.778905,
-    "longitude": 14.36979
+    "longitude": 14.36979,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Reifen Plankenauer",
     "retailer": "reifen_plankenauer",
     "shop": "tyres",
     "latitude": 46.7728544,
-    "longitude": 14.3668461
+    "longitude": 14.3668461,
+    "postcode": "9300",
+    "city": "St. Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar Express",
@@ -34,6 +46,8 @@
     "shop": "convenience",
     "latitude": 46.7722485,
     "longitude": 14.3671006,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

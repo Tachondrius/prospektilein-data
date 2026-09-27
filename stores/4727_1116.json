@@ -4,7 +4,11 @@
     "retailer": "backerei_schluifer",
     "shop": "bakery",
     "latitude": 47.277755,
-    "longitude": 11.1676079
+    "longitude": 11.1676079,
+    "postcode": "6402",
+    "city": "Hatting",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -12,13 +16,19 @@
     "shop": "supermarket",
     "latitude": 47.2777199,
     "longitude": 11.1676541,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6402",
+    "city": "Hatting",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "rina.braut.konzept",
     "retailer": "rina_braut_konzept",
     "shop": "clothes",
     "latitude": 47.2739219,
-    "longitude": 11.1642163
+    "longitude": 11.1642163,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

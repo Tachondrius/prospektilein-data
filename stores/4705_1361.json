@@ -4,7 +4,11 @@
     "retailer": "fresch_up",
     "shop": "outdoor",
     "latitude": 47.0577927,
-    "longitude": 13.613151
+    "longitude": 13.613151,
+    "postcode": "9863",
+    "city": "Rennweg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Intersport",
@@ -12,20 +16,30 @@
     "shop": "sports",
     "latitude": 47.0597175,
     "longitude": 13.6146262,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lärchenhof",
     "retailer": "larchenhof",
     "shop": "supermarket",
     "latitude": 47.0578912,
-    "longitude": 13.6140819
+    "longitude": 13.6140819,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sportalm Friedrich",
     "retailer": "sportalm_friedrich",
     "shop": "sports",
     "latitude": 47.0589801,
-    "longitude": 13.6145489
+    "longitude": 13.6145489,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

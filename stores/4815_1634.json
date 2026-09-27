@@ -4,7 +4,11 @@
     "retailer": "arbo_wien_sud",
     "shop": "car",
     "latitude": 48.1569851,
-    "longitude": 16.3425085
+    "longitude": 16.3425085,
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 48.1561005,
     "longitude": 16.3433599,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa Now",
@@ -20,21 +28,31 @@
     "shop": "convenience",
     "latitude": 48.1573288,
     "longitude": 16.3410644,
-    "brand": "Billa Now"
+    "brand": "Billa Now",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hair Cut One",
     "retailer": "hair_cut_one",
     "shop": "hairdresser",
     "latitude": 48.1552539,
-    "longitude": 16.3495859
+    "longitude": 16.3495859,
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ich dampfe",
     "retailer": "ich_dampfe",
     "shop": "e-cigarette",
     "latitude": 48.1567159,
-    "longitude": 16.342214
+    "longitude": 16.342214,
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -42,13 +60,21 @@
     "shop": "supermarket",
     "latitude": 48.1552089,
     "longitude": 16.3496626,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik Kubicek Peter",
     "retailer": "trafik_kubicek_peter",
     "shop": "tobacco",
     "latitude": 48.1555085,
-    "longitude": 16.3450823
+    "longitude": 16.3450823,
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

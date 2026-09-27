@@ -4,20 +4,30 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.3375136,
-    "longitude": 15.8035378
+    "longitude": 15.8035378,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pauntzen",
     "retailer": "pauntzen",
     "shop": "bakery",
     "latitude": 48.3372204,
-    "longitude": 15.8036968
+    "longitude": 15.8036968,
+    "postcode": "3133",
+    "city": "Traismauer",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ölmühle Süss",
     "retailer": "olmuhle_suss",
     "shop": "deli",
     "latitude": 48.3388696,
-    "longitude": 15.8055941
+    "longitude": 15.8055941,
+    "postcode": "3133",
+    "city": "Traismauer",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

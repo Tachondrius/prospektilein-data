@@ -5,28 +5,40 @@
     "shop": "chemist",
     "latitude": 48.2435514,
     "longitude": 16.3225202,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumengärtnerei Sievering",
     "retailer": "blumengartnerei_sievering",
     "shop": "florist",
     "latitude": 48.248189,
-    "longitude": 16.3284201
+    "longitude": 16.3284201,
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bäckerei Cafe Wannenmacher",
     "retailer": "backerei_cafe_wannenmacher",
     "shop": "bakery",
     "latitude": 48.2482901,
-    "longitude": 16.3289177
+    "longitude": 16.3289177,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Friedhof Sievering",
     "retailer": "friedhof_sievering",
     "shop": "florist",
     "latitude": 48.2490232,
-    "longitude": 16.3216238
+    "longitude": 16.3216238,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -34,21 +46,31 @@
     "shop": "supermarket",
     "latitude": 48.2422211,
     "longitude": 16.3266507,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.2415373,
-    "longitude": 16.3298723
+    "longitude": 16.3298723,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.2435065,
-    "longitude": 16.3219958
+    "longitude": 16.3219958,
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "SPAR Gourmet",
@@ -56,13 +78,21 @@
     "shop": "supermarket",
     "latitude": 48.243486,
     "longitude": 16.3220734,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Winkler",
     "retailer": "tabak_winkler",
     "shop": "kiosk",
     "latitude": 48.2429688,
-    "longitude": 16.3218307
+    "longitude": 16.3218307,
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

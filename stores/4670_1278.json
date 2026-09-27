@@ -4,14 +4,22 @@
     "retailer": "adeg",
     "shop": "supermarket",
     "latitude": 46.701862,
-    "longitude": 12.7847766
+    "longitude": 12.7847766,
+    "postcode": "9654",
+    "city": "Sankt Lorenzen im Lesachtal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lesachtaler Fleisch Markus Salcher",
     "retailer": "lesachtaler_fleisch_markus_salcher",
     "shop": "butcher",
     "latitude": 46.7018044,
-    "longitude": 12.7852066
+    "longitude": 12.7852066,
+    "postcode": "9654",
+    "city": "Sankt Lorenzen im Lesachtal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -19,6 +27,10 @@
     "shop": "supermarket",
     "latitude": 46.7019832,
     "longitude": 12.7803261,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9654",
+    "city": "Sankt Lorenzen im Lesachtal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

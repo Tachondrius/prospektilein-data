@@ -4,21 +4,29 @@
     "retailer": "baggersee_roau",
     "shop": "ticket",
     "latitude": 47.2647033,
-    "longitude": 11.4450266
+    "longitude": 11.4450266,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baggersee Roßau",
     "retailer": "baggersee_roau",
     "shop": "ticket",
     "latitude": 47.2668797,
-    "longitude": 11.4483604
+    "longitude": 11.4483604,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Best Box",
     "retailer": "best_box",
     "shop": "car_repair",
     "latitude": 47.265123,
-    "longitude": 11.4417739
+    "longitude": 11.4417739,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Brillux",
@@ -26,28 +34,42 @@
     "shop": "paint",
     "latitude": 47.2653232,
     "longitude": 11.4425791,
-    "brand": "Brillux"
+    "brand": "Brillux",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "DeineLagerBox",
     "retailer": "deinelagerbox",
     "shop": "storage_rental",
     "latitude": 47.2668715,
-    "longitude": 11.4429864
+    "longitude": 11.4429864,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "IT-Team",
     "retailer": "it_team",
     "shop": "computer",
     "latitude": 47.2672361,
-    "longitude": 11.4407768
+    "longitude": 11.4407768,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Armin",
     "retailer": "kfz_armin",
     "shop": "car_repair",
     "latitude": 47.2672314,
-    "longitude": 11.4403912
+    "longitude": 11.4403912,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -55,13 +77,21 @@
     "shop": "convenience",
     "latitude": 47.2658323,
     "longitude": 11.4423242,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schagerl",
     "retailer": "schagerl",
     "shop": "trade",
     "latitude": 47.2672061,
-    "longitude": 11.4451046
+    "longitude": 11.4451046,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

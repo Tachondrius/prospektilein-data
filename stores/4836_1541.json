@@ -4,28 +4,38 @@
     "retailer": "dornhackl",
     "shop": "florist",
     "latitude": 48.3621335,
-    "longitude": 15.4154661
+    "longitude": 15.4154661,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "eni shop",
     "retailer": "eni_shop",
     "shop": "convenience",
     "latitude": 48.3625537,
-    "longitude": 15.4167279
+    "longitude": 15.4167279,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Frisier Salon mit Stil",
     "retailer": "frisier_salon_mit_stil",
     "shop": "hairdresser",
     "latitude": 48.3619873,
-    "longitude": 15.4156704
+    "longitude": 15.4156704,
+    "postcode": "3620",
+    "city": "Spitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Marcellas",
     "retailer": "marcellas",
     "shop": "gift",
     "latitude": 48.3620906,
-    "longitude": 15.4155911
+    "longitude": 15.4155911,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -33,48 +43,74 @@
     "shop": "supermarket",
     "latitude": 48.3645335,
     "longitude": 15.4174185,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3620",
+    "city": "Spitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut FJ Gritsch",
     "retailer": "weingut_fj_gritsch",
     "shop": "wine",
     "latitude": 48.365616,
-    "longitude": 15.4144795
+    "longitude": 15.4144795,
+    "postcode": "3620",
+    "city": "Spitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Franz Hirtzberger",
     "retailer": "weingut_franz_hirtzberger",
     "shop": "wine",
     "latitude": 48.3667918,
-    "longitude": 15.4178485
+    "longitude": 15.4178485,
+    "postcode": "3620",
+    "city": "Spitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Höllmüller",
     "retailer": "weingut_hollmuller",
     "shop": "wine",
     "latitude": 48.3661199,
-    "longitude": 15.4135662
+    "longitude": 15.4135662,
+    "postcode": "3620",
+    "city": "Spitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Kalmuck",
     "retailer": "weingut_kalmuck",
     "shop": "wine",
     "latitude": 48.3665355,
-    "longitude": 15.4109082
+    "longitude": 15.4109082,
+    "postcode": "3620",
+    "city": "Spitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Lagler Vinothek",
     "retailer": "weingut_lagler_vinothek",
     "shop": "wine",
     "latitude": 48.3662428,
-    "longitude": 15.4108554
+    "longitude": 15.4108554,
+    "postcode": "3620",
+    "city": "Spitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weinhof Özelt",
     "retailer": "weinhof_ozelt",
     "shop": "wine",
     "latitude": 48.3655184,
-    "longitude": 15.4136847
+    "longitude": 15.4136847,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

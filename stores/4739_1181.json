@@ -4,49 +4,67 @@
     "retailer": "auto_falch",
     "shop": "car_repair",
     "latitude": 47.3968668,
-    "longitude": 11.8182057
+    "longitude": 11.8182057,
+    "postcode": "6261",
+    "city": "Strass im Zillertal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Autohaus Luxner",
     "retailer": "autohaus_luxner",
     "shop": "car_repair",
     "latitude": 47.3971731,
-    "longitude": 11.8196168
+    "longitude": 11.8196168,
+    "postcode": "6261",
+    "city": "Strass im Zillertal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bianca's Beauty Corner",
     "retailer": "bianca_s_beauty_corner",
     "shop": "beauty",
     "latitude": 47.3962844,
-    "longitude": 11.8175467
+    "longitude": 11.8175467,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lebensmittel Braunegger",
     "retailer": "lebensmittel_braunegger",
     "shop": "convenience",
     "latitude": 47.3958917,
-    "longitude": 11.8178831
+    "longitude": 11.8178831,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trend Haarstudio",
     "retailer": "trend_haarstudio",
     "shop": "hairdresser",
     "latitude": 47.3964862,
-    "longitude": 11.8182646
+    "longitude": 11.8182646,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Unterberger Automobile GmbH & Co. KG",
     "retailer": "unterberger_automobile_gmbh_und_co_kg",
     "shop": "car",
     "latitude": 47.3979124,
-    "longitude": 11.8189851
+    "longitude": 11.8189851,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Weidlingter Soft",
     "retailer": "weidlingter_soft",
     "shop": "computer",
     "latitude": 47.3949635,
-    "longitude": 11.8193139
+    "longitude": 11.8193139,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "XXXLutz",
@@ -54,6 +72,10 @@
     "shop": "furniture",
     "latitude": 47.3971056,
     "longitude": 11.8188146,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "6261",
+    "city": "Strass im Zillertal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

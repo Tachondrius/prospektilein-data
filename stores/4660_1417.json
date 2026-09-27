@@ -5,20 +5,28 @@
     "shop": "supermarket",
     "latitude": 46.6045931,
     "longitude": 14.1772256,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9081",
+    "city": "Maria Wörth",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Haarkunst Gabriele",
     "retailer": "haarkunst_gabriele",
     "shop": "hairdresser",
     "latitude": 46.6050985,
-    "longitude": 14.1774699
+    "longitude": 14.1774699,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KarMa",
     "retailer": "karma",
     "shop": "wine",
     "latitude": 46.6051249,
-    "longitude": 14.1772659
+    "longitude": 14.1772659,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "auto_legerer",
     "shop": "car",
     "latitude": 48.1981924,
-    "longitude": 14.2520958
+    "longitude": 14.2520958,
+    "postcode": "4053",
+    "city": "Ansfelden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "IKEA",
@@ -12,13 +16,19 @@
     "shop": "furniture",
     "latitude": 48.1969929,
     "longitude": 14.2507097,
-    "brand": "IKEA"
+    "brand": "IKEA",
+    "postcode": "4053",
+    "city": "Haid",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Musterhauspark Haid",
     "retailer": "musterhauspark_haid",
     "shop": "estate_agent",
     "latitude": 48.1953814,
-    "longitude": 14.2514804
+    "longitude": 14.2514804,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "chemist",
     "latitude": 46.6046161,
     "longitude": 14.0351674,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "9220",
+    "city": "Velden am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eurospar",
@@ -13,21 +17,31 @@
     "shop": "supermarket",
     "latitude": 46.6053142,
     "longitude": 14.0368166,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "9220",
+    "city": "Velden am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Glaserei Tschebull",
     "retailer": "glaserei_tschebull",
     "shop": "glaziery",
     "latitude": 46.6052714,
-    "longitude": 14.0391588
+    "longitude": 14.0391588,
+    "postcode": "9220",
+    "city": "Velden am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.6042038,
-    "longitude": 14.0340485
+    "longitude": 14.0340485,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -35,7 +49,11 @@
     "shop": "supermarket",
     "latitude": 46.6054565,
     "longitude": 14.0349423,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9220",
+    "city": "Velden am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Klipp",
@@ -43,7 +61,11 @@
     "shop": "hairdresser",
     "latitude": 46.6048811,
     "longitude": 14.0350226,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "9220",
+    "city": "Velden am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagerhaus",
@@ -51,7 +73,11 @@
     "shop": "doityourself",
     "latitude": 46.6096897,
     "longitude": 14.0387135,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "9220",
+    "city": "Velden am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -59,27 +85,39 @@
     "shop": "clothes",
     "latitude": 46.6046002,
     "longitude": 14.0365887,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "PERRO Shop Velden",
     "retailer": "perro_shop_velden",
     "shop": "pet",
     "latitude": 46.6048198,
-    "longitude": 14.0350659
+    "longitude": 14.0350659,
+    "postcode": "9220",
+    "city": "Velden am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tattoo",
     "retailer": "shop_tattoo",
     "shop": "tattoo",
     "latitude": 46.6048481,
-    "longitude": 14.0350367
+    "longitude": 14.0350367,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.6039764,
-    "longitude": 14.0340627
+    "longitude": 14.0340627,
+    "postcode": "9220",
+    "city": "Velden am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

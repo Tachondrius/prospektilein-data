@@ -4,20 +4,28 @@
     "retailer": "autohaus_brandstatter",
     "shop": "car",
     "latitude": 47.5246869,
-    "longitude": 14.3718506
+    "longitude": 14.3718506,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "FUCHS Bogensport",
     "retailer": "fuchs_bogensport",
     "shop": "sports",
     "latitude": 47.5248487,
-    "longitude": 14.3721129
+    "longitude": 14.3721129,
+    "postcode": "8786",
+    "city": "Rottenmann",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "garden_centre",
     "latitude": 47.5215908,
-    "longitude": 14.3792963
+    "longitude": 14.3792963,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

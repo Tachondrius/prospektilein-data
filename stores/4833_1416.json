@@ -5,14 +5,22 @@
     "shop": "shoes",
     "latitude": 48.3396652,
     "longitude": 14.1684115,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Donautreff",
     "retailer": "donautreff",
     "shop": "department_store",
     "latitude": 48.3399798,
-    "longitude": 14.1687424
+    "longitude": 14.1687424,
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fussl",
@@ -20,7 +28,11 @@
     "shop": "clothes",
     "latitude": 48.3399974,
     "longitude": 14.1687065,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Intersport",
@@ -28,7 +40,11 @@
     "shop": "sports",
     "latitude": 48.3396256,
     "longitude": 14.168808,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klipp",
@@ -36,7 +52,9 @@
     "shop": "hairdresser",
     "latitude": 48.3398477,
     "longitude": 14.1690507,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Libro",
@@ -44,7 +62,11 @@
     "shop": "books",
     "latitude": 48.3396287,
     "longitude": 14.1682963,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -52,14 +74,20 @@
     "shop": "supermarket",
     "latitude": 48.3397953,
     "longitude": 14.1664867,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "MCW Optics",
     "retailer": "mcw_optics",
     "shop": "optician",
     "latitude": 48.3399855,
-    "longitude": 14.1685272
+    "longitude": 14.1685272,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Palmers",
@@ -67,14 +95,20 @@
     "shop": "clothes",
     "latitude": 48.3398379,
     "longitude": 14.1689219,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reisinger Heim- & Gartenfachmarkt",
     "retailer": "reisinger_heim_und_gartenfachmarkt",
     "shop": "doityourself",
     "latitude": 48.3398366,
-    "longitude": 14.169142
+    "longitude": 14.169142,
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "s.Oliver",
@@ -82,7 +116,9 @@
     "shop": "clothes",
     "latitude": 48.339669,
     "longitude": 14.1685375,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Street One",
@@ -90,6 +126,8 @@
     "shop": "clothes",
     "latitude": 48.3398456,
     "longitude": 14.1689926,
-    "brand": "Street One"
+    "brand": "Street One",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,14 +4,20 @@
     "retailer": "anglersport_lernbei_harald",
     "shop": "fishing",
     "latitude": 46.8525423,
-    "longitude": 15.408457
+    "longitude": 15.408457,
+    "postcode": "8504",
+    "city": "Preding",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Erlauer",
     "retailer": "blumen_erlauer",
     "shop": "florist",
     "latitude": 46.8564198,
-    "longitude": 15.4084735
+    "longitude": 15.4084735,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ Technik Haring",
@@ -19,13 +25,21 @@
     "shop": "car",
     "latitude": 46.8518457,
     "longitude": 15.4080149,
-    "brand": "all"
+    "brand": "all",
+    "postcode": "8504",
+    "city": "Preding",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sanluka",
     "retailer": "sanluka",
     "shop": "travel_agency",
     "latitude": 46.8541099,
-    "longitude": 15.4096979
+    "longitude": 15.4096979,
+    "postcode": "8504",
+    "city": "Preding",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

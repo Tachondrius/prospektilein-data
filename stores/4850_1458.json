@@ -4,20 +4,28 @@
     "retailer": "backerei_haneder",
     "shop": "bakery",
     "latitude": 48.5020855,
-    "longitude": 14.5889399
+    "longitude": 14.5889399,
+    "postcode": "4171",
+    "city": "St. Oswald bei Freistadt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 48.5004533,
-    "longitude": 14.5893609
+    "longitude": 14.5893609,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Peugeot Reindl",
     "retailer": "peugeot_reindl",
     "shop": "car",
     "latitude": 48.5007575,
-    "longitude": 14.5899636
+    "longitude": 14.5899636,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

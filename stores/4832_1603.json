@@ -5,20 +5,28 @@
     "shop": "car_repair",
     "latitude": 48.3250808,
     "longitude": 16.0302968,
-    "brand": "A.T.U"
+    "brand": "A.T.U",
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rental",
     "retailer": "shop_rental",
     "shop": "rental",
     "latitude": 48.3294692,
-    "longitude": 16.0380924
+    "longitude": 16.0380924,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 48.3286786,
-    "longitude": 16.0365145
+    "longitude": 16.0365145,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

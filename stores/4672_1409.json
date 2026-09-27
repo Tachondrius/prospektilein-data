@@ -5,21 +5,31 @@
     "shop": "variety_store",
     "latitude": 46.7272703,
     "longitude": 14.0912554,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Angelsport Freithofer",
     "retailer": "angelsport_freithofer",
     "shop": "fishing",
     "latitude": 46.72582,
-    "longitude": 14.0906347
+    "longitude": 14.0906347,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "ARBÖ Prüfzentrum Feldkirchen",
     "retailer": "arbo_prufzentrum_feldkirchen",
     "shop": "car_repair",
     "latitude": 46.7224505,
-    "longitude": 14.0990089
+    "longitude": 14.0990089,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Autohaus Pirker",
@@ -27,49 +37,71 @@
     "shop": "car",
     "latitude": 46.7266249,
     "longitude": 14.0905266,
-    "brand": "Suzuki;Opel;Isuzu"
+    "brand": "Suzuki;Opel;Isuzu",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen Luise Mramor",
     "retailer": "blumen_luise_mramor",
     "shop": "florist",
     "latitude": 46.7259008,
-    "longitude": 14.0937384
+    "longitude": 14.0937384,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen Wedenig",
     "retailer": "blumen_wedenig",
     "shop": "florist",
     "latitude": 46.7243312,
-    "longitude": 14.0945131
+    "longitude": 14.0945131,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Breschan",
     "retailer": "breschan",
     "shop": "toys",
     "latitude": 46.7248666,
-    "longitude": 14.0925359
+    "longitude": 14.0925359,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Weissensteiner",
     "retailer": "backerei_weissensteiner",
     "shop": "bakery",
     "latitude": 46.7255833,
-    "longitude": 14.090847
+    "longitude": 14.090847,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 46.7240765,
-    "longitude": 14.0919853
+    "longitude": 14.0919853,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "HandyShop Feldkirchen",
     "retailer": "handyshop_feldkirchen",
     "shop": "mobile_phone",
     "latitude": 46.724598,
-    "longitude": 14.0933891
+    "longitude": 14.0933891,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hartlauer",
@@ -77,7 +109,11 @@
     "shop": "electronics",
     "latitude": 46.7234204,
     "longitude": 14.0961588,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hervis",
@@ -85,35 +121,49 @@
     "shop": "sports",
     "latitude": 46.7239786,
     "longitude": 14.0945549,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Interior Decoration",
     "retailer": "shop_interior_decoration",
     "shop": "interior_decoration",
     "latitude": 46.7240104,
-    "longitude": 14.0917473
+    "longitude": 14.0917473,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Juwelier Sommer",
     "retailer": "juwelier_sommer",
     "shop": "jewelry",
     "latitude": 46.7242253,
-    "longitude": 14.0923607
+    "longitude": 14.0923607,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Karawanke Bäckerei",
     "retailer": "karawanke_backerei",
     "shop": "bakery",
     "latitude": 46.7243384,
-    "longitude": 14.0938687
+    "longitude": 14.0938687,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Karrosseriewerkstätte Jalen",
     "retailer": "karrosseriewerkstatte_jalen",
     "shop": "car_repair",
     "latitude": 46.7241945,
-    "longitude": 14.095896
+    "longitude": 14.095896,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Klipp",
@@ -121,14 +171,22 @@
     "shop": "hairdresser",
     "latitude": 46.7252584,
     "longitude": 14.0921536,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kniewasser",
     "retailer": "kniewasser",
     "shop": "jewelry",
     "latitude": 46.7250298,
-    "longitude": 14.0926679
+    "longitude": 14.0926679,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagler",
@@ -136,28 +194,42 @@
     "shop": "bakery",
     "latitude": 46.7255917,
     "longitude": 14.0921445,
-    "brand": "Lagler"
+    "brand": "Lagler",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 46.7273958,
-    "longitude": 14.0910123
+    "longitude": 14.0910123,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Medical Supply",
     "retailer": "shop_medical_supply",
     "shop": "medical_supply",
     "latitude": 46.7237127,
-    "longitude": 14.0950709
+    "longitude": 14.0950709,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Naturkost Duschlbaur",
     "retailer": "naturkost_duschlbaur",
     "shop": "deli",
     "latitude": 46.7246554,
-    "longitude": 14.0955177
+    "longitude": 14.0955177,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Neuroth",
@@ -165,7 +237,9 @@
     "shop": "hearing_aids",
     "latitude": 46.7246309,
     "longitude": 14.0932982,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -173,70 +247,98 @@
     "shop": "clothes",
     "latitude": 46.7274142,
     "longitude": 14.090864,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Nockfleisch",
     "retailer": "nockfleisch",
     "shop": "butcher",
     "latitude": 46.7280254,
-    "longitude": 14.0908584
+    "longitude": 14.0908584,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Optician",
     "retailer": "shop_optician",
     "shop": "optician",
     "latitude": 46.7231622,
-    "longitude": 14.0960471
+    "longitude": 14.0960471,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pagro Diskont",
     "retailer": "pagro",
     "shop": "general",
     "latitude": 46.7273863,
-    "longitude": 14.0910103
+    "longitude": 14.0910103,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pet Grooming",
     "retailer": "shop_pet_grooming",
     "shop": "pet_grooming",
     "latitude": 46.7242098,
-    "longitude": 14.0924908
+    "longitude": 14.0924908,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "radwerker.at",
     "retailer": "radwerker_at",
     "shop": "bicycle",
     "latitude": 46.7228811,
-    "longitude": 14.0962289
+    "longitude": 14.0962289,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Raumausstattung Rebernig",
     "retailer": "raumausstattung_rebernig",
     "shop": "interior_decoration",
     "latitude": 46.7225966,
-    "longitude": 14.0959735
+    "longitude": 14.0959735,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "RECO",
     "retailer": "reco",
     "shop": "appliance",
     "latitude": 46.7256672,
-    "longitude": 14.0906783
+    "longitude": 14.0906783,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Retzer",
     "retailer": "retzer",
     "shop": "car_repair",
     "latitude": 46.7231379,
-    "longitude": 14.0975749
+    "longitude": 14.0975749,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ruefa Reisen",
     "retailer": "ruefa_reisen",
     "shop": "travel_agency",
     "latitude": 46.7261628,
-    "longitude": 14.0910199
+    "longitude": 14.0910199,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -244,49 +346,65 @@
     "shop": "supermarket",
     "latitude": 46.7243242,
     "longitude": 14.0951134,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "T&G",
     "retailer": "mpreis",
     "shop": "supermarket",
     "latitude": 46.7274994,
-    "longitude": 14.0907556
+    "longitude": 14.0907556,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tattoo",
     "retailer": "shop_tattoo",
     "shop": "tattoo",
     "latitude": 46.7237073,
-    "longitude": 14.0907291
+    "longitude": 14.0907291,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.7224017,
-    "longitude": 14.0959226
+    "longitude": 14.0959226,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.7237586,
-    "longitude": 14.0922633
+    "longitude": 14.0922633,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.7253162,
-    "longitude": 14.0918408
+    "longitude": 14.0918408,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Total Normal",
     "retailer": "total_normal",
     "shop": "hairdresser",
     "latitude": 46.7290521,
-    "longitude": 14.0910668
+    "longitude": 14.0910668,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "VW, Audi Retzer",
@@ -294,27 +412,39 @@
     "shop": "car",
     "latitude": 46.7231381,
     "longitude": 14.0973786,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wohnmöbel Gasteiger",
     "retailer": "wohnmobel_gasteiger",
     "shop": "furniture",
     "latitude": 46.7277605,
-    "longitude": 14.0900919
+    "longitude": 14.0900919,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Zechner",
     "retailer": "zechner",
     "shop": "jewelry",
     "latitude": 46.7248703,
-    "longitude": 14.0932731
+    "longitude": 14.0932731,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Zepino",
     "retailer": "zepino",
     "shop": "clothes",
     "latitude": 46.7244135,
-    "longitude": 14.0944028
+    "longitude": 14.0944028,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

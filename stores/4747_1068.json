@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.4713645,
     "longitude": 10.687184,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6604",
+    "city": "Höfen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.4705694,
-    "longitude": 10.6801268
+    "longitude": 10.6801268,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

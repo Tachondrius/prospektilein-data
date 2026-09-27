@@ -5,21 +5,33 @@
     "shop": "supermarket",
     "latitude": 47.2108377,
     "longitude": 14.815219,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "CD1",
     "retailer": "cd1",
     "shop": "computer",
     "latitude": 47.2105425,
-    "longitude": 14.8109168
+    "longitude": 14.8109168,
+    "postcode": "8720",
+    "city": "Knittefeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "DanKüchen",
     "retailer": "dankuchen",
     "shop": "kitchen",
     "latitude": 47.2105461,
-    "longitude": 14.8111635
+    "longitude": 14.8111635,
+    "postcode": "8720",
+    "city": "Knittefeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Das Futterhaus",
@@ -27,77 +39,115 @@
     "shop": "pet",
     "latitude": 47.2106078,
     "longitude": 14.8124669,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Edelrost-Geschenke",
     "retailer": "edelrost_geschenke",
     "shop": "gift",
     "latitude": 47.2181781,
-    "longitude": 14.8151091
+    "longitude": 14.8151091,
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischabholmarkt",
     "retailer": "fleischabholmarkt",
     "shop": "supermarket",
     "latitude": 47.2101624,
-    "longitude": 14.8139724
+    "longitude": 14.8139724,
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Freitag Sicherheitstechnik",
     "retailer": "freitag_sicherheitstechnik",
     "shop": "security",
     "latitude": 47.2103585,
-    "longitude": 14.8157474
+    "longitude": 14.8157474,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "GUCI COSMETIC",
     "retailer": "guci_cosmetic",
     "shop": "cosmetics",
     "latitude": 47.2185534,
-    "longitude": 14.8190881
+    "longitude": 14.8190881,
+    "postcode": "8720",
+    "city": "Knittefeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Herzensladen",
     "retailer": "herzensladen",
     "shop": "florist",
     "latitude": 47.2106956,
-    "longitude": 14.8165438
+    "longitude": 14.8165438,
+    "postcode": "8720",
+    "city": "Knittefeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kammerhofer",
     "retailer": "kammerhofer",
     "shop": "butcher",
     "latitude": 47.2168555,
-    "longitude": 14.8108819
+    "longitude": 14.8108819,
+    "postcode": "8720",
+    "city": "Knittefeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Moitzi TOR-Profi",
     "retailer": "moitzi_tor_profi",
     "shop": "hardware",
     "latitude": 47.2106336,
-    "longitude": 14.8139906
+    "longitude": 14.8139906,
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Monika Puster",
     "retailer": "monika_puster",
     "shop": "massage",
     "latitude": 47.2185343,
-    "longitude": 14.8190828
+    "longitude": 14.8190828,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PAX Bestattung",
     "retailer": "pax_bestattung",
     "shop": "funeral_directors",
     "latitude": 47.2105892,
-    "longitude": 14.811555
+    "longitude": 14.811555,
+    "postcode": "8720",
+    "city": "Knittefeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stadtgaertnerei",
     "retailer": "stadtgaertnerei",
     "shop": "garden_centre",
     "latitude": 47.2114165,
-    "longitude": 14.819264
+    "longitude": 14.819264,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -105,27 +155,37 @@
     "shop": "variety_store",
     "latitude": 47.2106819,
     "longitude": 14.8129472,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "8720",
+    "city": "Knittefeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trödel Flo",
     "retailer": "trodel_flo",
     "shop": "antiques",
     "latitude": 47.2174366,
-    "longitude": 14.8173957
+    "longitude": 14.8173957,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wadsack",
     "retailer": "wadsack",
     "shop": "hairdresser",
     "latitude": 47.213198,
-    "longitude": 14.8157863
+    "longitude": 14.8157863,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Woolworth",
     "retailer": "woolworth",
     "shop": "department_store",
     "latitude": 47.2103384,
-    "longitude": 14.8162624
+    "longitude": 14.8162624,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

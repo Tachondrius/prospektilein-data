@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 48.2964336,
     "longitude": 16.3777664,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -13,14 +15,18 @@
     "shop": "chemist",
     "latitude": 48.2965472,
     "longitude": 16.3781427,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Center21",
     "retailer": "center21",
     "shop": "mall",
     "latitude": 48.2969967,
-    "longitude": 16.3778841
+    "longitude": 16.3778841,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Deichmann",
@@ -28,7 +34,9 @@
     "shop": "shoes",
     "latitude": 48.2974188,
     "longitude": 16.3781709,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ernsting's family",
@@ -36,14 +44,20 @@
     "shop": "clothes",
     "latitude": 48.296722,
     "longitude": 16.378692,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Felber",
     "retailer": "felber",
     "shop": "bakery",
     "latitude": 48.2973495,
-    "longitude": 16.3783717
+    "longitude": 16.3783717,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -51,7 +65,10 @@
     "shop": "supermarket",
     "latitude": 48.2968403,
     "longitude": 16.3748779,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2103",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "JYSK",
@@ -59,7 +76,9 @@
     "shop": "furniture",
     "latitude": 48.2975129,
     "longitude": 16.3778985,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "KiK",
@@ -67,7 +86,9 @@
     "shop": "clothes",
     "latitude": 48.2965919,
     "longitude": 16.3782907,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Klipp",
@@ -75,14 +96,18 @@
     "shop": "hairdresser",
     "latitude": 48.2973676,
     "longitude": 16.3783193,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Libro",
     "retailer": "libro",
     "shop": "stationery",
     "latitude": 48.2974683,
-    "longitude": 16.3777561
+    "longitude": 16.3777561,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lidl",
@@ -90,7 +115,11 @@
     "shop": "supermarket",
     "latitude": 48.2998053,
     "longitude": 16.3717644,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2103",
+    "city": "Langenzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Matratzen Concord;Müller;Takko Fashion",
@@ -98,7 +127,9 @@
     "shop": "bed;variety_store;clothes;vacant",
     "latitude": 48.2969379,
     "longitude": 16.3793073,
-    "brand": "Matratzen Concord;Müller;Takko Fashion"
+    "brand": "Matratzen Concord;Müller;Takko Fashion",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "METRO",
@@ -106,7 +137,11 @@
     "shop": "wholesale",
     "latitude": 48.2976597,
     "longitude": 16.3731314,
-    "brand": "METRO"
+    "brand": "METRO",
+    "postcode": "2103",
+    "city": "Langenzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Müller",
@@ -114,14 +149,18 @@
     "shop": "chemist",
     "latitude": 48.2969064,
     "longitude": 16.3794898,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Outlet 1 2 3",
     "retailer": "outlet_1_2_3",
     "shop": "variety_store",
     "latitude": 48.2975269,
-    "longitude": 16.3777824
+    "longitude": 16.3777824,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -129,7 +168,9 @@
     "shop": "supermarket",
     "latitude": 48.2972246,
     "longitude": 16.3774274,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Pepco",
@@ -137,7 +178,9 @@
     "shop": "clothes",
     "latitude": 48.2966692,
     "longitude": 16.3785465,
-    "brand": "Pepco"
+    "brand": "Pepco",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Takko Fashion",
@@ -145,7 +188,9 @@
     "shop": "clothes",
     "latitude": 48.296966,
     "longitude": 16.379447,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tchibo",
@@ -153,7 +198,9 @@
     "shop": "coffee",
     "latitude": 48.2974602,
     "longitude": 16.3780512,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Team Fraenkel",
@@ -161,7 +208,11 @@
     "shop": "car",
     "latitude": 48.292072,
     "longitude": 16.379309,
-    "brand": "Hyundai;Mitsubishi"
+    "brand": "Hyundai;Mitsubishi",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "TEDi",
@@ -169,13 +220,19 @@
     "shop": "variety_store",
     "latitude": 48.2968009,
     "longitude": 16.3790236,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "TUCON Verbindungstechnik",
     "retailer": "tucon_verbindungstechnik",
     "shop": "hardware",
     "latitude": 48.293904,
-    "longitude": 16.3778099
+    "longitude": 16.3778099,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

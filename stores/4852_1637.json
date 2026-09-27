@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.5284513,
     "longitude": 16.3724538,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2115",
+    "city": "Ernstbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -13,20 +17,28 @@
     "shop": "supermarket",
     "latitude": 48.5263867,
     "longitude": 16.379126,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2115",
+    "city": "Ernstbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Ernstbrunn",
     "retailer": "lagerhaus_ernstbrunn",
     "shop": "supermarket",
     "latitude": 48.5256848,
-    "longitude": 16.3781856
+    "longitude": 16.3781856,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Peugeot, Steyr",
     "retailer": "peugeot_steyr",
     "shop": "car_repair",
     "latitude": 48.5256203,
-    "longitude": 16.3779274
+    "longitude": 16.3779274,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

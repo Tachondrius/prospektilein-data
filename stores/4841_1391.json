@@ -4,20 +4,28 @@
     "retailer": "backerei_scheuer",
     "shop": "bakery",
     "latitude": 48.4102855,
-    "longitude": 13.9163783
+    "longitude": 13.9163783,
+    "postcode": "4083",
+    "city": "Haibach ob der Donau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "HAARgenau",
     "retailer": "haargenau",
     "shop": "hairdresser",
     "latitude": 48.4158955,
-    "longitude": 13.9164057
+    "longitude": 13.9164057,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "doityourself",
     "latitude": 48.4162942,
-    "longitude": 13.916661
+    "longitude": 13.916661,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

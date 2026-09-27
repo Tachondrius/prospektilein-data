@@ -4,21 +4,29 @@
     "retailer": "admiral",
     "shop": "bookmaker",
     "latitude": 47.8040623,
-    "longitude": 16.2351172
+    "longitude": 16.2351172,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Auto Reckendorfer",
     "retailer": "auto_reckendorfer",
     "shop": "car_repair",
     "latitude": 47.8047043,
-    "longitude": 16.2360089
+    "longitude": 16.2360089,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autoteile Birner",
     "retailer": "autoteile_birner",
     "shop": "car_parts",
     "latitude": 47.8054262,
-    "longitude": 16.2386953
+    "longitude": 16.2386953,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Plus",
@@ -26,21 +34,33 @@
     "shop": "supermarket",
     "latitude": 47.8035369,
     "longitude": 16.2378191,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Daniel Moser",
     "retailer": "daniel_moser",
     "shop": "coffee_roasting",
     "latitude": 47.8022287,
-    "longitude": 16.2338377
+    "longitude": 16.2338377,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fröch Fleisch",
     "retailer": "froch_fleisch",
     "shop": "butcher",
     "latitude": 47.8028674,
-    "longitude": 16.2352625
+    "longitude": 16.2352625,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hönigmann",
@@ -48,42 +68,66 @@
     "shop": "car",
     "latitude": 47.804688,
     "longitude": 16.2376374,
-    "brand": "Mazda;Kia"
+    "brand": "Mazda;Kia",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Jürgen Höflers Fahrzeugaufbau",
     "retailer": "jurgen_hoflers_fahrzeugaufbau",
     "shop": "car_parts",
     "latitude": 47.8010944,
-    "longitude": 16.2307184
+    "longitude": 16.2307184,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Tafi",
     "retailer": "kfz_tafi",
     "shop": "car_repair",
     "latitude": 47.8000001,
-    "longitude": 16.2313497
+    "longitude": 16.2313497,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.8060473,
-    "longitude": 16.23893
+    "longitude": 16.23893,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Oberger Fleischereibedarf",
     "retailer": "oberger_fleischereibedarf",
     "shop": "yes",
     "latitude": 47.802171,
-    "longitude": 16.2335348
+    "longitude": 16.2335348,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Online AutoStore",
     "retailer": "online_autostore",
     "shop": "car",
     "latitude": 47.8011472,
-    "longitude": 16.2310074
+    "longitude": 16.2310074,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -91,13 +135,19 @@
     "shop": "supermarket",
     "latitude": 47.8059626,
     "longitude": 16.238456,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Viennamobil KFZ-Technik",
     "retailer": "viennamobil_kfz_technik",
     "shop": "car_repair",
     "latitude": 47.8078363,
-    "longitude": 16.2335035
+    "longitude": 16.2335035,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

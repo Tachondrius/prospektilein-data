@@ -5,14 +5,20 @@
     "shop": "sports",
     "latitude": 47.1525063,
     "longitude": 10.7574733,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "city": "Jerzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Lentsch",
     "retailer": "sport_lentsch",
     "shop": "sports",
     "latitude": 47.1518522,
-    "longitude": 10.7584441
+    "longitude": 10.7584441,
+    "city": "Jerzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Schultes",
@@ -20,13 +26,20 @@
     "shop": "sports",
     "latitude": 47.1522012,
     "longitude": 10.7581167,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "city": "Jerzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zirbenbäckerei",
     "retailer": "zirbenbackerei",
     "shop": "bakery",
     "latitude": 47.1522318,
-    "longitude": 10.7585796
+    "longitude": 10.7585796,
+    "postcode": "6474",
+    "city": "Jerzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

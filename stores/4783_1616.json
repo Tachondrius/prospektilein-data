@@ -4,34 +4,50 @@
     "retailer": "biohof_flechl",
     "shop": "wine",
     "latitude": 47.8311268,
-    "longitude": 16.1683797
+    "longitude": 16.1683797,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rudolf Weihs",
     "retailer": "rudolf_weihs",
     "shop": "hairdresser",
     "latitude": 47.8314032,
-    "longitude": 16.1675268
+    "longitude": 16.1675268,
+    "postcode": "2721",
+    "city": "Bad Fischau-Brunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sederl",
     "retailer": "sederl",
     "shop": "bakery",
     "latitude": 47.831364,
-    "longitude": 16.1664546
+    "longitude": 16.1664546,
+    "postcode": "2721",
+    "city": "Bad Fischau-Brunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Sederl",
     "retailer": "trafik_sederl",
     "shop": "kiosk",
     "latitude": 47.8316904,
-    "longitude": 16.1665515
+    "longitude": 16.1665515,
+    "postcode": "2721",
+    "city": "Bad Fischau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zum Riegler",
     "retailer": "zum_riegler",
     "shop": "butcher",
     "latitude": 47.8314754,
-    "longitude": 16.1673032
+    "longitude": 16.1673032,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,10 @@
     "retailer": "augenoptik_osterreicher",
     "shop": "optician",
     "latitude": 48.8661033,
-    "longitude": 15.1239813
+    "longitude": 15.1239813,
+    "postcode": "3860",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,77 +15,107 @@
     "shop": "supermarket",
     "latitude": 48.8680636,
     "longitude": 15.1202766,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "D'Greisslerei",
     "retailer": "d_greisslerei",
     "shop": "convenience",
     "latitude": 48.8658031,
-    "longitude": 15.124497
+    "longitude": 15.124497,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Die Schmuckmacherin",
     "retailer": "die_schmuckmacherin",
     "shop": "jewelry",
     "latitude": 48.8668557,
-    "longitude": 15.1238188
+    "longitude": 15.1238188,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Doris` Marktplatzl",
     "retailer": "doris_marktplatzl",
     "shop": "convenience",
     "latitude": 48.8663005,
-    "longitude": 15.1214785
+    "longitude": 15.1214785,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Floranella",
     "retailer": "floranella",
     "shop": "florist",
     "latitude": 48.8656066,
-    "longitude": 15.1236165
+    "longitude": 15.1236165,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Foto Hois",
     "retailer": "foto_hois",
     "shop": "photo",
     "latitude": 48.8659864,
-    "longitude": 15.1227995
+    "longitude": 15.1227995,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gisy",
     "retailer": "gisy",
     "shop": "clothes",
     "latitude": 48.8652515,
-    "longitude": 15.1220941
+    "longitude": 15.1220941,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Grossmann",
     "retailer": "grossmann",
     "shop": "butcher",
     "latitude": 48.8652889,
-    "longitude": 15.1245503
+    "longitude": 15.1245503,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Heinz Nöbauer",
     "retailer": "heinz_nobauer",
     "shop": "clothes",
     "latitude": 48.8623063,
-    "longitude": 15.1225856
+    "longitude": 15.1225856,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ingrid Säuerl",
     "retailer": "ingrid_sauerl",
     "shop": "clothes",
     "latitude": 48.8653893,
-    "longitude": 15.1223467
+    "longitude": 15.1223467,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kinsky",
     "retailer": "kinsky",
     "shop": "seafood",
     "latitude": 48.8632886,
-    "longitude": 15.1202778
+    "longitude": 15.1202778,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Langsteiner Annerl Schrammel OG",
@@ -90,14 +123,20 @@
     "shop": "car_repair",
     "latitude": 48.8684251,
     "longitude": 15.1240079,
-    "brand": "Honda"
+    "brand": "Honda",
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Moldaschl Leopold",
     "retailer": "moldaschl_leopold",
     "shop": "bicycle",
     "latitude": 48.8623576,
-    "longitude": 15.1206756
+    "longitude": 15.1206756,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -105,56 +144,81 @@
     "shop": "clothes",
     "latitude": 48.8668218,
     "longitude": 15.1240807,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nuria",
     "retailer": "nuria",
     "shop": "supermarket",
     "latitude": 48.8655755,
-    "longitude": 15.1234074
+    "longitude": 15.1234074,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Raumaustatter Anton Gisy",
     "retailer": "raumaustatter_anton_gisy",
     "shop": "interior_decoration",
     "latitude": 48.8652799,
-    "longitude": 15.1220704
+    "longitude": 15.1220704,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Regebogenstudio",
     "retailer": "regebogenstudio",
     "shop": "cosmetics",
     "latitude": 48.867235,
-    "longitude": 15.1240868
+    "longitude": 15.1240868,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reifen Böhm",
     "retailer": "reifen_bohm",
     "shop": "tyres",
     "latitude": 48.8666515,
-    "longitude": 15.1227705
+    "longitude": 15.1227705,
+    "postcode": "3860",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Robarea",
     "retailer": "robarea",
     "shop": "hairdresser",
     "latitude": 48.865552,
-    "longitude": 15.1228919
+    "longitude": 15.1228919,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Salzburger Trachtenoutlet",
     "retailer": "salzburger_trachtenoutlet",
     "shop": "clothes",
     "latitude": 48.8600246,
-    "longitude": 15.1213612
+    "longitude": 15.1213612,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sam KFZ Service-Teile-Imbiss",
     "retailer": "sam_kfz_service_teile_imbiss",
     "shop": "car_parts",
     "latitude": 48.8692667,
-    "longitude": 15.1256429
+    "longitude": 15.1256429,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -162,48 +226,69 @@
     "shop": "supermarket",
     "latitude": 48.8693982,
     "longitude": 15.1229701,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stark Elektro & Kälte GmbH",
     "retailer": "stark_elektro_und_kalte_gmbh",
     "shop": "radiotechnics",
     "latitude": 48.8624309,
-    "longitude": 15.1242347
+    "longitude": 15.1242347,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Studio Hairstyle - Anibas & Anibas OG",
     "retailer": "studio_hairstyle_anibas_und_anibas_og",
     "shop": "hairdresser",
     "latitude": 48.8668896,
-    "longitude": 15.1211357
+    "longitude": 15.1211357,
+    "postcode": "3860",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.8693027,
-    "longitude": 15.1228926
+    "longitude": 15.1228926,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "W4 Schatzkistl",
     "retailer": "w4_schatzkistl",
     "shop": "second_hand",
     "latitude": 48.8661976,
-    "longitude": 15.1245703
+    "longitude": 15.1245703,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zimm Clemens",
     "retailer": "zimm_clemens",
     "shop": "kiosk",
     "latitude": 48.8656392,
-    "longitude": 15.1237135
+    "longitude": 15.1237135,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zipko",
     "retailer": "zipko",
     "shop": "butcher",
     "latitude": 48.8665864,
-    "longitude": 15.1214585
+    "longitude": 15.1214585,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

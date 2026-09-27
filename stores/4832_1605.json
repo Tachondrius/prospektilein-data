@@ -5,7 +5,9 @@
     "shop": "telecommunication",
     "latitude": 48.3299284,
     "longitude": 16.0506854,
-    "brand": "A1"
+    "brand": "A1",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Adler",
@@ -13,7 +15,9 @@
     "shop": "clothes",
     "latitude": 48.3298656,
     "longitude": 16.050545,
-    "brand": "Adler"
+    "brand": "Adler",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Admiral Sportwetten",
@@ -21,14 +25,22 @@
     "shop": "bookmaker",
     "latitude": 48.3294975,
     "longitude": 16.05445,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Backfabrik",
     "retailer": "backfabrik",
     "shop": "bakery",
     "latitude": 48.3295295,
-    "longitude": 16.0538329
+    "longitude": 16.0538329,
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bijou Brigitte",
@@ -36,7 +48,9 @@
     "shop": "jewelry",
     "latitude": 48.3299714,
     "longitude": 16.0506503,
-    "brand": "Bijou Brigitte"
+    "brand": "Bijou Brigitte",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Plus",
@@ -44,7 +58,11 @@
     "shop": "supermarket",
     "latitude": 48.3275983,
     "longitude": 16.0528735,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BONITA",
@@ -52,35 +70,49 @@
     "shop": "clothes",
     "latitude": 48.3299762,
     "longitude": 16.0504876,
-    "brand": "BONITA"
+    "brand": "BONITA",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bständig",
     "retailer": "bstandig",
     "shop": "medical_supply",
     "latitude": 48.3228143,
-    "longitude": 16.0589626
+    "longitude": 16.0589626,
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cafe Back Shop",
     "retailer": "cafe_back_shop",
     "shop": "bakery",
     "latitude": 48.3233511,
-    "longitude": 16.0585576
+    "longitude": 16.0585576,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "CreaTeam",
     "retailer": "createam",
     "shop": "craft",
     "latitude": 48.3295118,
-    "longitude": 16.0506651
+    "longitude": 16.0506651,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Der Bauernladen",
     "retailer": "der_bauernladen",
     "shop": "convenience",
     "latitude": 48.3266675,
-    "longitude": 16.0549455
+    "longitude": 16.0549455,
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "engbers",
@@ -88,7 +120,9 @@
     "shop": "clothes",
     "latitude": 48.329658,
     "longitude": 16.0506376,
-    "brand": "engbers"
+    "brand": "engbers",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -96,28 +130,38 @@
     "shop": "supermarket",
     "latitude": 48.3261933,
     "longitude": 16.0554289,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "GEA GehenSitzenLiegen",
     "retailer": "gea_gehensitzenliegen",
     "shop": "shoes",
     "latitude": 48.3258289,
-    "longitude": 16.0554989
+    "longitude": 16.0554989,
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Handy Partner magenta",
     "retailer": "handy_partner_magenta",
     "shop": "mobile_phone",
     "latitude": 48.3293769,
-    "longitude": 16.0549246
+    "longitude": 16.0549246,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Handyshop Paun",
     "retailer": "handyshop_paun",
     "shop": "mobile_phone",
     "latitude": 48.3299905,
-    "longitude": 16.050351
+    "longitude": 16.050351,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -125,7 +169,11 @@
     "shop": "supermarket",
     "latitude": 48.3235882,
     "longitude": 16.0579261,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Intersport",
@@ -133,7 +181,9 @@
     "shop": "sports",
     "latitude": 48.3294148,
     "longitude": 16.0506336,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -141,14 +191,19 @@
     "shop": "clothes",
     "latitude": 48.3239981,
     "longitude": 16.0586656,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "3430",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.3292524,
-    "longitude": 16.0545148
+    "longitude": 16.0545148,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -156,21 +211,31 @@
     "shop": "supermarket",
     "latitude": 48.3265966,
     "longitude": 16.058021,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ludwig LUKAS & Sohn",
     "retailer": "ludwig_lukas_und_sohn",
     "shop": "optician",
     "latitude": 48.329443,
-    "longitude": 16.0538578
+    "longitude": 16.0538578,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mediteran Oase Tulln",
     "retailer": "mediteran_oase_tulln",
     "shop": "deli",
     "latitude": 48.329655,
-    "longitude": 16.0541521
+    "longitude": 16.0541521,
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Müller",
@@ -178,14 +243,18 @@
     "shop": "chemist",
     "latitude": 48.3297946,
     "longitude": 16.0504382,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nanu-Nana",
     "retailer": "nanu_nana",
     "shop": "interior_decoration",
     "latitude": 48.3297362,
-    "longitude": 16.0506847
+    "longitude": 16.0506847,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -193,7 +262,11 @@
     "shop": "stationery",
     "latitude": 48.3275222,
     "longitude": 16.0583825,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -201,7 +274,11 @@
     "shop": "supermarket",
     "latitude": 48.3256518,
     "longitude": 16.0592551,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ROMA",
@@ -209,28 +286,41 @@
     "shop": "hairdresser_supply",
     "latitude": 48.3298104,
     "longitude": 16.05067,
-    "brand": "ROMA"
+    "brand": "ROMA",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schmerzfabrik",
     "retailer": "schmerzfabrik",
     "shop": "tattoo",
     "latitude": 48.3276303,
-    "longitude": 16.0596889
+    "longitude": 16.0596889,
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schmidberger Elektroinstallations GesmbH",
     "retailer": "schmidberger_elektroinstallations_gesmbh",
     "shop": "electronics",
     "latitude": 48.3286379,
-    "longitude": 16.0558034
+    "longitude": 16.0558034,
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabaktrafik Gruber Friedrich",
     "retailer": "tabaktrafik_gruber_friedrich",
     "shop": "kiosk",
     "latitude": 48.3231634,
-    "longitude": 16.0584842
+    "longitude": 16.0584842,
+    "postcode": "3430",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tui",
@@ -238,13 +328,19 @@
     "shop": "travel_agency",
     "latitude": 48.3296733,
     "longitude": 16.0506993,
-    "brand": "TUI"
+    "brand": "TUI",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Änderungsschneiderei Necati Mehmetoglu",
     "retailer": "anderungsschneiderei_necati_mehmetoglu",
     "shop": "tailor",
     "latitude": 48.3297184,
-    "longitude": 16.0517796
+    "longitude": 16.0517796,
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

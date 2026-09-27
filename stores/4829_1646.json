@@ -5,14 +5,20 @@
     "shop": "convenience",
     "latitude": 48.2941464,
     "longitude": 16.4677676,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "postcode": "2201",
+    "city": "Gerasdorf bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hirschvogel",
     "retailer": "hirschvogel",
     "shop": "bakery",
     "latitude": 48.2979857,
-    "longitude": 16.4696651
+    "longitude": 16.4696651,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -20,28 +26,36 @@
     "shop": "supermarket",
     "latitude": 48.2928115,
     "longitude": 16.4655065,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ilona & Family",
     "retailer": "ilona_und_family",
     "shop": "hairdresser",
     "latitude": 48.2936761,
-    "longitude": 16.4669467
+    "longitude": 16.4669467,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reisebüro Moser",
     "retailer": "reiseburo_moser",
     "shop": "travel_agency",
     "latitude": 48.293164,
-    "longitude": 16.4670172
+    "longitude": 16.4670172,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Seidl Fleischhandwerk",
     "retailer": "seidl_fleischhandwerk",
     "shop": "butcher",
     "latitude": 48.295664,
-    "longitude": 16.4697324
+    "longitude": 16.4697324,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -49,7 +63,9 @@
     "shop": "supermarket",
     "latitude": 48.2938652,
     "longitude": 16.4680004,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ströck",
@@ -57,13 +73,17 @@
     "shop": "bakery",
     "latitude": 48.2931228,
     "longitude": 16.4665884,
-    "brand": "Ströck"
+    "brand": "Ströck",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.2931075,
-    "longitude": 16.466899
+    "longitude": 16.466899,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

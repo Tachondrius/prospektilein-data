@@ -4,14 +4,22 @@
     "retailer": "die_baulowen",
     "shop": "trade",
     "latitude": 46.9800159,
-    "longitude": 15.4551187
+    "longitude": 15.4551187,
+    "postcode": "8401",
+    "city": "Kalsdorf bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Quester",
     "retailer": "quester",
     "shop": "doityourself",
     "latitude": 46.987136,
-    "longitude": 15.4501391
+    "longitude": 15.4501391,
+    "postcode": "8073",
+    "city": "Feldkirchen bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tesla Center Graz Kalsdorf",
@@ -19,7 +27,11 @@
     "shop": "car",
     "latitude": 46.9814554,
     "longitude": 15.4548149,
-    "brand": "Tesla"
+    "brand": "Tesla",
+    "postcode": "8401",
+    "city": "Kalsdorf bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "WM Fahrzeugteile Austria",
@@ -27,6 +39,10 @@
     "shop": "car_parts",
     "latitude": 46.9816183,
     "longitude": 15.4544658,
-    "brand": "WM Fahrzeugteile"
+    "brand": "WM Fahrzeugteile",
+    "postcode": "8401",
+    "city": "Kalsdorf bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,56 +4,80 @@
     "retailer": "belfin",
     "shop": "kitchen",
     "latitude": 47.5102176,
-    "longitude": 12.1191785
+    "longitude": 12.1191785,
+    "postcode": "6323",
+    "city": "Bad Häring",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Don Peppe`s Vinothek",
     "retailer": "don_peppe_s_vinothek",
     "shop": "wine",
     "latitude": 47.5102008,
-    "longitude": 12.1180526
+    "longitude": 12.1180526,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "g&k hairSession",
     "retailer": "g_und_k_hairsession",
     "shop": "hairdresser",
     "latitude": 47.5113666,
-    "longitude": 12.1170558
+    "longitude": 12.1170558,
+    "postcode": "6323",
+    "city": "Bad Häring",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 47.5103854,
-    "longitude": 12.1182367
+    "longitude": 12.1182367,
+    "postcode": "6323",
+    "city": "Bad Häring",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Handwerk",
     "retailer": "handwerk",
     "shop": "beauty",
     "latitude": 47.5103967,
-    "longitude": 12.1180577
+    "longitude": 12.1180577,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Jol",
     "retailer": "jol",
     "shop": "sports",
     "latitude": 47.5112301,
-    "longitude": 12.1188355
+    "longitude": 12.1188355,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Riedmann",
     "retailer": "riedmann",
     "shop": "heating",
     "latitude": 47.5110519,
-    "longitude": 12.1187519
+    "longitude": 12.1187519,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schellhorn",
     "retailer": "schellhorn",
     "shop": "bakery",
     "latitude": 47.5109096,
-    "longitude": 12.119117
+    "longitude": 12.119117,
+    "postcode": "6323",
+    "city": "Bad Häring",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -61,6 +85,10 @@
     "shop": "supermarket",
     "latitude": 47.511844,
     "longitude": 12.1158216,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6323",
+    "city": "Bad Häring",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

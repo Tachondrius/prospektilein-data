@@ -4,28 +4,40 @@
     "retailer": "blumen_wanger",
     "shop": "garden_centre",
     "latitude": 47.2002178,
-    "longitude": 9.696713
+    "longitude": 9.696713,
+    "city": "Schlins",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Friseursalon Angelika Knecht",
     "retailer": "friseursalon_angelika_knecht",
     "shop": "hairdresser",
     "latitude": 47.2005498,
-    "longitude": 9.6929675
+    "longitude": 9.6929675,
+    "postcode": "6824",
+    "city": "Schlins",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Käslädele - Dorf-Sennerei Schlins",
     "retailer": "kasladele_dorf_sennerei_schlins",
     "shop": "cheese",
     "latitude": 47.204585,
-    "longitude": 9.6988544
+    "longitude": 9.6988544,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Metzgerei Arthur Egger",
     "retailer": "metzgerei_arthur_egger",
     "shop": "butcher",
     "latitude": 47.20304,
-    "longitude": 9.6937482
+    "longitude": 9.6937482,
+    "city": "Schlins",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -33,13 +45,21 @@
     "shop": "supermarket",
     "latitude": 47.2025114,
     "longitude": 9.6935545,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6824",
+    "city": "Schlins",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.2029565,
-    "longitude": 9.6959626
+    "longitude": 9.6959626,
+    "postcode": "6824",
+    "city": "Schlins",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

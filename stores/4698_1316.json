@@ -4,14 +4,22 @@
     "retailer": "cafe_backerei",
     "shop": "bakery",
     "latitude": 46.9890183,
-    "longitude": 13.1694451
+    "longitude": 13.1694451,
+    "postcode": "9822",
+    "city": "Mallnitz",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Foto Hebein",
     "retailer": "foto_hebein",
     "shop": "photo;gifts",
     "latitude": 46.9895673,
-    "longitude": 13.1694245
+    "longitude": 13.1694245,
+    "postcode": "9822",
+    "city": "Mallnitz",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sport 2000",
@@ -19,20 +27,28 @@
     "shop": "sports",
     "latitude": 46.9888066,
     "longitude": 13.1695135,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wolligger Sport",
     "retailer": "wolligger_sport",
     "shop": "sports",
     "latitude": 46.9891288,
-    "longitude": 13.1687016
+    "longitude": 13.1687016,
+    "postcode": "9822",
+    "city": "Mallnitz",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wollinger Sports",
     "retailer": "wollinger_sports",
     "shop": "bicycle",
     "latitude": 46.989042,
-    "longitude": 13.1689504
+    "longitude": 13.1689504,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

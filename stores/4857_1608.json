@@ -5,7 +5,10 @@
     "shop": "car",
     "latitude": 48.5709478,
     "longitude": 16.083765,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "2020",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Forstinger",
@@ -13,7 +16,11 @@
     "shop": "car_repair",
     "latitude": 48.5718654,
     "longitude": 16.0842231,
-    "brand": "Forstinger"
+    "brand": "Forstinger",
+    "postcode": "2020",
+    "city": "Hollabrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Interspar",
@@ -21,20 +28,31 @@
     "shop": "supermarket",
     "latitude": 48.5705227,
     "longitude": 16.0814889,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2020",
+    "city": "Hollabrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Musikparadies",
     "retailer": "musikparadies",
     "shop": "music",
     "latitude": 48.5716725,
-    "longitude": 16.0834898
+    "longitude": 16.0834898,
+    "postcode": "2020",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Scharinger",
     "retailer": "scharinger",
     "shop": "motorcycle",
     "latitude": 48.5731144,
-    "longitude": 16.0849738
+    "longitude": 16.0849738,
+    "postcode": "2020",
+    "city": "Hollabrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

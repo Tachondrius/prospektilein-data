@@ -4,14 +4,20 @@
     "retailer": "areit_express",
     "shop": "ticket",
     "latitude": 47.2999853,
-    "longitude": 12.7884775
+    "longitude": 12.7884775,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bauer",
     "retailer": "bauer",
     "shop": "bakery",
     "latitude": 47.2940403,
-    "longitude": 12.7883558
+    "longitude": 12.7883558,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bipa",
@@ -19,7 +25,11 @@
     "shop": "chemist",
     "latitude": 47.297068,
     "longitude": 12.7887796,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Deichmann",
@@ -27,7 +37,9 @@
     "shop": "shoes",
     "latitude": 47.2972098,
     "longitude": 12.787066,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -35,7 +47,11 @@
     "shop": "chemist",
     "latitude": 47.2972381,
     "longitude": 12.7866724,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hagebaumarkt",
@@ -43,7 +59,11 @@
     "shop": "doityourself",
     "latitude": 47.296481,
     "longitude": 12.785238,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -51,7 +71,11 @@
     "shop": "supermarket",
     "latitude": 47.2967756,
     "longitude": 12.7878538,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "JYSK",
@@ -59,7 +83,11 @@
     "shop": "furniture",
     "latitude": 47.2967077,
     "longitude": 12.786532,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KiK",
@@ -67,7 +95,11 @@
     "shop": "clothes",
     "latitude": 47.2974291,
     "longitude": 12.7888395,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "New Yorker",
@@ -75,7 +107,11 @@
     "shop": "clothes",
     "latitude": 47.2981268,
     "longitude": 12.7879552,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "ONLY",
@@ -83,7 +119,9 @@
     "shop": "clothes",
     "latitude": 47.2962381,
     "longitude": 12.7886213,
-    "brand": "ONLY"
+    "brand": "ONLY",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pagro",
@@ -91,14 +129,22 @@
     "shop": "stationery",
     "latitude": 47.2961971,
     "longitude": 12.7874678,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schlosserei Köck",
     "retailer": "schlosserei_kock",
     "shop": "locksmith",
     "latitude": 47.2982131,
-    "longitude": 12.7883203
+    "longitude": 12.7883203,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "shoe4you",
@@ -106,7 +152,11 @@
     "shop": "shoes",
     "latitude": 47.2972154,
     "longitude": 12.7887761,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Takko Fashion",
@@ -114,7 +164,9 @@
     "shop": "clothes",
     "latitude": 47.2966779,
     "longitude": 12.7888664,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tchibo",
@@ -122,7 +174,11 @@
     "shop": "coffee",
     "latitude": 47.2968905,
     "longitude": 12.7888624,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "TEDi",
@@ -130,6 +186,10 @@
     "shop": "variety_store",
     "latitude": 47.296241,
     "longitude": 12.7879263,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

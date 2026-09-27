@@ -5,27 +5,39 @@
     "shop": "supermarket",
     "latitude": 47.6027436,
     "longitude": 15.667806,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Harich",
     "retailer": "harich",
     "shop": "beverages",
     "latitude": 47.6014674,
-    "longitude": 15.6686674
+    "longitude": 15.6686674,
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Leitner",
     "retailer": "leitner",
     "shop": "tobacco",
     "latitude": 47.6056879,
-    "longitude": 15.6696956
+    "longitude": 15.6696956,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nora",
     "retailer": "nora",
     "shop": "hairdresser",
     "latitude": 47.6057007,
-    "longitude": 15.6699321
+    "longitude": 15.6699321,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

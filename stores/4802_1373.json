@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 48.023114,
     "longitude": 13.7316728,
-    "brand": "Fiat; Lancia; Alpha Romeo;Jeep"
+    "brand": "Fiat; Lancia; Alpha Romeo;Jeep",
+    "postcode": "4800",
+    "city": "Attnang-Puchheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KTM Angleitner",
@@ -13,7 +17,11 @@
     "shop": "motorcycle",
     "latitude": 48.0235727,
     "longitude": 13.7329332,
-    "brand": "KTM;Husaberg"
+    "brand": "KTM;Husaberg",
+    "postcode": "4800",
+    "city": "Attnang-Puchheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Peugeot Berger",
@@ -21,7 +29,11 @@
     "shop": "car",
     "latitude": 48.0248972,
     "longitude": 13.7333514,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "4846",
+    "city": "Redlham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Samhaber LKW-Center",
@@ -29,6 +41,10 @@
     "shop": "car_repair",
     "latitude": 48.0221291,
     "longitude": 13.7306149,
-    "brand": "Iveco;MAN"
+    "brand": "Iveco;MAN",
+    "postcode": "4800",
+    "city": "Attnang-Puchheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,20 +4,30 @@
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 48.3598854,
-    "longitude": 13.9962771
+    "longitude": 13.9962771,
+    "postcode": "4081",
+    "city": "Hartkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Garten Dobretzberger",
     "retailer": "garten_dobretzberger",
     "shop": "garden_centre",
     "latitude": 48.3582813,
-    "longitude": 13.9986077
+    "longitude": 13.9986077,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Toyota Wildberger Hartkirchen",
     "retailer": "toyota_wildberger_hartkirchen",
     "shop": "car",
     "latitude": 48.3596494,
-    "longitude": 13.993988
+    "longitude": 13.993988,
+    "postcode": "4081",
+    "city": "Hartkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 46.8858414,
     "longitude": 15.4901836,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8410",
+    "city": "Wildon",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Harry´s Bikes & Fitness",
     "retailer": "harry_s_bikes_und_fitness",
     "shop": "bicycle",
     "latitude": 46.8872074,
-    "longitude": 15.4999325
+    "longitude": 15.4999325,
+    "postcode": "8410",
+    "city": "Wildon",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

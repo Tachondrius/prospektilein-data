@@ -4,7 +4,9 @@
     "retailer": "carfinder",
     "shop": "car",
     "latitude": 48.2390437,
-    "longitude": 16.1371558
+    "longitude": 16.1371558,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Carglass",
@@ -12,20 +14,26 @@
     "shop": "car_repair",
     "latitude": 48.2391362,
     "longitude": 16.1370298,
-    "brand": "Carglass"
+    "brand": "Carglass",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Moto Rotti Drag Racing",
     "retailer": "moto_rotti_drag_racing",
     "shop": "motorcycle",
     "latitude": 48.2382336,
-    "longitude": 16.1383125
+    "longitude": 16.1383125,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reifen Zekan",
     "retailer": "reifen_zekan",
     "shop": "tyres",
     "latitude": 48.2387034,
-    "longitude": 16.1367622
+    "longitude": 16.1367622,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

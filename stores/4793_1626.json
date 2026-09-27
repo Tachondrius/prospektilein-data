@@ -5,20 +5,28 @@
     "shop": "supermarket",
     "latitude": 47.9376477,
     "longitude": 16.2627715,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2525",
+    "city": "Günselsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Straka",
     "retailer": "kfz_straka",
     "shop": "car_repair",
     "latitude": 47.9383589,
-    "longitude": 16.2622588
+    "longitude": 16.2622588,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Straka GmbH",
     "retailer": "straka_gmbh",
     "shop": "car",
     "latitude": 47.9383895,
-    "longitude": 16.2623191
+    "longitude": 16.2623191,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

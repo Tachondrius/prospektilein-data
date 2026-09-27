@@ -5,7 +5,11 @@
     "shop": "car_repair",
     "latitude": 48.1556173,
     "longitude": 16.3188023,
-    "brand": "A.T.U"
+    "brand": "A.T.U",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Action",
@@ -13,7 +17,11 @@
     "shop": "variety_store",
     "latitude": 48.1565445,
     "longitude": 16.3196791,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Anker",
@@ -21,7 +29,11 @@
     "shop": "bakery",
     "latitude": 48.1514193,
     "longitude": 16.3149452,
-    "brand": "Anker"
+    "brand": "Anker",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -29,7 +41,9 @@
     "shop": "supermarket",
     "latitude": 48.1514423,
     "longitude": 16.3164823,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -37,14 +51,20 @@
     "shop": "chemist",
     "latitude": 48.151557,
     "longitude": 16.3150352,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Center Alterlaa",
     "retailer": "center_alterlaa",
     "shop": "mall",
     "latitude": 48.1523148,
-    "longitude": 16.3190452
+    "longitude": 16.3190452,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Deichmann",
@@ -52,7 +72,9 @@
     "shop": "shoes",
     "latitude": 48.1525439,
     "longitude": 16.3198032,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Der Mann",
@@ -60,7 +82,9 @@
     "shop": "bakery",
     "latitude": 48.151206,
     "longitude": 16.3164194,
-    "brand": "Der Mann"
+    "brand": "Der Mann",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "dm",
@@ -68,7 +92,11 @@
     "shop": "chemist",
     "latitude": 48.1524491,
     "longitude": 16.3191546,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ernsting's family",
@@ -76,7 +104,9 @@
     "shop": "clothes",
     "latitude": 48.1525152,
     "longitude": 16.3196506,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Eurospar",
@@ -84,14 +114,20 @@
     "shop": "supermarket",
     "latitude": 48.1598729,
     "longitude": 16.3187632,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 48.152284,
-    "longitude": 16.3195004
+    "longitude": 16.3195004,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Interspar",
@@ -99,14 +135,22 @@
     "shop": "supermarket",
     "latitude": 48.1520122,
     "longitude": 16.3183132,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kaufpark Alt-Erlaa",
     "retailer": "kaufpark_alt_erlaa",
     "shop": "mall",
     "latitude": 48.1514212,
-    "longitude": 16.3151024
+    "longitude": 16.3151024,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "KiK",
@@ -114,63 +158,83 @@
     "shop": "clothes",
     "latitude": 48.1525583,
     "longitude": 16.3199828,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Landtmann Tortenproduktion",
     "retailer": "landtmann_tortenproduktion",
     "shop": "bakery",
     "latitude": 48.1528928,
-    "longitude": 16.3186195
+    "longitude": 16.3186195,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lilium",
     "retailer": "lilium",
     "shop": "florist",
     "latitude": 48.1512257,
-    "longitude": 16.3165536
+    "longitude": 16.3165536,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mobile Phone",
     "retailer": "shop_mobile_phone",
     "shop": "mobile_phone",
     "latitude": 48.1523088,
-    "longitude": 16.3196639
+    "longitude": 16.3196639,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Optik Zentrum",
     "retailer": "optik_zentrum",
     "shop": "optician",
     "latitude": 48.1512347,
-    "longitude": 16.3147833
+    "longitude": 16.3147833,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ortoproban",
     "retailer": "ortoproban",
     "shop": "medical_supply",
     "latitude": 48.1514063,
-    "longitude": 16.3161988
+    "longitude": 16.3161988,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Prokopp Reformhaus",
     "retailer": "prokopp_reformhaus",
     "shop": "chemist",
     "latitude": 48.1515394,
-    "longitude": 16.3160953
+    "longitude": 16.3160953,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Radatz",
     "retailer": "radatz",
     "shop": "butcher",
     "latitude": 48.1512139,
-    "longitude": 16.3145841
+    "longitude": 16.3145841,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ruefa",
     "retailer": "ruefa",
     "shop": "travel_agency",
     "latitude": 48.1513617,
-    "longitude": 16.3156041
+    "longitude": 16.3156041,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar Express",
@@ -178,7 +242,11 @@
     "shop": "convenience",
     "latitude": 48.1545223,
     "longitude": 16.3193905,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "SPAR Gourmet",
@@ -186,20 +254,30 @@
     "shop": "supermarket",
     "latitude": 48.1513007,
     "longitude": 16.3144318,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Szihn",
     "retailer": "szihn",
     "shop": "bakery",
     "latitude": 48.1507835,
-    "longitude": 16.3169829
+    "longitude": 16.3169829,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik Kreuz",
     "retailer": "tabak_trafik_kreuz",
     "shop": "tobacco",
     "latitude": 48.1516232,
-    "longitude": 16.313991
+    "longitude": 16.313991,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

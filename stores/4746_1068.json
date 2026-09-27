@@ -4,7 +4,11 @@
     "retailer": "kfz_und_nfz_werkstatt_feuerstein_gmbh",
     "shop": "car_repair",
     "latitude": 47.4655656,
-    "longitude": 10.6879524
+    "longitude": 10.6879524,
+    "postcode": "6600",
+    "city": "Ehenbichl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wolf",
@@ -12,6 +16,10 @@
     "shop": "car",
     "latitude": 47.4667763,
     "longitude": 10.68254,
-    "brand": "Seat;Škoda"
+    "brand": "Seat;Škoda",
+    "postcode": "6604",
+    "city": "Höfen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

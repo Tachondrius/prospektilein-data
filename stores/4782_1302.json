@@ -4,14 +4,20 @@
     "retailer": "24_7_kiosk_automat",
     "shop": "convenience",
     "latitude": 47.8218881,
-    "longitude": 13.023977
+    "longitude": 13.023977,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Angel Center Salzburg",
     "retailer": "angel_center_salzburg",
     "shop": "fishing",
     "latitude": 47.8210223,
-    "longitude": 13.0240872
+    "longitude": 13.0240872,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -19,21 +25,31 @@
     "shop": "supermarket",
     "latitude": 47.8223398,
     "longitude": 13.0231535,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Laser me",
     "retailer": "laser_me",
     "shop": "beauty",
     "latitude": 47.8208888,
-    "longitude": 13.0244856
+    "longitude": 13.0244856,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "NeuroKiz",
     "retailer": "neurokiz",
     "shop": "medical_supply",
     "latitude": 47.8214042,
-    "longitude": 13.0252799
+    "longitude": 13.0252799,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pamminger Roland",
@@ -41,6 +57,10 @@
     "shop": "tobacco",
     "latitude": 47.8222003,
     "longitude": 13.0238836,
-    "brand": "Tabakfabrik"
+    "brand": "Tabakfabrik",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

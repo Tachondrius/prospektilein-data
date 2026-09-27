@@ -4,14 +4,20 @@
     "retailer": "fleischerei_wild",
     "shop": "butcher",
     "latitude": 48.4774669,
-    "longitude": 16.5889849
+    "longitude": 16.5889849,
+    "postcode": "2191",
+    "city": "Gaweinstal",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fußpflege Moser",
     "retailer": "fupflege_moser",
     "shop": "beauty",
     "latitude": 48.4791166,
-    "longitude": 16.5878772
+    "longitude": 16.5878772,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -19,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 48.4718828,
     "longitude": 16.588085,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2191",
+    "city": "Gaweinstal",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -27,13 +37,19 @@
     "shop": "supermarket",
     "latitude": 48.4769722,
     "longitude": 16.589607,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2191",
+    "city": "Gaweinstal",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Karl Lang",
     "retailer": "trafik_karl_lang",
     "shop": "tobacco",
     "latitude": 48.476634,
-    "longitude": 16.5897698
+    "longitude": 16.5897698,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

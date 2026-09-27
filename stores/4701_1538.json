@@ -4,20 +4,30 @@
     "retailer": "better_sweet",
     "shop": "pastry",
     "latitude": 47.0130887,
-    "longitude": 15.3821291
+    "longitude": 15.3821291,
+    "postcode": "8054",
+    "city": "Seiersberg-Pirka",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofladen",
     "retailer": "hofladen",
     "shop": "farm",
     "latitude": 47.0199461,
-    "longitude": 15.3836954
+    "longitude": 15.3836954,
+    "postcode": "8054",
+    "city": "Seiersberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Johanneshof-Laden",
     "retailer": "johanneshof_laden",
     "shop": "farm",
     "latitude": 47.0187132,
-    "longitude": 15.3851217
+    "longitude": 15.3851217,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

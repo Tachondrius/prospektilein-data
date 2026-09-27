@@ -4,20 +4,28 @@
     "retailer": "backer_zeppitz",
     "shop": "bakery",
     "latitude": 46.6108626,
-    "longitude": 14.3591476
+    "longitude": 14.3591476,
+    "postcode": "9065",
+    "city": "Ebenthal in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Magic Hair Team",
     "retailer": "magic_hair_team",
     "shop": "hairdresser",
     "latitude": 46.6104279,
-    "longitude": 14.3588325
+    "longitude": 14.3588325,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.610772,
-    "longitude": 14.3590289
+    "longitude": 14.3590289,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

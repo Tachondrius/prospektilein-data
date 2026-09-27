@@ -4,21 +4,29 @@
     "retailer": "forg_blechblasinstrumente",
     "shop": "musical_instrument",
     "latitude": 47.27439,
-    "longitude": 11.2396561
+    "longitude": 11.2396561,
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.2730868,
-    "longitude": 11.2387453
+    "longitude": 11.2387453,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.276894,
-    "longitude": 11.2364559
+    "longitude": 11.2364559,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -26,13 +34,21 @@
     "shop": "convenience",
     "latitude": 47.2738175,
     "longitude": 11.2397937,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM Postpartner",
     "retailer": "minim_postpartner",
     "shop": "supermarket",
     "latitude": 47.2737817,
-    "longitude": 11.2398248
+    "longitude": 11.2398248,
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

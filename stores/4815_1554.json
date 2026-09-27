@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1534001,
     "longitude": 15.5458254,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3200",
+    "city": "Ober-Grafendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,35 +17,55 @@
     "shop": "chemist",
     "latitude": 48.1502105,
     "longitude": 15.5467856,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "3200",
+    "city": "Ober-Grafendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumenfee",
     "retailer": "blumenfee",
     "shop": "florist",
     "latitude": 48.1500289,
-    "longitude": 15.5488845
+    "longitude": 15.5488845,
+    "postcode": "3200",
+    "city": "Ober-Grafendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumengschäft Völk",
     "retailer": "blumengschaft_volk",
     "shop": "florist",
     "latitude": 48.1524033,
-    "longitude": 15.543865
+    "longitude": 15.543865,
+    "postcode": "3200",
+    "city": "Ober-Grafendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Hager GesmbH",
     "retailer": "backerei_hager_gesmbh",
     "shop": "bakery",
     "latitude": 48.1501654,
-    "longitude": 15.5464533
+    "longitude": 15.5464533,
+    "postcode": "3200",
+    "city": "Ober-Grafendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Haidinger",
     "retailer": "backerei_haidinger",
     "shop": "bakery",
     "latitude": 48.1510389,
-    "longitude": 15.5492322
+    "longitude": 15.5492322,
+    "postcode": "3200",
+    "city": "Ober-Grafendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -49,35 +73,51 @@
     "shop": "supermarket",
     "latitude": 48.1512825,
     "longitude": 15.5405877,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "3200",
+    "city": "Ober-Grafendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei Ettl",
     "retailer": "fleischerei_ettl",
     "shop": "butcher",
     "latitude": 48.150722,
-    "longitude": 15.5448296
+    "longitude": 15.5448296,
+    "postcode": "3200",
+    "city": "Ober-Grafendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Juwelier Sedina",
     "retailer": "juwelier_sedina",
     "shop": "jewelry",
     "latitude": 48.150485,
-    "longitude": 15.5479421
+    "longitude": 15.5479421,
+    "postcode": "3200",
+    "city": "Ober-Grafendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Janker",
     "retailer": "kfz_janker",
     "shop": "car_parts",
     "latitude": 48.1559689,
-    "longitude": 15.540804
+    "longitude": 15.540804,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Küchen Fuchs",
     "retailer": "kuchen_fuchs",
     "shop": "kitchen",
     "latitude": 48.1503656,
-    "longitude": 15.548773
+    "longitude": 15.548773,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -85,13 +125,21 @@
     "shop": "supermarket",
     "latitude": 48.1513064,
     "longitude": 15.5414109,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "3200",
+    "city": "Ober-Grafendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schindelegger",
     "retailer": "schindelegger",
     "shop": "shoes",
     "latitude": 48.1504044,
-    "longitude": 15.5477526
+    "longitude": 15.5477526,
+    "postcode": "3200",
+    "city": "Ober-Grafendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

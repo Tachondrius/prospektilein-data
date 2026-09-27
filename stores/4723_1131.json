@@ -4,7 +4,11 @@
     "retailer": "alpenbox",
     "shop": "grocery",
     "latitude": 47.236175,
-    "longitude": 11.3113966
+    "longitude": 11.3113966,
+    "postcode": "6091",
+    "city": "Götzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,77 +16,105 @@
     "shop": "bakery",
     "latitude": 47.2388475,
     "longitude": 11.3119699,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6091",
+    "city": "Götzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumenstüberl",
     "retailer": "blumenstuberl",
     "shop": "florist",
     "latitude": 47.235744,
-    "longitude": 11.3127137
+    "longitude": 11.3127137,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Bucher Cafe",
     "retailer": "backerei_bucher_cafe",
     "shop": "bakery",
     "latitude": 47.2370431,
-    "longitude": 11.3114841
+    "longitude": 11.3114841,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "COMMOD Concept Store",
     "retailer": "commod_concept_store",
     "shop": "fashion_accessories",
     "latitude": 47.2363245,
-    "longitude": 11.3110966
+    "longitude": 11.3110966,
+    "postcode": "6091",
+    "city": "Götzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Depict",
     "retailer": "depict",
     "shop": "craft",
     "latitude": 47.2354137,
-    "longitude": 11.3124054
+    "longitude": 11.3124054,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "envi",
     "retailer": "envi",
     "shop": "gift",
     "latitude": 47.2359612,
-    "longitude": 11.3114977
+    "longitude": 11.3114977,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Faszination Licht",
     "retailer": "faszination_licht",
     "shop": "lighting",
     "latitude": 47.2359902,
-    "longitude": 11.3116272
+    "longitude": 11.3116272,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gaspari",
     "retailer": "gaspari",
     "shop": "stationery",
     "latitude": 47.2356986,
-    "longitude": 11.3125516
+    "longitude": 11.3125516,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kaufhaus Eigentler",
     "retailer": "kaufhaus_eigentler",
     "shop": "convenience",
     "latitude": 47.2357498,
-    "longitude": 11.3133798
+    "longitude": 11.3133798,
+    "postcode": "6091",
+    "city": "Götzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Martin's Haarstudio",
     "retailer": "martin_s_haarstudio",
     "shop": "hairdresser",
     "latitude": 47.2359471,
-    "longitude": 11.3130674
+    "longitude": 11.3130674,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Schweighofer",
     "retailer": "metzgerei_schweighofer",
     "shop": "butcher",
     "latitude": 47.2362628,
-    "longitude": 11.3119265
+    "longitude": 11.3119265,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -90,7 +122,11 @@
     "shop": "convenience",
     "latitude": 47.2391339,
     "longitude": 11.3114596,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "postcode": "6091",
+    "city": "Götzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -98,6 +134,10 @@
     "shop": "supermarket",
     "latitude": 47.2390453,
     "longitude": 11.3121139,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6091",
+    "city": "Götzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

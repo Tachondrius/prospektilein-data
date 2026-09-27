@@ -5,13 +5,19 @@
     "shop": "car_repair",
     "latitude": 46.7128219,
     "longitude": 15.7689445,
-    "brand": "Opel & Suzuki"
+    "brand": "Opel & Suzuki",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stahlbau Roman",
     "retailer": "stahlbau_roman",
     "shop": "hardware",
     "latitude": 46.7131097,
-    "longitude": 15.7682022
+    "longitude": 15.7682022,
+    "postcode": "8480",
+    "city": "Mureck",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

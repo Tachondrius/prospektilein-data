@@ -4,7 +4,9 @@
     "retailer": "1a_computer",
     "shop": "electronics",
     "latitude": 47.2173168,
-    "longitude": 15.6238156
+    "longitude": 15.6238156,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Action",
@@ -12,21 +14,31 @@
     "shop": "variety_store",
     "latitude": 47.2164227,
     "longitude": 15.626454,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ARBÖ",
     "retailer": "arbo",
     "shop": "car_repair",
     "latitude": 47.2159261,
-    "longitude": 15.6217489
+    "longitude": 15.6217489,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Asia Mini-Market",
     "retailer": "asia_mini_market",
     "shop": "convenience",
     "latitude": 47.2168618,
-    "longitude": 15.6253148
+    "longitude": 15.6253148,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Stacherl",
@@ -34,7 +46,11 @@
     "shop": "car",
     "latitude": 47.213735,
     "longitude": 15.629648,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Weiz GesmbH & Co KG",
@@ -42,91 +58,133 @@
     "shop": "car",
     "latitude": 47.2130336,
     "longitude": 15.6284595,
-    "brand": "Volkswagen;Audi"
+    "brand": "Volkswagen;Audi",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bandagist Lederhaas",
     "retailer": "bandagist_lederhaas",
     "shop": "medical_supply",
     "latitude": 47.2184871,
-    "longitude": 15.6230902
+    "longitude": 15.6230902,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Baumgartner Schuhe",
     "retailer": "baumgartner_schuhe",
     "shop": "shoes",
     "latitude": 47.2175422,
-    "longitude": 15.6276073
+    "longitude": 15.6276073,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bergmann Bilderrahmen",
     "retailer": "bergmann_bilderrahmen",
     "shop": "frame",
     "latitude": 47.2166818,
-    "longitude": 15.6209633
+    "longitude": 15.6209633,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bestattung Koller - Adlmann",
     "retailer": "bestattung_koller_adlmann",
     "shop": "funeral_directors",
     "latitude": 47.2157773,
-    "longitude": 15.6242301
+    "longitude": 15.6242301,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bioinsel Rosenberger",
     "retailer": "bioinsel_rosenberger",
     "shop": "supermarket",
     "latitude": 47.2148234,
-    "longitude": 15.6248447
+    "longitude": 15.6248447,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blanche Purete",
     "retailer": "blanche_purete",
     "shop": "beauty",
     "latitude": 47.2199092,
-    "longitude": 15.6267603
+    "longitude": 15.6267603,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blütenzauber",
     "retailer": "blutenzauber",
     "shop": "florist",
     "latitude": 47.2166179,
-    "longitude": 15.6254806
+    "longitude": 15.6254806,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Brennstoffe Tiefengraber",
     "retailer": "brennstoffe_tiefengraber",
     "shop": "fuel",
     "latitude": 47.2160728,
-    "longitude": 15.6248441
+    "longitude": 15.6248441,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Gaulhofer",
     "retailer": "backerei_gaulhofer",
     "shop": "bakery",
     "latitude": 47.2196624,
-    "longitude": 15.6237596
+    "longitude": 15.6237596,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Tengg",
     "retailer": "backerei_tengg",
     "shop": "bakery",
     "latitude": 47.2154717,
-    "longitude": 15.6262583
+    "longitude": 15.6262583,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Café-Konditorei Feichtinger",
     "retailer": "cafe_konditorei_feichtinger",
     "shop": "pastry",
     "latitude": 47.2164969,
-    "longitude": 15.6252505
+    "longitude": 15.6252505,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Carla Weiz",
     "retailer": "carla_weiz",
     "shop": "second_hand",
     "latitude": 47.2172603,
-    "longitude": 15.6264917
+    "longitude": 15.6264917,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Cecil",
@@ -134,56 +192,76 @@
     "shop": "clothes",
     "latitude": 47.2181373,
     "longitude": 15.6240466,
-    "brand": "Cecil"
+    "brand": "Cecil",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "City-Sun",
     "retailer": "city_sun",
     "shop": "beauty",
     "latitude": 47.2169386,
-    "longitude": 15.6257778
+    "longitude": 15.6257778,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Curves & More",
     "retailer": "curves_und_more",
     "shop": "clothes",
     "latitude": 47.2131798,
-    "longitude": 15.6263174
+    "longitude": 15.6263174,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dlg Weiz",
     "retailer": "dlg_weiz",
     "shop": "laundry",
     "latitude": 47.2179619,
-    "longitude": 15.6235625
+    "longitude": 15.6235625,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dlg Weiz",
     "retailer": "dlg_weiz",
     "shop": "tailor",
     "latitude": 47.2184694,
-    "longitude": 15.6236114
+    "longitude": 15.6236114,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Dolce Moda",
     "retailer": "dolce_moda",
     "shop": "clothes",
     "latitude": 47.2176883,
-    "longitude": 15.6242147
+    "longitude": 15.6242147,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ella Kleiderladen",
     "retailer": "ella_kleiderladen",
     "shop": "clothes",
     "latitude": 47.2182659,
-    "longitude": 15.624622
+    "longitude": 15.624622,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elmas Barber Shop",
     "retailer": "elmas_barber_shop",
     "shop": "hairdresser",
     "latitude": 47.2149305,
-    "longitude": 15.6267675
+    "longitude": 15.6267675,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Esprit",
@@ -191,7 +269,9 @@
     "shop": "clothes",
     "latitude": 47.21762,
     "longitude": 15.6277735,
-    "brand": "Esprit"
+    "brand": "Esprit",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eurospar",
@@ -199,63 +279,99 @@
     "shop": "supermarket",
     "latitude": 47.2176097,
     "longitude": 15.6298719,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fahrradwerkstatt re.use bike",
     "retailer": "fahrradwerkstatt_re_use_bike",
     "shop": "bicycle",
     "latitude": 47.2178179,
-    "longitude": 15.6228702
+    "longitude": 15.6228702,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Feichtinger Schmuckhandels GmbH",
     "retailer": "feichtinger_schmuckhandels_gmbh",
     "shop": "jewelry",
     "latitude": 47.2168327,
-    "longitude": 15.6216974
+    "longitude": 15.6216974,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Feinkost Bleykolm GesmbH & Co KG",
     "retailer": "feinkost_bleykolm_gesmbh_und_co_kg",
     "shop": "convenience",
     "latitude": 47.2184121,
-    "longitude": 15.6267026
+    "longitude": 15.6267026,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_parts",
     "latitude": 47.2143509,
-    "longitude": 15.6288547
+    "longitude": 15.6288547,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fragner",
     "retailer": "fragner",
     "shop": "hairdresser",
     "latitude": 47.2181983,
-    "longitude": 15.6290539
+    "longitude": 15.6290539,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Freestyle Cut",
     "retailer": "freestyle_cut",
     "shop": "hairdresser",
     "latitude": 47.2173028,
-    "longitude": 15.625591
+    "longitude": 15.625591,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Lisbeth",
     "retailer": "friseur_lisbeth",
     "shop": "hairdresser",
     "latitude": 47.2184739,
-    "longitude": 15.6239917
+    "longitude": 15.6239917,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisiersalon \"Kopfschmuck\"",
     "retailer": "frisiersalon_kopfschmuck",
     "shop": "hairdresser",
     "latitude": 47.2191205,
-    "longitude": 15.6278641
+    "longitude": 15.6278641,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fussl",
@@ -263,42 +379,64 @@
     "shop": "clothes",
     "latitude": 47.2182227,
     "longitude": 15.6277151,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gold - Silberankauf Weiz",
     "retailer": "gold_silberankauf_weiz",
     "shop": "gold_buyer",
     "latitude": 47.2174258,
-    "longitude": 15.6253084
+    "longitude": 15.6253084,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Groh - Triumph Partnershop",
     "retailer": "groh_triumph_partnershop",
     "shop": "clothes",
     "latitude": 47.2186534,
-    "longitude": 15.6235257
+    "longitude": 15.6235257,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Groh Optik & Co",
     "retailer": "groh_optik_und_co",
     "shop": "optician",
     "latitude": 47.2190015,
-    "longitude": 15.6276322
+    "longitude": 15.6276322,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Guggi´s Mode",
     "retailer": "guggi_s_mode",
     "shop": "clothes",
     "latitude": 47.2169497,
-    "longitude": 15.6273299
+    "longitude": 15.6273299,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gummi Kreisel",
     "retailer": "gummi_kreisel",
     "shop": "tyres",
     "latitude": 47.2136449,
-    "longitude": 15.6292594
+    "longitude": 15.6292594,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "H&M",
@@ -306,35 +444,51 @@
     "shop": "clothes",
     "latitude": 47.2178438,
     "longitude": 15.6280611,
-    "brand": "H&M"
+    "brand": "H&M",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haarbox",
     "retailer": "haarbox",
     "shop": "hairdresser",
     "latitude": 47.217536,
-    "longitude": 15.624842
+    "longitude": 15.624842,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haas",
     "retailer": "haas",
     "shop": "convenience",
     "latitude": 47.2175016,
-    "longitude": 15.6236685
+    "longitude": 15.6236685,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HAAS Buch-Papier-Idee EU",
     "retailer": "haas_buch_papier_idee_eu",
     "shop": "books",
     "latitude": 47.2180865,
-    "longitude": 15.6259977
+    "longitude": 15.6259977,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "handymaxx",
     "retailer": "handymaxx",
     "shop": "mobile_phone",
     "latitude": 47.2184408,
-    "longitude": 15.621908
+    "longitude": 15.621908,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hartlauer",
@@ -342,21 +496,31 @@
     "shop": "electronics",
     "latitude": 47.2175123,
     "longitude": 15.6221434,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Highlight",
     "retailer": "highlight",
     "shop": "video",
     "latitude": 47.2181126,
-    "longitude": 15.6245274
+    "longitude": 15.6245274,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ihr Friseur Ulli",
     "retailer": "ihr_friseur_ulli",
     "shop": "hairdresser",
     "latitude": 47.2153709,
-    "longitude": 15.6269961
+    "longitude": 15.6269961,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intersport",
@@ -364,14 +528,22 @@
     "shop": "sports",
     "latitude": 47.218453,
     "longitude": 15.6274695,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Juwelier Zieser",
     "retailer": "juwelier_zieser",
     "shop": "jewelry",
     "latitude": 47.2176254,
-    "longitude": 15.6246496
+    "longitude": 15.6246496,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
@@ -379,42 +551,64 @@
     "shop": "hairdresser",
     "latitude": 47.2183242,
     "longitude": 15.627611,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Koblischek by Katrin",
     "retailer": "koblischek_by_katrin",
     "shop": "interior_decoration",
     "latitude": 47.217805,
-    "longitude": 15.624565
+    "longitude": 15.624565,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kungl Mineralien",
     "retailer": "kungl_mineralien",
     "shop": "jewelry",
     "latitude": 47.2174453,
-    "longitude": 15.6219183
+    "longitude": 15.6219183,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Küchen & Wohnen",
     "retailer": "kuchen_und_wohnen",
     "shop": "kitchen",
     "latitude": 47.2131369,
-    "longitude": 15.625583
+    "longitude": 15.625583,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lederwaren Prugger",
     "retailer": "lederwaren_prugger",
     "shop": "leather",
     "latitude": 47.2172212,
-    "longitude": 15.6279153
+    "longitude": 15.6279153,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "LEGRO Abholmarkt",
     "retailer": "legro_abholmarkt",
     "shop": "wholesale",
     "latitude": 47.2192641,
-    "longitude": 15.6235779
+    "longitude": 15.6235779,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -422,63 +616,87 @@
     "shop": "supermarket",
     "latitude": 47.2164304,
     "longitude": 15.6298887,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Magic-Line",
     "retailer": "magic_line",
     "shop": "tattoo",
     "latitude": 47.2167872,
-    "longitude": 15.6255903
+    "longitude": 15.6255903,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Maria & Maria",
     "retailer": "maria_und_maria",
     "shop": "hairdresser",
     "latitude": 47.216548,
-    "longitude": 15.6260812
+    "longitude": 15.6260812,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Massage Skreiner",
     "retailer": "massage_skreiner",
     "shop": "massage",
     "latitude": 47.2151306,
-    "longitude": 15.6260542
+    "longitude": 15.6260542,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MeiKroftplatzl",
     "retailer": "meikroftplatzl",
     "shop": "massage",
     "latitude": 47.217468,
-    "longitude": 15.6253809
+    "longitude": 15.6253809,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Moakt",
     "retailer": "moakt",
     "shop": "convenience",
     "latitude": 47.2131355,
-    "longitude": 15.6261376
+    "longitude": 15.6261376,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Modehaus Laschober",
     "retailer": "modehaus_laschober",
     "shop": "clothes",
     "latitude": 47.217189,
-    "longitude": 15.6257089
+    "longitude": 15.6257089,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Musikzentrum Dexer",
     "retailer": "musikzentrum_dexer",
     "shop": "musical_instrument",
     "latitude": 47.2164484,
-    "longitude": 15.6269069
+    "longitude": 15.6269069,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "nagl Schuhe",
     "retailer": "nagl_schuhe",
     "shop": "shoes",
     "latitude": 47.2180483,
-    "longitude": 15.6240833
+    "longitude": 15.6240833,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Neuroth",
@@ -486,7 +704,9 @@
     "shop": "hearing_aids",
     "latitude": 47.21858,
     "longitude": 15.6235504,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -494,21 +714,33 @@
     "shop": "clothes",
     "latitude": 47.2171768,
     "longitude": 15.6276722,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Optik Schrei",
     "retailer": "optik_schrei",
     "shop": "optician",
     "latitude": 47.218152,
-    "longitude": 15.6284181
+    "longitude": 15.6284181,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pagro Diskont",
     "retailer": "pagro",
     "shop": "stationery",
     "latitude": 47.214417,
-    "longitude": 15.6275556
+    "longitude": 15.6275556,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Palmers",
@@ -516,7 +748,11 @@
     "shop": "clothes",
     "latitude": 47.2173249,
     "longitude": 15.6277777,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pearle",
@@ -524,28 +760,40 @@
     "shop": "optician",
     "latitude": 47.2179867,
     "longitude": 15.6250361,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pierzl Elektronik",
     "retailer": "pierzl_elektronik",
     "shop": "electronics",
     "latitude": 47.2188031,
-    "longitude": 15.6215152
+    "longitude": 15.6215152,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Qualitätsfleischerei Feiertag",
     "retailer": "qualitatsfleischerei_feiertag",
     "shop": "butcher",
     "latitude": 47.2174379,
-    "longitude": 15.6242232
+    "longitude": 15.6242232,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rats Good Soul",
     "retailer": "rats_good_soul",
     "shop": "tattoo",
     "latitude": 47.2194127,
-    "longitude": 15.6241804
+    "longitude": 15.6241804,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "raucherparadies",
@@ -553,14 +801,20 @@
     "shop": "tobacco",
     "latitude": 47.2171079,
     "longitude": 15.626145,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rock Barber Shop",
     "retailer": "rock_barber_shop",
     "shop": "hairdresser",
     "latitude": 47.2175525,
-    "longitude": 15.6222905
+    "longitude": 15.6222905,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ROMA",
@@ -568,7 +822,11 @@
     "shop": "hairdresser_supply",
     "latitude": 47.2169726,
     "longitude": 15.6273882,
-    "brand": "ROMA"
+    "brand": "ROMA",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ruefa",
@@ -576,98 +834,142 @@
     "shop": "travel_agency",
     "latitude": 47.218854,
     "longitude": 15.6233807,
-    "brand": "Ruefa"
+    "brand": "Ruefa",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sanitär Expreß",
     "retailer": "sanitar_expre",
     "shop": "bathroom_furnishing",
     "latitude": 47.2196107,
-    "longitude": 15.6246498
+    "longitude": 15.6246498,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schubidu Kinder- & Jugendschuhe",
     "retailer": "schubidu_kinder_und_jugendschuhe",
     "shop": "shoes",
     "latitude": 47.2171512,
-    "longitude": 15.6279959
+    "longitude": 15.6279959,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schuh- und Orthopädietechnik Berger",
     "retailer": "schuh_und_orthopadietechnik_berger",
     "shop": "shoes",
     "latitude": 47.2177003,
-    "longitude": 15.6250583
+    "longitude": 15.6250583,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sicherheitssysteme Nistelberger",
     "retailer": "sicherheitssysteme_nistelberger",
     "shop": "locksmith",
     "latitude": 47.2170504,
-    "longitude": 15.6224267
+    "longitude": 15.6224267,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sorger",
     "retailer": "sorger",
     "shop": "bakery",
     "latitude": 47.2165592,
-    "longitude": 15.6295269
+    "longitude": 15.6295269,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sound & Vision",
     "retailer": "sound_und_vision",
     "shop": "electronics",
     "latitude": 47.2185659,
-    "longitude": 15.6229005
+    "longitude": 15.6229005,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spielzeugwelt Rieger-Puchebner",
     "retailer": "spielzeugwelt_rieger_puchebner",
     "shop": "toys",
     "latitude": 47.2181382,
-    "longitude": 15.6236554
+    "longitude": 15.6236554,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Springer Reisen",
     "retailer": "springer_reisen",
     "shop": "travel_agency",
     "latitude": 47.2170318,
-    "longitude": 15.6252493
+    "longitude": 15.6252493,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stadtparkquartier",
     "retailer": "stadtparkquartier",
     "shop": "mall",
     "latitude": 47.2165587,
-    "longitude": 15.6296844
+    "longitude": 15.6296844,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Steinmann",
     "retailer": "steinmann",
     "shop": "weapons",
     "latitude": 47.2166526,
-    "longitude": 15.6227888
+    "longitude": 15.6227888,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stella",
     "retailer": "stella",
     "shop": "clothes",
     "latitude": 47.2168707,
-    "longitude": 15.626398
+    "longitude": 15.626398,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Studio W",
     "retailer": "studio_w",
     "shop": "hairdresser",
     "latitude": 47.2166029,
-    "longitude": 15.6272354
+    "longitude": 15.6272354,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stöberstube",
     "retailer": "stoberstube",
     "shop": "clothes",
     "latitude": 47.2189713,
-    "longitude": 15.6216422
+    "longitude": 15.6216422,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabaktrafik",
@@ -675,7 +977,9 @@
     "shop": "tobacco",
     "latitude": 47.2176737,
     "longitude": 15.6227926,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabaktrafik Michael Stoschitzky",
@@ -683,14 +987,20 @@
     "shop": "tobacco",
     "latitude": 47.2190362,
     "longitude": 15.6241529,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TahiFades Nicht-versteuerter-Friseur",
     "retailer": "tahifades_nicht_versteuerter_friseur",
     "shop": "hairdresser",
     "latitude": 47.2108714,
-    "longitude": 15.6273545
+    "longitude": 15.6273545,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -698,55 +1008,77 @@
     "shop": "variety_store",
     "latitude": 47.2180479,
     "longitude": 15.6278962,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TRASH",
     "retailer": "trash",
     "shop": "clothes",
     "latitude": 47.2183183,
-    "longitude": 15.6248092
+    "longitude": 15.6248092,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Urban Cuts 8160",
     "retailer": "urban_cuts_8160",
     "shop": "hairdresser",
     "latitude": 47.2190309,
-    "longitude": 15.6216145
+    "longitude": 15.6216145,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Weber",
     "retailer": "weber",
     "shop": "basket",
     "latitude": 47.217137,
-    "longitude": 15.622759
+    "longitude": 15.622759,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Weizer Bäckerei & Konditorei",
     "retailer": "weizer_backerei_und_konditorei",
     "shop": "bakery",
     "latitude": 47.2169988,
-    "longitude": 15.6274441
+    "longitude": 15.6274441,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Weltladen Weiz",
     "retailer": "weltladen_weiz",
     "shop": "convenience",
     "latitude": 47.2171621,
-    "longitude": 15.6228571
+    "longitude": 15.6228571,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "WohnRaum - Wolfgang Grossegger",
     "retailer": "wohnraum_wolfgang_grossegger",
     "shop": "furniture",
     "latitude": 47.2198045,
-    "longitude": 15.624536
+    "longitude": 15.624536,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wäsche - Wolle - Wunderwelt Groh",
     "retailer": "wasche_wolle_wunderwelt_groh",
     "shop": "clothes",
     "latitude": 47.2171766,
-    "longitude": 15.6260061
+    "longitude": 15.6260061,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

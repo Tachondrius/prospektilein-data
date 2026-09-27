@@ -4,7 +4,9 @@
     "retailer": "blumen_gollner",
     "shop": "florist",
     "latitude": 48.2532667,
-    "longitude": 14.3125788
+    "longitude": 14.3125788,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -12,48 +14,68 @@
     "shop": "chemist",
     "latitude": 48.2532499,
     "longitude": 14.3115471,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
     "retailer": "eurospar",
     "shop": "supermarket",
     "latitude": 48.2532151,
-    "longitude": 14.311776
+    "longitude": 14.311776,
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Feinkost Lohn",
     "retailer": "feinkost_lohn",
     "shop": "convenience",
     "latitude": 48.2528449,
-    "longitude": 14.3192308
+    "longitude": 14.3192308,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Freunde Friseursalon",
     "retailer": "freunde_friseursalon",
     "shop": "hairdresser",
     "latitude": 48.2528049,
-    "longitude": 14.3136604
+    "longitude": 14.3136604,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny Markt",
     "retailer": "penny",
     "shop": "supermarket",
     "latitude": 48.2524838,
-    "longitude": 14.3125945
+    "longitude": 14.3125945,
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schnäppchen Kings",
     "retailer": "schnappchen_kings",
     "shop": "kiosk",
     "latitude": 48.2532987,
-    "longitude": 14.3123431
+    "longitude": 14.3123431,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TextilpflegeZimmermann",
     "retailer": "textilpflegezimmermann",
     "shop": "laundry",
     "latitude": 48.2535612,
-    "longitude": 14.3138733
+    "longitude": 14.3138733,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

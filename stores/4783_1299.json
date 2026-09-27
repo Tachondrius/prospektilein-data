@@ -5,7 +5,11 @@
     "shop": "convenience",
     "latitude": 47.8329787,
     "longitude": 12.9982682,
-    "brand": "BP"
+    "brand": "BP",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 47.8332602,
     "longitude": 12.9976531,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak Trafik Hödl",
@@ -21,6 +29,8 @@
     "shop": "tobacco",
     "latitude": 47.8339149,
     "longitude": 12.9977858,
-    "brand": "Tabakfabrik"
+    "brand": "Tabakfabrik",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

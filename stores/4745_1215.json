@@ -5,35 +5,51 @@
     "shop": "supermarket",
     "latitude": 47.453474,
     "longitude": 12.1511149,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6361",
+    "city": "Hopfgarten im Brixental",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hauser",
     "retailer": "hauser",
     "shop": "agrarian",
     "latitude": 47.4540544,
-    "longitude": 12.1514386
+    "longitude": 12.1514386,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "mobil lounge",
     "retailer": "mobil_lounge",
     "shop": "mobile_phone",
     "latitude": 47.4519961,
-    "longitude": 12.1536925
+    "longitude": 12.1536925,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
     "retailer": "mpreis",
     "shop": "supermarket",
     "latitude": 47.4522122,
-    "longitude": 12.1531582
+    "longitude": 12.1531582,
+    "postcode": "6361",
+    "city": "Hopfgarten im Brixental",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Naturkost Tilli",
     "retailer": "naturkost_tilli",
     "shop": "yes",
     "latitude": 47.452599,
-    "longitude": 12.1524729
+    "longitude": 12.1524729,
+    "postcode": "6361",
+    "city": "Hopfgarten im Brixental",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -41,21 +57,29 @@
     "shop": "clothes",
     "latitude": 47.4520652,
     "longitude": 12.1536401,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pletzer",
     "retailer": "pletzer",
     "shop": "bathroom_furnishing",
     "latitude": 47.4500989,
-    "longitude": 12.1553832
+    "longitude": 12.1553832,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Raiffeisen Lagerhaus",
     "retailer": "raiffeisen_lagerhaus",
     "shop": "doityourself",
     "latitude": 47.4526717,
-    "longitude": 12.151719
+    "longitude": 12.151719,
+    "postcode": "6361",
+    "city": "Hopfgarten im Brixental",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -63,13 +87,17 @@
     "shop": "supermarket",
     "latitude": 47.4502806,
     "longitude": 12.1546601,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.4521413,
-    "longitude": 12.1534997
+    "longitude": 12.1534997,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

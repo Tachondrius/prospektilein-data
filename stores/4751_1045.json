@@ -4,20 +4,28 @@
     "retailer": "kaufhaus_lutz",
     "shop": "supermarket",
     "latitude": 47.5166823,
-    "longitude": 10.456199
+    "longitude": 10.456199,
+    "postcode": "6677",
+    "city": "Schattwald",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.5122677,
-    "longitude": 10.4584379
+    "longitude": 10.4584379,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.5124752,
-    "longitude": 10.4589018
+    "longitude": 10.4589018,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

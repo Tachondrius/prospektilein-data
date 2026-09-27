@@ -4,7 +4,11 @@
     "retailer": "b_und_b_blumen",
     "shop": "florist",
     "latitude": 48.2436423,
-    "longitude": 16.4561104
+    "longitude": 16.4561104,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 48.241598,
     "longitude": 16.4536398,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -20,21 +28,33 @@
     "shop": "chemist",
     "latitude": 48.2437969,
     "longitude": 16.4575327,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "COMPONET Handels GmbH",
     "retailer": "componet_handels_gmbh",
     "shop": "computer",
     "latitude": 48.2455235,
-    "longitude": 16.4534299
+    "longitude": 16.4534299,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Glaserei Guthan Nfg Werner Angelmahr",
     "retailer": "glaserei_guthan_nfg_werner_angelmahr",
     "shop": "glaziery",
     "latitude": 48.2473004,
-    "longitude": 16.4520369
+    "longitude": 16.4520369,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -42,14 +62,22 @@
     "shop": "supermarket",
     "latitude": 48.241692,
     "longitude": 16.4576679,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Karenta",
     "retailer": "karenta",
     "shop": "car_repair",
     "latitude": 48.2499237,
-    "longitude": 16.4501229
+    "longitude": 16.4501229,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lidl",
@@ -57,14 +85,18 @@
     "shop": "supermarket",
     "latitude": 48.2483712,
     "longitude": 16.4528631,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Limitedbikes",
     "retailer": "limitedbikes",
     "shop": "bicycle",
     "latitude": 48.2443813,
-    "longitude": 16.4572817
+    "longitude": 16.4572817,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -72,7 +104,11 @@
     "shop": "supermarket",
     "latitude": 48.2438491,
     "longitude": 16.4573325,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -80,21 +116,31 @@
     "shop": "supermarket",
     "latitude": 48.2467419,
     "longitude": 16.4524753,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.2423424,
-    "longitude": 16.4506934
+    "longitude": 16.4506934,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Veit",
     "retailer": "veit",
     "shop": "car_repair",
     "latitude": 48.2437642,
-    "longitude": 16.454495
+    "longitude": 16.454495,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Viva",
@@ -102,13 +148,17 @@
     "shop": "convenience",
     "latitude": 48.2424442,
     "longitude": 16.4568332,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Wolf Dichtungen GmbH.",
     "retailer": "wolf_dichtungen_gmbh",
     "shop": "car_parts",
     "latitude": 48.2455298,
-    "longitude": 16.4539763
+    "longitude": 16.4539763,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

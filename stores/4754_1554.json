@@ -4,7 +4,11 @@
     "retailer": "auto_grabner_gmbh_kfz_meisterbetrieb",
     "shop": "car_repair",
     "latitude": 47.5432908,
-    "longitude": 15.5427356
+    "longitude": 15.5427356,
+    "postcode": "8670",
+    "city": "Krieglach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 47.5440114,
     "longitude": 15.5417501,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8670",
+    "city": "Krieglach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -20,7 +28,9 @@
     "shop": "chemist",
     "latitude": 47.5441567,
     "longitude": 15.5422643,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -28,6 +38,10 @@
     "shop": "supermarket",
     "latitude": 47.5442879,
     "longitude": 15.5434707,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8670",
+    "city": "Krieglach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

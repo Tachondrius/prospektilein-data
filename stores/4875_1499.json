@@ -4,14 +4,20 @@
     "retailer": "bademodenshop",
     "shop": "clothes",
     "latitude": 48.75742,
-    "longitude": 14.9913555
+    "longitude": 14.9913555,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BestDrive",
     "retailer": "bestdrive",
     "shop": "car_repair",
     "latitude": 48.7599155,
-    "longitude": 14.9928228
+    "longitude": 14.9928228,
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -19,7 +25,11 @@
     "shop": "doityourself",
     "latitude": 48.7579203,
     "longitude": 14.9987409,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "OBI",
@@ -27,20 +37,28 @@
     "shop": "doityourself",
     "latitude": 48.7595224,
     "longitude": 14.9941814,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "T-Systems",
     "retailer": "t_systems",
     "shop": "computer",
     "latitude": 48.7580417,
-    "longitude": 14.994452
+    "longitude": 14.994452,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Waldviertler Erpfi & Mohn",
     "retailer": "waldviertler_erpfi_und_mohn",
     "shop": "farm",
     "latitude": 48.7570247,
-    "longitude": 14.9918833
+    "longitude": 14.9918833,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

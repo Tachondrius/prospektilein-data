@@ -4,63 +4,88 @@
     "retailer": "1_diskont",
     "shop": "variety_store",
     "latitude": 48.2104251,
-    "longitude": 16.3256057
+    "longitude": 16.3256057,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Adriatik Bäckerei",
     "retailer": "adriatik_backerei",
     "shop": "bakery",
     "latitude": 48.2112995,
-    "longitude": 16.3213581
+    "longitude": 16.3213581,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Alladean",
     "retailer": "alladean",
     "shop": "vending_machine",
     "latitude": 48.2186791,
-    "longitude": 16.3286577
+    "longitude": 16.3286577,
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Altintas",
     "retailer": "altintas",
     "shop": "hairdresser",
     "latitude": 48.2137207,
-    "longitude": 16.3294542
+    "longitude": 16.3294542,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Autoglas4you",
     "retailer": "autoglas4you",
     "shop": "car_repair",
     "latitude": 48.2163472,
-    "longitude": 16.3254629
+    "longitude": 16.3254629,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Autosattler Bauer",
     "retailer": "autosattler_bauer",
     "shop": "car_repair",
     "latitude": 48.2167434,
-    "longitude": 16.3208501
+    "longitude": 16.3208501,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "AYCAN",
     "retailer": "aycan",
     "shop": "supermarket",
     "latitude": 48.2193201,
-    "longitude": 16.3271228
+    "longitude": 16.3271228,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Baghdad Style",
     "retailer": "baghdad_style",
     "shop": "hairdresser",
     "latitude": 48.2133956,
-    "longitude": 16.3201627
+    "longitude": 16.3201627,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Baljinder",
     "retailer": "baljinder",
     "shop": "clothes",
     "latitude": 48.211361,
-    "longitude": 16.3209143
+    "longitude": 16.3209143,
+    "postcode": "1160",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -68,7 +93,11 @@
     "shop": "supermarket",
     "latitude": 48.2100853,
     "longitude": 16.329302,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -76,7 +105,11 @@
     "shop": "supermarket",
     "latitude": 48.2109391,
     "longitude": 16.3223197,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -84,7 +117,9 @@
     "shop": "supermarket",
     "latitude": 48.2120292,
     "longitude": 16.3292899,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -92,7 +127,11 @@
     "shop": "supermarket",
     "latitude": 48.2184878,
     "longitude": 16.3293548,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa Plus",
@@ -100,7 +139,11 @@
     "shop": "supermarket",
     "latitude": 48.2162216,
     "longitude": 16.3285385,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -108,70 +151,99 @@
     "shop": "chemist",
     "latitude": 48.2188259,
     "longitude": 16.3274259,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Birner",
     "retailer": "birner",
     "shop": "car_parts",
     "latitude": 48.2141999,
-    "longitude": 16.3267014
+    "longitude": 16.3267014,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Birner",
     "retailer": "birner",
     "shop": "car_parts",
     "latitude": 48.2175191,
-    "longitude": 16.3201301
+    "longitude": 16.3201301,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen B&B",
     "retailer": "blumen_b_und_b",
     "shop": "florist",
     "latitude": 48.210311,
-    "longitude": 16.3280332
+    "longitude": 16.3280332,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Boutique",
     "retailer": "boutique",
     "shop": "clothes",
     "latitude": 48.2104072,
-    "longitude": 16.3257095
+    "longitude": 16.3257095,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "BrickBase Vienna",
     "retailer": "brickbase_vienna",
     "shop": "toys",
     "latitude": 48.2108919,
-    "longitude": 16.3225309
+    "longitude": 16.3225309,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bulgarische Lebensmittel",
     "retailer": "bulgarische_lebensmittel",
     "shop": "supermarket",
     "latitude": 48.213804,
-    "longitude": 16.3286251
+    "longitude": 16.3286251,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bäckerei Konditorei Martini",
     "retailer": "backerei_konditorei_martini",
     "shop": "bakery",
     "latitude": 48.2186697,
-    "longitude": 16.3276435
+    "longitude": 16.3276435,
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Cervenka Fischgeschäft & Imbiss",
     "retailer": "cervenka_fischgeschaft_und_imbiss",
     "shop": "seafood",
     "latitude": 48.2112468,
-    "longitude": 16.3217045
+    "longitude": 16.3217045,
+    "postcode": "1160",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "DanKüchen",
     "retailer": "dankuchen",
     "shop": "kitchen",
     "latitude": 48.2100061,
-    "longitude": 16.3299154
+    "longitude": 16.3299154,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Der Mann",
@@ -179,245 +251,349 @@
     "shop": "bakery",
     "latitude": 48.2192757,
     "longitude": 16.3272246,
-    "brand": "Der Mann"
+    "brand": "Der Mann",
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Dreizack",
     "retailer": "dreizack",
     "shop": "gift",
     "latitude": 48.2125818,
-    "longitude": 16.3272076
+    "longitude": 16.3272076,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Elektro b-markt",
     "retailer": "elektro_b_markt",
     "shop": "electronics",
     "latitude": 48.2139315,
-    "longitude": 16.3291839
+    "longitude": 16.3291839,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Elif Schmuck und Juwelen",
     "retailer": "elif_schmuck_und_juwelen",
     "shop": "jewelry",
     "latitude": 48.2192433,
-    "longitude": 16.327312
+    "longitude": 16.327312,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Etsan",
     "retailer": "etsan",
     "shop": "convenience",
     "latitude": 48.2136123,
-    "longitude": 16.3288821
+    "longitude": 16.3288821,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fleischerei Metzker",
     "retailer": "fleischerei_metzker",
     "shop": "butcher",
     "latitude": 48.2184235,
-    "longitude": 16.3263097
+    "longitude": 16.3263097,
+    "postcode": "1170",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Friseur Ilay 16",
     "retailer": "friseur_ilay_16",
     "shop": "hairdresser",
     "latitude": 48.2134686,
-    "longitude": 16.3279913
+    "longitude": 16.3279913,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Friseur Tutku",
     "retailer": "friseur_tutku",
     "shop": "hairdresser",
     "latitude": 48.210624,
-    "longitude": 16.3243187
+    "longitude": 16.3243187,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gag shop",
     "retailer": "gag_shop",
     "shop": "toys",
     "latitude": 48.211401,
-    "longitude": 16.3207871
+    "longitude": 16.3207871,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gianna's Hundesalon",
     "retailer": "gianna_s_hundesalon",
     "shop": "pet_grooming",
     "latitude": 48.2124385,
-    "longitude": 16.327805
+    "longitude": 16.327805,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gissinger",
     "retailer": "gissinger",
     "shop": "butcher",
     "latitude": 48.2136243,
-    "longitude": 16.3202562
+    "longitude": 16.3202562,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Great Star",
     "retailer": "great_star",
     "shop": "clothes",
     "latitude": 48.2189934,
-    "longitude": 16.3278452
+    "longitude": 16.3278452,
+    "postcode": "1170",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Haistyle Burhan",
     "retailer": "haistyle_burhan",
     "shop": "hairdresser",
     "latitude": 48.2113362,
-    "longitude": 16.3211189
+    "longitude": 16.3211189,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "HD HOME",
     "retailer": "hd_home",
     "shop": "houseware",
     "latitude": 48.210029,
-    "longitude": 16.3281719
+    "longitude": 16.3281719,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "HM Musil",
     "retailer": "hm_musil",
     "shop": "jewelry",
     "latitude": 48.2110325,
-    "longitude": 16.3215905
+    "longitude": 16.3215905,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hollywood-style",
     "retailer": "hollywood_style",
     "shop": "hairdresser",
     "latitude": 48.219756,
-    "longitude": 16.3262623
+    "longitude": 16.3262623,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Installateur Service Zentrum",
     "retailer": "installateur_service_zentrum",
     "shop": "hardware",
     "latitude": 48.2173089,
-    "longitude": 16.3272364
+    "longitude": 16.3272364,
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kamm & Schere",
     "retailer": "kamm_und_schere",
     "shop": "hairdresser",
     "latitude": 48.2179716,
-    "longitude": 16.326132
+    "longitude": 16.326132,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kekserei Keksmanufaktur Körber",
     "retailer": "kekserei_keksmanufaktur_korber",
     "shop": "bakery",
     "latitude": 48.2167493,
-    "longitude": 16.3234972
+    "longitude": 16.3234972,
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kent",
     "retailer": "kent",
     "shop": "clothes",
     "latitude": 48.2105792,
-    "longitude": 16.3247016
+    "longitude": 16.3247016,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kristal Frisur",
     "retailer": "kristal_frisur",
     "shop": "hairdresser",
     "latitude": 48.2133822,
-    "longitude": 16.3248104
+    "longitude": 16.3248104,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kunst ab Hinterhof",
     "retailer": "kunst_ab_hinterhof",
     "shop": "art",
     "latitude": 48.211786,
-    "longitude": 16.3223206
+    "longitude": 16.3223206,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lazord",
     "retailer": "lazord",
     "shop": "clothes",
     "latitude": 48.2184627,
-    "longitude": 16.3294695
+    "longitude": 16.3294695,
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lilawadi",
     "retailer": "lilawadi",
     "shop": "massage",
     "latitude": 48.217002,
-    "longitude": 16.324389
+    "longitude": 16.324389,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lili Exklusiv",
     "retailer": "lili_exklusiv",
     "shop": "hairdresser",
     "latitude": 48.213242,
-    "longitude": 16.3267858
+    "longitude": 16.3267858,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lori",
     "retailer": "lori",
     "shop": "bakery",
     "latitude": 48.2118706,
-    "longitude": 16.32991
+    "longitude": 16.32991,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lukas",
     "retailer": "lukas",
     "shop": "hairdresser",
     "latitude": 48.2136897,
-    "longitude": 16.3279658
+    "longitude": 16.3279658,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lunia",
     "retailer": "lunia",
     "shop": "beauty",
     "latitude": 48.2186541,
-    "longitude": 16.3246309
+    "longitude": 16.3246309,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lurf & Miller",
     "retailer": "lurf_und_miller",
     "shop": "car_repair",
     "latitude": 48.2156276,
-    "longitude": 16.3222544
+    "longitude": 16.3222544,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lyly Nails",
     "retailer": "lyly_nails",
     "shop": "beauty",
     "latitude": 48.2136488,
-    "longitude": 16.3278097
+    "longitude": 16.3278097,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Majid Home",
     "retailer": "majid_home",
     "shop": "carpet",
     "latitude": 48.2105937,
-    "longitude": 16.3260494
+    "longitude": 16.3260494,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Manner Werksshop",
     "retailer": "manner_werksshop",
     "shop": "confectionery",
     "latitude": 48.216203,
-    "longitude": 16.3220825
+    "longitude": 16.3220825,
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mayer",
     "retailer": "mayer",
     "shop": "books",
     "latitude": 48.2134025,
-    "longitude": 16.3204231
+    "longitude": 16.3204231,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mini Motion",
     "retailer": "mini_motion",
     "shop": "baby_goods",
     "latitude": 48.2198891,
-    "longitude": 16.3292909
+    "longitude": 16.3292909,
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mobile Shop 40",
     "retailer": "mobile_shop_40",
     "shop": "mobile_phone",
     "latitude": 48.2138486,
-    "longitude": 16.3288021
+    "longitude": 16.3288021,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mömax",
@@ -425,28 +601,40 @@
     "shop": "furniture",
     "latitude": 48.2171953,
     "longitude": 16.3201074,
-    "brand": "Mömax"
+    "brand": "Mömax",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Office Concepts",
     "retailer": "office_concepts",
     "shop": "furniture",
     "latitude": 48.2160536,
-    "longitude": 16.3205403
+    "longitude": 16.3205403,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Optik Podiwinsky",
     "retailer": "optik_podiwinsky",
     "shop": "optician",
     "latitude": 48.2135893,
-    "longitude": 16.3232917
+    "longitude": 16.3232917,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ottakringer Shop",
     "retailer": "ottakringer_shop",
     "shop": "alcohol",
     "latitude": 48.2133707,
-    "longitude": 16.322009
+    "longitude": 16.322009,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "PENNY",
@@ -454,63 +642,85 @@
     "shop": "supermarket",
     "latitude": 48.2112426,
     "longitude": 16.3201513,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Premiumküchen",
     "retailer": "premiumkuchen",
     "shop": "kitchen",
     "latitude": 48.2137289,
-    "longitude": 16.328158
+    "longitude": 16.328158,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Princess Massage",
     "retailer": "princess_massage",
     "shop": "massage",
     "latitude": 48.2139681,
-    "longitude": 16.3289019
+    "longitude": 16.3289019,
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Rok",
     "retailer": "rok",
     "shop": "supermarket",
     "latitude": 48.2111088,
-    "longitude": 16.3226536
+    "longitude": 16.3226536,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Rosenov Motorroller",
     "retailer": "rosenov_motorroller",
     "shop": "car_repair",
     "latitude": 48.2162746,
-    "longitude": 16.3205051
+    "longitude": 16.3205051,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Schlosserei und Kunstschmiede",
     "retailer": "schlosserei_und_kunstschmiede",
     "shop": "locksmith",
     "latitude": 48.2153637,
-    "longitude": 16.3243525
+    "longitude": 16.3243525,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Singh Mode Center",
     "retailer": "singh_mode_center",
     "shop": "clothes",
     "latitude": 48.2106284,
-    "longitude": 16.3242612
+    "longitude": 16.3242612,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Sisbeauty",
     "retailer": "sisbeauty",
     "shop": "beauty",
     "latitude": 48.2195524,
-    "longitude": 16.3207522
+    "longitude": 16.3207522,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Snackbox",
     "retailer": "snackbox",
     "shop": "vending_machine",
     "latitude": 48.2183401,
-    "longitude": 16.3290457
+    "longitude": 16.3290457,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Storebox",
@@ -518,7 +728,9 @@
     "shop": "storage_rental",
     "latitude": 48.2111856,
     "longitude": 16.3206699,
-    "brand": "Storebox"
+    "brand": "Storebox",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Storebox",
@@ -526,91 +738,127 @@
     "shop": "storage_rental",
     "latitude": 48.2127075,
     "longitude": 16.3275503,
-    "brand": "Storebox"
+    "brand": "Storebox",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Suppin",
     "retailer": "suppin",
     "shop": "musical_instrument",
     "latitude": 48.214059,
-    "longitude": 16.3299233
+    "longitude": 16.3299233,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik Johann Jovanovic",
     "retailer": "tabak_trafik_johann_jovanovic",
     "shop": "tobacco",
     "latitude": 48.2125934,
-    "longitude": 16.3265698
+    "longitude": 16.3265698,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak-Trafik Darwish Kotb",
     "retailer": "tabak_trafik_darwish_kotb",
     "shop": "kiosk",
     "latitude": 48.2169201,
-    "longitude": 16.3247535
+    "longitude": 16.3247535,
+    "postcode": "1170",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Teatro Wien Outlet",
     "retailer": "teatro_wien_outlet",
     "shop": "clothes",
     "latitude": 48.2139403,
-    "longitude": 16.3294407
+    "longitude": 16.3294407,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tel Park",
     "retailer": "tel_park",
     "shop": "mobile_phone",
     "latitude": 48.2106298,
-    "longitude": 16.3244006
+    "longitude": 16.3244006,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Teppich Negin Mashhad",
     "retailer": "teppich_negin_mashhad",
     "shop": "carpet",
     "latitude": 48.2137818,
-    "longitude": 16.329902
+    "longitude": 16.329902,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Thai Massage",
     "retailer": "thai_massage",
     "shop": "massage",
     "latitude": 48.2189324,
-    "longitude": 16.320204
+    "longitude": 16.320204,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Thai Sensai Massage",
     "retailer": "thai_sensai_massage",
     "shop": "massage",
     "latitude": 48.2140064,
-    "longitude": 16.3296841
+    "longitude": 16.3296841,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "tipwin Sportwetten",
     "retailer": "tipwin_sportwetten",
     "shop": "bookmaker",
     "latitude": 48.2114328,
-    "longitude": 16.320503
+    "longitude": 16.320503,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ton Eichinger",
     "retailer": "ton_eichinger",
     "shop": "music",
     "latitude": 48.2128922,
-    "longitude": 16.3281436
+    "longitude": 16.3281436,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Touch of Aesthetics",
     "retailer": "touch_of_aesthetics",
     "shop": "hairdresser",
     "latitude": 48.2126116,
-    "longitude": 16.3270641
+    "longitude": 16.3270641,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trike Friedrich",
     "retailer": "trike_friedrich",
     "shop": "car",
     "latitude": 48.2163147,
-    "longitude": 16.3257376
+    "longitude": 16.3257376,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Turmöl",
@@ -618,35 +866,51 @@
     "shop": "yes",
     "latitude": 48.2151297,
     "longitude": 16.3244588,
-    "brand": "Turmöl"
+    "brand": "Turmöl",
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "VeloCity",
     "retailer": "velocity",
     "shop": "bicycle",
     "latitude": 48.2135783,
-    "longitude": 16.3285804
+    "longitude": 16.3285804,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Verein Nepomuk",
     "retailer": "verein_nepomuk",
     "shop": "second_hand",
     "latitude": 48.2121743,
-    "longitude": 16.3261519
+    "longitude": 16.3261519,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Vural Supermarkt",
     "retailer": "vural_supermarkt",
     "shop": "supermarket",
     "latitude": 48.2100295,
-    "longitude": 16.3209008
+    "longitude": 16.3209008,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Wagner & Glass",
     "retailer": "wagner_und_glass",
     "shop": "clothes",
     "latitude": 48.2106807,
-    "longitude": 16.3255514
+    "longitude": 16.3255514,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Wiesinger",
@@ -654,13 +918,17 @@
     "shop": "car",
     "latitude": 48.2136658,
     "longitude": 16.3236129,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "XXL",
     "retailer": "xxl",
     "shop": "butcher",
     "latitude": 48.2111151,
-    "longitude": 16.3211351
+    "longitude": 16.3211351,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

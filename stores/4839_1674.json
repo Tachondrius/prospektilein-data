@@ -4,13 +4,19 @@
     "retailer": "mse_modellbahnen",
     "shop": "model",
     "latitude": 48.3907887,
-    "longitude": 16.7484156
+    "longitude": 16.7484156,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Obstbau Huber",
     "retailer": "obstbau_huber",
     "shop": "farm",
     "latitude": 48.3942747,
-    "longitude": 16.7405572
+    "longitude": 16.7405572,
+    "postcode": "2242",
+    "city": "Prottes",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

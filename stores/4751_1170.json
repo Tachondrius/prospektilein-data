@@ -5,7 +5,9 @@
     "shop": "bakery",
     "latitude": 47.518656,
     "longitude": 11.708473,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hecher",
@@ -13,7 +15,9 @@
     "shop": "car",
     "latitude": 47.5171348,
     "longitude": 11.708502,
-    "brand": "Suzuki"
+    "brand": "Suzuki",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -21,13 +25,20 @@
     "shop": "supermarket",
     "latitude": 47.5188967,
     "longitude": 11.7084648,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6215",
+    "city": "Achenkirch",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Busslehner",
     "retailer": "sport_busslehner",
     "shop": "sports",
     "latitude": 47.5106576,
-    "longitude": 11.7045986
+    "longitude": 11.7045986,
+    "city": "Achenkirch",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

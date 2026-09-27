@@ -4,7 +4,11 @@
     "retailer": "backerei_engleder",
     "shop": "bakery",
     "latitude": 48.5255807,
-    "longitude": 13.9945755
+    "longitude": 13.9945755,
+    "postcode": "4122",
+    "city": "Arnreit",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Volvo",
@@ -12,6 +16,8 @@
     "shop": "car_repair",
     "latitude": 48.5268905,
     "longitude": 13.9970324,
-    "brand": "Volvo"
+    "brand": "Volvo",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,14 +4,20 @@
     "retailer": "blumen_malecek",
     "shop": "florist",
     "latitude": 48.1892522,
-    "longitude": 15.9371214
+    "longitude": 15.9371214,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Elektro Ritzengruber",
     "retailer": "elektro_ritzengruber",
     "shop": "electronics",
     "latitude": 48.189542,
-    "longitude": 15.9352482
+    "longitude": 15.9352482,
+    "postcode": "3034",
+    "city": "Maria Anzbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -19,6 +25,8 @@
     "shop": "supermarket",
     "latitude": 48.1893197,
     "longitude": 15.9372514,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

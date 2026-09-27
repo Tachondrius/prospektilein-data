@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 48.2126679,
     "longitude": 16.4408174,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Danubes Finest Tobacco",
     "retailer": "danubes_finest_tobacco",
     "shop": "tobacco",
     "latitude": 48.2190773,
-    "longitude": 16.4485618
+    "longitude": 16.4485618,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -20,7 +26,11 @@
     "shop": "supermarket",
     "latitude": 48.219865,
     "longitude": 16.4454075,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Merbag - Donaustadt",
@@ -28,20 +38,32 @@
     "shop": "car",
     "latitude": 48.2187301,
     "longitude": 16.4447868,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "NXT Cargobikes",
     "retailer": "nxt_cargobikes",
     "shop": "bicycle",
     "latitude": 48.2123492,
-    "longitude": 16.4403151
+    "longitude": 16.4403151,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "ÄSTHETISCHE MEDIZIN DR.SCHÜN",
     "retailer": "asthetische_medizin_dr_schun",
     "shop": "beauty",
     "latitude": 48.2182801,
-    "longitude": 16.4489013
+    "longitude": 16.4489013,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

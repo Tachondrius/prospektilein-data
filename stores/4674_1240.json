@@ -5,7 +5,11 @@
     "shop": "chemist",
     "latitude": 46.7456589,
     "longitude": 12.4062457,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "9920",
+    "city": "Sillian",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -13,14 +17,22 @@
     "shop": "supermarket",
     "latitude": 46.7454078,
     "longitude": 12.4070749,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9920",
+    "city": "Sillian",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kfz-Technik Ortner",
     "retailer": "kfz_technik_ortner",
     "shop": "car_repair",
     "latitude": 46.7462473,
-    "longitude": 12.4091065
+    "longitude": 12.4091065,
+    "postcode": "9920",
+    "city": "Sillian",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KiK",
@@ -28,6 +40,10 @@
     "shop": "clothes",
     "latitude": 46.7457499,
     "longitude": 12.4062283,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "9920",
+    "city": "Sillian",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,27 +4,39 @@
     "retailer": "autohaus_edinger",
     "shop": "car_repair",
     "latitude": 48.1841089,
-    "longitude": 13.2975898
+    "longitude": 13.2975898,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
     "retailer": "eurospar",
     "shop": "supermarket",
     "latitude": 48.1825925,
-    "longitude": 13.2952527
+    "longitude": 13.2952527,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Irran",
     "retailer": "irran",
     "shop": "florist",
     "latitude": 48.1832214,
-    "longitude": 13.2960458
+    "longitude": 13.2960458,
+    "postcode": "5252",
+    "city": "Aspach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus Aspach",
     "retailer": "lagerhaus_aspach",
     "shop": "trade",
     "latitude": 48.1821566,
-    "longitude": 13.2945935
+    "longitude": 13.2945935,
+    "postcode": "5252",
+    "city": "Aspach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,27 +5,41 @@
     "shop": "supermarket",
     "latitude": 47.1088474,
     "longitude": 9.742656,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Meyer Spezialitäten & Bäckerei",
     "retailer": "meyer_spezialitaten_und_backerei",
     "shop": "bakery",
     "latitude": 47.1084593,
-    "longitude": 9.7427779
+    "longitude": 9.7427779,
+    "postcode": "6708",
+    "city": "Brand",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "MuK Sport Ski und Snowboard",
     "retailer": "muk_sport_ski_und_snowboard",
     "shop": "outdoor",
     "latitude": 47.1086142,
-    "longitude": 9.74288
+    "longitude": 9.74288,
+    "postcode": "6708",
+    "city": "Brand",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sport & Mode Bertel",
     "retailer": "sport_und_mode_bertel",
     "shop": "clothes",
     "latitude": 47.1076542,
-    "longitude": 9.7420813
+    "longitude": 9.7420813,
+    "postcode": "6708",
+    "city": "Brand",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

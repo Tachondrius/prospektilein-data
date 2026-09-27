@@ -4,7 +4,9 @@
     "retailer": "baguette",
     "shop": "bakery",
     "latitude": 46.8888002,
-    "longitude": 10.5026393
+    "longitude": 10.5026393,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -12,14 +14,22 @@
     "shop": "supermarket",
     "latitude": 46.8887376,
     "longitude": 10.5027419,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6543",
+    "city": "Nauders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schishop Habicher",
     "retailer": "schishop_habicher",
     "shop": "rental",
     "latitude": 46.8880717,
-    "longitude": 10.5036499
+    "longitude": 10.5036499,
+    "postcode": "6543",
+    "city": "Nauders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "SPAR",
@@ -27,6 +37,10 @@
     "shop": "supermarket",
     "latitude": 46.8874653,
     "longitude": 10.5016353,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6543",
+    "city": "Nauders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

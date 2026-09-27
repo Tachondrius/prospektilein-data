@@ -4,7 +4,11 @@
     "retailer": "backstube_simhofer",
     "shop": "bakery",
     "latitude": 48.177495,
-    "longitude": 16.0575204
+    "longitude": 16.0575204,
+    "postcode": "3021",
+    "city": "Pressbaum",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -12,7 +16,9 @@
     "shop": "chemist",
     "latitude": 48.1769805,
     "longitude": 16.0598794,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -20,13 +26,19 @@
     "shop": "supermarket",
     "latitude": 48.1771067,
     "longitude": 16.0598713,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Renates Haarstudio",
     "retailer": "renates_haarstudio",
     "shop": "hairdresser",
     "latitude": 48.1779896,
-    "longitude": 16.0563013
+    "longitude": 16.0563013,
+    "postcode": "3021",
+    "city": "Preßbaum",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

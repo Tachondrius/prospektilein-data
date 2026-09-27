@@ -4,7 +4,9 @@
     "retailer": "bacher",
     "shop": "car",
     "latitude": 47.2804371,
-    "longitude": 11.5266062
+    "longitude": 11.5266062,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,7 +14,9 @@
     "shop": "bakery",
     "latitude": 47.2851937,
     "longitude": 11.5215863,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen B&B",
@@ -20,14 +24,20 @@
     "shop": "florist",
     "latitude": 47.2832284,
     "longitude": 11.5204038,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofladen Gartenfeld Hall in Tirol",
     "retailer": "hofladen_gartenfeld_hall_in_tirol",
     "shop": "convenience",
     "latitude": 47.2834183,
-    "longitude": 11.5215764
+    "longitude": 11.5215764,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -35,34 +45,54 @@
     "shop": "supermarket",
     "latitude": 47.2852238,
     "longitude": 11.5217637,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Carla",
     "retailer": "salon_carla",
     "shop": "hairdresser",
     "latitude": 47.2852474,
-    "longitude": 11.5205804
+    "longitude": 11.5205804,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Strickhexen",
     "retailer": "strickhexen",
     "shop": "fabric",
     "latitude": 47.2853225,
-    "longitude": 11.5201239
+    "longitude": 11.5201239,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "SuperM",
     "retailer": "superm",
     "shop": "supermarket",
     "latitude": 47.280828,
-    "longitude": 11.5258428
+    "longitude": 11.5258428,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak",
     "retailer": "tabak",
     "shop": "kiosk",
     "latitude": 47.2838575,
-    "longitude": 11.521619
+    "longitude": 11.521619,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

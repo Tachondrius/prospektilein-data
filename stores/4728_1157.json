@@ -5,21 +5,33 @@
     "shop": "chemist",
     "latitude": 47.2892503,
     "longitude": 11.5793058,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "6111",
+    "city": "Volders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro - Steinlechner",
     "retailer": "elektro_steinlechner",
     "shop": "electronics",
     "latitude": 47.2890775,
-    "longitude": 11.5785757
+    "longitude": 11.5785757,
+    "postcode": "6111",
+    "city": "Volders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Prima Markt",
     "retailer": "prima_markt",
     "shop": "supermarket",
     "latitude": 47.2877759,
-    "longitude": 11.5701432
+    "longitude": 11.5701432,
+    "postcode": "6111",
+    "city": "Volders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -27,6 +39,10 @@
     "shop": "supermarket",
     "latitude": 47.2887611,
     "longitude": 11.575171,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6111",
+    "city": "Volders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

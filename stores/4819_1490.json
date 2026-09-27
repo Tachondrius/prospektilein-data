@@ -4,13 +4,19 @@
     "retailer": "lagerhaus",
     "shop": "car_repair",
     "latitude": 48.1918512,
-    "longitude": 14.9030268
+    "longitude": 14.9030268,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Supermarket",
     "retailer": "shop_supermarket",
     "shop": "supermarket",
     "latitude": 48.1930522,
-    "longitude": 14.9038235
+    "longitude": 14.9038235,
+    "postcode": "3323",
+    "city": "Neustadtl an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

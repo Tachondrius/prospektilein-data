@@ -5,7 +5,11 @@
     "shop": "bookmaker",
     "latitude": 47.9845721,
     "longitude": 16.2225109,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "postcode": "2504",
+    "city": "Sooß",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BMW Bierbaum",
@@ -13,6 +17,8 @@
     "shop": "car",
     "latitude": 47.9823231,
     "longitude": 16.2216097,
-    "brand": "BMW"
+    "brand": "BMW",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

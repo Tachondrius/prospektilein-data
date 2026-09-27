@@ -4,21 +4,31 @@
     "retailer": "backerei_mangold",
     "shop": "bakery",
     "latitude": 47.4474592,
-    "longitude": 9.7640013
+    "longitude": 9.7640013,
+    "postcode": "6858",
+    "city": "Schwarzach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hefel Mode & Bett",
     "retailer": "hefel_mode_und_bett",
     "shop": "bed",
     "latitude": 47.443988,
-    "longitude": 9.7624089
+    "longitude": 9.7624089,
+    "postcode": "6858",
+    "city": "Schwarzach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mittelberger Robert",
     "retailer": "mittelberger_robert",
     "shop": "bakery",
     "latitude": 47.4459288,
-    "longitude": 9.7637178
+    "longitude": 9.7637178,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -26,6 +36,10 @@
     "shop": "convenience",
     "latitude": 47.447382,
     "longitude": 9.7634096,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6858",
+    "city": "Schwarzach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

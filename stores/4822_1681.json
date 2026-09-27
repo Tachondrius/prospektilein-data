@@ -5,34 +5,52 @@
     "shop": "supermarket",
     "latitude": 48.220012,
     "longitude": 16.8158368,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2291",
+    "city": "Lassee",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Busamreisen",
     "retailer": "busamreisen",
     "shop": "travel_agency",
     "latitude": 48.2216347,
-    "longitude": 16.8183113
+    "longitude": 16.8183113,
+    "postcode": "2291",
+    "city": "Lassee",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Lassee",
     "retailer": "gartnerei_lassee",
     "shop": "garden_centre",
     "latitude": 48.2210341,
-    "longitude": 16.8115256
+    "longitude": 16.8115256,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Islandpferdeshop",
     "retailer": "islandpferdeshop",
     "shop": "equestrian",
     "latitude": 48.221683,
-    "longitude": 16.8184123
+    "longitude": 16.8184123,
+    "postcode": "2291",
+    "city": "Lassee",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stoni's Speisekammer",
     "retailer": "stoni_s_speisekammer",
     "shop": "convenience",
     "latitude": 48.2213999,
-    "longitude": 16.81767
+    "longitude": 16.81767,
+    "postcode": "2291",
+    "city": "Lassee",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,14 +5,20 @@
     "shop": "bakery",
     "latitude": 47.3017815,
     "longitude": 11.635304,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Biosennerei Kolsass",
     "retailer": "biosennerei_kolsass",
     "shop": "supermarket",
     "latitude": 47.3008277,
-    "longitude": 11.6301009
+    "longitude": 11.6301009,
+    "postcode": "6114",
+    "city": "Kolsass",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -20,21 +26,31 @@
     "shop": "supermarket",
     "latitude": 47.3018187,
     "longitude": 11.6352661,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6114",
+    "city": "Kolsass",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Natursteine Sepp Steger",
     "retailer": "natursteine_sepp_steger",
     "shop": "doityourself",
     "latitude": 47.3032624,
-    "longitude": 11.6367048
+    "longitude": 11.6367048,
+    "postcode": "6114",
+    "city": "Kolsass",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Speckbacher",
     "retailer": "speckbacher",
     "shop": "car_repair",
     "latitude": 47.3066458,
-    "longitude": 11.6376919
+    "longitude": 11.6376919,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Triumph World Tirol",
@@ -42,6 +58,10 @@
     "shop": "motorcycle",
     "latitude": 47.3032736,
     "longitude": 11.6355811,
-    "brand": "Triumph"
+    "brand": "Triumph",
+    "postcode": "6114",
+    "city": "Kolsass",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

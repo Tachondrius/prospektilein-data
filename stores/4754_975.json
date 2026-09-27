@@ -5,20 +5,28 @@
     "shop": "supermarket",
     "latitude": 47.5432901,
     "longitude": 9.7503731,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6912",
+    "city": "Hörbranz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Scheier Tankstelle Hörbranz",
     "retailer": "scheier_tankstelle_horbranz",
     "shop": "kiosk",
     "latitude": 47.5432256,
-    "longitude": 9.7513782
+    "longitude": 9.7513782,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Unsre wilde Farm",
     "retailer": "unsre_wilde_farm",
     "shop": "farm",
     "latitude": 47.5407576,
-    "longitude": 9.7557961
+    "longitude": 9.7557961,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

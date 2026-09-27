@@ -5,14 +5,18 @@
     "shop": "bakery",
     "latitude": 47.2698894,
     "longitude": 10.9411389,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metallbau Mareiler",
     "retailer": "metallbau_mareiler",
     "shop": "hardware",
     "latitude": 47.2694502,
-    "longitude": 10.9409263
+    "longitude": 10.9409263,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -20,6 +24,10 @@
     "shop": "supermarket",
     "latitude": 47.2697273,
     "longitude": 10.9411217,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6424",
+    "city": "Silz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

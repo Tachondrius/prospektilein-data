@@ -5,21 +5,29 @@
     "shop": "chemist",
     "latitude": 47.7907279,
     "longitude": 13.0741382,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Funda's Friseur-Atelier",
     "retailer": "funda_s_friseur_atelier",
     "shop": "hairdresser",
     "latitude": 47.7900147,
-    "longitude": 13.0717034
+    "longitude": 13.0717034,
+    "postcode": "5026",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Holztrattner",
     "retailer": "holztrattner",
     "shop": "bakery",
     "latitude": 47.7902152,
-    "longitude": 13.0718201
+    "longitude": 13.0718201,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lidl",
@@ -27,21 +35,31 @@
     "shop": "supermarket",
     "latitude": 47.7905671,
     "longitude": 13.0750588,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 47.7907728,
-    "longitude": 13.0746812
+    "longitude": 13.0746812,
+    "postcode": "5026",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 47.7984083,
-    "longitude": 13.0700711
+    "longitude": 13.0700711,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tesla Salzburg",
@@ -49,6 +67,10 @@
     "shop": "car",
     "latitude": 47.7900874,
     "longitude": 13.0759637,
-    "brand": "Tesla"
+    "brand": "Tesla",
+    "postcode": "5026",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

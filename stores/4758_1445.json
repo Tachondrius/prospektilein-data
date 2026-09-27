@@ -5,28 +5,42 @@
     "shop": "supermarket",
     "latitude": 47.5819398,
     "longitude": 14.4553944,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8911",
+    "city": "Admont",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "com.hair",
     "retailer": "com_hair",
     "shop": "hairdresser",
     "latitude": 47.5829269,
-    "longitude": 14.4589643
+    "longitude": 14.4589643,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Landmarkt Admont",
     "retailer": "landmarkt_admont",
     "shop": "doityourself",
     "latitude": 47.5818582,
-    "longitude": 14.4545019
+    "longitude": 14.4545019,
+    "postcode": "8911",
+    "city": "Admont",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Maria Stauchner",
     "retailer": "maria_stauchner",
     "shop": "hairdresser",
     "latitude": 47.5802014,
-    "longitude": 14.4596009
+    "longitude": 14.4596009,
+    "postcode": "8911",
+    "city": "Admont",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -34,7 +48,9 @@
     "shop": "clothes",
     "latitude": 47.5830201,
     "longitude": 14.4587129,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -42,7 +58,11 @@
     "shop": "supermarket",
     "latitude": 47.5806494,
     "longitude": 14.4592298,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8911",
+    "city": "Admont",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -50,13 +70,21 @@
     "shop": "supermarket",
     "latitude": 47.5824612,
     "longitude": 14.4582288,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8911",
+    "city": "Admont",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Kronberger",
     "retailer": "trafik_kronberger",
     "shop": "newsagent",
     "latitude": 47.582962,
-    "longitude": 14.458269
+    "longitude": 14.458269,
+    "postcode": "8911",
+    "city": "Admont",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

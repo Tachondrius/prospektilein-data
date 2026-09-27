@@ -4,14 +4,22 @@
     "retailer": "bluebox",
     "shop": "clothes",
     "latitude": 47.8977537,
-    "longitude": 15.9592568
+    "longitude": 15.9592568,
+    "postcode": "2763",
+    "city": "Pernitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Emile",
     "retailer": "emile",
     "shop": "convenience",
     "latitude": 47.8972659,
-    "longitude": 15.9569003
+    "longitude": 15.9569003,
+    "postcode": "2763",
+    "city": "Pernitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hagebau",
@@ -19,35 +27,53 @@
     "shop": "doityourself",
     "latitude": 47.8952535,
     "longitude": 15.9534877,
-    "brand": "Hagebau"
+    "brand": "Hagebau",
+    "postcode": "2763",
+    "city": "Pernitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "HMS",
     "retailer": "hms",
     "shop": "electronics",
     "latitude": 47.8967765,
-    "longitude": 15.9568036
+    "longitude": 15.9568036,
+    "postcode": "2763",
+    "city": "Pernitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Julia Berger",
     "retailer": "julia_berger",
     "shop": "hairdresser",
     "latitude": 47.8986456,
-    "longitude": 15.9573331
+    "longitude": 15.9573331,
+    "postcode": "2763",
+    "city": "Pernitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
     "retailer": "nkd",
     "shop": "clothes",
     "latitude": 47.8969057,
-    "longitude": 15.9564641
+    "longitude": 15.9564641,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Optician",
     "retailer": "shop_optician",
     "shop": "optician",
     "latitude": 47.8975144,
-    "longitude": 15.9597903
+    "longitude": 15.9597903,
+    "postcode": "2763",
+    "city": "Pernitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schönthaler",
@@ -55,7 +81,9 @@
     "shop": "car",
     "latitude": 47.8978849,
     "longitude": 15.9590972,
-    "brand": "Alfa Romeo;Fiat;Jeep"
+    "brand": "Alfa Romeo;Fiat;Jeep",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -63,6 +91,10 @@
     "shop": "supermarket",
     "latitude": 47.8966122,
     "longitude": 15.9576622,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2763",
+    "city": "Pernitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

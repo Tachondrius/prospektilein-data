@@ -4,28 +4,38 @@
     "retailer": "bgs",
     "shop": "car_repair",
     "latitude": 47.9461891,
-    "longitude": 16.5815335
+    "longitude": 16.5815335,
+    "postcode": "2451",
+    "city": "Hof am Leithaberge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Designtasche.at",
     "retailer": "designtasche_at",
     "shop": "bag",
     "latitude": 47.9468137,
-    "longitude": 16.5823166
+    "longitude": 16.5823166,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Markowitsch",
     "retailer": "markowitsch",
     "shop": "hairdresser",
     "latitude": 47.9489987,
-    "longitude": 16.5833247
+    "longitude": 16.5833247,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Markus Adler",
     "retailer": "markus_adler",
     "shop": "florist",
     "latitude": 47.9467461,
-    "longitude": 16.5829274
+    "longitude": 16.5829274,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -33,6 +43,10 @@
     "shop": "supermarket",
     "latitude": 47.9491211,
     "longitude": 16.5833102,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2451",
+    "city": "Hof am Leithaberge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

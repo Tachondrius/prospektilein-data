@@ -5,20 +5,26 @@
     "shop": "car",
     "latitude": 48.3467304,
     "longitude": 14.5319812,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.3401242,
-    "longitude": 14.5324934
+    "longitude": 14.5324934,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.3489188,
-    "longitude": 14.5314198
+    "longitude": 14.5314198,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

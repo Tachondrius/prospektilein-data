@@ -5,7 +5,9 @@
     "shop": "convenience",
     "latitude": 47.0987638,
     "longitude": 15.7129672,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -13,28 +15,44 @@
     "shop": "chemist",
     "latitude": 47.0999726,
     "longitude": 15.7167161,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Casino Joker's",
     "retailer": "casino_joker_s",
     "shop": "bookmaker",
     "latitude": 47.0989904,
-    "longitude": 15.7191225
+    "longitude": 15.7191225,
+    "postcode": "8200",
+    "city": "Hofstätten an der Raab",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Claudia´s Style and Beauty",
     "retailer": "claudia_s_style_und_beauty",
     "shop": "hairdresser",
     "latitude": 47.0985425,
-    "longitude": 15.7172129
+    "longitude": 15.7172129,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektro Brand",
     "retailer": "elektro_brand",
     "shop": "electronics",
     "latitude": 47.0981014,
-    "longitude": 15.7170926
+    "longitude": 15.7170926,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -42,7 +60,11 @@
     "shop": "supermarket",
     "latitude": 47.0996957,
     "longitude": 15.7175215,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -50,42 +72,66 @@
     "shop": "clothes",
     "latitude": 47.0998299,
     "longitude": 15.7170151,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "REMA Handels GmbH",
     "retailer": "rema_handels_gmbh",
     "shop": "trade",
     "latitude": 47.0945965,
-    "longitude": 15.7193822
+    "longitude": 15.7193822,
+    "postcode": "8200",
+    "city": "Hofstätten an der Raab",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Seidl",
     "retailer": "seidl",
     "shop": "car",
     "latitude": 47.0981337,
-    "longitude": 15.7140613
+    "longitude": 15.7140613,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabakfachgeschäft Artinger",
     "retailer": "tabakfachgeschaft_artinger",
     "shop": "kiosk",
     "latitude": 47.0987521,
-    "longitude": 15.7174654
+    "longitude": 15.7174654,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tele Schögler",
     "retailer": "tele_schogler",
     "shop": "electronics",
     "latitude": 47.0985816,
-    "longitude": 15.7172701
+    "longitude": 15.7172701,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wurm Drive In",
     "retailer": "wurm_drive_in",
     "shop": "bakery",
     "latitude": 47.0988311,
-    "longitude": 15.717271
+    "longitude": 15.717271,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zillertaler Trachtenwelt",
@@ -93,6 +139,10 @@
     "shop": "clothes",
     "latitude": 47.0991026,
     "longitude": 15.7123724,
-    "brand": "Zillertaler Trachtenwelt"
+    "brand": "Zillertaler Trachtenwelt",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

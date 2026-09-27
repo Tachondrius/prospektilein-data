@@ -4,21 +4,31 @@
     "retailer": "hosp",
     "shop": "shoes",
     "latitude": 47.3863435,
-    "longitude": 10.5615381
+    "longitude": 10.5615381,
+    "postcode": "6642",
+    "city": "Stanzach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "HTS Egger",
     "retailer": "hts_egger",
     "shop": "electronics",
     "latitude": 47.3879746,
-    "longitude": 10.5639025
+    "longitude": 10.5639025,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sonnweber",
     "retailer": "sonnweber",
     "shop": "butcher",
     "latitude": 47.3838098,
-    "longitude": 10.5610017
+    "longitude": 10.5610017,
+    "postcode": "6642",
+    "city": "Stanzach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -26,13 +36,21 @@
     "shop": "supermarket",
     "latitude": 47.3831002,
     "longitude": 10.5612799,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6642",
+    "city": "Stanzach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Fredy",
     "retailer": "sport_fredy",
     "shop": "sports",
     "latitude": 47.3852321,
-    "longitude": 10.5609116
+    "longitude": 10.5609116,
+    "postcode": "6642",
+    "city": "Stanzach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

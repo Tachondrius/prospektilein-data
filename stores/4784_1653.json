@@ -4,7 +4,11 @@
     "retailer": "bestattung_koch",
     "shop": "funeral_directors",
     "latitude": 47.8476006,
-    "longitude": 16.5329196
+    "longitude": 16.5329196,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Billa",
@@ -12,14 +16,20 @@
     "shop": "supermarket",
     "latitude": 47.8460204,
     "longitude": 16.5319701,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Blaguss",
     "retailer": "blaguss",
     "shop": "travel_agency",
     "latitude": 47.8470843,
-    "longitude": 16.5306421
+    "longitude": 16.5306421,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Honda Rainprecht",
@@ -27,48 +37,72 @@
     "shop": "car",
     "latitude": 47.8473573,
     "longitude": 16.5370977,
-    "brand": "Honda"
+    "brand": "Honda",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Horvath Blumen",
     "retailer": "horvath_blumen",
     "shop": "florist",
     "latitude": 47.8479856,
-    "longitude": 16.5373796
+    "longitude": 16.5373796,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Naglreiter",
     "retailer": "naglreiter",
     "shop": "bakery",
     "latitude": 47.8469531,
-    "longitude": 16.531453
+    "longitude": 16.531453,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Raiffeisen-Lagerhaus",
     "retailer": "raiffeisen_lagerhaus",
     "shop": "trade",
     "latitude": 47.8463074,
-    "longitude": 16.5398204
+    "longitude": 16.5398204,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Raiffeisen-Lagerhaus",
     "retailer": "raiffeisen_lagerhaus",
     "shop": "trade",
     "latitude": 47.8464499,
-    "longitude": 16.5393682
+    "longitude": 16.5393682,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Raiffeisen-Lagerhaus",
     "retailer": "raiffeisen_lagerhaus",
     "shop": "trade",
     "latitude": 47.8466432,
-    "longitude": 16.5383374
+    "longitude": 16.5383374,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Tabak Grafik Lotto J. Marhold",
     "retailer": "tabak_grafik_lotto_j_marhold",
     "shop": "kiosk",
     "latitude": 47.8474978,
-    "longitude": 16.5319323
+    "longitude": 16.5319323,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

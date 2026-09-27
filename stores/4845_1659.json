@@ -4,20 +4,30 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.4544707,
-    "longitude": 16.5975245
+    "longitude": 16.5975245,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mattls Clean Car Show",
     "retailer": "mattls_clean_car_show",
     "shop": "car_parts",
     "latitude": 48.4526611,
-    "longitude": 16.5974792
+    "longitude": 16.5974792,
+    "postcode": "2222",
+    "city": "Bad Pirawarth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TINA - Raw Patisserie",
     "retailer": "tina_raw_patisserie",
     "shop": "pastry",
     "latitude": 48.4580436,
-    "longitude": 16.5922769
+    "longitude": 16.5922769,
+    "postcode": "2222",
+    "city": "Bad Pirawarth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

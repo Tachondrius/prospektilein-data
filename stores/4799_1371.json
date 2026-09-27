@@ -4,20 +4,29 @@
     "retailer": "direktverkauf_spitz",
     "shop": "beverages;confectionery",
     "latitude": 47.9955644,
-    "longitude": 13.7111879
+    "longitude": 13.7111879,
+    "postcode": "4800",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseursalon Erika",
     "retailer": "friseursalon_erika",
     "shop": "hairdresser",
     "latitude": 47.9997108,
-    "longitude": 13.7137585
+    "longitude": 13.7137585,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Puchheimer Biohofladen",
     "retailer": "puchheimer_biohofladen",
     "shop": "farm",
     "latitude": 47.9982628,
-    "longitude": 13.7105928
+    "longitude": 13.7105928,
+    "postcode": "4800",
+    "city": "Attnang-Puchheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

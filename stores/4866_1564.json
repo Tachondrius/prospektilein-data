@@ -4,35 +4,47 @@
     "retailer": "arbo_horn",
     "shop": "car_repair",
     "latitude": 48.663474,
-    "longitude": 15.6432743
+    "longitude": 15.6432743,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.66411,
-    "longitude": 15.6437251
+    "longitude": 15.6437251,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DAN Küchen",
     "retailer": "dan_kuchen",
     "shop": "furniture",
     "latitude": 48.6646457,
-    "longitude": 15.6414394
+    "longitude": 15.6414394,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Farben Willinger",
     "retailer": "farben_willinger",
     "shop": "paint",
     "latitude": 48.6626069,
-    "longitude": 15.6459251
+    "longitude": 15.6459251,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_parts",
     "latitude": 48.6619391,
-    "longitude": 15.6492712
+    "longitude": 15.6492712,
+    "postcode": "3580",
+    "city": "Horn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -40,7 +52,11 @@
     "shop": "supermarket",
     "latitude": 48.6630568,
     "longitude": 15.6401499,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3580",
+    "city": "Horn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "JYSK",
@@ -48,7 +64,11 @@
     "shop": "furniture",
     "latitude": 48.6620213,
     "longitude": 15.6487118,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "3580",
+    "city": "Horn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klipp",
@@ -56,7 +76,11 @@
     "shop": "hairdresser",
     "latitude": 48.662608,
     "longitude": 15.6461054,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "3580",
+    "city": "Horn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klipp",
@@ -64,21 +88,31 @@
     "shop": "hairdresser",
     "latitude": 48.6627602,
     "longitude": 15.6456569,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kölbl GmbH",
     "retailer": "kolbl_gmbh",
     "shop": "car",
     "latitude": 48.6626559,
-    "longitude": 15.6472929
+    "longitude": 15.6472929,
+    "postcode": "3580",
+    "city": "Horn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "olina Küchen Werkhaus Handels GmbH & Co KG;Christian Dittrich",
     "retailer": "olina_kuchen_werkhaus_handels_gmbh_und_co_kg_christian_dittrich",
     "shop": "kitchen",
     "latitude": 48.6641927,
-    "longitude": 15.642356
+    "longitude": 15.642356,
+    "postcode": "3580",
+    "city": "Horn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -86,14 +120,20 @@
     "shop": "supermarket",
     "latitude": 48.66239,
     "longitude": 15.6467922,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "3580",
+    "city": "Horn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reifen Weichberger",
     "retailer": "reifen_weichberger",
     "shop": "car_repair",
     "latitude": 48.663551,
-    "longitude": 15.6457085
+    "longitude": 15.6457085,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Seat",
@@ -101,7 +141,9 @@
     "shop": "car",
     "latitude": 48.6622296,
     "longitude": 15.6401243,
-    "brand": "Seat"
+    "brand": "Seat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Würth",
@@ -109,13 +151,19 @@
     "shop": "hardware",
     "latitude": 48.6627025,
     "longitude": 15.6457561,
-    "brand": "Würth"
+    "brand": "Würth",
+    "postcode": "3580",
+    "city": "Horn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zgonc",
     "retailer": "zgonc",
     "shop": "doityourself",
     "latitude": 48.6631878,
-    "longitude": 15.6438199
+    "longitude": 15.6438199,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

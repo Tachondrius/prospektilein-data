@@ -4,7 +4,11 @@
     "retailer": "berner_depot_wien_nord",
     "shop": "repair",
     "latitude": 48.2165125,
-    "longitude": 16.5057461
+    "longitude": 16.5057461,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 48.2154835,
     "longitude": 16.5033916,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa Unterwegs",
@@ -20,35 +28,49 @@
     "shop": "convenience",
     "latitude": 48.2164293,
     "longitude": 16.5051642,
-    "brand": "Billa Unterwegs"
+    "brand": "Billa Unterwegs",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.2149294,
-    "longitude": 16.506561
+    "longitude": 16.506561,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Elektro-Shop Köck",
     "retailer": "elektro_shop_kock",
     "shop": "hifi",
     "latitude": 48.215537,
-    "longitude": 16.5077606
+    "longitude": 16.5077606,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Elektro-Shop Köck",
     "retailer": "elektro_shop_kock",
     "shop": "electronics",
     "latitude": 48.2160091,
-    "longitude": 16.5079144
+    "longitude": 16.5079144,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "FN KFZ-Technik GmbH",
     "retailer": "fn_kfz_technik_gmbh",
     "shop": "car_repair",
     "latitude": 48.2163378,
-    "longitude": 16.5066469
+    "longitude": 16.5066469,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "MyPlace-SelfStorage",
@@ -56,13 +78,21 @@
     "shop": "storage_rental",
     "latitude": 48.2162523,
     "longitude": 16.5058152,
-    "brand": "MyPlace-SelfStorage"
+    "brand": "MyPlace-SelfStorage",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Reifenzentrum Seestadt",
     "retailer": "reifenzentrum_seestadt",
     "shop": "car_repair",
     "latitude": 48.2162443,
-    "longitude": 16.5070714
+    "longitude": 16.5070714,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

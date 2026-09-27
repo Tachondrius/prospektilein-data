@@ -4,7 +4,11 @@
     "retailer": "auto_meusburger",
     "shop": "car",
     "latitude": 47.4210466,
-    "longitude": 9.8988153
+    "longitude": 9.8988153,
+    "postcode": "6866",
+    "city": "Andelsbuch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "dm",
@@ -12,35 +16,52 @@
     "shop": "chemist",
     "latitude": 47.428933,
     "longitude": 9.8971482,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.4225947,
-    "longitude": 9.8917311
+    "longitude": 9.8917311,
+    "postcode": "6866",
+    "city": "Andelsbuch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fussl Modestraße",
     "retailer": "fussl_modestrae",
     "shop": "clothes",
     "latitude": 47.4282708,
-    "longitude": 9.8977356
+    "longitude": 9.8977356,
+    "postcode": "6863",
+    "city": "Egg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Herburger Werkzeuge",
     "retailer": "herburger_werkzeuge",
     "shop": "trade",
     "latitude": 47.4250024,
-    "longitude": 9.8973402
+    "longitude": 9.8973402,
+    "city": "Andelsbuch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kaufhaus der Wälder",
     "retailer": "kaufhaus_der_walder",
     "shop": "mall",
     "latitude": 47.4290333,
-    "longitude": 9.8969968
+    "longitude": 9.8969968,
+    "postcode": "6863",
+    "city": "Egg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "NKD",
@@ -48,21 +69,31 @@
     "shop": "clothes",
     "latitude": 47.429289,
     "longitude": 9.8970239,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "RADAU",
     "retailer": "radau",
     "shop": "bicycle",
     "latitude": 47.4210183,
-    "longitude": 9.8987867
+    "longitude": 9.8987867,
+    "postcode": "6866",
+    "city": "Andelsbuch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Simma Optik Uhren Schmuck GmbH",
     "retailer": "simma_optik_uhren_schmuck_gmbh",
     "shop": "watches",
     "latitude": 47.4202806,
-    "longitude": 9.8987377
+    "longitude": 9.8987377,
+    "postcode": "6866",
+    "city": "Andelsbuch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sutterlüty",
@@ -70,13 +101,17 @@
     "shop": "supermarket",
     "latitude": 47.4290654,
     "longitude": 9.8969819,
-    "brand": "Sutterlüty"
+    "brand": "Sutterlüty",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tyrolia",
     "retailer": "tyrolia",
     "shop": "books",
     "latitude": 47.4293633,
-    "longitude": 9.8970287
+    "longitude": 9.8970287,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

@@ -4,21 +4,31 @@
     "retailer": "helle_kopfe",
     "shop": "clothes",
     "latitude": 47.2044158,
-    "longitude": 10.7647614
+    "longitude": 10.7647614,
+    "postcode": "6471",
+    "city": "Arzl im Pitztal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kaufhaus der Berge",
     "retailer": "kaufhaus_der_berge",
     "shop": "cosmetics",
     "latitude": 47.2073883,
-    "longitude": 10.7613761
+    "longitude": 10.7613761,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kunsthand",
     "retailer": "kunsthand",
     "shop": "art",
     "latitude": 47.2084996,
-    "longitude": 10.7613411
+    "longitude": 10.7613411,
+    "postcode": "6471",
+    "city": "Arzl im Pitztal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -26,7 +36,11 @@
     "shop": "supermarket",
     "latitude": 47.2068518,
     "longitude": 10.7620109,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6471",
+    "city": "Arzl im Pitztal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -34,6 +48,10 @@
     "shop": "supermarket",
     "latitude": 47.2070311,
     "longitude": 10.7618405,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6471",
+    "city": "Arzl im Pitztal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

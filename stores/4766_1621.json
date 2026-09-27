@@ -4,7 +4,11 @@
     "retailer": "backerei_bernhard",
     "shop": "bakery",
     "latitude": 47.6645941,
-    "longitude": 16.2121212
+    "longitude": 16.2121212,
+    "postcode": "2833",
+    "city": "Bromberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.6646287,
     "longitude": 16.2121234,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2833",
+    "city": "Bromberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

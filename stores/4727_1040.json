@@ -4,27 +4,37 @@
     "retailer": "bitschnau",
     "shop": "bakery",
     "latitude": 47.2701799,
-    "longitude": 10.4049351
+    "longitude": 10.4049351,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lechtal Sports GmbH",
     "retailer": "lechtal_sports_gmbh",
     "shop": "bicycle",
     "latitude": 47.2706012,
-    "longitude": 10.4035351
+    "longitude": 10.4035351,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lechtaler Naturhandwerk",
     "retailer": "lechtaler_naturhandwerk",
     "shop": "interior_decoration",
     "latitude": 47.2705062,
-    "longitude": 10.4033977
+    "longitude": 10.4033977,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Scheidle Kraftfahrzeuge",
     "retailer": "scheidle_kraftfahrzeuge",
     "shop": "car",
     "latitude": 47.2753619,
-    "longitude": 10.4073923
+    "longitude": 10.4073923,
+    "postcode": "6653",
+    "city": "Elbigenalp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

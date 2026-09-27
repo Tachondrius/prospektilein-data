@@ -4,35 +4,52 @@
     "retailer": "adams_produkt_und_erfolgsmanagement",
     "shop": "yes",
     "latitude": 46.6364309,
-    "longitude": 14.3271007
+    "longitude": 14.3271007,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Coiffeur Messier",
     "retailer": "coiffeur_messier",
     "shop": "hairdresser",
     "latitude": 46.6354218,
-    "longitude": 14.3258881
+    "longitude": 14.3258881,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hali Büromöbel",
     "retailer": "hali_buromobel",
     "shop": "furniture",
     "latitude": 46.6364145,
-    "longitude": 14.3282611
+    "longitude": 14.3282611,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 46.6353466,
-    "longitude": 14.3246702
+    "longitude": 14.3246702,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Salon Carmen",
     "retailer": "salon_carmen",
     "shop": "hairdresser",
     "latitude": 46.6353816,
-    "longitude": 14.3238902
+    "longitude": 14.3238902,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -40,13 +57,19 @@
     "shop": "supermarket",
     "latitude": 46.6326688,
     "longitude": 14.3293284,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Töfferl Garten- und Kommunalgeräte",
     "retailer": "tofferl_garten_und_kommunalgerate",
     "shop": "car_parts",
     "latitude": 46.6369828,
-    "longitude": 14.3298446
+    "longitude": 14.3298446,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

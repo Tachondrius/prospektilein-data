@@ -5,21 +5,31 @@
     "shop": "car",
     "latitude": 48.3312498,
     "longitude": 14.6176556,
-    "brand": "Alfa Romeo;Fiat"
+    "brand": "Alfa Romeo;Fiat",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumenzeit",
     "retailer": "blumenzeit",
     "shop": "florist",
     "latitude": 48.3317973,
-    "longitude": 14.61953
+    "longitude": 14.61953,
+    "postcode": "4284",
+    "city": "Tragwein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "doityourself",
     "latitude": 48.3319149,
-    "longitude": 14.6177952
+    "longitude": 14.6177952,
+    "postcode": "4284",
+    "city": "Tragwein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -27,13 +37,21 @@
     "shop": "supermarket",
     "latitude": 48.3319222,
     "longitude": 14.6192546,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4284",
+    "city": "Tragwein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Thurner",
     "retailer": "thurner",
     "shop": "bakery",
     "latitude": 48.3316726,
-    "longitude": 14.6196213
+    "longitude": 14.6196213,
+    "postcode": "4284",
+    "city": "Tragwein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

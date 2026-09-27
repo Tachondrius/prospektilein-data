@@ -5,7 +5,11 @@
     "shop": "variety_store",
     "latitude": 48.3203344,
     "longitude": 16.0205789,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "3442",
+    "city": "Langenrohr",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Breitner e.U.",
@@ -13,7 +17,11 @@
     "shop": "car",
     "latitude": 48.3219757,
     "longitude": 16.0247127,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "postcode": "3442",
+    "city": "Langenrohr",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -21,7 +29,10 @@
     "shop": "supermarket",
     "latitude": 48.3234968,
     "longitude": 16.0284159,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3430",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -29,21 +40,31 @@
     "shop": "chemist",
     "latitude": 48.3209364,
     "longitude": 16.0213252,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "3442",
+    "city": "Langenrohr",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Colori Farbencenter",
     "retailer": "colori_farbencenter",
     "shop": "copyshop",
     "latitude": 48.3217171,
-    "longitude": 16.0229692
+    "longitude": 16.0229692,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Containo",
     "retailer": "containo",
     "shop": "storage_rental",
     "latitude": 48.3244036,
-    "longitude": 16.0297841
+    "longitude": 16.0297841,
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Das Futterhaus",
@@ -51,7 +72,11 @@
     "shop": "pet",
     "latitude": 48.3216425,
     "longitude": 16.022744,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "3442",
+    "city": "Asparn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichmann",
@@ -59,42 +84,58 @@
     "shop": "shoes",
     "latitude": 48.3206885,
     "longitude": 16.0217467,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Denzel Langenrohr",
     "retailer": "denzel_langenrohr",
     "shop": "car",
     "latitude": 48.3206007,
-    "longitude": 16.0225363
+    "longitude": 16.0225363,
+    "postcode": "3442",
+    "city": "Asparn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Donau Automobile",
     "retailer": "donau_automobile",
     "shop": "car",
     "latitude": 48.3244556,
-    "longitude": 16.0283991
+    "longitude": 16.0283991,
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "equiva",
     "retailer": "equiva",
     "shop": "equestrian",
     "latitude": 48.3205298,
-    "longitude": 16.0207974
+    "longitude": 16.0207974,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Husqvarna",
     "retailer": "husqvarna",
     "shop": "car",
     "latitude": 48.321686,
-    "longitude": 16.0270721
+    "longitude": 16.0270721,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Iveco",
     "retailer": "iveco",
     "shop": "car",
     "latitude": 48.3216534,
-    "longitude": 16.0269192
+    "longitude": 16.0269192,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Jeep",
@@ -102,7 +143,9 @@
     "shop": "car",
     "latitude": 48.3215391,
     "longitude": 16.0243531,
-    "brand": "Jeep"
+    "brand": "Jeep",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "JYSK",
@@ -110,7 +153,11 @@
     "shop": "furniture",
     "latitude": 48.3217254,
     "longitude": 16.0234703,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "3442",
+    "city": "Asparn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -118,14 +165,18 @@
     "shop": "clothes",
     "latitude": 48.3214249,
     "longitude": 16.0221863,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ortlieb Garten- und Landschaftstechnik",
     "retailer": "ortlieb_garten_und_landschaftstechnik",
     "shop": "garden_centre",
     "latitude": 48.324935,
-    "longitude": 16.0299674
+    "longitude": 16.0299674,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Peugeot",
@@ -133,21 +184,27 @@
     "shop": "car",
     "latitude": 48.321735,
     "longitude": 16.0273814,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Simhofer",
     "retailer": "simhofer",
     "shop": "bakery",
     "latitude": 48.3222183,
-    "longitude": 16.0252087
+    "longitude": 16.0252087,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zgonc",
     "retailer": "zgonc",
     "shop": "doityourself",
     "latitude": 48.3213039,
-    "longitude": 16.023788
+    "longitude": 16.023788,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zoo & Co.",
@@ -155,6 +212,8 @@
     "shop": "pet",
     "latitude": 48.3208124,
     "longitude": 16.0215197,
-    "brand": "Zoo & Co."
+    "brand": "Zoo & Co.",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

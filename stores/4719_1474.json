@@ -4,21 +4,27 @@
     "retailer": "admiral_wettcafe",
     "shop": "bookmaker",
     "latitude": 47.1937916,
-    "longitude": 14.743191
+    "longitude": 14.743191,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 47.1941088,
-    "longitude": 14.7438186
+    "longitude": 14.7438186,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "DER LADEN",
     "retailer": "der_laden",
     "shop": "deli",
     "latitude": 47.1904967,
-    "longitude": 14.7467469
+    "longitude": 14.7467469,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -26,28 +32,40 @@
     "shop": "chemist",
     "latitude": 47.194957,
     "longitude": 14.7407416,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friends Barber Shop",
     "retailer": "friends_barber_shop",
     "shop": "hairdresser",
     "latitude": 47.1907501,
-    "longitude": 14.7459423
+    "longitude": 14.7459423,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Sturmer",
     "retailer": "friseur_sturmer",
     "shop": "hairdresser",
     "latitude": 47.1905302,
-    "longitude": 14.7460369
+    "longitude": 14.7460369,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HaarImpuls",
     "retailer": "haarimpuls",
     "shop": "hairdresser",
     "latitude": 47.1955805,
-    "longitude": 14.7417319
+    "longitude": 14.7417319,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -55,14 +73,22 @@
     "shop": "supermarket",
     "latitude": 47.1951572,
     "longitude": 14.7419151,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ Reibenbacher",
     "retailer": "kfz_reibenbacher",
     "shop": "car_repair",
     "latitude": 47.1902648,
-    "longitude": 14.7468361
+    "longitude": 14.7468361,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
@@ -70,14 +96,20 @@
     "shop": "hairdresser",
     "latitude": 47.1938041,
     "longitude": 14.7432868,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lebensarten",
     "retailer": "lebensarten",
     "shop": "gift",
     "latitude": 47.1955413,
-    "longitude": 14.7413939
+    "longitude": 14.7413939,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -85,21 +117,33 @@
     "shop": "supermarket",
     "latitude": 47.195251,
     "longitude": 14.742824,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Malez",
     "retailer": "malez",
     "shop": "bakery",
     "latitude": 47.190554,
-    "longitude": 14.748703
+    "longitude": 14.748703,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mini-Zoo Ganster",
     "retailer": "mini_zoo_ganster",
     "shop": "pet",
     "latitude": 47.1943972,
-    "longitude": 14.7444625
+    "longitude": 14.7444625,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -107,21 +151,31 @@
     "shop": "clothes",
     "latitude": 47.1940233,
     "longitude": 14.743345,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sport und Service 4 you",
     "retailer": "sport_und_service_4_you",
     "shop": "bicycle",
     "latitude": 47.1952709,
-    "longitude": 14.7464601
+    "longitude": 14.7464601,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "newsagent",
     "latitude": 47.1905075,
-    "longitude": 14.746497
+    "longitude": 14.746497,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -129,20 +183,26 @@
     "shop": "variety_store",
     "latitude": 47.1951194,
     "longitude": 14.7407569,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wein & Bier",
     "retailer": "wein_und_bier",
     "shop": "alcohol",
     "latitude": 47.1955377,
-    "longitude": 14.7411901
+    "longitude": 14.7411901,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zeitlos Schön",
     "retailer": "zeitlos_schon",
     "shop": "beauty",
     "latitude": 47.1911716,
-    "longitude": 14.7446904
+    "longitude": 14.7446904,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

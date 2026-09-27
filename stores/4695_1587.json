@@ -4,28 +4,44 @@
     "retailer": "agrarunion_sudost",
     "shop": "car",
     "latitude": 46.9594746,
-    "longitude": 15.8715711
+    "longitude": 15.8715711,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autobedarf Birner",
     "retailer": "autobedarf_birner",
     "shop": "car",
     "latitude": 46.9530998,
-    "longitude": 15.8794442
+    "longitude": 15.8794442,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Uitz",
     "retailer": "autohaus_uitz",
     "shop": "car",
     "latitude": 46.9530096,
-    "longitude": 15.8709279
+    "longitude": 15.8709279,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "beautique",
     "retailer": "beautique",
     "shop": "beauty",
     "latitude": 46.9569749,
-    "longitude": 15.8798087
+    "longitude": 15.8798087,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intersport",
@@ -33,7 +49,11 @@
     "shop": "sports",
     "latitude": 46.9575056,
     "longitude": 15.8785534,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -41,13 +61,19 @@
     "shop": "clothes",
     "latitude": 46.9574711,
     "longitude": 15.879067,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zoofachhandlung Geiger",
     "retailer": "zoofachhandlung_geiger",
     "shop": "pet",
     "latitude": 46.9568239,
-    "longitude": 15.8795283
+    "longitude": 15.8795283,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

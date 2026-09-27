@@ -5,14 +5,20 @@
     "shop": "bakery",
     "latitude": 47.0666678,
     "longitude": 10.9677201,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bennys Fliesenwelt",
     "retailer": "bennys_fliesenwelt",
     "shop": "tiles",
     "latitude": 47.0685525,
-    "longitude": 10.9695509
+    "longitude": 10.9695509,
+    "postcode": "6444",
+    "city": "Längenfeld",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -20,14 +26,21 @@
     "shop": "chemist",
     "latitude": 47.0671486,
     "longitude": 10.9680132,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6444",
+    "city": "Längenfeld",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Grüner",
     "retailer": "gruner",
     "shop": "hairdresser",
     "latitude": 47.0697071,
-    "longitude": 10.9647326
+    "longitude": 10.9647326,
+    "city": "Längenfeld",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -35,7 +48,11 @@
     "shop": "supermarket",
     "latitude": 47.0666906,
     "longitude": 10.9676475,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6444",
+    "city": "Längenfeld",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Riml Sport",
@@ -43,7 +60,9 @@
     "shop": "sports",
     "latitude": 47.0693526,
     "longitude": 10.9697741,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -51,20 +70,30 @@
     "shop": "supermarket",
     "latitude": 47.0698526,
     "longitude": 10.9699634,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6444",
+    "city": "Längenfeld",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sporthütte Fiegl",
     "retailer": "sporthutte_fiegl",
     "shop": "sports",
     "latitude": 47.0663459,
-    "longitude": 10.9674319
+    "longitude": 10.9674319,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zweirad Hummel",
     "retailer": "zweirad_hummel",
     "shop": "bicycle",
     "latitude": 47.0679944,
-    "longitude": 10.9685317
+    "longitude": 10.9685317,
+    "postcode": "6444",
+    "city": "Längenfeld",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,20 +4,28 @@
     "retailer": "autohaus_wais",
     "shop": "car_repair",
     "latitude": 48.8123497,
-    "longitude": 15.2915208
+    "longitude": 15.2915208,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Wais",
     "retailer": "autohaus_wais",
     "shop": "car",
     "latitude": 48.8127382,
-    "longitude": 15.2922718
+    "longitude": 15.2922718,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.8102576,
-    "longitude": 15.2976903
+    "longitude": 15.2976903,
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "car_repair",
     "latitude": 48.2220848,
     "longitude": 14.4071713,
-    "brand": "A.T.U"
+    "brand": "A.T.U",
+    "postcode": "4481",
+    "city": "Asten",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Action",
@@ -13,7 +17,9 @@
     "shop": "variety_store",
     "latitude": 48.2207212,
     "longitude": 14.4084867,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Pichler",
@@ -21,21 +27,27 @@
     "shop": "car",
     "latitude": 48.2236591,
     "longitude": 14.4054846,
-    "brand": "BYD;Ford"
+    "brand": "BYD;Ford",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Pichler - Karosseriezentrum",
     "retailer": "autohaus_pichler_karosseriezentrum",
     "shop": "car_repair",
     "latitude": 48.2260629,
-    "longitude": 14.4000171
+    "longitude": 14.4000171,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "BabyOne",
     "retailer": "babyone",
     "shop": "baby_goods",
     "latitude": 48.2201407,
-    "longitude": 14.4081928
+    "longitude": 14.4081928,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "C&A",
@@ -43,14 +55,18 @@
     "shop": "clothes",
     "latitude": 48.2203845,
     "longitude": 14.4062318,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "City Barbershop",
     "retailer": "city_barbershop",
     "shop": "hairdresser",
     "latitude": 48.2210307,
-    "longitude": 14.4078657
+    "longitude": 14.4078657,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Das Futterhaus",
@@ -58,7 +74,9 @@
     "shop": "pet",
     "latitude": 48.2208162,
     "longitude": 14.4053617,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Deichmann",
@@ -66,7 +84,9 @@
     "shop": "shoes",
     "latitude": 48.2203433,
     "longitude": 14.4064821,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Depot",
@@ -74,14 +94,18 @@
     "shop": "interior_decoration",
     "latitude": 48.2204351,
     "longitude": 14.4060249,
-    "brand": "Depot"
+    "brand": "Depot",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Didi's Outdoor & Armeeshop",
     "retailer": "didi_s_outdoor_und_armeeshop",
     "shop": "clothes",
     "latitude": 48.2210605,
-    "longitude": 14.4077169
+    "longitude": 14.4077169,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -89,7 +113,9 @@
     "shop": "chemist",
     "latitude": 48.2200618,
     "longitude": 14.4076575,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ernsting's family",
@@ -97,7 +123,9 @@
     "shop": "clothes",
     "latitude": 48.2209969,
     "longitude": 14.4054225,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -105,21 +133,29 @@
     "shop": "supermarket",
     "latitude": 48.2215658,
     "longitude": 14.4056975,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_repair",
     "latitude": 48.2240413,
-    "longitude": 14.4043328
+    "longitude": 14.4043328,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Frun Park",
     "retailer": "frun_park",
     "shop": "mall",
     "latitude": 48.2207329,
-    "longitude": 14.4067491
+    "longitude": 14.4067491,
+    "postcode": "4481",
+    "city": "Asten",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fussl",
@@ -127,7 +163,9 @@
     "shop": "clothes",
     "latitude": 48.2204159,
     "longitude": 14.4083374,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hartlauer",
@@ -135,7 +173,9 @@
     "shop": "electronics",
     "latitude": 48.2205625,
     "longitude": 14.4084002,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Intersport",
@@ -143,7 +183,9 @@
     "shop": "sports",
     "latitude": 48.2200163,
     "longitude": 14.4079079,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "JYSK",
@@ -151,7 +193,9 @@
     "shop": "furniture",
     "latitude": 48.2208748,
     "longitude": 14.4085626,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KiK",
@@ -159,7 +203,9 @@
     "shop": "clothes",
     "latitude": 48.2219677,
     "longitude": 14.4063924,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Krämer Pferdesport",
@@ -167,14 +213,18 @@
     "shop": "sports",
     "latitude": 48.2237769,
     "longitude": 14.4047747,
-    "brand": "Krämer Pferdesport"
+    "brand": "Krämer Pferdesport",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kult",
     "retailer": "kult",
     "shop": "clothes",
     "latitude": 48.2212133,
-    "longitude": 14.4055221
+    "longitude": 14.4055221,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Libro",
@@ -182,7 +232,9 @@
     "shop": "books",
     "latitude": 48.2202244,
     "longitude": 14.4069329,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -190,7 +242,11 @@
     "shop": "supermarket",
     "latitude": 48.2225348,
     "longitude": 14.4044134,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "4481",
+    "city": "Asten",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "mister*lady",
@@ -198,7 +254,9 @@
     "shop": "clothes",
     "latitude": 48.2201821,
     "longitude": 14.407151,
-    "brand": "mister*lady"
+    "brand": "mister*lady",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Müller",
@@ -206,7 +264,9 @@
     "shop": "chemist",
     "latitude": 48.220552,
     "longitude": 14.4054749,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "New Yorker",
@@ -214,7 +274,9 @@
     "shop": "clothes",
     "latitude": 48.2204839,
     "longitude": 14.4057761,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -222,7 +284,9 @@
     "shop": "clothes",
     "latitude": 48.2209097,
     "longitude": 14.4053978,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pagro",
@@ -230,7 +294,9 @@
     "shop": "stationery",
     "latitude": 48.221109,
     "longitude": 14.4054678,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "PENNY",
@@ -238,7 +304,11 @@
     "shop": "supermarket",
     "latitude": 48.2222814,
     "longitude": 14.4056499,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "4481",
+    "city": "Asten",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Porsche Asten",
@@ -246,14 +316,20 @@
     "shop": "car",
     "latitude": 48.2230788,
     "longitude": 14.4070635,
-    "brand": "VW;Skoda"
+    "brand": "VW;Skoda",
+    "postcode": "4481",
+    "city": "Asten",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Roma",
     "retailer": "roma",
     "shop": "chemist",
     "latitude": 48.2214,
-    "longitude": 14.4056163
+    "longitude": 14.4056163,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "shoe4you",
@@ -261,7 +337,9 @@
     "shop": "shoes",
     "latitude": 48.2202641,
     "longitude": 14.4082536,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -269,7 +347,9 @@
     "shop": "clothes",
     "latitude": 48.2202712,
     "longitude": 14.4066927,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tchibo",
@@ -277,7 +357,9 @@
     "shop": "coffee",
     "latitude": 48.2201217,
     "longitude": 14.4074141,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TEDi",
@@ -285,7 +367,9 @@
     "shop": "variety_store",
     "latitude": 48.2221606,
     "longitude": 14.4064975,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Viva",
@@ -293,6 +377,10 @@
     "shop": "convenience",
     "latitude": 48.2225463,
     "longitude": 14.4084528,
-    "brand": "Viva"
+    "brand": "Viva",
+    "postcode": "4481",
+    "city": "Asten",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

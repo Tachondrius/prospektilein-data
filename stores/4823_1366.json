@@ -4,7 +4,11 @@
     "retailer": "backerei_atzmuller",
     "shop": "bakery",
     "latitude": 48.2318758,
-    "longitude": 13.6685191
+    "longitude": 13.6685191,
+    "postcode": "4741",
+    "city": "Wendling",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 48.2315808,
     "longitude": 13.6653833,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4741",
+    "city": "Wendling bei Haag",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

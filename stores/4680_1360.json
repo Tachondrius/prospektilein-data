@@ -4,13 +4,19 @@
     "retailer": "bauernschmaus",
     "shop": "farm",
     "latitude": 46.805982,
-    "longitude": 13.6057036
+    "longitude": 13.6057036,
+    "postcode": "9872",
+    "city": "Millstatt am See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 46.8072132,
-    "longitude": 13.6077348
+    "longitude": 13.6077348,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -4,14 +4,19 @@
     "retailer": "a_riepl",
     "shop": "butcher",
     "latitude": 48.3401877,
-    "longitude": 14.1686492
+    "longitude": 14.1686492,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Kneidinger Center Ottensheim",
     "retailer": "autohaus_kneidinger_center_ottensheim",
     "shop": "car",
     "latitude": 48.3423468,
-    "longitude": 14.1632277
+    "longitude": 14.1632277,
+    "postcode": "4100",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -19,7 +24,11 @@
     "shop": "supermarket",
     "latitude": 48.3403447,
     "longitude": 14.1674335,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -27,7 +36,11 @@
     "shop": "supermarket",
     "latitude": 48.3447599,
     "longitude": 14.1619346,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4111",
+    "city": "Walding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -35,14 +48,22 @@
     "shop": "chemist",
     "latitude": 48.3401978,
     "longitude": 14.1682772,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Derendinger",
     "retailer": "derendinger",
     "shop": "car_parts",
     "latitude": 48.3408473,
-    "longitude": 14.1669261
+    "longitude": 14.1669261,
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -50,14 +71,20 @@
     "shop": "chemist",
     "latitude": 48.3451777,
     "longitude": 14.1614382,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "4111",
+    "city": "Walding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Domino",
     "retailer": "domino",
     "shop": "hairdresser_supply",
     "latitude": 48.3400993,
-    "longitude": 14.1685171
+    "longitude": 14.1685171,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Esprit",
@@ -65,7 +92,9 @@
     "shop": "clothes",
     "latitude": 48.3400652,
     "longitude": 14.1686661,
-    "brand": "Esprit"
+    "brand": "Esprit",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -73,28 +102,38 @@
     "shop": "supermarket",
     "latitude": 48.3403603,
     "longitude": 14.1687627,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Filipp",
     "retailer": "filipp",
     "shop": "bakery",
     "latitude": 48.3402626,
-    "longitude": 14.1683906
+    "longitude": 14.1683906,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gsund und Guat",
     "retailer": "gsund_und_guat",
     "shop": "yes",
     "latitude": 48.3402873,
-    "longitude": 14.1684506
+    "longitude": 14.1684506,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hartlauer",
     "retailer": "hartlauer",
     "shop": "electrical",
     "latitude": 48.3400766,
-    "longitude": 14.1683993
+    "longitude": 14.1683993,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -102,21 +141,31 @@
     "shop": "supermarket",
     "latitude": 48.345615,
     "longitude": 14.1602795,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4111",
+    "city": "Walding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Koppensteiner",
     "retailer": "koppensteiner",
     "shop": "watches",
     "latitude": 48.3400438,
-    "longitude": 14.1685239
+    "longitude": 14.1685239,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "doityourself",
     "latitude": 48.3454853,
-    "longitude": 14.1617862
+    "longitude": 14.1617862,
+    "postcode": "4111",
+    "city": "Walding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -124,7 +173,11 @@
     "shop": "clothes",
     "latitude": 48.340384,
     "longitude": 14.1685711,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Takko",
@@ -132,7 +185,11 @@
     "shop": "clothes",
     "latitude": 48.3455243,
     "longitude": 14.1615477,
-    "brand": "Takko"
+    "brand": "Takko",
+    "postcode": "4111",
+    "city": "Walding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TEDi",
@@ -140,13 +197,19 @@
     "shop": "variety_store",
     "latitude": 48.3448097,
     "longitude": 14.1611933,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "4111",
+    "city": "Walding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trummer",
     "retailer": "trummer",
     "shop": "tiles",
     "latitude": 48.3405588,
-    "longitude": 14.1675341
+    "longitude": 14.1675341,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

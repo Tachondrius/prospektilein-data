@@ -4,7 +4,11 @@
     "retailer": "car_rep_rossman_gruppe",
     "shop": "car_repair",
     "latitude": 48.0335665,
-    "longitude": 16.7980805
+    "longitude": 16.7980805,
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Motorrad Bogoly KG",
@@ -12,14 +16,22 @@
     "shop": "motorcycle",
     "latitude": 48.0338178,
     "longitude": 16.7982592,
-    "brand": "Suzuki"
+    "brand": "Suzuki",
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reifen Ritz",
     "retailer": "reifen_ritz",
     "shop": "tyres",
     "latitude": 48.0323027,
-    "longitude": 16.7945324
+    "longitude": 16.7945324,
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Seat Kamper",
@@ -27,14 +39,22 @@
     "shop": "car",
     "latitude": 48.0322447,
     "longitude": 16.7973183,
-    "brand": "Seat"
+    "brand": "Seat",
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "VORTEX Handels-GmbH",
     "retailer": "vortex_handels_gmbh",
     "shop": "car_parts",
     "latitude": 48.0335009,
-    "longitude": 16.7976972
+    "longitude": 16.7976972,
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "VW Audi Seat Kamper",
@@ -42,7 +62,11 @@
     "shop": "car_repair",
     "latitude": 48.0323534,
     "longitude": 16.7966942,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "VW Kamper",
@@ -50,6 +74,10 @@
     "shop": "car",
     "latitude": 48.0325704,
     "longitude": 16.7969833,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 46.9416663,
     "longitude": 15.3309489,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 46.9456623,
     "longitude": 15.3359743,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Citroen Hengsberger",
@@ -21,21 +29,33 @@
     "shop": "car_repair",
     "latitude": 46.9410967,
     "longitude": 15.3348934,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Krainer",
     "retailer": "friseur_krainer",
     "shop": "hairdresser",
     "latitude": 46.9447481,
-    "longitude": 15.3346063
+    "longitude": 15.3346063,
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisoer Schnitt.Punkt",
     "retailer": "frisoer_schnitt_punkt",
     "shop": "hairdresser",
     "latitude": 46.9435019,
-    "longitude": 15.3329815
+    "longitude": 15.3329815,
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -43,14 +63,20 @@
     "shop": "doityourself",
     "latitude": 46.946368,
     "longitude": 15.3363627,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Steirische Spezialitäten - Herta und Josef Rumpf",
     "retailer": "steirische_spezialitaten_herta_und_josef_rumpf",
     "shop": "yes",
     "latitude": 46.9438025,
-    "longitude": 15.3342264
+    "longitude": 15.3342264,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Toyota Haas",
@@ -58,13 +84,21 @@
     "shop": "car",
     "latitude": 46.9495147,
     "longitude": 15.3392904,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Lannach",
     "retailer": "trafik_lannach",
     "shop": "kiosk",
     "latitude": 46.9430169,
-    "longitude": 15.3330563
+    "longitude": 15.3330563,
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,34 +4,50 @@
     "retailer": "autoland_fink",
     "shop": "car",
     "latitude": 47.3110363,
-    "longitude": 9.619361
+    "longitude": 9.619361,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.3126028,
-    "longitude": 9.611803
+    "longitude": 9.611803,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "FLAGA",
     "retailer": "flaga",
     "shop": "gas",
     "latitude": 47.3103087,
-    "longitude": 9.6197282
+    "longitude": 9.6197282,
+    "postcode": "6842",
+    "city": "Koblach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Gärtnerei Maissen",
     "retailer": "gartnerei_maissen",
     "shop": "garden_centre",
     "latitude": 47.3126284,
-    "longitude": 9.615743
+    "longitude": 9.615743,
+    "postcode": "6842",
+    "city": "Koblach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "PlayArt",
     "retailer": "playart",
     "shop": "video_games",
     "latitude": 47.3112383,
-    "longitude": 9.6179346
+    "longitude": 9.6179346,
+    "postcode": "6842",
+    "city": "Koblach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

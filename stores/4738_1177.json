@@ -4,7 +4,9 @@
     "retailer": "achenseebahn_ag",
     "shop": "ticket",
     "latitude": 47.388674,
-    "longitude": 11.7784499
+    "longitude": 11.7784499,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Auto Gratz",
@@ -12,7 +14,11 @@
     "shop": "car",
     "latitude": 47.389241,
     "longitude": 11.7726501,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Auto Linser",
@@ -20,21 +26,31 @@
     "shop": "car",
     "latitude": 47.3826813,
     "longitude": 11.770677,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "6220",
+    "city": "Buch in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Auto Rofan",
     "retailer": "auto_rofan",
     "shop": "car",
     "latitude": 47.3831756,
-    "longitude": 11.7705017
+    "longitude": 11.7705017,
+    "postcode": "6220",
+    "city": "Buch in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bertonis Bauernladen",
     "retailer": "bertonis_bauernladen",
     "shop": "farm",
     "latitude": 47.380038,
-    "longitude": 11.771866
+    "longitude": 11.771866,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa Unterwegs",
@@ -42,28 +58,40 @@
     "shop": "convenience",
     "latitude": 47.3885323,
     "longitude": 11.7746386,
-    "brand": "Billa Unterwegs"
+    "brand": "Billa Unterwegs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Ezeb",
     "retailer": "backerei_ezeb",
     "shop": "bakery",
     "latitude": 47.3885895,
-    "longitude": 11.7782557
+    "longitude": 11.7782557,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Köchlers Hofladen",
     "retailer": "kochlers_hofladen",
     "shop": "supermarket",
     "latitude": 47.3817871,
-    "longitude": 11.7762464
+    "longitude": 11.7762464,
+    "postcode": "6220",
+    "city": "Buch in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Moser Christine e.U.",
     "retailer": "moser_christine_e_u",
     "shop": "car_parts",
     "latitude": 47.3835866,
-    "longitude": 11.7712433
+    "longitude": 11.7712433,
+    "postcode": "6220",
+    "city": "Buch in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -71,27 +99,37 @@
     "shop": "supermarket",
     "latitude": 47.3889318,
     "longitude": 11.7732326,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Wopfner",
     "retailer": "tabak_wopfner",
     "shop": "tobacco",
     "latitude": 47.3877025,
-    "longitude": 11.7791674
+    "longitude": 11.7791674,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "W&G Autobedarf",
     "retailer": "w_und_g_autobedarf",
     "shop": "car_parts",
     "latitude": 47.3838008,
-    "longitude": 11.7718526
+    "longitude": 11.7718526,
+    "postcode": "6220",
+    "city": "Buch in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "ÖBB",
     "retailer": "obb",
     "shop": "ticket",
     "latitude": 47.3884886,
-    "longitude": 11.777965
+    "longitude": 11.777965,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

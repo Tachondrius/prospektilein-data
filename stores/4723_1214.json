@@ -5,7 +5,9 @@
     "shop": "sports",
     "latitude": 47.2351926,
     "longitude": 12.1441766,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -13,6 +15,10 @@
     "shop": "supermarket",
     "latitude": 47.2345934,
     "longitude": 12.145088,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5743",
+    "city": "Krimml",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

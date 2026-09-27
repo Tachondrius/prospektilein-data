@@ -4,20 +4,28 @@
     "retailer": "24h_automat_hofveitl",
     "shop": "vending_machine",
     "latitude": 47.0984343,
-    "longitude": 15.3985495
+    "longitude": 15.3985495,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Anita",
     "retailer": "anita",
     "shop": "hairdresser",
     "latitude": 47.0984821,
-    "longitude": 15.3981441
+    "longitude": 15.3981441,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Computerservice Graz",
     "retailer": "computerservice_graz",
     "shop": "computer",
     "latitude": 47.0953116,
-    "longitude": 15.3957272
+    "longitude": 15.3957272,
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

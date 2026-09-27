@@ -4,7 +4,9 @@
     "retailer": "3_welt_laden",
     "shop": "yes",
     "latitude": 46.7245026,
-    "longitude": 14.0889258
+    "longitude": 14.0889258,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -12,7 +14,9 @@
     "shop": "supermarket",
     "latitude": 46.7261297,
     "longitude": 14.0883062,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa Plus",
@@ -20,7 +24,9 @@
     "shop": "supermarket",
     "latitude": 46.7258401,
     "longitude": 14.089593,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -28,7 +34,9 @@
     "shop": "chemist",
     "latitude": 46.7256544,
     "longitude": 14.089357,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "C&A",
@@ -36,14 +44,18 @@
     "shop": "clothes",
     "latitude": 46.7213976,
     "longitude": 14.0879802,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 46.7211418,
-    "longitude": 14.0852291
+    "longitude": 14.0852291,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Deichmann",
@@ -51,7 +63,11 @@
     "shop": "shoes",
     "latitude": 46.7216509,
     "longitude": 14.0873495,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Deichmann",
@@ -59,7 +75,9 @@
     "shop": "shoes",
     "latitude": 46.7243581,
     "longitude": 14.0886242,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "dm",
@@ -67,7 +85,11 @@
     "shop": "chemist",
     "latitude": 46.7215579,
     "longitude": 14.0874371,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eurospar",
@@ -75,14 +97,18 @@
     "shop": "supermarket",
     "latitude": 46.7244739,
     "longitude": 14.0884081,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_parts",
     "latitude": 46.7247242,
-    "longitude": 14.0870252
+    "longitude": 14.0870252,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fussl",
@@ -90,21 +116,31 @@
     "shop": "clothes",
     "latitude": 46.7217726,
     "longitude": 14.0872256,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fé-Citycenter",
     "retailer": "fe_citycenter",
     "shop": "mall",
     "latitude": 46.7244607,
-    "longitude": 14.0888555
+    "longitude": 14.0888555,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Genuss-Meierei Feldkirchen",
     "retailer": "genuss_meierei_feldkirchen",
     "shop": "convenience",
     "latitude": 46.7249187,
-    "longitude": 14.0880576
+    "longitude": 14.0880576,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -112,14 +148,18 @@
     "shop": "supermarket",
     "latitude": 46.7231992,
     "longitude": 14.0882788,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Jagdgeschäft Rauter",
     "retailer": "jagdgeschaft_rauter",
     "shop": "yes",
     "latitude": 46.724461,
-    "longitude": 14.0892052
+    "longitude": 14.0892052,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "JYSK",
@@ -127,7 +167,11 @@
     "shop": "furniture",
     "latitude": 46.7235181,
     "longitude": 14.0878664,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KiK",
@@ -135,7 +179,11 @@
     "shop": "clothes",
     "latitude": 46.721529,
     "longitude": 14.0883505,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -143,7 +191,9 @@
     "shop": "supermarket",
     "latitude": 46.7234234,
     "longitude": 14.0861962,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "OBI",
@@ -151,7 +201,10 @@
     "shop": "doityourself",
     "latitude": 46.7243143,
     "longitude": 14.0863438,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "9560",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Takko Fashion",
@@ -159,6 +212,10 @@
     "shop": "clothes",
     "latitude": 46.7214206,
     "longitude": 14.0875926,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

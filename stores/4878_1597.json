@@ -4,27 +4,41 @@
     "retailer": "bauernshop_retzbach",
     "shop": "convenience",
     "latitude": 48.782898,
-    "longitude": 15.9735983
+    "longitude": 15.9735983,
+    "postcode": "2070",
+    "city": "Mitterretzbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.7812468,
-    "longitude": 15.9722809
+    "longitude": 15.9722809,
+    "postcode": "2070",
+    "city": "Retzbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weinbau Ackerl",
     "retailer": "weinbau_ackerl",
     "shop": "wine",
     "latitude": 48.7844525,
-    "longitude": 15.9703136
+    "longitude": 15.9703136,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Krell",
     "retailer": "weingut_krell",
     "shop": "wine",
     "latitude": 48.7833522,
-    "longitude": 15.9758559
+    "longitude": 15.9758559,
+    "postcode": "2070",
+    "city": "Retzbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

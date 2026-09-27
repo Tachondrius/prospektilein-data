@@ -4,7 +4,9 @@
     "retailer": "backerei_wechner",
     "shop": "bakery",
     "latitude": 47.0635281,
-    "longitude": 10.3761323
+    "longitude": 10.3761323,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -12,7 +14,11 @@
     "shop": "sports",
     "latitude": 47.0608114,
     "longitude": 10.375094,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6555",
+    "city": "Kappl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -20,7 +26,9 @@
     "shop": "sports",
     "latitude": 47.0635181,
     "longitude": 10.3755873,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -28,20 +36,26 @@
     "shop": "supermarket",
     "latitude": 47.0631337,
     "longitude": 10.3746821,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Deiser",
     "retailer": "sport_deiser",
     "shop": "sports",
     "latitude": 47.0623685,
-    "longitude": 10.3746613
+    "longitude": 10.3746613,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Siegele",
     "retailer": "sport_siegele",
     "shop": "sports",
     "latitude": 47.0623057,
-    "longitude": 10.3748758
+    "longitude": 10.3748758,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

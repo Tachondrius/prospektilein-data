@@ -5,14 +5,18 @@
     "shop": "supermarket",
     "latitude": 47.8102588,
     "longitude": 13.7752424,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Barber Shop",
     "retailer": "barber_shop",
     "shop": "hairdresser",
     "latitude": 47.811079,
-    "longitude": 13.7710954
+    "longitude": 13.7710954,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -20,28 +24,40 @@
     "shop": "chemist",
     "latitude": 47.8101223,
     "longitude": 13.7751817,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fachmarktzentrum Ebensee",
     "retailer": "fachmarktzentrum_ebensee",
     "shop": "mall",
     "latitude": 47.8102612,
-    "longitude": 13.7753787
+    "longitude": 13.7753787,
+    "postcode": "4802",
+    "city": "Ebensee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hinterwirth",
     "retailer": "hinterwirth",
     "shop": "bakery",
     "latitude": 47.8104485,
-    "longitude": 13.7757187
+    "longitude": 13.7757187,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Leder Daxner Säcklermeister",
     "retailer": "leder_daxner_sacklermeister",
     "shop": "clothes",
     "latitude": 47.8118488,
-    "longitude": 13.7717424
+    "longitude": 13.7717424,
+    "postcode": "4802",
+    "city": "Ebensee am Traunsee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -49,7 +65,9 @@
     "shop": "clothes",
     "latitude": 47.8100298,
     "longitude": 13.7752074,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "PENNY",
@@ -57,20 +75,26 @@
     "shop": "supermarket",
     "latitude": 47.8104148,
     "longitude": 13.7753698,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sklona",
     "retailer": "sklona",
     "shop": "travel_agency",
     "latitude": 47.8114834,
-    "longitude": 13.7737775
+    "longitude": 13.7737775,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.8124552,
-    "longitude": 13.7736177
+    "longitude": 13.7736177,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

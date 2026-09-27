@@ -4,7 +4,11 @@
     "retailer": "backerei_mangold",
     "shop": "bakery",
     "latitude": 47.0212585,
-    "longitude": 9.9728015
+    "longitude": 9.9728015,
+    "postcode": "6791",
+    "city": "St. Gallenkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Intersport",
@@ -12,7 +16,11 @@
     "shop": "sports",
     "latitude": 47.0208306,
     "longitude": 9.9729277,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6791",
+    "city": "St. Gallenkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -20,20 +28,28 @@
     "shop": "supermarket",
     "latitude": 47.0206166,
     "longitude": 9.9727627,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spona Schrenkli",
     "retailer": "spona_schrenkli",
     "shop": "farm",
     "latitude": 47.0238288,
-    "longitude": 9.9704561
+    "longitude": 9.9704561,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 47.0208113,
-    "longitude": 9.9730986
+    "longitude": 9.9730986,
+    "postcode": "6791",
+    "city": "St. Gallenkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

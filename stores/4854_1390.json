@@ -4,21 +4,33 @@
     "retailer": "anton_riepl",
     "shop": "butcher",
     "latitude": 48.5451137,
-    "longitude": 13.9052909
+    "longitude": 13.9052909,
+    "postcode": "4152",
+    "city": "Sarleinsbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Oberngruber",
     "retailer": "backerei_oberngruber",
     "shop": "bakery",
     "latitude": 48.5447113,
-    "longitude": 13.9052811
+    "longitude": 13.9052811,
+    "postcode": "4152",
+    "city": "Sarleinsbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gärtnerei Höglinger",
     "retailer": "gartnerei_hoglinger",
     "shop": "garden_centre",
     "latitude": 48.549765,
-    "longitude": 13.903024
+    "longitude": 13.903024,
+    "postcode": "4152",
+    "city": "Sarleinsbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -26,6 +38,10 @@
     "shop": "supermarket",
     "latitude": 48.5421344,
     "longitude": 13.9055598,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4152",
+    "city": "Sarleinsbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

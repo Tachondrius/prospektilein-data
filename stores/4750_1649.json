@@ -5,21 +5,29 @@
     "shop": "variety_store",
     "latitude": 47.5075953,
     "longitude": 16.4983776,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Baustoffgroßhandel Michael Koch GmbH.",
     "retailer": "baustoffgrohandel_michael_koch_gmbh",
     "shop": "trade",
     "latitude": 47.509237,
-    "longitude": 16.499504
+    "longitude": 16.499504,
+    "postcode": "7344",
+    "city": "Stoob Süd",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_repair",
     "latitude": 47.5072759,
-    "longitude": 16.4997074
+    "longitude": 16.4997074,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "JYSK",
@@ -27,7 +35,9 @@
     "shop": "furniture",
     "latitude": 47.5074356,
     "longitude": 16.4990068,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "NKD",
@@ -35,14 +45,20 @@
     "shop": "clothes",
     "latitude": 47.5081345,
     "longitude": 16.4976613,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "OBI Koch",
     "retailer": "obi",
     "shop": "doityourself",
     "latitude": 47.508849,
-    "longitude": 16.4997601
+    "longitude": 16.4997601,
+    "postcode": "7344",
+    "city": "Stoob Süd",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pagro",
@@ -50,14 +66,18 @@
     "shop": "stationery",
     "latitude": 47.5071914,
     "longitude": 16.4998427,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Power Center Stoob",
     "retailer": "power_center_stoob",
     "shop": "mall",
     "latitude": 47.5078445,
-    "longitude": 16.4986138
+    "longitude": 16.4986138,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "TEDi",
@@ -65,7 +85,9 @@
     "shop": "variety_store",
     "latitude": 47.5076303,
     "longitude": 16.499401,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "woolworth",
@@ -73,6 +95,10 @@
     "shop": "general",
     "latitude": 47.5083784,
     "longitude": 16.4979472,
-    "brand": "woolworth"
+    "brand": "woolworth",
+    "postcode": "7344",
+    "city": "Stoob Süd",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -5,21 +5,31 @@
     "shop": "supermarket",
     "latitude": 48.2909617,
     "longitude": 14.2769905,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "LASK Fanshop",
     "retailer": "lask_fanshop",
     "shop": "fan",
     "latitude": 48.2945323,
-    "longitude": 14.2753434
+    "longitude": 14.2753434,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Christine K.",
     "retailer": "salon_christine_k",
     "shop": "hairdresser",
     "latitude": 48.2916923,
-    "longitude": 14.2722911
+    "longitude": 14.2722911,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -27,7 +37,9 @@
     "shop": "supermarket",
     "latitude": 48.2923273,
     "longitude": 14.2707223,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar Express",
@@ -35,20 +47,28 @@
     "shop": "convenience",
     "latitude": 48.2909002,
     "longitude": 14.277706,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sport Krenmayr",
     "retailer": "sport_krenmayr",
     "shop": "sports",
     "latitude": 48.2908277,
-    "longitude": 14.2781182
+    "longitude": 14.2781182,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 48.2938064,
-    "longitude": 14.2750529
+    "longitude": 14.2750529,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

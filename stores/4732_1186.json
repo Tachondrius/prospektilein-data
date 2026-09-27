@@ -5,42 +5,56 @@
     "shop": "supermarket",
     "latitude": 47.3258358,
     "longitude": 11.866193,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6271",
+    "city": "Uderns",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mair Touristik",
     "retailer": "mair_touristik",
     "shop": "travel_agency",
     "latitude": 47.3258009,
-    "longitude": 11.8643759
+    "longitude": 11.8643759,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "PizzARIA ALPIN",
     "retailer": "pizzaria_alpin",
     "shop": "bakery",
     "latitude": 47.3226821,
-    "longitude": 11.8639116
+    "longitude": 11.8639116,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rent and Go Sportshop",
     "retailer": "rent_und_go_sportshop",
     "shop": "sports",
     "latitude": 47.3258652,
-    "longitude": 11.8652428
+    "longitude": 11.8652428,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Rainer",
     "retailer": "sport_rainer",
     "shop": "sports",
     "latitude": 47.3272759,
-    "longitude": 11.8644264
+    "longitude": 11.8644264,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Steudltenn",
     "retailer": "steudltenn",
     "shop": "ticket",
     "latitude": 47.3248933,
-    "longitude": 11.8632227
+    "longitude": 11.8632227,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Toyota",
@@ -48,13 +62,19 @@
     "shop": "car",
     "latitude": 47.324769,
     "longitude": 11.8648975,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "6271",
+    "city": "Uderns",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik & Post",
     "retailer": "trafik_und_post",
     "shop": "kiosk",
     "latitude": 47.3246688,
-    "longitude": 11.8643048
+    "longitude": 11.8643048,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

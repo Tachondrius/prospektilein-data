@@ -4,14 +4,22 @@
     "retailer": "bindl",
     "shop": "bakery",
     "latitude": 48.6707924,
-    "longitude": 13.919732
+    "longitude": 13.919732,
+    "postcode": "4161",
+    "city": "Ulrichsberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Elektrohaus",
     "retailer": "elektrohaus",
     "shop": "electronics",
     "latitude": 48.6749253,
-    "longitude": 13.912565
+    "longitude": 13.912565,
+    "postcode": "4161",
+    "city": "Ulrichsberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -19,21 +27,31 @@
     "shop": "supermarket",
     "latitude": 48.6780192,
     "longitude": 13.9110445,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4161",
+    "city": "Ulrichsberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hair Style Andrea",
     "retailer": "hair_style_andrea",
     "shop": "hairdresser",
     "latitude": 48.6747719,
-    "longitude": 13.9119824
+    "longitude": 13.9119824,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.6746644,
-    "longitude": 13.9106225
+    "longitude": 13.9106225,
+    "postcode": "4161",
+    "city": "Ulrichsberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Krendel",
@@ -41,34 +59,54 @@
     "shop": "car",
     "latitude": 48.6752842,
     "longitude": 13.9101303,
-    "brand": "Renault, Dacia"
+    "brand": "Renault, Dacia",
+    "postcode": "4161",
+    "city": "Ulrichsberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Metzgerei Bitter",
     "retailer": "metzgerei_bitter",
     "shop": "butcher",
     "latitude": 48.6744837,
-    "longitude": 13.9108798
+    "longitude": 13.9108798,
+    "postcode": "4161",
+    "city": "Ulrichsberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Neuburger GmbH & Co. OG.",
     "retailer": "neuburger_gmbh_und_co_og",
     "shop": "butcher",
     "latitude": 48.6764276,
-    "longitude": 13.9165564
+    "longitude": 13.9165564,
+    "postcode": "4161",
+    "city": "Ulrichsberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schuhe Zimmerbauer",
     "retailer": "schuhe_zimmerbauer",
     "shop": "shoes",
     "latitude": 48.6746861,
-    "longitude": 13.9111914
+    "longitude": 13.9111914,
+    "postcode": "4161",
+    "city": "Ulrichsberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trendstore",
     "retailer": "trendstore",
     "shop": "clothes",
     "latitude": 48.6748371,
-    "longitude": 13.9116747
+    "longitude": 13.9116747,
+    "postcode": "4161",
+    "city": "Ulrichsberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

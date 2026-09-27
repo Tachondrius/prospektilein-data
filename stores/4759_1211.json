@@ -4,42 +4,54 @@
     "retailer": "brunner",
     "shop": "bakery",
     "latitude": 47.592585,
-    "longitude": 12.116928
+    "longitude": 12.116928,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Butcher",
     "retailer": "shop_butcher",
     "shop": "butcher",
     "latitude": 47.5941933,
-    "longitude": 12.1174168
+    "longitude": 12.1174168,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.5940273,
-    "longitude": 12.11946
+    "longitude": 12.11946,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Pfluger",
     "retailer": "metzgerei_pfluger",
     "shop": "butcher",
     "latitude": 47.5940562,
-    "longitude": 12.1187602
+    "longitude": 12.1187602,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "psp-technik.com",
     "retailer": "psp_technik_com",
     "shop": "convenience",
     "latitude": 47.5940471,
-    "longitude": 12.1191759
+    "longitude": 12.1191759,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Raiffeisen Lagerhaus",
     "retailer": "raiffeisen_lagerhaus",
     "shop": "doityourself",
     "latitude": 47.5948767,
-    "longitude": 12.1168102
+    "longitude": 12.1168102,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -47,6 +59,8 @@
     "shop": "supermarket",
     "latitude": 47.594313,
     "longitude": 12.1170062,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

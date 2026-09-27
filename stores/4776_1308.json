@@ -5,14 +5,20 @@
     "shop": "car",
     "latitude": 47.7698794,
     "longitude": 13.0813355,
-    "brand": "Alfa Romeo;Fiat"
+    "brand": "Alfa Romeo;Fiat",
+    "postcode": "5061",
+    "city": "Elsbethen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Konditorei Fürst",
     "retailer": "konditorei_furst",
     "shop": "chocolate",
     "latitude": 47.7612324,
-    "longitude": 13.0857427
+    "longitude": 13.0857427,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lagerhaus",
@@ -20,13 +26,21 @@
     "shop": "doityourself",
     "latitude": 47.7661891,
     "longitude": 13.089503,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "5061",
+    "city": "Elsbethen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "One Stop Shop",
     "retailer": "one_stop_shop",
     "shop": "convenience",
     "latitude": 47.7696193,
-    "longitude": 13.0853843
+    "longitude": 13.0853843,
+    "postcode": "5061",
+    "city": "Elsbethen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

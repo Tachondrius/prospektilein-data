@@ -5,7 +5,11 @@
     "shop": "variety_store",
     "latitude": 47.3773096,
     "longitude": 15.0890447,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Stockreiter",
@@ -13,14 +17,18 @@
     "shop": "car",
     "latitude": 47.3718372,
     "longitude": 15.0865401,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "BestDrive",
     "retailer": "bestdrive",
     "shop": "tyres",
     "latitude": 47.3718072,
-    "longitude": 15.0857365
+    "longitude": 15.0857365,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deichmann",
@@ -28,7 +36,9 @@
     "shop": "shoes",
     "latitude": 47.3718739,
     "longitude": 15.0886589,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -36,7 +46,11 @@
     "shop": "chemist",
     "latitude": 47.3726671,
     "longitude": 15.0873842,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ernsting's family",
@@ -44,14 +58,20 @@
     "shop": "clothes",
     "latitude": 47.372539,
     "longitude": 15.0875486,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Flatrate Carwash",
     "retailer": "flatrate_carwash",
     "shop": "ticket",
     "latitude": 47.3735827,
-    "longitude": 15.0873443
+    "longitude": 15.0873443,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Forstinger",
@@ -59,7 +79,11 @@
     "shop": "car_repair",
     "latitude": 47.3744148,
     "longitude": 15.0896784,
-    "brand": "Forstinger"
+    "brand": "Forstinger",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fressnapf",
@@ -67,28 +91,42 @@
     "shop": "pet",
     "latitude": 47.3720092,
     "longitude": 15.0885036,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haar- und Schönheitsmanufaktur",
     "retailer": "haar_und_schonheitsmanufaktur",
     "shop": "hairdresser",
     "latitude": 47.3746694,
-    "longitude": 15.0826641
+    "longitude": 15.0826641,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairskull by Hyll (Inh. Dominik Hyll)",
     "retailer": "hairskull_by_hyll_inh_dominik_hyll",
     "shop": "hairdresser",
     "latitude": 47.3716584,
-    "longitude": 15.0889867
+    "longitude": 15.0889867,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hansa-Flex Hydraulik",
     "retailer": "hansa_flex_hydraulik",
     "shop": "hardware",
     "latitude": 47.3738413,
-    "longitude": 15.0836733
+    "longitude": 15.0836733,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hervis",
@@ -96,7 +134,9 @@
     "shop": "sports",
     "latitude": 47.3788225,
     "longitude": 15.0890714,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -104,7 +144,11 @@
     "shop": "supermarket",
     "latitude": 47.3711008,
     "longitude": 15.0892789,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Interspar",
@@ -112,7 +156,11 @@
     "shop": "supermarket",
     "latitude": 47.3790708,
     "longitude": 15.0887201,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intersport",
@@ -120,7 +168,11 @@
     "shop": "sports",
     "latitude": 47.377405,
     "longitude": 15.089417,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "JYSK",
@@ -128,21 +180,29 @@
     "shop": "furniture",
     "latitude": 47.3739318,
     "longitude": 15.0881514,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kassa 2",
     "retailer": "kassa_2",
     "shop": "ticket",
     "latitude": 47.3764849,
-    "longitude": 15.0801146
+    "longitude": 15.0801146,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kassa 3",
     "retailer": "kassa_3",
     "shop": "ticket",
     "latitude": 47.3765048,
-    "longitude": 15.0801519
+    "longitude": 15.0801519,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
@@ -150,14 +210,22 @@
     "shop": "hairdresser",
     "latitude": 47.3786422,
     "longitude": 15.0885781,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kurvenwetzer",
     "retailer": "kurvenwetzer",
     "shop": "car_repair",
     "latitude": 47.3708361,
-    "longitude": 15.0897799
+    "longitude": 15.0897799,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Libro",
@@ -165,7 +233,9 @@
     "shop": "books",
     "latitude": 47.3724386,
     "longitude": 15.0886168,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -173,7 +243,11 @@
     "shop": "supermarket",
     "latitude": 47.3728996,
     "longitude": 15.0883186,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "New Yorker",
@@ -181,14 +255,20 @@
     "shop": "clothes",
     "latitude": 47.3727897,
     "longitude": 15.0872555,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.3786425,
-    "longitude": 15.0887443
+    "longitude": 15.0887443,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -196,14 +276,18 @@
     "shop": "clothes",
     "latitude": 47.3722987,
     "longitude": 15.0877906,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "OrthoAktiv",
     "retailer": "orthoaktiv",
     "shop": "medical_supply",
     "latitude": 47.3741446,
-    "longitude": 15.0887722
+    "longitude": 15.0887722,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pagro",
@@ -211,7 +295,9 @@
     "shop": "stationery",
     "latitude": 47.3724164,
     "longitude": 15.0876543,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -219,7 +305,11 @@
     "shop": "supermarket",
     "latitude": 47.3742625,
     "longitude": 15.0889073,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Puntinger",
@@ -227,7 +317,11 @@
     "shop": "car",
     "latitude": 47.3733058,
     "longitude": 15.0842897,
-    "brand": "Fiat"
+    "brand": "Fiat",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stockreiter",
@@ -235,7 +329,9 @@
     "shop": "car",
     "latitude": 47.3748898,
     "longitude": 15.0892899,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -243,6 +339,8 @@
     "shop": "variety_store",
     "latitude": 47.372132,
     "longitude": 15.0889757,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

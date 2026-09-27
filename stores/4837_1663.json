@@ -4,14 +4,22 @@
     "retailer": "friseur_creativ_coiffeur_doris",
     "shop": "hairdresser",
     "latitude": 48.3758076,
-    "longitude": 16.6302342
+    "longitude": 16.6302342,
+    "postcode": "2214",
+    "city": "Auersthal",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KastlGreissler Auersthal",
     "retailer": "kastlgreissler_auersthal",
     "shop": "convenience",
     "latitude": 48.3736315,
-    "longitude": 16.6371799
+    "longitude": 16.6371799,
+    "postcode": "2214",
+    "city": "Auersthal",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -19,6 +27,8 @@
     "shop": "supermarket",
     "latitude": 48.373953,
     "longitude": 16.6367128,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

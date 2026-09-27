@@ -4,7 +4,11 @@
     "retailer": "bauernladen_gerti_u_erwin_hafner",
     "shop": "convenience",
     "latitude": 47.0926328,
-    "longitude": 16.1231105
+    "longitude": 16.1231105,
+    "postcode": "7572",
+    "city": "Deutsch Kaltenbrunn",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.0937452,
     "longitude": 16.1230856,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7572",
+    "city": "Deutsch Kaltenbrunn",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

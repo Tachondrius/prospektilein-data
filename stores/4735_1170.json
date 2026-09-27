@@ -4,56 +4,80 @@
     "retailer": "autoland_schwaz",
     "shop": "car",
     "latitude": 47.3567992,
-    "longitude": 11.7062908
+    "longitude": 11.7062908,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "B & S Kraftfahrzeugtechnik GmbH",
     "retailer": "b_und_s_kraftfahrzeugtechnik_gmbh",
     "shop": "car_repair",
     "latitude": 47.3563919,
-    "longitude": 11.7019175
+    "longitude": 11.7019175,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Capital Car",
     "retailer": "capital_car",
     "shop": "car",
     "latitude": 47.3584604,
-    "longitude": 11.7052917
+    "longitude": 11.7052917,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "CTC Car Technik Center",
     "retailer": "ctc_car_technik_center",
     "shop": "car_repair",
     "latitude": 47.352175,
-    "longitude": 11.7000935
+    "longitude": 11.7000935,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ezeb Bäckercafé",
     "retailer": "ezeb_backercafe",
     "shop": "bakery",
     "latitude": 47.3521288,
-    "longitude": 11.706292
+    "longitude": 11.706292,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.3504258,
-    "longitude": 11.7066241
+    "longitude": 11.7066241,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Geiger Outlet",
     "retailer": "geiger_outlet",
     "shop": "clothes",
     "latitude": 47.3542835,
-    "longitude": 11.7046304
+    "longitude": 11.7046304,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Getränke Neururer GmbH",
     "retailer": "getranke_neururer_gmbh",
     "shop": "beverages",
     "latitude": 47.3567657,
-    "longitude": 11.7022205
+    "longitude": 11.7022205,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -61,28 +85,44 @@
     "shop": "supermarket",
     "latitude": 47.3502279,
     "longitude": 11.7001837,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ-Technik Uno",
     "retailer": "kfz_technik_uno",
     "shop": "car_repair",
     "latitude": 47.3578881,
-    "longitude": 11.7031291
+    "longitude": 11.7031291,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lack & Technik",
     "retailer": "lack_und_technik",
     "shop": "car_repair",
     "latitude": 47.3589148,
-    "longitude": 11.7059394
+    "longitude": 11.7059394,
+    "postcode": "6135",
+    "city": "Stans",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "LED Works Austria",
     "retailer": "led_works_austria",
     "shop": "lighting",
     "latitude": 47.3561239,
-    "longitude": 11.7007876
+    "longitude": 11.7007876,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Matratzen Concord",
@@ -90,62 +130,92 @@
     "shop": "bed",
     "latitude": 47.353028,
     "longitude": 11.7077776,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Planlicht",
     "retailer": "planlicht",
     "shop": "lighting",
     "latitude": 47.3563253,
-    "longitude": 11.7063402
+    "longitude": 11.7063402,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sportmarkenoutlet Schwaz",
     "retailer": "sportmarkenoutlet_schwaz",
     "shop": "sports",
     "latitude": 47.3528456,
-    "longitude": 11.7080722
+    "longitude": 11.7080722,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabaktrafik Ohnesorge",
     "retailer": "tabaktrafik_ohnesorge",
     "shop": "tobacco",
     "latitude": 47.3527618,
-    "longitude": 11.7098865
+    "longitude": 11.7098865,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "time for ink",
     "retailer": "time_for_ink",
     "shop": "tattoo",
     "latitude": 47.3564789,
-    "longitude": 11.7016719
+    "longitude": 11.7016719,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tirolack Berghofer",
     "retailer": "tirolack_berghofer",
     "shop": "paint",
     "latitude": 47.3534181,
-    "longitude": 11.7089769
+    "longitude": 11.7089769,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wacker Neuson",
     "retailer": "wacker_neuson",
     "shop": "tool_hire",
     "latitude": 47.3568009,
-    "longitude": 11.7048276
+    "longitude": 11.7048276,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Weltmeistersalon Kindle",
     "retailer": "weltmeistersalon_kindle",
     "shop": "hairdresser",
     "latitude": 47.3512035,
-    "longitude": 11.7077191
+    "longitude": 11.7077191,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wäscherei Clean Horse",
     "retailer": "wascherei_clean_horse",
     "shop": "laundry",
     "latitude": 47.3573865,
-    "longitude": 11.7076868
+    "longitude": 11.7076868,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

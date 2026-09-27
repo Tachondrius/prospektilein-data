@@ -4,20 +4,28 @@
     "retailer": "shop_general",
     "shop": "general",
     "latitude": 48.0881259,
-    "longitude": 16.0133712
+    "longitude": 16.0133712,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Leithner",
     "retailer": "leithner",
     "shop": "bakery",
     "latitude": 48.0878161,
-    "longitude": 16.014183
+    "longitude": 16.014183,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.0881248,
-    "longitude": 16.0141493
+    "longitude": 16.0141493,
+    "postcode": "2533",
+    "city": "Klausen-Leopoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

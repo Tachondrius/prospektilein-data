@@ -5,7 +5,9 @@
     "shop": "convenience",
     "latitude": 47.3448219,
     "longitude": 9.6568214,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "eni",
@@ -13,7 +15,9 @@
     "shop": "kiosk",
     "latitude": 47.3410402,
     "longitude": 9.6533942,
-    "brand": "eni"
+    "brand": "eni",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "eni Gutmann",
@@ -21,7 +25,11 @@
     "shop": "yes",
     "latitude": 47.3411252,
     "longitude": 9.6532852,
-    "brand": "eni"
+    "brand": "eni",
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lidl",
@@ -29,7 +37,11 @@
     "shop": "supermarket",
     "latitude": 47.3412785,
     "longitude": 9.6518213,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Pagro Diskont",
@@ -37,21 +49,27 @@
     "shop": "stationery",
     "latitude": 47.3405208,
     "longitude": 9.6520078,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Plaickner",
     "retailer": "plaickner",
     "shop": "hairdresser",
     "latitude": 47.3402582,
-    "longitude": 9.6518145
+    "longitude": 9.6518145,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Riedhof's Freilandeier",
     "retailer": "riedhof_s_freilandeier",
     "shop": "farm",
     "latitude": 47.3453308,
-    "longitude": 9.6591803
+    "longitude": 9.6591803,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tedi",
@@ -59,13 +77,19 @@
     "shop": "variety_store",
     "latitude": 47.3405849,
     "longitude": 9.6523824,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Zoowelt Stromberger",
     "retailer": "zoowelt_stromberger",
     "shop": "pet",
     "latitude": 47.345674,
-    "longitude": 9.6562152
+    "longitude": 9.6562152,
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

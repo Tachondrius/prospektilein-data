@@ -4,70 +4,94 @@
     "retailer": "berndl",
     "shop": "newsagent",
     "latitude": 47.3472809,
-    "longitude": 11.8488626
+    "longitude": 11.8488626,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bicycle",
     "retailer": "shop_bicycle",
     "shop": "bicycle",
     "latitude": 47.345262,
-    "longitude": 11.8481222
+    "longitude": 11.8481222,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumenecke",
     "retailer": "blumenecke",
     "shop": "florist",
     "latitude": 47.3452833,
-    "longitude": 11.8474435
+    "longitude": 11.8474435,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Brotbuben",
     "retailer": "brotbuben",
     "shop": "bakery",
     "latitude": 47.34736,
-    "longitude": 11.8491604
+    "longitude": 11.8491604,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Butcher",
     "retailer": "shop_butcher",
     "shop": "butcher",
     "latitude": 47.3476042,
-    "longitude": 11.8486489
+    "longitude": 11.8486489,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Chemist",
     "retailer": "shop_chemist",
     "shop": "chemist",
     "latitude": 47.3473122,
-    "longitude": 11.8495121
+    "longitude": 11.8495121,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dorfbäck",
     "retailer": "dorfback",
     "shop": "bakery",
     "latitude": 47.3452307,
-    "longitude": 11.8483216
+    "longitude": 11.8483216,
+    "postcode": "6263",
+    "city": "Fügen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elviro Fügen",
     "retailer": "elviro_fugen",
     "shop": "clothes",
     "latitude": 47.3468913,
-    "longitude": 11.849456
+    "longitude": 11.849456,
+    "postcode": "6263",
+    "city": "Fügen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fabulous",
     "retailer": "fabulous",
     "shop": "hairdresser",
     "latitude": 47.3474403,
-    "longitude": 11.8489293
+    "longitude": 11.8489293,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Lamprecht",
     "retailer": "friseur_lamprecht",
     "shop": "hairdresser",
     "latitude": 47.3463466,
-    "longitude": 11.8483806
+    "longitude": 11.8483806,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fussl",
@@ -75,55 +99,73 @@
     "shop": "clothes",
     "latitude": 47.3443833,
     "longitude": 11.8489733,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "6263",
+    "city": "Fügen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Münch",
     "retailer": "munch",
     "shop": "hairdresser",
     "latitude": 47.3481077,
-    "longitude": 11.8489027
+    "longitude": 11.8489027,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rosengarten",
     "retailer": "rosengarten",
     "shop": "florist",
     "latitude": 47.344494,
-    "longitude": 11.848866
+    "longitude": 11.848866,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rosengarten",
     "retailer": "rosengarten",
     "shop": "florist",
     "latitude": 47.347732,
-    "longitude": 11.8487764
+    "longitude": 11.8487764,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schischule und Schiverleih Kostenzer",
     "retailer": "schischule_und_schiverleih_kostenzer",
     "shop": "rental",
     "latitude": 47.3405367,
-    "longitude": 11.8443722
+    "longitude": 11.8443722,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schnipp. Schnapp.",
     "retailer": "schnipp_schnapp",
     "shop": "hairdresser",
     "latitude": 47.3419229,
-    "longitude": 11.8460531
+    "longitude": 11.8460531,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuhwerkstatt Oberdacher",
     "retailer": "schuhwerkstatt_oberdacher",
     "shop": "shoes;honey",
     "latitude": 47.3478338,
-    "longitude": 11.8485599
+    "longitude": 11.8485599,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zillertaler Speckstuben",
     "retailer": "zillertaler_speckstuben",
     "shop": "butcher",
     "latitude": 47.3498435,
-    "longitude": 11.8476952
+    "longitude": 11.8476952,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

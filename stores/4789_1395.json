@@ -4,21 +4,29 @@
     "retailer": "atelier_markus_moser",
     "shop": "art",
     "latitude": 47.8987807,
-    "longitude": 13.9527478
+    "longitude": 13.9527478,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa AG",
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 47.8979118,
-    "longitude": 13.9501009
+    "longitude": 13.9501009,
+    "postcode": "4644",
+    "city": "Scharnstein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Carolin Bartholme",
     "retailer": "carolin_bartholme",
     "shop": "laundry",
     "latitude": 47.8978408,
-    "longitude": 13.9526729
+    "longitude": 13.9526729,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -26,13 +34,21 @@
     "shop": "doityourself",
     "latitude": 47.8991006,
     "longitude": 13.9507248,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "4644",
+    "city": "Scharnstein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Treibgut Radwerkstatt",
     "retailer": "treibgut_radwerkstatt",
     "shop": "bicycle",
     "latitude": 47.8970301,
-    "longitude": 13.9512098
+    "longitude": 13.9512098,
+    "postcode": "4644",
+    "city": "Scharnstein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

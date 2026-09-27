@@ -5,49 +5,71 @@
     "shop": "bakery",
     "latitude": 47.2678964,
     "longitude": 11.2347616,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.2627206,
-    "longitude": 11.2338525
+    "longitude": 11.2338525,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Falkner Obst & Gemüse",
     "retailer": "falkner_obst_und_gemuse",
     "shop": "greengrocer",
     "latitude": 47.2658105,
-    "longitude": 11.2317462
+    "longitude": 11.2317462,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fisch Peer GmbH",
     "retailer": "fisch_peer_gmbh",
     "shop": "seafood",
     "latitude": 47.2690379,
-    "longitude": 11.2341828
+    "longitude": 11.2341828,
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fliesenstudio Alexander Abfalterer",
     "retailer": "fliesenstudio_alexander_abfalterer",
     "shop": "tiles",
     "latitude": 47.2684921,
-    "longitude": 11.2323299
+    "longitude": 11.2323299,
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Handy + EDV Store",
     "retailer": "handy_plus_edv_store",
     "shop": "electronics",
     "latitude": 47.2691715,
-    "longitude": 11.2385636
+    "longitude": 11.2385636,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kellner & Kunz AG",
     "retailer": "kellner_und_kunz_ag",
     "shop": "hardware",
     "latitude": 47.2695253,
-    "longitude": 11.2328576
+    "longitude": 11.2328576,
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -55,14 +77,20 @@
     "shop": "supermarket",
     "latitude": 47.2675494,
     "longitude": 11.234935,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "RÖFIX",
     "retailer": "rofix",
     "shop": "trade",
     "latitude": 47.2636305,
-    "longitude": 11.2344621
+    "longitude": 11.2344621,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -70,20 +98,28 @@
     "shop": "supermarket",
     "latitude": 47.2680617,
     "longitude": 11.2333054,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TechMo Zweiradservice",
     "retailer": "techmo_zweiradservice",
     "shop": "motorcycle_repair",
     "latitude": 47.2624144,
-    "longitude": 11.2328653
+    "longitude": 11.2328653,
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vollwärmeschutz DIRO",
     "retailer": "vollwarmeschutz_diro",
     "shop": "trade",
     "latitude": 47.2699337,
-    "longitude": 11.239858
+    "longitude": 11.239858,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

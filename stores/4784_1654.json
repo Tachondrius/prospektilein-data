@@ -5,7 +5,9 @@
     "shop": "electronics",
     "latitude": 47.8467022,
     "longitude": 16.5412152,
-    "brand": "Expert"
+    "brand": "Expert",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -13,6 +15,10 @@
     "shop": "supermarket",
     "latitude": 47.8465666,
     "longitude": 16.5424962,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

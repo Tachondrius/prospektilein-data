@@ -4,7 +4,11 @@
     "retailer": "baguette",
     "shop": "bakery",
     "latitude": 47.199344,
-    "longitude": 10.6601098
+    "longitude": 10.6601098,
+    "postcode": "6491",
+    "city": "Schönwies",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.1992729,
     "longitude": 10.6602431,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6491",
+    "city": "Schönwies",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

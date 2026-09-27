@@ -4,20 +4,30 @@
     "retailer": "automaten_greilerei",
     "shop": "convenience",
     "latitude": 48.0065829,
-    "longitude": 16.2191462
+    "longitude": 16.2191462,
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Backhaus Annamühle",
     "retailer": "backhaus_annamuhle",
     "shop": "bakery",
     "latitude": 48.0068399,
-    "longitude": 16.2172727
+    "longitude": 16.2172727,
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Steininger",
     "retailer": "trafik_steininger",
     "shop": "kiosk",
     "latitude": 48.0061704,
-    "longitude": 16.2198709
+    "longitude": 16.2198709,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

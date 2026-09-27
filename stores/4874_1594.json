@@ -4,20 +4,31 @@
     "retailer": "weingut_josef_und_barbara_seher",
     "shop": "wine",
     "latitude": 48.7479641,
-    "longitude": 15.9411232
+    "longitude": 15.9411232,
+    "postcode": "2070",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Ladentrog",
     "retailer": "weingut_ladentrog",
     "shop": "wine",
     "latitude": 48.7480509,
-    "longitude": 15.9445302
+    "longitude": 15.9445302,
+    "postcode": "2070",
+    "city": "Retz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Widhalm",
     "retailer": "weingut_widhalm",
     "shop": "wine",
     "latitude": 48.7468677,
-    "longitude": 15.9407205
+    "longitude": 15.9407205,
+    "postcode": "2070",
+    "city": "Retz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

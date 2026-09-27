@@ -4,27 +4,39 @@
     "retailer": "austria_imperial",
     "shop": "clothes",
     "latitude": 47.445154,
-    "longitude": 15.2845493
+    "longitude": 15.2845493,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bestattung Kapfenberg",
     "retailer": "bestattung_kapfenberg",
     "shop": "funeral_directors",
     "latitude": 47.446611,
-    "longitude": 15.2888507
+    "longitude": 15.2888507,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Coffee",
     "retailer": "shop_coffee",
     "shop": "coffee",
     "latitude": 47.4404442,
-    "longitude": 15.288696
+    "longitude": 15.288696,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.4411659,
-    "longitude": 15.2895876
+    "longitude": 15.2895876,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

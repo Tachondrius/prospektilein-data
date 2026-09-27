@@ -4,20 +4,30 @@
     "retailer": "lang_metalltechnik",
     "shop": "craft",
     "latitude": 46.9149588,
-    "longitude": 13.5302156
+    "longitude": 13.5302156,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NPG Bau",
     "retailer": "npg_bau",
     "shop": "craft",
     "latitude": 46.9151503,
-    "longitude": 13.5301818
+    "longitude": 13.5301818,
+    "postcode": "9853",
+    "city": "Gmünd in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Zimmerei Egger",
     "retailer": "zimmerei_egger",
     "shop": "craft",
     "latitude": 46.9140393,
-    "longitude": 13.5323752
+    "longitude": 13.5323752,
+    "postcode": "9853",
+    "city": "Gmünd in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -4,13 +4,19 @@
     "retailer": "admiral",
     "shop": "bookmaker",
     "latitude": 48.1903479,
-    "longitude": 15.4100659
+    "longitude": 15.4100659,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gastro",
     "retailer": "gastro",
     "shop": "kitchen",
     "latitude": 48.1979124,
-    "longitude": 15.4132983
+    "longitude": 15.4132983,
+    "postcode": "3382",
+    "city": "Loosdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

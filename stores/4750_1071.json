@@ -4,20 +4,30 @@
     "retailer": "alpenpalme",
     "shop": "art",
     "latitude": 47.5056937,
-    "longitude": 10.719856
+    "longitude": 10.719856,
+    "postcode": "6600",
+    "city": "Pflach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Car Parts",
     "retailer": "shop_car_parts",
     "shop": "car_parts",
     "latitude": 47.5030791,
-    "longitude": 10.7182603
+    "longitude": 10.7182603,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Installateur Bouvier",
     "retailer": "installateur_bouvier",
     "shop": "doityourself",
     "latitude": 47.508385,
-    "longitude": 10.7172326
+    "longitude": 10.7172326,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

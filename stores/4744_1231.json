@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 47.448751,
     "longitude": 12.3151248,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "6365",
+    "city": "Kirchberg in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Angermann",
     "retailer": "angermann",
     "shop": "shoes",
     "latitude": 47.4473591,
-    "longitude": 12.3148132
+    "longitude": 12.3148132,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -20,21 +26,29 @@
     "shop": "bakery",
     "latitude": 47.4475455,
     "longitude": 12.312822,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6365",
+    "city": "Kirchberg in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bauernladen Kirchberg",
     "retailer": "bauernladen_kirchberg",
     "shop": "farm",
     "latitude": 47.4485305,
-    "longitude": 12.3128985
+    "longitude": 12.3128985,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bike Klinik",
     "retailer": "bike_klinik",
     "shop": "bicycle",
     "latitude": 47.441049,
-    "longitude": 12.3188575
+    "longitude": 12.3188575,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -42,154 +56,200 @@
     "shop": "chemist",
     "latitude": 47.4473343,
     "longitude": 12.313982,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Linsinger (geschlossen)",
     "retailer": "backerei_linsinger_geschlossen",
     "shop": "general",
     "latitude": 47.4485549,
-    "longitude": 12.3117528
+    "longitude": 12.3117528,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Club Sports",
     "retailer": "club_sports",
     "shop": "sports",
     "latitude": 47.4485576,
-    "longitude": 12.3127425
+    "longitude": 12.3127425,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Engel & Völkers",
     "retailer": "engel_und_volkers",
     "shop": "estate_agent",
     "latitude": 47.4472174,
-    "longitude": 12.3155601
+    "longitude": 12.3155601,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "etz Mode Sport Schuh",
     "retailer": "etz_mode_sport_schuh",
     "shop": "sports",
     "latitude": 47.4475338,
-    "longitude": 12.3151624
+    "longitude": 12.3151624,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "euroImmobilien Oberlindorfer",
     "retailer": "euroimmobilien_oberlindorfer",
     "shop": "estate_agent",
     "latitude": 47.4478005,
-    "longitude": 12.3139666
+    "longitude": 12.3139666,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Frieseursalon Sabine",
     "retailer": "frieseursalon_sabine",
     "shop": "hairdresser",
     "latitude": 47.4461828,
-    "longitude": 12.3132064
+    "longitude": 12.3132064,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fräulein Veffi",
     "retailer": "fraulein_veffi",
     "shop": "jewelry",
     "latitude": 47.4478372,
-    "longitude": 12.3146547
+    "longitude": 12.3146547,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gerry Sports",
     "retailer": "gerry_sports",
     "shop": "bicycle",
     "latitude": 47.4413637,
-    "longitude": 12.3163407
+    "longitude": 12.3163407,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Geschenkehaus Kirchberg",
     "retailer": "geschenkehaus_kirchberg",
     "shop": "gift",
     "latitude": 47.4475911,
-    "longitude": 12.3148011
+    "longitude": 12.3148011,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Goldschmiede Ehrensberger",
     "retailer": "goldschmiede_ehrensberger",
     "shop": "jewelry",
     "latitude": 47.4477066,
-    "longitude": 12.3147367
+    "longitude": 12.3147367,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gschwantler  Boutique",
     "retailer": "gschwantler_boutique",
     "shop": "clothes",
     "latitude": 47.4466286,
-    "longitude": 12.3138024
+    "longitude": 12.3138024,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gschwantler Concept Store",
     "retailer": "gschwantler_concept_store",
     "shop": "clothes",
     "latitude": 47.4468042,
-    "longitude": 12.3138888
+    "longitude": 12.3138888,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gschwantler Shoe Boutique",
     "retailer": "gschwantler_shoe_boutique",
     "shop": "shoes",
     "latitude": 47.4466575,
-    "longitude": 12.3140502
+    "longitude": 12.3140502,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hairman",
     "retailer": "hairman",
     "shop": "hairdresser",
     "latitude": 47.4462399,
-    "longitude": 12.3126398
+    "longitude": 12.3126398,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hirzinger",
     "retailer": "hirzinger",
     "shop": "bakery",
     "latitude": 47.4479335,
-    "longitude": 12.3142538
+    "longitude": 12.3142538,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kaufhaus Möllinger",
     "retailer": "kaufhaus_mollinger",
     "shop": "clothes",
     "latitude": 47.4482501,
-    "longitude": 12.3135074
+    "longitude": 12.3135074,
+    "postcode": "6365",
+    "city": "Kirchberg in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kichgass Bäckerei",
     "retailer": "kichgass_backerei",
     "shop": "bakery",
     "latitude": 47.4464138,
-    "longitude": 12.3164841
+    "longitude": 12.3164841,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "La Bottega",
     "retailer": "la_bottega",
     "shop": "deli",
     "latitude": 47.4460959,
-    "longitude": 12.3131237
+    "longitude": 12.3131237,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Max",
     "retailer": "max",
     "shop": "hairdresser",
     "latitude": 47.4471253,
-    "longitude": 12.3176601
+    "longitude": 12.3176601,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mode Brigitte",
     "retailer": "mode_brigitte",
     "shop": "clothes",
     "latitude": 47.4478716,
-    "longitude": 12.3146644
+    "longitude": 12.3146644,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Monte e Mare Immobilien",
     "retailer": "monte_e_mare_immobilien",
     "shop": "estate_agent",
     "latitude": 47.4465129,
-    "longitude": 12.3138953
+    "longitude": 12.3138953,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -197,7 +257,11 @@
     "shop": "supermarket",
     "latitude": 47.447516,
     "longitude": 12.3127535,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6365",
+    "city": "Kirchberg in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -205,35 +269,47 @@
     "shop": "supermarket",
     "latitude": 47.4495833,
     "longitude": 12.3105296,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6365",
+    "city": "Kirchberg in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nature Adria",
     "retailer": "nature_adria",
     "shop": "gift",
     "latitude": 47.4474006,
-    "longitude": 12.3146088
+    "longitude": 12.3146088,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NeoVira",
     "retailer": "neovira",
     "shop": "yes",
     "latitude": 47.4449391,
-    "longitude": 12.313938
+    "longitude": 12.313938,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Neuwirtshof",
     "retailer": "neuwirtshof",
     "shop": "farm",
     "latitude": 47.4483983,
-    "longitude": 12.3141825
+    "longitude": 12.3141825,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.4478862,
-    "longitude": 12.3146565
+    "longitude": 12.3146565,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -241,83 +317,116 @@
     "shop": "clothes",
     "latitude": 47.448547,
     "longitude": 12.3149175,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "6365",
+    "city": "Kirchberg in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pendl",
     "retailer": "pendl",
     "shop": "tobacco",
     "latitude": 47.4473057,
-    "longitude": 12.3192001
+    "longitude": 12.3192001,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pircher Moden",
     "retailer": "pircher_moden",
     "shop": "clothes",
     "latitude": 47.4471147,
-    "longitude": 12.3140974
+    "longitude": 12.3140974,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pure Mountain Shop",
     "retailer": "pure_mountain_shop",
     "shop": "outdoor",
     "latitude": 47.4457983,
-    "longitude": 12.3126109
+    "longitude": 12.3126109,
+    "city": "Kirchberg in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pöll",
     "retailer": "poll",
     "shop": "florist",
     "latitude": 47.4469266,
-    "longitude": 12.3160027
+    "longitude": 12.3160027,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rodelverleih",
     "retailer": "rodelverleih",
     "shop": "sports",
     "latitude": 47.441383,
-    "longitude": 12.3163277
+    "longitude": 12.3163277,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rot-Kreuz-Kleiderladen",
     "retailer": "rot_kreuz_kleiderladen",
     "shop": "clothes",
     "latitude": 47.446695,
-    "longitude": 12.3118335
+    "longitude": 12.3118335,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Skiverleih Kirchberg L8",
     "retailer": "skiverleih_kirchberg_l8",
     "shop": "ski",
     "latitude": 47.4462712,
-    "longitude": 12.3132782
+    "longitude": 12.3132782,
+    "postcode": "6365",
+    "city": "Kirchberg in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sports Kirchberg",
     "retailer": "sports_kirchberg",
     "shop": "sports",
     "latitude": 47.4470364,
-    "longitude": 12.3139535
+    "longitude": 12.3139535,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Timepieces Tirol",
     "retailer": "timepieces_tirol",
     "shop": "watches",
     "latitude": 47.447343,
-    "longitude": 12.3132488
+    "longitude": 12.3132488,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Toni's Proshop",
     "retailer": "toni_s_proshop",
     "shop": "bicycle",
     "latitude": 47.4485118,
-    "longitude": 12.3121369
+    "longitude": 12.3121369,
+    "postcode": "6365",
+    "city": "Kirchberg in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Warehouse",
     "retailer": "warehouse",
     "shop": "clothes",
     "latitude": 47.4482462,
-    "longitude": 12.3125258
+    "longitude": 12.3125258,
+    "postcode": "6365",
+    "city": "Kirchberg in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

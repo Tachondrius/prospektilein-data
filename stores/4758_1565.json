@@ -5,7 +5,11 @@
     "shop": "sports",
     "latitude": 47.5856281,
     "longitude": 15.6577487,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -13,6 +17,9 @@
     "shop": "supermarket",
     "latitude": 47.5864148,
     "longitude": 15.6579488,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8680",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

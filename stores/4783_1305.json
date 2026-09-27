@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.8381243,
     "longitude": 13.057212,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5101",
+    "city": "Bergheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport",
@@ -13,7 +17,11 @@
     "shop": "sports",
     "latitude": 47.8385021,
     "longitude": 13.0566211,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "5101",
+    "city": "Bergheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "OBI",
@@ -21,20 +29,28 @@
     "shop": "doityourself",
     "latitude": 47.8394332,
     "longitude": 13.0583606,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "5101",
+    "city": "Salzburg-Lengenfelden",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Rösslhuber",
     "retailer": "rosslhuber",
     "shop": "bakery",
     "latitude": 47.8388441,
-    "longitude": 13.0562808
+    "longitude": 13.0562808,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sigron Handels- & SchulungsgmbH",
     "retailer": "sigron_handels_und_schulungsgmbh",
     "shop": "hardware",
     "latitude": 47.8366023,
-    "longitude": 13.0571504
+    "longitude": 13.0571504,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

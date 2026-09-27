@@ -4,28 +4,36 @@
     "retailer": "barberellas",
     "shop": "hairdresser",
     "latitude": 48.3672752,
-    "longitude": 14.0251988
+    "longitude": 14.0251988,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Leidinger Mühle",
     "retailer": "leidinger_muhle",
     "shop": "farm",
     "latitude": 48.3626026,
-    "longitude": 14.0286847
+    "longitude": 14.0286847,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Moser",
     "retailer": "moser",
     "shop": "bakery",
     "latitude": 48.3673451,
-    "longitude": 14.0252482
+    "longitude": 14.0252482,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Radshop Fritz",
     "retailer": "radshop_fritz",
     "shop": "bicycle",
     "latitude": 48.3683862,
-    "longitude": 14.0261168
+    "longitude": 14.0261168,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -33,6 +41,10 @@
     "shop": "supermarket",
     "latitude": 48.3640502,
     "longitude": 14.0231682,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4082",
+    "city": "Aschach an der Donau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

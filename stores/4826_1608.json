@@ -4,20 +4,28 @@
     "retailer": "abhof_hofinger",
     "shop": "farm",
     "latitude": 48.2677636,
-    "longitude": 16.0850515
+    "longitude": 16.0850515,
+    "postcode": "3004",
+    "city": "Ollern",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Geiger's Hofladen",
     "retailer": "geiger_s_hofladen",
     "shop": "farm",
     "latitude": 48.2659406,
-    "longitude": 16.0822882
+    "longitude": 16.0822882,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MeinKinderwagen",
     "retailer": "meinkinderwagen",
     "shop": "baby_goods",
     "latitude": 48.266864,
-    "longitude": 16.0826902
+    "longitude": 16.0826902,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

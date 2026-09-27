@@ -4,14 +4,22 @@
     "retailer": "backerei_kamesberger",
     "shop": "bakery",
     "latitude": 48.2633117,
-    "longitude": 13.9303245
+    "longitude": 13.9303245,
+    "postcode": "4076",
+    "city": "St. Marienkirchen an der Polsenz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Margit",
     "retailer": "salon_margit",
     "shop": "hairdresser",
     "latitude": 48.2637665,
-    "longitude": 13.9316199
+    "longitude": 13.9316199,
+    "postcode": "4076",
+    "city": "St. Marienkirchen an der Polsenz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -19,6 +27,8 @@
     "shop": "supermarket",
     "latitude": 48.2626242,
     "longitude": 13.9347274,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

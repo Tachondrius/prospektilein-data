@@ -4,28 +4,38 @@
     "retailer": "adeg",
     "shop": "supermarket",
     "latitude": 47.4608168,
-    "longitude": 13.2557309
+    "longitude": 13.2557309,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bauernladen",
     "retailer": "bauernladen",
     "shop": "farm",
     "latitude": 47.4628995,
-    "longitude": 13.2578245
+    "longitude": 13.2578245,
+    "postcode": "5453",
+    "city": "Werfenweng",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bikeverleih",
     "retailer": "bikeverleih",
     "shop": "bicycle",
     "latitude": 47.4632854,
-    "longitude": 13.2593368
+    "longitude": 13.2593368,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.4620415,
-    "longitude": 13.2564682
+    "longitude": 13.2564682,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Nah und Frisch Grünwald",
@@ -33,7 +43,10 @@
     "shop": "supermarket",
     "latitude": 47.4614211,
     "longitude": 13.2581767,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "5453",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000 Brandstätter",
@@ -41,20 +54,30 @@
     "shop": "sports",
     "latitude": 47.4619775,
     "longitude": 13.2566345,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Alpin Skiverleih Skischule",
     "retailer": "sport_alpin_skiverleih_skischule",
     "shop": "sports",
     "latitude": 47.4610719,
-    "longitude": 13.2559533
+    "longitude": 13.2559533,
+    "postcode": "5453",
+    "city": "Werfenweng",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sportshop Sport Alpin",
     "retailer": "sportshop_sport_alpin",
     "shop": "clothes",
     "latitude": 47.4632836,
-    "longitude": 13.2591984
+    "longitude": 13.2591984,
+    "postcode": "5453",
+    "city": "Werfenweng",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

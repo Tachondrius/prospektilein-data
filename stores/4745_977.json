@@ -4,20 +4,30 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.4565071,
-    "longitude": 9.7788868
+    "longitude": 9.7788868,
+    "postcode": "6858",
+    "city": "Bildstein",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hofladen Mühlehof",
     "retailer": "hofladen_muhlehof",
     "shop": "farm",
     "latitude": 47.4584747,
-    "longitude": 9.7726287
+    "longitude": 9.7726287,
+    "postcode": "6858",
+    "city": "Bildstein",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Oxa Lädele",
     "retailer": "oxa_ladele",
     "shop": "kiosk",
     "latitude": 47.4582692,
-    "longitude": 9.7738624
+    "longitude": 9.7738624,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

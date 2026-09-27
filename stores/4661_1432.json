@@ -5,7 +5,9 @@
     "shop": "telecommunication",
     "latitude": 46.6148929,
     "longitude": 14.3201557,
-    "brand": "A1"
+    "brand": "A1",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Action",
@@ -13,14 +15,20 @@
     "shop": "variety_store",
     "latitude": 46.6150863,
     "longitude": 14.3204588,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Adelheid",
     "retailer": "adelheid",
     "shop": "clothes",
     "latitude": 46.6183673,
-    "longitude": 14.3234932
+    "longitude": 14.3234932,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -28,7 +36,11 @@
     "shop": "supermarket",
     "latitude": 46.6143481,
     "longitude": 14.3200242,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -36,35 +48,51 @@
     "shop": "chemist",
     "latitude": 46.6143272,
     "longitude": 14.3201154,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen Margit",
     "retailer": "blumen_margit",
     "shop": "florist",
     "latitude": 46.6170277,
-    "longitude": 14.3200801
+    "longitude": 14.3200801,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Büro Handel GmbH - Fachmarkt Klagenfurt",
     "retailer": "buro_handel_gmbh_fachmarkt_klagenfurt",
     "shop": "stationery",
     "latitude": 46.6101769,
-    "longitude": 14.326604
+    "longitude": 14.326604,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Daily Fashion",
     "retailer": "daily_fashion",
     "shop": "clothes",
     "latitude": 46.6148873,
-    "longitude": 14.3203944
+    "longitude": 14.3203944,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Der Frisör",
     "retailer": "der_frisor",
     "shop": "hairdresser",
     "latitude": 46.6149481,
-    "longitude": 14.3205929
+    "longitude": 14.3205929,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "engbers",
@@ -72,7 +100,9 @@
     "shop": "clothes",
     "latitude": 46.6145889,
     "longitude": 14.3200162,
-    "brand": "engbers"
+    "brand": "engbers",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Humanic",
@@ -80,21 +110,27 @@
     "shop": "shoes",
     "latitude": 46.6150218,
     "longitude": 14.3201959,
-    "brand": "Humanic"
+    "brand": "Humanic",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Le Clou",
     "retailer": "le_clou",
     "shop": "jewelry",
     "latitude": 46.6146257,
-    "longitude": 14.3201315
+    "longitude": 14.3201315,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Linea’U",
     "retailer": "lineau",
     "shop": "clothes",
     "latitude": 46.6146902,
-    "longitude": 14.3200189
+    "longitude": 14.3200189,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Marionnaud",
@@ -102,7 +138,9 @@
     "shop": "perfumery",
     "latitude": 46.6150182,
     "longitude": 14.3200055,
-    "brand": "Marionnaud"
+    "brand": "Marionnaud",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "mister*lady",
@@ -110,7 +148,9 @@
     "shop": "clothes",
     "latitude": 46.614821,
     "longitude": 14.3204749,
-    "brand": "mister*lady"
+    "brand": "mister*lady",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Motodrom Sintschnig",
@@ -118,14 +158,21 @@
     "shop": "car",
     "latitude": 46.6126536,
     "longitude": 14.3228179,
-    "brand": "Kia;Nissan;MG"
+    "brand": "Kia;Nissan;MG",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Motodrom Sintschnig",
     "retailer": "motodrom_sintschnig",
     "shop": "car",
     "latitude": 46.6132428,
-    "longitude": 14.3235006
+    "longitude": 14.3235006,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Multicycle",
@@ -133,7 +180,11 @@
     "shop": "bicycle",
     "latitude": 46.6138986,
     "longitude": 14.3206008,
-    "brand": "CUBE"
+    "brand": "CUBE",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "New Yorker",
@@ -141,7 +192,9 @@
     "shop": "clothes",
     "latitude": 46.6147642,
     "longitude": 14.3209031,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "reformstark Martin",
@@ -149,28 +202,38 @@
     "shop": "health_food",
     "latitude": 46.6146663,
     "longitude": 14.3201932,
-    "brand": "reformstark Martin"
+    "brand": "reformstark Martin",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Rose Cupcakes",
     "retailer": "rose_cupcakes",
     "shop": "confectionery",
     "latitude": 46.6147381,
-    "longitude": 14.320094
+    "longitude": 14.320094,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sol y Luna",
     "retailer": "sol_y_luna",
     "shop": "clothes",
     "latitude": 46.6138537,
-    "longitude": 14.3204507
+    "longitude": 14.3204507,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sonepar Österreich",
     "retailer": "sonepar_osterreich",
     "shop": "electronics",
     "latitude": 46.6197713,
-    "longitude": 14.3210795
+    "longitude": 14.3210795,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sonnentor",
@@ -178,28 +241,38 @@
     "shop": "tea",
     "latitude": 46.6149703,
     "longitude": 14.3202656,
-    "brand": "Sonnentor"
+    "brand": "Sonnentor",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Springer Reisen",
     "retailer": "springer_reisen",
     "shop": "travel_agency",
     "latitude": 46.6146994,
-    "longitude": 14.3203059
+    "longitude": 14.3203059,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Strobl’s Backstube",
     "retailer": "strobls_backstube",
     "shop": "bakery",
     "latitude": 46.6147639,
-    "longitude": 14.3202066
+    "longitude": 14.3202066,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Südpark",
     "retailer": "sudpark",
     "shop": "mall",
     "latitude": 46.6145846,
-    "longitude": 14.3201773
+    "longitude": 14.3201773,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tally Weijl",
@@ -207,7 +280,9 @@
     "shop": "clothes",
     "latitude": 46.6148413,
     "longitude": 14.3200833,
-    "brand": "Tally Weijl"
+    "brand": "Tally Weijl",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tamaris",
@@ -215,7 +290,9 @@
     "shop": "shoes",
     "latitude": 46.6148358,
     "longitude": 14.3202683,
-    "brand": "Tamaris"
+    "brand": "Tamaris",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "TEDi",
@@ -223,13 +300,17 @@
     "shop": "variety_store",
     "latitude": 46.6149574,
     "longitude": 14.3200672,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trafik Hafner",
     "retailer": "trafik_hafner",
     "shop": "kiosk",
     "latitude": 46.6147584,
-    "longitude": 14.320389
+    "longitude": 14.320389,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

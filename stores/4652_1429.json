@@ -4,7 +4,11 @@
     "retailer": "bikeshop_veratschnig",
     "shop": "bicycle",
     "latitude": 46.5279527,
-    "longitude": 14.2917213
+    "longitude": 14.2917213,
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -12,14 +16,20 @@
     "shop": "supermarket",
     "latitude": 46.528965,
     "longitude": 14.2906109,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Ferlach",
     "retailer": "backerei_ferlach",
     "shop": "bakery",
     "latitude": 46.5280463,
-    "longitude": 14.2916184
+    "longitude": 14.2916184,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "dm",
@@ -27,7 +37,11 @@
     "shop": "chemist",
     "latitude": 46.5280707,
     "longitude": 14.2913631,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -35,7 +49,11 @@
     "shop": "supermarket",
     "latitude": 46.5288109,
     "longitude": 14.2924651,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -43,21 +61,33 @@
     "shop": "clothes",
     "latitude": 46.5282442,
     "longitude": 14.29062,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "REDICO",
     "retailer": "redico",
     "shop": "medical_supply",
     "latitude": 46.5270777,
-    "longitude": 14.2993099
+    "longitude": 14.2993099,
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "RedZac Wieser",
     "retailer": "redzac_wieser",
     "shop": "electronics",
     "latitude": 46.526874,
-    "longitude": 14.2989504
+    "longitude": 14.2989504,
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Renault Ogris",
@@ -65,14 +95,22 @@
     "shop": "car",
     "latitude": 46.528887,
     "longitude": 14.29128,
-    "brand": "Renault"
+    "brand": "Renault",
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Scheiring GmbH",
     "retailer": "scheiring_gmbh",
     "shop": "hunting",
     "latitude": 46.5278913,
-    "longitude": 14.2929612
+    "longitude": 14.2929612,
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar Express",
@@ -80,20 +118,30 @@
     "shop": "convenience",
     "latitude": 46.5279725,
     "longitude": 14.2920124,
-    "brand": "Spar Express"
+    "brand": "Spar Express",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobias Nawi",
     "retailer": "tobias_nawi",
     "shop": "massage",
     "latitude": 46.5263706,
-    "longitude": 14.2998247
+    "longitude": 14.2998247,
+    "postcode": "9170",
+    "city": "Klagenfurt-Land",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Valentin GmbH",
     "retailer": "valentin_gmbh",
     "shop": "paint",
     "latitude": 46.5280903,
-    "longitude": 14.2909063
+    "longitude": 14.2909063,
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

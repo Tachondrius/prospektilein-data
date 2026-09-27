@@ -5,14 +5,20 @@
     "shop": "bookmaker",
     "latitude": 48.2070998,
     "longitude": 16.1829453,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "postcode": "3002",
+    "city": "Purkersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.2058547,
-    "longitude": 16.1893402
+    "longitude": 16.1893402,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -20,6 +26,10 @@
     "shop": "supermarket",
     "latitude": 48.2071175,
     "longitude": 16.1846964,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "3002",
+    "city": "Purkersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

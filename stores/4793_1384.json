@@ -4,21 +4,29 @@
     "retailer": "doris_rossmann",
     "shop": "hairdresser",
     "latitude": 47.9349326,
-    "longitude": 13.8467446
+    "longitude": 13.8467446,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lichtland Rittenschober",
     "retailer": "lichtland_rittenschober",
     "shop": "lighting",
     "latitude": 47.9334739,
-    "longitude": 13.8426961
+    "longitude": 13.8426961,
+    "postcode": "4816",
+    "city": "Gschwandt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schima Sports",
     "retailer": "schima_sports",
     "shop": "sports",
     "latitude": 47.9387674,
-    "longitude": 13.8439752
+    "longitude": 13.8439752,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -26,6 +34,8 @@
     "shop": "supermarket",
     "latitude": 47.9335442,
     "longitude": 13.8449343,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

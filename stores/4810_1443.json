@@ -5,20 +5,30 @@
     "shop": "chemist",
     "latitude": 48.1003763,
     "longitude": 14.4396793,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Steiner",
     "retailer": "steiner",
     "shop": "bakery",
     "latitude": 48.1013084,
-    "longitude": 14.4387061
+    "longitude": 14.4387061,
+    "postcode": "4407",
+    "city": "Dietach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stögbauer",
     "retailer": "stogbauer",
     "shop": "farm",
     "latitude": 48.1006396,
-    "longitude": 14.4351809
+    "longitude": 14.4351809,
+    "postcode": "4407",
+    "city": "Dietach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,14 +4,18 @@
     "retailer": "bosch",
     "shop": "heating",
     "latitude": 48.2752176,
-    "longitude": 14.2605138
+    "longitude": 14.2605138,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gärtnerei Mahringer Muth",
     "retailer": "gartnerei_mahringer_muth",
     "shop": "florist",
     "latitude": 48.2750768,
-    "longitude": 14.2625955
+    "longitude": 14.2625955,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -19,62 +23,84 @@
     "shop": "supermarket",
     "latitude": 48.2713681,
     "longitude": 14.2677144,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Malerei Farbenfroh",
     "retailer": "malerei_farbenfroh",
     "shop": "paint",
     "latitude": 48.2739153,
-    "longitude": 14.2654256
+    "longitude": 14.2654256,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Massagefachinstitut longlife",
     "retailer": "massagefachinstitut_longlife",
     "shop": "massage",
     "latitude": 48.2739243,
-    "longitude": 14.2652142
+    "longitude": 14.2652142,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Neussl",
     "retailer": "neussl",
     "shop": "hardware",
     "latitude": 48.2708122,
-    "longitude": 14.2674303
+    "longitude": 14.2674303,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Parker Hydraulics",
     "retailer": "parker_hydraulics",
     "shop": "hardware",
     "latitude": 48.2703247,
-    "longitude": 14.2669457
+    "longitude": 14.2669457,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Prema",
     "retailer": "prema",
     "shop": "car_repair",
     "latitude": 48.2700781,
-    "longitude": 14.2673079
+    "longitude": 14.2673079,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Raasch",
     "retailer": "raasch",
     "shop": "hardware",
     "latitude": 48.273933,
-    "longitude": 14.2650364
+    "longitude": 14.2650364,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sefra",
     "retailer": "sefra",
     "shop": "doityourself",
     "latitude": 48.2716799,
-    "longitude": 14.2686326
+    "longitude": 14.2686326,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Witzan",
     "retailer": "witzan",
     "shop": "hardware",
     "latitude": 48.2708245,
-    "longitude": 14.2677617
+    "longitude": 14.2677617,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,13 +5,21 @@
     "shop": "truck_repair",
     "latitude": 47.858362,
     "longitude": 16.2005545,
-    "brand": "IVECO"
+    "brand": "IVECO",
+    "postcode": "2752",
+    "city": "Wöllersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Powerfoods",
     "retailer": "powerfoods",
     "shop": "wholesale",
     "latitude": 47.8576236,
-    "longitude": 16.2000654
+    "longitude": 16.2000654,
+    "postcode": "2752",
+    "city": "Wöllersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

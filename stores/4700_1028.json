@@ -5,69 +5,91 @@
     "shop": "clothes",
     "latitude": 47.0094146,
     "longitude": 10.2890011,
-    "brand": "Adler"
+    "brand": "Adler",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Chez Adri",
     "retailer": "chez_adri",
     "shop": "clothes",
     "latitude": 47.0099536,
-    "longitude": 10.2896382
+    "longitude": 10.2896382,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "haar.mike",
     "retailer": "haar_mike",
     "shop": "hairdresser",
     "latitude": 47.0084922,
-    "longitude": 10.2859364
+    "longitude": 10.2859364,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hangl",
     "retailer": "hangl",
     "shop": "jewelry",
     "latitude": 47.0086994,
-    "longitude": 10.2866134
+    "longitude": 10.2866134,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hangl's Sport & Mode",
     "retailer": "hangl_s_sport_und_mode",
     "shop": "clothes",
     "latitude": 47.0090464,
-    "longitude": 10.287683
+    "longitude": 10.287683,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "IschglRent",
     "retailer": "ischglrent",
     "shop": "sports",
     "latitude": 47.0080841,
-    "longitude": 10.2848718
+    "longitude": 10.2848718,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kurz",
     "retailer": "kurz",
     "shop": "bakery",
     "latitude": 47.0098592,
-    "longitude": 10.2895479
+    "longitude": 10.2895479,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Silvretta Arena",
     "retailer": "silvretta_arena",
     "shop": "ticket",
     "latitude": 47.0097538,
-    "longitude": 10.2881895
+    "longitude": 10.2881895,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Silvretta Sports - Shop Silvretta",
     "retailer": "silvretta_sports_shop_silvretta",
     "shop": "sports",
     "latitude": 47.0099403,
-    "longitude": 10.2882529
+    "longitude": 10.2882529,
+    "postcode": "6561",
+    "city": "Ischgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Speckstube",
     "retailer": "speckstube",
     "shop": "butcher",
     "latitude": 47.0098899,
-    "longitude": 10.2895844
+    "longitude": 10.2895844,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

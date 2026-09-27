@@ -4,7 +4,11 @@
     "retailer": "gangl_kfz_service",
     "shop": "car_repair",
     "latitude": 46.8525677,
-    "longitude": 13.8966269
+    "longitude": 13.8966269,
+    "postcode": "9565",
+    "city": "Ebene Reichenau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 46.8552178,
     "longitude": 13.8924064,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9565",
+    "city": "Ebene Reichenau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

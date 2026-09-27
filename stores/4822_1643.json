@@ -4,7 +4,9 @@
     "retailer": "backerei_strock",
     "shop": "bakery",
     "latitude": 48.2282116,
-    "longitude": 16.4398586
+    "longitude": 16.4398586,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ströck",
@@ -12,7 +14,11 @@
     "shop": "bakery",
     "latitude": 48.2291082,
     "longitude": 16.4310775,
-    "brand": "Ströck"
+    "brand": "Ströck",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabaktrafik",
@@ -20,6 +26,10 @@
     "shop": "tobacco",
     "latitude": 48.2291429,
     "longitude": 16.4314676,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

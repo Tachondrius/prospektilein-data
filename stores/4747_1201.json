@@ -4,27 +4,39 @@
     "retailer": "brau_union_osterreich",
     "shop": "beverages",
     "latitude": 47.4730775,
-    "longitude": 12.0136632
+    "longitude": 12.0136632,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "E-BikeShop.Tirol",
     "retailer": "e_bikeshop_tirol",
     "shop": "bicycle",
     "latitude": 47.4734561,
-    "longitude": 12.0145529
+    "longitude": 12.0145529,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Embacher",
     "retailer": "embacher",
     "shop": "car_repair",
     "latitude": 47.4723906,
-    "longitude": 12.0114631
+    "longitude": 12.0114631,
+    "postcode": "6250",
+    "city": "Kundl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Truck Center Kundl",
     "retailer": "truck_center_kundl",
     "shop": "car_repair",
     "latitude": 47.4754309,
-    "longitude": 12.0191901
+    "longitude": 12.0191901,
+    "postcode": "6250",
+    "city": "Kundl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

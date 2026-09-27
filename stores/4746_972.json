@@ -4,14 +4,22 @@
     "retailer": "adeg",
     "shop": "supermarket",
     "latitude": 47.4687302,
-    "longitude": 9.7289979
+    "longitude": 9.7289979,
+    "postcode": "6923",
+    "city": "Lauterach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "BayWa",
     "retailer": "baywa",
     "shop": "doityourself",
     "latitude": 47.4639063,
-    "longitude": 9.7267602
+    "longitude": 9.7267602,
+    "postcode": "6923",
+    "city": "Lauterach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bipa",
@@ -19,20 +27,32 @@
     "shop": "chemist",
     "latitude": 47.468465,
     "longitude": 9.7289477,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6923",
+    "city": "Lauterach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kopfsache",
     "retailer": "kopfsache",
     "shop": "hairdresser",
     "latitude": 47.4698261,
-    "longitude": 9.7289172
+    "longitude": 9.7289172,
+    "postcode": "6923",
+    "city": "Lauterach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schnell",
     "retailer": "schnell",
     "shop": "bakery",
     "latitude": 47.4637221,
-    "longitude": 9.7267155
+    "longitude": 9.7267155,
+    "postcode": "6923",
+    "city": "Lauterach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

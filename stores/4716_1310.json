@@ -5,48 +5,66 @@
     "shop": "chemist",
     "latitude": 47.1695391,
     "longitude": 13.1083618,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gabriella",
     "retailer": "gabriella",
     "shop": "clothes",
     "latitude": 47.1697249,
-    "longitude": 13.1080466
+    "longitude": 13.1080466,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hutegger",
     "retailer": "hutegger",
     "shop": "butcher",
     "latitude": 47.1697258,
-    "longitude": 13.1087896
+    "longitude": 13.1087896,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mein Kaufladen",
     "retailer": "mein_kaufladen",
     "shop": "cosmetics",
     "latitude": 47.1698203,
-    "longitude": 13.1078276
+    "longitude": 13.1078276,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Rental",
     "retailer": "shop_rental",
     "shop": "rental",
     "latitude": 47.1683078,
-    "longitude": 13.1083226
+    "longitude": 13.1083226,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schuh Schnöll",
     "retailer": "schuh_schnoll",
     "shop": "shoes",
     "latitude": 47.1698448,
-    "longitude": 13.1077798
+    "longitude": 13.1077798,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sendlhofer Küchenstudio & Wohnstudio",
     "retailer": "sendlhofer_kuchenstudio_und_wohnstudio",
     "shop": "furniture",
     "latitude": 47.1645677,
-    "longitude": 13.1094024
+    "longitude": 13.1094024,
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

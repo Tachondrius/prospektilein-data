@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.9886116,
     "longitude": 13.6947021,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "ATOS Omnibus Schiemer GmbH",
@@ -13,7 +17,11 @@
     "shop": "car",
     "latitude": 47.98851,
     "longitude": 13.6946849,
-    "brand": "MAN;Mercedes-Benz;Iveco;Volkswagen"
+    "brand": "MAN;Mercedes-Benz;Iveco;Volkswagen",
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Auto Esthofer Team",
@@ -21,7 +29,11 @@
     "shop": "car",
     "latitude": 47.9872346,
     "longitude": 13.6942338,
-    "brand": "VW;Skoda;Seat"
+    "brand": "VW;Skoda;Seat",
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -29,28 +41,44 @@
     "shop": "supermarket",
     "latitude": 47.9879746,
     "longitude": 13.692836,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen Bogeschdorfer",
     "retailer": "blumen_bogeschdorfer",
     "shop": "florist",
     "latitude": 47.9875324,
-    "longitude": 13.6924499
+    "longitude": 13.6924499,
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Elektro Dorner",
     "retailer": "elektro_dorner",
     "shop": "electronics",
     "latitude": 47.9898856,
-    "longitude": 13.6903102
+    "longitude": 13.6903102,
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
     "retailer": "hofer",
     "shop": "supermarket",
     "latitude": 47.9816388,
-    "longitude": 13.6988056
+    "longitude": 13.6988056,
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pappas",
@@ -58,6 +86,10 @@
     "shop": "car",
     "latitude": 47.9834435,
     "longitude": 13.6993423,
-    "brand": "Mercedes Benz;Chrysler;Jeep"
+    "brand": "Mercedes Benz;Chrysler;Jeep",
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

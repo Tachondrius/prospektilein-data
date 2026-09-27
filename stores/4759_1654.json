@@ -5,27 +5,39 @@
     "shop": "doityourself",
     "latitude": 47.5903444,
     "longitude": 16.5457552,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "7312",
+    "city": "Horitschon",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Rotwein Lang",
     "retailer": "rotwein_lang",
     "shop": "alcohol",
     "latitude": 47.5978027,
-    "longitude": 16.5489965
+    "longitude": 16.5489965,
+    "postcode": "7311",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Vinothek",
     "retailer": "vinothek",
     "shop": "wine",
     "latitude": 47.5969586,
-    "longitude": 16.5493342
+    "longitude": 16.5493342,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weingut Wellanschitz",
     "retailer": "weingut_wellanschitz",
     "shop": "alcohol",
     "latitude": 47.5980438,
-    "longitude": 16.5471086
+    "longitude": 16.5471086,
+    "postcode": "7311",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

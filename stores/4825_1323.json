@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 48.2564417,
     "longitude": 13.2388782,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -13,63 +15,91 @@
     "shop": "supermarket",
     "latitude": 48.2505821,
     "longitude": 13.2351333,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4950",
+    "city": "Altheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blütenzauber",
     "retailer": "blutenzauber",
     "shop": "florist",
     "latitude": 48.2510988,
-    "longitude": 13.2362059
+    "longitude": 13.2362059,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Weinhäupl",
     "retailer": "backerei_weinhaupl",
     "shop": "bakery",
     "latitude": 48.2503199,
-    "longitude": 13.2323724
+    "longitude": 13.2323724,
+    "postcode": "4950",
+    "city": "Altheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Chemist",
     "retailer": "shop_chemist",
     "shop": "chemist",
     "latitude": 48.2504327,
-    "longitude": 13.2329756
+    "longitude": 13.2329756,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Danielas Haarwelt",
     "retailer": "danielas_haarwelt",
     "shop": "hairdresser",
     "latitude": 48.2500616,
-    "longitude": 13.2319318
+    "longitude": 13.2319318,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fleischhauerei Lettner",
     "retailer": "fleischhauerei_lettner",
     "shop": "butcher",
     "latitude": 48.2507188,
-    "longitude": 13.2324077
+    "longitude": 13.2324077,
+    "postcode": "4950",
+    "city": "Altheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gärtnerei Schmollgruber",
     "retailer": "gartnerei_schmollgruber",
     "shop": "florist",
     "latitude": 48.2501103,
-    "longitude": 13.2325722
+    "longitude": 13.2325722,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hardware",
     "retailer": "shop_hardware",
     "shop": "hardware",
     "latitude": 48.2504109,
-    "longitude": 13.2331345
+    "longitude": 13.2331345,
+    "postcode": "4950",
+    "city": "Altheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kosmetikstudio Innstyle",
     "retailer": "kosmetikstudio_innstyle",
     "shop": "beauty",
     "latitude": 48.2510965,
-    "longitude": 13.2335343
+    "longitude": 13.2335343,
+    "postcode": "4950",
+    "city": "Altheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -77,7 +107,9 @@
     "shop": "clothes",
     "latitude": 48.2500464,
     "longitude": 13.2340457,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny",
@@ -85,48 +117,66 @@
     "shop": "supermarket",
     "latitude": 48.2504762,
     "longitude": 13.2365876,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "4950",
+    "city": "Altheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reitsperger",
     "retailer": "reitsperger",
     "shop": "optician",
     "latitude": 48.250079,
-    "longitude": 13.2325065
+    "longitude": 13.2325065,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schneidewerk",
     "retailer": "schneidewerk",
     "shop": "hairdresser",
     "latitude": 48.2501022,
-    "longitude": 13.2320037
+    "longitude": 13.2320037,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Speck o' thek",
     "retailer": "speck_o_thek",
     "shop": "deli",
     "latitude": 48.2505042,
-    "longitude": 13.2329146
+    "longitude": 13.2329146,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TrendyDress",
     "retailer": "trendydress",
     "shop": "general",
     "latitude": 48.25026,
-    "longitude": 13.2322337
+    "longitude": 13.2322337,
+    "postcode": "4950",
+    "city": "Altheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Uhren Schmuck Katzlberger",
     "retailer": "uhren_schmuck_katzlberger",
     "shop": "jewelry",
     "latitude": 48.2502286,
-    "longitude": 13.2328016
+    "longitude": 13.2328016,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zagler Brot",
     "retailer": "zagler_brot",
     "shop": "bakery",
     "latitude": 48.2501344,
-    "longitude": 13.2320639
+    "longitude": 13.2320639,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

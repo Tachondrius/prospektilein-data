@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.4341765,
     "longitude": 12.2058748,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6363",
+    "city": "Westendorf",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Landmaschinen Stöckl",
     "retailer": "landmaschinen_stockl",
     "shop": "tractor",
     "latitude": 47.4326541,
-    "longitude": 12.2031501
+    "longitude": 12.2031501,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

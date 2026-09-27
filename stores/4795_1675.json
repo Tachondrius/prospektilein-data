@@ -5,28 +5,44 @@
     "shop": "supermarket",
     "latitude": 47.9506387,
     "longitude": 16.7500422,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7092",
+    "city": "Winden am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bärenhof Hoffmann",
     "retailer": "barenhof_hoffmann",
     "shop": "farm",
     "latitude": 47.9519351,
-    "longitude": 16.7523346
+    "longitude": 16.7523346,
+    "postcode": "7092",
+    "city": "Winden am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Haarstudio Sabine",
     "retailer": "haarstudio_sabine",
     "shop": "hairdresser",
     "latitude": 47.9531291,
-    "longitude": 16.7543854
+    "longitude": 16.7543854,
+    "postcode": "7092",
+    "city": "Winden am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "K&W KFZ TECHNIK OG",
     "retailer": "k_und_w_kfz_technik_og",
     "shop": "car_repair",
     "latitude": 47.9541855,
-    "longitude": 16.7563536
+    "longitude": 16.7563536,
+    "postcode": "7092",
+    "city": "Winden am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lagerhaus",
@@ -34,6 +50,8 @@
     "shop": "doityourself",
     "latitude": 47.9501616,
     "longitude": 16.7517264,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -4,21 +4,29 @@
     "retailer": "isa_kocht",
     "shop": "supermarket",
     "latitude": 48.026474,
-    "longitude": 14.0754253
+    "longitude": 14.0754253,
+    "postcode": "4551",
+    "city": "Ried im Traunkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klotz",
     "retailer": "klotz",
     "shop": "kiosk",
     "latitude": 48.0256782,
-    "longitude": 14.0750768
+    "longitude": 14.0750768,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schmidler",
     "retailer": "schmidler",
     "shop": "bakery",
     "latitude": 48.0254986,
-    "longitude": 14.074243
+    "longitude": 14.074243,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -26,6 +34,10 @@
     "shop": "supermarket",
     "latitude": 48.0281583,
     "longitude": 14.0784966,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4551",
+    "city": "Ried im Traunkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

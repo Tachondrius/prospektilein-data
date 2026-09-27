@@ -4,7 +4,9 @@
     "retailer": "blick_fang",
     "shop": "hairdresser",
     "latitude": 47.843478,
-    "longitude": 13.0444847
+    "longitude": 13.0444847,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Eurogast Salzburg",
@@ -12,56 +14,76 @@
     "shop": "wholesale",
     "latitude": 47.8423126,
     "longitude": 13.0453614,
-    "brand": "Eurogast"
+    "brand": "Eurogast",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Florissa",
     "retailer": "florissa",
     "shop": "garden_centre",
     "latitude": 47.8407883,
-    "longitude": 13.0425756
+    "longitude": 13.0425756,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gabriele",
     "retailer": "gabriele",
     "shop": "hairdresser",
     "latitude": 47.8431665,
-    "longitude": 13.0445136
+    "longitude": 13.0445136,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KFZ Eder",
     "retailer": "kfz_eder",
     "shop": "car_repair",
     "latitude": 47.8436202,
-    "longitude": 13.0429579
+    "longitude": 13.0429579,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Raiffeisen Lagerhaus Bergheim",
     "retailer": "raiffeisen_lagerhaus_bergheim",
     "shop": "department_store",
     "latitude": 47.8423431,
-    "longitude": 13.0419744
+    "longitude": 13.0419744,
+    "postcode": "5101",
+    "city": "Bergheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Roco Modelleisenbahn GmbH",
     "retailer": "roco_modelleisenbahn_gmbh",
     "shop": "toys",
     "latitude": 47.8409098,
-    "longitude": 13.0446313
+    "longitude": 13.0446313,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Salko",
     "retailer": "salko",
     "shop": "clothes",
     "latitude": 47.8413328,
-    "longitude": 13.0445285
+    "longitude": 13.0445285,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schall und Rauch",
     "retailer": "schall_und_rauch",
     "shop": "cannabis",
     "latitude": 47.8423992,
-    "longitude": 13.0445029
+    "longitude": 13.0445029,
+    "postcode": "5101",
+    "city": "Bergheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -69,14 +91,20 @@
     "shop": "supermarket",
     "latitude": 47.8433251,
     "longitude": 13.0412358,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5101",
+    "city": "Bergheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spedition Schneckenreither",
     "retailer": "spedition_schneckenreither",
     "shop": "department_store",
     "latitude": 47.8413165,
-    "longitude": 13.041551
+    "longitude": 13.041551,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Zillertaler Trachtenwelt",
@@ -84,6 +112,9 @@
     "shop": "clothes",
     "latitude": 47.8424448,
     "longitude": 13.0418705,
-    "brand": "Zillertaler Trachtenwelt"
+    "brand": "Zillertaler Trachtenwelt",
+    "postcode": "5101",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

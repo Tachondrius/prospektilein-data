@@ -4,7 +4,11 @@
     "retailer": "auto_greitner",
     "shop": "car",
     "latitude": 47.3906029,
-    "longitude": 15.1445572
+    "longitude": 15.1445572,
+    "postcode": "8712",
+    "city": "Niklasdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Möbelix",
@@ -12,13 +16,19 @@
     "shop": "furniture",
     "latitude": 47.3915435,
     "longitude": 15.1429363,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rudi's Kfz-Technik",
     "retailer": "rudi_s_kfz_technik",
     "shop": "car_repair",
     "latitude": 47.3902439,
-    "longitude": 15.1446143
+    "longitude": 15.1446143,
+    "postcode": "8712",
+    "city": "Niklasdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

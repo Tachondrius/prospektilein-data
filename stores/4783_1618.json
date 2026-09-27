@@ -4,14 +4,22 @@
     "retailer": "diskont_depot_wr_neustadt",
     "shop": "storage_rental",
     "latitude": 47.8354783,
-    "longitude": 16.1866029
+    "longitude": 16.1866029,
+    "postcode": "2721",
+    "city": "Bad Fischau-Brunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "esseca",
     "retailer": "esseca",
     "shop": "security",
     "latitude": 47.83438,
-    "longitude": 16.185366
+    "longitude": 16.185366,
+    "postcode": "2721",
+    "city": "Bad Fischau-Brunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hornbach",
@@ -19,21 +27,31 @@
     "shop": "doityourself",
     "latitude": 47.8323092,
     "longitude": 16.1844773,
-    "brand": "Hornbach"
+    "brand": "Hornbach",
+    "postcode": "2721",
+    "city": "Bad Fischau-Brunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kfz Herndlhofer",
     "retailer": "kfz_herndlhofer",
     "shop": "car",
     "latitude": 47.839378,
-    "longitude": 16.1864383
+    "longitude": 16.1864383,
+    "postcode": "2721",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Matik Truck & Trailer Parts",
     "retailer": "matik_truck_und_trailer_parts",
     "shop": "truck_parts",
     "latitude": 47.8343332,
-    "longitude": 16.1876687
+    "longitude": 16.1876687,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Scania",
@@ -41,6 +59,8 @@
     "shop": "truck",
     "latitude": 47.8351477,
     "longitude": 16.1853182,
-    "brand": "Scania"
+    "brand": "Scania",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

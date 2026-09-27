@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 48.1879445,
     "longitude": 16.3933232,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa Plus",
@@ -13,7 +15,11 @@
     "shop": "supermarket",
     "latitude": 48.1886375,
     "longitude": 16.3987993,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -21,14 +27,20 @@
     "shop": "chemist",
     "latitude": 48.1885393,
     "longitude": 16.3918935,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "ChipsAway",
     "retailer": "chipsaway",
     "shop": "car_repair",
     "latitude": 48.1803091,
-    "longitude": 16.3951959
+    "longitude": 16.3951959,
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "dm",
@@ -36,21 +48,29 @@
     "shop": "chemist",
     "latitude": 48.1890909,
     "longitude": 16.3985077,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ja Asia Markt",
     "retailer": "ja_asia_markt",
     "shop": "convenience",
     "latitude": 48.1893035,
-    "longitude": 16.3970762
+    "longitude": 16.3970762,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mosa Barber",
     "retailer": "mosa_barber",
     "shop": "hairdresser",
     "latitude": 48.1895294,
-    "longitude": 16.3986427
+    "longitude": 16.3986427,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Möbelix",
@@ -58,7 +78,11 @@
     "shop": "furniture",
     "latitude": 48.1860427,
     "longitude": 16.3949114,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mömax",
@@ -66,14 +90,18 @@
     "shop": "furniture",
     "latitude": 48.1856924,
     "longitude": 16.3942505,
-    "brand": "Mömax"
+    "brand": "Mömax",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "RW Showrooms",
     "retailer": "rw_showrooms",
     "shop": "furniture",
     "latitude": 48.1890275,
-    "longitude": 16.3981781
+    "longitude": 16.3981781,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabaktrafik",
@@ -81,14 +109,22 @@
     "shop": "tobacco",
     "latitude": 48.1890957,
     "longitude": 16.3980511,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trienna Shopping",
     "retailer": "trienna_shopping",
     "shop": "mall",
     "latitude": 48.1888269,
-    "longitude": 16.3984151
+    "longitude": 16.3984151,
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "XXXLutz",
@@ -96,6 +132,10 @@
     "shop": "furniture",
     "latitude": 48.1858951,
     "longitude": 16.394657,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

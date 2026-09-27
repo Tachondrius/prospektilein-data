@@ -4,14 +4,22 @@
     "retailer": "auto_egle",
     "shop": "car",
     "latitude": 47.3380324,
-    "longitude": 9.6503056
+    "longitude": 9.6503056,
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "bliss",
     "retailer": "bliss",
     "shop": "interior_decoration",
     "latitude": 47.336929,
-    "longitude": 9.6505666
+    "longitude": 9.6505666,
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Deichmann",
@@ -19,7 +27,9 @@
     "shop": "shoes",
     "latitude": 47.339789,
     "longitude": 9.6528418,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "dm",
@@ -27,21 +37,31 @@
     "shop": "chemist",
     "latitude": 47.3398872,
     "longitude": 9.6529144,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Dognate Hundemode",
     "retailer": "dognate_hundemode",
     "shop": "pet",
     "latitude": 47.3397369,
-    "longitude": 9.6535261
+    "longitude": 9.6535261,
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ellensohn Fotografie",
     "retailer": "ellensohn_fotografie",
     "shop": "photo",
     "latitude": 47.3384676,
-    "longitude": 9.6515266
+    "longitude": 9.6515266,
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hofer",
@@ -49,14 +69,18 @@
     "shop": "supermarket",
     "latitude": 47.3393987,
     "longitude": 9.6522007,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Karakaya KG",
     "retailer": "karakaya_kg",
     "shop": "deli",
     "latitude": 47.3372201,
-    "longitude": 9.6504246
+    "longitude": 9.6504246,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "KiK",
@@ -64,41 +88,55 @@
     "shop": "clothes",
     "latitude": 47.3396833,
     "longitude": 9.6527636,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kiosk im Schwimmbad Riebe",
     "retailer": "kiosk_im_schwimmbad_riebe",
     "shop": "kiosk",
     "latitude": 47.3326081,
-    "longitude": 9.6531376
+    "longitude": 9.6531376,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Merkur (BP)",
     "retailer": "merkur_bp",
     "shop": "convenience",
     "latitude": 47.3396869,
-    "longitude": 9.6515942
+    "longitude": 9.6515942,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Natureck",
     "retailer": "natureck",
     "shop": "greengrocer",
     "latitude": 47.339153,
-    "longitude": 9.6514258
+    "longitude": 9.6514258,
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ruetz",
     "retailer": "ruetz",
     "shop": "bakery",
     "latitude": 47.3395643,
-    "longitude": 9.6526755
+    "longitude": 9.6526755,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tabakfachgeschäft L190 Loacker",
     "retailer": "tabakfachgeschaft_l190_loacker",
     "shop": "tobacco",
     "latitude": 47.3394602,
-    "longitude": 9.6525985
+    "longitude": 9.6525985,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

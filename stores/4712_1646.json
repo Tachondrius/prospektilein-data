@@ -4,7 +4,11 @@
     "retailer": "konditorei_lendl_s_backstube",
     "shop": "pastry",
     "latitude": 47.1270233,
-    "longitude": 16.4679212
+    "longitude": 16.4679212,
+    "postcode": "7521",
+    "city": "Bildein",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Nah & Frisch Lisa Wagner",
@@ -12,13 +16,19 @@
     "shop": "supermarket",
     "latitude": 47.1292912,
     "longitude": 16.4679922,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "7521",
+    "city": "Bildein",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Vinothek Weinarchiv Bildein",
     "retailer": "vinothek_weinarchiv_bildein",
     "shop": "alcohol",
     "latitude": 47.1288175,
-    "longitude": 16.4674354
+    "longitude": 16.4674354,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

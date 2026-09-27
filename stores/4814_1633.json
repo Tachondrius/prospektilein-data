@@ -4,21 +4,33 @@
     "retailer": "auto_ludwig",
     "shop": "car",
     "latitude": 48.1476236,
-    "longitude": 16.3336387
+    "longitude": 16.3336387,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Auto Ludwik - KFZ Werkstatt",
     "retailer": "auto_ludwik_kfz_werkstatt",
     "shop": "car_repair",
     "latitude": 48.1450521,
-    "longitude": 16.3317236
+    "longitude": 16.3317236,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Autoring",
     "retailer": "autoring",
     "shop": "car",
     "latitude": 48.1421902,
-    "longitude": 16.3302732
+    "longitude": 16.3302732,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bike-House",
@@ -26,7 +38,11 @@
     "shop": "motorcycle",
     "latitude": 48.1434079,
     "longitude": 16.3309952,
-    "brand": "Kawasaki, Indian"
+    "brand": "Kawasaki, Indian",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -34,21 +50,33 @@
     "shop": "supermarket",
     "latitude": 48.1499393,
     "longitude": 16.3326091,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Brand Racing",
     "retailer": "brand_racing",
     "shop": "motorcycle_repair",
     "latitude": 48.1449882,
-    "longitude": 16.3321502
+    "longitude": 16.3321502,
+    "postcode": "1230",
+    "city": "Vienna",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "CLS IT",
     "retailer": "cls_it",
     "shop": "computer",
     "latitude": 48.140934,
-    "longitude": 16.3325334
+    "longitude": 16.3325334,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "dm",
@@ -56,7 +84,11 @@
     "shop": "chemist",
     "latitude": 48.1478967,
     "longitude": 16.3392128,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fressnapf",
@@ -64,7 +96,9 @@
     "shop": "pet",
     "latitude": 48.1477641,
     "longitude": 16.3391241,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -72,7 +106,11 @@
     "shop": "supermarket",
     "latitude": 48.1483137,
     "longitude": 16.3382906,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lidl",
@@ -80,14 +118,20 @@
     "shop": "supermarket",
     "latitude": 48.1482112,
     "longitude": 16.3396794,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Matratzen Concord",
     "retailer": "matratzen_concord",
     "shop": "bed",
     "latitude": 48.1496573,
-    "longitude": 16.3353417
+    "longitude": 16.3353417,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "TEDi",
@@ -95,7 +139,9 @@
     "shop": "variety_store",
     "latitude": 48.1475305,
     "longitude": 16.3388553,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tesla Service Vienna-Triesterstrasse",
@@ -103,7 +149,11 @@
     "shop": "car_repair",
     "latitude": 48.148486,
     "longitude": 16.3352081,
-    "brand": "Tesla"
+    "brand": "Tesla",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tesla Store Vienna Triesterstraße",
@@ -111,34 +161,50 @@
     "shop": "car",
     "latitude": 48.1486764,
     "longitude": 16.3351589,
-    "brand": "Tesla"
+    "brand": "Tesla",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Thum Schinken GmbH",
     "retailer": "thum_schinken_gmbh",
     "shop": "butcher",
     "latitude": 48.1493141,
-    "longitude": 16.3355017
+    "longitude": 16.3355017,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Viva Billa",
     "retailer": "viva_billa",
     "shop": "convenience",
     "latitude": 48.1487935,
-    "longitude": 16.3388339
+    "longitude": 16.3388339,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Waschek",
     "retailer": "waschek",
     "shop": "doityourself",
     "latitude": 48.1479746,
-    "longitude": 16.3378284
+    "longitude": 16.3378284,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Woolworth",
     "retailer": "woolworth",
     "shop": "variety_store",
     "latitude": 48.1476272,
-    "longitude": 16.3390236
+    "longitude": 16.3390236,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

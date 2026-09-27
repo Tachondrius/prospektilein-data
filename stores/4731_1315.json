@@ -4,20 +4,30 @@
     "retailer": "elektro_expert_holzl",
     "shop": "electronics",
     "latitude": 47.319216,
-    "longitude": 13.1522472
+    "longitude": 13.1522472,
+    "postcode": "5620",
+    "city": "Schwarzach im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Handwerkershop",
     "retailer": "handwerkershop",
     "shop": "doityourself",
     "latitude": 47.3192638,
-    "longitude": 13.1520173
+    "longitude": 13.1520173,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Med. Massagen Fleißner",
     "retailer": "med_massagen_fleiner",
     "shop": "massage",
     "latitude": 47.3192486,
-    "longitude": 13.1520885
+    "longitude": 13.1520885,
+    "postcode": "5620",
+    "city": "Schwarzach im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -4,20 +4,28 @@
     "retailer": "landkauf_bund",
     "shop": "yes",
     "latitude": 46.7899638,
-    "longitude": 15.8526
+    "longitude": 15.8526,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bauprofi",
     "retailer": "bauprofi",
     "shop": "doityourself",
     "latitude": 46.7899488,
-    "longitude": 15.8523388
+    "longitude": 15.8523388,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Landkauf Bund",
     "retailer": "landkauf_bund",
     "shop": "supermarket",
     "latitude": 46.7899953,
-    "longitude": 15.853629
+    "longitude": 15.853629,
+    "postcode": "8345",
+    "city": "Straden",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 48.5753477,
-    "longitude": 14.0416422
+    "longitude": 14.0416422,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Brunner",
@@ -12,84 +14,110 @@
     "shop": "tobacco",
     "latitude": 48.5752008,
     "longitude": 14.0404778,
-    "brand": "Brunner"
+    "brand": "Brunner",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Bindl",
     "retailer": "backerei_bindl",
     "shop": "bakery",
     "latitude": 48.5753155,
-    "longitude": 14.0422805
+    "longitude": 14.0422805,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Bramel",
     "retailer": "backerei_bramel",
     "shop": "bakery",
     "latitude": 48.5755035,
-    "longitude": 14.0409245
+    "longitude": 14.0409245,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 48.5750377,
-    "longitude": 14.0416443
+    "longitude": 14.0416443,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gitarrenbauerin",
     "retailer": "gitarrenbauerin",
     "shop": "musical_instrument",
     "latitude": 48.5750536,
-    "longitude": 14.0400216
+    "longitude": 14.0400216,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Greißler",
     "retailer": "greiler",
     "shop": "convenience",
     "latitude": 48.5756878,
-    "longitude": 14.0400175
+    "longitude": 14.0400175,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gärtnerei Schiffbänker",
     "retailer": "gartnerei_schiffbanker",
     "shop": "florist",
     "latitude": 48.5796161,
-    "longitude": 14.0445943
+    "longitude": 14.0445943,
+    "postcode": "4170",
+    "city": "Haslach an der Mühl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.5751807,
-    "longitude": 14.0405619
+    "longitude": 14.0405619,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.575353,
-    "longitude": 14.0416006
+    "longitude": 14.0416006,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "HOLZMANN MASCHINEN GmbH",
     "retailer": "holzmann_maschinen_gmbh",
     "shop": "hardware",
     "latitude": 48.5750293,
-    "longitude": 14.0418275
+    "longitude": 14.0418275,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "La-Le-Lu",
     "retailer": "la_le_lu",
     "shop": "toys",
     "latitude": 48.5749733,
-    "longitude": 14.0415275
+    "longitude": 14.0415275,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Masseur",
     "retailer": "masseur",
     "shop": "massage",
     "latitude": 48.5747746,
-    "longitude": 14.041293
+    "longitude": 14.041293,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -97,14 +125,20 @@
     "shop": "supermarket",
     "latitude": 48.5752956,
     "longitude": 14.0453828,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schiffbänker",
     "retailer": "schiffbanker",
     "shop": "florist",
     "latitude": 48.5785975,
-    "longitude": 14.0406641
+    "longitude": 14.0406641,
+    "postcode": "4170",
+    "city": "Haslach an der Mühl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -112,13 +146,19 @@
     "shop": "supermarket",
     "latitude": 48.5759867,
     "longitude": 14.0466727,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4170",
+    "city": "Haslach an der Mühl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stoffgeschäft",
     "retailer": "stoffgeschaft",
     "shop": "interior_decoration",
     "latitude": 48.576514,
-    "longitude": 14.0415092
+    "longitude": 14.0415092,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

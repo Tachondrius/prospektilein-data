@@ -4,20 +4,30 @@
     "retailer": "gillhofer",
     "shop": "bakery",
     "latitude": 48.3329926,
-    "longitude": 14.1800852
+    "longitude": 14.1800852,
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "SECA Holzwelt Ottensheim",
     "retailer": "seca_holzwelt_ottensheim",
     "shop": "trade",
     "latitude": 48.334996,
-    "longitude": 14.184308
+    "longitude": 14.184308,
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Seca Zentrale",
     "retailer": "seca_zentrale",
     "shop": "trade",
     "latitude": 48.3334816,
-    "longitude": 14.1800061
+    "longitude": 14.1800061,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

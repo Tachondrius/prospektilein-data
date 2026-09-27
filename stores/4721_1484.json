@@ -4,7 +4,11 @@
     "retailer": "landforst_lagerhaus_markt",
     "shop": "doityourself",
     "latitude": 47.2189948,
-    "longitude": 14.8425899
+    "longitude": 14.8425899,
+    "postcode": "8723",
+    "city": "Kobenz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +16,8 @@
     "shop": "supermarket",
     "latitude": 47.219348,
     "longitude": 14.8422926,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

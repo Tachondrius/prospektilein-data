@@ -5,13 +5,19 @@
     "shop": "doityourself",
     "latitude": 48.4256607,
     "longitude": 16.4886629,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2123",
+    "city": "Schleinbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Markt",
     "retailer": "lagerhaus_markt",
     "shop": "supermarket",
     "latitude": 48.4263188,
-    "longitude": 16.4888147
+    "longitude": 16.4888147,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

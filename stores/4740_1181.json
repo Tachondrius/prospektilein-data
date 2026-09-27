@@ -4,34 +4,48 @@
     "retailer": "bofrost_tiefkuhlprodukte",
     "shop": "frozen_food",
     "latitude": 47.4044033,
-    "longitude": 11.813914
+    "longitude": 11.813914,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eglo Outlet",
     "retailer": "eglo_outlet",
     "shop": "lighting",
     "latitude": 47.4046087,
-    "longitude": 11.8118791
+    "longitude": 11.8118791,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KINI Bike World",
     "retailer": "kini_bike_world",
     "shop": "motorcycle",
     "latitude": 47.4060312,
-    "longitude": 11.8181451
+    "longitude": 11.8181451,
+    "postcode": "6210",
+    "city": "Wiesing",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Leuchtwurm",
     "retailer": "leuchtwurm",
     "shop": "lighting",
     "latitude": 47.4047549,
-    "longitude": 11.816546
+    "longitude": 11.816546,
+    "postcode": "6210",
+    "city": "Wiesing",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sektor 7",
     "retailer": "sektor_7",
     "shop": "storage_rental",
     "latitude": 47.4068249,
-    "longitude": 11.8194766
+    "longitude": 11.8194766,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

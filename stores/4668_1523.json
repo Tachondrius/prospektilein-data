@@ -4,7 +4,11 @@
     "retailer": "aufhauser_getranle_gmbh_und_co_kg",
     "shop": "beverages",
     "latitude": 46.682558,
-    "longitude": 15.2329241
+    "longitude": 15.2329241,
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "BP SB- Tankstelle Eybel",
@@ -12,14 +16,22 @@
     "shop": "kiosk",
     "latitude": 46.6818671,
     "longitude": 15.2300418,
-    "brand": "BP"
+    "brand": "BP",
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gartenwelt Knotz",
     "retailer": "gartenwelt_knotz",
     "shop": "garden_centre",
     "latitude": 46.6855576,
-    "longitude": 15.236541
+    "longitude": 15.236541,
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -27,6 +39,10 @@
     "shop": "doityourself",
     "latitude": 46.6876262,
     "longitude": 15.2396138,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

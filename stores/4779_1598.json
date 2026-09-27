@@ -5,27 +5,39 @@
     "shop": "supermarket",
     "latitude": 47.7962639,
     "longitude": 15.987649,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2733",
+    "city": "Grünbach am Schneeberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Pfarrer",
     "retailer": "friseur_pfarrer",
     "shop": "hairdresser",
     "latitude": 47.7962333,
-    "longitude": 15.9886442
+    "longitude": 15.9886442,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Pfarrer",
     "retailer": "gartnerei_pfarrer",
     "shop": "garden_centre",
     "latitude": 47.7965118,
-    "longitude": 15.9893797
+    "longitude": 15.9893797,
+    "postcode": "2733",
+    "city": "Grünbach am Schneeberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Isabella Diemer",
     "retailer": "isabella_diemer",
     "shop": "tobacco",
     "latitude": 47.7960246,
-    "longitude": 15.9882925
+    "longitude": 15.9882925,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

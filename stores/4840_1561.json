@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.4081825,
     "longitude": 15.6142719,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3500",
+    "city": "Krems an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,48 +17,76 @@
     "shop": "chemist",
     "latitude": 48.4083597,
     "longitude": 15.6148794,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "3500",
+    "city": "Krems an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Carla Krems",
     "retailer": "carla_krems",
     "shop": "second_hand",
     "latitude": 48.4082039,
-    "longitude": 15.6195652
+    "longitude": 15.6195652,
+    "postcode": "3500",
+    "city": "Krems an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Orthopädietechnik Bandagist Richard Preitensteiner",
     "retailer": "orthopadietechnik_bandagist_richard_preitensteiner",
     "shop": "medical_supply",
     "latitude": 48.4089295,
-    "longitude": 15.6133405
+    "longitude": 15.6133405,
+    "postcode": "3500",
+    "city": "Krems an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sabathiel",
     "retailer": "sabathiel",
     "shop": "bakery",
     "latitude": 48.4086737,
-    "longitude": 15.6134988
+    "longitude": 15.6134988,
+    "postcode": "3500",
+    "city": "Krems an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schalk",
     "retailer": "schalk",
     "shop": "bakery",
     "latitude": 48.4083534,
-    "longitude": 15.6147024
+    "longitude": 15.6147024,
+    "postcode": "3500",
+    "city": "Krems an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak City",
     "retailer": "tabak_city",
     "shop": "newsagent",
     "latitude": 48.4085753,
-    "longitude": 15.6134995
+    "longitude": 15.6134995,
+    "postcode": "3500",
+    "city": "Krems an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Xact Hairstyle",
     "retailer": "xact_hairstyle",
     "shop": "hairdresser",
     "latitude": 48.4091333,
-    "longitude": 15.615499
+    "longitude": 15.615499,
+    "postcode": "3500",
+    "city": "Krems an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

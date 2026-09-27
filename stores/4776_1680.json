@@ -4,49 +4,74 @@
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 47.7657715,
-    "longitude": 16.8018964
+    "longitude": 16.8018964,
+    "postcode": "7142",
+    "city": "Illmitz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Die Grüne Ecke",
     "retailer": "die_grune_ecke",
     "shop": "greengrocer",
     "latitude": 47.766099,
-    "longitude": 16.803099
+    "longitude": 16.803099,
+    "postcode": "7142",
+    "city": "Illmitz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Geschenke Schmiede",
     "retailer": "geschenke_schmiede",
     "shop": "gift",
     "latitude": 47.7620656,
-    "longitude": 16.8019558
+    "longitude": 16.8019558,
+    "postcode": "7142",
+    "city": "Illmitz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Graf",
     "retailer": "graf",
     "shop": "florist",
     "latitude": 47.7622807,
-    "longitude": 16.8015101
+    "longitude": 16.8015101,
+    "postcode": "7142",
+    "city": "Illmitz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Konditorei Karlo",
     "retailer": "konditorei_karlo",
     "shop": "bakery",
     "latitude": 47.7612887,
-    "longitude": 16.8002988
+    "longitude": 16.8002988,
+    "postcode": "7142",
+    "city": "Illmitz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Michael Andert Weine",
     "retailer": "michael_andert_weine",
     "shop": "wine",
     "latitude": 47.7619205,
-    "longitude": 16.8044331
+    "longitude": 16.8044331,
+    "postcode": "7142",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Radverleih Mürner",
     "retailer": "radverleih_murner",
     "shop": "bicycle",
     "latitude": 47.76113,
-    "longitude": 16.8030063
+    "longitude": 16.8030063,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -54,6 +79,10 @@
     "shop": "supermarket",
     "latitude": 47.7655952,
     "longitude": 16.8008628,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7142",
+    "city": "Illmitz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

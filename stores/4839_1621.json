@@ -4,13 +4,19 @@
     "retailer": "hof_greissler",
     "shop": "farm",
     "latitude": 48.3929204,
-    "longitude": 16.2168982
+    "longitude": 16.2168982,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "meinbernd",
     "retailer": "meinbernd",
     "shop": "convenience",
     "latitude": 48.3909725,
-    "longitude": 16.2183094
+    "longitude": 16.2183094,
+    "postcode": "2000",
+    "city": "Stockerau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

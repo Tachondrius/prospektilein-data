@@ -4,21 +4,29 @@
     "retailer": "7coline",
     "shop": "general",
     "latitude": 47.2810118,
-    "longitude": 11.409349
+    "longitude": 11.409349,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ab Hof Verkauf",
     "retailer": "ab_hof_verkauf",
     "shop": "agrarian",
     "latitude": 47.2855058,
-    "longitude": 11.4092326
+    "longitude": 11.4092326,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Christliche Buchhandlung",
     "retailer": "christliche_buchhandlung",
     "shop": "books",
     "latitude": 47.2812328,
-    "longitude": 11.4054865
+    "longitude": 11.4054865,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Moriggl",
@@ -26,6 +34,10 @@
     "shop": "car",
     "latitude": 47.281621,
     "longitude": 11.4073552,
-    "brand": "Honda;Mazda"
+    "brand": "Honda;Mazda",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

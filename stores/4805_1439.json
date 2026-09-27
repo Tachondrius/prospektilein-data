@@ -4,21 +4,31 @@
     "retailer": "autoankauf1",
     "shop": "car",
     "latitude": 48.0515227,
-    "longitude": 14.397656
+    "longitude": 14.397656,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KFZ Walter Flath",
     "retailer": "kfz_walter_flath",
     "shop": "car_repair",
     "latitude": 48.0528165,
-    "longitude": 14.392393
+    "longitude": 14.392393,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Prokop",
     "retailer": "prokop",
     "shop": "furniture",
     "latitude": 48.0522278,
-    "longitude": 14.3962446
+    "longitude": 14.3962446,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Puchner Automobile GmbH",
@@ -26,13 +36,21 @@
     "shop": "car",
     "latitude": 48.0509991,
     "longitude": 14.3966644,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wögerer",
     "retailer": "wogerer",
     "shop": "furniture",
     "latitude": 48.0521588,
-    "longitude": 14.3963224
+    "longitude": 14.3963224,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

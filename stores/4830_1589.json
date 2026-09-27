@@ -5,14 +5,20 @@
     "shop": "chemist",
     "latitude": 48.3010697,
     "longitude": 15.8936947,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "3452",
+    "city": "Heiligeneich",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.3035907,
-    "longitude": 15.8975336
+    "longitude": 15.8975336,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mitsubishi",
@@ -20,7 +26,11 @@
     "shop": "car",
     "latitude": 48.304423,
     "longitude": 15.8910808,
-    "brand": "Mitsubishi"
+    "brand": "Mitsubishi",
+    "postcode": "3452",
+    "city": "Atzenbrugg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -28,7 +38,9 @@
     "shop": "clothes",
     "latitude": 48.3010852,
     "longitude": 15.8935207,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tedi",
@@ -36,7 +48,9 @@
     "shop": "variety_store",
     "latitude": 48.3010389,
     "longitude": 15.8939343,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Unimarkt",
@@ -44,13 +58,19 @@
     "shop": "supermarket",
     "latitude": 48.3011557,
     "longitude": 15.894294,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "3452",
+    "city": "Heiligeneich",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zentrum Heiligeneich",
     "retailer": "zentrum_heiligeneich",
     "shop": "mall",
     "latitude": 48.3010979,
-    "longitude": 15.8937486
+    "longitude": 15.8937486,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

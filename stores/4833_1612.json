@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.3315385,
     "longitude": 16.1211808,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3425",
+    "city": "Langenlebarn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friedrich Preitensteiner",
     "retailer": "friedrich_preitensteiner",
     "shop": "doityourself",
     "latitude": 48.3322229,
-    "longitude": 16.1239943
+    "longitude": 16.1239943,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

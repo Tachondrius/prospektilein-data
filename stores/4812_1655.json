@@ -4,14 +4,18 @@
     "retailer": "boutique_vienna",
     "shop": "cosmetics",
     "latitude": 48.1201895,
-    "longitude": 16.5571288
+    "longitude": 16.5571288,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Heinemann",
     "retailer": "heinemann",
     "shop": "gift",
     "latitude": 48.1205721,
-    "longitude": 16.5581401
+    "longitude": 16.5581401,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Relay",
@@ -19,27 +23,35 @@
     "shop": "newsagent",
     "latitude": 48.1204999,
     "longitude": 16.5577946,
-    "brand": "Relay"
+    "brand": "Relay",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Senses of Austria",
     "retailer": "senses_of_austria",
     "shop": "gift",
     "latitude": 48.1204803,
-    "longitude": 16.5577116
+    "longitude": 16.5577116,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "WATCH & SUNGLASSES",
     "retailer": "watch_und_sunglasses",
     "shop": "watches",
     "latitude": 48.1204768,
-    "longitude": 16.5590419
+    "longitude": 16.5590419,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "welcomeshop",
     "retailer": "welcomeshop",
     "shop": "clothes",
     "latitude": 48.1205136,
-    "longitude": 16.5587446
+    "longitude": 16.5587446,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

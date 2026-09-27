@@ -4,7 +4,9 @@
     "retailer": "aha_allerhand4you",
     "shop": "variety_store",
     "latitude": 48.1395823,
-    "longitude": 16.476926
+    "longitude": 16.476926,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 48.1380234,
     "longitude": 16.4797125,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2320",
+    "city": "Schwechat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -20,21 +26,29 @@
     "shop": "chemist",
     "latitude": 48.1380989,
     "longitude": 16.4795092,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2320",
+    "city": "Schwechat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bständig",
     "retailer": "bstandig",
     "shop": "medical_supply",
     "latitude": 48.1395592,
-    "longitude": 16.4772807
+    "longitude": 16.4772807,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Buchhandlung am Hauptplatz",
     "retailer": "buchhandlung_am_hauptplatz",
     "shop": "books",
     "latitude": 48.1391396,
-    "longitude": 16.4766416
+    "longitude": 16.4766416,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Das Futterhaus",
@@ -42,56 +56,74 @@
     "shop": "pet",
     "latitude": 48.1381848,
     "longitude": 16.4792756,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "2320",
+    "city": "Schwechat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fitine Dessous",
     "retailer": "fitine_dessous",
     "shop": "clothes",
     "latitude": 48.1386911,
-    "longitude": 16.4768787
+    "longitude": 16.4768787,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Floristik Kopecky",
     "retailer": "floristik_kopecky",
     "shop": "florist",
     "latitude": 48.1387181,
-    "longitude": 16.4767855
+    "longitude": 16.4767855,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fuß Körper",
     "retailer": "fu_korper",
     "shop": "beauty",
     "latitude": 48.1384992,
-    "longitude": 16.4774714
+    "longitude": 16.4774714,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gerhard Janoch Photography",
     "retailer": "gerhard_janoch_photography",
     "shop": "photo",
     "latitude": 48.1394262,
-    "longitude": 16.4768325
+    "longitude": 16.4768325,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haar Studio Schwechat",
     "retailer": "haar_studio_schwechat",
     "shop": "hairdresser",
     "latitude": 48.139376,
-    "longitude": 16.4755201
+    "longitude": 16.4755201,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hornicek",
     "retailer": "hornicek",
     "shop": "shoes",
     "latitude": 48.1398874,
-    "longitude": 16.4769843
+    "longitude": 16.4769843,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Jakob's Spieleck",
     "retailer": "jakob_s_spieleck",
     "shop": "toys",
     "latitude": 48.1383872,
-    "longitude": 16.4778311
+    "longitude": 16.4778311,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "JYSK",
@@ -99,7 +131,11 @@
     "shop": "furniture",
     "latitude": 48.137957,
     "longitude": 16.4799029,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "2320",
+    "city": "Schwechat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -107,14 +143,20 @@
     "shop": "clothes",
     "latitude": 48.1382317,
     "longitude": 16.4791369,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "2320",
+    "city": "Schwechat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Küchengeräte Hedwig Widl",
     "retailer": "kuchengerate_hedwig_widl",
     "shop": "kitchen",
     "latitude": 48.1384265,
-    "longitude": 16.477708
+    "longitude": 16.477708,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -122,42 +164,56 @@
     "shop": "supermarket",
     "latitude": 48.1383042,
     "longitude": 16.4789289,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2320",
+    "city": "Schwechat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Michl's Textilreinigung",
     "retailer": "michl_s_textilreinigung",
     "shop": "dry_cleaning",
     "latitude": 48.1385345,
-    "longitude": 16.4773606
+    "longitude": 16.4773606,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Optik Liepold",
     "retailer": "optik_liepold",
     "shop": "optician",
     "latitude": 48.1392172,
-    "longitude": 16.4770585
+    "longitude": 16.4770585,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "P.M.Fashion",
     "retailer": "p_m_fashion",
     "shop": "clothes",
     "latitude": 48.139816,
-    "longitude": 16.4769776
+    "longitude": 16.4769776,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Paketshop",
     "retailer": "paketshop",
     "shop": "stationery",
     "latitude": 48.1386289,
-    "longitude": 16.4770687
+    "longitude": 16.4770687,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PAX",
     "retailer": "pax",
     "shop": "funeral_directors",
     "latitude": 48.1390298,
-    "longitude": 16.4769853
+    "longitude": 16.4769853,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -165,7 +221,11 @@
     "shop": "supermarket",
     "latitude": 48.1376735,
     "longitude": 16.4756511,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2320",
+    "city": "Schwechat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ruefa",
@@ -173,28 +233,36 @@
     "shop": "travel_agency",
     "latitude": 48.138675,
     "longitude": 16.4762876,
-    "brand": "Ruefa"
+    "brand": "Ruefa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schwechater Druckerei- Seyss GmbH",
     "retailer": "schwechater_druckerei_seyss_gmbh",
     "shop": "copyshop",
     "latitude": 48.1393903,
-    "longitude": 16.477172
+    "longitude": 16.477172,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sp: Köhsler",
     "retailer": "sp_kohsler",
     "shop": "music",
     "latitude": 48.138464,
-    "longitude": 16.4775884
+    "longitude": 16.4775884,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Topsi",
     "retailer": "topsi",
     "shop": "beauty",
     "latitude": 48.1387434,
-    "longitude": 16.4767011
+    "longitude": 16.4767011,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weltladen",
@@ -202,13 +270,17 @@
     "shop": "convenience",
     "latitude": 48.1385638,
     "longitude": 16.4772718,
-    "brand": "Weltladen"
+    "brand": "Weltladen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wheelers",
     "retailer": "wheelers",
     "shop": "baby_goods",
     "latitude": 48.1385926,
-    "longitude": 16.4771733
+    "longitude": 16.4771733,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

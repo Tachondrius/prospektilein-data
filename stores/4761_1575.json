@@ -4,28 +4,38 @@
     "retailer": "bergbahnen_stuhleck",
     "shop": "ticket",
     "latitude": 47.6146967,
-    "longitude": 15.7577902
+    "longitude": 15.7577902,
+    "postcode": "8684",
+    "city": "Spital am Semmering",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischerei Zimmermann",
     "retailer": "fleischerei_zimmermann",
     "shop": "butcher",
     "latitude": 47.6158146,
-    "longitude": 15.7531511
+    "longitude": 15.7531511,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisurenwerkstatt",
     "retailer": "frisurenwerkstatt",
     "shop": "hairdresser",
     "latitude": 47.6149562,
-    "longitude": 15.7522487
+    "longitude": 15.7522487,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Imkerei Lorenz",
     "retailer": "imkerei_lorenz",
     "shop": "convenience",
     "latitude": 47.6155154,
-    "longitude": 15.7521216
+    "longitude": 15.7521216,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch Lisa",
@@ -33,34 +43,52 @@
     "shop": "supermarket",
     "latitude": 47.6159181,
     "longitude": 15.7528308,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "8684",
+    "city": "Spital am Semmering",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schneesport Taberhofer",
     "retailer": "schneesport_taberhofer",
     "shop": "sports",
     "latitude": 47.6100409,
-    "longitude": 15.7576304
+    "longitude": 15.7576304,
+    "postcode": "8684",
+    "city": "Spital am Semmering",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sport Buchebner",
     "retailer": "sport_buchebner",
     "shop": "sports",
     "latitude": 47.6153624,
-    "longitude": 15.7576394
+    "longitude": 15.7576394,
+    "postcode": "8684",
+    "city": "Spital am Semmering",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stadtwerke Mürzzuschlag",
     "retailer": "stadtwerke_murzzuschlag",
     "shop": "electronics",
     "latitude": 47.615001,
-    "longitude": 15.752119
+    "longitude": 15.752119,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.6159327,
-    "longitude": 15.7537726
+    "longitude": 15.7537726,
+    "postcode": "8684",
+    "city": "Spital am Semmering",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

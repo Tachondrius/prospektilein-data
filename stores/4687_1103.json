@@ -4,7 +4,9 @@
     "retailer": "goas_kaserei_hofladen_gurgl",
     "shop": "cheese",
     "latitude": 46.8742643,
-    "longitude": 11.0310579
+    "longitude": 11.0310579,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -12,20 +14,26 @@
     "shop": "convenience",
     "latitude": 46.8750214,
     "longitude": 11.0321629,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Riml",
     "retailer": "riml",
     "shop": "sports",
     "latitude": 46.8739379,
-    "longitude": 11.0311853
+    "longitude": 11.0311853,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Scheiber Sport S4 Festkoglbahn",
     "retailer": "scheiber_sport_s4_festkoglbahn",
     "shop": "sports",
     "latitude": 46.8755881,
-    "longitude": 11.0328195
+    "longitude": 11.0328195,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

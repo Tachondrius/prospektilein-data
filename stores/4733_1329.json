@@ -5,28 +5,38 @@
     "shop": "supermarket",
     "latitude": 47.3341668,
     "longitude": 13.2932199,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5602",
+    "city": "Wagrain",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Elektrotechnik Pichler GmbH",
     "retailer": "elektrotechnik_pichler_gmbh",
     "shop": "electrical",
     "latitude": 47.3318784,
-    "longitude": 13.2973908
+    "longitude": 13.2973908,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Martin Pointner",
     "retailer": "martin_pointner",
     "shop": "kiosk",
     "latitude": 47.3324296,
-    "longitude": 13.2972688
+    "longitude": 13.2972688,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Seer Martin",
     "retailer": "seer_martin",
     "shop": "gift",
     "latitude": 47.332613,
-    "longitude": 13.2969162
+    "longitude": 13.2969162,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -34,27 +44,39 @@
     "shop": "supermarket",
     "latitude": 47.331198,
     "longitude": 13.2984694,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5602",
+    "city": "Wagrain",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000 Obermoser",
     "retailer": "sport_2000_obermoser",
     "shop": "sports",
     "latitude": 47.3335087,
-    "longitude": 13.2961499
+    "longitude": 13.2961499,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Steinbauer",
     "retailer": "steinbauer",
     "shop": "bakery",
     "latitude": 47.3339946,
-    "longitude": 13.2965515
+    "longitude": 13.2965515,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.3337327,
-    "longitude": 13.2952584
+    "longitude": 13.2952584,
+    "postcode": "5602",
+    "city": "Wagrain",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

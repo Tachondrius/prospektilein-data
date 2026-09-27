@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.4604834,
     "longitude": 13.4349595,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -13,14 +17,22 @@
     "shop": "chemist",
     "latitude": 48.4606752,
     "longitude": 13.4349726,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fliesen Arkade",
     "retailer": "fliesen_arkade",
     "shop": "tiles",
     "latitude": 48.4611495,
-    "longitude": 13.4329269
+    "longitude": 13.4329269,
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -28,7 +40,11 @@
     "shop": "supermarket",
     "latitude": 48.4607986,
     "longitude": 13.4336903,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -36,7 +52,9 @@
     "shop": "clothes",
     "latitude": 48.4651844,
     "longitude": 13.436259,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny",
@@ -44,14 +62,20 @@
     "shop": "supermarket",
     "latitude": 48.4633351,
     "longitude": 13.4336345,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reifen John",
     "retailer": "reifen_john",
     "shop": "tyres",
     "latitude": 48.4641098,
-    "longitude": 13.4361002
+    "longitude": 13.4361002,
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -59,7 +83,11 @@
     "shop": "supermarket",
     "latitude": 48.4645388,
     "longitude": 13.4357174,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Unimarkt",
@@ -67,6 +95,10 @@
     "shop": "supermarket",
     "latitude": 48.4656129,
     "longitude": 13.439667,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

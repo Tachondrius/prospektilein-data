@@ -4,21 +4,31 @@
     "retailer": "abholmarkt_marcher",
     "shop": "butcher",
     "latitude": 46.6175024,
-    "longitude": 13.871863
+    "longitude": 13.871863,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fleischerverband",
     "retailer": "fleischerverband",
     "shop": "butcher",
     "latitude": 46.6171255,
-    "longitude": 13.8723483
+    "longitude": 13.8723483,
+    "postcode": "9524",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Genuss-Meierei Villach",
     "retailer": "genuss_meierei_villach",
     "shop": "convenience",
     "latitude": 46.617177,
-    "longitude": 13.8796139
+    "longitude": 13.8796139,
+    "postcode": "9524",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagerhaus",
@@ -26,6 +36,10 @@
     "shop": "doityourself",
     "latitude": 46.6176087,
     "longitude": 13.8794396,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "9524",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

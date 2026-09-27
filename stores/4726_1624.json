@@ -5,27 +5,43 @@
     "shop": "garden_centre",
     "latitude": 47.2695651,
     "longitude": 16.2401146,
-    "brand": "Bellaflora"
+    "brand": "Bellaflora",
+    "postcode": "7502",
+    "city": "Unterwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.2679288,
-    "longitude": 16.2447203
+    "longitude": 16.2447203,
+    "postcode": "7502",
+    "city": "Unterwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Motohawk",
     "retailer": "motohawk",
     "shop": "motorcycle",
     "latitude": 47.2669825,
-    "longitude": 16.2440708
+    "longitude": 16.2440708,
+    "postcode": "7502",
+    "city": "Unterwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "wirreparierendeinauto",
     "retailer": "wirreparierendeinauto",
     "shop": "car_repair",
     "latitude": 47.2675471,
-    "longitude": 16.2453105
+    "longitude": 16.2453105,
+    "postcode": "7502",
+    "city": "Unterwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

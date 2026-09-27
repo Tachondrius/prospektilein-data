@@ -4,14 +4,20 @@
     "retailer": "baumschule_karl",
     "shop": "garden_centre",
     "latitude": 46.6521097,
-    "longitude": 13.8767716
+    "longitude": 13.8767716,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bike Paradies Treffen",
     "retailer": "bike_paradies_treffen",
     "shop": "bicycle",
     "latitude": 46.6553956,
-    "longitude": 13.8733145
+    "longitude": 13.8733145,
+    "postcode": "9521",
+    "city": "Treffen am Ossiacher See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -19,14 +25,22 @@
     "shop": "supermarket",
     "latitude": 46.6558247,
     "longitude": 13.8797322,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9521",
+    "city": "Treffen am Ossiacher See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Weissensteiner",
     "retailer": "backerei_weissensteiner",
     "shop": "bakery",
     "latitude": 46.6510165,
-    "longitude": 13.8741519
+    "longitude": 13.8741519,
+    "postcode": "9521",
+    "city": "Treffen am Ossiacher See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "dm",
@@ -34,14 +48,22 @@
     "shop": "chemist",
     "latitude": 46.6514422,
     "longitude": 13.8738723,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "9521",
+    "city": "Treffen am Ossiacher See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gärtnerei Lakonig",
     "retailer": "gartnerei_lakonig",
     "shop": "garden_centre",
     "latitude": 46.6544961,
-    "longitude": 13.8764354
+    "longitude": 13.8764354,
+    "postcode": "9521",
+    "city": "Treffen am Ossiacher See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -49,7 +71,11 @@
     "shop": "supermarket",
     "latitude": 46.6517768,
     "longitude": 13.8743375,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9521",
+    "city": "Treffen am Ossiacher See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KiK",
@@ -57,7 +83,11 @@
     "shop": "clothes",
     "latitude": 46.6512526,
     "longitude": 13.8735983,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "9521",
+    "city": "Treffen am Ossiacher See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -65,13 +95,19 @@
     "shop": "supermarket",
     "latitude": 46.6520126,
     "longitude": 13.8760058,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "9521",
+    "city": "Treffen am Ossiacher See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Yes",
     "retailer": "shop_yes",
     "shop": "yes",
     "latitude": 46.6549278,
-    "longitude": 13.8751957
+    "longitude": 13.8751957,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

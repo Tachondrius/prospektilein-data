@@ -5,14 +5,20 @@
     "shop": "chemist",
     "latitude": 48.1895745,
     "longitude": 14.1074565,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "4614",
+    "city": "Marchtrenk",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gebrauchtwagen Mercan",
     "retailer": "gebrauchtwagen_mercan",
     "shop": "car",
     "latitude": 48.1890997,
-    "longitude": 14.1021552
+    "longitude": 14.1021552,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -20,13 +26,21 @@
     "shop": "supermarket",
     "latitude": 48.1895856,
     "longitude": 14.1065852,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "4614",
+    "city": "Marchtrenk",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Weber Original Store",
     "retailer": "weber_original_store",
     "shop": "houseware",
     "latitude": 48.1897719,
-    "longitude": 14.1052246
+    "longitude": 14.1052246,
+    "postcode": "4614",
+    "city": "Marchtrenk",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

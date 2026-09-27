@@ -5,13 +5,21 @@
     "shop": "car",
     "latitude": 47.138921,
     "longitude": 10.5341292,
-    "brand": "Hyundai;Suzuki"
+    "brand": "Hyundai;Suzuki",
+    "postcode": "6500",
+    "city": "Grins",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MT Reifenservice",
     "retailer": "mt_reifenservice",
     "shop": "tyres",
     "latitude": 47.1396679,
-    "longitude": 10.5346723
+    "longitude": 10.5346723,
+    "postcode": "6500",
+    "city": "Grins",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,41 +4,61 @@
     "retailer": "shop_butcher",
     "shop": "butcher",
     "latitude": 46.8867197,
-    "longitude": 15.5162341
+    "longitude": 15.5162341,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischerei Prenner",
     "retailer": "fleischerei_prenner",
     "shop": "butcher",
     "latitude": 46.8872161,
-    "longitude": 15.5141297
+    "longitude": 15.5141297,
+    "postcode": "8410",
+    "city": "Wildon",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Glaserei Steiner Uitz",
     "retailer": "glaserei_steiner_uitz",
     "shop": "glaziery",
     "latitude": 46.8878383,
-    "longitude": 15.519048
+    "longitude": 15.519048,
+    "postcode": "8410",
+    "city": "Wildon",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Raiffeisen Lagerhaus",
     "retailer": "raiffeisen_lagerhaus",
     "shop": "garden_centre",
     "latitude": 46.8847162,
-    "longitude": 15.5191668
+    "longitude": 15.5191668,
+    "postcode": "8410",
+    "city": "Wildon",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Salon Conny",
     "retailer": "salon_conny",
     "shop": "hairdresser",
     "latitude": 46.8873903,
-    "longitude": 15.5122621
+    "longitude": 15.5122621,
+    "postcode": "8410",
+    "city": "Wildon",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zirngast",
     "retailer": "zirngast",
     "shop": "kiosk",
     "latitude": 46.8868333,
-    "longitude": 15.5158139
+    "longitude": 15.5158139,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

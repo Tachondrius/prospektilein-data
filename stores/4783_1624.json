@@ -4,7 +4,11 @@
     "retailer": "autoteiledirekt_shop_und_zentrale",
     "shop": "car_parts",
     "latitude": 47.835687,
-    "longitude": 16.2494545
+    "longitude": 16.2494545,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "AVG AutovertriebsgmbH",
@@ -12,7 +16,11 @@
     "shop": "car",
     "latitude": 47.8329704,
     "longitude": 16.2435556,
-    "brand": "Renault;Dacia"
+    "brand": "Renault;Dacia",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Citroën",
@@ -20,7 +28,11 @@
     "shop": "car",
     "latitude": 47.8335613,
     "longitude": 16.2413051,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Denzel Wr. Neustadt Nord",
@@ -28,14 +40,20 @@
     "shop": "car",
     "latitude": 47.8394659,
     "longitude": 16.2463999,
-    "brand": "BMW"
+    "brand": "BMW",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "fabachem Astleithner GmbH",
     "retailer": "fabachem_astleithner_gmbh",
     "shop": "craft",
     "latitude": 47.835514,
-    "longitude": 16.2498922
+    "longitude": 16.2498922,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fressnapf",
@@ -43,14 +61,20 @@
     "shop": "pet",
     "latitude": 47.8310321,
     "longitude": 16.2483019,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "HILTI",
     "retailer": "hilti",
     "shop": "craft",
     "latitude": 47.8351529,
-    "longitude": 16.2465836
+    "longitude": 16.2465836,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -58,7 +82,9 @@
     "shop": "clothes",
     "latitude": 47.8309533,
     "longitude": 16.2479204,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klipp",
@@ -66,14 +92,20 @@
     "shop": "hairdresser",
     "latitude": 47.8300767,
     "longitude": 16.2480756,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kurt Koller Kugellager",
     "retailer": "kurt_koller_kugellager",
     "shop": "hardware",
     "latitude": 47.837002,
-    "longitude": 16.2458129
+    "longitude": 16.2458129,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -81,7 +113,11 @@
     "shop": "supermarket",
     "latitude": 47.8301524,
     "longitude": 16.2451717,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Louis Motorrad Wiener Neustadt",
@@ -89,14 +125,22 @@
     "shop": "motorcycle",
     "latitude": 47.8305086,
     "longitude": 16.2469297,
-    "brand": "Louis Motorrad"
+    "brand": "Louis Motorrad",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nemetz Markt",
     "retailer": "nemetz_markt",
     "shop": "butcher",
     "latitude": 47.835724,
-    "longitude": 16.2443276
+    "longitude": 16.2443276,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -104,7 +148,9 @@
     "shop": "clothes",
     "latitude": 47.8309927,
     "longitude": 16.2481111,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -112,7 +158,9 @@
     "shop": "stationery",
     "latitude": 47.8309139,
     "longitude": 16.2477296,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pepco",
@@ -120,42 +168,64 @@
     "shop": "clothes",
     "latitude": 47.8308745,
     "longitude": 16.2475389,
-    "brand": "Pepco"
+    "brand": "Pepco",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "proYachting",
     "retailer": "proyachting",
     "shop": "boat",
     "latitude": 47.8386335,
-    "longitude": 16.2496655
+    "longitude": 16.2496655,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reifen Ritz",
     "retailer": "reifen_ritz",
     "shop": "tyres",
     "latitude": 47.8395328,
-    "longitude": 16.2447201
+    "longitude": 16.2447201,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schmutzhart",
     "retailer": "schmutzhart",
     "shop": "paint",
     "latitude": 47.8350198,
-    "longitude": 16.2459729
+    "longitude": 16.2459729,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SEMIS Autoimport",
     "retailer": "semis_autoimport",
     "shop": "car",
     "latitude": 47.8361699,
-    "longitude": 16.2429712
+    "longitude": 16.2429712,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stahlgruber",
     "retailer": "stahlgruber",
     "shop": "car_parts",
     "latitude": 47.8357555,
-    "longitude": 16.2469532
+    "longitude": 16.2469532,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -163,7 +233,9 @@
     "shop": "clothes",
     "latitude": 47.8307958,
     "longitude": 16.2471576,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -171,6 +243,8 @@
     "shop": "variety_store",
     "latitude": 47.8308351,
     "longitude": 16.2473482,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

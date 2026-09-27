@@ -5,27 +5,40 @@
     "shop": "supermarket",
     "latitude": 48.0814393,
     "longitude": 13.5647556,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4843",
+    "city": "Ampflwang im Hausruckwald",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Expert Dachs",
     "retailer": "expert_dachs",
     "shop": "electronics",
     "latitude": 48.0852734,
-    "longitude": 13.5628112
+    "longitude": 13.5628112,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Modefriseur Karin",
     "retailer": "modefriseur_karin",
     "shop": "hairdresser",
     "latitude": 48.0862216,
-    "longitude": 13.5650156
+    "longitude": 13.5650156,
+    "postcode": "4843",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 48.0823597,
-    "longitude": 13.5651635
+    "longitude": 13.5651635,
+    "postcode": "4843",
+    "city": "Ampflwang im Hausruckwald",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

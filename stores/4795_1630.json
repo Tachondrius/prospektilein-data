@@ -5,21 +5,33 @@
     "shop": "supermarket",
     "latitude": 47.956824,
     "longitude": 16.305558,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2523",
+    "city": "Tattendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Café-Konditorei Reinisch",
     "retailer": "backerei_cafe_konditorei_reinisch",
     "shop": "bakery",
     "latitude": 47.9561495,
-    "longitude": 16.3028592
+    "longitude": 16.3028592,
+    "postcode": "2523",
+    "city": "Tattendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dorfladenbox Tattendorf",
     "retailer": "dorfladenbox_tattendorf",
     "shop": "convenience",
     "latitude": 47.9577723,
-    "longitude": 16.300795
+    "longitude": 16.300795,
+    "postcode": "2523",
+    "city": "Tattendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -27,20 +39,30 @@
     "shop": "doityourself",
     "latitude": 47.9576105,
     "longitude": 16.3072204,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2523",
+    "city": "Tattendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "WEINKAUF7",
     "retailer": "weinkauf7",
     "shop": "alcohol",
     "latitude": 47.9577837,
-    "longitude": 16.3008796
+    "longitude": 16.3008796,
+    "postcode": "2523",
+    "city": "Tattendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zum Jöbstl",
     "retailer": "zum_jobstl",
     "shop": "deli",
     "latitude": 47.9581542,
-    "longitude": 16.3012122
+    "longitude": 16.3012122,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

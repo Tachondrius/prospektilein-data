@@ -5,62 +5,94 @@
     "shop": "supermarket",
     "latitude": 46.6788044,
     "longitude": 15.401106,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "8454",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektro Lang",
     "retailer": "elektro_lang",
     "shop": "electronics",
     "latitude": 46.6767256,
-    "longitude": 15.4021
+    "longitude": 15.4021,
+    "postcode": "8454",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektro Legat",
     "retailer": "elektro_legat",
     "shop": "electronics",
     "latitude": 46.6783306,
-    "longitude": 15.401966
+    "longitude": 15.401966,
+    "postcode": "8454",
+    "city": "Arnfels",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "EMIG",
     "retailer": "emig",
     "shop": "hairdresser",
     "latitude": 46.6764555,
-    "longitude": 15.4016584
+    "longitude": 15.4016584,
+    "postcode": "8454",
+    "city": "Arnfels",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Helis",
     "retailer": "helis",
     "shop": "car_repair",
     "latitude": 46.6799458,
-    "longitude": 15.4011586
+    "longitude": 15.4011586,
+    "postcode": "8454",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klapothek",
     "retailer": "klapothek",
     "shop": "farm",
     "latitude": 46.6764929,
-    "longitude": 15.4027771
+    "longitude": 15.4027771,
+    "postcode": "8454",
+    "city": "Arnfels",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Postpartner und Trafik Rebstock",
     "retailer": "postpartner_und_trafik_rebstock",
     "shop": "kiosk",
     "latitude": 46.6768756,
-    "longitude": 15.4023826
+    "longitude": 15.4023826,
+    "postcode": "8454",
+    "city": "Arnfels",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Preßnitz",
     "retailer": "prenitz",
     "shop": "funeral_directors",
     "latitude": 46.6798956,
-    "longitude": 15.4002121
+    "longitude": 15.4002121,
+    "postcode": "8454",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wolf",
     "retailer": "wolf",
     "shop": "bakery;butcher",
     "latitude": 46.6761886,
-    "longitude": 15.4010053
+    "longitude": 15.4010053,
+    "postcode": "8454",
+    "city": "Arnfels",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

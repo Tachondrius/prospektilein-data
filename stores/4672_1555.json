@@ -4,21 +4,27 @@
     "retailer": "flaschencenter_wratschko",
     "shop": "yes",
     "latitude": 46.7219331,
-    "longitude": 15.5589327
+    "longitude": 15.5589327,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.7204816,
-    "longitude": 15.555196
+    "longitude": 15.555196,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Obsthof Glück",
     "retailer": "obsthof_gluck",
     "shop": "farm",
     "latitude": 46.7208937,
-    "longitude": 15.5542762
+    "longitude": 15.5542762,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -26,6 +32,10 @@
     "shop": "supermarket",
     "latitude": 46.7211151,
     "longitude": 15.5553849,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8462",
+    "city": "Gamlitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

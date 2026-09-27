@@ -4,35 +4,45 @@
     "retailer": "backerei_gerald_schneider_cafe",
     "shop": "bakery",
     "latitude": 48.847336,
-    "longitude": 15.4925688
+    "longitude": 15.4925688,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischhauer Selcher",
     "retailer": "fleischhauer_selcher",
     "shop": "butcher",
     "latitude": 48.8475737,
-    "longitude": 15.4933352
+    "longitude": 15.4933352,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur und Fußpflege Alexandra",
     "retailer": "friseur_und_fupflege_alexandra",
     "shop": "hairdresser",
     "latitude": 48.8472189,
-    "longitude": 15.4932269
+    "longitude": 15.4932269,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kaufhaus Spitzer",
     "retailer": "kaufhaus_spitzer",
     "shop": "department_store",
     "latitude": 48.8480081,
-    "longitude": 15.4922519
+    "longitude": 15.4922519,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Handel & Service Kühtreiber",
     "retailer": "kfz_handel_und_service_kuhtreiber",
     "shop": "car_repair",
     "latitude": 48.8474481,
-    "longitude": 15.4989196
+    "longitude": 15.4989196,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -40,7 +50,9 @@
     "shop": "doityourself",
     "latitude": 48.8442224,
     "longitude": 15.495826,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -48,20 +60,26 @@
     "shop": "supermarket",
     "latitude": 48.8474785,
     "longitude": 15.4935989,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Monika Tauber",
     "retailer": "trafik_monika_tauber",
     "shop": "tobacco",
     "latitude": 48.8475283,
-    "longitude": 15.4935248
+    "longitude": 15.4935248,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Thomas Wagner",
     "retailer": "trafik_thomas_wagner",
     "shop": "tobacco",
     "latitude": 48.8477022,
-    "longitude": 15.4928378
+    "longitude": 15.4928378,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

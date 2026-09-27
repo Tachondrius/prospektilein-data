@@ -4,35 +4,48 @@
     "retailer": "anzeletti",
     "shop": "tobacco",
     "latitude": 47.8656062,
-    "longitude": 16.3816828
+    "longitude": 16.3816828,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "BJ-Trading",
     "retailer": "bj_trading",
     "shop": "computer",
     "latitude": 47.8628558,
-    "longitude": 16.3871128
+    "longitude": 16.3871128,
+    "postcode": "2491",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bäckerei Huber",
     "retailer": "backerei_huber",
     "shop": "bakery",
     "latitude": 47.8693102,
-    "longitude": 16.3811919
+    "longitude": 16.3811919,
+    "postcode": "2491",
+    "city": "Neufeld an der Leitha",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Friseur Götz",
     "retailer": "friseur_gotz",
     "shop": "hairdresser",
     "latitude": 47.8656467,
-    "longitude": 16.3812147
+    "longitude": 16.3812147,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Snacks & Drinks",
     "retailer": "snacks_und_drinks",
     "shop": "vending_machine",
     "latitude": 47.8655268,
-    "longitude": 16.3828382
+    "longitude": 16.3828382,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -40,27 +53,41 @@
     "shop": "supermarket",
     "latitude": 47.8651414,
     "longitude": 16.3819301,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2491",
+    "city": "Neufeld an der Leitha",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Tauchsport-Vienna",
     "retailer": "tauchsport_vienna",
     "shop": "scuba_diving",
     "latitude": 47.868713,
-    "longitude": 16.3831243
+    "longitude": 16.3831243,
+    "postcode": "2491",
+    "city": "Neufeld an der Leitha",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.8653189,
-    "longitude": 16.3874377
+    "longitude": 16.3874377,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weinhandlung Steurer und Sohn GmbH",
     "retailer": "weinhandlung_steurer_und_sohn_gmbh",
     "shop": "wine",
     "latitude": 47.8655755,
-    "longitude": 16.3823816
+    "longitude": 16.3823816,
+    "postcode": "2491",
+    "city": "Neufeld an der Leitha",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

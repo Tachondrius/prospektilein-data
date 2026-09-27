@@ -5,21 +5,31 @@
     "shop": "bookmaker",
     "latitude": 48.1170355,
     "longitude": 14.9080545,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Hofer",
     "retailer": "hofer",
     "shop": "bakery",
     "latitude": 48.1178437,
-    "longitude": 14.9026135
+    "longitude": 14.9026135,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KASTNER Abholmarkt Amstetten",
     "retailer": "kastner_abholmarkt_amstetten",
     "shop": "wholesale",
     "latitude": 48.1187163,
-    "longitude": 14.9081525
+    "longitude": 14.9081525,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -27,7 +37,11 @@
     "shop": "clothes",
     "latitude": 48.1172476,
     "longitude": 14.9074308,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Möbelix",
@@ -35,6 +49,10 @@
     "shop": "furniture",
     "latitude": 48.1173919,
     "longitude": 14.9066428,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

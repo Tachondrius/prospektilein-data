@@ -5,14 +5,22 @@
     "shop": "car_repair",
     "latitude": 48.6647475,
     "longitude": 16.6287039,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bauer",
     "retailer": "bauer",
     "shop": "bakery",
     "latitude": 48.6686232,
-    "longitude": 16.6287048
+    "longitude": 16.6287048,
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -20,7 +28,11 @@
     "shop": "supermarket",
     "latitude": 48.6635324,
     "longitude": 16.6279676,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -28,63 +40,91 @@
     "shop": "chemist",
     "latitude": 48.6677451,
     "longitude": 16.62924,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Brillenoptik",
     "retailer": "brillenoptik",
     "shop": "optician",
     "latitude": 48.6685868,
-    "longitude": 16.628419
+    "longitude": 16.628419,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Buchhandlung Zangl",
     "retailer": "buchhandlung_zangl",
     "shop": "books",
     "latitude": 48.6664438,
-    "longitude": 16.6281711
+    "longitude": 16.6281711,
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Bauer",
     "retailer": "backerei_bauer",
     "shop": "bakery",
     "latitude": 48.6655532,
-    "longitude": 16.6285995
+    "longitude": 16.6285995,
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Parts",
     "retailer": "shop_car_parts",
     "shop": "car_parts",
     "latitude": 48.668987,
-    "longitude": 16.6292542
+    "longitude": 16.6292542,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Die Huglerei",
     "retailer": "die_huglerei",
     "shop": "bakery",
     "latitude": 48.6665411,
-    "longitude": 16.6281576
+    "longitude": 16.6281576,
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eisinger",
     "retailer": "eisinger",
     "shop": "shoes",
     "latitude": 48.6685547,
-    "longitude": 16.6280886
+    "longitude": 16.6280886,
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Houseware",
     "retailer": "shop_houseware",
     "shop": "houseware",
     "latitude": 48.6679584,
-    "longitude": 16.6297389
+    "longitude": 16.6297389,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Jawo",
     "retailer": "jawo",
     "shop": "craft",
     "latitude": 48.6689387,
-    "longitude": 16.6289362
+    "longitude": 16.6289362,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -92,14 +132,18 @@
     "shop": "doityourself",
     "latitude": 48.6639915,
     "longitude": 16.6244853,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "meine Trafik",
     "retailer": "meine_trafik",
     "shop": "tobacco",
     "latitude": 48.6676913,
-    "longitude": 16.6298492
+    "longitude": 16.6298492,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -107,21 +151,30 @@
     "shop": "clothes",
     "latitude": 48.6680275,
     "longitude": 16.6286073,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Red Zac",
     "retailer": "red_zac",
     "shop": "electronics",
     "latitude": 48.6677127,
-    "longitude": 16.6296044
+    "longitude": 16.6296044,
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Robenzeit",
     "retailer": "robenzeit",
     "shop": "clothes",
     "latitude": 48.668604,
-    "longitude": 16.6297435
+    "longitude": 16.6297435,
+    "postcode": "2170",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -129,13 +182,19 @@
     "shop": "supermarket",
     "latitude": 48.6682051,
     "longitude": 16.6267461,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weltladen",
     "retailer": "weltladen",
     "shop": "gift",
     "latitude": 48.6677005,
-    "longitude": 16.6297367
+    "longitude": 16.6297367,
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

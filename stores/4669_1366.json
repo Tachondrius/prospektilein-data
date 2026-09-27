@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 46.699346,
     "longitude": 13.6671872,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9710",
+    "city": "Paternion",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -13,35 +17,55 @@
     "shop": "chemist",
     "latitude": 46.6973522,
     "longitude": 13.6696741,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9710",
+    "city": "Feistritz an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen Wastl",
     "retailer": "blumen_wastl",
     "shop": "florist",
     "latitude": 46.6996821,
-    "longitude": 13.6659269
+    "longitude": 13.6659269,
+    "postcode": "9710",
+    "city": "Feistritz",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fleischerei Sandriesser",
     "retailer": "fleischerei_sandriesser",
     "shop": "butcher",
     "latitude": 46.6985782,
-    "longitude": 13.6669891
+    "longitude": 13.6669891,
+    "postcode": "9710",
+    "city": "Paternion",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gerdie OG",
     "retailer": "gerdie_og",
     "shop": "stationery",
     "latitude": 46.6994994,
-    "longitude": 13.6661621
+    "longitude": 13.6661621,
+    "postcode": "9710",
+    "city": "Paternion",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Haarsalon Andrea Karitnig",
     "retailer": "haarsalon_andrea_karitnig",
     "shop": "hairdresser",
     "latitude": 46.6988967,
-    "longitude": 13.6667501
+    "longitude": 13.6667501,
+    "postcode": "9710",
+    "city": "Paternion",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -49,14 +73,18 @@
     "shop": "supermarket",
     "latitude": 46.6976628,
     "longitude": 13.6691056,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Maschinenring Oberkärnten",
     "retailer": "maschinenring_oberkarnten",
     "shop": "car",
     "latitude": 46.6984431,
-    "longitude": 13.6609331
+    "longitude": 13.6609331,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -64,14 +92,22 @@
     "shop": "clothes",
     "latitude": 46.6988194,
     "longitude": 13.6666652,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "9710",
+    "city": "Feistritz/Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Orthopädietechnik",
     "retailer": "orthopadietechnik",
     "shop": "supermarket",
     "latitude": 46.6989994,
-    "longitude": 13.6672799
+    "longitude": 13.6672799,
+    "postcode": "9710",
+    "city": "Paternion",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -79,13 +115,21 @@
     "shop": "supermarket",
     "latitude": 46.6989305,
     "longitude": 13.6659172,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9710",
+    "city": "Paternion",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sport's and Active Manfred Kolb",
     "retailer": "sport_s_und_active_manfred_kolb",
     "shop": "bicycle",
     "latitude": 46.6994021,
-    "longitude": 13.6654594
+    "longitude": 13.6654594,
+    "postcode": "9710",
+    "city": "Feistritz/Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

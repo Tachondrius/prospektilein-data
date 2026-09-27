@@ -5,14 +5,20 @@
     "shop": "shoes",
     "latitude": 47.141056,
     "longitude": 10.5486719,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Einrichter Huber Martin",
     "retailer": "einrichter_huber_martin",
     "shop": "furniture",
     "latitude": 47.1410198,
-    "longitude": 10.5457136
+    "longitude": 10.5457136,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ernsting's family",
@@ -20,14 +26,18 @@
     "shop": "clothes",
     "latitude": 47.1407018,
     "longitude": 10.5497225,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Expert EAH Fachhandel",
     "retailer": "expert_eah_fachhandel",
     "shop": "electronics",
     "latitude": 47.1412251,
-    "longitude": 10.5445924
+    "longitude": 10.5445924,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -35,14 +45,20 @@
     "shop": "supermarket",
     "latitude": 47.1406255,
     "longitude": 10.548225,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "McDriver Autozubehör & Tuning",
     "retailer": "mcdriver_autozubehor_und_tuning",
     "shop": "car_repair",
     "latitude": 47.1407215,
-    "longitude": 10.5459496
+    "longitude": 10.5459496,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "New Yorker",
@@ -50,6 +66,10 @@
     "shop": "clothes",
     "latitude": 47.1410802,
     "longitude": 10.5487837,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

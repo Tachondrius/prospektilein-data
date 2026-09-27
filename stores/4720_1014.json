@@ -4,56 +4,76 @@
     "retailer": "cafe_gotthard",
     "shop": "bakery",
     "latitude": 47.2067018,
-    "longitude": 10.1406497
+    "longitude": 10.1406497,
+    "postcode": "6764",
+    "city": "Lech",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.2091635,
-    "longitude": 10.141457
+    "longitude": 10.141457,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.2089741,
-    "longitude": 10.1414457
+    "longitude": 10.1414457,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Huber",
     "retailer": "huber",
     "shop": "jewelry",
     "latitude": 47.2082749,
-    "longitude": 10.1419255
+    "longitude": 10.1419255,
+    "postcode": "6764",
+    "city": "Lech",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Intersport Arlberg",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 47.2090637,
-    "longitude": 10.1421128
+    "longitude": 10.1421128,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Jewelry",
     "retailer": "shop_jewelry",
     "shop": "jewelry",
     "latitude": 47.2090875,
-    "longitude": 10.1414504
+    "longitude": 10.1414504,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kaufhaus Filomena",
     "retailer": "kaufhaus_filomena",
     "shop": "mall",
     "latitude": 47.2070093,
-    "longitude": 10.1400408
+    "longitude": 10.1400408,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Outdoor",
     "retailer": "shop_outdoor",
     "shop": "outdoor",
     "latitude": 47.2068976,
-    "longitude": 10.1401969
+    "longitude": 10.1401969,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -61,34 +81,52 @@
     "shop": "supermarket",
     "latitude": 47.2069765,
     "longitude": 10.1402867,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6764",
+    "city": "Lech",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sport Alp",
     "retailer": "sport_alp",
     "shop": "clothes",
     "latitude": 47.2092293,
-    "longitude": 10.1414501
+    "longitude": 10.1414501,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sporthaus Strolz",
     "retailer": "sporthaus_strolz",
     "shop": "sports",
     "latitude": 47.2084623,
-    "longitude": 10.142097
+    "longitude": 10.142097,
+    "postcode": "6764",
+    "city": "Lech",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Strolz am Rüfiplatz",
     "retailer": "strolz_am_rufiplatz",
     "shop": "mall",
     "latitude": 47.2078047,
-    "longitude": 10.1421697
+    "longitude": 10.1421697,
+    "postcode": "6764",
+    "city": "Lech",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Strolz Ski-Service",
     "retailer": "strolz_ski_service",
     "shop": "sports",
     "latitude": 47.2087061,
-    "longitude": 10.1413281
+    "longitude": 10.1413281,
+    "postcode": "6764",
+    "city": "Lech",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

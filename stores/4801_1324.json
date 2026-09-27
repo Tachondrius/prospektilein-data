@@ -4,14 +4,20 @@
     "retailer": "cafe_backerei_heinzl",
     "shop": "bakery",
     "latitude": 48.016891,
-    "longitude": 13.2478179
+    "longitude": 13.2478179,
+    "postcode": "5211",
+    "city": "Friedburg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "elektro Essl",
     "retailer": "elektro_essl",
     "shop": "electronics",
     "latitude": 48.0193335,
-    "longitude": 13.2447714
+    "longitude": 13.2447714,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Franz Voggenberger",
@@ -19,21 +25,29 @@
     "shop": "car_repair",
     "latitude": 48.0174043,
     "longitude": 13.248132,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "5211",
+    "city": "Lengau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Getränke Feneberg",
     "retailer": "getranke_feneberg",
     "shop": "beverages",
     "latitude": 48.0185803,
-    "longitude": 13.2488429
+    "longitude": 13.2488429,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Metzgerei Edtbauer",
     "retailer": "metzgerei_edtbauer",
     "shop": "butcher",
     "latitude": 48.0193003,
-    "longitude": 13.245058
+    "longitude": 13.245058,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -41,6 +55,10 @@
     "shop": "supermarket",
     "latitude": 48.0173555,
     "longitude": 13.2494154,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "5211",
+    "city": "Lengau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

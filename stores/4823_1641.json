@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.2305191,
     "longitude": 16.414729,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 48.235015,
     "longitude": 16.4107421,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -21,28 +29,38 @@
     "shop": "chemist",
     "latitude": 48.2329557,
     "longitude": 16.4131288,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Chocoberry",
     "retailer": "chocoberry",
     "shop": "chocolate",
     "latitude": 48.2309867,
-    "longitude": 16.4115145
+    "longitude": 16.4115145,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Coiffeur Donaucity",
     "retailer": "coiffeur_donaucity",
     "shop": "hairdresser",
     "latitude": 48.2351127,
-    "longitude": 16.410921
+    "longitude": 16.410921,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Convenience",
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 48.2304152,
-    "longitude": 16.4174458
+    "longitude": 16.4174458,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Der Mann",
@@ -50,14 +68,20 @@
     "shop": "bakery",
     "latitude": 48.2325523,
     "longitude": 16.4159779,
-    "brand": "Der Mann"
+    "brand": "Der Mann",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fahrradverleih Copa Beach",
     "retailer": "fahrradverleih_copa_beach",
     "shop": "rental",
     "latitude": 48.2307889,
-    "longitude": 16.4117728
+    "longitude": 16.4117728,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -65,21 +89,29 @@
     "shop": "supermarket",
     "latitude": 48.2328026,
     "longitude": 16.4122062,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "IAEA",
     "retailer": "iaea",
     "shop": "supermarket",
     "latitude": 48.2360148,
-    "longitude": 16.4173856
+    "longitude": 16.4173856,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Liliputbahn im Prater GmbH",
     "retailer": "liliputbahn_im_prater_gmbh",
     "shop": "ticket",
     "latitude": 48.238682,
-    "longitude": 16.4174866
+    "longitude": 16.4174866,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Schwandl",
@@ -87,7 +119,11 @@
     "shop": "car",
     "latitude": 48.2332542,
     "longitude": 16.4196158,
-    "brand": "Volkswagen;Audi"
+    "brand": "Volkswagen;Audi",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "spusu",
@@ -95,14 +131,20 @@
     "shop": "mobile_phone",
     "latitude": 48.2320099,
     "longitude": 16.4127312,
-    "brand": "spusu"
+    "brand": "spusu",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Strycek",
     "retailer": "strycek",
     "shop": "hairdresser",
     "latitude": 48.2303659,
-    "longitude": 16.4174982
+    "longitude": 16.4174982,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ströck",
@@ -110,20 +152,28 @@
     "shop": "bakery",
     "latitude": 48.2327963,
     "longitude": 16.4127419,
-    "brand": "Ströck"
+    "brand": "Ströck",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 48.2323768,
-    "longitude": 16.4155781
+    "longitude": 16.4155781,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.2305056,
-    "longitude": 16.4173086
+    "longitude": 16.4173086,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

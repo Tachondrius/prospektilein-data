@@ -5,7 +5,11 @@
     "shop": "chemist",
     "latitude": 47.2303966,
     "longitude": 10.8567019,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fristo",
@@ -13,7 +17,11 @@
     "shop": "beverages",
     "latitude": 47.2309189,
     "longitude": 10.8545437,
-    "brand": "Fristo"
+    "brand": "Fristo",
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -21,14 +29,22 @@
     "shop": "supermarket",
     "latitude": 47.2310899,
     "longitude": 10.855744,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "IMPASTO RAHMEN + DESIGN",
     "retailer": "impasto_rahmen_plus_design",
     "shop": "interior_decoration",
     "latitude": 47.2318905,
-    "longitude": 10.853115
+    "longitude": 10.853115,
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lagerhaus",
@@ -36,28 +52,42 @@
     "shop": "doityourself",
     "latitude": 47.2379862,
     "longitude": 10.8561997,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Leiner",
     "retailer": "leiner",
     "shop": "jewelry",
     "latitude": 47.2358283,
-    "longitude": 10.8538893
+    "longitude": 10.8538893,
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Modezentrum Wammes",
     "retailer": "modezentrum_wammes",
     "shop": "clothes",
     "latitude": 47.237468,
-    "longitude": 10.8592766
+    "longitude": 10.8592766,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Motorsportzentrum Carworld Oetztal",
     "retailer": "motorsportzentrum_carworld_oetztal",
     "shop": "car",
     "latitude": 47.2311735,
-    "longitude": 10.8537213
+    "longitude": 10.8537213,
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -65,7 +95,11 @@
     "shop": "supermarket",
     "latitude": 47.231833,
     "longitude": 10.854956,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -73,48 +107,74 @@
     "shop": "supermarket",
     "latitude": 47.2376168,
     "longitude": 10.8584785,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nadine Hair & Beauty",
     "retailer": "nadine_hair_und_beauty",
     "shop": "hairdresser",
     "latitude": 47.2379699,
-    "longitude": 10.8595068
+    "longitude": 10.8595068,
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak-Trafik Tipotsch",
     "retailer": "tabak_trafik_tipotsch",
     "shop": "kiosk",
     "latitude": 47.238042,
-    "longitude": 10.8594943
+    "longitude": 10.8594943,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabaktrafik",
     "retailer": "tabaktrafik",
     "shop": "tobacco",
     "latitude": 47.2313663,
-    "longitude": 10.8549588
+    "longitude": 10.8549588,
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vögele",
     "retailer": "vogele",
     "shop": "shoes",
     "latitude": 47.2305859,
-    "longitude": 10.8564794
+    "longitude": 10.8564794,
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wammes Modezentrum",
     "retailer": "wammes_modezentrum",
     "shop": "clothes",
     "latitude": 47.2375096,
-    "longitude": 10.8591323
+    "longitude": 10.8591323,
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ötztal Bäck - Filiale Ötztaler Höhe",
     "retailer": "otztal_back_filiale_otztaler_hohe",
     "shop": "bakery",
     "latitude": 47.2314366,
-    "longitude": 10.8548588
+    "longitude": 10.8548588,
+    "postcode": "6430",
+    "city": "Haiming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

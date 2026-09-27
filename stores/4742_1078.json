@@ -5,20 +5,32 @@
     "shop": "supermarket",
     "latitude": 47.4226478,
     "longitude": 10.7837546,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6621",
+    "city": "Bichlbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NAGELE bike.snow.mountain sports",
     "retailer": "nagele_bike_snow_mountain_sports",
     "shop": "bicycle",
     "latitude": 47.4205721,
-    "longitude": 10.7897148
+    "longitude": 10.7897148,
+    "postcode": "6621",
+    "city": "Bichlbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "OIL",
     "retailer": "oil",
     "shop": "yes",
     "latitude": 47.4228129,
-    "longitude": 10.7828706
+    "longitude": 10.7828706,
+    "postcode": "6621",
+    "city": "Bichlbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

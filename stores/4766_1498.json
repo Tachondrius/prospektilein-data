@@ -4,14 +4,20 @@
     "retailer": "elfriede_sernetz",
     "shop": "hairdresser",
     "latitude": 47.6645995,
-    "longitude": 14.9855589
+    "longitude": 14.9855589,
+    "postcode": "8924",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Liquid-Lifestyle",
     "retailer": "liquid_lifestyle",
     "shop": "sports",
     "latitude": 47.6645283,
-    "longitude": 14.9857546
+    "longitude": 14.9857546,
+    "postcode": "8924",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch",
@@ -19,6 +25,8 @@
     "shop": "supermarket",
     "latitude": 47.6651495,
     "longitude": 14.9839319,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

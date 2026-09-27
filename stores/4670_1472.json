@@ -4,21 +4,29 @@
     "retailer": "adeg",
     "shop": "supermarket",
     "latitude": 46.7016703,
-    "longitude": 14.7286109
+    "longitude": 14.7286109,
+    "postcode": "9112",
+    "city": "Griffen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Buchleitner",
     "retailer": "backerei_buchleitner",
     "shop": "bakery",
     "latitude": 46.7030375,
-    "longitude": 14.7294051
+    "longitude": 14.7294051,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Friseur Haarlekin Sickinger Angelika",
     "retailer": "friseur_haarlekin_sickinger_angelika",
     "shop": "hairdresser",
     "latitude": 46.7023929,
-    "longitude": 14.7290169
+    "longitude": 14.7290169,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Marko KFZ GmbH",
@@ -26,13 +34,19 @@
     "shop": "car",
     "latitude": 46.7011234,
     "longitude": 14.7248875,
-    "brand": "Mitsubishi"
+    "brand": "Mitsubishi",
+    "postcode": "9112",
+    "city": "Griffen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "RGM KFZ-Technik und Design",
     "retailer": "rgm_kfz_technik_und_design",
     "shop": "car_repair",
     "latitude": 46.7024395,
-    "longitude": 14.7264163
+    "longitude": 14.7264163,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

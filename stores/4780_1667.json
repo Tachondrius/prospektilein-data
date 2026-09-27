@@ -5,153 +5,211 @@
     "shop": "supermarket",
     "latitude": 47.8010122,
     "longitude": 16.6723163,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "7071",
+    "city": "Rust",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bäckerei Altdorfer",
     "retailer": "backerei_altdorfer",
     "shop": "bakery",
     "latitude": 47.8015618,
-    "longitude": 16.6762562
+    "longitude": 16.6762562,
+    "postcode": "7071",
+    "city": "Rust",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bäckerei-Konditorei Bariszlovits",
     "retailer": "backerei_konditorei_bariszlovits",
     "shop": "bakery",
     "latitude": 47.8001511,
-    "longitude": 16.6729965
+    "longitude": 16.6729965,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Christine Stagl",
     "retailer": "christine_stagl",
     "shop": "hairdresser",
     "latitude": 47.8005017,
-    "longitude": 16.6740253
+    "longitude": 16.6740253,
+    "postcode": "7071",
+    "city": "Rust",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Eismeister",
     "retailer": "eismeister",
     "shop": "kiosk",
     "latitude": 47.8030214,
-    "longitude": 16.6777632
+    "longitude": 16.6777632,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Eissalon Statzinger",
     "retailer": "eissalon_statzinger",
     "shop": "ice_cream",
     "latitude": 47.802014,
-    "longitude": 16.6720658
+    "longitude": 16.6720658,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fahrrad Migschitz",
     "retailer": "fahrrad_migschitz",
     "shop": "bicycle",
     "latitude": 47.8030937,
-    "longitude": 16.6714759
+    "longitude": 16.6714759,
+    "postcode": "7071",
+    "city": "Rust",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fleischerei Karassowitsch",
     "retailer": "fleischerei_karassowitsch",
     "shop": "butcher",
     "latitude": 47.8002863,
-    "longitude": 16.6723018
+    "longitude": 16.6723018,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Geschenkestube \"Alles Liebe\"",
     "retailer": "geschenkestube_alles_liebe",
     "shop": "gift",
     "latitude": 47.8015389,
-    "longitude": 16.6762297
+    "longitude": 16.6762297,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Giefing",
     "retailer": "giefing",
     "shop": "wine",
     "latitude": 47.8014233,
-    "longitude": 16.6756059
+    "longitude": 16.6756059,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 47.8008686,
-    "longitude": 16.6754906
+    "longitude": 16.6754906,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Holzkunst Markus Wiesinger",
     "retailer": "holzkunst_markus_wiesinger",
     "shop": "gift",
     "latitude": 47.8007105,
-    "longitude": 16.6752472
+    "longitude": 16.6752472,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ruster Optik",
     "retailer": "ruster_optik",
     "shop": "optician",
     "latitude": 47.80117,
-    "longitude": 16.6760711
+    "longitude": 16.6760711,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.800866,
-    "longitude": 16.672092
+    "longitude": 16.672092,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 47.800513,
-    "longitude": 16.6756684
+    "longitude": 16.6756684,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Triebaumer Richard",
     "retailer": "triebaumer_richard",
     "shop": "supermarket",
     "latitude": 47.8005199,
-    "longitude": 16.675371
+    "longitude": 16.675371,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Triebaumer Wein OEG",
     "retailer": "triebaumer_wein_oeg",
     "shop": "convenience",
     "latitude": 47.8005567,
-    "longitude": 16.6752587
+    "longitude": 16.6752587,
+    "postcode": "7071",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weinbar Karnerhof",
     "retailer": "weinbar_karnerhof",
     "shop": "wine",
     "latitude": 47.8000759,
-    "longitude": 16.6743413
+    "longitude": 16.6743413,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weinbau Michael Wenzel",
     "retailer": "weinbau_michael_wenzel",
     "shop": "wine",
     "latitude": 47.8016869,
-    "longitude": 16.676874
+    "longitude": 16.676874,
+    "postcode": "7071",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weingut Kraft aus Rust",
     "retailer": "weingut_kraft_aus_rust",
     "shop": "wine",
     "latitude": 47.800854,
-    "longitude": 16.673561
+    "longitude": 16.673561,
+    "postcode": "7071",
+    "city": "Rust",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weingut Landauer",
     "retailer": "weingut_landauer",
     "shop": "wine",
     "latitude": 47.8010609,
-    "longitude": 16.6765697
+    "longitude": 16.6765697,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weingut Peter Schandl",
     "retailer": "weingut_peter_schandl",
     "shop": "wine",
     "latitude": 47.8011584,
-    "longitude": 16.6765438
+    "longitude": 16.6765438,
+    "postcode": "7071",
+    "city": "Rust",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

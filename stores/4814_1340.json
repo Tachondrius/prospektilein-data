@@ -4,21 +4,33 @@
     "retailer": "andrea_lechner",
     "shop": "hairdresser",
     "latitude": 48.1441504,
-    "longitude": 13.4050031
+    "longitude": 13.4050031,
+    "postcode": "4923",
+    "city": "Lohnsburg am Kobernaußerwald",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei & Cafe Krautgartner",
     "retailer": "backerei_und_cafe_krautgartner",
     "shop": "bakery",
     "latitude": 48.1432068,
-    "longitude": 13.4061168
+    "longitude": 13.4061168,
+    "postcode": "4923",
+    "city": "Lohnsburg am Kobernaußerwald",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Leitner Ergomöbel GmbH",
     "retailer": "leitner_ergomobel_gmbh",
     "shop": "furniture",
     "latitude": 48.1427532,
-    "longitude": 13.4068721
+    "longitude": 13.4068721,
+    "postcode": "4923",
+    "city": "Lohnsburg am Kobernaußerwald",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -26,13 +38,19 @@
     "shop": "supermarket",
     "latitude": 48.142804,
     "longitude": 13.4097294,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4923",
+    "city": "Lohnsburg am Kobernaußerwald",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.144041,
-    "longitude": 13.4065256
+    "longitude": 13.4065256,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

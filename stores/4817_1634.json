@@ -4,7 +4,11 @@
     "retailer": "26zoll",
     "shop": "bicycle",
     "latitude": 48.1779438,
-    "longitude": 16.3404376
+    "longitude": 16.3404376,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,7 +16,9 @@
     "shop": "supermarket",
     "latitude": 48.1750934,
     "longitude": 16.3485932,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -20,42 +26,61 @@
     "shop": "supermarket",
     "latitude": 48.1787662,
     "longitude": 16.345829,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen Zimer",
     "retailer": "blumen_zimer",
     "shop": "florist",
     "latitude": 48.173641,
-    "longitude": 16.3444832
+    "longitude": 16.3444832,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "DEVA SUPERMARKT",
     "retailer": "deva_supermarkt",
     "shop": "supermarket",
     "latitude": 48.170581,
-    "longitude": 16.342077
+    "longitude": 16.342077,
+    "postcode": "1120",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ernst Kochendörfer Inh. Müllner's Nfg. & Witt KG",
     "retailer": "ernst_kochendorfer_inh_mullner_s_nfg_und_witt_kg",
     "shop": "wood",
     "latitude": 48.1766951,
-    "longitude": 16.3421814
+    "longitude": 16.3421814,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lena Hoschek Atelier",
     "retailer": "lena_hoschek_atelier",
     "shop": "tailor",
     "latitude": 48.1793807,
-    "longitude": 16.34099
+    "longitude": 16.34099,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Liya's Coffee & Backatelier",
     "retailer": "liya_s_coffee_und_backatelier",
     "shop": "bakery",
     "latitude": 48.1782799,
-    "longitude": 16.3409016
+    "longitude": 16.3409016,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Pagro",
@@ -63,14 +88,20 @@
     "shop": "stationery",
     "latitude": 48.1784753,
     "longitude": 16.3454068,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Schnitt-Company Nicole",
     "retailer": "schnitt_company_nicole",
     "shop": "hairdresser",
     "latitude": 48.174787,
-    "longitude": 16.3472414
+    "longitude": 16.3472414,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ströck",
@@ -78,27 +109,40 @@
     "shop": "bakery",
     "latitude": 48.1734245,
     "longitude": 16.3492232,
-    "brand": "Ströck"
+    "brand": "Ströck",
+    "postcode": "1100",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik Karner",
     "retailer": "tabak_trafik_karner",
     "shop": "tobacco",
     "latitude": 48.1705872,
-    "longitude": 16.3429114
+    "longitude": 16.3429114,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik Walter",
     "retailer": "tabak_trafik_walter",
     "shop": "tobacco",
     "latitude": 48.1799764,
-    "longitude": 16.3427616
+    "longitude": 16.3427616,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabaktrafik Hana Metry",
     "retailer": "tabaktrafik_hana_metry",
     "shop": "tobacco",
     "latitude": 48.1786193,
-    "longitude": 16.3424976
+    "longitude": 16.3424976,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

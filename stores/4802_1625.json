@@ -4,13 +4,19 @@
     "retailer": "schafler_wein_most_und_schmankerl_samstag_und_sonntag_bei_schonwetter",
     "shop": "kiosk",
     "latitude": 48.029773,
-    "longitude": 16.2570711
+    "longitude": 16.2570711,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sportunion Pfaffstätten",
     "retailer": "sportunion_pfaffstatten",
     "shop": "sports",
     "latitude": 48.0201751,
-    "longitude": 16.2573952
+    "longitude": 16.2573952,
+    "postcode": "2511",
+    "city": "Pfaffstätten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

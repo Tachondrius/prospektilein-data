@@ -5,7 +5,11 @@
     "shop": "car_repair",
     "latitude": 46.6911475,
     "longitude": 15.2557175,
-    "brand": "Hyundai"
+    "brand": "Hyundai",
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Theisl",
@@ -13,14 +17,22 @@
     "shop": "car_repair",
     "latitude": 46.6925266,
     "longitude": 15.2585311,
-    "brand": "VW"
+    "brand": "VW",
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eier-Kürbiskernöl Moser",
     "retailer": "eier_kurbiskernol_moser",
     "shop": "farm",
     "latitude": 46.6915217,
-    "longitude": 15.2582871
+    "longitude": 15.2582871,
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hagebaumarkt",
@@ -28,14 +40,22 @@
     "shop": "doityourself",
     "latitude": 46.6901605,
     "longitude": 15.250342,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kleindienst Wohnwelten",
     "retailer": "kleindienst_wohnwelten",
     "shop": "furniture",
     "latitude": 46.6922819,
-    "longitude": 15.2580576
+    "longitude": 15.2580576,
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sport 2000",
@@ -43,6 +63,10 @@
     "shop": "sports",
     "latitude": 46.6903156,
     "longitude": 15.2512529,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

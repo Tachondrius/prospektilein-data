@@ -5,13 +5,17 @@
     "shop": "car",
     "latitude": 48.2537569,
     "longitude": 14.2485596,
-    "brand": "Honda;Mitsubishi;Suzuki;Volvo;Land Rover;Jaguar"
+    "brand": "Honda;Mitsubishi;Suzuki;Volvo;Land Rover;Jaguar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "x-drinks",
     "retailer": "x_drinks",
     "shop": "beverages",
     "latitude": 48.2520588,
-    "longitude": 14.247612
+    "longitude": 14.247612,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

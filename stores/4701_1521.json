@@ -5,13 +5,20 @@
     "shop": "doityourself",
     "latitude": 47.0111045,
     "longitude": 15.2131346,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8564",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lorber",
     "retailer": "lorber",
     "shop": "newsagent",
     "latitude": 47.010777,
-    "longitude": 15.2153612
+    "longitude": 15.2153612,
+    "postcode": "8564",
+    "city": "Krottendorf-Gaisfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

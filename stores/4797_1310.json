@@ -4,7 +4,9 @@
     "retailer": "auto_strasser",
     "shop": "car",
     "latitude": 47.9738481,
-    "longitude": 13.1012393
+    "longitude": 13.1012393,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -12,69 +14,99 @@
     "shop": "supermarket",
     "latitude": 47.9743565,
     "longitude": 13.1025157,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5163",
+    "city": "Mattsee",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Biosthetik Friseur",
     "retailer": "biosthetik_friseur",
     "shop": "hairdresser",
     "latitude": 47.9710423,
-    "longitude": 13.1049707
+    "longitude": 13.1049707,
+    "postcode": "5163",
+    "city": "Mattsee",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Die Galerie der Sinne",
     "retailer": "die_galerie_der_sinne",
     "shop": "clothes",
     "latitude": 47.9709715,
-    "longitude": 13.10382
+    "longitude": 13.10382,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Elektro Lögl",
     "retailer": "elektro_logl",
     "shop": "department_store",
     "latitude": 47.9710643,
-    "longitude": 13.1039379
+    "longitude": 13.1039379,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fischergütl Pertiller",
     "retailer": "fischergutl_pertiller",
     "shop": "seafood",
     "latitude": 47.9717304,
-    "longitude": 13.1034821
+    "longitude": 13.1034821,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "in pretty good shape",
     "retailer": "in_pretty_good_shape",
     "shop": "interior_decoration",
     "latitude": 47.9704724,
-    "longitude": 13.1029004
+    "longitude": 13.1029004,
+    "postcode": "5163",
+    "city": "Mattsee",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Neuhofer",
     "retailer": "neuhofer",
     "shop": "bakery",
     "latitude": 47.9701513,
-    "longitude": 13.1044083
+    "longitude": 13.1044083,
+    "postcode": "5163",
+    "city": "Mattsee",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "optik:wieland",
     "retailer": "optik_wieland",
     "shop": "optician",
     "latitude": 47.9702831,
-    "longitude": 13.1051204
+    "longitude": 13.1051204,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sunbeam Shop Österreich",
     "retailer": "sunbeam_shop_osterreich",
     "shop": "outdoor",
     "latitude": 47.9700099,
-    "longitude": 13.1042693
+    "longitude": 13.1042693,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak Trafik Pötzelsberger",
     "retailer": "tabak_trafik_potzelsberger",
     "shop": "tobacco",
     "latitude": 47.9709889,
-    "longitude": 13.1048739
+    "longitude": 13.1048739,
+    "postcode": "5163",
+    "city": "Mattsee",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

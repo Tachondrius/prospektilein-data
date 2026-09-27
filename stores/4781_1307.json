@@ -4,27 +4,39 @@
     "retailer": "backerei_flockner",
     "shop": "bakery",
     "latitude": 47.8137312,
-    "longitude": 13.0768104
+    "longitude": 13.0768104,
+    "postcode": "5023",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fuchsberger",
     "retailer": "fuchsberger",
     "shop": "florist",
     "latitude": 47.8115163,
-    "longitude": 13.0730558
+    "longitude": 13.0730558,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hair-Style Mirjam Krenn",
     "retailer": "hair_style_mirjam_krenn",
     "shop": "hairdresser",
     "latitude": 47.8116589,
-    "longitude": 13.0725432
+    "longitude": 13.0725432,
+    "postcode": "5023",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Popolini",
     "retailer": "popolini",
     "shop": "baby_goods",
     "latitude": 47.8133003,
-    "longitude": 13.0718709
+    "longitude": 13.0718709,
+    "postcode": "5023",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

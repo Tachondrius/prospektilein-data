@@ -4,7 +4,11 @@
     "retailer": "backerei_stefan_gusenbauer",
     "shop": "bakery",
     "latitude": 48.3597419,
-    "longitude": 14.8970819
+    "longitude": 14.8970819,
+    "postcode": "4372",
+    "city": "St. Georgen am Walde",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -12,7 +16,9 @@
     "shop": "supermarket",
     "latitude": 48.3573701,
     "longitude": 14.8968681,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Peugeot Robert Klaus",
@@ -20,13 +26,21 @@
     "shop": "car",
     "latitude": 48.3593088,
     "longitude": 14.8959715,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "4372",
+    "city": "St. Georgen am Walde",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Postpartner 4372, B&B Sport & Service",
     "retailer": "postpartner_4372_b_und_b_sport_und_service",
     "shop": "sports",
     "latitude": 48.3596165,
-    "longitude": 14.8964616
+    "longitude": 14.8964616,
+    "postcode": "4372",
+    "city": "St. Georgen am Walde",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

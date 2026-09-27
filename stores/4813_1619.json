@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 48.1357583,
     "longitude": 16.1905979,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "2384",
+    "city": "Breitenfurt bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dewanger",
     "retailer": "dewanger",
     "shop": "funeral_directors",
     "latitude": 48.1364998,
-    "longitude": 16.1960522
+    "longitude": 16.1960522,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -20,34 +26,54 @@
     "shop": "supermarket",
     "latitude": 48.1362161,
     "longitude": 16.1927012,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2384",
+    "city": "Breitenfurt bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Schillhammer",
     "retailer": "kfz_schillhammer",
     "shop": "car_repair",
     "latitude": 48.1359251,
-    "longitude": 16.194152
+    "longitude": 16.194152,
+    "postcode": "2384",
+    "city": "Breitenfurt bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MULTIDATA",
     "retailer": "multidata",
     "shop": "computer",
     "latitude": 48.1364425,
-    "longitude": 16.1917058
+    "longitude": 16.1917058,
+    "postcode": "2384",
+    "city": "Breitenfurt bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Szihn",
     "retailer": "szihn",
     "shop": "bakery",
     "latitude": 48.1358561,
-    "longitude": 16.1923409
+    "longitude": 16.1923409,
+    "postcode": "2384",
+    "city": "Breitenfurt bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zahntechnisches Labor Reinhard Jauernig",
     "retailer": "zahntechnisches_labor_reinhard_jauernig",
     "shop": "medical",
     "latitude": 48.1374741,
-    "longitude": 16.1904152
+    "longitude": 16.1904152,
+    "postcode": "2384",
+    "city": "Breitenfurt bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

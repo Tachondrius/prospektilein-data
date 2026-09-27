@@ -5,13 +5,19 @@
     "shop": "sports",
     "latitude": 47.5076135,
     "longitude": 12.2934651,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Variety Store",
     "retailer": "shop_variety_store",
     "shop": "variety_store",
     "latitude": 47.5037265,
-    "longitude": 12.2955125
+    "longitude": 12.2955125,
+    "postcode": "6352",
+    "city": "Ellmau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

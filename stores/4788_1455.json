@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.8863205,
     "longitude": 14.5531486,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4463",
+    "city": "Großraming",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pranzl Mode",
     "retailer": "pranzl_mode",
     "shop": "clothes",
     "latitude": 47.8866865,
-    "longitude": 14.5508259
+    "longitude": 14.5508259,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

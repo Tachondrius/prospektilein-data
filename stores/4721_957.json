@@ -4,7 +4,10 @@
     "retailer": "trafik_seifried",
     "shop": "tobacco",
     "latitude": 47.2189243,
-    "longitude": 9.57227
+    "longitude": 9.57227,
+    "postcode": "6800",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "ÖAMTC Grenzstation Tisis",
@@ -12,6 +15,10 @@
     "shop": "toll",
     "latitude": 47.218331,
     "longitude": 9.571223,
-    "brand": "ÖAMTC"
+    "brand": "ÖAMTC",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

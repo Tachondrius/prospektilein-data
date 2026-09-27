@@ -5,14 +5,22 @@
     "shop": "car",
     "latitude": 47.1701471,
     "longitude": 14.6425415,
-    "brand": "Ford;Volvo;BYD"
+    "brand": "Ford;Volvo;BYD",
+    "postcode": "8750",
+    "city": "Judenburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "CUT and STYLE",
     "retailer": "cut_und_style",
     "shop": "hairdresser",
     "latitude": 47.1710442,
-    "longitude": 14.6434155
+    "longitude": 14.6434155,
+    "postcode": "8750",
+    "city": "Judenburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -20,7 +28,11 @@
     "shop": "supermarket",
     "latitude": 47.1716324,
     "longitude": 14.6421116,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8750",
+    "city": "Judenburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Neuper GmbH",
@@ -28,6 +40,10 @@
     "shop": "car",
     "latitude": 47.1710843,
     "longitude": 14.6404964,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "8750",
+    "city": "Judenburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

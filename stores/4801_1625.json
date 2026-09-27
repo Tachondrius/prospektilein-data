@@ -5,7 +5,9 @@
     "shop": "bakery",
     "latitude": 48.0116138,
     "longitude": 16.2536439,
-    "brand": "Anker"
+    "brand": "Anker",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,14 +15,20 @@
     "shop": "chemist",
     "latitude": 48.0115896,
     "longitude": 16.2538313,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DAN Küchen",
     "retailer": "dan_kuchen",
     "shop": "kitchen",
     "latitude": 48.0116842,
-    "longitude": 16.2537971
+    "longitude": 16.2537971,
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Das Futterhaus",
@@ -28,7 +36,11 @@
     "shop": "pet",
     "latitude": 48.0142539,
     "longitude": 16.2574029,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichmann",
@@ -36,7 +48,9 @@
     "shop": "shoes",
     "latitude": 48.0119056,
     "longitude": 16.2536708,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Depot",
@@ -44,7 +58,9 @@
     "shop": "interior_decoration",
     "latitude": 48.0117223,
     "longitude": 16.2529719,
-    "brand": "Depot"
+    "brand": "Depot",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -52,7 +68,11 @@
     "shop": "chemist",
     "latitude": 48.0141057,
     "longitude": 16.2574784,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -60,7 +80,11 @@
     "shop": "supermarket",
     "latitude": 48.0145135,
     "longitude": 16.2566879,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fressnapf",
@@ -68,7 +92,9 @@
     "shop": "pet",
     "latitude": 48.0120949,
     "longitude": 16.253564,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fussl",
@@ -76,21 +102,27 @@
     "shop": "clothes",
     "latitude": 48.0117325,
     "longitude": 16.2528001,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haarcult",
     "retailer": "haarcult",
     "shop": "hairdresser",
     "latitude": 48.0132356,
-    "longitude": 16.2540445
+    "longitude": 16.2540445,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haarstudio Sandra",
     "retailer": "haarstudio_sandra",
     "shop": "hairdresser",
     "latitude": 48.014114,
-    "longitude": 16.2597247
+    "longitude": 16.2597247,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -98,21 +130,33 @@
     "shop": "supermarket",
     "latitude": 48.013105,
     "longitude": 16.2568246,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ing. Kurt Zickler KG",
     "retailer": "ing_kurt_zickler_kg",
     "shop": "repair",
     "latitude": 48.0168447,
-    "longitude": 16.2581461
+    "longitude": 16.2581461,
+    "postcode": "2511",
+    "city": "Pfaffstätten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Hauke",
     "retailer": "kfz_hauke",
     "shop": "car_repair",
     "latitude": 48.0147497,
-    "longitude": 16.2580289
+    "longitude": 16.2580289,
+    "postcode": "2511",
+    "city": "Pfaffstätten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klipp",
@@ -120,7 +164,9 @@
     "shop": "hairdresser",
     "latitude": 48.0116497,
     "longitude": 16.2535718,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -128,7 +174,9 @@
     "shop": "books",
     "latitude": 48.0116977,
     "longitude": 16.2533876,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -136,21 +184,29 @@
     "shop": "supermarket",
     "latitude": 48.0124219,
     "longitude": 16.2537062,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.0116105,
-    "longitude": 16.2532171
+    "longitude": 16.2532171,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.0118343,
-    "longitude": 16.2538711
+    "longitude": 16.2538711,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Matratzen Concord",
@@ -158,7 +214,9 @@
     "shop": "bed",
     "latitude": 48.011813,
     "longitude": 16.2537272,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -166,14 +224,18 @@
     "shop": "clothes",
     "latitude": 48.0117094,
     "longitude": 16.2531167,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Profio",
     "retailer": "profio",
     "shop": "car_parts",
     "latitude": 48.0125923,
-    "longitude": 16.250818
+    "longitude": 16.250818,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Radatz Wurst-Großmarkt",
@@ -181,14 +243,20 @@
     "shop": "butcher",
     "latitude": 48.0135979,
     "longitude": 16.2578061,
-    "brand": "Radatz"
+    "brand": "Radatz",
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schrahböck",
     "retailer": "schrahbock",
     "shop": "toys",
     "latitude": 48.0117033,
-    "longitude": 16.2532672
+    "longitude": 16.2532672,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -196,7 +264,9 @@
     "shop": "clothes",
     "latitude": 48.011996,
     "longitude": 16.2536192,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -204,14 +274,22 @@
     "shop": "variety_store",
     "latitude": 48.0135537,
     "longitude": 16.2547868,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TopAsia Supermarkt",
     "retailer": "topasia_supermarkt",
     "shop": "supermarket",
     "latitude": 48.0135192,
-    "longitude": 16.2570298
+    "longitude": 16.2570298,
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Toyota Ulrichshofer",
@@ -219,6 +297,10 @@
     "shop": "car",
     "latitude": 48.0144226,
     "longitude": 16.2523302,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

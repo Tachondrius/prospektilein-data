@@ -5,56 +5,82 @@
     "shop": "supermarket",
     "latitude": 46.6530308,
     "longitude": 14.3127419,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen Germ GmbH",
     "retailer": "blumen_germ_gmbh",
     "shop": "florist",
     "latitude": 46.6507327,
-    "longitude": 14.3141319
+    "longitude": 14.3141319,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen Skofitsch",
     "retailer": "blumen_skofitsch",
     "shop": "florist",
     "latitude": 46.651077,
-    "longitude": 14.3135231
+    "longitude": 14.3135231,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Die Haarwerkstatt",
     "retailer": "die_haarwerkstatt",
     "shop": "hairdresser",
     "latitude": 46.6505787,
-    "longitude": 14.3136947
+    "longitude": 14.3136947,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 46.650401,
-    "longitude": 14.3157377
+    "longitude": 14.3157377,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Karosserie Koch",
     "retailer": "karosserie_koch",
     "shop": "car_repair",
     "latitude": 46.6501242,
-    "longitude": 14.3137316
+    "longitude": 14.3137316,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Malerbedarf Kronawetter",
     "retailer": "malerbedarf_kronawetter",
     "shop": "doityourself",
     "latitude": 46.6520607,
-    "longitude": 14.313961
+    "longitude": 14.313961,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Orthopädie Grübler/Lechner",
     "retailer": "orthopadie_grubler_lechner",
     "shop": "shoes",
     "latitude": 46.6506743,
-    "longitude": 14.3136753
+    "longitude": 14.3136753,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar Express",
@@ -62,7 +88,11 @@
     "shop": "convenience",
     "latitude": 46.6531925,
     "longitude": 14.3134162,
-    "brand": "Spar Express"
+    "brand": "Spar Express",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Toyota Denzel Klagenfurt",
@@ -70,13 +100,19 @@
     "shop": "car",
     "latitude": 46.6540165,
     "longitude": 14.3131763,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Traffik",
     "retailer": "traffik",
     "shop": "kiosk",
     "latitude": 46.6505698,
-    "longitude": 14.3141572
+    "longitude": 14.3141572,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

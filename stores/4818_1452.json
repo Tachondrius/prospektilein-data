@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1831493,
     "longitude": 14.5216158,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4300",
+    "city": "Sankt Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -13,6 +17,10 @@
     "shop": "supermarket",
     "latitude": 48.1820647,
     "longitude": 14.521398,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

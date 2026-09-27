@@ -4,14 +4,20 @@
     "retailer": "1_2_oder_3",
     "shop": "toys",
     "latitude": 46.5964943,
-    "longitude": 13.8495612
+    "longitude": 13.8495612,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "ACS KFZ",
     "retailer": "acs_kfz",
     "shop": "car_repair",
     "latitude": 46.5963118,
-    "longitude": 13.8470579
+    "longitude": 13.8470579,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Action",
@@ -19,7 +25,11 @@
     "shop": "variety_store",
     "latitude": 46.5957783,
     "longitude": 13.8488777,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Autowelt Sintschnig",
@@ -27,35 +37,53 @@
     "shop": "car",
     "latitude": 46.5983348,
     "longitude": 13.8482789,
-    "brand": "Ford;Volvo"
+    "brand": "Ford;Volvo",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "B & B Blumen",
     "retailer": "b_und_b_blumen",
     "shop": "florist",
     "latitude": 46.5996879,
-    "longitude": 13.8481972
+    "longitude": 13.8481972,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "BestDrive",
     "retailer": "bestdrive",
     "shop": "car_repair",
     "latitude": 46.5991248,
-    "longitude": 13.847755
+    "longitude": 13.847755,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Big Fish Tackle & More GmbH",
     "retailer": "big_fish_tackle_und_more_gmbh",
     "shop": "fishing",
     "latitude": 46.5965228,
-    "longitude": 13.8495031
+    "longitude": 13.8495031,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "C+C Wedl",
     "retailer": "c_plus_c_wedl",
     "shop": "wholesale",
     "latitude": 46.5983142,
-    "longitude": 13.8474046
+    "longitude": 13.8474046,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Drive Wiegele",
@@ -63,7 +91,11 @@
     "shop": "car",
     "latitude": 46.5960031,
     "longitude": 13.8479439,
-    "brand": "Audi;Seat;Volkswagen"
+    "brand": "Audi;Seat;Volkswagen",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fressnapf",
@@ -71,21 +103,33 @@
     "shop": "pet",
     "latitude": 46.599867,
     "longitude": 13.8410501,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "K+P Küchen und Wohndesign",
     "retailer": "k_plus_p_kuchen_und_wohndesign",
     "shop": "interior_decoration",
     "latitude": 46.5989189,
-    "longitude": 13.8464531
+    "longitude": 13.8464531,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KFZ Plasounig",
     "retailer": "kfz_plasounig",
     "shop": "car_repair",
     "latitude": 46.5980175,
-    "longitude": 13.8456963
+    "longitude": 13.8456963,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Klier",
@@ -93,21 +137,27 @@
     "shop": "hairdresser",
     "latitude": 46.5965833,
     "longitude": 13.8494527,
-    "brand": "Klier"
+    "brand": "Klier",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Legat",
     "retailer": "legat",
     "shop": "bakery",
     "latitude": 46.5965337,
-    "longitude": 13.8495125
+    "longitude": 13.8495125,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mario Sorger",
     "retailer": "mario_sorger",
     "shop": "tobacco",
     "latitude": 46.595924,
-    "longitude": 13.8493979
+    "longitude": 13.8493979,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -115,14 +165,22 @@
     "shop": "clothes",
     "latitude": 46.5999054,
     "longitude": 13.8408383,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "PERRO - Villach",
     "retailer": "perro_villach",
     "shop": "pet",
     "latitude": 46.5970276,
-    "longitude": 13.8499005
+    "longitude": 13.8499005,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Peugeot",
@@ -130,21 +188,31 @@
     "shop": "car",
     "latitude": 46.5975396,
     "longitude": 13.848951,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Reifen Plankenauer",
     "retailer": "reifen_plankenauer",
     "shop": "tyres",
     "latitude": 46.5961569,
-    "longitude": 13.8450589
+    "longitude": 13.8450589,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sara",
     "retailer": "sara",
     "shop": "convenience",
     "latitude": 46.5963922,
-    "longitude": 13.8497874
+    "longitude": 13.8497874,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Scania Wiegele Trucks",
@@ -152,41 +220,63 @@
     "shop": "truck_repair",
     "latitude": 46.5972014,
     "longitude": 13.8478489,
-    "brand": "Scania"
+    "brand": "Scania",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spindelböck",
     "retailer": "spindelbock",
     "shop": "doityourself",
     "latitude": 46.5996109,
-    "longitude": 13.846912
+    "longitude": 13.846912,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sport Frankl",
     "retailer": "sport_frankl",
     "shop": "sports",
     "latitude": 46.5964467,
-    "longitude": 13.849619
+    "longitude": 13.849619,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tierfreund Villach",
     "retailer": "tierfreund_villach",
     "shop": "pet",
     "latitude": 46.5957216,
-    "longitude": 13.8490102
+    "longitude": 13.8490102,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Weitzer Parkett/Zach Parkett",
     "retailer": "weitzer_parkett_zach_parkett",
     "shop": "flooring",
     "latitude": 46.596738,
-    "longitude": 13.84935
+    "longitude": 13.84935,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wäscherei",
     "retailer": "wascherei",
     "shop": "dry_cleaning",
     "latitude": 46.5995268,
-    "longitude": 13.8474465
+    "longitude": 13.8474465,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

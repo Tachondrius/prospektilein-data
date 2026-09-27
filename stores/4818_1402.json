@@ -5,21 +5,33 @@
     "shop": "supermarket",
     "latitude": 48.1856416,
     "longitude": 14.0265559,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bruno Machacek GmbH & Co KG",
     "retailer": "bruno_machacek_gmbh_und_co_kg",
     "shop": "doityourself",
     "latitude": 48.1872075,
-    "longitude": 14.0281514
+    "longitude": 14.0281514,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "City Outlet",
     "retailer": "city_outlet",
     "shop": "clothes",
     "latitude": 48.1843639,
-    "longitude": 14.0271458
+    "longitude": 14.0271458,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Deichmann",
@@ -27,7 +39,9 @@
     "shop": "shoes",
     "latitude": 48.1845983,
     "longitude": 14.0268781,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -35,7 +49,9 @@
     "shop": "chemist",
     "latitude": 48.1832811,
     "longitude": 14.0258693,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fressnapf",
@@ -43,7 +59,11 @@
     "shop": "pet",
     "latitude": 48.1840925,
     "longitude": 14.0272706,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hervis",
@@ -51,7 +71,11 @@
     "shop": "sports",
     "latitude": 48.1846964,
     "longitude": 14.0267725,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -59,7 +83,11 @@
     "shop": "supermarket",
     "latitude": 48.1837609,
     "longitude": 14.0258293,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Intersport Wels-Nord",
@@ -67,7 +95,9 @@
     "shop": "sports",
     "latitude": 48.1830954,
     "longitude": 14.0259572,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "JYSK",
@@ -75,7 +105,11 @@
     "shop": "furniture",
     "latitude": 48.1834909,
     "longitude": 14.0275215,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Libro",
@@ -83,7 +117,11 @@
     "shop": "books",
     "latitude": 48.1836742,
     "longitude": 14.0274335,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "mister*lady",
@@ -91,7 +129,11 @@
     "shop": "clothes",
     "latitude": 48.1842241,
     "longitude": 14.0272111,
-    "brand": "mister*lady"
+    "brand": "mister*lady",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "OBI",
@@ -99,14 +141,21 @@
     "shop": "doityourself",
     "latitude": 48.1852858,
     "longitude": 14.0245653,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabaktrafik Scherz",
     "retailer": "tabaktrafik_scherz",
     "shop": "kiosk",
     "latitude": 48.1854665,
-    "longitude": 14.025564
+    "longitude": 14.025564,
+    "postcode": "4600",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Takko",
@@ -114,6 +163,10 @@
     "shop": "clothes",
     "latitude": 48.1838946,
     "longitude": 14.027336,
-    "brand": "Takko"
+    "brand": "Takko",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

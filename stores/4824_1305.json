@@ -5,7 +5,11 @@
     "shop": "car_repair",
     "latitude": 48.2480781,
     "longitude": 13.0580322,
-    "brand": "Arbö"
+    "brand": "Arbö",
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "BMW Hütter",
@@ -13,7 +17,11 @@
     "shop": "car",
     "latitude": 48.2461582,
     "longitude": 13.0548011,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "BMW Hütter",
@@ -21,14 +29,22 @@
     "shop": "car_repair",
     "latitude": 48.2464038,
     "longitude": 13.0547038,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "ErDax",
     "retailer": "erdax",
     "shop": "car_repair",
     "latitude": 48.2464086,
-    "longitude": 13.0571777
+    "longitude": 13.0571777,
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -36,14 +52,20 @@
     "shop": "doityourself",
     "latitude": 48.2476664,
     "longitude": 13.0592042,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Möbel Rieder",
     "retailer": "mobel_rieder",
     "shop": "furniture",
     "latitude": 48.2455152,
-    "longitude": 13.0510539
+    "longitude": 13.0510539,
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Möbelix",
@@ -51,7 +73,9 @@
     "shop": "furniture",
     "latitude": 48.2443417,
     "longitude": 13.0543943,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "XXXLutz",
@@ -59,6 +83,10 @@
     "shop": "furniture",
     "latitude": 48.2443415,
     "longitude": 13.0536663,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "5280",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

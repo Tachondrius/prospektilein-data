@@ -5,28 +5,40 @@
     "shop": "clothes",
     "latitude": 47.4318542,
     "longitude": 15.2717813,
-    "brand": "Adler"
+    "brand": "Adler",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ARBÖ",
     "retailer": "arbo",
     "shop": "car_repair",
     "latitude": 47.4335524,
-    "longitude": 15.2715324
+    "longitude": 15.2715324,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fliessen - Bagaric",
     "retailer": "fliessen_bagaric",
     "shop": "tiles",
     "latitude": 47.4366171,
-    "longitude": 15.2784325
+    "longitude": 15.2784325,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Grill",
     "retailer": "grill",
     "shop": "car_repair",
     "latitude": 47.4366604,
-    "longitude": 15.2777124
+    "longitude": 15.2777124,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hervis",
@@ -34,7 +46,9 @@
     "shop": "sports",
     "latitude": 47.4322891,
     "longitude": 15.2717072,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Interspar",
@@ -42,14 +56,20 @@
     "shop": "supermarket",
     "latitude": 47.4317234,
     "longitude": 15.2705634,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Interspar",
     "retailer": "interspar",
     "shop": "mall",
     "latitude": 47.4318922,
-    "longitude": 15.270998
+    "longitude": 15.270998,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -57,7 +77,11 @@
     "shop": "clothes",
     "latitude": 47.4317043,
     "longitude": 15.2714627,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Škoda Marichhofer",
@@ -65,7 +89,11 @@
     "shop": "car",
     "latitude": 47.4333884,
     "longitude": 15.2727162,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Škoda Marichhofer",
@@ -73,6 +101,10 @@
     "shop": "car_repair",
     "latitude": 47.433628,
     "longitude": 15.2717341,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

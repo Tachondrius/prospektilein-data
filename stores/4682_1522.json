@@ -4,7 +4,11 @@
     "retailer": "autoshop_ruhdorfer_e_u",
     "shop": "car_parts",
     "latitude": 46.8204529,
-    "longitude": 15.2243992
+    "longitude": 15.2243992,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Colloseum",
@@ -12,7 +16,9 @@
     "shop": "clothes",
     "latitude": 46.8200564,
     "longitude": 15.2277264,
-    "brand": "Colloseum"
+    "brand": "Colloseum",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deichmann",
@@ -20,7 +26,11 @@
     "shop": "shoes",
     "latitude": 46.8204872,
     "longitude": 15.2297599,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -28,7 +38,11 @@
     "shop": "chemist",
     "latitude": 46.820453,
     "longitude": 15.2293488,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ernsting's family",
@@ -36,28 +50,38 @@
     "shop": "clothes",
     "latitude": 46.8200454,
     "longitude": 15.2276225,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fashion Planet",
     "retailer": "fashion_planet",
     "shop": "clothes",
     "latitude": 46.8202574,
-    "longitude": 15.2283237
+    "longitude": 15.2283237,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gruber Reisen",
     "retailer": "gruber_reisen",
     "shop": "travel_agency",
     "latitude": 46.8202824,
-    "longitude": 15.228451
+    "longitude": 15.228451,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HandyShop",
     "retailer": "handyshop",
     "shop": "mobile_phone",
     "latitude": 46.8203084,
-    "longitude": 15.2287031
+    "longitude": 15.2287031,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
@@ -65,7 +89,9 @@
     "shop": "hairdresser",
     "latitude": 46.8203632,
     "longitude": 15.2289068,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "New Yorker",
@@ -73,14 +99,18 @@
     "shop": "clothes",
     "latitude": 46.8202205,
     "longitude": 15.2281406,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Preis Pirat",
     "retailer": "preis_pirat",
     "shop": "variety_store",
     "latitude": 46.8200247,
-    "longitude": 15.2275056
+    "longitude": 15.2275056,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "shoe4you",
@@ -88,7 +118,11 @@
     "shop": "shoes",
     "latitude": 46.8200694,
     "longitude": 15.2278842,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tally Weijl",
@@ -96,7 +130,9 @@
     "shop": "clothes",
     "latitude": 46.8203793,
     "longitude": 15.2289935,
-    "brand": "Tally Weijl"
+    "brand": "Tally Weijl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "United Colors of Benetton",
@@ -104,7 +140,9 @@
     "shop": "clothes",
     "latitude": 46.8202898,
     "longitude": 15.2285698,
-    "brand": "United Colors of Benetton"
+    "brand": "United Colors of Benetton",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wutscher Optik",
@@ -112,6 +150,10 @@
     "shop": "optician",
     "latitude": 46.8203508,
     "longitude": 15.2288074,
-    "brand": "sehen!wutscher"
+    "brand": "sehen!wutscher",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

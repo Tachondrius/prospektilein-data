@@ -4,27 +4,39 @@
     "retailer": "ofenbau_rainer",
     "shop": "fireplace",
     "latitude": 46.7479981,
-    "longitude": 12.3861877
+    "longitude": 12.3861877,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Papin Sport & Freizeit GmbH",
     "retailer": "papin_sport_und_freizeit_gmbh",
     "shop": "sports",
     "latitude": 46.7426605,
-    "longitude": 12.387211
+    "longitude": 12.387211,
+    "postcode": "9920",
+    "city": "Sillian",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Papin Used E-Bike Center",
     "retailer": "papin_used_e_bike_center",
     "shop": "bicycle",
     "latitude": 46.742019,
-    "longitude": 12.3864019
+    "longitude": 12.3864019,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Puschtra Trachtenwelt",
     "retailer": "puschtra_trachtenwelt",
     "shop": "clothes",
     "latitude": 46.742628,
-    "longitude": 12.3874505
+    "longitude": 12.3874505,
+    "postcode": "9920",
+    "city": "Sillian",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

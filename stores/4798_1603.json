@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.982086,
     "longitude": 16.0389795,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "2564",
+    "city": "Weissenbach an der Triesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Hologschwandtner",
     "retailer": "trafik_hologschwandtner",
     "shop": "tobacco",
     "latitude": 47.9823592,
-    "longitude": 16.0398679
+    "longitude": 16.0398679,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,13 +4,19 @@
     "retailer": "adeg",
     "shop": "convenience",
     "latitude": 47.5242181,
-    "longitude": 16.6438954
+    "longitude": 16.6438954,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Butcher",
     "retailer": "shop_butcher",
     "shop": "butcher",
     "latitude": 47.5262649,
-    "longitude": 16.6459404
+    "longitude": 16.6459404,
+    "postcode": "7302",
+    "city": "Kroatisch Minihof",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -4,34 +4,48 @@
     "retailer": "brunos_hundesalon",
     "shop": "pet_grooming",
     "latitude": 48.2134388,
-    "longitude": 15.6124107
+    "longitude": 15.6124107,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Florian Hink",
     "retailer": "backerei_florian_hink",
     "shop": "bakery",
     "latitude": 48.2140772,
-    "longitude": 15.6111017
+    "longitude": 15.6111017,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Bonigl",
     "retailer": "gartnerei_bonigl",
     "shop": "garden_centre",
     "latitude": 48.2132871,
-    "longitude": 15.6135724
+    "longitude": 15.6135724,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stippinger",
     "retailer": "stippinger",
     "shop": "hairdresser",
     "latitude": 48.2137769,
-    "longitude": 15.6113604
+    "longitude": 15.6113604,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Städtische Bestattung",
     "retailer": "stadtische_bestattung",
     "shop": "funeral_directors",
     "latitude": 48.2144501,
-    "longitude": 15.6124101
+    "longitude": 15.6124101,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

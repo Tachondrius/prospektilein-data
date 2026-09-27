@@ -5,20 +5,28 @@
     "shop": "car",
     "latitude": 48.2053923,
     "longitude": 14.5029284,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "postcode": "4482",
+    "city": "Ennsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 48.204339,
-    "longitude": 14.505881
+    "longitude": 14.505881,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 48.2047313,
-    "longitude": 14.5058769
+    "longitude": 14.5058769,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

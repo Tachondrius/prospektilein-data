@@ -4,20 +4,28 @@
     "retailer": "haare_von_gunter_hemer",
     "shop": "hairdresser",
     "latitude": 48.224246,
-    "longitude": 16.4673704
+    "longitude": 16.4673704,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Oliver Holat",
     "retailer": "oliver_holat",
     "shop": "bicycle",
     "latitude": 48.2249684,
-    "longitude": 16.4691684
+    "longitude": 16.4691684,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "VitalPLUS",
     "retailer": "vitalplus",
     "shop": "beauty",
     "latitude": 48.2241257,
-    "longitude": 16.4677223
+    "longitude": 16.4677223,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

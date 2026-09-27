@@ -4,14 +4,20 @@
     "retailer": "capello",
     "shop": "hairdresser",
     "latitude": 47.8185042,
-    "longitude": 13.2161393
+    "longitude": 13.2161393,
+    "postcode": "5322",
+    "city": "Hof bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.8193156,
-    "longitude": 13.2149607
+    "longitude": 13.2149607,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -19,49 +25,71 @@
     "shop": "chemist",
     "latitude": 47.818889,
     "longitude": 13.2156945,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "5322",
+    "city": "Hof bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fröhlich",
     "retailer": "frohlich",
     "shop": "optician",
     "latitude": 47.8189668,
-    "longitude": 13.2135262
+    "longitude": 13.2135262,
+    "postcode": "5322",
+    "city": "Hof bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Helgas Lädchen",
     "retailer": "helgas_ladchen",
     "shop": "convenience",
     "latitude": 47.8197994,
-    "longitude": 13.2151812
+    "longitude": 13.2151812,
+    "postcode": "5322",
+    "city": "Hof bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofa Bäck",
     "retailer": "hofa_back",
     "shop": "bakery",
     "latitude": 47.8194887,
-    "longitude": 13.2150723
+    "longitude": 13.2150723,
+    "postcode": "5322",
+    "city": "Hof bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "La Vie an Rose",
     "retailer": "la_vie_an_rose",
     "shop": "gift",
     "latitude": 47.8194679,
-    "longitude": 13.2168324
+    "longitude": 13.2168324,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lindner",
     "retailer": "lindner",
     "shop": "car_repair",
     "latitude": 47.8183787,
-    "longitude": 13.2145467
+    "longitude": 13.2145467,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lindner",
     "retailer": "lindner",
     "shop": "car",
     "latitude": 47.8185414,
-    "longitude": 13.2142595
+    "longitude": 13.2142595,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Opel",
@@ -69,27 +97,39 @@
     "shop": "car_repair",
     "latitude": 47.8193896,
     "longitude": 13.2193546,
-    "brand": "Opel"
+    "brand": "Opel",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Rieger",
     "retailer": "rieger",
     "shop": "florist",
     "latitude": 47.8195607,
-    "longitude": 13.215539
+    "longitude": 13.215539,
+    "postcode": "5322",
+    "city": "Hof bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabaktrafik",
     "retailer": "tabaktrafik",
     "shop": "tobacco",
     "latitude": 47.8193279,
-    "longitude": 13.2141039
+    "longitude": 13.2141039,
+    "postcode": "5322",
+    "city": "Hof bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Uhren",
     "retailer": "uhren",
     "shop": "jewelry",
     "latitude": 47.8193825,
-    "longitude": 13.2147638
+    "longitude": 13.2147638,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

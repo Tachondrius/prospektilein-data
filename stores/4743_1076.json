@@ -5,7 +5,11 @@
     "shop": "convenience",
     "latitude": 47.436525,
     "longitude": 10.7662243,
-    "brand": "BP"
+    "brand": "BP",
+    "postcode": "6611",
+    "city": "Heiterwang",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar Express",
@@ -13,6 +17,8 @@
     "shop": "convenience",
     "latitude": 47.4365542,
     "longitude": 10.7666251,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

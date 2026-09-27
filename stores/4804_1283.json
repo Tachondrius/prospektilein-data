@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 48.0427992,
     "longitude": 12.8327026,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Architektonik & Design",
@@ -13,42 +15,60 @@
     "shop": "kitchen",
     "latitude": 48.0463942,
     "longitude": 12.8304662,
-    "brand": "ewe"
+    "brand": "ewe",
+    "postcode": "5121",
+    "city": "Ostermiething",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Brandner Filiale",
     "retailer": "backerei_brandner_filiale",
     "shop": "bakery",
     "latitude": 48.0419434,
-    "longitude": 12.8378537
+    "longitude": 12.8378537,
+    "postcode": "5121",
+    "city": "Ostermiething",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Der-Blumen-Laden",
     "retailer": "der_blumen_laden",
     "shop": "florist",
     "latitude": 48.0420601,
-    "longitude": 12.8328377
+    "longitude": 12.8328377,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Franz Schuster Fleischhauerei",
     "retailer": "franz_schuster_fleischhauerei",
     "shop": "butcher",
     "latitude": 48.0419827,
-    "longitude": 12.8382392
+    "longitude": 12.8382392,
+    "postcode": "5121",
+    "city": "Ostermiething",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hoarschneider OG",
     "retailer": "hoarschneider_og",
     "shop": "hairdresser",
     "latitude": 48.0433825,
-    "longitude": 12.8313936
+    "longitude": 12.8313936,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kaufhaus Schlichtner Bäckerei",
     "retailer": "kaufhaus_schlichtner_backerei",
     "shop": "convenience",
     "latitude": 48.0462439,
-    "longitude": 12.8327019
+    "longitude": 12.8327019,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -56,34 +76,50 @@
     "shop": "clothes",
     "latitude": 48.0423353,
     "longitude": 12.8329155,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "5121",
+    "city": "Ostermiething",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Optik Fröhlich OG",
     "retailer": "optik_frohlich_og",
     "shop": "optician",
     "latitude": 48.0422532,
-    "longitude": 12.8329839
+    "longitude": 12.8329839,
+    "postcode": "5121",
+    "city": "Ostermiething",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sonnenstudie, Nagelstudio Suntana",
     "retailer": "sonnenstudie_nagelstudio_suntana",
     "shop": "beauty",
     "latitude": 48.0462229,
-    "longitude": 12.8328158
+    "longitude": 12.8328158,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.0425232,
-    "longitude": 12.8327901
+    "longitude": 12.8327901,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Töpfer",
     "retailer": "topfer",
     "shop": "bakery",
     "latitude": 48.0475256,
-    "longitude": 12.8305287
+    "longitude": 12.8305287,
+    "postcode": "5121",
+    "city": "Ostermiething",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

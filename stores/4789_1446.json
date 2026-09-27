@@ -4,20 +4,28 @@
     "retailer": "blumeninsel",
     "shop": "florist",
     "latitude": 47.8929772,
-    "longitude": 14.462786
+    "longitude": 14.462786,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kerbl (Elektropartner)",
     "retailer": "kerbl_elektropartner",
     "shop": "electronics",
     "latitude": 47.8902364,
-    "longitude": 14.4604106
+    "longitude": 14.4604106,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 47.8900698,
-    "longitude": 14.4601499
+    "longitude": 14.4601499,
+    "postcode": "4462",
+    "city": "Reichraming",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

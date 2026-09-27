@@ -5,14 +5,18 @@
     "shop": "car_repair",
     "latitude": 47.2897518,
     "longitude": 12.8106243,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Convenience",
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 47.2834216,
-    "longitude": 12.8160731
+    "longitude": 12.8160731,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fussl",
@@ -20,7 +24,11 @@
     "shop": "clothes",
     "latitude": 47.2866637,
     "longitude": 12.8104971,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "5671",
+    "city": "Bruck an der Großglocknerstraße",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Maximarkt",
@@ -28,13 +36,19 @@
     "shop": "supermarket",
     "latitude": 47.2874642,
     "longitude": 12.8113133,
-    "brand": "Maximarkt"
+    "brand": "Maximarkt",
+    "postcode": "5671",
+    "city": "Bruck an der Großglocknerstraße",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sportcamp Woferlgut",
     "retailer": "sportcamp_woferlgut",
     "shop": "rental",
     "latitude": 47.2836531,
-    "longitude": 12.817081
+    "longitude": 12.817081,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

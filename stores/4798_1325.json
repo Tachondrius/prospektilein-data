@@ -4,7 +4,9 @@
     "retailer": "adam",
     "shop": "florist",
     "latitude": 47.9803806,
-    "longitude": 13.2554747
+    "longitude": 13.2554747,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -12,7 +14,9 @@
     "shop": "chemist",
     "latitude": 47.9832027,
     "longitude": 13.2550156,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -20,7 +24,9 @@
     "shop": "supermarket",
     "latitude": 47.9828739,
     "longitude": 13.2548878,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "NKD",
@@ -28,13 +34,19 @@
     "shop": "clothes",
     "latitude": 47.9811187,
     "longitude": 13.2566451,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Reifenzentrum Achleitner",
     "retailer": "reifenzentrum_achleitner",
     "shop": "tyres",
     "latitude": 47.9870393,
-    "longitude": 13.2509204
+    "longitude": 13.2509204,
+    "postcode": "5204",
+    "city": "Straßwalchen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

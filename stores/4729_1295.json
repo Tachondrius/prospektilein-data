@@ -5,20 +5,29 @@
     "shop": "supermarket",
     "latitude": 47.2914808,
     "longitude": 12.959498,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5660",
+    "city": "Taxenbach",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lagerhaus Taxenbach",
     "retailer": "lagerhaus_taxenbach",
     "shop": "doityourself",
     "latitude": 47.2915204,
-    "longitude": 12.9599628
+    "longitude": 12.9599628,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sicher-Mobil",
     "retailer": "sicher_mobil",
     "shop": "doityourself",
     "latitude": 47.2930177,
-    "longitude": 12.9587849
+    "longitude": 12.9587849,
+    "postcode": "5660",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

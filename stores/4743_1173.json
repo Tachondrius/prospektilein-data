@@ -5,13 +5,19 @@
     "shop": "convenience",
     "latitude": 47.433184,
     "longitude": 11.7356804,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "postcode": "6212",
+    "city": "Eben am Achensee",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "SEE-Bad",
     "retailer": "see_bad",
     "shop": "ticket",
     "latitude": 47.4309604,
-    "longitude": 11.7364053
+    "longitude": 11.7364053,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

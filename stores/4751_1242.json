@@ -4,28 +4,40 @@
     "retailer": "intercoiffeur_pock",
     "shop": "hairdresser",
     "latitude": 47.519326,
-    "longitude": 12.4238468
+    "longitude": 12.4238468,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rollin´ Art",
     "retailer": "rollin_art",
     "shop": "art",
     "latitude": 47.5193344,
-    "longitude": 12.4243939
+    "longitude": 12.4243939,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schischule Wilder Kaiser",
     "retailer": "schischule_wilder_kaiser",
     "shop": "sports",
     "latitude": 47.5175944,
-    "longitude": 12.4257841
+    "longitude": 12.4257841,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Skiverleih und Skiservice Noichl",
     "retailer": "skiverleih_und_skiservice_noichl",
     "shop": "sports",
     "latitude": 47.5175832,
-    "longitude": 12.4258826
+    "longitude": 12.4258826,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport 2000",
@@ -33,13 +45,17 @@
     "shop": "sports",
     "latitude": 47.5189193,
     "longitude": 12.4242331,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sporthaus Haas",
     "retailer": "sporthaus_haas",
     "shop": "sports",
     "latitude": 47.5182924,
-    "longitude": 12.4247555
+    "longitude": 12.4247555,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

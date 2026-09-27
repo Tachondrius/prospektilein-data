@@ -4,14 +4,20 @@
     "retailer": "autohaus_brunner",
     "shop": "car",
     "latitude": 48.2072515,
-    "longitude": 14.3840748
+    "longitude": 14.3840748,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Winkler",
     "retailer": "backerei_winkler",
     "shop": "bakery",
     "latitude": 48.2064139,
-    "longitude": 14.380724
+    "longitude": 14.380724,
+    "postcode": "4490",
+    "city": "St. Florian",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -19,13 +25,19 @@
     "shop": "supermarket",
     "latitude": 48.2011944,
     "longitude": 14.3807543,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4490",
+    "city": "St. Florian",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Mayrbäurl",
     "retailer": "tabak_mayrbaurl",
     "shop": "tobacco",
     "latitude": 48.2010552,
-    "longitude": 14.3805475
+    "longitude": 14.3805475,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.7005085,
     "longitude": 15.3204144,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3804",
+    "city": "Allentsteig",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Robert Rogner",
     "retailer": "robert_rogner",
     "shop": "doityourself",
     "latitude": 48.7002542,
-    "longitude": 15.3249486
+    "longitude": 15.3249486,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

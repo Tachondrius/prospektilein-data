@@ -4,20 +4,28 @@
     "retailer": "shop_greengrocer",
     "shop": "greengrocer",
     "latitude": 48.0562022,
-    "longitude": 16.1280272
+    "longitude": 16.1280272,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Greisslerei Doris Wallisch",
     "retailer": "greisslerei_doris_wallisch",
     "shop": "supermarket",
     "latitude": 48.0566441,
-    "longitude": 16.1296705
+    "longitude": 16.1296705,
+    "postcode": "2532",
+    "city": "Heiligenkreuz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wallisch",
     "retailer": "wallisch",
     "shop": "hairdresser",
     "latitude": 48.0565393,
-    "longitude": 16.1295454
+    "longitude": 16.1295454,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

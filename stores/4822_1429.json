@@ -4,27 +4,37 @@
     "retailer": "axenda",
     "shop": "sports",
     "latitude": 48.2249329,
-    "longitude": 14.294782
+    "longitude": 14.294782,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen Brandl",
     "retailer": "blumen_brandl",
     "shop": "florist",
     "latitude": 48.2252071,
-    "longitude": 14.2955034
+    "longitude": 14.2955034,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Frisch Bäckerei 2",
     "retailer": "frisch_backerei_2",
     "shop": "bakery",
     "latitude": 48.2250399,
-    "longitude": 14.2950874
+    "longitude": 14.2950874,
+    "postcode": "4052",
+    "city": "Ansfelden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.2248579,
-    "longitude": 14.2963687
+    "longitude": 14.2963687,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

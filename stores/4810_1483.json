@@ -5,35 +5,53 @@
     "shop": "variety_store",
     "latitude": 48.1071313,
     "longitude": 14.8322156,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Admiral Entertaiment",
     "retailer": "admiral_entertaiment",
     "shop": "bookmaker",
     "latitude": 48.1099114,
-    "longitude": 14.8392963
+    "longitude": 14.8392963,
+    "postcode": "3300",
+    "city": "Greinsfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Angelcenter Amstetten",
     "retailer": "angelcenter_amstetten",
     "shop": "fishing",
     "latitude": 48.1073554,
-    "longitude": 14.8317124
+    "longitude": 14.8317124,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Betten Reiter",
     "retailer": "betten_reiter",
     "shop": "curtain",
     "latitude": 48.1073068,
-    "longitude": 14.8325361
+    "longitude": 14.8325361,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BOX Greinsfurth",
     "retailer": "box_greinsfurth",
     "shop": "convenience",
     "latitude": 48.1065064,
-    "longitude": 14.8332286
+    "longitude": 14.8332286,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Butlers",
@@ -41,21 +59,31 @@
     "shop": "interior_decoration",
     "latitude": 48.1069076,
     "longitude": 14.8345265,
-    "brand": "Butlers"
+    "brand": "Butlers",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäderträume by C. Bergmann",
     "retailer": "badertraume_by_c_bergmann",
     "shop": "bathroom_furnishing",
     "latitude": 48.1098163,
-    "longitude": 14.8360858
+    "longitude": 14.8360858,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Danecker Cafe",
     "retailer": "danecker_cafe",
     "shop": "bakery",
     "latitude": 48.1078443,
-    "longitude": 14.8339886
+    "longitude": 14.8339886,
+    "postcode": "3300",
+    "city": "Greinsfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dehner",
@@ -63,7 +91,9 @@
     "shop": "garden_centre",
     "latitude": 48.1077675,
     "longitude": 14.8375498,
-    "brand": "Dehner"
+    "brand": "Dehner",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -71,21 +101,33 @@
     "shop": "chemist",
     "latitude": 48.1071747,
     "longitude": 14.8318494,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm Friseurstudio",
     "retailer": "dm",
     "shop": "hairdresser",
     "latitude": 48.1072655,
-    "longitude": 14.831752
+    "longitude": 14.831752,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ergoform Büromöbel und Raumsysteme",
     "retailer": "ergoform_buromobel_und_raumsysteme",
     "shop": "furniture",
     "latitude": 48.1074321,
-    "longitude": 14.8318686
+    "longitude": 14.8318686,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fressnapf",
@@ -93,14 +135,22 @@
     "shop": "pet",
     "latitude": 48.1080287,
     "longitude": 14.8338989,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Greisinger Abholmarkt Amstetten",
     "retailer": "greisinger_abholmarkt_amstetten",
     "shop": "butcher",
     "latitude": 48.1084539,
-    "longitude": 14.8336587
+    "longitude": 14.8336587,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -108,7 +158,11 @@
     "shop": "supermarket",
     "latitude": 48.105902,
     "longitude": 14.8335886,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hütter Gesellschaft m.b.H.",
@@ -116,7 +170,11 @@
     "shop": "car",
     "latitude": 48.1085094,
     "longitude": 14.8346369,
-    "brand": "MAN"
+    "brand": "MAN",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "JYSK",
@@ -124,7 +182,11 @@
     "shop": "furniture",
     "latitude": 48.1081562,
     "longitude": 14.8337424,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -132,14 +194,22 @@
     "shop": "clothes",
     "latitude": 48.109643,
     "longitude": 14.838634,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "3300",
+    "city": "Greinsfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klipp",
     "retailer": "klipp",
     "shop": "hairdresser",
     "latitude": 48.1096973,
-    "longitude": 14.8388757
+    "longitude": 14.8388757,
+    "postcode": "3300",
+    "city": "Greinsfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Matratzen Concord",
@@ -147,7 +217,11 @@
     "shop": "bed",
     "latitude": 48.1075286,
     "longitude": 14.8334188,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mömax",
@@ -155,14 +229,22 @@
     "shop": "furniture",
     "latitude": 48.1065726,
     "longitude": 14.8343269,
-    "brand": "Mömax"
+    "brand": "Mömax",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nemetz",
     "retailer": "nemetz",
     "shop": "butcher",
     "latitude": 48.1091225,
-    "longitude": 14.8374388
+    "longitude": 14.8374388,
+    "postcode": "3300",
+    "city": "Greinsfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -170,7 +252,11 @@
     "shop": "clothes",
     "latitude": 48.1095566,
     "longitude": 14.8383471,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "3300",
+    "city": "Greinsfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NORMA",
@@ -178,7 +264,11 @@
     "shop": "supermarket",
     "latitude": 48.109373,
     "longitude": 14.8387152,
-    "brand": "NORMA"
+    "brand": "NORMA",
+    "postcode": "3300",
+    "city": "Greinsfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Orion",
@@ -186,7 +276,11 @@
     "shop": "erotic",
     "latitude": 48.1087401,
     "longitude": 14.8374917,
-    "brand": "Orion"
+    "brand": "Orion",
+    "postcode": "3300",
+    "city": "Greinsfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -194,7 +288,11 @@
     "shop": "stationery",
     "latitude": 48.1094665,
     "longitude": 14.8380991,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "3300",
+    "city": "Greinsfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pappas Amstetten",
@@ -202,21 +300,33 @@
     "shop": "car",
     "latitude": 48.1066287,
     "longitude": 14.8307345,
-    "brand": "Mercedes-Benz;smart"
+    "brand": "Mercedes-Benz;smart",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Shoe 4 You",
     "retailer": "shoe_4_you",
     "shop": "shoes",
     "latitude": 48.1070754,
-    "longitude": 14.8316471
+    "longitude": 14.8316471,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SportsDirect",
     "retailer": "sportsdirect",
     "shop": "sports",
     "latitude": 48.1070554,
-    "longitude": 14.834958
+    "longitude": 14.834958,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Takko",
@@ -224,14 +334,22 @@
     "shop": "clothes",
     "latitude": 48.1072897,
     "longitude": 14.8320837,
-    "brand": "Takko"
+    "brand": "Takko",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Taschengeschäft Chach",
     "retailer": "taschengeschaft_chach",
     "shop": "boutique",
     "latitude": 48.1095633,
-    "longitude": 14.8385698
+    "longitude": 14.8385698,
+    "postcode": "3300",
+    "city": "Greinsfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -239,14 +357,22 @@
     "shop": "variety_store",
     "latitude": 48.108914,
     "longitude": 14.8372649,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "3300",
+    "city": "Greinsfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "WestSide City",
     "retailer": "westside_city",
     "shop": "mall",
     "latitude": 48.1099449,
-    "longitude": 14.8390664
+    "longitude": 14.8390664,
+    "postcode": "3300",
+    "city": "Greinsfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "XXXLutz",
@@ -254,14 +380,22 @@
     "shop": "furniture",
     "latitude": 48.1088798,
     "longitude": 14.835543,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zgonc",
     "retailer": "zgonc",
     "shop": "hardware",
     "latitude": 48.1077028,
-    "longitude": 14.8342167
+    "longitude": 14.8342167,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Öllinger",
@@ -269,6 +403,10 @@
     "shop": "car",
     "latitude": 48.1075647,
     "longitude": 14.8363505,
-    "brand": "Opel;Toyota;MG"
+    "brand": "Opel;Toyota;MG",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

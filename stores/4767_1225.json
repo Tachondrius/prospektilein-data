@@ -4,7 +4,9 @@
     "retailer": "sennerei_laden",
     "shop": "dairy",
     "latitude": 47.6725249,
-    "longitude": 12.2537931
+    "longitude": 12.2537931,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tankstelle Reinpold",
@@ -12,6 +14,8 @@
     "shop": "yes",
     "latitude": 47.6785381,
     "longitude": 12.254407,
-    "brand": "none"
+    "brand": "none",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

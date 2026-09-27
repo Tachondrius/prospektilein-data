@@ -4,7 +4,9 @@
     "retailer": "alkove",
     "shop": "antiques",
     "latitude": 48.2142324,
-    "longitude": 16.5186685
+    "longitude": 16.5186685,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Autohaus Liewers",
@@ -12,21 +14,31 @@
     "shop": "car",
     "latitude": 48.2149589,
     "longitude": 16.5128805,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 48.2144701,
-    "longitude": 16.5139036
+    "longitude": 16.5139036,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Geier",
     "retailer": "geier",
     "shop": "bakery",
     "latitude": 48.2147492,
-    "longitude": 16.5147394
+    "longitude": 16.5147394,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Pagro",
@@ -34,7 +46,11 @@
     "shop": "stationery",
     "latitude": 48.2147535,
     "longitude": 16.519104,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -42,7 +58,11 @@
     "shop": "supermarket",
     "latitude": 48.2142085,
     "longitude": 16.5112179,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -50,6 +70,10 @@
     "shop": "supermarket",
     "latitude": 48.2147156,
     "longitude": 16.5188105,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

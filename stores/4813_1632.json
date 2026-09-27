@@ -4,21 +4,33 @@
     "retailer": "autohandel_fabian",
     "shop": "car",
     "latitude": 48.1374619,
-    "longitude": 16.3244443
+    "longitude": 16.3244443,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bernhard Kohl - Fahrrad & E-Bike",
     "retailer": "bernhard_kohl_fahrrad_und_e_bike",
     "shop": "bicycle",
     "latitude": 48.1324392,
-    "longitude": 16.3221675
+    "longitude": 16.3221675,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bike Connexion",
     "retailer": "bike_connexion",
     "shop": "motorcycle",
     "latitude": 48.1398716,
-    "longitude": 16.3243376
+    "longitude": 16.3243376,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -26,7 +38,11 @@
     "shop": "supermarket",
     "latitude": 48.137075,
     "longitude": 16.325274,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Box",
@@ -34,7 +50,9 @@
     "shop": "supermarket",
     "latitude": 48.1375629,
     "longitude": 16.3257062,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Plus",
@@ -42,7 +60,9 @@
     "shop": "supermarket",
     "latitude": 48.1302019,
     "longitude": 16.325502,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa stop & shop",
@@ -50,7 +70,9 @@
     "shop": "convenience",
     "latitude": 48.1311716,
     "longitude": 16.3214876,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -58,14 +80,22 @@
     "shop": "chemist",
     "latitude": 48.1304569,
     "longitude": 16.3255529,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cranpool",
     "retailer": "cranpool",
     "shop": "swimming_pool",
     "latitude": 48.1300629,
-    "longitude": 16.3272054
+    "longitude": 16.3272054,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichmann",
@@ -73,14 +103,20 @@
     "shop": "shoes",
     "latitude": 48.1308324,
     "longitude": 16.3256844,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fischer's Motorcycles",
     "retailer": "fischer_s_motorcycles",
     "shop": "motorcycle",
     "latitude": 48.1349729,
-    "longitude": 16.3237333
+    "longitude": 16.3237333,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fressnapf",
@@ -88,28 +124,39 @@
     "shop": "pet",
     "latitude": 48.1310543,
     "longitude": 16.3257639,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "JustCar",
     "retailer": "justcar",
     "shop": "car",
     "latitude": 48.13721,
-    "longitude": 16.3245624
+    "longitude": 16.3245624,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kaufpark Vösendorf",
     "retailer": "kaufpark_vosendorf",
     "shop": "mall",
     "latitude": 48.1302425,
-    "longitude": 16.3250905
+    "longitude": 16.3250905,
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.1307537,
-    "longitude": 16.3249977
+    "longitude": 16.3249977,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KTM Wien",
@@ -117,14 +164,22 @@
     "shop": "motorcycle",
     "latitude": 48.1327503,
     "longitude": 16.3258448,
-    "brand": "KTM"
+    "brand": "KTM",
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Küchencity Süd",
     "retailer": "kuchencity_sud",
     "shop": "kitchen",
     "latitude": 48.1359425,
-    "longitude": 16.3257246
+    "longitude": 16.3257246,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -132,7 +187,9 @@
     "shop": "books",
     "latitude": 48.1306316,
     "longitude": 16.3256736,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -140,7 +197,11 @@
     "shop": "supermarket",
     "latitude": 48.1360734,
     "longitude": 16.3239666,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Louis Motorrad Wien-Süd",
@@ -148,7 +209,11 @@
     "shop": "motorcycle",
     "latitude": 48.1352729,
     "longitude": 16.324161,
-    "brand": "Louis Motorrad"
+    "brand": "Louis Motorrad",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Marionnaud",
@@ -156,7 +221,9 @@
     "shop": "perfumery",
     "latitude": 48.1313229,
     "longitude": 16.3252892,
-    "brand": "Marionnaud"
+    "brand": "Marionnaud",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -164,21 +231,33 @@
     "shop": "stationery",
     "latitude": 48.1325938,
     "longitude": 16.3218672,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Pletter KFZ-Werkstätte",
     "retailer": "pletter_kfz_werkstatte",
     "shop": "car_repair",
     "latitude": 48.1324954,
-    "longitude": 16.3266281
+    "longitude": 16.3266281,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Quester",
     "retailer": "quester",
     "shop": "doityourself",
     "latitude": 48.1399997,
-    "longitude": 16.3264815
+    "longitude": 16.3264815,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Radatz",
@@ -186,21 +265,33 @@
     "shop": "butcher",
     "latitude": 48.1385684,
     "longitude": 16.3235257,
-    "brand": "Radatz"
+    "brand": "Radatz",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Radatz Markt",
     "retailer": "radatz_markt",
     "shop": "butcher",
     "latitude": 48.1394698,
-    "longitude": 16.321633
+    "longitude": 16.321633,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Sports Directs Eybl",
     "retailer": "sports_directs_eybl",
     "shop": "sports",
     "latitude": 48.1345404,
-    "longitude": 16.3250267
+    "longitude": 16.3250267,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -208,7 +299,9 @@
     "shop": "variety_store",
     "latitude": 48.1312799,
     "longitude": 16.3258524,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zillertaler Trachtenwelt",
@@ -216,6 +309,8 @@
     "shop": "clothes",
     "latitude": 48.1310078,
     "longitude": 16.3251336,
-    "brand": "Zillertaler Trachtenwelt"
+    "brand": "Zillertaler Trachtenwelt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

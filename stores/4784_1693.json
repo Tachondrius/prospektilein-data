@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.842089,
     "longitude": 16.9309287,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7132",
+    "city": "Frauenkirchen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hofer",
@@ -13,14 +17,22 @@
     "shop": "supermarket",
     "latitude": 47.8426976,
     "longitude": 16.930698,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "7132",
+    "city": "Frauenkirchen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "IMPEX Frauenkirchen",
     "retailer": "impex_frauenkirchen",
     "shop": "bathroom_furnishing",
     "latitude": 47.8435223,
-    "longitude": 16.9301087
+    "longitude": 16.9301087,
+    "postcode": "7132",
+    "city": "Frauenkirchen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pagro",
@@ -28,7 +40,11 @@
     "shop": "stationery",
     "latitude": 47.8432947,
     "longitude": 16.9313429,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "7132",
+    "city": "Frauenkirchen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "TEDi",
@@ -36,13 +52,17 @@
     "shop": "variety_store",
     "latitude": 47.843117,
     "longitude": 16.9310845,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.8448315,
-    "longitude": 16.930275
+    "longitude": 16.930275,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

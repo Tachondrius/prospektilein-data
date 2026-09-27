@@ -4,20 +4,30 @@
     "retailer": "friedinger",
     "shop": "car_repair",
     "latitude": 48.3176767,
-    "longitude": 14.4784137
+    "longitude": 14.4784137,
+    "postcode": "4223",
+    "city": "Katsdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Rockenschaub",
     "retailer": "rockenschaub",
     "shop": "hifi",
     "latitude": 48.3180976,
-    "longitude": 14.4733312
+    "longitude": 14.4733312,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Winkler",
     "retailer": "winkler",
     "shop": "bakery",
     "latitude": 48.3182367,
-    "longitude": 14.4724623
+    "longitude": 14.4724623,
+    "postcode": "4223",
+    "city": "Katsdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

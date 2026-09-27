@@ -4,7 +4,9 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.2248627,
-    "longitude": 15.3574954
+    "longitude": 15.3574954,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hagebaumarkt",
@@ -12,7 +14,11 @@
     "shop": "doityourself",
     "latitude": 48.2286845,
     "longitude": 15.3511921,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Intersport",
@@ -20,6 +26,10 @@
     "shop": "sports",
     "latitude": 48.22873,
     "longitude": 15.3505533,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

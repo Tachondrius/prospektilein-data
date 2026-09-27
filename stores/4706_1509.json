@@ -4,14 +4,22 @@
     "retailer": "arbo_prufzentrum_koflach",
     "shop": "car_repair",
     "latitude": 47.0621834,
-    "longitude": 15.0910438
+    "longitude": 15.0910438,
+    "postcode": "8580",
+    "city": "Köflach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Gspandl",
     "retailer": "autohaus_gspandl",
     "shop": "car",
     "latitude": 47.0632849,
-    "longitude": 15.0997208
+    "longitude": 15.0997208,
+    "postcode": "8582",
+    "city": "Rosental an der Kainach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa Plus",
@@ -19,7 +27,11 @@
     "shop": "supermarket",
     "latitude": 47.0632022,
     "longitude": 15.0932397,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "8580",
+    "city": "Köflach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -27,21 +39,33 @@
     "shop": "chemist",
     "latitude": 47.0626189,
     "longitude": 15.0936294,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8580",
+    "city": "Köflach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektro Pagger",
     "retailer": "elektro_pagger",
     "shop": "electrical",
     "latitude": 47.0622953,
-    "longitude": 15.091599
+    "longitude": 15.091599,
+    "postcode": "8580",
+    "city": "Köflach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseursalon Studio A",
     "retailer": "friseursalon_studio_a",
     "shop": "hairdresser",
     "latitude": 47.0628381,
-    "longitude": 15.0926667
+    "longitude": 15.0926667,
+    "postcode": "8580",
+    "city": "Köflach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -49,13 +73,19 @@
     "shop": "clothes",
     "latitude": 47.0626371,
     "longitude": 15.0925319,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8580",
+    "city": "Köflach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Günter Altenburger",
     "retailer": "trafik_gunter_altenburger",
     "shop": "tobacco",
     "latitude": 47.0636429,
-    "longitude": 15.0905059
+    "longitude": 15.0905059,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

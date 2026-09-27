@@ -4,14 +4,20 @@
     "retailer": "autoservice_told",
     "shop": "car_repair;car",
     "latitude": 47.3512286,
-    "longitude": 11.8512581
+    "longitude": 11.8512581,
+    "postcode": "6263",
+    "city": "Fügen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Jagd und Freizeit",
     "retailer": "jagd_und_freizeit",
     "shop": "weapons",
     "latitude": 47.3516906,
-    "longitude": 11.8506202
+    "longitude": 11.8506202,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport 2000",
@@ -19,13 +25,19 @@
     "shop": "sports",
     "latitude": 47.3524028,
     "longitude": 11.8512084,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "6263",
+    "city": "Fügen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zillerbike Unterlercher",
     "retailer": "zillerbike_unterlercher",
     "shop": "sports",
     "latitude": 47.3514519,
-    "longitude": 11.8505734
+    "longitude": 11.8505734,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

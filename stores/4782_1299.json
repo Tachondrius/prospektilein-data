@@ -4,7 +4,9 @@
     "retailer": "sht_haustechnik",
     "shop": "trade",
     "latitude": 47.8283485,
-    "longitude": 12.9985334
+    "longitude": 12.9985334,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Würth Kundenzentrum",
@@ -12,6 +14,10 @@
     "shop": "hardware",
     "latitude": 47.8280406,
     "longitude": 12.9996382,
-    "brand": "Würth"
+    "brand": "Würth",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

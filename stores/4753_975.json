@@ -4,14 +4,20 @@
     "retailer": "ailem",
     "shop": "supermarket",
     "latitude": 47.5304804,
-    "longitude": 9.7510863
+    "longitude": 9.7510863,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Autohaus Leiblachtal",
     "retailer": "autohaus_leiblachtal",
     "shop": "car",
     "latitude": 47.5395713,
-    "longitude": 9.7512948
+    "longitude": 9.7512948,
+    "postcode": "6912",
+    "city": "Hörbranz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bipa",
@@ -19,28 +25,42 @@
     "shop": "chemist",
     "latitude": 47.5360666,
     "longitude": 9.7525034,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6911",
+    "city": "Lochau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Elektro Stecher",
     "retailer": "elektro_stecher",
     "shop": "electronics",
     "latitude": 47.531789,
-    "longitude": 9.7501685
+    "longitude": 9.7501685,
+    "postcode": "6911",
+    "city": "Lochau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hehle Reisen",
     "retailer": "hehle_reisen",
     "shop": "travel_agency",
     "latitude": 47.5350027,
-    "longitude": 9.7519568
+    "longitude": 9.7519568,
+    "postcode": "6911",
+    "city": "Lochau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "KFZ Werkstatt",
     "retailer": "kfz_werkstatt",
     "shop": "car_repair",
     "latitude": 47.5348143,
-    "longitude": 9.7527532
+    "longitude": 9.7527532,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "NKD",
@@ -48,7 +68,9 @@
     "shop": "clothes",
     "latitude": 47.530493,
     "longitude": 9.7513567,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "OMV",
@@ -56,35 +78,51 @@
     "shop": "kiosk",
     "latitude": 47.5346718,
     "longitude": 9.7520125,
-    "brand": "OMV"
+    "brand": "OMV",
+    "postcode": "6911",
+    "city": "Lochau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Platzhirsch Home Living",
     "retailer": "platzhirsch_home_living",
     "shop": "interior_decoration",
     "latitude": 47.5302471,
-    "longitude": 9.7518052
+    "longitude": 9.7518052,
+    "postcode": "6911",
+    "city": "Lochau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Rene",
     "retailer": "rene",
     "shop": "hairdresser",
     "latitude": 47.5310984,
-    "longitude": 9.7513886
+    "longitude": 9.7513886,
+    "postcode": "6911",
+    "city": "Lochau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ride a Bike",
     "retailer": "ride_a_bike",
     "shop": "bicycle",
     "latitude": 47.5301267,
-    "longitude": 9.7512149
+    "longitude": 9.7512149,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schlüsselgeschäft Vogler",
     "retailer": "schlusselgeschaft_vogler",
     "shop": "locksmith",
     "latitude": 47.5306557,
-    "longitude": 9.7507607
+    "longitude": 9.7507607,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sutterlüty",
@@ -92,7 +130,11 @@
     "shop": "supermarket",
     "latitude": 47.5351464,
     "longitude": 9.7533104,
-    "brand": "Sutterlüty"
+    "brand": "Sutterlüty",
+    "postcode": "6911",
+    "city": "Lochau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Toyota Walter GmbH & Co KG",
@@ -100,13 +142,17 @@
     "shop": "car",
     "latitude": 47.5347117,
     "longitude": 9.7524602,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ölmühle Sailer",
     "retailer": "olmuhle_sailer",
     "shop": "deli",
     "latitude": 47.5342278,
-    "longitude": 9.750298
+    "longitude": 9.750298,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

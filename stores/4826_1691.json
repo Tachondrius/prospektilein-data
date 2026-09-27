@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.2623188,
     "longitude": 16.9110433,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2293",
+    "city": "Marchegg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blütentraum",
     "retailer": "blutentraum",
     "shop": "florist",
     "latitude": 48.2615735,
-    "longitude": 16.9108484
+    "longitude": 16.9108484,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

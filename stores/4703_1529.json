@@ -4,7 +4,9 @@
     "retailer": "pentscher_s_24h_shop",
     "shop": "kiosk",
     "latitude": 47.0357136,
-    "longitude": 15.2993843
+    "longitude": 15.2993843,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.0338247,
     "longitude": 15.2994011,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8151",
+    "city": "Hitzendorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

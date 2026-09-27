@@ -5,7 +5,11 @@
     "shop": "car_repair",
     "latitude": 47.9657415,
     "longitude": 13.1012395,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "5163",
+    "city": "Mattsee",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -13,20 +17,30 @@
     "shop": "supermarket",
     "latitude": 47.967473,
     "longitude": 13.1046008,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5163",
+    "city": "Mattsee",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tischlerei Kalhamer GmbH",
     "retailer": "tischlerei_kalhamer_gmbh",
     "shop": "craft",
     "latitude": 47.9685169,
-    "longitude": 13.1021701
+    "longitude": 13.1021701,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Zweirad grabner",
     "retailer": "zweirad_grabner",
     "shop": "motorcycle",
     "latitude": 47.9660916,
-    "longitude": 13.1014359
+    "longitude": 13.1014359,
+    "postcode": "5163",
+    "city": "Mattsee",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

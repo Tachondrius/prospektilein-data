@@ -4,7 +4,11 @@
     "retailer": "bp_connect",
     "shop": "convenience",
     "latitude": 47.5179467,
-    "longitude": 12.0671677
+    "longitude": 12.0671677,
+    "postcode": "6321",
+    "city": "Angath",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "OMV",
@@ -12,7 +16,9 @@
     "shop": "yes",
     "latitude": 47.5195956,
     "longitude": 12.0660661,
-    "brand": "OMV"
+    "brand": "OMV",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Viva",
@@ -20,6 +26,8 @@
     "shop": "convenience",
     "latitude": 47.5196407,
     "longitude": 12.06593,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

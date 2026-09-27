@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.1634085,
     "longitude": 16.1632609,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7551",
+    "city": "Stegersbach",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bipa",
@@ -13,14 +17,22 @@
     "shop": "chemist",
     "latitude": 47.164371,
     "longitude": 16.1631994,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "7551",
+    "city": "Stegersbach",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fiat Mandler",
     "retailer": "fiat_mandler",
     "shop": "car",
     "latitude": 47.1609813,
-    "longitude": 16.1650471
+    "longitude": 16.1650471,
+    "postcode": "7551",
+    "city": "Stegersbach",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Mandler",
@@ -28,7 +40,10 @@
     "shop": "car_repair",
     "latitude": 47.1611564,
     "longitude": 16.1648841,
-    "brand": "Fiat"
+    "brand": "Fiat",
+    "postcode": "7551",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Penny",
@@ -36,7 +51,11 @@
     "shop": "supermarket",
     "latitude": 47.1643343,
     "longitude": 16.1631951,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "7551",
+    "city": "Stegersbach",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -44,13 +63,18 @@
     "shop": "supermarket",
     "latitude": 47.1617769,
     "longitude": 16.1653438,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7551",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Zwitkovits Computersysteme",
     "retailer": "zwitkovits_computersysteme",
     "shop": "computer",
     "latitude": 47.1629574,
-    "longitude": 16.1639246
+    "longitude": 16.1639246,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

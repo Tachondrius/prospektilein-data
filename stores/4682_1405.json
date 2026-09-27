@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 46.8224545,
     "longitude": 14.0586541,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Moser",
     "retailer": "moser",
     "shop": "general",
     "latitude": 46.8224726,
-    "longitude": 14.0588079
+    "longitude": 14.0588079,
+    "postcode": "9571",
+    "city": "Albeck",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

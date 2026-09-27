@@ -5,13 +5,17 @@
     "shop": "doityourself",
     "latitude": 47.1003113,
     "longitude": 11.4633457,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lagerhaus Werkstätte",
     "retailer": "lagerhaus_werkstatte",
     "shop": "car_repair",
     "latitude": 47.1003983,
-    "longitude": 11.4632451
+    "longitude": 11.4632451,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

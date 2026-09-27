@@ -4,20 +4,28 @@
     "retailer": "backerei_dorfstatter",
     "shop": "convenience",
     "latitude": 47.5124408,
-    "longitude": 16.0385116
+    "longitude": 16.0385116,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kaufhaus Rois",
     "retailer": "kaufhaus_rois",
     "shop": "supermarket",
     "latitude": 47.5125653,
-    "longitude": 16.0376986
+    "longitude": 16.0376986,
+    "postcode": "2872",
+    "city": "Mönichkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.5121921,
-    "longitude": 16.0305109
+    "longitude": 16.0305109,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

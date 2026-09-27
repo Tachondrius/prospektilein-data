@@ -4,7 +4,9 @@
     "retailer": "eglo_lichtwelten",
     "shop": "lighting",
     "latitude": 47.3255713,
-    "longitude": 11.6871188
+    "longitude": 11.6871188,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "convenience",
     "latitude": 47.3205459,
     "longitude": 11.6819319,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6136",
+    "city": "Pill",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

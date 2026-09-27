@@ -5,7 +5,11 @@
     "shop": "bakery",
     "latitude": 47.7367207,
     "longitude": 16.3983222,
-    "brand": "Anker"
+    "brand": "Anker",
+    "postcode": "7210",
+    "city": "Mattersburg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bipa",
@@ -13,63 +17,97 @@
     "shop": "chemist",
     "latitude": 47.7370782,
     "longitude": 16.3983265,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "7210",
+    "city": "Mattersburg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Blumen Meissl",
     "retailer": "blumen_meissl",
     "shop": "florist",
     "latitude": 47.7383934,
-    "longitude": 16.3997627
+    "longitude": 16.3997627,
+    "postcode": "7210",
+    "city": "Mattersburg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.7387054,
-    "longitude": 16.3990682
+    "longitude": 16.3990682,
+    "postcode": "7210",
+    "city": "Mattersburg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Datlinger",
     "retailer": "datlinger",
     "shop": "kiosk",
     "latitude": 47.7386856,
-    "longitude": 16.3984792
+    "longitude": 16.3984792,
+    "postcode": "7210",
+    "city": "Mattersburg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fleischerei Gebhardt",
     "retailer": "fleischerei_gebhardt",
     "shop": "butcher",
     "latitude": 47.7368673,
-    "longitude": 16.398494
+    "longitude": 16.398494,
+    "postcode": "7210",
+    "city": "Mattersburg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Glatter Moden",
     "retailer": "glatter_moden",
     "shop": "clothes",
     "latitude": 47.7366673,
-    "longitude": 16.3982358
+    "longitude": 16.3982358,
+    "postcode": "7210",
+    "city": "Mattersburg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hartlauer",
     "retailer": "hartlauer",
     "shop": "optician",
     "latitude": 47.7370962,
-    "longitude": 16.3985899
+    "longitude": 16.3985899,
+    "postcode": "7210",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Knotzer",
     "retailer": "knotzer",
     "shop": "books",
     "latitude": 47.7369804,
-    "longitude": 16.3989875
+    "longitude": 16.3989875,
+    "city": "Mattersburg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Leitgeb",
     "retailer": "leitgeb",
     "shop": "hairdresser",
     "latitude": 47.7378071,
-    "longitude": 16.3998941
+    "longitude": 16.3998941,
+    "postcode": "7210",
+    "city": "Mattersburg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "PENNY",
@@ -77,27 +115,41 @@
     "shop": "supermarket",
     "latitude": 47.7360548,
     "longitude": 16.3986611,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "7210",
+    "city": "Mattersburg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pingitzer Tools",
     "retailer": "pingitzer_tools",
     "shop": "doityourself",
     "latitude": 47.7389111,
-    "longitude": 16.399068
+    "longitude": 16.399068,
+    "postcode": "7210",
+    "city": "Mattersburg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "RADWELT Michi Knopf",
     "retailer": "radwelt_michi_knopf",
     "shop": "bicycle",
     "latitude": 47.7364178,
-    "longitude": 16.3979137
+    "longitude": 16.3979137,
+    "postcode": "7210",
+    "city": "Mattersburg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Werkovits",
     "retailer": "werkovits",
     "shop": "jewelry",
     "latitude": 47.7381715,
-    "longitude": 16.3996581
+    "longitude": 16.3996581,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

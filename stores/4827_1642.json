@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 48.2775759,
     "longitude": 16.423004,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa Plus",
@@ -13,20 +15,28 @@
     "shop": "supermarket",
     "latitude": 48.2708221,
     "longitude": 16.4231056,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Frisör Monika",
     "retailer": "frisor_monika",
     "shop": "hairdresser",
     "latitude": 48.2734979,
-    "longitude": 16.4204141
+    "longitude": 16.4204141,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.2731958,
-    "longitude": 16.4200872
+    "longitude": 16.4200872,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

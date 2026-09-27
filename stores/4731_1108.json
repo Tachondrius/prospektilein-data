@@ -4,7 +4,11 @@
     "retailer": "autozentrum_west_gmbh",
     "shop": "car",
     "latitude": 47.3158566,
-    "longitude": 11.0894974
+    "longitude": 11.0894974,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -12,14 +16,20 @@
     "shop": "supermarket",
     "latitude": 47.3155539,
     "longitude": 11.0871555,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.3162079,
-    "longitude": 11.0808403
+    "longitude": 11.0808403,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ploner",
@@ -27,6 +37,10 @@
     "shop": "car",
     "latitude": 47.3156685,
     "longitude": 11.088701,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,14 +5,22 @@
     "shop": "convenience",
     "latitude": 47.7360665,
     "longitude": 13.0504943,
-    "brand": "BP"
+    "brand": "BP",
+    "postcode": "5081",
+    "city": "Anif",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Convenience",
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 47.7361522,
-    "longitude": 13.0507154
+    "longitude": 13.0507154,
+    "postcode": "5081",
+    "city": "Anif",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -20,7 +28,9 @@
     "shop": "chemist",
     "latitude": 47.7371292,
     "longitude": 13.0505995,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fussl",
@@ -28,7 +38,11 @@
     "shop": "clothes",
     "latitude": 47.7376406,
     "longitude": 13.0505649,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "5081",
+    "city": "Anif",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -36,6 +50,9 @@
     "shop": "supermarket",
     "latitude": 47.7381496,
     "longitude": 13.0505448,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5081",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

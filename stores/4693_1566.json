@@ -4,105 +4,149 @@
     "retailer": "auto_fruhmann",
     "shop": "car_repair",
     "latitude": 46.9333885,
-    "longitude": 15.6638783
+    "longitude": 15.6638783,
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Fröhlich",
     "retailer": "autohaus_frohlich",
     "shop": "car_repair",
     "latitude": 46.9335126,
-    "longitude": 15.6628335
+    "longitude": 15.6628335,
+    "postcode": "8082",
+    "city": "Kirchbach in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Sammer",
     "retailer": "blumen_sammer",
     "shop": "florist",
     "latitude": 46.9328505,
-    "longitude": 15.6621072
+    "longitude": 15.6621072,
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Direktvermarkter Platzer",
     "retailer": "direktvermarkter_platzer",
     "shop": "butcher",
     "latitude": 46.9331079,
-    "longitude": 15.6632995
+    "longitude": 15.6632995,
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Doppan",
     "retailer": "doppan",
     "shop": "jewelry",
     "latitude": 46.9312969,
-    "longitude": 15.6620008
+    "longitude": 15.6620008,
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Duana Wolf",
     "retailer": "duana_wolf",
     "shop": "massage",
     "latitude": 46.9357237,
-    "longitude": 15.6642339
+    "longitude": 15.6642339,
+    "postcode": "8082",
+    "city": "Kirchbach in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Farben Mayer",
     "retailer": "farben_mayer",
     "shop": "paint",
     "latitude": 46.9340962,
-    "longitude": 15.6639192
+    "longitude": 15.6639192,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Genussladen Donnerer",
     "retailer": "genussladen_donnerer",
     "shop": "farm",
     "latitude": 46.936638,
-    "longitude": 15.661065
+    "longitude": 15.661065,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 46.9312493,
-    "longitude": 15.6619954
+    "longitude": 15.6619954,
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haardesign Silvia",
     "retailer": "haardesign_silvia",
     "shop": "hairdresser",
     "latitude": 46.9309859,
-    "longitude": 15.6621916
+    "longitude": 15.6621916,
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hackbrett Pangratz Schadler",
     "retailer": "hackbrett_pangratz_schadler",
     "shop": "music",
     "latitude": 46.9328917,
-    "longitude": 15.6632834
+    "longitude": 15.6632834,
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kahr Schadl Happyworkers",
     "retailer": "kahr_schadl_happyworkers",
     "shop": "doityourself",
     "latitude": 46.9330199,
-    "longitude": 15.6631654
+    "longitude": 15.6631654,
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kaufhaus Grasmugg",
     "retailer": "kaufhaus_grasmugg",
     "shop": "convenience",
     "latitude": 46.932244,
-    "longitude": 15.6615327
+    "longitude": 15.6615327,
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Marbler",
     "retailer": "marbler",
     "shop": "convenience",
     "latitude": 46.9321524,
-    "longitude": 15.6612833
+    "longitude": 15.6612833,
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Moda di Medicci",
     "retailer": "moda_di_medicci",
     "shop": "clothes",
     "latitude": 46.9349909,
-    "longitude": 15.6620441
+    "longitude": 15.6620441,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -110,14 +154,20 @@
     "shop": "clothes",
     "latitude": 46.933634,
     "longitude": 15.6646991,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Peter Grasmugg",
     "retailer": "peter_grasmugg",
     "shop": "bicycle",
     "latitude": 46.932312,
-    "longitude": 15.6616217
+    "longitude": 15.6616217,
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schauraum Opel Fröhlich",
@@ -125,7 +175,10 @@
     "shop": "car",
     "latitude": 46.9344582,
     "longitude": 15.6645167,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -133,20 +186,29 @@
     "shop": "supermarket",
     "latitude": 46.934842,
     "longitude": 15.6627657,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8082",
+    "city": "Kirchbach-Zerlach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Thesign Beschriftung",
     "retailer": "thesign_beschriftung",
     "shop": "doityourself",
     "latitude": 46.9327955,
-    "longitude": 15.6633946
+    "longitude": 15.6633946,
+    "postcode": "8082",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zimelie Tattoo",
     "retailer": "zimelie_tattoo",
     "shop": "tattoo",
     "latitude": 46.9327609,
-    "longitude": 15.662376
+    "longitude": 15.662376,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

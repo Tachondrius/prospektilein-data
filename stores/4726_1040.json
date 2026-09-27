@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.2695641,
     "longitude": 10.403495,
-    "brand": "Lechtal Markt"
+    "brand": "Lechtal Markt",
+    "postcode": "6653",
+    "city": "Bach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -13,6 +17,10 @@
     "shop": "supermarket",
     "latitude": 47.2685564,
     "longitude": 10.4015931,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6653",
+    "city": "Bach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

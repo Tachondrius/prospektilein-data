@@ -4,14 +4,20 @@
     "retailer": "friseur_kathe",
     "shop": "hairdresser",
     "latitude": 47.5055775,
-    "longitude": 12.069464
+    "longitude": 12.069464,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Silberberger",
     "retailer": "silberberger",
     "shop": "car_repair",
     "latitude": 47.5063596,
-    "longitude": 12.066164
+    "longitude": 12.066164,
+    "postcode": "6321",
+    "city": "Angath",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -19,13 +25,19 @@
     "shop": "convenience",
     "latitude": 47.506191,
     "longitude": 12.0642916,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6321",
+    "city": "Angath",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wimpissinger",
     "retailer": "wimpissinger",
     "shop": "butcher",
     "latitude": 47.5068246,
-    "longitude": 12.0639008
+    "longitude": 12.0639008,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "4_rad_center",
     "shop": "car_repair",
     "latitude": 47.8874161,
-    "longitude": 16.219948
+    "longitude": 16.219948,
+    "postcode": "2751",
+    "city": "Matzendorf-Hölles",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.8882433,
     "longitude": 16.2186815,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2751",
+    "city": "Matzendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

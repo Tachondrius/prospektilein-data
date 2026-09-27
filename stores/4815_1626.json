@@ -4,7 +4,11 @@
     "retailer": "abcomputer",
     "shop": "computer",
     "latitude": 48.1518642,
-    "longitude": 16.2662781
+    "longitude": 16.2662781,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Anker",
@@ -12,14 +16,18 @@
     "shop": "bakery",
     "latitude": 48.1510624,
     "longitude": 16.2687784,
-    "brand": "Anker"
+    "brand": "Anker",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bee & Bee Honey",
     "retailer": "bee_und_bee_honey",
     "shop": "honey",
     "latitude": 48.1513979,
-    "longitude": 16.2670441
+    "longitude": 16.2670441,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bestattung PAX",
@@ -27,7 +35,11 @@
     "shop": "funeral_directors",
     "latitude": 48.1511637,
     "longitude": 16.2675241,
-    "brand": "Bestattung PAX"
+    "brand": "Bestattung PAX",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -35,63 +47,93 @@
     "shop": "chemist",
     "latitude": 48.1505239,
     "longitude": 16.2684012,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Boutique MOTEE",
     "retailer": "boutique_motee",
     "shop": "clothes",
     "latitude": 48.1512658,
-    "longitude": 16.2672837
+    "longitude": 16.2672837,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Design im Griff",
     "retailer": "design_im_griff",
     "shop": "interior_decoration",
     "latitude": 48.1515496,
-    "longitude": 16.2666093
+    "longitude": 16.2666093,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Die Näherei",
     "retailer": "die_naherei",
     "shop": "tailor",
     "latitude": 48.1500917,
-    "longitude": 16.2686295
+    "longitude": 16.2686295,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Frisör Lilly",
     "retailer": "frisor_lilly",
     "shop": "hairdresser",
     "latitude": 48.1516529,
-    "longitude": 16.2663754
+    "longitude": 16.2663754,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "G&N LebensART",
     "retailer": "g_und_n_lebensart",
     "shop": "frame",
     "latitude": 48.1540009,
-    "longitude": 16.2662968
+    "longitude": 16.2662968,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Maurer Garage",
     "retailer": "maurer_garage",
     "shop": "car_repair",
     "latitude": 48.1519819,
-    "longitude": 16.2663937
+    "longitude": 16.2663937,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Papier & Spiel in Mauer",
     "retailer": "papier_und_spiel_in_mauer",
     "shop": "stationery",
     "latitude": 48.1502859,
-    "longitude": 16.2689034
+    "longitude": 16.2689034,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Salon Hofstädter",
     "retailer": "salon_hofstadter",
     "shop": "hairdresser",
     "latitude": 48.1501723,
-    "longitude": 16.2688734
+    "longitude": 16.2688734,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -99,20 +141,32 @@
     "shop": "supermarket",
     "latitude": 48.1507025,
     "longitude": 16.2677148,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Szihn",
     "retailer": "szihn",
     "shop": "bakery",
     "latitude": 48.150002,
-    "longitude": 16.268603
+    "longitude": 16.268603,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 48.1506178,
-    "longitude": 16.2680403
+    "longitude": 16.2680403,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "chemist",
     "latitude": 47.1090366,
     "longitude": 14.1800601,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -13,7 +15,11 @@
     "shop": "supermarket",
     "latitude": 47.1090502,
     "longitude": 14.1816421,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8850",
+    "city": "Murau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -21,6 +27,8 @@
     "shop": "variety_store",
     "latitude": 47.1088643,
     "longitude": 14.180018,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

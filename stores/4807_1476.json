@@ -4,7 +4,9 @@
     "retailer": "gartner_starkl",
     "shop": "garden_centre",
     "latitude": 48.0777802,
-    "longitude": 14.7608305
+    "longitude": 14.7608305,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -12,6 +14,8 @@
     "shop": "doityourself",
     "latitude": 48.0718003,
     "longitude": 14.7609409,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

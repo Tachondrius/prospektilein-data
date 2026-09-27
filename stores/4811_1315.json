@@ -5,28 +5,40 @@
     "shop": "car_repair",
     "latitude": 48.1177025,
     "longitude": 13.1521964,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "5231",
+    "city": "Schalchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Balkan Bäckerei",
     "retailer": "balkan_backerei",
     "shop": "bakery",
     "latitude": 48.1114383,
-    "longitude": 13.151385
+    "longitude": 13.151385,
+    "postcode": "5230",
+    "city": "Mattighofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Feichtenschlager",
     "retailer": "feichtenschlager",
     "shop": "bakery",
     "latitude": 48.1130723,
-    "longitude": 13.1518643
+    "longitude": 13.1518643,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Forstinger Werkstätten",
     "retailer": "forstinger_werkstatten",
     "shop": "car_repair",
     "latitude": 48.1134193,
-    "longitude": 13.1518082
+    "longitude": 13.1518082,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fressnapf",
@@ -34,14 +46,20 @@
     "shop": "pet",
     "latitude": 48.1105927,
     "longitude": 13.1506776,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "5230",
+    "city": "Mattighofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Herbys Spielewelt",
     "retailer": "herbys_spielewelt",
     "shop": "toys",
     "latitude": 48.1132013,
-    "longitude": 13.152464
+    "longitude": 13.152464,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -49,7 +67,11 @@
     "shop": "supermarket",
     "latitude": 48.1137877,
     "longitude": 13.1503097,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5230",
+    "city": "Mattighofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "JYSK",
@@ -57,7 +79,11 @@
     "shop": "furniture",
     "latitude": 48.1137233,
     "longitude": 13.1539689,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "5231",
+    "city": "Schalchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KiK",
@@ -65,7 +91,9 @@
     "shop": "clothes",
     "latitude": 48.1136594,
     "longitude": 13.1513358,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klipp",
@@ -73,14 +101,22 @@
     "shop": "hairdresser",
     "latitude": 48.1133048,
     "longitude": 13.1537459,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "5231",
+    "city": "Mattighofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kundenzentrum Würth",
     "retailer": "kundenzentrum_wurth",
     "shop": "hardware",
     "latitude": 48.1124392,
-    "longitude": 13.1522444
+    "longitude": 13.1522444,
+    "postcode": "5231",
+    "city": "Schalchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "OBI",
@@ -88,7 +124,11 @@
     "shop": "doityourself",
     "latitude": 48.113215,
     "longitude": 13.1504699,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "5230",
+    "city": "Mattighofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Opel Autohof",
@@ -96,7 +136,9 @@
     "shop": "car",
     "latitude": 48.1148533,
     "longitude": 13.1514304,
-    "brand": "Opel"
+    "brand": "Opel",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pagro",
@@ -104,7 +146,9 @@
     "shop": "stationery",
     "latitude": 48.1134967,
     "longitude": 13.1514346,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pappas Mattighofen",
@@ -112,48 +156,74 @@
     "shop": "car",
     "latitude": 48.117502,
     "longitude": 13.1517384,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "5231",
+    "city": "Schalchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Parkkauf",
     "retailer": "parkkauf",
     "shop": "mall",
     "latitude": 48.1134746,
-    "longitude": 13.1539519
+    "longitude": 13.1539519,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reibersdorfer Autowelt GmbH",
     "retailer": "reibersdorfer_autowelt_gmbh",
     "shop": "car",
     "latitude": 48.1111918,
-    "longitude": 13.1518184
+    "longitude": 13.1518184,
+    "postcode": "5230",
+    "city": "Mattighofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Riba Getränkemarkt",
     "retailer": "riba_getrankemarkt",
     "shop": "beverages",
     "latitude": 48.1136367,
-    "longitude": 13.1551006
+    "longitude": 13.1551006,
+    "postcode": "5231",
+    "city": "Schalchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schweigerer",
     "retailer": "schweigerer",
     "shop": "doityourself;fireplace",
     "latitude": 48.1199388,
-    "longitude": 13.1508992
+    "longitude": 13.1508992,
+    "postcode": "5231",
+    "city": "Schalchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sport Rinnerthaler",
     "retailer": "sport_rinnerthaler",
     "shop": "sports",
     "latitude": 48.1183533,
-    "longitude": 13.1521433
+    "longitude": 13.1521433,
+    "postcode": "5231",
+    "city": "Schalchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zweirad Center Schnellberger",
     "retailer": "zweirad_center_schnellberger",
     "shop": "motorcycle",
     "latitude": 48.1152876,
-    "longitude": 13.1522825
+    "longitude": 13.1522825,
+    "postcode": "5231",
+    "city": "Schalchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,28 +4,38 @@
     "retailer": "intersport",
     "shop": "ski",
     "latitude": 46.9847877,
-    "longitude": 10.0252779
+    "longitude": 10.0252779,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Nah & Frisch",
     "retailer": "nah_und_frisch",
     "shop": "convenience",
     "latitude": 46.9871046,
-    "longitude": 10.0270932
+    "longitude": 10.0270932,
+    "postcode": "6793",
+    "city": "Gaschurn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Nova Drogarie",
     "retailer": "nova_drogarie",
     "shop": "convenience",
     "latitude": 46.9854277,
-    "longitude": 10.0257009
+    "longitude": 10.0257009,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Silvretta Montafon",
     "retailer": "silvretta_montafon",
     "shop": "ticket",
     "latitude": 46.9840731,
-    "longitude": 10.0246449
+    "longitude": 10.0246449,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -33,34 +43,46 @@
     "shop": "supermarket",
     "latitude": 46.9868034,
     "longitude": 10.0257039,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sport Montafon",
     "retailer": "sport_montafon",
     "shop": "sports",
     "latitude": 46.9841926,
-    "longitude": 10.0249767
+    "longitude": 10.0249767,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sport Montafon - Rudigier",
     "retailer": "sport_montafon_rudigier",
     "shop": "ski",
     "latitude": 46.9840557,
-    "longitude": 10.0250351
+    "longitude": 10.0250351,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sport Ski Stall",
     "retailer": "sport_ski_stall",
     "shop": "sports",
     "latitude": 46.9854428,
-    "longitude": 10.0256345
+    "longitude": 10.0256345,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tandem Kurt Paragliding Tandemflüge",
     "retailer": "tandem_kurt_paragliding_tandemfluge",
     "shop": "outdoor",
     "latitude": 46.984261,
-    "longitude": 10.0249696
+    "longitude": 10.0249696,
+    "postcode": "6793",
+    "city": "Gaschurn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

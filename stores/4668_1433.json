@@ -4,14 +4,22 @@
     "retailer": "autoreparatur_armin_stippich",
     "shop": "car",
     "latitude": 46.6836959,
-    "longitude": 14.3382022
+    "longitude": 14.3382022,
+    "postcode": "9063",
+    "city": "Maria Saal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bauernhof Knafl",
     "retailer": "bauernhof_knafl",
     "shop": "farm",
     "latitude": 46.6802997,
-    "longitude": 14.3398218
+    "longitude": 14.3398218,
+    "postcode": "9063",
+    "city": "Maria Saal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -19,13 +27,20 @@
     "shop": "supermarket",
     "latitude": 46.6835632,
     "longitude": 14.3388987,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9063",
+    "city": "Maria Saal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tabak-Traffik",
     "retailer": "tabak_traffik",
     "shop": "tobacco",
     "latitude": 46.6834115,
-    "longitude": 14.3389694
+    "longitude": 14.3389694,
+    "postcode": "9063",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

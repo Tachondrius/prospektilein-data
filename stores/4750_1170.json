@@ -4,14 +4,18 @@
     "retailer": "achensee_alpaka",
     "shop": "clothes",
     "latitude": 47.5092566,
-    "longitude": 11.7077481
+    "longitude": 11.7077481,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Achensee Kiosk",
     "retailer": "achensee_kiosk",
     "shop": "kiosk",
     "latitude": 47.5008983,
-    "longitude": 11.7066974
+    "longitude": 11.7066974,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -19,20 +23,28 @@
     "shop": "supermarket",
     "latitude": 47.5095681,
     "longitude": 11.703329,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sportfriseur",
     "retailer": "sportfriseur",
     "shop": "hairdresser",
     "latitude": 47.5099589,
-    "longitude": 11.7023199
+    "longitude": 11.7023199,
+    "postcode": "6215",
+    "city": "Achenkirch",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Touristeninfo",
     "retailer": "touristeninfo",
     "shop": "kiosk",
     "latitude": 47.501945,
-    "longitude": 11.7065644
+    "longitude": 11.7065644,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.0453748,
     "longitude": 15.1580045,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "postcode": "8572",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa Plus",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 47.0461973,
     "longitude": 15.1557158,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -21,21 +29,31 @@
     "shop": "chemist",
     "latitude": 47.0462762,
     "longitude": 15.1557983,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blue Sky Einkaufszentrum",
     "retailer": "blue_sky_einkaufszentrum",
     "shop": "mall",
     "latitude": 47.0469691,
-    "longitude": 15.1575572
+    "longitude": 15.1575572,
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Chemist",
     "retailer": "shop_chemist",
     "shop": "chemist",
     "latitude": 47.0486302,
-    "longitude": 15.1518239
+    "longitude": 15.1518239,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -43,42 +61,63 @@
     "shop": "chemist",
     "latitude": 47.047025,
     "longitude": 15.1574913,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "eni shop",
     "retailer": "eni_shop",
     "shop": "convenience",
     "latitude": 47.047949,
-    "longitude": 15.1538197
+    "longitude": 15.1538197,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Lesky",
     "retailer": "friseur_lesky",
     "shop": "hairdresser",
     "latitude": 47.0463794,
-    "longitude": 15.1576153
+    "longitude": 15.1576153,
+    "postcode": "8570",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haarstube",
     "retailer": "haarstube",
     "shop": "hairdresser",
     "latitude": 47.0485153,
-    "longitude": 15.1515117
+    "longitude": 15.1515117,
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Köck",
     "retailer": "kock",
     "shop": "bakery",
     "latitude": 47.049146,
-    "longitude": 15.1514579
+    "longitude": 15.1514579,
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lederhaas",
     "retailer": "lederhaas",
     "shop": "medical_supply",
     "latitude": 47.0490736,
-    "longitude": 15.1515977
+    "longitude": 15.1515977,
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Libro",
@@ -86,14 +125,20 @@
     "shop": "books",
     "latitude": 47.0495004,
     "longitude": 15.1505235,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Möbelstudio Andreas Schriebl",
     "retailer": "mobelstudio_andreas_schriebl",
     "shop": "furniture",
     "latitude": 47.0472611,
-    "longitude": 15.1558086
+    "longitude": 15.1558086,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Neuroth",
@@ -101,7 +146,11 @@
     "shop": "hearing_aids",
     "latitude": 47.0493862,
     "longitude": 15.1508723,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -109,7 +158,11 @@
     "shop": "clothes",
     "latitude": 47.0493619,
     "longitude": 15.1507878,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -117,14 +170,22 @@
     "shop": "supermarket",
     "latitude": 47.045615,
     "longitude": 15.1568818,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reiner",
     "retailer": "reiner",
     "shop": "butcher",
     "latitude": 47.0492603,
-    "longitude": 15.1511965
+    "longitude": 15.1511965,
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -132,14 +193,21 @@
     "shop": "supermarket",
     "latitude": 47.0474443,
     "longitude": 15.1572025,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8570",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stadtwerke Voitsberg",
     "retailer": "stadtwerke_voitsberg",
     "shop": "hifi",
     "latitude": 47.0497233,
-    "longitude": 15.1507051
+    "longitude": 15.1507051,
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -147,34 +215,52 @@
     "shop": "variety_store",
     "latitude": 47.0465599,
     "longitude": 15.1576162,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Brandstätter",
     "retailer": "trafik_brandstatter",
     "shop": "kiosk",
     "latitude": 47.0452576,
-    "longitude": 15.1515192
+    "longitude": 15.1515192,
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "unFAIRpackt",
     "retailer": "unfairpackt",
     "shop": "convenience",
     "latitude": 47.0472044,
-    "longitude": 15.1559253
+    "longitude": 15.1559253,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vinzi Markt",
     "retailer": "vinzi_markt",
     "shop": "variety_store",
     "latitude": 47.0486189,
-    "longitude": 15.1505753
+    "longitude": 15.1505753,
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Weltladen Voitsberg",
     "retailer": "weltladen_voitsberg",
     "shop": "fairtrade",
     "latitude": 47.0486976,
-    "longitude": 15.1512251
+    "longitude": 15.1512251,
+    "postcode": "8570",
+    "city": "Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

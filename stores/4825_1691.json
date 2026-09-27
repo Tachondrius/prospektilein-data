@@ -4,7 +4,9 @@
     "retailer": "legerer_agro",
     "shop": "trade",
     "latitude": 48.2524887,
-    "longitude": 16.9181225
+    "longitude": 16.9181225,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -12,13 +14,19 @@
     "shop": "supermarket",
     "latitude": 48.2573062,
     "longitude": 16.9130567,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2294",
+    "city": "Marchegg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.2549389,
-    "longitude": 16.9160339
+    "longitude": 16.9160339,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

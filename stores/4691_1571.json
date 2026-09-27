@@ -5,27 +5,37 @@
     "shop": "car",
     "latitude": 46.9105062,
     "longitude": 15.7120596,
-    "brand": "Mitsubishi"
+    "brand": "Mitsubishi",
+    "postcode": "8083",
+    "city": "Sankt Stefan im Rosental",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "bildschön Friseur Petra Prödl",
     "retailer": "bildschon_friseur_petra_prodl",
     "shop": "hairdresser",
     "latitude": 46.9126014,
-    "longitude": 15.7107172
+    "longitude": 15.7107172,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ertlers Garage",
     "retailer": "ertlers_garage",
     "shop": "car_repair",
     "latitude": 46.9155755,
-    "longitude": 15.7122057
+    "longitude": 15.7122057,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fliesen Suppan",
     "retailer": "fliesen_suppan",
     "shop": "tiles",
     "latitude": 46.9134932,
-    "longitude": 15.7118042
+    "longitude": 15.7118042,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

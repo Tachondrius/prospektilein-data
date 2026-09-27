@@ -4,21 +4,29 @@
     "retailer": "auto_hofer",
     "shop": "car",
     "latitude": 47.1297151,
-    "longitude": 11.3378368
+    "longitude": 11.3378368,
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Autohandel Zeid",
     "retailer": "autohandel_zeid",
     "shop": "car",
     "latitude": 47.1266605,
-    "longitude": 11.3342281
+    "longitude": 11.3342281,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Kirchmair",
     "retailer": "kfz_kirchmair",
     "shop": "car_repair",
     "latitude": 47.1299097,
-    "longitude": 11.3393109
+    "longitude": 11.3393109,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lagerhaus",
@@ -26,14 +34,20 @@
     "shop": "doityourself",
     "latitude": 47.1297986,
     "longitude": 11.3385138,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Massage",
     "retailer": "shop_massage",
     "shop": "massage",
     "latitude": 47.1260651,
-    "longitude": 11.3382734
+    "longitude": 11.3382734,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -41,13 +55,21 @@
     "shop": "supermarket",
     "latitude": 47.1270394,
     "longitude": 11.3345798,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vinoribis GmbH Privatkellerei",
     "retailer": "vinoribis_gmbh_privatkellerei",
     "shop": "beverages",
     "latitude": 47.1291078,
-    "longitude": 11.3386249
+    "longitude": 11.3386249,
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

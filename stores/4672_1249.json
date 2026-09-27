@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 46.7250634,
     "longitude": 12.4992493,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "9941",
+    "city": "Kartitsch",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Schett",
     "retailer": "sport_schett",
     "shop": "sports",
     "latitude": 46.7266629,
-    "longitude": 12.4975222
+    "longitude": 12.4975222,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "bookmaker",
     "latitude": 47.7110697,
     "longitude": 16.0402356,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DanKüchen Studio Ternitz",
@@ -13,7 +15,9 @@
     "shop": "kitchen",
     "latitude": 47.7111506,
     "longitude": 16.0402778,
-    "brand": "DanKüchen"
+    "brand": "DanKüchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -21,7 +25,11 @@
     "shop": "chemist",
     "latitude": 47.7109604,
     "longitude": 16.0401786,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -29,6 +37,10 @@
     "shop": "clothes",
     "latitude": 47.7108177,
     "longitude": 16.0401042,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

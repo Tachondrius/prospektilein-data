@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 47.5829439,
     "longitude": 15.6474357,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8682",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Holousch",
     "retailer": "holousch",
     "shop": "tobacco",
     "latitude": 47.5822514,
-    "longitude": 15.6471474
+    "longitude": 15.6471474,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "OBI",
@@ -20,6 +26,10 @@
     "shop": "doityourself",
     "latitude": 47.5821465,
     "longitude": 15.6498212,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "8682",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -5,21 +5,33 @@
     "shop": "car",
     "latitude": 47.7316909,
     "longitude": 13.0644619,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "5081",
+    "city": "Anif",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Doityourself",
     "retailer": "shop_doityourself",
     "shop": "doityourself",
     "latitude": 47.7345225,
-    "longitude": 13.0635043
+    "longitude": 13.0635043,
+    "postcode": "5081",
+    "city": "Anif",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Equiva",
     "retailer": "equiva",
     "shop": "supermarket",
     "latitude": 47.7318952,
-    "longitude": 13.0639547
+    "longitude": 13.0639547,
+    "postcode": "5081",
+    "city": "Anif",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lidl",
@@ -27,7 +39,11 @@
     "shop": "supermarket",
     "latitude": 47.7335904,
     "longitude": 13.065001,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "5081",
+    "city": "Anif",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Maximarkt",
@@ -35,20 +51,30 @@
     "shop": "supermarket",
     "latitude": 47.7366695,
     "longitude": 13.0680682,
-    "brand": "Maximarkt"
+    "brand": "Maximarkt",
+    "postcode": "5081",
+    "city": "Anif",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schönleitner",
     "retailer": "schonleitner",
     "shop": "florist",
     "latitude": 47.7306191,
-    "longitude": 13.0638864
+    "longitude": 13.0638864,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Stelzl Yachtcharter",
     "retailer": "stelzl_yachtcharter",
     "shop": "travel_agency",
     "latitude": 47.7339868,
-    "longitude": 13.0633152
+    "longitude": 13.0633152,
+    "postcode": "5081",
+    "city": "Anif",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

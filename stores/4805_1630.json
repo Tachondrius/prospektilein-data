@@ -5,7 +5,9 @@
     "shop": "chemist",
     "latitude": 48.0549399,
     "longitude": 16.3082502,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen B&B",
@@ -13,14 +15,20 @@
     "shop": "florist",
     "latitude": 48.0523855,
     "longitude": 16.3073828,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "postcode": "2353",
+    "city": "Guntramsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cornelius",
     "retailer": "cornelius",
     "shop": "car_repair",
     "latitude": 48.0535387,
-    "longitude": 16.3080052
+    "longitude": 16.3080052,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -28,14 +36,20 @@
     "shop": "supermarket",
     "latitude": 48.0512841,
     "longitude": 16.3071547,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2353",
+    "city": "Guntramsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "oemobil",
     "retailer": "oemobil",
     "shop": "bicycle",
     "latitude": 48.0537858,
-    "longitude": 16.3070436
+    "longitude": 16.3070436,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -43,6 +57,8 @@
     "shop": "supermarket",
     "latitude": 48.0548022,
     "longitude": 16.3081632,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

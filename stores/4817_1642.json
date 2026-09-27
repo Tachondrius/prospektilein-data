@@ -4,14 +4,18 @@
     "retailer": "autoklinik_simmering_gmbh",
     "shop": "car_repair",
     "latitude": 48.1735404,
-    "longitude": 16.4233549
+    "longitude": 16.4233549,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bettina Saller",
     "retailer": "bettina_saller",
     "shop": "hairdresser",
     "latitude": 48.1701026,
-    "longitude": 16.4282087
+    "longitude": 16.4282087,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -19,7 +23,9 @@
     "shop": "supermarket",
     "latitude": 48.1701461,
     "longitude": 16.425851,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -27,35 +33,49 @@
     "shop": "supermarket",
     "latitude": 48.1796803,
     "longitude": 16.4241442,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gummi Hohler",
     "retailer": "gummi_hohler",
     "shop": "tyres",
     "latitude": 48.1750076,
-    "longitude": 16.4205616
+    "longitude": 16.4205616,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ielaf Möbel",
     "retailer": "ielaf_mobel",
     "shop": "furniture",
     "latitude": 48.1703392,
-    "longitude": 16.4205764
+    "longitude": 16.4205764,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Marktstand Simmering",
     "retailer": "marktstand_simmering",
     "shop": "greengrocer",
     "latitude": 48.1703566,
-    "longitude": 16.4200297
+    "longitude": 16.4200297,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Orienthouse",
     "retailer": "orienthouse",
     "shop": "convenience",
     "latitude": 48.1792558,
-    "longitude": 16.4205824
+    "longitude": 16.4205824,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -63,14 +83,20 @@
     "shop": "supermarket",
     "latitude": 48.1702035,
     "longitude": 16.4208332,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Pöllmann",
     "retailer": "pollmann",
     "shop": "security",
     "latitude": 48.1745384,
-    "longitude": 16.4205106
+    "longitude": 16.4205106,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabaktrafik",
@@ -78,20 +104,28 @@
     "shop": "tobacco",
     "latitude": 48.1700886,
     "longitude": 16.4202138,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Teamzone",
     "retailer": "teamzone",
     "shop": "sports",
     "latitude": 48.1732028,
-    "longitude": 16.425621
+    "longitude": 16.425621,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik Eisenbarth",
     "retailer": "trafik_eisenbarth",
     "shop": "tobacco",
     "latitude": 48.179309,
-    "longitude": 16.4218193
+    "longitude": 16.4218193,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

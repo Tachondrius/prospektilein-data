@@ -4,7 +4,11 @@
     "retailer": "beautystation",
     "shop": "hairdresser",
     "latitude": 47.0608762,
-    "longitude": 15.4116527
+    "longitude": 15.4116527,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Boesner",
@@ -12,21 +16,31 @@
     "shop": "craft",
     "latitude": 47.0654645,
     "longitude": 15.4128352,
-    "brand": "Boesner"
+    "brand": "Boesner",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hirschmann",
     "retailer": "hirschmann",
     "shop": "kitchen",
     "latitude": 47.0686518,
-    "longitude": 15.4190503
+    "longitude": 15.4190503,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kormann GmbH",
     "retailer": "kormann_gmbh",
     "shop": "trade",
     "latitude": 47.0655176,
-    "longitude": 15.4139768
+    "longitude": 15.4139768,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Martin Auer",
@@ -34,14 +48,22 @@
     "shop": "bakery",
     "latitude": 47.0630684,
     "longitude": 15.410955,
-    "brand": "Martin Auer"
+    "brand": "Martin Auer",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sisters Beauty",
     "retailer": "sisters_beauty",
     "shop": "beauty",
     "latitude": 47.0645715,
-    "longitude": 15.410896
+    "longitude": 15.410896,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -49,6 +71,10 @@
     "shop": "supermarket",
     "latitude": 47.0638105,
     "longitude": 15.4110494,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,14 +4,18 @@
     "retailer": "alp_shop",
     "shop": "gift",
     "latitude": 47.2734399,
-    "longitude": 12.348134
+    "longitude": 12.348134,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Coremy Fashion & Styling",
     "retailer": "coremy_fashion_und_styling",
     "shop": "boutique",
     "latitude": 47.2727023,
-    "longitude": 12.3476081
+    "longitude": 12.3476081,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport",
@@ -19,35 +23,49 @@
     "shop": "sports",
     "latitude": 47.2723627,
     "longitude": 12.3412547,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "5733",
+    "city": "Bramberg am Wildkogel",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Karola Knapp",
     "retailer": "karola_knapp",
     "shop": "hairdresser",
     "latitude": 47.2732871,
-    "longitude": 12.3484353
+    "longitude": 12.3484353,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.272035,
-    "longitude": 12.3461952
+    "longitude": 12.3461952,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "nindl",
     "retailer": "nindl",
     "shop": "shoes",
     "latitude": 47.2727295,
-    "longitude": 12.3477362
+    "longitude": 12.3477362,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Red Zac Dankl",
     "retailer": "red_zac_dankl",
     "shop": "electronics",
     "latitude": 47.2702469,
-    "longitude": 12.3454876
+    "longitude": 12.3454876,
+    "postcode": "5733",
+    "city": "Bramberg am Wildkogel",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -55,7 +73,11 @@
     "shop": "supermarket",
     "latitude": 47.2725047,
     "longitude": 12.349013,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5733",
+    "city": "Bramberg am Wildkogel",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000 Herzog",
@@ -63,20 +85,31 @@
     "shop": "sports",
     "latitude": 47.2721023,
     "longitude": 12.3407599,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "city": "Bramberg am Wildkogel",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sportpro",
     "retailer": "sportpro",
     "shop": "sports",
     "latitude": 47.2716544,
-    "longitude": 12.340456
+    "longitude": 12.340456,
+    "postcode": "5733",
+    "city": "Bramberg am Wildkogel",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.273512,
-    "longitude": 12.3482057
+    "longitude": 12.3482057,
+    "postcode": "5733",
+    "city": "Bramberg am Wildkogel",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

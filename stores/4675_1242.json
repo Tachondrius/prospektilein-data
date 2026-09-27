@@ -5,7 +5,9 @@
     "shop": "bakery",
     "latitude": 46.7509125,
     "longitude": 12.4272903,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Franz Heinrich",
@@ -13,14 +15,20 @@
     "shop": "car",
     "latitude": 46.7507086,
     "longitude": 12.4259156,
-    "brand": "Audi;Volkswagen"
+    "brand": "Audi;Volkswagen",
+    "postcode": "9920",
+    "city": "Sillian",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Franz Heinrich",
     "retailer": "franz_heinrich",
     "shop": "car",
     "latitude": 46.7511277,
-    "longitude": 12.4260526
+    "longitude": 12.4260526,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -28,6 +36,10 @@
     "shop": "supermarket",
     "latitude": 46.7508834,
     "longitude": 12.4271811,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "9920",
+    "city": "Sillian",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

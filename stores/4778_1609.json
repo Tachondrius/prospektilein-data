@@ -4,14 +4,20 @@
     "retailer": "elektro_pfeffer",
     "shop": "electronics",
     "latitude": 47.7834569,
-    "longitude": 16.0953368
+    "longitude": 16.0953368,
+    "postcode": "2731",
+    "city": "St. Egyden am Steinfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KfZ Michäler",
     "retailer": "kfz_michaler",
     "shop": "car_repair",
     "latitude": 47.7833825,
-    "longitude": 16.0946793
+    "longitude": 16.0946793,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 47.7837467,
     "longitude": 16.0910639,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2731",
+    "city": "Urschendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

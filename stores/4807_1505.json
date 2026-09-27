@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 48.0721845,
     "longitude": 15.058392,
-    "brand": "Peugeot;Nissan;Bosch Car Service"
+    "brand": "Peugeot;Nissan;Bosch Car Service",
+    "postcode": "3261",
+    "city": "Wolfpassing",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 48.0722223,
     "longitude": 15.0534313,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3261",
+    "city": "Steinakirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Walter Hindersteiner",
@@ -21,6 +29,10 @@
     "shop": "car",
     "latitude": 48.0710875,
     "longitude": 15.0535828,
-    "brand": "Seat"
+    "brand": "Seat",
+    "postcode": "3261",
+    "city": "Steinakirchen am Forst",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

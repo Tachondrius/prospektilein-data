@@ -5,20 +5,32 @@
     "shop": "supermarket",
     "latitude": 48.1995332,
     "longitude": 15.5035431,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3385",
+    "city": "Prinzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei Kleemann",
     "retailer": "fleischerei_kleemann",
     "shop": "butcher",
     "latitude": 48.1927591,
-    "longitude": 15.5009539
+    "longitude": 15.5009539,
+    "postcode": "3388",
+    "city": "Markersdorf an der Pielach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Kirchner GmbH",
     "retailer": "kfz_kirchner_gmbh",
     "shop": "car_repair",
     "latitude": 48.1995625,
-    "longitude": 15.5055499
+    "longitude": 15.5055499,
+    "postcode": "3385",
+    "city": "Prinzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

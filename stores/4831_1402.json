@@ -4,42 +4,60 @@
     "retailer": "biohof_holzer",
     "shop": "farm",
     "latitude": 48.3145523,
-    "longitude": 14.020422
+    "longitude": 14.020422,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Raab",
     "retailer": "backerei_raab",
     "shop": "bakery",
     "latitude": 48.3129209,
-    "longitude": 14.0207846
+    "longitude": 14.0207846,
+    "postcode": "4070",
+    "city": "Eferding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dobler Reisen",
     "retailer": "dobler_reisen",
     "shop": "travel_agency",
     "latitude": 48.3103579,
-    "longitude": 14.0256216
+    "longitude": 14.0256216,
+    "postcode": "4070",
+    "city": "Eferding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Drive-In Trafik",
     "retailer": "drive_in_trafik",
     "shop": "kiosk",
     "latitude": 48.3118714,
-    "longitude": 14.020977
+    "longitude": 14.020977,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hair & Modelounge",
     "retailer": "hair_und_modelounge",
     "shop": "hairdresser",
     "latitude": 48.3101157,
-    "longitude": 14.0232474
+    "longitude": 14.0232474,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "ORTHO Schuhtechnik GmbH",
     "retailer": "ortho_schuhtechnik_gmbh",
     "shop": "shoes",
     "latitude": 48.3113202,
-    "longitude": 14.0225366
+    "longitude": 14.0225366,
+    "postcode": "4070",
+    "city": "Eferding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar Groiß",
@@ -47,6 +65,10 @@
     "shop": "supermarket",
     "latitude": 48.3156922,
     "longitude": 14.0238269,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4070",
+    "city": "Eferding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

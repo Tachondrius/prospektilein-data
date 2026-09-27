@@ -4,7 +4,9 @@
     "retailer": "a_central_shop_und_cafe",
     "shop": "convenience",
     "latitude": 48.1821051,
-    "longitude": 16.3829203
+    "longitude": 16.3829203,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 48.180536,
     "longitude": 16.3849117,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen B&B",
@@ -20,14 +26,20 @@
     "shop": "florist",
     "latitude": 48.1885691,
     "longitude": 16.3853678,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "cityClean",
     "retailer": "cityclean",
     "shop": "chemist",
     "latitude": 48.1899433,
-    "longitude": 16.3853054
+    "longitude": 16.3853054,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Der Mann",
@@ -35,28 +47,42 @@
     "shop": "bakery",
     "latitude": 48.1802019,
     "longitude": 16.3834991,
-    "brand": "Der Mann"
+    "brand": "Der Mann",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Feinkost Handler",
     "retailer": "feinkost_handler",
     "shop": "convenience",
     "latitude": 48.1850467,
-    "longitude": 16.3877385
+    "longitude": 16.3877385,
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 48.1844165,
-    "longitude": 16.3892066
+    "longitude": 16.3892066,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Glas Paar",
     "retailer": "glas_paar",
     "shop": "glaziery",
     "latitude": 48.1899125,
-    "longitude": 16.3893472
+    "longitude": 16.3893472,
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -64,14 +90,21 @@
     "shop": "supermarket",
     "latitude": 48.181069,
     "longitude": 16.3854199,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1100",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.1885865,
-    "longitude": 16.3856605
+    "longitude": 16.3856605,
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Max",
@@ -79,48 +112,68 @@
     "shop": "clothes",
     "latitude": 48.1884913,
     "longitude": 16.3808483,
-    "brand": "Max"
+    "brand": "Max",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "May Wines",
     "retailer": "may_wines",
     "shop": "wine",
     "latitude": 48.1885283,
-    "longitude": 16.3864016
+    "longitude": 16.3864016,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Radwerk JR OG",
     "retailer": "radwerk_jr_og",
     "shop": "bicycle",
     "latitude": 48.1814325,
-    "longitude": 16.3844198
+    "longitude": 16.3844198,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spirit & Style",
     "retailer": "spirit_und_style",
     "shop": "beauty",
     "latitude": 48.1884064,
-    "longitude": 16.3885083
+    "longitude": 16.3885083,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spirit & Style",
     "retailer": "spirit_und_style",
     "shop": "beauty",
     "latitude": 48.1884781,
-    "longitude": 16.3869841
+    "longitude": 16.3869841,
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Vinum et cetera",
     "retailer": "vinum_et_cetera",
     "shop": "wine",
     "latitude": 48.1895224,
-    "longitude": 16.3871533
+    "longitude": 16.3871533,
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Werkstatt zur findigen Libelle",
     "retailer": "werkstatt_zur_findigen_libelle",
     "shop": "kiosk",
     "latitude": 48.1892591,
-    "longitude": 16.3891231
+    "longitude": 16.3891231,
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

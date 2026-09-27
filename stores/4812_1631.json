@@ -5,35 +5,51 @@
     "shop": "clothes",
     "latitude": 48.1201466,
     "longitude": 16.3157263,
-    "brand": "Adler"
+    "brand": "Adler",
+    "postcode": "2334",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DIE MASCHE - Wollwaren und Strickboutique",
     "retailer": "die_masche_wollwaren_und_strickboutique",
     "shop": "wool",
     "latitude": 48.1273419,
-    "longitude": 16.3120102
+    "longitude": 16.3120102,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Elektro - Funk - Bärnat",
     "retailer": "elektro_funk_barnat",
     "shop": "radiotechnics",
     "latitude": 48.1269722,
-    "longitude": 16.3124643
+    "longitude": 16.3124643,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gencer",
     "retailer": "gencer",
     "shop": "convenience",
     "latitude": 48.1296556,
-    "longitude": 16.310691
+    "longitude": 16.310691,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Haircules",
     "retailer": "haircules",
     "shop": "hairdresser",
     "latitude": 48.1266066,
-    "longitude": 16.313737
+    "longitude": 16.313737,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -41,28 +57,40 @@
     "shop": "supermarket",
     "latitude": 48.1207529,
     "longitude": 16.3149422,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2334",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Point-S - F. Taban e.U.",
     "retailer": "point_s_f_taban_e_u",
     "shop": "car_repair",
     "latitude": 48.1275216,
-    "longitude": 16.3197408
+    "longitude": 16.3197408,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak",
     "retailer": "tabak",
     "shop": "tobacco",
     "latitude": 48.1266961,
-    "longitude": 16.3134728
+    "longitude": 16.3134728,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "newsagent",
     "latitude": 48.1296553,
-    "longitude": 16.3103786
+    "longitude": 16.3103786,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Zweirad-Center Stadler",
@@ -70,13 +98,21 @@
     "shop": "bicycle",
     "latitude": 48.1202836,
     "longitude": 16.3166714,
-    "brand": "Bulls;Cannondale;Kona;Scott;Cervelo;Beany;Dynamics;Mongoose;Tecnobike;KTM;Pegasus;Kalkhoff;Triumph;Exte;Electra;Gazelle;i:SY;Puky"
+    "brand": "Bulls;Cannondale;Kona;Scott;Cervelo;Beany;Dynamics;Mongoose;Tecnobike;KTM;Pegasus;Kalkhoff;Triumph;Exte;Electra;Gazelle;i:SY;Puky",
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Änderungsschneiderei Siman Inci",
     "retailer": "anderungsschneiderei_siman_inci",
     "shop": "tailor",
     "latitude": 48.127301,
-    "longitude": 16.3121723
+    "longitude": 16.3121723,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

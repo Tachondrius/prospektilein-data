@@ -4,14 +4,18 @@
     "retailer": "freudling",
     "shop": "furniture",
     "latitude": 47.367829,
-    "longitude": 11.8489077
+    "longitude": 11.8489077,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Furniture",
     "retailer": "shop_furniture",
     "shop": "furniture",
     "latitude": 47.366282,
-    "longitude": 11.8492676
+    "longitude": 11.8492676,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -19,6 +23,10 @@
     "shop": "supermarket",
     "latitude": 47.3657133,
     "longitude": 11.8499939,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6263",
+    "city": "Fügen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

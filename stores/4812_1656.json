@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1216982,
     "longitude": 16.560393,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1300",
+    "city": "Wien-Schwechat Flughafen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -13,35 +17,49 @@
     "shop": "supermarket",
     "latitude": 48.1251086,
     "longitude": 16.5627682,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1300",
+    "city": "Wien-Flughafen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "CAT",
     "retailer": "cat",
     "shop": "ticket",
     "latitude": 48.1204501,
-    "longitude": 16.5623867
+    "longitude": 16.5623867,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Heinemann",
     "retailer": "heinemann",
     "shop": "gift",
     "latitude": 48.1200263,
-    "longitude": 16.5608524
+    "longitude": 16.5608524,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Service Donschachner",
     "retailer": "kfz_service_donschachner",
     "shop": "car_repair",
     "latitude": 48.1249463,
-    "longitude": 16.5609934
+    "longitude": 16.5609934,
+    "postcode": "1300",
+    "city": "Wien-Flughafen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ltur",
     "retailer": "ltur",
     "shop": "travel_agency",
     "latitude": 48.1208477,
-    "longitude": 16.5610863
+    "longitude": 16.5610863,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Relay",
@@ -49,13 +67,17 @@
     "shop": "newsagent",
     "latitude": 48.1200337,
     "longitude": 16.5602355,
-    "brand": "Relay"
+    "brand": "Relay",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Travelingo",
     "retailer": "travelingo",
     "shop": "travel_agency",
     "latitude": 48.1209014,
-    "longitude": 16.5610287
+    "longitude": 16.5610287,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

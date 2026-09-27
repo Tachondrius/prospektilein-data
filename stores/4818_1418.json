@@ -4,14 +4,22 @@
     "retailer": "elektro_muller",
     "shop": "electronics",
     "latitude": 48.1858845,
-    "longitude": 14.1855727
+    "longitude": 14.1855727,
+    "postcode": "4055",
+    "city": "Pucking",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Erholungszeit",
     "retailer": "erholungszeit",
     "shop": "massage",
     "latitude": 48.1834353,
-    "longitude": 14.1825518
+    "longitude": 14.1825518,
+    "postcode": "4055",
+    "city": "Sammersdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lamm",
@@ -19,13 +27,17 @@
     "shop": "car",
     "latitude": 48.188617,
     "longitude": 14.1890194,
-    "brand": "Mitsubishi"
+    "brand": "Mitsubishi",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Technolit Austria GmbH",
     "retailer": "technolit_austria_gmbh",
     "shop": "tools",
     "latitude": 48.1887647,
-    "longitude": 14.1856205
+    "longitude": 14.1856205,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

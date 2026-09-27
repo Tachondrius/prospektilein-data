@@ -5,21 +5,33 @@
     "shop": "supermarket",
     "latitude": 47.9929946,
     "longitude": 16.8596915,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Eva Maria Gettinger",
     "retailer": "eva_maria_gettinger",
     "shop": "department_store",
     "latitude": 47.9955991,
-    "longitude": 16.8554847
+    "longitude": 16.8554847,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hair & more",
     "retailer": "hair_und_more",
     "shop": "hairdresser",
     "latitude": 47.9965763,
-    "longitude": 16.8560325
+    "longitude": 16.8560325,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Penny",
@@ -27,13 +39,21 @@
     "shop": "supermarket",
     "latitude": 47.993784,
     "longitude": 16.8576496,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "WS-Motorradtechnik",
     "retailer": "ws_motorradtechnik",
     "shop": "motorcycle_repair",
     "latitude": 47.9960363,
-    "longitude": 16.8545959
+    "longitude": 16.8545959,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

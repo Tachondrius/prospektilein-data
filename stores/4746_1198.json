@@ -4,14 +4,18 @@
     "retailer": "drogerie_ellinger",
     "shop": "chemist",
     "latitude": 47.4695301,
-    "longitude": 11.9829125
+    "longitude": 11.9829125,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kerber",
     "retailer": "kerber",
     "shop": "butcher",
     "latitude": 47.4687477,
-    "longitude": 11.9847094
+    "longitude": 11.9847094,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kruckenhauser",
@@ -19,7 +23,11 @@
     "shop": "car",
     "latitude": 47.4671642,
     "longitude": 11.9899867,
-    "brand": "Mazda;Vespa;Moto Guzzi;Piaggio;Rieju"
+    "brand": "Mazda;Vespa;Moto Guzzi;Piaggio;Rieju",
+    "postcode": "6250",
+    "city": "Kundl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kruckenhauser",
@@ -27,14 +35,22 @@
     "shop": "car_repair",
     "latitude": 47.4674432,
     "longitude": 11.9897304,
-    "brand": "Mazda;Vespa;Moto Guzzi;Piaggio;Rieju"
+    "brand": "Mazda;Vespa;Moto Guzzi;Piaggio;Rieju",
+    "postcode": "6250",
+    "city": "Kundl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Margreiter",
     "retailer": "margreiter",
     "shop": "bakery",
     "latitude": 47.469974,
-    "longitude": 11.9856144
+    "longitude": 11.9856144,
+    "postcode": "6250",
+    "city": "Kundl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -42,13 +58,19 @@
     "shop": "supermarket",
     "latitude": 47.4654001,
     "longitude": 11.9837387,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6250",
+    "city": "Kundl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T&G",
     "retailer": "t_und_g",
     "shop": "beverages",
     "latitude": 47.4672116,
-    "longitude": 11.9874346
+    "longitude": 11.9874346,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,20 +4,28 @@
     "retailer": "kaufhaus_trafik_zechner",
     "shop": "supermarket",
     "latitude": 46.9349005,
-    "longitude": 13.5232708
+    "longitude": 13.5232708,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Oldtimerhandel Allmayer",
     "retailer": "oldtimerhandel_allmayer",
     "shop": "car",
     "latitude": 46.937263,
-    "longitude": 13.5222302
+    "longitude": 13.5222302,
+    "postcode": "9853",
+    "city": "Gmünd",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Stiegler",
     "retailer": "stiegler",
     "shop": "car_repair",
     "latitude": 46.9372832,
-    "longitude": 13.5229232
+    "longitude": 13.5229232,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

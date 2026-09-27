@@ -5,21 +5,27 @@
     "shop": "car",
     "latitude": 46.6732292,
     "longitude": 13.0036683,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bakery",
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 46.6722988,
-    "longitude": 13.0026693
+    "longitude": 13.0026693,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 46.6770244,
-    "longitude": 13.0036781
+    "longitude": 13.0036781,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -27,7 +33,9 @@
     "shop": "supermarket",
     "latitude": 46.673165,
     "longitude": 13.0029724,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -35,77 +43,105 @@
     "shop": "chemist",
     "latitude": 46.6718865,
     "longitude": 13.0021837,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9640",
+    "city": "Kötschach-Mauthen;Kötschach-Mauten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Brezelstuben",
     "retailer": "brezelstuben",
     "shop": "bakery",
     "latitude": 46.6771801,
-    "longitude": 13.0037538
+    "longitude": 13.0037538,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Buchhandlung",
     "retailer": "buchhandlung",
     "shop": "books",
     "latitude": 46.677378,
-    "longitude": 13.0037911
+    "longitude": 13.0037911,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei-Cafe-Konditorei Matitz Thomas",
     "retailer": "backerei_cafe_konditorei_matitz_thomas",
     "shop": "bakery",
     "latitude": 46.6776819,
-    "longitude": 13.0053014
+    "longitude": 13.0053014,
+    "postcode": "9640",
+    "city": "Kötschach-Mauthen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 46.6763361,
-    "longitude": 13.0057812
+    "longitude": 13.0057812,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 46.6778847,
-    "longitude": 13.0046599
+    "longitude": 13.0046599,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Edelgreissler Herwig Ertl",
     "retailer": "edelgreissler_herwig_ertl",
     "shop": "supermarket",
     "latitude": 46.6773705,
-    "longitude": 13.0041683
+    "longitude": 13.0041683,
+    "postcode": "9640",
+    "city": "Kötschach-Mauthen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Electronics",
     "retailer": "shop_electronics",
     "shop": "electronics",
     "latitude": 46.6766479,
-    "longitude": 13.0036473
+    "longitude": 13.0036473,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fleischerei Engl",
     "retailer": "fleischerei_engl",
     "shop": "butcher",
     "latitude": 46.678391,
-    "longitude": 13.0050469
+    "longitude": 13.0050469,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Funeral Directors",
     "retailer": "shop_funeral_directors",
     "shop": "funeral_directors",
     "latitude": 46.6775527,
-    "longitude": 13.0043553
+    "longitude": 13.0043553,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 46.6769939,
-    "longitude": 13.0036573
+    "longitude": 13.0036573,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hagebaumarkt",
@@ -113,35 +149,46 @@
     "shop": "doityourself",
     "latitude": 46.6769629,
     "longitude": 13.0062741,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "city": "9640",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.6758409,
-    "longitude": 13.0032192
+    "longitude": 13.0032192,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.6777856,
-    "longitude": 13.0040425
+    "longitude": 13.0040425,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Karin Steiner",
     "retailer": "karin_steiner",
     "shop": "jewelry",
     "latitude": 46.6715324,
-    "longitude": 13.0003214
+    "longitude": 13.0003214,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kofler Anna",
     "retailer": "kofler_anna",
     "shop": "beauty",
     "latitude": 46.6753828,
-    "longitude": 13.002672
+    "longitude": 13.002672,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagerhaus",
@@ -149,7 +196,9 @@
     "shop": "doityourself",
     "latitude": 46.6717559,
     "longitude": 13.0038211,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagerhaus",
@@ -157,14 +206,21 @@
     "shop": "doityourself",
     "latitude": 46.6721979,
     "longitude": 13.0033702,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "9640",
+    "city": "Kötschach-Mauthen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Modehaus Kristler",
     "retailer": "modehaus_kristler",
     "shop": "clothes",
     "latitude": 46.6736371,
-    "longitude": 13.0018178
+    "longitude": 13.0018178,
+    "postcode": "9640",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -172,21 +228,29 @@
     "shop": "clothes",
     "latitude": 46.6720489,
     "longitude": 13.0026054,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "9640",
+    "city": "Kötschach-Mauthen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Optik Plessin",
     "retailer": "optik_plessin",
     "shop": "optician",
     "latitude": 46.6781197,
-    "longitude": 13.0049403
+    "longitude": 13.0049403,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Rauter KFZ",
     "retailer": "rauter_kfz",
     "shop": "car_repair",
     "latitude": 46.6765156,
-    "longitude": 13.0056989
+    "longitude": 13.0056989,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -194,7 +258,9 @@
     "shop": "supermarket",
     "latitude": 46.6714749,
     "longitude": 13.0013591,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sport 2000",
@@ -202,21 +268,27 @@
     "shop": "sports",
     "latitude": 46.6799008,
     "longitude": 13.0041477,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Steinberger Gisela",
     "retailer": "steinberger_gisela",
     "shop": "massage",
     "latitude": 46.6776476,
-    "longitude": 13.0055035
+    "longitude": 13.0055035,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tailor",
     "retailer": "shop_tailor",
     "shop": "tailor",
     "latitude": 46.6771392,
-    "longitude": 13.0038826
+    "longitude": 13.0038826,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "TEDi",
@@ -224,20 +296,27 @@
     "shop": "variety_store",
     "latitude": 46.6719124,
     "longitude": 13.0023868,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trafik Ploner/Berger",
     "retailer": "trafik_ploner_berger",
     "shop": "tobacco",
     "latitude": 46.6764399,
-    "longitude": 13.0032036
+    "longitude": 13.0032036,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Warmuth",
     "retailer": "warmuth",
     "shop": "doityourself",
     "latitude": 46.6705641,
-    "longitude": 13.0004062
+    "longitude": 13.0004062,
+    "postcode": "9640",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

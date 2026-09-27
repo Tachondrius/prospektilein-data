@@ -4,7 +4,11 @@
     "retailer": "apotheke_ragnitz",
     "shop": "chemist",
     "latitude": 47.0770127,
-    "longitude": 15.4968559
+    "longitude": 15.4968559,
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,28 +16,40 @@
     "shop": "supermarket",
     "latitude": 47.0774139,
     "longitude": 15.4946926,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bio Gesundheitsbauernhof Aschacher",
     "retailer": "bio_gesundheitsbauernhof_aschacher",
     "shop": "farm",
     "latitude": 47.0796039,
-    "longitude": 15.494188
+    "longitude": 15.494188,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Steiner",
     "retailer": "blumen_steiner",
     "shop": "florist",
     "latitude": 47.0768777,
-    "longitude": 15.4966024
+    "longitude": 15.4966024,
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Greengrocer",
     "retailer": "shop_greengrocer",
     "shop": "greengrocer",
     "latitude": 47.0703115,
-    "longitude": 15.4963666
+    "longitude": 15.4963666,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -41,35 +57,55 @@
     "shop": "supermarket",
     "latitude": 47.0772331,
     "longitude": 15.490907,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kürbiskernöl Rohrer",
     "retailer": "kurbiskernol_rohrer",
     "shop": "farm",
     "latitude": 47.0791185,
-    "longitude": 15.4970044
+    "longitude": 15.4970044,
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.077021,
-    "longitude": 15.4964
+    "longitude": 15.4964,
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Musyl",
     "retailer": "musyl",
     "shop": "hairdresser",
     "latitude": 47.0769365,
-    "longitude": 15.4968016
+    "longitude": 15.4968016,
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sorger",
     "retailer": "sorger",
     "shop": "bakery",
     "latitude": 47.0768809,
-    "longitude": 15.4967341
+    "longitude": 15.4967341,
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -77,7 +113,11 @@
     "shop": "supermarket",
     "latitude": 47.0770538,
     "longitude": 15.4962908,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar Express",
@@ -85,27 +125,43 @@
     "shop": "convenience",
     "latitude": 47.0778871,
     "longitude": 15.4911529,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Textilpflege Wäscherei Alex",
     "retailer": "textilpflege_wascherei_alex",
     "shop": "laundry",
     "latitude": 47.0769243,
-    "longitude": 15.496897
+    "longitude": 15.496897,
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Doris Streitt",
     "retailer": "trafik_doris_streitt",
     "shop": "kiosk",
     "latitude": 47.076912,
-    "longitude": 15.4969923
+    "longitude": 15.4969923,
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Unser Bauerngarten",
     "retailer": "unser_bauerngarten",
     "shop": "greengrocer",
     "latitude": 47.0792194,
-    "longitude": 15.4941201
+    "longitude": 15.4941201,
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

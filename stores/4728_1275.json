@@ -4,14 +4,20 @@
     "retailer": "marias_blumenland",
     "shop": "florist",
     "latitude": 47.2828775,
-    "longitude": 12.7537521
+    "longitude": 12.7537521,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schlosserei Peter Köck GmbH",
     "retailer": "schlosserei_peter_kock_gmbh",
     "shop": "locksmith",
     "latitude": 47.2838136,
-    "longitude": 12.7544094
+    "longitude": 12.7544094,
+    "postcode": "5710",
+    "city": "Kaprun",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 47.2822168,
     "longitude": 12.7549811,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5710",
+    "city": "Kaprun",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -5,28 +5,38 @@
     "shop": "car",
     "latitude": 48.2803159,
     "longitude": 14.2824906,
-    "brand": "Volkswagen;Škoda;Audi"
+    "brand": "Volkswagen;Škoda;Audi",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gumplmayr Brandschutz und Feuerlöschgeräte",
     "retailer": "gumplmayr_brandschutz_und_feuerloschgerate",
     "shop": "yes",
     "latitude": 48.2828932,
-    "longitude": 14.2880581
+    "longitude": 14.2880581,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Hund & Haar",
     "retailer": "salon_hund_und_haar",
     "shop": "pet_grooming",
     "latitude": 48.2823254,
-    "longitude": 14.2819037
+    "longitude": 14.2819037,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schuhreparatur Kopatsch",
     "retailer": "schuhreparatur_kopatsch",
     "shop": "shoe_repair",
     "latitude": 48.2800799,
-    "longitude": 14.2814163
+    "longitude": 14.2814163,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -34,13 +44,19 @@
     "shop": "tobacco",
     "latitude": 48.2836399,
     "longitude": 14.2835312,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wodoil GmbH / Kirchschlager",
     "retailer": "wodoil_gmbh_kirchschlager",
     "shop": "fuel",
     "latitude": 48.2826378,
-    "longitude": 14.2869513
+    "longitude": 14.2869513,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

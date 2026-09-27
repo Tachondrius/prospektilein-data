@@ -4,20 +4,30 @@
     "retailer": "achleitner_forellenzucht",
     "shop": "seafood",
     "latitude": 48.113019,
-    "longitude": 13.1683462
+    "longitude": 13.1683462,
+    "postcode": "5231",
+    "city": "Schalchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Kraxenberger",
     "retailer": "backerei_kraxenberger",
     "shop": "bakery",
     "latitude": 48.1196219,
-    "longitude": 13.1606615
+    "longitude": 13.1606615,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dorfmetzgerei Dreher",
     "retailer": "dorfmetzgerei_dreher",
     "shop": "butcher",
     "latitude": 48.1195486,
-    "longitude": 13.1606865
+    "longitude": 13.1606865,
+    "postcode": "5231",
+    "city": "Schalchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

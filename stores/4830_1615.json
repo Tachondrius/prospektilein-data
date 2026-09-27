@@ -5,7 +5,9 @@
     "shop": "convenience",
     "latitude": 48.3040784,
     "longitude": 16.1529132,
-    "brand": "Avia"
+    "brand": "Avia",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -13,20 +15,30 @@
     "shop": "supermarket",
     "latitude": 48.3056867,
     "longitude": 16.1571052,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3433",
+    "city": "Königstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gesundheitspraxis nach TCM",
     "retailer": "gesundheitspraxis_nach_tcm",
     "shop": "massage",
     "latitude": 48.3024721,
-    "longitude": 16.1552059
+    "longitude": 16.1552059,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Steininger",
     "retailer": "steininger",
     "shop": "florist",
     "latitude": 48.303726,
-    "longitude": 16.151773
+    "longitude": 16.151773,
+    "postcode": "3433",
+    "city": "Königstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

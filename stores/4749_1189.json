@@ -4,14 +4,20 @@
     "retailer": "backerei_atzl",
     "shop": "bakery",
     "latitude": 47.4914785,
-    "longitude": 11.8987889
+    "longitude": 11.8987889,
+    "postcode": "6234",
+    "city": "Brandenberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Monis Schuhe",
     "retailer": "monis_schuhe",
     "shop": "shoes",
     "latitude": 47.4917788,
-    "longitude": 11.8989457
+    "longitude": 11.8989457,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -19,6 +25,8 @@
     "shop": "supermarket",
     "latitude": 47.4911707,
     "longitude": 11.8978892,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

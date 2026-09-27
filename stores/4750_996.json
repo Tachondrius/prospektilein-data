@@ -4,7 +4,10 @@
     "retailer": "juppenwerkstatt",
     "shop": "clothes",
     "latitude": 47.5052126,
-    "longitude": 9.9640538
+    "longitude": 9.9640538,
+    "postcode": "6943",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -12,6 +15,8 @@
     "shop": "supermarket",
     "latitude": 47.504883,
     "longitude": 9.9634011,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

@@ -4,27 +4,40 @@
     "retailer": "autohaus_pirsch",
     "shop": "car_repair",
     "latitude": 47.131405,
-    "longitude": 15.3389539
+    "longitude": 15.3389539,
+    "postcode": "8101",
+    "city": "Gratkorn",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 47.1352951,
-    "longitude": 15.335769
+    "longitude": 15.335769,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Optician",
     "retailer": "shop_optician",
     "shop": "optician",
     "latitude": 47.1332938,
-    "longitude": 15.3394654
+    "longitude": 15.3394654,
+    "postcode": "8101",
+    "city": "Gratkorn",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Paju-Nautik & Navigation",
     "retailer": "paju_nautik_und_navigation",
     "shop": "outdoor",
     "latitude": 47.135989,
-    "longitude": 15.3345632
+    "longitude": 15.3345632,
+    "postcode": "8101",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

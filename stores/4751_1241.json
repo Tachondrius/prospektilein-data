@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.5179445,
     "longitude": 12.413456,
-    "brand": "Jeep; Chrysler; Dodge; Nissan"
+    "brand": "Jeep; Chrysler; Dodge; Nissan",
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -13,21 +17,31 @@
     "shop": "supermarket",
     "latitude": 47.5187651,
     "longitude": 12.4154328,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.519145,
-    "longitude": 12.4166023
+    "longitude": 12.4166023,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dan Küchen",
     "retailer": "dan_kuchen",
     "shop": "kitchen",
     "latitude": 47.5183004,
-    "longitude": 12.4140452
+    "longitude": 12.4140452,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fressnapf",
@@ -35,7 +49,11 @@
     "shop": "pet",
     "latitude": 47.5185474,
     "longitude": 12.4146847,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fristo",
@@ -43,7 +61,11 @@
     "shop": "beverages",
     "latitude": 47.5192119,
     "longitude": 12.4167984,
-    "brand": "Fristo"
+    "brand": "Fristo",
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gruber Sauna",
@@ -51,7 +73,11 @@
     "shop": "furniture",
     "latitude": 47.5183088,
     "longitude": 12.4143263,
-    "brand": "Gruber Sauna"
+    "brand": "Gruber Sauna",
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -59,7 +85,11 @@
     "shop": "sports",
     "latitude": 47.5196831,
     "longitude": 12.4164892,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Klipp",
@@ -67,21 +97,31 @@
     "shop": "hairdresser",
     "latitude": 47.5183517,
     "longitude": 12.4141356,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Matrazen Concord",
     "retailer": "matrazen_concord",
     "shop": "bed",
     "latitude": 47.5184736,
-    "longitude": 12.4144686
+    "longitude": 12.4144686,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Naturtalent",
     "retailer": "naturtalent",
     "shop": "convenience",
     "latitude": 47.519044,
-    "longitude": 12.4166632
+    "longitude": 12.4166632,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "OBI",
@@ -89,20 +129,32 @@
     "shop": "doityourself",
     "latitude": 47.5191656,
     "longitude": 12.41481,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trop",
     "retailer": "trop",
     "shop": "furniture",
     "latitude": 47.5194787,
-    "longitude": 12.4157853
+    "longitude": 12.4157853,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wein & Co",
     "retailer": "wein_und_co",
     "shop": "wine",
     "latitude": 47.5183996,
-    "longitude": 12.4142457
+    "longitude": 12.4142457,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

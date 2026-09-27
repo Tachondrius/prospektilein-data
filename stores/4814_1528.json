@@ -5,35 +5,53 @@
     "shop": "supermarket",
     "latitude": 48.142982,
     "longitude": 15.2824397,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3243",
+    "city": "St. Leonhard am Forst",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Centrum",
     "retailer": "centrum",
     "shop": "mall",
     "latitude": 48.1409097,
-    "longitude": 15.2811973
+    "longitude": 15.2811973,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "d’Greisslerei",
     "retailer": "dgreisslerei",
     "shop": "convenience",
     "latitude": 48.1423301,
-    "longitude": 15.2843287
+    "longitude": 15.2843287,
+    "postcode": "3243",
+    "city": "St. Leonhard am Forst",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei Schagerl",
     "retailer": "fleischerei_schagerl",
     "shop": "butcher",
     "latitude": 48.1429776,
-    "longitude": 15.2853489
+    "longitude": 15.2853489,
+    "postcode": "3243",
+    "city": "St. Leonhard am Forst",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Bau- und Gartenmarkt",
     "retailer": "lagerhaus_bau_und_gartenmarkt",
     "shop": "doityourself",
     "latitude": 48.1435498,
-    "longitude": 15.2828262
+    "longitude": 15.2828262,
+    "postcode": "3243",
+    "city": "St. Leonhard am Forst",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -41,21 +59,31 @@
     "shop": "supermarket",
     "latitude": 48.1406773,
     "longitude": 15.2813677,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "3244",
+    "city": "Ruprechtshofen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "RED ZAK",
     "retailer": "red_zak",
     "shop": "electronics",
     "latitude": 48.1424054,
-    "longitude": 15.2845933
+    "longitude": 15.2845933,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Silvia's Baby- und Puppenstube",
     "retailer": "silvia_s_baby_und_puppenstube",
     "shop": "baby_goods",
     "latitude": 48.142761,
-    "longitude": 15.2843244
+    "longitude": 15.2843244,
+    "postcode": "3243",
+    "city": "St. Leonhard am Forst",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -63,6 +91,10 @@
     "shop": "variety_store",
     "latitude": 48.1409142,
     "longitude": 15.2815442,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "3244",
+    "city": "Ruprechtshofen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

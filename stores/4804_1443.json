@@ -4,14 +4,20 @@
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 48.0487402,
-    "longitude": 14.4308184
+    "longitude": 14.4308184,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hrinkow",
     "retailer": "hrinkow",
     "shop": "bicycle",
     "latitude": 48.0425073,
-    "longitude": 14.4331823
+    "longitude": 14.4331823,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Intersport",
@@ -19,14 +25,20 @@
     "shop": "sports",
     "latitude": 48.0417369,
     "longitude": 14.4300003,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.0463789,
-    "longitude": 14.4385678
+    "longitude": 14.4385678,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mercedes-Benz",
@@ -34,6 +46,8 @@
     "shop": "car",
     "latitude": 48.0424986,
     "longitude": 14.432862,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

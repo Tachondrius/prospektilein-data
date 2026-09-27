@@ -5,14 +5,22 @@
     "shop": "car_repair",
     "latitude": 47.3078614,
     "longitude": 11.0828031,
-    "brand": "Bosch Car Service"
+    "brand": "Bosch Car Service",
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Denzel & Unterberger GmbH & Co KG",
     "retailer": "denzel_und_unterberger_gmbh_und_co_kg",
     "shop": "car",
     "latitude": 47.3071884,
-    "longitude": 11.0804688
+    "longitude": 11.0804688,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Neurauter",
@@ -20,20 +28,32 @@
     "shop": "car",
     "latitude": 47.3085261,
     "longitude": 11.0822996,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pflanzenvielfalt Rupprechter",
     "retailer": "pflanzenvielfalt_rupprechter",
     "shop": "garden_centre",
     "latitude": 47.3083357,
-    "longitude": 11.0851018
+    "longitude": 11.0851018,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Veeelo Cycles",
     "retailer": "veeelo_cycles",
     "shop": "bicycle",
     "latitude": 47.3002915,
-    "longitude": 11.0817129
+    "longitude": 11.0817129,
+    "postcode": "6405",
+    "city": "Pfaffenhofen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

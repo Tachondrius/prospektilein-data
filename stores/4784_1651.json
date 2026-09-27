@@ -4,13 +4,18 @@
     "retailer": "markthalle_kulinarium_burgenland",
     "shop": "convenience",
     "latitude": 47.8451169,
-    "longitude": 16.5199913
+    "longitude": 16.5199913,
+    "postcode": "7000",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.8453526,
-    "longitude": 16.5134505
+    "longitude": 16.5134505,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "backshop_skraup",
     "shop": "bakery",
     "latitude": 48.2753005,
-    "longitude": 16.414749
+    "longitude": 16.414749,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,21 +14,33 @@
     "shop": "supermarket",
     "latitude": 48.2716044,
     "longitude": 16.4183576,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ekim Supermarkt",
     "retailer": "ekim_supermarkt",
     "shop": "convenience",
     "latitude": 48.2784585,
-    "longitude": 16.4103434
+    "longitude": 16.4103434,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fleischerei Scheiterer",
     "retailer": "fleischerei_scheiterer",
     "shop": "butcher",
     "latitude": 48.2784608,
-    "longitude": 16.4106319
+    "longitude": 16.4106319,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -34,55 +48,79 @@
     "shop": "supermarket",
     "latitude": 48.2730134,
     "longitude": 16.4197458,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.2717454,
-    "longitude": 16.4189328
+    "longitude": 16.4189328,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.2779164,
-    "longitude": 16.4104389
+    "longitude": 16.4104389,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "PTS Sicherheitstechnik",
     "retailer": "pts_sicherheitstechnik",
     "shop": "security",
     "latitude": 48.2795634,
-    "longitude": 16.4102299
+    "longitude": 16.4102299,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "San-Glas",
     "retailer": "san_glas",
     "shop": "glaziery",
     "latitude": 48.279481,
-    "longitude": 16.4101546
+    "longitude": 16.4101546,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Papier",
     "retailer": "tabak_papier",
     "shop": "tobacco",
     "latitude": 48.2779178,
-    "longitude": 16.4103299
+    "longitude": 16.4103299,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak-Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 48.2751619,
-    "longitude": 16.4151053
+    "longitude": 16.4151053,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "textilpflege gaby",
     "retailer": "textilpflege_gaby",
     "shop": "laundry",
     "latitude": 48.2722232,
-    "longitude": 16.4185554
+    "longitude": 16.4185554,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

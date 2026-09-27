@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 48.2228106,
     "longitude": 15.3444564,
-    "brand": "Volkswagen;Seat;Audi;Skoda"
+    "brand": "Volkswagen;Seat;Audi;Skoda",
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Plus",
@@ -13,28 +17,44 @@
     "shop": "supermarket",
     "latitude": 48.226028,
     "longitude": 15.3479312,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Teufner",
     "retailer": "backerei_teufner",
     "shop": "bakery",
     "latitude": 48.2222802,
-    "longitude": 15.3474195
+    "longitude": 15.3474195,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_repair",
     "latitude": 48.2259789,
-    "longitude": 15.3495312
+    "longitude": 15.3495312,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gottwald",
     "retailer": "gottwald",
     "shop": "electronics",
     "latitude": 48.2252365,
-    "longitude": 15.3491946
+    "longitude": 15.3491946,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -42,6 +62,10 @@
     "shop": "supermarket",
     "latitude": 48.2260736,
     "longitude": 15.3486755,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 46.6917005,
     "longitude": 15.985422,
-    "brand": "Mazda;Mercedes-Benz"
+    "brand": "Mazda;Mercedes-Benz",
+    "postcode": "8490",
+    "city": "Bad Radkersburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 46.6915433,
     "longitude": 15.9827633,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8490",
+    "city": "Bad Radkersburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -21,14 +29,22 @@
     "shop": "chemist",
     "latitude": 46.6916615,
     "longitude": 15.9813364,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8490",
+    "city": "Bad Radkersburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 46.6918962,
-    "longitude": 15.987885
+    "longitude": 15.987885,
+    "postcode": "8490",
+    "city": "Bad Radkersburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -36,7 +52,9 @@
     "shop": "chemist",
     "latitude": 46.6906045,
     "longitude": 15.9821775,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektromarkt Spelec",
@@ -44,7 +62,11 @@
     "shop": "electronics",
     "latitude": 46.6915006,
     "longitude": 15.9818058,
-    "brand": "Alko"
+    "brand": "Alko",
+    "postcode": "8490",
+    "city": "Bad Radkersburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eurospar",
@@ -52,7 +74,11 @@
     "shop": "supermarket",
     "latitude": 46.6919344,
     "longitude": 15.9844258,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "8490",
+    "city": "Bad Radkersburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -60,7 +86,11 @@
     "shop": "supermarket",
     "latitude": 46.6903214,
     "longitude": 15.9832759,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8490",
+    "city": "Bad Radkersburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -68,14 +98,22 @@
     "shop": "clothes",
     "latitude": 46.6905739,
     "longitude": 15.9837897,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8490",
+    "city": "Bad Radkersburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Parkkauf",
     "retailer": "parkkauf",
     "shop": "mall",
     "latitude": 46.6906424,
-    "longitude": 15.9844092
+    "longitude": 15.9844092,
+    "postcode": "8490",
+    "city": "Bad Radkersburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -83,14 +121,22 @@
     "shop": "supermarket",
     "latitude": 46.6915642,
     "longitude": 15.9810766,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "8490",
+    "city": "Bad Radkersburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Süd Ost Shopping",
     "retailer": "sud_ost_shopping",
     "shop": "mall",
     "latitude": 46.6905931,
-    "longitude": 15.9815363
+    "longitude": 15.9815363,
+    "postcode": "8490",
+    "city": "Bad Radkersburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -98,13 +144,19 @@
     "shop": "variety_store",
     "latitude": 46.6906193,
     "longitude": 15.9811904,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Maller",
     "retailer": "trafik_maller",
     "shop": "kiosk",
     "latitude": 46.6911084,
-    "longitude": 15.9884782
+    "longitude": 15.9884782,
+    "postcode": "8490",
+    "city": "Bad Radkersburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

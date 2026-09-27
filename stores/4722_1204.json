@@ -4,7 +4,11 @@
     "retailer": "alpenkrauter_drogerie_rieser_malzer",
     "shop": "chemist",
     "latitude": 47.2269275,
-    "longitude": 12.0438992
+    "longitude": 12.0438992,
+    "postcode": "6281",
+    "city": "Gerlos",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -12,14 +16,20 @@
     "shop": "sports",
     "latitude": 47.2295288,
     "longitude": 12.0488283,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Joe's Skistadl Gerlos",
     "retailer": "joe_s_skistadl_gerlos",
     "shop": "sports",
     "latitude": 47.2261932,
-    "longitude": 12.0406991
+    "longitude": 12.0406991,
+    "postcode": "6281",
+    "city": "Gerlos",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -27,13 +37,21 @@
     "shop": "supermarket",
     "latitude": 47.2270659,
     "longitude": 12.0443926,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6281",
+    "city": "Gerlos",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Egger",
     "retailer": "sport_egger",
     "shop": "sports",
     "latitude": 47.2261176,
-    "longitude": 12.0400376
+    "longitude": 12.0400376,
+    "postcode": "6281",
+    "city": "Gerlos",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

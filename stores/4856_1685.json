@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.5665753,
     "longitude": 16.8557275,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Römer",
     "retailer": "romer",
     "shop": "bakery",
     "latitude": 48.5641541,
-    "longitude": 16.853543
+    "longitude": 16.853543,
+    "postcode": "2272",
+    "city": "Ringelsdorf-Niederabsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

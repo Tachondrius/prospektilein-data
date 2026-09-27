@@ -4,14 +4,18 @@
     "retailer": "abex",
     "shop": "wholesale",
     "latitude": 47.4489943,
-    "longitude": 13.9047135
+    "longitude": 13.9047135,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "BestDrive",
     "retailer": "bestdrive",
     "shop": "car_repair",
     "latitude": 47.448457,
-    "longitude": 13.901808
+    "longitude": 13.901808,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -19,14 +23,20 @@
     "shop": "supermarket",
     "latitude": 47.4487395,
     "longitude": 13.9053286,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8962",
+    "city": "Gröbming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "bio Trio",
     "retailer": "bio_trio",
     "shop": "convenience",
     "latitude": 47.445318,
-    "longitude": 13.9004208
+    "longitude": 13.9004208,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -34,84 +44,114 @@
     "shop": "chemist",
     "latitude": 47.4492081,
     "longitude": 13.9009796,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Sissy",
     "retailer": "blumen_sissy",
     "shop": "florist",
     "latitude": 47.4438699,
-    "longitude": 13.9018838
+    "longitude": 13.9018838,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deko-Eck",
     "retailer": "deko_eck",
     "shop": "interior_decoration",
     "latitude": 47.4452227,
-    "longitude": 13.9003229
+    "longitude": 13.9003229,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischerei Spanberger",
     "retailer": "fleischerei_spanberger",
     "shop": "butcher",
     "latitude": 47.4449164,
-    "longitude": 13.9011651
+    "longitude": 13.9011651,
+    "postcode": "8962",
+    "city": "Gröbming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gaulhofer",
     "retailer": "gaulhofer",
     "shop": "window_blind",
     "latitude": 47.4492484,
-    "longitude": 13.9012262
+    "longitude": 13.9012262,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Geschenk & Lichtdesign",
     "retailer": "geschenk_und_lichtdesign",
     "shop": "lighting",
     "latitude": 47.4436897,
-    "longitude": 13.9021137
+    "longitude": 13.9021137,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gröbminger Bauernladen",
     "retailer": "grobminger_bauernladen",
     "shop": "farm",
     "latitude": 47.4440995,
-    "longitude": 13.9020686
+    "longitude": 13.9020686,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Jasmine Zenz Gartengestaltung",
     "retailer": "jasmine_zenz_gartengestaltung",
     "shop": "florist",
     "latitude": 47.4458127,
-    "longitude": 13.9088639
+    "longitude": 13.9088639,
+    "postcode": "8962",
+    "city": "Gröbming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Karl Rappl",
     "retailer": "karl_rappl",
     "shop": "gift",
     "latitude": 47.4450965,
-    "longitude": 13.9005754
+    "longitude": 13.9005754,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
     "retailer": "klipp",
     "shop": "hairdresser",
     "latitude": 47.4491213,
-    "longitude": 13.9010122
+    "longitude": 13.9010122,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Let's Do It Mandl",
     "retailer": "let_s_do_it_mandl",
     "shop": "hardware",
     "latitude": 47.4448217,
-    "longitude": 13.9063036
+    "longitude": 13.9063036,
+    "postcode": "8962",
+    "city": "Gröbming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Malerei Prock",
     "retailer": "malerei_prock",
     "shop": "paint",
     "latitude": 47.4450313,
-    "longitude": 13.9039631
+    "longitude": 13.9039631,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mandl",
@@ -119,49 +159,63 @@
     "shop": "sports",
     "latitude": 47.4447567,
     "longitude": 13.901505,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MEZ-Gröbming",
     "retailer": "mez_grobming",
     "shop": "supermarket",
     "latitude": 47.4493565,
-    "longitude": 13.9012261
+    "longitude": 13.9012261,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sabrina‘s Knopfloch",
     "retailer": "sabrinas_knopfloch",
     "shop": "fabric",
     "latitude": 47.4448525,
-    "longitude": 13.901433
+    "longitude": 13.901433,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Scalare",
     "retailer": "scalare",
     "shop": "pet",
     "latitude": 47.4415214,
-    "longitude": 13.9024002
+    "longitude": 13.9024002,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schuhe bei Josef",
     "retailer": "schuhe_bei_josef",
     "shop": "shoes",
     "latitude": 47.4442111,
-    "longitude": 13.9023373
+    "longitude": 13.9023373,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schweiger‘s Weingreißlerei",
     "retailer": "schweigers_weingreilerei",
     "shop": "wine",
     "latitude": 47.4447212,
-    "longitude": 13.9004365
+    "longitude": 13.9004365,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "sehen! wutscher",
     "retailer": "sehen_wutscher",
     "shop": "optician",
     "latitude": 47.4449613,
-    "longitude": 13.9008381
+    "longitude": 13.9008381,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -169,14 +223,18 @@
     "shop": "supermarket",
     "latitude": 47.44756,
     "longitude": 13.9030196,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 47.4491026,
-    "longitude": 13.9045674
+    "longitude": 13.9045674,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Unimarkt",
@@ -184,20 +242,26 @@
     "shop": "supermarket",
     "latitude": 47.4493505,
     "longitude": 13.9014959,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wallig",
     "retailer": "wallig",
     "shop": "books",
     "latitude": 47.4444428,
-    "longitude": 13.9023566
+    "longitude": 13.9023566,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wutscher",
     "retailer": "wutscher",
     "shop": "optician",
     "latitude": 47.4437519,
-    "longitude": 13.9018689
+    "longitude": 13.9018689,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

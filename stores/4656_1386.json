@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 46.5617261,
     "longitude": 13.8690351,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9584",
+    "city": "Finkenstein am Faaker See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -13,6 +17,10 @@
     "shop": "supermarket",
     "latitude": 46.5611694,
     "longitude": 13.868999,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9584",
+    "city": "Finkenstein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

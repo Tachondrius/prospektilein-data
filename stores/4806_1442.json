@@ -5,28 +5,40 @@
     "shop": "chemist",
     "latitude": 48.0669892,
     "longitude": 14.4201526,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4407",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.0667977,
-    "longitude": 14.4215031
+    "longitude": 14.4215031,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Imbissstube Steffe",
     "retailer": "imbissstube_steffe",
     "shop": "kiosk",
     "latitude": 48.0689455,
-    "longitude": 14.4222034
+    "longitude": 14.4222034,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mein liebes Haar by Mary",
     "retailer": "mein_liebes_haar_by_mary",
     "shop": "hairdresser",
     "latitude": 48.0603106,
-    "longitude": 14.4220729
+    "longitude": 14.4220729,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -34,20 +46,30 @@
     "shop": "supermarket",
     "latitude": 48.0603917,
     "longitude": 14.4209126,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.0601929,
-    "longitude": 14.4219251
+    "longitude": 14.4219251,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zweirad-Center Steyr",
     "retailer": "zweirad_center_steyr",
     "shop": "motorcycle",
     "latitude": 48.0692456,
-    "longitude": 14.4226325
+    "longitude": 14.4226325,
+    "postcode": "4407",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

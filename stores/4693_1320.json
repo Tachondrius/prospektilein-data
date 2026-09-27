@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 46.9303518,
     "longitude": 13.2069711,
-    "brand": "Opel"
+    "brand": "Opel",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ford Pacher",
@@ -13,21 +15,31 @@
     "shop": "car",
     "latitude": 46.9307129,
     "longitude": 13.2023839,
-    "brand": "Ford"
+    "brand": "Ford",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kniesek`s Backtüberl",
     "retailer": "kniesek_s_backtuberl",
     "shop": "bakery",
     "latitude": 46.9326717,
-    "longitude": 13.2006136
+    "longitude": 13.2006136,
+    "postcode": "9821",
+    "city": "Obervellach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Papier Huber",
     "retailer": "papier_huber",
     "shop": "stationery",
     "latitude": 46.9322656,
-    "longitude": 13.2040209
+    "longitude": 13.2040209,
+    "postcode": "9821",
+    "city": "Obervellach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -35,13 +47,21 @@
     "shop": "supermarket",
     "latitude": 46.93075,
     "longitude": 13.2065832,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9821",
+    "city": "Obervellach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.9321505,
-    "longitude": 13.2019699
+    "longitude": 13.2019699,
+    "postcode": "9821",
+    "city": "Obervellach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

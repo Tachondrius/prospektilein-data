@@ -4,14 +4,22 @@
     "retailer": "biolindo",
     "shop": "laundry",
     "latitude": 46.9574353,
-    "longitude": 15.8502335
+    "longitude": 15.8502335,
+    "postcode": "8341",
+    "city": "Paldau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pflanzenfee",
     "retailer": "pflanzenfee",
     "shop": "garden_centre",
     "latitude": 46.957581,
-    "longitude": 15.8503756
+    "longitude": 15.8503756,
+    "postcode": "8341",
+    "city": "Paldau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -19,6 +27,10 @@
     "shop": "supermarket",
     "latitude": 46.9536004,
     "longitude": 15.8508816,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8341",
+    "city": "Paldau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,49 +4,69 @@
     "retailer": "arbo",
     "shop": "car_repair",
     "latitude": 47.5775563,
-    "longitude": 12.1633787
+    "longitude": 12.1633787,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Autoforum Mairhofer - Gebrauchtwagenplatz",
     "retailer": "autoforum_mairhofer_gebrauchtwagenplatz",
     "shop": "car",
     "latitude": 47.5767811,
-    "longitude": 12.1608616
+    "longitude": 12.1608616,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Autohaus Fuchs",
     "retailer": "autohaus_fuchs",
     "shop": "car_repair",
     "latitude": 47.5789361,
-    "longitude": 12.1660668
+    "longitude": 12.1660668,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "e-bikes4you.com",
     "retailer": "e_bikes4you_com",
     "shop": "bicycle",
     "latitude": 47.5795528,
-    "longitude": 12.1698153
+    "longitude": 12.1698153,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eni Shop",
     "retailer": "eni_shop",
     "shop": "convenience",
     "latitude": 47.5766763,
-    "longitude": 12.160497
+    "longitude": 12.160497,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Esen Market",
     "retailer": "esen_market",
     "shop": "convenience",
     "latitude": 47.5787909,
-    "longitude": 12.1656984
+    "longitude": 12.1656984,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Inn-Bike",
     "retailer": "inn_bike",
     "shop": "bicycle",
     "latitude": 47.5796692,
-    "longitude": 12.1696024
+    "longitude": 12.1696024,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "JYSK",
@@ -54,7 +74,11 @@
     "shop": "furniture",
     "latitude": 47.5758517,
     "longitude": 12.1600785,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Peugeot",
@@ -62,41 +86,56 @@
     "shop": "car",
     "latitude": 47.5792938,
     "longitude": 12.1619057,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Queen of Hair",
     "retailer": "queen_of_hair",
     "shop": "hairdresser",
     "latitude": 47.5798133,
-    "longitude": 12.1699416
+    "longitude": 12.1699416,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Raiffeisen Lagerhaus Kufstein",
     "retailer": "raiffeisen_lagerhaus_kufstein",
     "shop": "trade",
     "latitude": 47.5798926,
-    "longitude": 12.1630374
+    "longitude": 12.1630374,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Riedel Glas Austria",
     "retailer": "riedel_glas_austria",
     "shop": "glaziery",
     "latitude": 47.5738899,
-    "longitude": 12.1630155
+    "longitude": 12.1630155,
+    "postcode": "6330",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Striede Orthopädiezentrum",
     "retailer": "striede_orthopadiezentrum",
     "shop": "medical_supply",
     "latitude": 47.5772165,
-    "longitude": 12.1610926
+    "longitude": 12.1610926,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wechselberger",
     "retailer": "wechselberger",
     "shop": "travel_agency",
     "latitude": 47.5790774,
-    "longitude": 12.166608
+    "longitude": 12.166608,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

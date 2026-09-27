@@ -4,7 +4,9 @@
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 47.1338856,
-    "longitude": 15.3218765
+    "longitude": 15.3218765,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -12,7 +14,11 @@
     "shop": "chemist",
     "latitude": 47.1371025,
     "longitude": 15.3291745,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8101",
+    "city": "Gratkorn",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -20,14 +26,18 @@
     "shop": "chemist",
     "latitude": 47.1335057,
     "longitude": 15.3214667,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HandyShop Gratwein",
     "retailer": "handyshop_gratwein",
     "shop": "mobile_phone",
     "latitude": 47.1338462,
-    "longitude": 15.3221453
+    "longitude": 15.3221453,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -35,14 +45,21 @@
     "shop": "supermarket",
     "latitude": 47.1331552,
     "longitude": 15.3214175,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8112",
+    "city": "Gratwein",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kern",
     "retailer": "kern",
     "shop": "bakery",
     "latitude": 47.1338402,
-    "longitude": 15.3222782
+    "longitude": 15.3222782,
+    "postcode": "8112",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -50,7 +67,9 @@
     "shop": "clothes",
     "latitude": 47.1336841,
     "longitude": 15.3215255,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -58,7 +77,9 @@
     "shop": "doityourself",
     "latitude": 47.1320723,
     "longitude": 15.3227956,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -66,7 +87,10 @@
     "shop": "supermarket",
     "latitude": 47.1329486,
     "longitude": 15.3233649,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8112",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -74,7 +98,11 @@
     "shop": "clothes",
     "latitude": 47.1338106,
     "longitude": 15.3216602,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8112",
+    "city": "Gratwein",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pagro",
@@ -82,7 +110,9 @@
     "shop": "stationery",
     "latitude": 47.1310273,
     "longitude": 15.3226072,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Penny",
@@ -90,20 +120,28 @@
     "shop": "supermarket",
     "latitude": 47.137149,
     "longitude": 15.328944,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8101",
+    "city": "Gratkorn",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pfleger",
     "retailer": "pfleger",
     "shop": "bakery",
     "latitude": 47.1372351,
-    "longitude": 15.3295929
+    "longitude": 15.3295929,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.1300429,
-    "longitude": 15.3217506
+    "longitude": 15.3217506,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

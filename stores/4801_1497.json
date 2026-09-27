@@ -4,7 +4,9 @@
     "retailer": "h_team_by_michaela",
     "shop": "hairdresser",
     "latitude": 48.0108522,
-    "longitude": 14.972984
+    "longitude": 14.972984,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -12,13 +14,19 @@
     "shop": "supermarket",
     "latitude": 48.0120236,
     "longitude": 14.9728069,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Steinecker Brautmoden",
     "retailer": "steinecker_brautmoden",
     "shop": "clothes",
     "latitude": 48.0121547,
-    "longitude": 14.9727195
+    "longitude": 14.9727195,
+    "postcode": "3263",
+    "city": "Randegg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

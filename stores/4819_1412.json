@@ -4,7 +4,11 @@
     "retailer": "flora_joy",
     "shop": "florist",
     "latitude": 48.1946261,
-    "longitude": 14.1295833
+    "longitude": 14.1295833,
+    "postcode": "4614",
+    "city": "Marchtrenk",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ford Motormobil",
@@ -12,20 +16,30 @@
     "shop": "car",
     "latitude": 48.1933702,
     "longitude": 14.1288609,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "4614",
+    "city": "Marchtrenk",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Rehberger",
     "retailer": "rehberger",
     "shop": "convenience",
     "latitude": 48.1991273,
-    "longitude": 14.1287558
+    "longitude": 14.1287558,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Steiner",
     "retailer": "steiner",
     "shop": "butcher",
     "latitude": 48.1919088,
-    "longitude": 14.1204767
+    "longitude": 14.1204767,
+    "postcode": "4614",
+    "city": "Marchtrenk",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

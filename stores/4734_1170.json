@@ -4,7 +4,9 @@
     "retailer": "2brands",
     "shop": "clothes",
     "latitude": 47.3475463,
-    "longitude": 11.7072201
+    "longitude": 11.7072201,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "A1",
@@ -12,7 +14,11 @@
     "shop": "telecommunication",
     "latitude": 47.3467992,
     "longitude": 11.7074971,
-    "brand": "A1"
+    "brand": "A1",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "ADMIRAL Sportwetten",
@@ -20,14 +26,22 @@
     "shop": "bookmaker",
     "latitude": 47.3427593,
     "longitude": 11.7073906,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Angerer",
     "retailer": "angerer",
     "shop": "bag",
     "latitude": 47.3455111,
-    "longitude": 11.7086148
+    "longitude": 11.7086148,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -35,28 +49,40 @@
     "shop": "bakery",
     "latitude": 47.3477779,
     "longitude": 11.7070092,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Barber Samet",
     "retailer": "barber_samet",
     "shop": "hairdresser",
     "latitude": 47.3430631,
-    "longitude": 11.7076426
+    "longitude": 11.7076426,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bathelt",
     "retailer": "bathelt",
     "shop": "bakery",
     "latitude": 47.3473348,
-    "longitude": 11.7097318
+    "longitude": 11.7097318,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bergböcke",
     "retailer": "bergbocke",
     "shop": "bicycle",
     "latitude": 47.3469444,
-    "longitude": 11.7050456
+    "longitude": 11.7050456,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bijou Brigitte",
@@ -64,21 +90,33 @@
     "shop": "jewelry",
     "latitude": 47.3472471,
     "longitude": 11.7072052,
-    "brand": "Bijou Brigitte"
+    "brand": "Bijou Brigitte",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Calovini",
     "retailer": "blumen_calovini",
     "shop": "florist",
     "latitude": 47.3479117,
-    "longitude": 11.7072787
+    "longitude": 11.7072787,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blütenpracht",
     "retailer": "blutenpracht",
     "shop": "florist",
     "latitude": 47.3448983,
-    "longitude": 11.7091316
+    "longitude": 11.7091316,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "BONITA",
@@ -86,28 +124,40 @@
     "shop": "clothes",
     "latitude": 47.3473169,
     "longitude": 11.7072076,
-    "brand": "BONITA"
+    "brand": "BONITA",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Buchhandlung Riepenhausen",
     "retailer": "buchhandlung_riepenhausen",
     "shop": "books",
     "latitude": 47.3470305,
-    "longitude": 11.7074319
+    "longitude": 11.7074319,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Buchhandlung Tyrolia",
     "retailer": "buchhandlung_tyrolia",
     "shop": "books",
     "latitude": 47.3462555,
-    "longitude": 11.7093539
+    "longitude": 11.7093539,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Bathelt",
     "retailer": "backerei_bathelt",
     "shop": "bakery",
     "latitude": 47.345045,
-    "longitude": 11.7082558
+    "longitude": 11.7082558,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Cecil",
@@ -115,14 +165,20 @@
     "shop": "clothes",
     "latitude": 47.3470771,
     "longitude": 11.7073949,
-    "brand": "Cecil"
+    "brand": "Cecil",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Christophorus Reisen",
     "retailer": "christophorus_reisen",
     "shop": "travel_agency",
     "latitude": 47.3442636,
-    "longitude": 11.7080005
+    "longitude": 11.7080005,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Depot",
@@ -130,7 +186,11 @@
     "shop": "interior_decoration",
     "latitude": 47.3472286,
     "longitude": 11.7070255,
-    "brand": "Depot"
+    "brand": "Depot",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Der Bäcker Ruetz",
@@ -138,14 +198,20 @@
     "shop": "bakery",
     "latitude": 47.3465594,
     "longitude": 11.7075594,
-    "brand": "Der Bäcker Ruetz"
+    "brand": "Der Bäcker Ruetz",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Diadoro",
     "retailer": "diadoro",
     "shop": "jewelry",
     "latitude": 47.3457601,
-    "longitude": 11.7088612
+    "longitude": 11.7088612,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dm",
@@ -153,28 +219,40 @@
     "shop": "chemist",
     "latitude": 47.3479422,
     "longitude": 11.7070721,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dreizack",
     "retailer": "dreizack",
     "shop": "clothes",
     "latitude": 47.3460788,
-    "longitude": 11.7092934
+    "longitude": 11.7092934,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eisen Orgler GmbH & Co KG",
     "retailer": "eisen_orgler_gmbh_und_co_kg",
     "shop": "hardware",
     "latitude": 47.3494571,
-    "longitude": 11.7022776
+    "longitude": 11.7022776,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Obholzer",
     "retailer": "elektro_obholzer",
     "shop": "electronics",
     "latitude": 47.3470596,
-    "longitude": 11.7095477
+    "longitude": 11.7095477,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "engbers",
@@ -182,7 +260,11 @@
     "shop": "clothes",
     "latitude": 47.3469441,
     "longitude": 11.7074937,
-    "brand": "engbers"
+    "brand": "engbers",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ernsting's family",
@@ -190,70 +272,94 @@
     "shop": "clothes",
     "latitude": 47.3466844,
     "longitude": 11.7074964,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ezeb",
     "retailer": "ezeb",
     "shop": "bakery",
     "latitude": 47.3446871,
-    "longitude": 11.7048011
+    "longitude": 11.7048011,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fabulous",
     "retailer": "fabulous",
     "shop": "hairdresser",
     "latitude": 47.3452853,
-    "longitude": 11.7073813
+    "longitude": 11.7073813,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.3413494,
-    "longitude": 11.7035006
+    "longitude": 11.7035006,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Felice Brautmoden",
     "retailer": "felice_brautmoden",
     "shop": "clothes",
     "latitude": 47.3490241,
-    "longitude": 11.7076723
+    "longitude": 11.7076723,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Felix Mode",
     "retailer": "felix_mode",
     "shop": "clothes",
     "latitude": 47.346958,
-    "longitude": 11.7071111
+    "longitude": 11.7071111,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fit for Job",
     "retailer": "fit_for_job",
     "shop": "clothes",
     "latitude": 47.3458021,
-    "longitude": 11.7022961
+    "longitude": 11.7022961,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fotostudio Klux",
     "retailer": "fotostudio_klux",
     "shop": "photo",
     "latitude": 47.3451987,
-    "longitude": 11.7086884
+    "longitude": 11.7086884,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Goldschmiede Schneider-Rappel",
     "retailer": "goldschmiede_schneider_rappel",
     "shop": "jewelry",
     "latitude": 47.3457918,
-    "longitude": 11.7077521
+    "longitude": 11.7077521,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gruber-Brankowsky",
     "retailer": "gruber_brankowsky",
     "shop": "jewelry;watches",
     "latitude": 47.3472854,
-    "longitude": 11.709842
+    "longitude": 11.709842,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "H&M",
@@ -261,28 +367,40 @@
     "shop": "clothes",
     "latitude": 47.3466735,
     "longitude": 11.7071643,
-    "brand": "H&M"
+    "brand": "H&M",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haare Angerer",
     "retailer": "haare_angerer",
     "shop": "hairdresser",
     "latitude": 47.346282,
-    "longitude": 11.7091651
+    "longitude": 11.7091651,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hair'n More",
     "retailer": "hair_n_more",
     "shop": "hairdresser",
     "latitude": 47.3492776,
-    "longitude": 11.705824
+    "longitude": 11.705824,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hair´n more",
     "retailer": "hair_n_more",
     "shop": "hairdresser",
     "latitude": 47.3459709,
-    "longitude": 11.7091993
+    "longitude": 11.7091993,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hansaton",
@@ -290,7 +408,9 @@
     "shop": "hearing_aids",
     "latitude": 47.344861,
     "longitude": 11.7076138,
-    "brand": "Hansaton"
+    "brand": "Hansaton",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hartlauer",
@@ -298,14 +418,20 @@
     "shop": "electronics",
     "latitude": 47.3447939,
     "longitude": 11.7081935,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Huber Shop",
     "retailer": "huber_shop",
     "shop": "clothes",
     "latitude": 47.3450863,
-    "longitude": 11.7074151
+    "longitude": 11.7074151,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hunkemöller",
@@ -313,98 +439,138 @@
     "shop": "clothes",
     "latitude": 47.3471375,
     "longitude": 11.7072013,
-    "brand": "Hunkemöller"
+    "brand": "Hunkemöller",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hörtnagl",
     "retailer": "hortnagl",
     "shop": "butcher",
     "latitude": 47.34762,
-    "longitude": 11.7071033
+    "longitude": 11.7071033,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Idealtours",
     "retailer": "idealtours",
     "shop": "travel_agency",
     "latitude": 47.3462206,
-    "longitude": 11.7091145
+    "longitude": 11.7091145,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Italo Classics",
     "retailer": "italo_classics",
     "shop": "motorcycle",
     "latitude": 47.3411766,
-    "longitude": 11.7068452
+    "longitude": 11.7068452,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Jones Fashion",
     "retailer": "jones_fashion",
     "shop": "clothes",
     "latitude": 47.3474386,
-    "longitude": 11.7074288
+    "longitude": 11.7074288,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Juwelier Atabey",
     "retailer": "juwelier_atabey",
     "shop": "jewelry",
     "latitude": 47.3451635,
-    "longitude": 11.7083562
+    "longitude": 11.7083562,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kathrins Weinladele",
     "retailer": "kathrins_weinladele",
     "shop": "alcohol",
     "latitude": 47.3450204,
-    "longitude": 11.7088673
+    "longitude": 11.7088673,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kosmetikstudio Se Cosmetic",
     "retailer": "kosmetikstudio_se_cosmetic",
     "shop": "beauty",
     "latitude": 47.3445884,
-    "longitude": 11.7078263
+    "longitude": 11.7078263,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lechner Druck",
     "retailer": "lechner_druck",
     "shop": "copyshop",
     "latitude": 47.3435874,
-    "longitude": 11.7074803
+    "longitude": 11.7074803,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lintner Sicherheitstechnik",
     "retailer": "lintner_sicherheitstechnik",
     "shop": "locksmith",
     "latitude": 47.3411295,
-    "longitude": 11.706833
+    "longitude": 11.706833,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Maniolo´s",
     "retailer": "maniolo_s",
     "shop": "shoes",
     "latitude": 47.3473742,
-    "longitude": 11.7074274
+    "longitude": 11.7074274,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Manuel Eder",
     "retailer": "manuel_eder",
     "shop": "tattoo",
     "latitude": 47.3452539,
-    "longitude": 11.7035603
+    "longitude": 11.7035603,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Max",
     "retailer": "max",
     "shop": "hairdresser",
     "latitude": 47.3452171,
-    "longitude": 11.707388
+    "longitude": 11.707388,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Michaels Obstoase",
     "retailer": "michaels_obstoase",
     "shop": "greengrocer",
     "latitude": 47.3456982,
-    "longitude": 11.7088221
+    "longitude": 11.7088221,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Miller United Optics",
@@ -412,14 +578,20 @@
     "shop": "optician",
     "latitude": 47.3447971,
     "longitude": 11.7079581,
-    "brand": "United Optics"
+    "brand": "United Optics",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mode von Feucht",
     "retailer": "mode_von_feucht",
     "shop": "clothes",
     "latitude": 47.3474923,
-    "longitude": 11.7074967
+    "longitude": 11.7074967,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Moreboards",
@@ -427,7 +599,11 @@
     "shop": "clothes",
     "latitude": 47.347433,
     "longitude": 11.7069504,
-    "brand": "Moreboards"
+    "brand": "Moreboards",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -435,21 +611,29 @@
     "shop": "supermarket",
     "latitude": 47.3477959,
     "longitude": 11.7068835,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Musik Hackl",
     "retailer": "musik_hackl",
     "shop": "musical_instrument",
     "latitude": 47.3472423,
-    "longitude": 11.7048816
+    "longitude": 11.7048816,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mühlegger",
     "retailer": "muhlegger",
     "shop": "clothes",
     "latitude": 47.3446436,
-    "longitude": 11.7080872
+    "longitude": 11.7080872,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Müller",
@@ -457,14 +641,20 @@
     "shop": "chemist",
     "latitude": 47.3476307,
     "longitude": 11.7069041,
-    "brand": "Müller"
+    "brand": "Müller",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nail Design",
     "retailer": "nail_design",
     "shop": "beauty",
     "latitude": 47.3468873,
-    "longitude": 11.7093875
+    "longitude": 11.7093875,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Neuroth",
@@ -472,7 +662,11 @@
     "shop": "hearing_aids",
     "latitude": 47.3446226,
     "longitude": 11.7078817,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "New Yorker",
@@ -480,21 +674,31 @@
     "shop": "clothes",
     "latitude": 47.3464199,
     "longitude": 11.7072596,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NT7 Barberstudio",
     "retailer": "nt7_barberstudio",
     "shop": "hairdresser",
     "latitude": 47.3451876,
-    "longitude": 11.705273
+    "longitude": 11.705273,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Orgler Tischkultur",
     "retailer": "orgler_tischkultur",
     "shop": "houseware",
     "latitude": 47.3448884,
-    "longitude": 11.7082911
+    "longitude": 11.7082911,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Palmers",
@@ -502,42 +706,60 @@
     "shop": "clothes",
     "latitude": 47.3469606,
     "longitude": 11.7071931,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Petra König",
     "retailer": "petra_konig",
     "shop": "interior_decoration",
     "latitude": 47.3437114,
-    "longitude": 11.707676
+    "longitude": 11.707676,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Phone Blitz",
     "retailer": "phone_blitz",
     "shop": "mobile_phone",
     "latitude": 47.34595,
-    "longitude": 11.7089814
+    "longitude": 11.7089814,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "PhänoMen",
     "retailer": "phanomen",
     "shop": "hairdresser",
     "latitude": 47.3436113,
-    "longitude": 11.7075625
+    "longitude": 11.7075625,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Probike Schwaz",
     "retailer": "probike_schwaz",
     "shop": "bicycle",
     "latitude": 47.3473829,
-    "longitude": 11.7095048
+    "longitude": 11.7095048,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pupille Optik",
     "retailer": "pupille_optik",
     "shop": "optician",
     "latitude": 47.3426781,
-    "longitude": 11.7076578
+    "longitude": 11.7076578,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "reformstark Martin",
@@ -545,7 +767,11 @@
     "shop": "health_food",
     "latitude": 47.3478377,
     "longitude": 11.7072959,
-    "brand": "reformstark Martin"
+    "brand": "reformstark Martin",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "ROMA",
@@ -553,7 +779,11 @@
     "shop": "hairdresser_supply",
     "latitude": 47.3474308,
     "longitude": 11.7072025,
-    "brand": "ROMA"
+    "brand": "ROMA",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "s.Oliver",
@@ -561,28 +791,40 @@
     "shop": "clothes",
     "latitude": 47.3471743,
     "longitude": 11.7074244,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sanitätshaus Kostner GmbH",
     "retailer": "sanitatshaus_kostner_gmbh",
     "shop": "medical_supply",
     "latitude": 47.3455129,
-    "longitude": 11.7034504
+    "longitude": 11.7034504,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuster Grindhammer",
     "retailer": "schuster_grindhammer",
     "shop": "shoe_repair",
     "latitude": 47.3444896,
-    "longitude": 11.7093186
+    "longitude": 11.7093186,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schwazer Silber & Bronze Kunst",
     "retailer": "schwazer_silber_und_bronze_kunst",
     "shop": "art",
     "latitude": 47.3453587,
-    "longitude": 11.7087476
+    "longitude": 11.7087476,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "sehen!wutscher",
@@ -590,14 +832,20 @@
     "shop": "optician",
     "latitude": 47.3477481,
     "longitude": 11.7073655,
-    "brand": "sehen!wutscher"
+    "brand": "sehen!wutscher",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sennerei Zillertal",
     "retailer": "sennerei_zillertal",
     "shop": "dairy",
     "latitude": 47.3460795,
-    "longitude": 11.7090442
+    "longitude": 11.7090442,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "shoe4you",
@@ -605,7 +853,11 @@
     "shop": "shoes",
     "latitude": 47.3472054,
     "longitude": 11.7075707,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -613,7 +865,11 @@
     "shop": "supermarket",
     "latitude": 47.3451327,
     "longitude": 11.7056001,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport 2000 Engelbert",
@@ -621,42 +877,62 @@
     "shop": "sports",
     "latitude": 47.3473713,
     "longitude": 11.7075855,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Stadtgalerie",
     "retailer": "stadtgalerie",
     "shop": "art",
     "latitude": 47.3465194,
-    "longitude": 11.7093149
+    "longitude": 11.7093149,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "StadtGalerien",
     "retailer": "stadtgalerien",
     "shop": "mall",
     "latitude": 47.347407,
-    "longitude": 11.7071989
+    "longitude": 11.7071989,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T&G",
     "retailer": "mpreis",
     "shop": "supermarket",
     "latitude": 47.3492197,
-    "longitude": 11.7058438
+    "longitude": 11.7058438,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabakfachgeschäft M. Mühlegger",
     "retailer": "tabakfachgeschaft_m_muhlegger",
     "shop": "tobacco",
     "latitude": 47.3460874,
-    "longitude": 11.7073709
+    "longitude": 11.7073709,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tandem",
     "retailer": "tandem",
     "shop": "clothes",
     "latitude": 47.346116,
-    "longitude": 11.7090708
+    "longitude": 11.7090708,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tchibo",
@@ -664,28 +940,40 @@
     "shop": "coffee",
     "latitude": 47.3472944,
     "longitude": 11.7074254,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Team Grudl",
     "retailer": "team_grudl",
     "shop": "hairdresser",
     "latitude": 47.3448735,
-    "longitude": 11.707702
+    "longitude": 11.707702,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "teein",
     "retailer": "teein",
     "shop": "tea",
     "latitude": 47.3450147,
-    "longitude": 11.7082241
+    "longitude": 11.7082241,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Teleplanet",
     "retailer": "teleplanet",
     "shop": "mobile_phone",
     "latitude": 47.3451855,
-    "longitude": 11.7073969
+    "longitude": 11.7073969,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tom Tailor",
@@ -693,14 +981,22 @@
     "shop": "clothes",
     "latitude": 47.3468486,
     "longitude": 11.7074793,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Springer",
     "retailer": "trafik_springer",
     "shop": "tobacco",
     "latitude": 47.3445816,
-    "longitude": 11.7080654
+    "longitude": 11.7080654,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TUI",
@@ -708,34 +1004,52 @@
     "shop": "travel_agency",
     "latitude": 47.3478133,
     "longitude": 11.7067566,
-    "brand": "TUI"
+    "brand": "TUI",
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Uhren-Schmuck Katrin",
     "retailer": "uhren_schmuck_katrin",
     "shop": "fashion_accessories",
     "latitude": 47.3470569,
-    "longitude": 11.7071942
+    "longitude": 11.7071942,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wams",
     "retailer": "wams",
     "shop": "charity",
     "latitude": 47.3447409,
-    "longitude": 11.7079185
+    "longitude": 11.7079185,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Weltladen",
     "retailer": "weltladen",
     "shop": "convenience",
     "latitude": 47.3449829,
-    "longitude": 11.7083707
+    "longitude": 11.7083707,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zins",
     "retailer": "zins",
     "shop": "clothes",
     "latitude": 47.3443959,
-    "longitude": 11.7075981
+    "longitude": 11.7075981,
+    "postcode": "6130",
+    "city": "Schwaz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

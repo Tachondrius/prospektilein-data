@@ -5,21 +5,31 @@
     "shop": "supermarket",
     "latitude": 47.1304188,
     "longitude": 10.2696428,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6580",
+    "city": "St. Anton am Arlberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Jehle",
     "retailer": "blumen_jehle",
     "shop": "florist",
     "latitude": 47.131323,
-    "longitude": 10.2683491
+    "longitude": 10.2683491,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Endlich",
     "retailer": "endlich",
     "shop": "wine",
     "latitude": 47.1315145,
-    "longitude": 10.268537
+    "longitude": 10.268537,
+    "postcode": "6580",
+    "city": "St. Anton am Arlberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -27,6 +37,10 @@
     "shop": "supermarket",
     "latitude": 47.1304473,
     "longitude": 10.2674553,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6580",
+    "city": "St. Anton am Arlberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1405102,
     "longitude": 16.9197054,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2410",
+    "city": "Hainburg an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,14 +17,20 @@
     "shop": "chemist",
     "latitude": 48.1403516,
     "longitude": 16.9193231,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2410",
+    "city": "Hainburg an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.1403868,
-    "longitude": 16.9191808
+    "longitude": 16.9191808,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -28,6 +38,10 @@
     "shop": "supermarket",
     "latitude": 48.1402115,
     "longitude": 16.9183217,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2410",
+    "city": "Hainburg an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

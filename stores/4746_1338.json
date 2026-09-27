@@ -4,20 +4,28 @@
     "retailer": "grubls_naturgartl",
     "shop": "beauty",
     "latitude": 47.4614721,
-    "longitude": 13.380641
+    "longitude": 13.380641,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hauser",
     "retailer": "hauser",
     "shop": "bakery",
     "latitude": 47.4636245,
-    "longitude": 13.3805224
+    "longitude": 13.3805224,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Salzburger Federkielstickerei",
     "retailer": "salzburger_federkielstickerei",
     "shop": "clothes",
     "latitude": 47.4645213,
-    "longitude": 13.3815781
+    "longitude": 13.3815781,
+    "postcode": "5522",
+    "city": "Sankt Martin am Tennengebirge",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -4,14 +4,20 @@
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 47.4937392,
-    "longitude": 14.4828772
+    "longitude": 14.4828772,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ Felber",
     "retailer": "kfz_felber",
     "shop": "car",
     "latitude": 47.4935075,
-    "longitude": 14.4841317
+    "longitude": 14.4841317,
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 47.4903855,
     "longitude": 14.4849829,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

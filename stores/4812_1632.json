@@ -4,84 +4,118 @@
     "retailer": "1000_tische_und_stuhle",
     "shop": "furniture",
     "latitude": 48.1280266,
-    "longitude": 16.323569
+    "longitude": 16.323569,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "1st CHOI - Asia Markt",
     "retailer": "1st_choi_asia_markt",
     "shop": "supermarket",
     "latitude": 48.1243002,
-    "longitude": 16.3249585
+    "longitude": 16.3249585,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Astro",
     "retailer": "astro",
     "shop": "clothes",
     "latitude": 48.1274904,
-    "longitude": 16.3237593
+    "longitude": 16.3237593,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Barbecue Point's BBQ Planet",
     "retailer": "barbecue_point_s_bbq_planet",
     "shop": "bbq",
     "latitude": 48.1272628,
-    "longitude": 16.322461
+    "longitude": 16.322461,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Berner Shop Vösendorf",
     "retailer": "berner_shop_vosendorf",
     "shop": "doityourself",
     "latitude": 48.1251279,
-    "longitude": 16.3250127
+    "longitude": 16.3250127,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Best Secret",
     "retailer": "best_secret",
     "shop": "clothes",
     "latitude": 48.1290268,
-    "longitude": 16.3243009
+    "longitude": 16.3243009,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bestattung Stolz",
     "retailer": "bestattung_stolz",
     "shop": "funeral_directors",
     "latitude": 48.1250741,
-    "longitude": 16.3213471
+    "longitude": 16.3213471,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BETA Wellness",
     "retailer": "beta_wellness",
     "shop": "bathroom_furnishing",
     "latitude": 48.1295687,
-    "longitude": 16.323696
+    "longitude": 16.323696,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bimeju",
     "retailer": "bimeju",
     "shop": "hardware",
     "latitude": 48.129085,
-    "longitude": 16.323004
+    "longitude": 16.323004,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DanKüchen Megastore Vösendorf",
     "retailer": "dankuchen_megastore_vosendorf",
     "shop": "kitchen",
     "latitude": 48.1298315,
-    "longitude": 16.3238055
+    "longitude": 16.3238055,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fliesendorf",
     "retailer": "fliesendorf",
     "shop": "bathroom_furnishing",
     "latitude": 48.1264548,
-    "longitude": 16.3220253
+    "longitude": 16.3220253,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Go In",
     "retailer": "go_in",
     "shop": "furniture",
     "latitude": 48.1284643,
-    "longitude": 16.3231868
+    "longitude": 16.3231868,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -89,7 +123,11 @@
     "shop": "supermarket",
     "latitude": 48.1280812,
     "longitude": 16.3268999,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lucky Car 2331 Vösendorf",
@@ -97,7 +135,11 @@
     "shop": "car_repair",
     "latitude": 48.1295813,
     "longitude": 16.325887,
-    "brand": "Lucky Car"
+    "brand": "Lucky Car",
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "METRO",
@@ -105,62 +147,90 @@
     "shop": "wholesale",
     "latitude": 48.1262366,
     "longitude": 16.3240905,
-    "brand": "METRO"
+    "brand": "METRO",
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nemetz-Markt",
     "retailer": "nemetz_markt",
     "shop": "butcher",
     "latitude": 48.1294197,
-    "longitude": 16.3236049
+    "longitude": 16.3236049,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Personalshop",
     "retailer": "personalshop",
     "shop": "clothes",
     "latitude": 48.1274767,
-    "longitude": 16.3238189
+    "longitude": 16.3238189,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SC-Automobil KG",
     "retailer": "sc_automobil_kg",
     "shop": "car_repair",
     "latitude": 48.1291302,
-    "longitude": 16.3228196
+    "longitude": 16.3228196,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sportwetten",
     "retailer": "sportwetten",
     "shop": "bookmaker",
     "latitude": 48.1285986,
-    "longitude": 16.3232431
+    "longitude": 16.3232431,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Starkl",
     "retailer": "starkl",
     "shop": "garden_centre",
     "latitude": 48.1287683,
-    "longitude": 16.3253747
+    "longitude": 16.3253747,
+    "postcode": "2331",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Teak It",
     "retailer": "teak_it",
     "shop": "furniture",
     "latitude": 48.1270058,
-    "longitude": 16.3223418
+    "longitude": 16.3223418,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tenne Bad",
     "retailer": "tenne_bad",
     "shop": "bathroom_furnishing",
     "latitude": 48.127649,
-    "longitude": 16.3264972
+    "longitude": 16.3264972,
+    "postcode": "2331",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Vital Cars",
     "retailer": "vital_cars",
     "shop": "car_repair",
     "latitude": 48.1297082,
-    "longitude": 16.3263022
+    "longitude": 16.3263022,
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

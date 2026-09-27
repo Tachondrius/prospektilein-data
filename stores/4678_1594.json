@@ -4,21 +4,27 @@
     "retailer": "backerei_prahsl",
     "shop": "bakery",
     "latitude": 46.7863938,
-    "longitude": 15.9455856
+    "longitude": 15.9455856,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischerei Tschiggerl",
     "retailer": "fleischerei_tschiggerl",
     "shop": "butcher",
     "latitude": 46.7850691,
-    "longitude": 15.9434345
+    "longitude": 15.9434345,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Glauninger",
     "retailer": "glauninger",
     "shop": "bicycle",
     "latitude": 46.7844184,
-    "longitude": 15.9435326
+    "longitude": 15.9435326,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah&Frisch Puntigam Angelika",
@@ -26,6 +32,10 @@
     "shop": "supermarket",
     "latitude": 46.7857973,
     "longitude": 15.9443133,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "8355",
+    "city": "Tieschen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

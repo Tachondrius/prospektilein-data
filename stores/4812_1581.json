@@ -4,7 +4,11 @@
     "retailer": "fischer_landtechnik_und_kfz_e_u",
     "shop": "car_repair",
     "latitude": 48.1257383,
-    "longitude": 15.8118248
+    "longitude": 15.8118248,
+    "postcode": "3073",
+    "city": "Stössing",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah&Frisch Eibenberger Sonja \"die Greißlerin\"",
@@ -12,13 +16,20 @@
     "shop": "supermarket",
     "latitude": 48.1227716,
     "longitude": 15.8136303,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3073",
+    "city": "Stössing",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stefan Girsch",
     "retailer": "stefan_girsch",
     "shop": "butcher",
     "latitude": 48.1224007,
-    "longitude": 15.8144687
+    "longitude": 15.8144687,
+    "postcode": "3073",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,20 +4,30 @@
     "retailer": "friseur_marko",
     "shop": "hairdresser",
     "latitude": 47.1139319,
-    "longitude": 15.4132816
+    "longitude": 15.4132816,
+    "postcode": "8046",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 47.1162151,
-    "longitude": 15.4114679
+    "longitude": 15.4114679,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tropper",
     "retailer": "tropper",
     "shop": "interior_decoration",
     "latitude": 47.1137469,
-    "longitude": 15.4183549
+    "longitude": 15.4183549,
+    "postcode": "8046",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

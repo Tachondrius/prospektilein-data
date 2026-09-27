@@ -4,13 +4,19 @@
     "retailer": "lagerhaus",
     "shop": "supermarket",
     "latitude": 47.4888354,
-    "longitude": 12.5280427
+    "longitude": 12.5280427,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuh-Tip",
     "retailer": "schuh_tip",
     "shop": "shoes",
     "latitude": 47.4885675,
-    "longitude": 12.528438
+    "longitude": 12.528438,
+    "postcode": "6391",
+    "city": "Fieberbrunn",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

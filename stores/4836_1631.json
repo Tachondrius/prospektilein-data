@@ -5,7 +5,11 @@
     "shop": "variety_store",
     "latitude": 48.3607493,
     "longitude": 16.3103844,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "2100",
+    "city": "Leobendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichmann",
@@ -13,20 +17,32 @@
     "shop": "shoes",
     "latitude": 48.3606059,
     "longitude": 16.3101578,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "2100",
+    "city": "Leobendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Druckerei Fuchs",
     "retailer": "druckerei_fuchs",
     "shop": "copyshop",
     "latitude": 48.3613368,
-    "longitude": 16.3199066
+    "longitude": 16.3199066,
+    "postcode": "2100",
+    "city": "Korneuburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Phantom Arms",
     "retailer": "phantom_arms",
     "shop": "weapons",
     "latitude": 48.3606601,
-    "longitude": 16.3199517
+    "longitude": 16.3199517,
+    "postcode": "2100",
+    "city": "Korneuburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

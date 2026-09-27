@@ -4,7 +4,10 @@
     "retailer": "arja",
     "shop": "deli",
     "latitude": 46.6169509,
-    "longitude": 14.2681062
+    "longitude": 14.2681062,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -12,28 +15,40 @@
     "shop": "chemist",
     "latitude": 46.617605,
     "longitude": 14.2683479,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hair Studio Anita",
     "retailer": "hair_studio_anita",
     "shop": "hairdresser",
     "latitude": 46.6179804,
-    "longitude": 14.2678765
+    "longitude": 14.2678765,
+    "postcode": "9020",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lakeside Laden",
     "retailer": "lakeside_laden",
     "shop": "grocery",
     "latitude": 46.6141856,
-    "longitude": 14.2632179
+    "longitude": 14.2632179,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Valentin Heintel",
     "retailer": "valentin_heintel",
     "shop": "massage",
     "latitude": 46.6141488,
-    "longitude": 14.2635094
+    "longitude": 14.2635094,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wienerroither",
@@ -41,6 +56,10 @@
     "shop": "bakery",
     "latitude": 46.6179813,
     "longitude": 14.2676715,
-    "brand": "Wienerroither"
+    "brand": "Wienerroither",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

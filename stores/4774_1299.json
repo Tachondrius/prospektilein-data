@@ -4,20 +4,28 @@
     "retailer": "backerei_klappacher",
     "shop": "bakery",
     "latitude": 47.7476308,
-    "longitude": 12.9939132
+    "longitude": 12.9939132,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Dorfladen",
     "retailer": "dorfladen",
     "shop": "convenience",
     "latitude": 47.7484427,
-    "longitude": 12.9940266
+    "longitude": 12.9940266,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Varga Hair International GmbH",
     "retailer": "varga_hair_international_gmbh",
     "shop": "beauty",
     "latitude": 47.7457074,
-    "longitude": 12.9956885
+    "longitude": 12.9956885,
+    "postcode": "5082",
+    "city": "Fürstenbrunn/Grödig",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

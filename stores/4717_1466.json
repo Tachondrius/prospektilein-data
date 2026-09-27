@@ -4,21 +4,32 @@
     "retailer": "allrad_horn_gmbh",
     "shop": "car",
     "latitude": 47.1776566,
-    "longitude": 14.6674732
+    "longitude": 14.6674732,
+    "postcode": "8750",
+    "city": "Judenburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hair Colors",
     "retailer": "hair_colors",
     "shop": "hairdresser",
     "latitude": 47.1749743,
-    "longitude": 14.6658213
+    "longitude": 14.6658213,
+    "postcode": "8750",
+    "city": "Judenburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kastner",
     "retailer": "kastner",
     "shop": "car_parts",
     "latitude": 47.1771573,
-    "longitude": 14.6669756
+    "longitude": 14.6669756,
+    "city": "Judenburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Penny",
@@ -26,20 +37,30 @@
     "shop": "supermarket",
     "latitude": 47.1768912,
     "longitude": 14.6659048,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8750",
+    "city": "Judenburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "newsagent",
     "latitude": 47.1746462,
-    "longitude": 14.6658293
+    "longitude": 14.6658293,
+    "postcode": "8750",
+    "city": "Judenburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ÖBB",
     "retailer": "obb",
     "shop": "ticket",
     "latitude": 47.1748133,
-    "longitude": 14.6629429
+    "longitude": 14.6629429,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

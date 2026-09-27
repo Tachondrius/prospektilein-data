@@ -4,20 +4,28 @@
     "retailer": "autohaus_rudolf_neurauter",
     "shop": "car",
     "latitude": 47.2726978,
-    "longitude": 10.9563544
+    "longitude": 10.9563544,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Spindler",
     "retailer": "backerei_spindler",
     "shop": "bakery",
     "latitude": 47.2770969,
-    "longitude": 10.9563535
+    "longitude": 10.9563535,
+    "postcode": "6423",
+    "city": "Mötz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Geflügelhof Hörmann",
     "retailer": "geflugelhof_hormann",
     "shop": "farm",
     "latitude": 47.2702572,
-    "longitude": 10.9588757
+    "longitude": 10.9588757,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

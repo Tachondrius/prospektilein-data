@@ -4,20 +4,30 @@
     "retailer": "fleischerei_froch",
     "shop": "butcher",
     "latitude": 47.7619584,
-    "longitude": 16.4524392
+    "longitude": 16.4524392,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Nah & Frisch Groiss",
     "retailer": "nah_und_frisch",
     "shop": "convenience",
     "latitude": 47.7612321,
-    "longitude": 16.4532048
+    "longitude": 16.4532048,
+    "postcode": "7023",
+    "city": "Zemendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Nah und Frisch Groiss",
     "retailer": "nah_und_frisch",
     "shop": "convenience",
     "latitude": 47.7613237,
-    "longitude": 16.4532627
+    "longitude": 16.4532627,
+    "postcode": "7023",
+    "city": "Zemendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

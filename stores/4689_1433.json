@@ -4,20 +4,29 @@
     "retailer": "adeg",
     "shop": "supermarket",
     "latitude": 46.895824,
-    "longitude": 14.3355489
+    "longitude": 14.3355489,
+    "postcode": "9341",
+    "city": "Straßburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei",
     "retailer": "backerei",
     "shop": "bakery",
     "latitude": 46.8949177,
-    "longitude": 14.3309549
+    "longitude": 14.3309549,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Seiser",
     "retailer": "seiser",
     "shop": "butcher",
     "latitude": 46.8949809,
-    "longitude": 14.3315118
+    "longitude": 14.3315118,
+    "postcode": "9341",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

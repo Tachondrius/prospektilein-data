@@ -4,7 +4,9 @@
     "retailer": "backerei_romedis",
     "shop": "bakery",
     "latitude": 47.2488803,
-    "longitude": 11.4999853
+    "longitude": 11.4999853,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.2479893,
     "longitude": 11.4971278,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6074",
+    "city": "Rinn",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

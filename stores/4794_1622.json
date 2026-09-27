@@ -4,7 +4,11 @@
     "retailer": "autohandel_nedeljkov_kottingbrunn",
     "shop": "car",
     "latitude": 47.94927,
-    "longitude": 16.2216023
+    "longitude": 16.2216023,
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -12,28 +16,42 @@
     "shop": "chemist",
     "latitude": 47.9478607,
     "longitude": 16.2215652,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bruckner",
     "retailer": "bruckner",
     "shop": "bakery",
     "latitude": 47.9497443,
-    "longitude": 16.2251101
+    "longitude": 16.2251101,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei Saliwar",
     "retailer": "fleischerei_saliwar",
     "shop": "butcher",
     "latitude": 47.949956,
-    "longitude": 16.2256921
+    "longitude": 16.2256921,
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gabi's Naturkostladen e.U.",
     "retailer": "gabi_s_naturkostladen_e_u",
     "shop": "supermarket",
     "latitude": 47.9491787,
-    "longitude": 16.2246916
+    "longitude": 16.2246916,
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "GRUBER Electric GmbH",
@@ -41,14 +59,20 @@
     "shop": "wholesale",
     "latitude": 47.9494335,
     "longitude": 16.220942,
-    "brand": "GRUBER, Mean Well, ABB, Swarco Futurit, Ganz Instruments, Relpol, Finder, Zettler, Schneider, Crouzet, Toshiba, Hakko, Santerno, EMH Energie meters"
+    "brand": "GRUBER, Mean Well, ABB, Swarco Futurit, Ganz Instruments, Relpol, Finder, Zettler, Schneider, Crouzet, Toshiba, Hakko, Santerno, EMH Energie meters",
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairjoy",
     "retailer": "hairjoy",
     "shop": "hairdresser",
     "latitude": 47.9485893,
-    "longitude": 16.2281164
+    "longitude": 16.2281164,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -56,7 +80,11 @@
     "shop": "supermarket",
     "latitude": 47.945971,
     "longitude": 16.2217909,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mazda Maierhofer",
@@ -64,14 +92,22 @@
     "shop": "car",
     "latitude": 47.9417881,
     "longitude": 16.2209095,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Motofixx",
     "retailer": "motofixx",
     "shop": "car_repair",
     "latitude": 47.9499071,
-    "longitude": 16.2206501
+    "longitude": 16.2206501,
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -79,7 +115,11 @@
     "shop": "supermarket",
     "latitude": 47.9477967,
     "longitude": 16.2221638,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Viva",
@@ -87,6 +127,8 @@
     "shop": "convenience",
     "latitude": 47.9492623,
     "longitude": 16.2219317,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

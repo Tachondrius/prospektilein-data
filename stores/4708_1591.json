@@ -4,21 +4,27 @@
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 47.0869569,
-    "longitude": 15.9194752
+    "longitude": 15.9194752,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 47.0899647,
-    "longitude": 15.9104108
+    "longitude": 15.9104108,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.0886126,
-    "longitude": 15.9138423
+    "longitude": 15.9138423,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -26,20 +32,30 @@
     "shop": "supermarket",
     "latitude": 47.0873776,
     "longitude": 15.918996,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8262",
+    "city": "Ilz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Margit Wagner",
     "retailer": "margit_wagner",
     "shop": "tailor",
     "latitude": 47.0869477,
-    "longitude": 15.9193116
+    "longitude": 15.9193116,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "VW Mager",
     "retailer": "vw_mager",
     "shop": "car_repair",
     "latitude": 47.0869252,
-    "longitude": 15.9176325
+    "longitude": 15.9176325,
+    "postcode": "8262",
+    "city": "Ilz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

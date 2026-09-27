@@ -4,27 +4,38 @@
     "retailer": "hofbauer",
     "shop": "butcher",
     "latitude": 48.3613951,
-    "longitude": 16.4254717
+    "longitude": 16.4254717,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah&Frisch",
     "retailer": "nah_und_frisch",
     "shop": "supermarket",
     "latitude": 48.3614181,
-    "longitude": 16.4253666
+    "longitude": 16.4253666,
+    "postcode": "2202",
+    "city": "Enzersfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Scheiterer",
     "retailer": "scheiterer",
     "shop": "butcher",
     "latitude": 48.360775,
-    "longitude": 16.4284085
+    "longitude": 16.4284085,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zwanzingers Werkstatt",
     "retailer": "zwanzingers_werkstatt",
     "shop": "car_repair",
     "latitude": 48.3605434,
-    "longitude": 16.4207636
+    "longitude": 16.4207636,
+    "postcode": "2202",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

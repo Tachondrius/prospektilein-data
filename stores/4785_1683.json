@@ -4,62 +4,86 @@
     "retailer": "blumenboutique_esther",
     "shop": "florist",
     "latitude": 47.8561387,
-    "longitude": 16.8397016
+    "longitude": 16.8397016,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Coiffeur Michael",
     "retailer": "coiffeur_michael",
     "shop": "hairdresser",
     "latitude": 47.8571868,
-    "longitude": 16.8328394
+    "longitude": 16.8328394,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Da Leinerbäck",
     "retailer": "da_leinerback",
     "shop": "bakery",
     "latitude": 47.8531912,
-    "longitude": 16.8382222
+    "longitude": 16.8382222,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Luxe Dealz",
     "retailer": "luxe_dealz",
     "shop": "clothes",
     "latitude": 47.8546744,
-    "longitude": 16.8363204
+    "longitude": 16.8363204,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Move Surfstore Podersdorf",
     "retailer": "move_surfstore_podersdorf",
     "shop": "sports",
     "latitude": 47.8590303,
-    "longitude": 16.8307714
+    "longitude": 16.8307714,
+    "postcode": "7141",
+    "city": "Podersdorf am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Radhaus Erwin",
     "retailer": "radhaus_erwin",
     "shop": "bicycle",
     "latitude": 47.8558405,
-    "longitude": 16.8302
+    "longitude": 16.8302,
+    "postcode": "7141",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Radsport Waldherr",
     "retailer": "radsport_waldherr",
     "shop": "bicycle",
     "latitude": 47.852832,
-    "longitude": 16.8386681
+    "longitude": 16.8386681,
+    "city": "Podersdorf am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Strandshop",
     "retailer": "strandshop",
     "shop": "convenience",
     "latitude": 47.8589654,
-    "longitude": 16.8303648
+    "longitude": 16.8303648,
+    "postcode": "7141",
+    "city": "Podersdorf am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Wine",
     "retailer": "shop_wine",
     "shop": "wine",
     "latitude": 47.8568661,
-    "longitude": 16.8337821
+    "longitude": 16.8337821,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

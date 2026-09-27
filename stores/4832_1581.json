@@ -4,27 +4,37 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.3209772,
-    "longitude": 15.817873
+    "longitude": 15.817873,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Frisörsalon Gabi",
     "retailer": "frisorsalon_gabi",
     "shop": "hairdresser",
     "latitude": 48.3227663,
-    "longitude": 15.8127841
+    "longitude": 15.8127841,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rad & Tat",
     "retailer": "rad_und_tat",
     "shop": "bicycle",
     "latitude": 48.3250263,
-    "longitude": 15.8122527
+    "longitude": 15.8122527,
+    "postcode": "3454",
+    "city": "Sitzenberg-Reidling",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Salon Nagy",
     "retailer": "salon_nagy",
     "shop": "hairdresser",
     "latitude": 48.32016,
-    "longitude": 15.8165936
+    "longitude": 15.8165936,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

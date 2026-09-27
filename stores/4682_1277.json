@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 46.8271957,
     "longitude": 12.7727851,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -13,14 +17,20 @@
     "shop": "bakery",
     "latitude": 46.8286408,
     "longitude": 12.7715072,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Frisör Manuela",
     "retailer": "frisor_manuela",
     "shop": "hairdresser",
     "latitude": 46.8290825,
-    "longitude": 12.7705076
+    "longitude": 12.7705076,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -28,14 +38,20 @@
     "shop": "sports",
     "latitude": 46.8296471,
     "longitude": 12.7715156,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 46.8285607,
-    "longitude": 12.7709556
+    "longitude": 12.7709556,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -43,7 +59,11 @@
     "shop": "supermarket",
     "latitude": 46.8287672,
     "longitude": 12.7715581,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Müller",
@@ -51,7 +71,9 @@
     "shop": "chemist",
     "latitude": 46.8293115,
     "longitude": 12.7732037,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "New Yorker",
@@ -59,7 +81,11 @@
     "shop": "clothes",
     "latitude": 46.829034,
     "longitude": 12.7723203,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Niedertscheider",
@@ -67,7 +93,11 @@
     "shop": "car",
     "latitude": 46.8296118,
     "longitude": 12.7735609,
-    "brand": "Peugeot;Suzuki;Volvo"
+    "brand": "Peugeot;Suzuki;Volvo",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -75,27 +105,37 @@
     "shop": "clothes",
     "latitude": 46.8290105,
     "longitude": 12.7722126,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Radverleih Papin Sport",
     "retailer": "radverleih_papin_sport",
     "shop": "rental",
     "latitude": 46.8270635,
-    "longitude": 12.7703176
+    "longitude": 12.7703176,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Shoe 4 You",
     "retailer": "shoe_4_you",
     "shop": "shoes",
     "latitude": 46.8291746,
-    "longitude": 12.7727076
+    "longitude": 12.7727076,
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Style",
     "retailer": "style",
     "shop": "hairdresser",
     "latitude": 46.8295762,
-    "longitude": 12.7700153
+    "longitude": 12.7700153,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

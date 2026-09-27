@@ -4,14 +4,22 @@
     "retailer": "auto_reparatur_senger",
     "shop": "car_repair",
     "latitude": 48.0685884,
-    "longitude": 15.2124747
+    "longitude": 15.2124747,
+    "postcode": "3281",
+    "city": "Oberndorf an der Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reifen Weichberger",
     "retailer": "reifen_weichberger",
     "shop": "car_parts",
     "latitude": 48.0657241,
-    "longitude": 15.2162377
+    "longitude": 15.2162377,
+    "postcode": "3281",
+    "city": "Oberndorf an der Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -19,13 +27,21 @@
     "shop": "supermarket",
     "latitude": 48.0620573,
     "longitude": 15.2142326,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "3281",
+    "city": "Oberndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weichberger GmbH Zentrale",
     "retailer": "weichberger_gmbh_zentrale",
     "shop": "tyres",
     "latitude": 48.060085,
-    "longitude": 15.2138902
+    "longitude": 15.2138902,
+    "postcode": "3281",
+    "city": "Oberndorf an der Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

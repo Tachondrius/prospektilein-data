@@ -5,7 +5,9 @@
     "shop": "clothes",
     "latitude": 48.2198189,
     "longitude": 13.4961295,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Deichmann",
@@ -13,7 +15,9 @@
     "shop": "shoes",
     "latitude": 48.2197983,
     "longitude": 13.4965238,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Deschberger",
@@ -21,14 +25,20 @@
     "shop": "car",
     "latitude": 48.2174129,
     "longitude": 13.4973171,
-    "brand": "Fiat;Alpha;Iveco;Lancia;Jeep"
+    "brand": "Fiat;Alpha;Iveco;Lancia;Jeep",
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "EM Baustoffprofi",
     "retailer": "em_baustoffprofi",
     "shop": "doityourself",
     "latitude": 48.2167781,
-    "longitude": 13.4986453
+    "longitude": 13.4986453,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hagebaumarkt",
@@ -36,21 +46,29 @@
     "shop": "doityourself",
     "latitude": 48.2187576,
     "longitude": 13.4965495,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Honda Daxl",
     "retailer": "honda_daxl",
     "shop": "car",
     "latitude": 48.2169327,
-    "longitude": 13.4995735
+    "longitude": 13.4995735,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.2184413,
-    "longitude": 13.4934897
+    "longitude": 13.4934897,
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nissan Katzlberger",
@@ -58,6 +76,10 @@
     "shop": "car",
     "latitude": 48.2192593,
     "longitude": 13.4961355,
-    "brand": "Nissan"
+    "brand": "Nissan",
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,28 +5,38 @@
     "shop": "chemist",
     "latitude": 48.5281607,
     "longitude": 15.9276595,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eva's Fußpflegesalon & Sonnenstudio",
     "retailer": "eva_s_fupflegesalon_und_sonnenstudio",
     "shop": "beauty",
     "latitude": 48.529117,
-    "longitude": 15.9233521
+    "longitude": 15.9233521,
+    "postcode": "3710",
+    "city": "Ziersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.5272788,
-    "longitude": 15.9284906
+    "longitude": 15.9284906,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "hardware",
     "latitude": 48.5292665,
-    "longitude": 15.9239946
+    "longitude": 15.9239946,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -34,13 +44,19 @@
     "shop": "supermarket",
     "latitude": 48.5280886,
     "longitude": 15.9277987,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "3710",
+    "city": "Ziersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schröter",
     "retailer": "schroter",
     "shop": "glaziery",
     "latitude": 48.528581,
-    "longitude": 15.9269464
+    "longitude": 15.9269464,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

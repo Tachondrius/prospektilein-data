@@ -4,14 +4,20 @@
     "retailer": "backerei_cafe_affenzeller",
     "shop": "bakery",
     "latitude": 48.5851306,
-    "longitude": 14.5602928
+    "longitude": 14.5602928,
+    "postcode": "4263",
+    "city": "Windhaag bei Freistadt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.5875048,
-    "longitude": 14.5624373
+    "longitude": 14.5624373,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch Winklehner",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 48.585059,
     "longitude": 14.5600211,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4263",
+    "city": "Windhaag bei Freistadt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

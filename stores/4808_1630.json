@@ -4,21 +4,29 @@
     "retailer": "360rad_zweiradservice",
     "shop": "bicycle",
     "latitude": 48.0820456,
-    "longitude": 16.3025242
+    "longitude": 16.3025242,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Atelier NICe",
     "retailer": "atelier_nice",
     "shop": "clothes",
     "latitude": 48.0869408,
-    "longitude": 16.3007036
+    "longitude": 16.3007036,
+    "postcode": "2340",
+    "city": "Mödling",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bauprofi Quester",
     "retailer": "bauprofi_quester",
     "shop": "doityourself",
     "latitude": 48.0814211,
-    "longitude": 16.3013219
+    "longitude": 16.3013219,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -26,7 +34,9 @@
     "shop": "supermarket",
     "latitude": 48.0835528,
     "longitude": 16.3036932,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -34,35 +44,49 @@
     "shop": "chemist",
     "latitude": 48.0876225,
     "longitude": 16.3097105,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Pichl",
     "retailer": "backerei_pichl",
     "shop": "bakery",
     "latitude": 48.0873014,
-    "longitude": 16.3057305
+    "longitude": 16.3057305,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 48.0879705,
-    "longitude": 16.3032697
+    "longitude": 16.3032697,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Heilmassage Jennifer Prohaska",
     "retailer": "heilmassage_jennifer_prohaska",
     "shop": "massage",
     "latitude": 48.0882701,
-    "longitude": 16.3046675
+    "longitude": 16.3046675,
+    "postcode": "2340",
+    "city": "Mödling",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kunsteiner",
     "retailer": "kunsteiner",
     "shop": "antiques",
     "latitude": 48.086972,
-    "longitude": 16.300908
+    "longitude": 16.300908,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -70,7 +94,9 @@
     "shop": "books",
     "latitude": 48.0873923,
     "longitude": 16.3097145,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -78,21 +104,29 @@
     "shop": "supermarket",
     "latitude": 48.0860856,
     "longitude": 16.3075958,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2340",
+    "city": "Mödling",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 48.0820296,
-    "longitude": 16.3022761
+    "longitude": 16.3022761,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 48.0869529,
-    "longitude": 16.3024946
+    "longitude": 16.3024946,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -100,7 +134,11 @@
     "shop": "stationery",
     "latitude": 48.0861178,
     "longitude": 16.3079147,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "2340",
+    "city": "Mödling",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -108,7 +146,11 @@
     "shop": "supermarket",
     "latitude": 48.0878427,
     "longitude": 16.309739,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -116,20 +158,28 @@
     "shop": "supermarket",
     "latitude": 48.0892063,
     "longitude": 16.3049373,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2340",
+    "city": "Mödling",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "The Hairline",
     "retailer": "the_hairline",
     "shop": "hairdresser",
     "latitude": 48.0870342,
-    "longitude": 16.3083772
+    "longitude": 16.3083772,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Unvergessen",
     "retailer": "unvergessen",
     "shop": "funeral_directors",
     "latitude": 48.0887403,
-    "longitude": 16.3049204
+    "longitude": 16.3049204,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.0751017,
-    "longitude": 16.9522215
+    "longitude": 16.9522215,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -12,6 +14,10 @@
     "shop": "doityourself",
     "latitude": 48.075161,
     "longitude": 16.9541809,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2472",
+    "city": "Prellenkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

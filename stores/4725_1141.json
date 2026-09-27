@@ -5,34 +5,48 @@
     "shop": "supermarket",
     "latitude": 47.258902,
     "longitude": 11.4151597,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "BKD",
     "retailer": "bkd",
     "shop": "car_parts",
     "latitude": 47.2592976,
-    "longitude": 11.4153462
+    "longitude": 11.4153462,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hausberger Elektrotechnik",
     "retailer": "hausberger_elektrotechnik",
     "shop": "electronics",
     "latitude": 47.2596577,
-    "longitude": 11.4107705
+    "longitude": 11.4107705,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Liqui Moly",
     "retailer": "liqui_moly",
     "shop": "car_repair",
     "latitude": 47.2593057,
-    "longitude": 11.413793
+    "longitude": 11.413793,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.2588805,
-    "longitude": 11.4178412
+    "longitude": 11.4178412,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

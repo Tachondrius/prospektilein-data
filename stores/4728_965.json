@@ -4,35 +4,51 @@
     "retailer": "2_rad_malin_sulz",
     "shop": "bicycle",
     "latitude": 47.2897044,
-    "longitude": 9.6546647
+    "longitude": 9.6546647,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Acha",
     "retailer": "acha",
     "shop": "clothes",
     "latitude": 47.2892357,
-    "longitude": 9.6512594
+    "longitude": 9.6512594,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Brockenhaus Vorderland",
     "retailer": "brockenhaus_vorderland",
     "shop": "second_hand",
     "latitude": 47.2833357,
-    "longitude": 9.6512423
+    "longitude": 9.6512423,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bäckerei Mangold",
     "retailer": "backerei_mangold",
     "shop": "bakery",
     "latitude": 47.2845276,
-    "longitude": 9.6510307
+    "longitude": 9.6510307,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bäckerei Steurer",
     "retailer": "backerei_steurer",
     "shop": "bakery",
     "latitude": 47.2805435,
-    "longitude": 9.6502762
+    "longitude": 9.6502762,
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Dacia Malin",
@@ -40,63 +56,97 @@
     "shop": "car",
     "latitude": 47.2885512,
     "longitude": 9.6550406,
-    "brand": "Dacia"
+    "brand": "Dacia",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Facettenreich",
     "retailer": "facettenreich",
     "shop": "hairdresser",
     "latitude": 47.287748,
-    "longitude": 9.6559795
+    "longitude": 9.6559795,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 47.2857243,
-    "longitude": 9.6570486
+    "longitude": 9.6570486,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "GÜL Süpermarket",
     "retailer": "gul_supermarket",
     "shop": "supermarket",
     "latitude": 47.2802566,
-    "longitude": 9.6500168
+    "longitude": 9.6500168,
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "House of Hair",
     "retailer": "house_of_hair",
     "shop": "hairdresser_supply",
     "latitude": 47.2879522,
-    "longitude": 9.6528919
+    "longitude": 9.6528919,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "KFZ Alex",
     "retailer": "kfz_alex",
     "shop": "car_repair",
     "latitude": 47.2828029,
-    "longitude": 9.6541694
+    "longitude": 9.6541694,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Naturfriseur Maria Vogt",
     "retailer": "naturfriseur_maria_vogt",
     "shop": "hairdresser",
     "latitude": 47.2837688,
-    "longitude": 9.6507776
+    "longitude": 9.6507776,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "NESS LändleKauf",
     "retailer": "ness_landlekauf",
     "shop": "supermarket",
     "latitude": 47.285945,
-    "longitude": 9.6517326
+    "longitude": 9.6517326,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Regional Lada",
     "retailer": "regional_lada",
     "shop": "farm",
     "latitude": 47.2879626,
-    "longitude": 9.6516064
+    "longitude": 9.6516064,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Renault",
@@ -104,7 +154,9 @@
     "shop": "car",
     "latitude": 47.2884395,
     "longitude": 9.6519237,
-    "brand": "Renault"
+    "brand": "Renault",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Renault",
@@ -112,7 +164,11 @@
     "shop": "car",
     "latitude": 47.2895814,
     "longitude": 9.6547262,
-    "brand": "Renault"
+    "brand": "Renault",
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -120,7 +176,11 @@
     "shop": "supermarket",
     "latitude": 47.2851886,
     "longitude": 9.6512433,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -128,20 +188,32 @@
     "shop": "supermarket",
     "latitude": 47.2894809,
     "longitude": 9.6564777,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6832",
+    "city": "Röthis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Walser Genussmarkt Sulz",
     "retailer": "walser_genussmarkt_sulz",
     "shop": "butcher",
     "latitude": 47.285632,
-    "longitude": 9.6517877
+    "longitude": 9.6517877,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Waltner's Brotlädile",
     "retailer": "waltner_s_brotladile",
     "shop": "bakery",
     "latitude": 47.2869058,
-    "longitude": 9.652263
+    "longitude": 9.652263,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

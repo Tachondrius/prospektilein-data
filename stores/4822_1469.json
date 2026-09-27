@@ -5,27 +5,39 @@
     "shop": "car",
     "latitude": 48.2292977,
     "longitude": 14.6991103,
-    "brand": "Citroën;Seat"
+    "brand": "Citroën;Seat",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "e4mobility Shop",
     "retailer": "e4mobility_shop",
     "shop": "electrical",
     "latitude": 48.2294501,
-    "longitude": 14.6986599
+    "longitude": 14.6986599,
+    "postcode": "4341",
+    "city": "Arbing",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hasenöhrl Ökobeton",
     "retailer": "hasenohrl_okobeton",
     "shop": "trade",
     "latitude": 48.2235365,
-    "longitude": 14.6973433
+    "longitude": 14.6973433,
+    "postcode": "4341",
+    "city": "Arbing",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pöschl Wohnstudio",
     "retailer": "poschl_wohnstudio",
     "shop": "furniture",
     "latitude": 48.2279464,
-    "longitude": 14.6986913
+    "longitude": 14.6986913,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

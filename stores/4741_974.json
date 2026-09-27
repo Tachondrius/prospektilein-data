@@ -4,21 +4,31 @@
     "retailer": "2rad_schertler",
     "shop": "bicycle",
     "latitude": 47.4174342,
-    "longitude": 9.7445071
+    "longitude": 9.7445071,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "ambros",
     "retailer": "ambros",
     "shop": "clothes",
     "latitude": 47.413014,
-    "longitude": 9.742635
+    "longitude": 9.742635,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Binder",
     "retailer": "binder",
     "shop": "stationery",
     "latitude": 47.4124895,
-    "longitude": 9.7425324
+    "longitude": 9.7425324,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bipa",
@@ -26,14 +36,20 @@
     "shop": "chemist",
     "latitude": 47.4124805,
     "longitude": 9.7415453,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Blacky Dress",
     "retailer": "blacky_dress",
     "shop": "clothes",
     "latitude": 47.4129232,
-    "longitude": 9.7413175
+    "longitude": 9.7413175,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "BoConcept",
@@ -41,14 +57,20 @@
     "shop": "furniture",
     "latitude": 47.415553,
     "longitude": 9.7407242,
-    "brand": "BoConcept"
+    "brand": "BoConcept",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bogi Artist",
     "retailer": "bogi_artist",
     "shop": "hairdresser",
     "latitude": 47.412047,
-    "longitude": 9.742656
+    "longitude": 9.742656,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Brugger",
@@ -56,28 +78,43 @@
     "shop": "clothes",
     "latitude": 47.4140013,
     "longitude": 9.7425305,
-    "brand": "Esprit"
+    "brand": "Esprit",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Brunner",
     "retailer": "brunner",
     "shop": "books",
     "latitude": 47.411604,
-    "longitude": 9.7425303
+    "longitude": 9.7425303,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bruvino",
     "retailer": "bruvino",
     "shop": "alcohol",
     "latitude": 47.4146778,
-    "longitude": 9.7404608
+    "longitude": 9.7404608,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Buongustaio",
     "retailer": "buongustaio",
     "shop": "deli",
     "latitude": 47.4134331,
-    "longitude": 9.742016
+    "longitude": 9.742016,
+    "postcode": "6850",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "C&A",
@@ -85,21 +122,29 @@
     "shop": "clothes",
     "latitude": 47.4132541,
     "longitude": 9.7408157,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Carla",
     "retailer": "carla",
     "shop": "second_hand",
     "latitude": 47.410917,
-    "longitude": 9.7423783
+    "longitude": 9.7423783,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Das Schnibblstudio",
     "retailer": "das_schnibblstudio",
     "shop": "hairdresser",
     "latitude": 47.4184315,
-    "longitude": 9.7428007
+    "longitude": 9.7428007,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Deichmann",
@@ -107,7 +152,11 @@
     "shop": "shoes",
     "latitude": 47.4126901,
     "longitude": 9.7410232,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "dm",
@@ -115,49 +164,67 @@
     "shop": "chemist",
     "latitude": 47.411236,
     "longitude": 9.742139,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Extra D",
     "retailer": "extra_d",
     "shop": "clothes",
     "latitude": 47.4129219,
-    "longitude": 9.7414792
+    "longitude": 9.7414792,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Facona",
     "retailer": "facona",
     "shop": "clothes",
     "latitude": 47.4129381,
-    "longitude": 9.7422275
+    "longitude": 9.7422275,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Feinkostina",
     "retailer": "feinkostina",
     "shop": "deli",
     "latitude": 47.412643,
-    "longitude": 9.742464
+    "longitude": 9.742464,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Garzon",
     "retailer": "garzon",
     "shop": "clothes",
     "latitude": 47.4156378,
-    "longitude": 9.7411203
+    "longitude": 9.7411203,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "GEA",
     "retailer": "gea",
     "shop": "shoes",
     "latitude": 47.4150886,
-    "longitude": 9.7413945
+    "longitude": 9.7413945,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Gössl",
     "retailer": "gossl",
     "shop": "clothes",
     "latitude": 47.413796,
-    "longitude": 9.742531
+    "longitude": 9.742531,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hartlauer",
@@ -165,42 +232,61 @@
     "shop": "electronics",
     "latitude": 47.411619,
     "longitude": 9.7422399,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Heinz Jeans",
     "retailer": "heinz_jeans",
     "shop": "clothes",
     "latitude": 47.4123461,
-    "longitude": 9.7422964
+    "longitude": 9.7422964,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hesham Herrenfriseur",
     "retailer": "hesham_herrenfriseur",
     "shop": "hairdresser",
     "latitude": 47.411395,
-    "longitude": 9.74275
+    "longitude": 9.74275,
+    "postcode": "6850",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hollfelder concept store",
     "retailer": "hollfelder_concept_store",
     "shop": "jewelry",
     "latitude": 47.4140303,
-    "longitude": 9.7423481
+    "longitude": 9.7423481,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hollfelder Juwelier",
     "retailer": "hollfelder_juwelier",
     "shop": "jewelry",
     "latitude": 47.4118906,
-    "longitude": 9.7423661
+    "longitude": 9.7423661,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hollfelder Optik",
     "retailer": "hollfelder_optik",
     "shop": "optician",
     "latitude": 47.411745,
-    "longitude": 9.74228
+    "longitude": 9.74228,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Humanic",
@@ -208,14 +294,20 @@
     "shop": "shoes",
     "latitude": 47.4130843,
     "longitude": 9.740762,
-    "brand": "Humanic"
+    "brand": "Humanic",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hundesalon und Spa Capo",
     "retailer": "hundesalon_und_spa_capo",
     "shop": "pet_grooming",
     "latitude": 47.4120887,
-    "longitude": 9.7454809
+    "longitude": 9.7454809,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hunkemöller",
@@ -223,21 +315,29 @@
     "shop": "clothes",
     "latitude": 47.4129366,
     "longitude": 9.7419507,
-    "brand": "Hunkemöller"
+    "brand": "Hunkemöller",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Höratelier",
     "retailer": "horatelier",
     "shop": "hearing_aids",
     "latitude": 47.4129368,
-    "longitude": 9.741223
+    "longitude": 9.741223,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hörwerk",
     "retailer": "horwerk",
     "shop": "hearing_aids",
     "latitude": 47.4165815,
-    "longitude": 9.7423558
+    "longitude": 9.7423558,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Intersport",
@@ -245,7 +345,11 @@
     "shop": "sports",
     "latitude": 47.4144656,
     "longitude": 9.7434697,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Jack & Jones",
@@ -253,42 +357,60 @@
     "shop": "clothes",
     "latitude": 47.4129354,
     "longitude": 9.7416857,
-    "brand": "Jack & Jones"
+    "brand": "Jack & Jones",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Jochum Uhren Schmuck",
     "retailer": "jochum_uhren_schmuck",
     "shop": "jewelry",
     "latitude": 47.4141062,
-    "longitude": 9.7433289
+    "longitude": 9.7433289,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Jolie",
     "retailer": "jolie",
     "shop": "hairdresser",
     "latitude": 47.412736,
-    "longitude": 9.742371
+    "longitude": 9.742371,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Julia Aicher Friseure",
     "retailer": "julia_aicher_friseure",
     "shop": "hairdresser",
     "latitude": 47.4162054,
-    "longitude": 9.7445332
+    "longitude": 9.7445332,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "k.you – Mode & Dinge fürs Leben",
     "retailer": "k_you_mode_und_dinge_furs_leben",
     "shop": "clothes",
     "latitude": 47.4153376,
-    "longitude": 9.7410764
+    "longitude": 9.7410764,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kaffeebohne",
     "retailer": "kaffeebohne",
     "shop": "coffee",
     "latitude": 47.411045,
-    "longitude": 9.742644
+    "longitude": 9.742644,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kaffeewerk Handle",
@@ -296,70 +418,92 @@
     "shop": "coffee",
     "latitude": 47.4126528,
     "longitude": 9.7431653,
-    "brand": "21 Zeitgenuss"
+    "brand": "21 Zeitgenuss",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Karlinger Racingbikes",
     "retailer": "karlinger_racingbikes",
     "shop": "bicycle",
     "latitude": 47.412381,
-    "longitude": 9.742809
+    "longitude": 9.742809,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kiosk Corona",
     "retailer": "kiosk_corona",
     "shop": "tobacco",
     "latitude": 47.4147862,
-    "longitude": 9.74468
+    "longitude": 9.74468,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kleider Bauer",
     "retailer": "kleider_bauer",
     "shop": "clothes",
     "latitude": 47.412628,
-    "longitude": 9.742789
+    "longitude": 9.742789,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kopflast?",
     "retailer": "kopflast",
     "shop": "hairdresser",
     "latitude": 47.4150954,
-    "longitude": 9.7436454
+    "longitude": 9.7436454,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kosmetik Karlinger",
     "retailer": "kosmetik_karlinger",
     "shop": "beauty",
     "latitude": 47.4149865,
-    "longitude": 9.743467
+    "longitude": 9.743467,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kreil - visions for you",
     "retailer": "kreil_visions_for_you",
     "shop": "hifi",
     "latitude": 47.4128061,
-    "longitude": 9.7447365
+    "longitude": 9.7447365,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Königstöchter",
     "retailer": "konigstochter",
     "shop": "clothes",
     "latitude": 47.4141198,
-    "longitude": 9.7430419
+    "longitude": 9.7430419,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "L'TUR",
     "retailer": "l_tur",
     "shop": "travel_agency",
     "latitude": 47.4129363,
-    "longitude": 9.7416347
+    "longitude": 9.7416347,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lenz",
     "retailer": "lenz",
     "shop": "florist",
     "latitude": 47.411267,
-    "longitude": 9.742433
+    "longitude": 9.742433,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Libro",
@@ -367,35 +511,47 @@
     "shop": "books",
     "latitude": 47.4126568,
     "longitude": 9.7416031,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lingg",
     "retailer": "lingg",
     "shop": "clothes",
     "latitude": 47.4133955,
-    "longitude": 9.7431568
+    "longitude": 9.7431568,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "livid",
     "retailer": "livid",
     "shop": "clothes",
     "latitude": 47.4128637,
-    "longitude": 9.7431841
+    "longitude": 9.7431841,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Luger",
     "retailer": "luger",
     "shop": "bakery",
     "latitude": 47.4137889,
-    "longitude": 9.7435806
+    "longitude": 9.7435806,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Maischön",
     "retailer": "maischon",
     "shop": "clothes",
     "latitude": 47.412768,
-    "longitude": 9.7432302
+    "longitude": 9.7432302,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mango",
@@ -403,21 +559,29 @@
     "shop": "clothes",
     "latitude": 47.4130488,
     "longitude": 9.7423765,
-    "brand": "Mango"
+    "brand": "Mango",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mangold",
     "retailer": "mangold",
     "shop": "bakery",
     "latitude": 47.4127402,
-    "longitude": 9.7422851
+    "longitude": 9.7422851,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Marenda",
     "retailer": "marenda",
     "shop": "bakery",
     "latitude": 47.4129759,
-    "longitude": 9.7410639
+    "longitude": 9.7410639,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Marionnaud",
@@ -425,63 +589,87 @@
     "shop": "perfumery",
     "latitude": 47.412736,
     "longitude": 9.742197,
-    "brand": "Marionnaud"
+    "brand": "Marionnaud",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mary Rose",
     "retailer": "mary_rose",
     "shop": "houseware",
     "latitude": 47.4117002,
-    "longitude": 9.7433098
+    "longitude": 9.7433098,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Max und Stella",
     "retailer": "max_und_stella",
     "shop": "clothes",
     "latitude": 47.4143407,
-    "longitude": 9.7432631
+    "longitude": 9.7432631,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mepur",
     "retailer": "mepur",
     "shop": "dry_cleaning",
     "latitude": 47.4121306,
-    "longitude": 9.7453276
+    "longitude": 9.7453276,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "MG Wellness",
     "retailer": "mg_wellness",
     "shop": "swimming_pool",
     "latitude": 47.4153192,
-    "longitude": 9.7436999
+    "longitude": 9.7436999,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Modellbahn Kaufmann",
     "retailer": "modellbahn_kaufmann",
     "shop": "model",
     "latitude": 47.4150322,
-    "longitude": 9.7401809
+    "longitude": 9.7401809,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "monari",
     "retailer": "monari",
     "shop": "clothes",
     "latitude": 47.412887,
-    "longitude": 9.742681
+    "longitude": 9.742681,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "MOREBOARDS",
     "retailer": "moreboards",
     "shop": "clothes",
     "latitude": 47.412835,
-    "longitude": 9.7411674
+    "longitude": 9.7411674,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Moses",
     "retailer": "moses",
     "shop": "beverages",
     "latitude": 47.412216,
-    "longitude": 9.7424515
+    "longitude": 9.7424515,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Neuroth",
@@ -489,35 +677,51 @@
     "shop": "hearing_aids",
     "latitude": 47.4143711,
     "longitude": 9.7424269,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Nägele & Strubell",
     "retailer": "nagele_und_strubell",
     "shop": "beauty",
     "latitude": 47.4128095,
-    "longitude": 9.7419797
+    "longitude": 9.7419797,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "O.Rein",
     "retailer": "o_rein",
     "shop": "jewelry",
     "latitude": 47.4127171,
-    "longitude": 9.7424522
+    "longitude": 9.7424522,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Offfhand",
     "retailer": "offfhand",
     "shop": "jewelry",
     "latitude": 47.411172,
-    "longitude": 9.742362
+    "longitude": 9.742362,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Optik Sutter - Haus des Sehens",
     "retailer": "optik_sutter_haus_des_sehens",
     "shop": "optician",
     "latitude": 47.4167766,
-    "longitude": 9.7429553
+    "longitude": 9.7429553,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Pagro",
@@ -525,7 +729,11 @@
     "shop": "stationery",
     "latitude": 47.4155767,
     "longitude": 9.7405564,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Palmers",
@@ -533,7 +741,11 @@
     "shop": "clothes",
     "latitude": 47.4142175,
     "longitude": 9.7413103,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Pearle",
@@ -541,91 +753,135 @@
     "shop": "optician",
     "latitude": 47.4123806,
     "longitude": 9.7414612,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Rapunzel",
     "retailer": "rapunzel",
     "shop": "books",
     "latitude": 47.4149412,
-    "longitude": 9.7402393
+    "longitude": 9.7402393,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Reutterer",
     "retailer": "reutterer",
     "shop": "shoes",
     "latitude": 47.412786,
-    "longitude": 9.7416161
+    "longitude": 9.7416161,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Rhomberg Die Reisemaßschneiderei",
     "retailer": "rhomberg_die_reisemaschneiderei",
     "shop": "travel_agency",
     "latitude": 47.4158167,
-    "longitude": 9.7445672
+    "longitude": 9.7445672,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Roma",
     "retailer": "roma",
     "shop": "hairdresser_supply",
     "latitude": 47.4142125,
-    "longitude": 9.7423712
+    "longitude": 9.7423712,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Rosenberger",
     "retailer": "rosenberger",
     "shop": "shoes",
     "latitude": 47.410742,
-    "longitude": 9.74235
+    "longitude": 9.74235,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ruetz",
     "retailer": "ruetz",
     "shop": "bakery",
     "latitude": 47.412813,
-    "longitude": 9.7413401
+    "longitude": 9.7413401,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sagmeister Die Frau",
     "retailer": "sagmeister_die_frau",
     "shop": "clothes",
     "latitude": 47.4141988,
-    "longitude": 9.7414804
+    "longitude": 9.7414804,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Samina",
     "retailer": "samina",
     "shop": "bed",
     "latitude": 47.4151626,
-    "longitude": 9.7433879
+    "longitude": 9.7433879,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schneidermeisterei",
     "retailer": "schneidermeisterei",
     "shop": "clothes",
     "latitude": 47.4141707,
-    "longitude": 9.7416914
+    "longitude": 9.7416914,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schwanenbäckerei",
     "retailer": "schwanenbackerei",
     "shop": "bakery",
     "latitude": 47.4151941,
-    "longitude": 9.7418514
+    "longitude": 9.7418514,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schwanenbäckerei",
     "retailer": "schwanenbackerei",
     "shop": "bakery",
     "latitude": 47.4168659,
-    "longitude": 9.7452892
+    "longitude": 9.7452892,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "shu:z",
     "retailer": "shu_z",
     "shop": "shoes",
     "latitude": 47.4139963,
-    "longitude": 9.7428093
+    "longitude": 9.7428093,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Smyths",
@@ -633,21 +889,31 @@
     "shop": "toys",
     "latitude": 47.412915,
     "longitude": 9.7401005,
-    "brand": "Smyths"
+    "brand": "Smyths",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Stadtmarkt",
     "retailer": "stadtmarkt",
     "shop": "mall",
     "latitude": 47.4124039,
-    "longitude": 9.7412497
+    "longitude": 9.7412497,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Strolz Leuchten",
     "retailer": "strolz_leuchten",
     "shop": "lighting",
     "latitude": 47.411006,
-    "longitude": 9.7423849
+    "longitude": 9.7423849,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sutterlüty",
@@ -655,7 +921,11 @@
     "shop": "supermarket",
     "latitude": 47.4128733,
     "longitude": 9.7402936,
-    "brand": "Sutterlüty"
+    "brand": "Sutterlüty",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tchibo",
@@ -663,14 +933,20 @@
     "shop": "coffee",
     "latitude": 47.412938,
     "longitude": 9.742092,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tingting Asiamarkt",
     "retailer": "tingting_asiamarkt",
     "shop": "supermarket",
     "latitude": 47.4155144,
-    "longitude": 9.741524
+    "longitude": 9.741524,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "TK Maxx",
@@ -678,7 +954,11 @@
     "shop": "department_store",
     "latitude": 47.412533,
     "longitude": 9.7412843,
-    "brand": "TK Maxx"
+    "brand": "TK Maxx",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tom Tailor",
@@ -686,28 +966,40 @@
     "shop": "clothes",
     "latitude": 47.413529,
     "longitude": 9.7429132,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trafik Anwander",
     "retailer": "trafik_anwander",
     "shop": "newsagent",
     "latitude": 47.413393,
-    "longitude": 9.742638
+    "longitude": 9.742638,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trafik Thomas Greiter",
     "retailer": "trafik_thomas_greiter",
     "shop": "tobacco",
     "latitude": 47.4174175,
-    "longitude": 9.7464697
+    "longitude": 9.7464697,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Typisch JU",
     "retailer": "typisch_ju",
     "shop": "clothes",
     "latitude": 47.4102245,
-    "longitude": 9.7421205
+    "longitude": 9.7421205,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Vero Moda",
@@ -715,48 +1007,66 @@
     "shop": "clothes",
     "latitude": 47.4138476,
     "longitude": 9.7430191,
-    "brand": "Vero Moda"
+    "brand": "Vero Moda",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Vom Fass",
     "retailer": "vom_fass",
     "shop": "alcohol",
     "latitude": 47.4143419,
-    "longitude": 9.7421405
+    "longitude": 9.7421405,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "VORRADELN",
     "retailer": "vorradeln",
     "shop": "bicycle",
     "latitude": 47.4148783,
-    "longitude": 9.7433988
+    "longitude": 9.7433988,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Weltladen",
     "retailer": "weltladen",
     "shop": "gift",
     "latitude": 47.4124153,
-    "longitude": 9.7405816
+    "longitude": 9.7405816,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "woman",
     "retailer": "woman",
     "shop": "clothes",
     "latitude": 47.412921,
-    "longitude": 9.74156
+    "longitude": 9.74156,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Zumtobel",
     "retailer": "zumtobel",
     "shop": "clothes",
     "latitude": 47.412784,
-    "longitude": 9.742717
+    "longitude": 9.742717,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Zweirad Fink",
     "retailer": "zweirad_fink",
     "shop": "bicycle",
     "latitude": 47.4193898,
-    "longitude": 9.7468342
+    "longitude": 9.7468342,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

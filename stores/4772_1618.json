@@ -4,20 +4,30 @@
     "retailer": "bauernhof_familie_grasel_schwarz",
     "shop": "farm",
     "latitude": 47.7235883,
-    "longitude": 16.1884574
+    "longitude": 16.1884574,
+    "postcode": "2823",
+    "city": "Brunn an der Pitten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Mairinger",
     "retailer": "blumen_mairinger",
     "shop": "florist",
     "latitude": 47.7228815,
-    "longitude": 16.1867438
+    "longitude": 16.1867438,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Denise Bäckerin",
     "retailer": "denise_backerin",
     "shop": "bakery",
     "latitude": 47.725201,
-    "longitude": 16.1886378
+    "longitude": 16.1886378,
+    "postcode": "2823",
+    "city": "Bad Erlach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

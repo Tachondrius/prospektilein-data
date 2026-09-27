@@ -4,42 +4,55 @@
     "retailer": "autoersatzteile_reisenhofer",
     "shop": "car_parts",
     "latitude": 47.111832,
-    "longitude": 15.3363571
+    "longitude": 15.3363571,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Sorger",
     "retailer": "backerei_sorger",
     "shop": "bakery",
     "latitude": 47.1141934,
-    "longitude": 15.3367473
+    "longitude": 15.3367473,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fachstudio für Kosmetik und med. Fußpflege",
     "retailer": "fachstudio_fur_kosmetik_und_med_fupflege",
     "shop": "cosmetics",
     "latitude": 47.1124849,
-    "longitude": 15.3361262
+    "longitude": 15.3361262,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.1141309,
-    "longitude": 15.3370727
+    "longitude": 15.3370727,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ Jürgen Heil",
     "retailer": "kfz_jurgen_heil",
     "shop": "car_repair",
     "latitude": 47.1190209,
-    "longitude": 15.3394988
+    "longitude": 15.3394988,
+    "postcode": "8111",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Torten- und Grillspezialitätenautomat Marianne",
     "retailer": "torten_und_grillspezialitatenautomat_marianne",
     "shop": "yes",
     "latitude": 47.1122367,
-    "longitude": 15.3364821
+    "longitude": 15.3364821,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Unimarkt",
@@ -47,6 +60,9 @@
     "shop": "supermarket",
     "latitude": 47.1134287,
     "longitude": 15.3347017,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "8111",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -5,27 +5,39 @@
     "shop": "supermarket",
     "latitude": 47.5725143,
     "longitude": 14.459246,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "8911",
+    "city": "Admont",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bestattung Butter",
     "retailer": "bestattung_butter",
     "shop": "funeral_directors",
     "latitude": 47.5799241,
-    "longitude": 14.4599611
+    "longitude": 14.4599611,
+    "postcode": "8911",
+    "city": "Admont",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Drehleierbau Riedel",
     "retailer": "drehleierbau_riedel",
     "shop": "musical_instrument",
     "latitude": 47.5759922,
-    "longitude": 14.4591115
+    "longitude": 14.4591115,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "kaufdahoam.at",
     "retailer": "kaufdahoam_at",
     "shop": "convenience",
     "latitude": 47.5793238,
-    "longitude": 14.4599482
+    "longitude": 14.4599482,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

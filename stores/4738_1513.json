@@ -4,7 +4,9 @@
     "retailer": "nussinga_walnusslikor",
     "shop": "alcohol",
     "latitude": 47.3842845,
-    "longitude": 15.1377532
+    "longitude": 15.1377532,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vogl + CO",
@@ -12,7 +14,11 @@
     "shop": "car",
     "latitude": 47.3890496,
     "longitude": 15.1356831,
-    "brand": "Nissan;Renault;Hyundai"
+    "brand": "Nissan;Renault;Hyundai",
+    "postcode": "8712",
+    "city": "Niklasdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "XXXLutz",
@@ -20,6 +26,10 @@
     "shop": "furniture",
     "latitude": 47.3872785,
     "longitude": 15.1320597,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "8712",
+    "city": "Niklasdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

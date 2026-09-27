@@ -4,21 +4,31 @@
     "retailer": "dar_zaodl",
     "shop": "stationery",
     "latitude": 47.4287792,
-    "longitude": 9.6602123
+    "longitude": 9.6602123,
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Et Sarayı",
     "retailer": "et_saray",
     "shop": "butcher",
     "latitude": 47.4214682,
-    "longitude": 9.6600651
+    "longitude": 9.6600651,
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Gabriel Meckler - Natursteine",
     "retailer": "gabriel_meckler_natursteine",
     "shop": "garden_centre",
     "latitude": 47.4203614,
-    "longitude": 9.6603329
+    "longitude": 9.6603329,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lidl",
@@ -26,20 +36,32 @@
     "shop": "supermarket",
     "latitude": 47.4212871,
     "longitude": 9.6605499,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Pinocchio",
     "retailer": "pinocchio",
     "shop": "baby_goods",
     "latitude": 47.4282662,
-    "longitude": 9.661975
+    "longitude": 9.661975,
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tabakfachgeschäft Huchler",
     "retailer": "tabakfachgeschaft_huchler",
     "shop": "tobacco",
     "latitude": 47.4217063,
-    "longitude": 9.6600131
+    "longitude": 9.6600131,
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

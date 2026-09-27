@@ -4,7 +4,11 @@
     "retailer": "sebastian_danzl_s_sennerei",
     "shop": "cheese",
     "latitude": 47.6330962,
-    "longitude": 12.3909053
+    "longitude": 12.3909053,
+    "postcode": "6385",
+    "city": "Schwendt",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.6323075,
     "longitude": 12.3912713,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6385",
+    "city": "Schwendt",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

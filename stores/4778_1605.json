@@ -4,20 +4,28 @@
     "retailer": "landfleischerei_stickler",
     "shop": "butcher",
     "latitude": 47.7896096,
-    "longitude": 16.0568349
+    "longitude": 16.0568349,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nicoles Haarwerkstadt",
     "retailer": "nicoles_haarwerkstadt",
     "shop": "hairdresser",
     "latitude": 47.7899281,
-    "longitude": 16.0577818
+    "longitude": 16.0577818,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zum Schneebergerbäck",
     "retailer": "zum_schneebergerback",
     "shop": "bakery",
     "latitude": 47.7898435,
-    "longitude": 16.0563885
+    "longitude": 16.0563885,
+    "postcode": "2732",
+    "city": "Willendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

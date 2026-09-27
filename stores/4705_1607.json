@@ -5,7 +5,9 @@
     "shop": "variety_store",
     "latitude": 47.0554699,
     "longitude": 16.0785199,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Mager",
@@ -13,14 +15,20 @@
     "shop": "car",
     "latitude": 47.0564783,
     "longitude": 16.0750287,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 47.0572459,
-    "longitude": 16.072712
+    "longitude": 16.072712,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -28,7 +36,11 @@
     "shop": "supermarket",
     "latitude": 47.0519853,
     "longitude": 16.0737223,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -36,7 +48,11 @@
     "shop": "supermarket",
     "latitude": 47.0562966,
     "longitude": 16.0727171,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -44,63 +60,97 @@
     "shop": "chemist",
     "latitude": 47.0563409,
     "longitude": 16.0729627,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Birchbauer",
     "retailer": "birchbauer",
     "shop": "bakery",
     "latitude": 47.0503972,
-    "longitude": 16.0763138
+    "longitude": 16.0763138,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Brickfinity",
     "retailer": "brickfinity",
     "shop": "toys",
     "latitude": 47.0548186,
-    "longitude": 16.0786668
+    "longitude": 16.0786668,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Wolf",
     "retailer": "backerei_wolf",
     "shop": "bakery",
     "latitude": 47.0512181,
-    "longitude": 16.0759164
+    "longitude": 16.0759164,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Cafe/ Bäckerei Hütter",
     "retailer": "cafe_backerei_hutter",
     "shop": "bakery",
     "latitude": 47.0505669,
-    "longitude": 16.0774648
+    "longitude": 16.0774648,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eden",
     "retailer": "eden",
     "shop": "funeral_directors",
     "latitude": 47.0519554,
-    "longitude": 16.07386
+    "longitude": 16.07386,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fabric",
     "retailer": "shop_fabric",
     "shop": "fabric",
     "latitude": 47.0510969,
-    "longitude": 16.0782632
+    "longitude": 16.0782632,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fachmarktzentrum Fürstenfeld",
     "retailer": "fachmarktzentrum_furstenfeld",
     "shop": "mall",
     "latitude": 47.0586607,
-    "longitude": 16.070334
+    "longitude": 16.070334,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleisch Und Wurstmarkt",
     "retailer": "fleisch_und_wurstmarkt",
     "shop": "butcher",
     "latitude": 47.0563159,
-    "longitude": 16.0766305
+    "longitude": 16.0766305,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ford Käfer",
@@ -108,7 +158,11 @@
     "shop": "car",
     "latitude": 47.0562839,
     "longitude": 16.0758036,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fressnapf",
@@ -116,42 +170,60 @@
     "shop": "pet",
     "latitude": 47.0586098,
     "longitude": 16.0703917,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Maier",
     "retailer": "friseur_maier",
     "shop": "hairdresser",
     "latitude": 47.0503245,
-    "longitude": 16.0782801
+    "longitude": 16.0782801,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Genussgreisslerei Weinhofer",
     "retailer": "genussgreisslerei_weinhofer",
     "shop": "convenience",
     "latitude": 47.0514719,
-    "longitude": 16.0745611
+    "longitude": 16.0745611,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Geschenke Großmann",
     "retailer": "geschenke_gromann",
     "shop": "variety_store",
     "latitude": 47.0553282,
-    "longitude": 16.079019
+    "longitude": 16.079019,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Glücksgriff",
     "retailer": "glucksgriff",
     "shop": "shoes",
     "latitude": 47.0502447,
-    "longitude": 16.0774891
+    "longitude": 16.0774891,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gummi Kreisel",
     "retailer": "gummi_kreisel",
     "shop": "tyres",
     "latitude": 47.0561716,
-    "longitude": 16.0741589
+    "longitude": 16.0741589,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "H&M",
@@ -159,7 +231,11 @@
     "shop": "clothes",
     "latitude": 47.0502083,
     "longitude": 16.0786687,
-    "brand": "H&M"
+    "brand": "H&M",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hansaton",
@@ -167,21 +243,33 @@
     "shop": "hearing_aids",
     "latitude": 47.0504763,
     "longitude": 16.0776351,
-    "brand": "Hansaton"
+    "brand": "Hansaton",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Höllerl",
     "retailer": "hollerl",
     "shop": "clothes",
     "latitude": 47.0506617,
-    "longitude": 16.0776684
+    "longitude": 16.0776684,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Impex",
     "retailer": "impex",
     "shop": "bathroom_furnishing",
     "latitude": 47.0557607,
-    "longitude": 16.0778033
+    "longitude": 16.0778033,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Interspar",
@@ -189,7 +277,11 @@
     "shop": "supermarket",
     "latitude": 47.057859,
     "longitude": 16.0749252,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "JYSK",
@@ -197,7 +289,11 @@
     "shop": "furniture",
     "latitude": 47.0583745,
     "longitude": 16.0708448,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "K&Ö",
@@ -205,7 +301,9 @@
     "shop": "clothes",
     "latitude": 47.0506012,
     "longitude": 16.0771394,
-    "brand": "K&Ö"
+    "brand": "K&Ö",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "K&Ö",
@@ -213,14 +311,22 @@
     "shop": "clothes",
     "latitude": 47.0508249,
     "longitude": 16.077266,
-    "brand": "K&Ö"
+    "brand": "K&Ö",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "k-music",
     "retailer": "k_music",
     "shop": "music",
     "latitude": 47.0510514,
-    "longitude": 16.0784292
+    "longitude": 16.0784292,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -228,14 +334,18 @@
     "shop": "clothes",
     "latitude": 47.0547046,
     "longitude": 16.0798041,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
     "retailer": "klipp",
     "shop": "hairdresser",
     "latitude": 47.0548531,
-    "longitude": 16.0786828
+    "longitude": 16.0786828,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -243,21 +353,33 @@
     "shop": "supermarket",
     "latitude": 47.0564374,
     "longitude": 16.0715425,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Modehaus Roth",
     "retailer": "modehaus_roth",
     "shop": "clothes",
     "latitude": 47.0510417,
-    "longitude": 16.0758031
+    "longitude": 16.0758031,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NinetyTwo Hairsalon",
     "retailer": "ninetytwo_hairsalon",
     "shop": "hairdresser",
     "latitude": 47.0522447,
-    "longitude": 16.0735585
+    "longitude": 16.0735585,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nissan",
@@ -265,7 +387,11 @@
     "shop": "car",
     "latitude": 47.0576074,
     "longitude": 16.0707719,
-    "brand": "Nissan"
+    "brand": "Nissan",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -273,49 +399,69 @@
     "shop": "clothes",
     "latitude": 47.0584325,
     "longitude": 16.0707086,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pesenhofer Kachelofen",
     "retailer": "pesenhofer_kachelofen",
     "shop": "fireplace",
     "latitude": 47.0551564,
-    "longitude": 16.0765696
+    "longitude": 16.0765696,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Purkarthofer",
     "retailer": "purkarthofer",
     "shop": "jewelry",
     "latitude": 47.0506892,
-    "longitude": 16.0774454
+    "longitude": 16.0774454,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Roch Reisen",
     "retailer": "roch_reisen",
     "shop": "travel_agency",
     "latitude": 47.051509,
-    "longitude": 16.0764172
+    "longitude": 16.0764172,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "RS",
     "retailer": "rs",
     "shop": "car_parts",
     "latitude": 47.057353,
-    "longitude": 16.0717355
+    "longitude": 16.0717355,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "S'Radl Eck Gollinger",
     "retailer": "s_radl_eck_gollinger",
     "shop": "bicycle",
     "latitude": 47.0571672,
-    "longitude": 16.0704773
+    "longitude": 16.0704773,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stahlgruber",
     "retailer": "stahlgruber",
     "shop": "car_parts",
     "latitude": 47.0558979,
-    "longitude": 16.0771016
+    "longitude": 16.0771016,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -323,21 +469,29 @@
     "shop": "variety_store",
     "latitude": 47.0547695,
     "longitude": 16.0796583,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TierLieb",
     "retailer": "tierlieb",
     "shop": "pet",
     "latitude": 47.058147,
-    "longitude": 16.07114
+    "longitude": 16.07114,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Totter",
     "retailer": "totter",
     "shop": "shoes",
     "latitude": 47.0500942,
-    "longitude": 16.0788562
+    "longitude": 16.0788562,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TUI",
@@ -345,13 +499,19 @@
     "shop": "travel_agency",
     "latitude": 47.0572617,
     "longitude": 16.0720492,
-    "brand": "TUI"
+    "brand": "TUI",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zweiradcenter Roch",
     "retailer": "zweiradcenter_roch",
     "shop": "bicycle",
     "latitude": 47.051418,
-    "longitude": 16.0767726
+    "longitude": 16.0767726,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

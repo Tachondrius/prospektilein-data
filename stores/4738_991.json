@@ -4,34 +4,50 @@
     "retailer": "felderhof",
     "shop": "deli",
     "latitude": 47.3847891,
-    "longitude": 9.9156222
+    "longitude": 9.9156222,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "SELFI - Genuss zum Mitnehmen",
     "retailer": "selfi_genuss_zum_mitnehmen",
     "shop": "farm",
     "latitude": 47.3850868,
-    "longitude": 9.9161316
+    "longitude": 9.9161316,
+    "postcode": "6870",
+    "city": "Bezau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sennerei Obere",
     "retailer": "sennerei_obere",
     "shop": "cheese",
     "latitude": 47.3848356,
-    "longitude": 9.9137504
+    "longitude": 9.9137504,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sennhaus Bezau Oberdorf",
     "retailer": "sennhaus_bezau_oberdorf",
     "shop": "farm",
     "latitude": 47.3855567,
-    "longitude": 9.9111147
+    "longitude": 9.9111147,
+    "postcode": "6870",
+    "city": "Bezau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Wiesenhof Frischebox",
     "retailer": "wiesenhof_frischebox",
     "shop": "farm",
     "latitude": 47.3851631,
-    "longitude": 9.9180093
+    "longitude": 9.9180093,
+    "postcode": "6870",
+    "city": "Bezau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

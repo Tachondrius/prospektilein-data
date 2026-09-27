@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 48.207141,
     "longitude": 13.4647618,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4941",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Neubike",
     "retailer": "neubike",
     "shop": "bicycle",
     "latitude": 48.2076995,
-    "longitude": 13.464987
+    "longitude": 13.464987,
+    "postcode": "4941",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,21 +4,29 @@
     "retailer": "albin_holzer",
     "shop": "tiles",
     "latitude": 48.0410624,
-    "longitude": 14.3111221
+    "longitude": 14.3111221,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bicycle",
     "retailer": "shop_bicycle",
     "shop": "bicycle",
     "latitude": 48.0436128,
-    "longitude": 14.3105196
+    "longitude": 14.3105196,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Biliqa Markt",
     "retailer": "biliqa_markt",
     "shop": "supermarket",
     "latitude": 48.0490877,
-    "longitude": 14.3145296
+    "longitude": 14.3145296,
+    "postcode": "4522",
+    "city": "Sierning",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -26,42 +34,56 @@
     "shop": "supermarket",
     "latitude": 48.0401548,
     "longitude": 14.3153825,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4522",
+    "city": "Sierning",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Books",
     "retailer": "shop_books",
     "shop": "books",
     "latitude": 48.0437433,
-    "longitude": 14.3102483
+    "longitude": 14.3102483,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Butcher",
     "retailer": "shop_butcher",
     "shop": "butcher",
     "latitude": 48.0440908,
-    "longitude": 14.3101819
+    "longitude": 14.3101819,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.0457413,
-    "longitude": 14.3130999
+    "longitude": 14.3130999,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.0456893,
-    "longitude": 14.3131402
+    "longitude": 14.3131402,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Deisl",
     "retailer": "deisl",
     "shop": "hairdresser",
     "latitude": 48.0445405,
-    "longitude": 14.3118339
+    "longitude": 14.3118339,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -69,14 +91,20 @@
     "shop": "supermarket",
     "latitude": 48.0403635,
     "longitude": 14.3123714,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4522",
+    "city": "Sierning",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.0448591,
-    "longitude": 14.3124763
+    "longitude": 14.3124763,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -84,27 +112,41 @@
     "shop": "supermarket",
     "latitude": 48.0410426,
     "longitude": 14.3145285,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "4522",
+    "city": "Sierning",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Modehaus Kutsam",
     "retailer": "modehaus_kutsam",
     "shop": "clothes",
     "latitude": 48.0462172,
-    "longitude": 14.3106478
+    "longitude": 14.3106478,
+    "postcode": "4522",
+    "city": "Sierning",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Rieß",
     "retailer": "rie",
     "shop": "bakery",
     "latitude": 48.0443139,
-    "longitude": 14.3110991
+    "longitude": 14.3110991,
+    "postcode": "4522",
+    "city": "Sierning",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Scheinecker Sierning",
     "retailer": "scheinecker_sierning",
     "shop": "clothes",
     "latitude": 48.043629,
-    "longitude": 14.3104676
+    "longitude": 14.3104676,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

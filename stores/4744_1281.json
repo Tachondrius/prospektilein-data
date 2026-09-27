@@ -4,13 +4,19 @@
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 47.447383,
-    "longitude": 12.8157345
+    "longitude": 12.8157345,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Frank",
     "retailer": "frank",
     "shop": "wholesale",
     "latitude": 47.4470757,
-    "longitude": 12.8164868
+    "longitude": 12.8164868,
+    "postcode": "5760",
+    "city": "Saalfelden am Steinernen Meer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 48.1406495,
     "longitude": 16.921141,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2410",
+    "city": "Hainburg an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Naglreiter",
     "retailer": "naglreiter",
     "shop": "regional",
     "latitude": 48.1415447,
-    "longitude": 16.925363
+    "longitude": 16.925363,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ponez Siegfried",
     "retailer": "ponez_siegfried",
     "shop": "car_repair",
     "latitude": 48.1406974,
-    "longitude": 16.924862
+    "longitude": 16.924862,
+    "postcode": "2410",
+    "city": "Hainburg an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,41 +5,63 @@
     "shop": "supermarket",
     "latitude": 47.2569025,
     "longitude": 9.5866389,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bäckerei Schertler",
     "retailer": "backerei_schertler",
     "shop": "bakery",
     "latitude": 47.2579679,
-    "longitude": 9.5880147
+    "longitude": 9.5880147,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fahrwerk",
     "retailer": "fahrwerk",
     "shop": "motorcycle",
     "latitude": 47.2570052,
-    "longitude": 9.5877815
+    "longitude": 9.5877815,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Farben Morscher",
     "retailer": "farben_morscher",
     "shop": "paint",
     "latitude": 47.2527251,
-    "longitude": 9.5816047
+    "longitude": 9.5816047,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.259145,
-    "longitude": 9.589722
+    "longitude": 9.589722,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "V-Milch Lädele",
     "retailer": "v_milch_ladele",
     "shop": "convenience",
     "latitude": 47.2550737,
-    "longitude": 9.582952
+    "longitude": 9.582952,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

@@ -4,42 +4,64 @@
     "retailer": "armas",
     "shop": "clothes",
     "latitude": 48.1869744,
-    "longitude": 16.4201834
+    "longitude": 16.4201834,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Denzel Wien Erdberg",
     "retailer": "denzel_wien_erdberg",
     "shop": "car",
     "latitude": 48.1871261,
-    "longitude": 16.4244886
+    "longitude": 16.4244886,
+    "postcode": "1030",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Entertainment Center Gasometer",
     "retailer": "entertainment_center_gasometer",
     "shop": "mall",
     "latitude": 48.1857596,
-    "longitude": 16.4208141
+    "longitude": 16.4208141,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gasometer C",
     "retailer": "gasometer_c",
     "shop": "mall",
     "latitude": 48.1848322,
-    "longitude": 16.4206349
+    "longitude": 16.4206349,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gasometer D",
     "retailer": "gasometer_d",
     "shop": "mall",
     "latitude": 48.1846498,
-    "longitude": 16.4215009
+    "longitude": 16.4215009,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Klangfarbe",
     "retailer": "klangfarbe",
     "shop": "musical_instrument",
     "latitude": 48.1847359,
-    "longitude": 16.4216366
+    "longitude": 16.4216366,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -47,6 +69,10 @@
     "shop": "supermarket",
     "latitude": 48.1801172,
     "longitude": 16.4264814,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

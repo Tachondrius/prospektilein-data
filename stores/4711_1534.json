@@ -4,7 +4,9 @@
     "retailer": "bhl_business_handel_lackner_e_u",
     "shop": "wholesale",
     "latitude": 47.1172667,
-    "longitude": 15.3497763
+    "longitude": 15.3497763,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,34 +14,48 @@
     "shop": "supermarket",
     "latitude": 47.1158674,
     "longitude": 15.3496226,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8111",
+    "city": "Judendorf-Strassengel",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Leitner",
     "retailer": "leitner",
     "shop": "bakery",
     "latitude": 47.116633,
-    "longitude": 15.3415773
+    "longitude": 15.3415773,
+    "postcode": "8111",
+    "city": "Gratwein-Straßengel",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pettys tierischer Feinkostladen",
     "retailer": "pettys_tierischer_feinkostladen",
     "shop": "pet",
     "latitude": 47.11523,
-    "longitude": 15.3488426
+    "longitude": 15.3488426,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sandra's Hundesalon",
     "retailer": "sandra_s_hundesalon",
     "shop": "pet_grooming",
     "latitude": 47.1149388,
-    "longitude": 15.3445746
+    "longitude": 15.3445746,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.1170924,
-    "longitude": 15.3413121
+    "longitude": 15.3413121,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

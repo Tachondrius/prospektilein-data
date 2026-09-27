@@ -4,21 +4,29 @@
     "retailer": "fleischhauerei_enzenhofer",
     "shop": "butcher",
     "latitude": 48.5519083,
-    "longitude": 14.2190772
+    "longitude": 14.2190772,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haargenau Birgit",
     "retailer": "haargenau_birgit",
     "shop": "hairdresser",
     "latitude": 48.5527933,
-    "longitude": 14.2181036
+    "longitude": 14.2181036,
+    "postcode": "4191",
+    "city": "Vorderweißenbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus Vorderweißenbach",
     "retailer": "lagerhaus_vorderweienbach",
     "shop": "department_store",
     "latitude": 48.5540153,
-    "longitude": 14.217768
+    "longitude": 14.217768,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch Hutter",
@@ -26,20 +34,28 @@
     "shop": "supermarket",
     "latitude": 48.5526262,
     "longitude": 14.2188301,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4191",
+    "city": "Vorderweißenbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ritter Bäckerei",
     "retailer": "ritter_backerei",
     "shop": "bakery",
     "latitude": 48.5525722,
-    "longitude": 14.2185612
+    "longitude": 14.2185612,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stationery",
     "retailer": "shop_stationery",
     "shop": "stationery",
     "latitude": 48.5525596,
-    "longitude": 14.2185343
+    "longitude": 14.2185343,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

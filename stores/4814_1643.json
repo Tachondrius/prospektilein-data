@@ -4,20 +4,28 @@
     "retailer": "blumenstube_lucia",
     "shop": "florist",
     "latitude": 48.1411357,
-    "longitude": 16.4381703
+    "longitude": 16.4381703,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "MOTUS Jung & Gebrauchtwagen",
     "retailer": "motus_jung_und_gebrauchtwagen",
     "shop": "car",
     "latitude": 48.1412049,
-    "longitude": 16.4365334
+    "longitude": 16.4365334,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "R&E GOEBEL",
     "retailer": "r_und_e_goebel",
     "shop": "laundry",
     "latitude": 48.1405468,
-    "longitude": 16.4386784
+    "longitude": 16.4386784,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

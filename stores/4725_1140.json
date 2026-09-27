@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.2581926,
     "longitude": 11.4051005,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -13,55 +17,81 @@
     "shop": "chemist",
     "latitude": 47.2586437,
     "longitude": 11.4055461,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Klosterladen",
     "retailer": "klosterladen",
     "shop": "farm",
     "latitude": 47.2534017,
-    "longitude": 11.4002059
+    "longitude": 11.4002059,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Radstatt",
     "retailer": "radstatt",
     "shop": "bicycle",
     "latitude": 47.2571648,
-    "longitude": 11.4043511
+    "longitude": 11.4043511,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Regro Innsbruck",
     "retailer": "regro_innsbruck",
     "shop": "electrical",
     "latitude": 47.2525465,
-    "longitude": 11.4009941
+    "longitude": 11.4009941,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schäcke Innsbruck",
     "retailer": "schacke_innsbruck",
     "shop": "electrical",
     "latitude": 47.2524883,
-    "longitude": 11.4010156
+    "longitude": 11.4010156,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Trafik Egger",
     "retailer": "tabak_trafik_egger",
     "shop": "tobacco",
     "latitude": 47.2586676,
-    "longitude": 11.4059082
+    "longitude": 11.4059082,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.2523298,
-    "longitude": 11.4007938
+    "longitude": 11.4007938,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tollinger",
     "retailer": "tollinger",
     "shop": "dairy",
     "latitude": 47.2560828,
-    "longitude": 11.4062896
+    "longitude": 11.4062896,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

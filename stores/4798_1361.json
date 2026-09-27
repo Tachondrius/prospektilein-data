@@ -5,20 +5,31 @@
     "shop": "supermarket",
     "latitude": 47.9806293,
     "longitude": 13.6115261,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4860",
+    "city": "Lenzing",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fliesengschäft‘l",
     "retailer": "fliesengschaftl",
     "shop": "department_store",
     "latitude": 47.9800762,
-    "longitude": 13.612406
+    "longitude": 13.612406,
+    "postcode": "4860",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pichlwanger Bäckerei",
     "retailer": "pichlwanger_backerei",
     "shop": "bakery",
     "latitude": 47.9899415,
-    "longitude": 13.6161476
+    "longitude": 13.6161476,
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

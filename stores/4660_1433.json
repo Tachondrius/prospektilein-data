@@ -4,7 +4,11 @@
     "retailer": "interkeramik",
     "shop": "sanitary",
     "latitude": 46.608615,
-    "longitude": 14.3317933
+    "longitude": 14.3317933,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar Express",
@@ -12,7 +16,11 @@
     "shop": "convenience",
     "latitude": 46.6091244,
     "longitude": 14.3303586,
-    "brand": "Spar Express"
+    "brand": "Spar Express",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -20,6 +28,10 @@
     "shop": "trade",
     "latitude": 46.608422,
     "longitude": 14.338181,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "johann_raudner",
     "shop": "agrarian",
     "latitude": 47.131568,
-    "longitude": 15.0994742
+    "longitude": 15.0994742,
+    "postcode": "8573",
+    "city": "Kainach bei Voitsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +16,8 @@
     "shop": "supermarket",
     "latitude": 47.1397371,
     "longitude": 15.094924,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 47.3979705,
     "longitude": 14.8221954,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.3994106,
-    "longitude": 14.8272379
+    "longitude": 14.8272379,
+    "postcode": "8774",
+    "city": "Mautern in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -20,7 +26,11 @@
     "shop": "doityourself",
     "latitude": 47.3991761,
     "longitude": 14.8269818,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8774",
+    "city": "Mautern in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Unimarkt",
@@ -28,6 +38,10 @@
     "shop": "supermarket",
     "latitude": 47.3986625,
     "longitude": 14.8296386,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "8774",
+    "city": "Mautern in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

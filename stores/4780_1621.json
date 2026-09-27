@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.8049556,
     "longitude": 16.2119625,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,20 +17,32 @@
     "shop": "chemist",
     "latitude": 47.8048356,
     "longitude": 16.2121437,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Orthotech Orthopädietechnik",
     "retailer": "orthotech_orthopadietechnik",
     "shop": "medical_supply",
     "latitude": 47.8085839,
-    "longitude": 16.2184545
+    "longitude": 16.2184545,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schuh Karosseriebau",
     "retailer": "schuh_karosseriebau",
     "shop": "car_repair",
     "latitude": 47.8072749,
-    "longitude": 16.2184575
+    "longitude": 16.2184575,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,28 +4,41 @@
     "retailer": "agnes_klesitcz",
     "shop": "beauty",
     "latitude": 46.778,
-    "longitude": 15.56664
+    "longitude": 15.56664,
+    "postcode": "8435",
+    "city": "Wagna",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Anhaenger Flucher",
     "retailer": "anhaenger_flucher",
     "shop": "car_parts",
     "latitude": 46.7759002,
-    "longitude": 15.5681587
+    "longitude": 15.5681587,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohändler Passath",
     "retailer": "autohandler_passath",
     "shop": "car",
     "latitude": 46.7784623,
-    "longitude": 15.5663845
+    "longitude": 15.5663845,
+    "postcode": "8435",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "bikee Ebike Schmiede GmbH",
     "retailer": "bikee_ebike_schmiede_gmbh",
     "shop": "bicycle",
     "latitude": 46.7752514,
-    "longitude": 15.5673176
+    "longitude": 15.5673176,
+    "postcode": "8435",
+    "city": "Wagna",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -33,7 +46,11 @@
     "shop": "supermarket",
     "latitude": 46.7715143,
     "longitude": 15.5619216,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8435",
+    "city": "Wagna",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -41,41 +58,64 @@
     "shop": "chemist",
     "latitude": 46.7713296,
     "longitude": 15.562185,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8435",
+    "city": "Wagna",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Druckerei Niegelhell",
     "retailer": "druckerei_niegelhell",
     "shop": "copyshop",
     "latitude": 46.7734198,
-    "longitude": 15.5681347
+    "longitude": 15.5681347,
+    "postcode": "8435",
+    "city": "Wagna",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Edelbrand Peer",
     "retailer": "edelbrand_peer",
     "shop": "alcohol",
     "latitude": 46.7741033,
-    "longitude": 15.5694433
+    "longitude": 15.5694433,
+    "postcode": "8435",
+    "city": "Leitring",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "F. Krainer",
     "retailer": "f_krainer",
     "shop": "butcher",
     "latitude": 46.7707421,
-    "longitude": 15.564856
+    "longitude": 15.564856,
+    "postcode": "8435",
+    "city": "Wagna",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Flucher - Kfz-Ersatzteile",
     "retailer": "flucher_kfz_ersatzteile",
     "shop": "car_repair;car_parts",
     "latitude": 46.77583,
-    "longitude": 15.5678793
+    "longitude": 15.5678793,
+    "postcode": "8435",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Marko Druck",
     "retailer": "marko_druck",
     "shop": "copyshop",
     "latitude": 46.7771662,
-    "longitude": 15.5675883
+    "longitude": 15.5675883,
+    "postcode": "8435",
+    "city": "Wagna",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

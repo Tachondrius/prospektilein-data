@@ -4,7 +4,11 @@
     "retailer": "anita_und_silvia_s_backstube",
     "shop": "pastry",
     "latitude": 47.4988642,
-    "longitude": 12.3859913
+    "longitude": 12.3859913,
+    "postcode": "6372",
+    "city": "Oberndorf in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,14 +16,20 @@
     "shop": "bakery",
     "latitude": 47.4962497,
     "longitude": 12.3880378,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6372",
+    "city": "Oberndorf in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Linsinger",
     "retailer": "linsinger",
     "shop": "bakery",
     "latitude": 47.4978093,
-    "longitude": 12.3895156
+    "longitude": 12.3895156,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -27,6 +37,10 @@
     "shop": "supermarket",
     "latitude": 47.4964961,
     "longitude": 12.3882336,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6372",
+    "city": "Oberndorf in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

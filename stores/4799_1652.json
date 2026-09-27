@@ -5,35 +5,55 @@
     "shop": "supermarket",
     "latitude": 47.9966392,
     "longitude": 16.5287797,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "2440",
+    "city": "Reisenberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "AVX Autohandel GmbH",
     "retailer": "avx_autohandel_gmbh",
     "shop": "car",
     "latitude": 47.9957252,
-    "longitude": 16.5272739
+    "longitude": 16.5272739,
+    "postcode": "2440",
+    "city": "Reisenberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Beauty Butterfly",
     "retailer": "beauty_butterfly",
     "shop": "beauty",
     "latitude": 47.9987867,
-    "longitude": 16.5232474
+    "longitude": 16.5232474,
+    "postcode": "2440",
+    "city": "Reisenberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Beauty Hair Fashion",
     "retailer": "beauty_hair_fashion",
     "shop": "hairdresser",
     "latitude": 47.9987527,
-    "longitude": 16.5232093
+    "longitude": 16.5232093,
+    "postcode": "2440",
+    "city": "Reisenberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fellner",
     "retailer": "fellner",
     "shop": "butcher",
     "latitude": 47.9991575,
-    "longitude": 16.5227106
+    "longitude": 16.5227106,
+    "postcode": "2440",
+    "city": "Reisenberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Toyota/Suzuki Ulrichshofer",
@@ -41,13 +61,18 @@
     "shop": "car",
     "latitude": 47.9967026,
     "longitude": 16.5266086,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "2440",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Toyota/Suzuki Ulrichshofer",
     "retailer": "toyota_suzuki_ulrichshofer",
     "shop": "car",
     "latitude": 47.9969751,
-    "longitude": 16.5276298
+    "longitude": 16.5276298,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

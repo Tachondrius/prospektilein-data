@@ -4,7 +4,11 @@
     "retailer": "ausseer_lebkuchen",
     "shop": "confectionery",
     "latitude": 47.612696,
-    "longitude": 13.7676391
+    "longitude": 13.7676391,
+    "postcode": "8990",
+    "city": "Reitern",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar Express",
@@ -12,13 +16,21 @@
     "shop": "convenience",
     "latitude": 47.6128009,
     "longitude": 13.7663363,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8990",
+    "city": "Reitern",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wohnhaus Grill & Ronacher",
     "retailer": "wohnhaus_grill_und_ronacher",
     "shop": "furniture",
     "latitude": 47.6124089,
-    "longitude": 13.7666223
+    "longitude": 13.7666223,
+    "postcode": "8990",
+    "city": "Reitern",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

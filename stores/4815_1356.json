@@ -4,35 +4,47 @@
     "retailer": "cafe_backerei_krautgartner",
     "shop": "bakery",
     "latitude": 48.1540389,
-    "longitude": 13.5619287
+    "longitude": 13.5619287,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Futterkörberl GmbH",
     "retailer": "futterkorberl_gmbh",
     "shop": "pet",
     "latitude": 48.1581395,
-    "longitude": 13.5627988
+    "longitude": 13.5627988,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haller",
     "retailer": "haller",
     "shop": "bakery",
     "latitude": 48.1548191,
-    "longitude": 13.5626999
+    "longitude": 13.5626999,
+    "postcode": "4906",
+    "city": "Eberschwang",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ramona",
     "retailer": "ramona",
     "shop": "hairdresser",
     "latitude": 48.1554123,
-    "longitude": 13.5607392
+    "longitude": 13.5607392,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reiter",
     "retailer": "reiter",
     "shop": "butcher",
     "latitude": 48.1559674,
-    "longitude": 13.5614164
+    "longitude": 13.5614164,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -40,13 +52,21 @@
     "shop": "supermarket",
     "latitude": 48.1596168,
     "longitude": 13.5607591,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4906",
+    "city": "Eberschwang",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Vielfalt",
     "retailer": "vielfalt",
     "shop": "computer",
     "latitude": 48.1544541,
-    "longitude": 13.5654759
+    "longitude": 13.5654759,
+    "postcode": "4906",
+    "city": "Eberschwang",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

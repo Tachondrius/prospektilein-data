@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 47.2228313,
     "longitude": 9.5775529,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Citroen Sonderegger",
@@ -13,20 +15,30 @@
     "shop": "car",
     "latitude": 47.2213985,
     "longitude": 9.576655,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "E&R Kfz Technik OG",
     "retailer": "e_und_r_kfz_technik_og",
     "shop": "car_repair",
     "latitude": 47.2228867,
-    "longitude": 9.5781337
+    "longitude": 9.5781337,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Geflügelhof Feldkirch",
     "retailer": "geflugelhof_feldkirch",
     "shop": "farm",
     "latitude": 47.2265467,
-    "longitude": 9.5707072
+    "longitude": 9.5707072,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

@@ -4,21 +4,29 @@
     "retailer": "angelsport_kinzl_richard",
     "shop": "fishing",
     "latitude": 48.1584603,
-    "longitude": 12.839506
+    "longitude": 12.839506,
+    "postcode": "5122",
+    "city": "Hochburg-Ach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Antikladl",
     "retailer": "antikladl",
     "shop": "antiques",
     "latitude": 48.1568971,
-    "longitude": 12.8319829
+    "longitude": 12.8319829,
+    "postcode": "84489",
+    "city": "Burghausen"
   },
   {
     "name": "Art-Tig Tattoo",
     "retailer": "art_tig_tattoo",
     "shop": "tattoo",
     "latitude": 48.1557818,
-    "longitude": 12.830494
+    "longitude": 12.830494,
+    "postcode": "84489",
+    "city": "Burghausen"
   },
   {
     "name": "Auszeit",
@@ -46,28 +54,36 @@
     "retailer": "backerei_ployer",
     "shop": "bakery",
     "latitude": 48.1575308,
-    "longitude": 12.8351641
+    "longitude": 12.8351641,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dekoRaum",
     "retailer": "dekoraum",
     "shop": "interior_decoration",
     "latitude": 48.1560712,
-    "longitude": 12.8311315
+    "longitude": 12.8311315,
+    "postcode": "84489",
+    "city": "Burghausen"
   },
   {
     "name": "Feinkost Ployer",
     "retailer": "feinkost_ployer",
     "shop": "deli",
     "latitude": 48.1570906,
-    "longitude": 12.8397815
+    "longitude": 12.8397815,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "frische markt am Bichl",
     "retailer": "frische_markt_am_bichl",
     "shop": "convenience",
     "latitude": 48.15571,
-    "longitude": 12.8306432
+    "longitude": 12.8306432,
+    "postcode": "84489",
+    "city": "Burghausen"
   },
   {
     "name": "Glaspunkt",
@@ -81,14 +97,18 @@
     "retailer": "gustl_grau",
     "shop": "clothes",
     "latitude": 48.1559615,
-    "longitude": 12.8309834
+    "longitude": 12.8309834,
+    "postcode": "84489",
+    "city": "Burghausen"
   },
   {
     "name": "haut.farbe tatustudio",
     "retailer": "haut_farbe_tatustudio",
     "shop": "tattoo",
     "latitude": 48.1571071,
-    "longitude": 12.8322428
+    "longitude": 12.8322428,
+    "postcode": "84489",
+    "city": "Burghausen"
   },
   {
     "name": "Isabella's Kruschladen",
@@ -109,21 +129,29 @@
     "retailer": "meine_welt_laden_burghausen",
     "shop": "convenience",
     "latitude": 48.1571277,
-    "longitude": 12.8324655
+    "longitude": 12.8324655,
+    "postcode": "84489",
+    "city": "Burghausen"
   },
   {
     "name": "Metzgerei Habl",
     "retailer": "metzgerei_habl",
     "shop": "butcher",
     "latitude": 48.1586918,
-    "longitude": 12.8395075
+    "longitude": 12.8395075,
+    "postcode": "5122",
+    "city": "Hochburg-Ach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mode Mayer",
     "retailer": "mode_mayer",
     "shop": "clothes",
     "latitude": 48.1581373,
-    "longitude": 12.8322535
+    "longitude": 12.8322535,
+    "postcode": "84489",
+    "city": "Burghausen"
   },
   {
     "name": "Mode Mayer (Männer Mode)",
@@ -137,7 +165,9 @@
     "retailer": "ofenmacher_baugesellschaft_m_b_h",
     "shop": "trade",
     "latitude": 48.1534376,
-    "longitude": 12.8398261
+    "longitude": 12.8398261,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Oliver Habel",
@@ -158,7 +188,9 @@
     "retailer": "pete_kilkenny",
     "shop": "art",
     "latitude": 48.1561675,
-    "longitude": 12.8310118
+    "longitude": 12.8310118,
+    "postcode": "84489",
+    "city": "Burghausen"
   },
   {
     "name": "Sabine Steinberger Malerei Grafik-Design",
@@ -179,14 +211,20 @@
     "retailer": "schuh_schi_tennis_daum",
     "shop": "sports",
     "latitude": 48.157777,
-    "longitude": 12.8353
+    "longitude": 12.8353,
+    "postcode": "5122",
+    "city": "Hochburg-Ach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schusserl",
     "retailer": "schusserl",
     "shop": "toys",
     "latitude": 48.1568155,
-    "longitude": 12.8318585
+    "longitude": 12.8318585,
+    "postcode": "84489",
+    "city": "Burghausen"
   },
   {
     "name": "Spar",
@@ -194,34 +232,46 @@
     "shop": "supermarket",
     "latitude": 48.1571442,
     "longitude": 12.838848,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5122",
+    "city": "Hochburg-Ach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 48.1570948,
-    "longitude": 12.8397385
+    "longitude": 12.8397385,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Whisky & more",
     "retailer": "tabak_whisky_und_more",
     "shop": "kiosk",
     "latitude": 48.1557307,
-    "longitude": 12.83041
+    "longitude": 12.83041,
+    "postcode": "84489",
+    "city": "Burghausen"
   },
   {
     "name": "Ute Schmidt",
     "retailer": "ute_schmidt",
     "shop": "jewelry",
     "latitude": 48.1573273,
-    "longitude": 12.8324745
+    "longitude": 12.8324745,
+    "postcode": "84489",
+    "city": "Burghausen"
   },
   {
     "name": "Vintage Audio",
     "retailer": "vintage_audio",
     "shop": "hifi",
     "latitude": 48.1569797,
-    "longitude": 12.8320924
+    "longitude": 12.8320924,
+    "postcode": "84489",
+    "city": "Burghausen"
   }
 ]

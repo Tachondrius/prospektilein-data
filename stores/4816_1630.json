@@ -5,7 +5,11 @@
     "shop": "bakery",
     "latitude": 48.1672825,
     "longitude": 16.3080036,
-    "brand": "Anker"
+    "brand": "Anker",
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 48.16698,
     "longitude": 16.3041378,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa Now",
@@ -21,7 +29,9 @@
     "shop": "convenience",
     "latitude": 48.1605215,
     "longitude": 16.3094507,
-    "brand": "Billa Now"
+    "brand": "Billa Now",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -29,14 +39,20 @@
     "shop": "chemist",
     "latitude": 48.1677489,
     "longitude": 16.3050419,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen Schuster Wien",
     "retailer": "blumen_schuster_wien",
     "shop": "florist",
     "latitude": 48.1614721,
-    "longitude": 16.3033329
+    "longitude": 16.3033329,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fahrradwerkstatt Flickschuh",
@@ -44,49 +60,71 @@
     "shop": "bicycle",
     "latitude": 48.1672454,
     "longitude": 16.3082309,
-    "brand": "Grätzlrad"
+    "brand": "Grätzlrad",
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Farben Ruhser",
     "retailer": "farben_ruhser",
     "shop": "paint",
     "latitude": 48.1688556,
-    "longitude": 16.3025688
+    "longitude": 16.3025688,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Funny Hooks",
     "retailer": "funny_hooks",
     "shop": "fabric",
     "latitude": 48.167849,
-    "longitude": 16.3054316
+    "longitude": 16.3054316,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hetzendorfer Drinks & Oils",
     "retailer": "hetzendorfer_drinks_und_oils",
     "shop": "supermarket",
     "latitude": 48.1677372,
-    "longitude": 16.3059022
+    "longitude": 16.3059022,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Karin Knapp",
     "retailer": "karin_knapp",
     "shop": "jewelry",
     "latitude": 48.1672689,
-    "longitude": 16.3081594
+    "longitude": 16.3081594,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Naturfusspflege - Naturfriseur",
     "retailer": "naturfusspflege_naturfriseur",
     "shop": "beauty",
     "latitude": 48.1674941,
-    "longitude": 16.307968
+    "longitude": 16.307968,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Secondhandsome",
     "retailer": "secondhandsome",
     "shop": "clothes",
     "latitude": 48.1675546,
-    "longitude": 16.3070393
+    "longitude": 16.3070393,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -94,34 +132,50 @@
     "shop": "supermarket",
     "latitude": 48.1675829,
     "longitude": 16.30487,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabaktrafik",
     "retailer": "tabaktrafik",
     "shop": "tobacco",
     "latitude": 48.1672999,
-    "longitude": 16.3095872
+    "longitude": 16.3095872,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tailor",
     "retailer": "shop_tailor",
     "shop": "tailor",
     "latitude": 48.1678668,
-    "longitude": 16.3053377
+    "longitude": 16.3053377,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trend Hair",
     "retailer": "trend_hair",
     "shop": "hairdresser",
     "latitude": 48.1676573,
-    "longitude": 16.3065275
+    "longitude": 16.3065275,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ziegelbauer Küchen à la carte",
     "retailer": "ziegelbauer_kuchen_a_la_carte",
     "shop": "kitchen",
     "latitude": 48.1674159,
-    "longitude": 16.3084604
+    "longitude": 16.3084604,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

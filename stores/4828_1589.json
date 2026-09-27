@@ -4,20 +4,28 @@
     "retailer": "agri_farm",
     "shop": "agrarian",
     "latitude": 48.2803591,
-    "longitude": 15.8921772
+    "longitude": 15.8921772,
+    "postcode": "3451",
+    "city": "Michelndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Karosserieklinik Marschall",
     "retailer": "karosserieklinik_marschall",
     "shop": "car_repair",
     "latitude": 48.2890813,
-    "longitude": 15.8921595
+    "longitude": 15.8921595,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sailer Poolherum",
     "retailer": "sailer_poolherum",
     "shop": "swimming_pool",
     "latitude": 48.2896246,
-    "longitude": 15.8952627
+    "longitude": 15.8952627,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

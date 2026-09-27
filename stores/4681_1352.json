@@ -5,34 +5,46 @@
     "shop": "supermarket",
     "latitude": 46.8194501,
     "longitude": 13.5228216,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9871",
+    "city": "Seeboden am Millstätter See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofladele Santlerhof",
     "retailer": "hofladele_santlerhof",
     "shop": "farm",
     "latitude": 46.8179128,
-    "longitude": 13.5217821
+    "longitude": 13.5217821,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sport Point",
     "retailer": "sport_point",
     "shop": "rental",
     "latitude": 46.8150556,
-    "longitude": 13.522337
+    "longitude": 13.522337,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Studio H-Schnitt",
     "retailer": "studio_h_schnitt",
     "shop": "hairdresser",
     "latitude": 46.8190652,
-    "longitude": 13.5217499
+    "longitude": 13.5217499,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "T&G",
     "retailer": "t_und_g",
     "shop": "supermarket",
     "latitude": 46.8178035,
-    "longitude": 13.5289407
+    "longitude": 13.5289407,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -4,77 +4,108 @@
     "retailer": "altes_kino",
     "shop": "outdoor",
     "latitude": 46.9732394,
-    "longitude": 15.4997253
+    "longitude": 15.4997253,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Best of Spirits",
     "retailer": "best_of_spirits",
     "shop": "books",
     "latitude": 46.9718056,
-    "longitude": 15.49499
+    "longitude": 15.49499,
+    "postcode": "8072",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Black Arms",
     "retailer": "black_arms",
     "shop": "weapons",
     "latitude": 46.9732453,
-    "longitude": 15.4990371
+    "longitude": 15.4990371,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Carp Center",
     "retailer": "carp_center",
     "shop": "outdoor",
     "latitude": 46.9718784,
-    "longitude": 15.4952629
+    "longitude": 15.4952629,
+    "postcode": "8072",
+    "city": "Fernitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fahrradladen Fernitz",
     "retailer": "fahrradladen_fernitz",
     "shop": "bicycle",
     "latitude": 46.9723384,
-    "longitude": 15.4974076
+    "longitude": 15.4974076,
+    "postcode": "8072",
+    "city": "Fernitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Trimi",
     "retailer": "friseur_trimi",
     "shop": "hairdresser",
     "latitude": 46.9723583,
-    "longitude": 15.4975093
+    "longitude": 15.4975093,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.9739074,
-    "longitude": 15.4992103
+    "longitude": 15.4992103,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kölbl Blumen",
     "retailer": "kolbl_blumen",
     "shop": "garden_centre",
     "latitude": 46.9719546,
-    "longitude": 15.4954121
+    "longitude": 15.4954121,
+    "postcode": "8072",
+    "city": "Fernitz-Mellach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NagelNeu",
     "retailer": "nagelneu",
     "shop": "beauty",
     "latitude": 46.9732083,
-    "longitude": 15.4990717
+    "longitude": 15.4990717,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reformhaus naturita",
     "retailer": "reformhaus_naturita",
     "shop": "health_food",
     "latitude": 46.9722354,
-    "longitude": 15.4963412
+    "longitude": 15.4963412,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Selbstbedienungshütte Kurzmann (vulgo Köppel)",
     "retailer": "selbstbedienungshutte_kurzmann_vulgo_koppel",
     "shop": "farm",
     "latitude": 46.9712162,
-    "longitude": 15.4992338
+    "longitude": 15.4992338,
+    "postcode": "8072",
+    "city": "Fernitz-Mellach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -82,41 +113,59 @@
     "shop": "supermarket",
     "latitude": 46.971788,
     "longitude": 15.4943781,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8072",
+    "city": "Fernitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Steiner",
     "retailer": "steiner",
     "shop": "bakery",
     "latitude": 46.9725417,
-    "longitude": 15.4975679
+    "longitude": 15.4975679,
+    "postcode": "8072",
+    "city": "Fernitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.9727914,
-    "longitude": 15.4995792
+    "longitude": 15.4995792,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "VEGA NOVA - Fernitz",
     "retailer": "vega_nova_fernitz",
     "shop": "shoes",
     "latitude": 46.9718997,
-    "longitude": 15.4949245
+    "longitude": 15.4949245,
+    "postcode": "8072",
+    "city": "Fernitz-Mellach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "VENIER  Wollgeschäft",
     "retailer": "venier_wollgeschaft",
     "shop": "wool",
     "latitude": 46.9721705,
-    "longitude": 15.4965004
+    "longitude": 15.4965004,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wholesale",
     "retailer": "shop_wholesale",
     "shop": "wholesale",
     "latitude": 46.9746741,
-    "longitude": 15.4997205
+    "longitude": 15.4997205,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

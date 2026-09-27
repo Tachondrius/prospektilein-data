@@ -5,14 +5,20 @@
     "shop": "houseware",
     "latitude": 48.5180093,
     "longitude": 15.4850265,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schuhe Mold",
     "retailer": "schuhe_mold",
     "shop": "shoes",
     "latitude": 48.5172418,
-    "longitude": 15.4870292
+    "longitude": 15.4870292,
+    "postcode": "3542",
+    "city": "Gföhl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -20,13 +26,17 @@
     "shop": "supermarket",
     "latitude": 48.5178976,
     "longitude": 15.4852792,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zierlinger, Elektriker",
     "retailer": "zierlinger_elektriker",
     "shop": "electronics",
     "latitude": 48.5166598,
-    "longitude": 15.4893944
+    "longitude": 15.4893944,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

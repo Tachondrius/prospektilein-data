@@ -4,14 +4,20 @@
     "retailer": "atz_muhlenhof_radvit",
     "shop": "bicycle",
     "latitude": 48.7558976,
-    "longitude": 15.1990759
+    "longitude": 15.1990759,
+    "postcode": "3902",
+    "city": "Vitis",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hochleitner GmbH",
     "retailer": "hochleitner_gmbh",
     "shop": "car_repair",
     "latitude": 48.7566716,
-    "longitude": 15.1960251
+    "longitude": 15.1960251,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "HOLAS GmbH",
@@ -19,7 +25,11 @@
     "shop": "car",
     "latitude": 48.7572747,
     "longitude": 15.1925091,
-    "brand": "Seat"
+    "brand": "Seat",
+    "postcode": "3902",
+    "city": "Vitis",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -27,14 +37,18 @@
     "shop": "supermarket",
     "latitude": 48.7568637,
     "longitude": 15.1906937,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Polt GmbH,      Erdbau, Transport, Baustoffhandel",
     "retailer": "polt_gmbh_erdbau_transport_baustoffhandel",
     "shop": "trade",
     "latitude": 48.7584509,
-    "longitude": 15.1966583
+    "longitude": 15.1966583,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar Express",
@@ -42,13 +56,17 @@
     "shop": "convenience",
     "latitude": 48.756627,
     "longitude": 15.1923991,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wais",
     "retailer": "wais",
     "shop": "car",
     "latitude": 48.7557196,
-    "longitude": 15.1910568
+    "longitude": 15.1910568,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "genol",
     "shop": "fuel",
     "latitude": 47.8373638,
-    "longitude": 16.9194372
+    "longitude": 16.9194372,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lagerhaus Bau & Gartencenter",
@@ -12,7 +14,11 @@
     "shop": "doityourself",
     "latitude": 47.8380586,
     "longitude": 16.9197507,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "7132",
+    "city": "Frauenkirchen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lagerhaus Baustoffe",
@@ -20,14 +26,20 @@
     "shop": "doityourself",
     "latitude": 47.8387186,
     "longitude": 16.9191921,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Manufaktur Feinkost Rommer",
     "retailer": "manufaktur_feinkost_rommer",
     "shop": "convenience",
     "latitude": 47.8393096,
-    "longitude": 16.919903
+    "longitude": 16.919903,
+    "postcode": "7132",
+    "city": "Frauenkirchen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Peugeot",
@@ -35,6 +47,10 @@
     "shop": "car",
     "latitude": 47.8374493,
     "longitude": 16.9187891,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "7132",
+    "city": "Frauenkirchen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

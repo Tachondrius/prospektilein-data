@@ -4,7 +4,11 @@
     "retailer": "autohaus_buchl",
     "shop": "car",
     "latitude": 48.220165,
-    "longitude": 13.4983099
+    "longitude": 13.4983099,
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -12,7 +16,9 @@
     "shop": "chemist",
     "latitude": 48.2206304,
     "longitude": 13.4978107,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -20,7 +26,11 @@
     "shop": "chemist",
     "latitude": 48.2214881,
     "longitude": 13.4975142,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ernsting's family",
@@ -28,7 +38,9 @@
     "shop": "clothes",
     "latitude": 48.2203239,
     "longitude": 13.4974329,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fressnapf",
@@ -36,7 +48,9 @@
     "shop": "pet",
     "latitude": 48.2203899,
     "longitude": 13.4977647,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fussl",
@@ -44,7 +58,11 @@
     "shop": "clothes",
     "latitude": 48.220269,
     "longitude": 13.4962001,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -52,7 +70,11 @@
     "shop": "supermarket",
     "latitude": 48.2207587,
     "longitude": 13.496417,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Intersport",
@@ -60,7 +82,11 @@
     "shop": "sports",
     "latitude": 48.2211734,
     "longitude": 13.4988413,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -68,21 +94,33 @@
     "shop": "supermarket",
     "latitude": 48.2224356,
     "longitude": 13.4949919,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.2205282,
-    "longitude": 13.4976472
+    "longitude": 13.4976472,
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.2214421,
-    "longitude": 13.4981746
+    "longitude": 13.4981746,
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "New Yorker",
@@ -90,7 +128,11 @@
     "shop": "clothes",
     "latitude": 48.2215045,
     "longitude": 13.4988056,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pagro",
@@ -98,7 +140,11 @@
     "shop": "stationery",
     "latitude": 48.2215125,
     "longitude": 13.4982851,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -106,7 +152,11 @@
     "shop": "clothes",
     "latitude": 48.2215263,
     "longitude": 13.4977481,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "postcode": "4911",
+    "city": "Tumeltsham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TEDi",
@@ -114,6 +164,8 @@
     "shop": "variety_store",
     "latitude": 48.2203385,
     "longitude": 13.4973289,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

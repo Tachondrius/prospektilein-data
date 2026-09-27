@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.3486696,
     "longitude": 14.7555013,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4282",
+    "city": "Pierbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wiesinger Gmbh",
@@ -13,6 +17,8 @@
     "shop": "tyres",
     "latitude": 48.3479867,
     "longitude": 14.7582486,
-    "brand": "Wiesinger Reifen Rohre Maschinen"
+    "brand": "Wiesinger Reifen Rohre Maschinen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

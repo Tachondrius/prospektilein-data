@@ -4,34 +4,46 @@
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 47.2133247,
-    "longitude": 12.1687183
+    "longitude": 12.1687183,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 47.2135597,
-    "longitude": 12.1688846
+    "longitude": 12.1688846,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Krimmler Wasserfälle",
     "retailer": "krimmler_wasserfalle",
     "shop": "ticket",
     "latitude": 47.2107987,
-    "longitude": 12.1681961
+    "longitude": 12.1681961,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Rupertiwinkel",
     "retailer": "rupertiwinkel",
     "shop": "gift",
     "latitude": 47.2110217,
-    "longitude": 12.1681845
+    "longitude": 12.1681845,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "WasserWunderWelt",
     "retailer": "wasserwunderwelt",
     "shop": "ticket",
     "latitude": 47.2141348,
-    "longitude": 12.1694038
+    "longitude": 12.1694038,
+    "postcode": "5743",
+    "city": "Krimml",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

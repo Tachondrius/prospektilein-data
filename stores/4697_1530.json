@@ -4,20 +4,29 @@
     "retailer": "familie_konrad",
     "shop": "farm",
     "latitude": 46.9791187,
-    "longitude": 15.3044339
+    "longitude": 15.3044339,
+    "postcode": "8501",
+    "city": "Lieboch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Garden Centre",
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 46.9767181,
-    "longitude": 15.3048789
+    "longitude": 15.3048789,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Micko Pflanzenparadies",
     "retailer": "micko_pflanzenparadies",
     "shop": "garden_centre",
     "latitude": 46.9767946,
-    "longitude": 15.304423
+    "longitude": 15.304423,
+    "postcode": "8501",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,27 +4,39 @@
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.8240287,
-    "longitude": 15.2550114
+    "longitude": 15.2550114,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "SORGER Wurst- und Schickenspezialitäten",
     "retailer": "sorger_wurst_und_schickenspezialitaten",
     "shop": "butcher",
     "latitude": 46.8260962,
-    "longitude": 15.2557003
+    "longitude": 15.2557003,
+    "postcode": "8523",
+    "city": "Frauental an der Laßnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 46.8253576,
-    "longitude": 15.2557975
+    "longitude": 15.2557975,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Weingut Hainzl-Jauk",
     "retailer": "weingut_hainzl_jauk",
     "shop": "deli",
     "latitude": 46.8226058,
-    "longitude": 15.2543427
+    "longitude": 15.2543427,
+    "postcode": "8523",
+    "city": "Frauental an der Laßnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.1813865,
     "longitude": 15.6427529,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Taschnermeister Friedrich Hayden",
     "retailer": "taschnermeister_friedrich_hayden",
     "shop": "clothes",
     "latitude": 48.1878582,
-    "longitude": 15.6426565
+    "longitude": 15.6426565,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

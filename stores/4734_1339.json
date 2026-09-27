@@ -4,14 +4,18 @@
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 47.345211,
-    "longitude": 13.3913993
+    "longitude": 13.3913993,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "D‘ Bachstub’n",
     "retailer": "d_bachstubn",
     "shop": "bakery",
     "latitude": 47.3457825,
-    "longitude": 13.3916713
+    "longitude": 13.3916713,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -19,7 +23,11 @@
     "shop": "supermarket",
     "latitude": 47.3479053,
     "longitude": 13.3916076,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5542",
+    "city": "Flachau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000",
@@ -27,13 +35,19 @@
     "shop": "sports",
     "latitude": 47.3467384,
     "longitude": 13.3920952,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Taxi 3000",
     "retailer": "taxi_3000",
     "shop": "car_repair",
     "latitude": 47.3410854,
-    "longitude": 13.3945459
+    "longitude": 13.3945459,
+    "postcode": "5542",
+    "city": "Flachau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -5,48 +5,70 @@
     "shop": "supermarket",
     "latitude": 47.7029023,
     "longitude": 13.0968588,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5411",
+    "city": "Oberalm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Friseurstudio Haidrich",
     "retailer": "friseurstudio_haidrich",
     "shop": "hairdresser",
     "latitude": 47.7005213,
-    "longitude": 13.0985049
+    "longitude": 13.0985049,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Holztrattner",
     "retailer": "holztrattner",
     "shop": "bakery",
     "latitude": 47.7011429,
-    "longitude": 13.0985653
+    "longitude": 13.0985653,
+    "postcode": "5411",
+    "city": "Oberalm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Norma",
     "retailer": "norma",
     "shop": "supermarket",
     "latitude": 47.7056166,
-    "longitude": 13.0951006
+    "longitude": 13.0951006,
+    "postcode": "5411",
+    "city": "Oberalm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Ritzberger",
     "retailer": "ritzberger",
     "shop": "deli",
     "latitude": 47.7006691,
-    "longitude": 13.0983968
+    "longitude": 13.0983968,
+    "postcode": "5411",
+    "city": "Oberalm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Rudolf Hinterhofer",
     "retailer": "rudolf_hinterhofer",
     "shop": "convenience",
     "latitude": 47.7004672,
-    "longitude": 13.0989246
+    "longitude": 13.0989246,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "wohnart",
     "retailer": "wohnart",
     "shop": "kitchen",
     "latitude": 47.7005854,
-    "longitude": 13.0988656
+    "longitude": 13.0988656,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

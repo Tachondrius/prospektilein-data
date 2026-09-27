@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 48.2434682,
     "longitude": 16.1675623,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3001",
+    "city": "Mauerbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Seitner",
     "retailer": "backerei_seitner",
     "shop": "bakery",
     "latitude": 48.245769,
-    "longitude": 16.1675392
+    "longitude": 16.1675392,
+    "postcode": "3001",
+    "city": "Mauerbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

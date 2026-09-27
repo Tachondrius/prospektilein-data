@@ -4,20 +4,29 @@
     "retailer": "die_radanhanger_zentrale",
     "shop": "bicycle",
     "latitude": 47.8154348,
-    "longitude": 16.2235288
+    "longitude": 16.2235288,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Griller Shop Kovalcik Michael GmbH",
     "retailer": "griller_shop_kovalcik_michael_gmbh",
     "shop": "yes",
     "latitude": 47.8193611,
-    "longitude": 16.2208515
+    "longitude": 16.2208515,
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.8135186,
-    "longitude": 16.2291084
+    "longitude": 16.2291084,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

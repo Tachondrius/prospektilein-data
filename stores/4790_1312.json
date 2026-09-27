@@ -4,20 +4,26 @@
     "retailer": "autohaus_forsterpointner",
     "shop": "car",
     "latitude": 47.9035989,
-    "longitude": 13.1204075
+    "longitude": 13.1204075,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KTM Fahrrad und E-Bike Center",
     "retailer": "ktm_fahrrad_und_e_bike_center",
     "shop": "bicycle",
     "latitude": 47.903404,
-    "longitude": 13.1205144
+    "longitude": 13.1205144,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Werkstatt Ford",
     "retailer": "werkstatt_ford",
     "shop": "car_repair",
     "latitude": 47.9033786,
-    "longitude": 13.1202824
+    "longitude": 13.1202824,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -5,14 +5,22 @@
     "shop": "car;car_repair",
     "latitude": 47.5694607,
     "longitude": 14.2157967,
-    "brand": "Suzuki;Opel;Chevrolet"
+    "brand": "Suzuki;Opel;Chevrolet",
+    "postcode": "8940",
+    "city": "Weißenbach bei Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Automobile Knauss",
     "retailer": "automobile_knauss",
     "shop": "car;car_repair",
     "latitude": 47.5692407,
-    "longitude": 14.2150139
+    "longitude": 14.2150139,
+    "postcode": "8940",
+    "city": "Weißenbach bei Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wittwar",
@@ -20,7 +28,11 @@
     "shop": "car;car_repair",
     "latitude": 47.569214,
     "longitude": 14.2133882,
-    "brand": "Mercedes;Lancia;Jeep;Smart"
+    "brand": "Mercedes;Lancia;Jeep;Smart",
+    "postcode": "8940",
+    "city": "Weißenbach bei Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wittwar",
@@ -28,6 +40,10 @@
     "shop": "car",
     "latitude": 47.5694077,
     "longitude": 14.212956,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "8940",
+    "city": "Weißenbach bei Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

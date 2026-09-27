@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 46.5890301,
     "longitude": 13.919994,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "9580",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "lake.bike PUMP TRACK",
     "retailer": "lake_bike_pump_track",
     "shop": "rental",
     "latitude": 46.5843109,
-    "longitude": 13.9181109
+    "longitude": 13.9181109,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lakeside Bike GmbH",
     "retailer": "lakeside_bike_gmbh",
     "shop": "bicycle",
     "latitude": 46.5872285,
-    "longitude": 13.9136575
+    "longitude": 13.9136575,
+    "postcode": "9580",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

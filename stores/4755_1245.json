@@ -5,21 +5,31 @@
     "shop": "car",
     "latitude": 47.5561909,
     "longitude": 12.4581578,
-    "brand": "Peugeot;Citroën;Baic;Forthing"
+    "brand": "Peugeot;Citroën;Baic;Forthing",
+    "postcode": "6382",
+    "city": "Kirchdorf in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Service Endstrasser",
     "retailer": "elektro_service_endstrasser",
     "shop": "electronics",
     "latitude": 47.553945,
-    "longitude": 12.4538728
+    "longitude": 12.4538728,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hair Lounge",
     "retailer": "hair_lounge",
     "shop": "hairdresser",
     "latitude": 47.5536639,
-    "longitude": 12.4534943
+    "longitude": 12.4534943,
+    "postcode": "6382",
+    "city": "Kirchdorf in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -27,6 +37,8 @@
     "shop": "supermarket",
     "latitude": 47.5534564,
     "longitude": 12.4533714,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

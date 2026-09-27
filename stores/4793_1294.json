@@ -4,14 +4,18 @@
     "retailer": "ab_hof_verkauf_buchwinkler",
     "shop": "farm",
     "latitude": 47.9384161,
-    "longitude": 12.9488267
+    "longitude": 12.9488267,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Ablinger Kirchplatz",
     "retailer": "ablinger_kirchplatz",
     "shop": "butcher",
     "latitude": 47.9393951,
-    "longitude": 12.9431459
+    "longitude": 12.9431459,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -19,7 +23,11 @@
     "shop": "supermarket",
     "latitude": 47.9352945,
     "longitude": 12.9465947,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5110",
+    "city": "Oberndorf bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bipa",
@@ -27,35 +35,47 @@
     "shop": "chemist",
     "latitude": 47.9355858,
     "longitude": 12.9458558,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "5110",
+    "city": "Oberndorf bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Brandner",
     "retailer": "brandner",
     "shop": "bakery",
     "latitude": 47.9397616,
-    "longitude": 12.941485
+    "longitude": 12.941485,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "DHaring",
     "retailer": "dharing",
     "shop": "kitchen",
     "latitude": 47.9385087,
-    "longitude": 12.9428306
+    "longitude": 12.9428306,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "E-Technik Pabinger GmbH",
     "retailer": "e_technik_pabinger_gmbh",
     "shop": "electronics",
     "latitude": 47.9387701,
-    "longitude": 12.943823
+    "longitude": 12.943823,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Engelalm",
     "retailer": "engelalm",
     "shop": "gift",
     "latitude": 47.9396078,
-    "longitude": 12.9411473
+    "longitude": 12.9411473,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hartlauer",
@@ -63,7 +83,11 @@
     "shop": "electronics",
     "latitude": 47.9394027,
     "longitude": 12.9434452,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "5110",
+    "city": "Oberndorf bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -71,62 +95,84 @@
     "shop": "supermarket",
     "latitude": 47.9368827,
     "longitude": 12.9433733,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5110",
+    "city": "Oberndorf bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Höfelsauer KFZ-Technik GmbH",
     "retailer": "hofelsauer_kfz_technik_gmbh",
     "shop": "car",
     "latitude": 47.9383001,
-    "longitude": 12.9430358
+    "longitude": 12.9430358,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Höflsauer",
     "retailer": "hoflsauer",
     "shop": "car",
     "latitude": 47.9368473,
-    "longitude": 12.9444212
+    "longitude": 12.9444212,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kaserer",
     "retailer": "kaserer",
     "shop": "jewelry",
     "latitude": 47.9398174,
-    "longitude": 12.9415756
+    "longitude": 12.9415756,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mandy's Schuhladen",
     "retailer": "mandy_s_schuhladen",
     "shop": "shoes",
     "latitude": 47.9399022,
-    "longitude": 12.9430177
+    "longitude": 12.9430177,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Master Chaplin's",
     "retailer": "master_chaplin_s",
     "shop": "hairdresser",
     "latitude": 47.9396039,
-    "longitude": 12.9407077
+    "longitude": 12.9407077,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mühlbacher",
     "retailer": "muhlbacher",
     "shop": "shoes",
     "latitude": 47.9395441,
-    "longitude": 12.944595
+    "longitude": 12.944595,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schuhhaus Hager GmbH",
     "retailer": "schuhhaus_hager_gmbh",
     "shop": "shoes",
     "latitude": 47.9390646,
-    "longitude": 12.9415689
+    "longitude": 12.9415689,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "T&T Hinterholzer",
     "retailer": "t_und_t_hinterholzer",
     "shop": "department_store",
     "latitude": 47.9393978,
-    "longitude": 12.9428118
+    "longitude": 12.9428118,
+    "postcode": "5110",
+    "city": "Oberndorf bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

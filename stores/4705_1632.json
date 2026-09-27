@@ -4,14 +4,20 @@
     "retailer": "aller_hand_natur",
     "shop": "convenience",
     "latitude": 47.0558064,
-    "longitude": 16.3213401
+    "longitude": 16.3213401,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bella Italy",
     "retailer": "bella_italy",
     "shop": "clothes",
     "latitude": 47.0594828,
-    "longitude": 16.3223194
+    "longitude": 16.3223194,
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Billa",
@@ -19,84 +25,121 @@
     "shop": "supermarket",
     "latitude": 47.0582955,
     "longitude": 16.3294265,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bäckerei Wolf",
     "retailer": "backerei_wolf",
     "shop": "bakery",
     "latitude": 47.0591369,
-    "longitude": 16.3245793
+    "longitude": 16.3245793,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Elektro Bieber",
     "retailer": "elektro_bieber",
     "shop": "electronics",
     "latitude": 47.0594028,
-    "longitude": 16.3242391
+    "longitude": 16.3242391,
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Eszter Nails4You",
     "retailer": "eszter_nails4you",
     "shop": "beauty",
     "latitude": 47.0558053,
-    "longitude": 16.321121
+    "longitude": 16.321121,
+    "postcode": "7540",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Finjan Gewürze vom Naschmarkt und Tee",
     "retailer": "finjan_gewurze_vom_naschmarkt_und_tee",
     "shop": "nutrition_supplements",
     "latitude": 47.0561155,
-    "longitude": 16.321025
+    "longitude": 16.321025,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Golden Nugget",
     "retailer": "golden_nugget",
     "shop": "bookmaker",
     "latitude": 47.0594262,
-    "longitude": 16.3251291
+    "longitude": 16.3251291,
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Juwelier Nikitscher",
     "retailer": "juwelier_nikitscher",
     "shop": "jewelry",
     "latitude": 47.0590534,
-    "longitude": 16.3256481
+    "longitude": 16.3256481,
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Museum Burg Güssing",
     "retailer": "museum_burg_gussing",
     "shop": "ticket",
     "latitude": 47.0567553,
-    "longitude": 16.3229122
+    "longitude": 16.3229122,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "My Barber",
     "retailer": "my_barber",
     "shop": "hairdresser",
     "latitude": 47.0592638,
-    "longitude": 16.3247701
+    "longitude": 16.3247701,
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Näh- und Strickstübchen Willi",
     "retailer": "nah_und_strickstubchen_willi",
     "shop": "sewing",
     "latitude": 47.0593686,
-    "longitude": 16.3240442
+    "longitude": 16.3240442,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Optiker Ohrenhofer",
     "retailer": "optiker_ohrenhofer",
     "shop": "optician",
     "latitude": 47.0592301,
-    "longitude": 16.323958
+    "longitude": 16.323958,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pail Möbel",
     "retailer": "pail_mobel",
     "shop": "furniture",
     "latitude": 47.0553124,
-    "longitude": 16.3216595
+    "longitude": 16.3216595,
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Red Zac",
@@ -104,48 +147,68 @@
     "shop": "electronics",
     "latitude": 47.0592263,
     "longitude": 16.3252301,
-    "brand": "Red Zac"
+    "brand": "Red Zac",
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ring Tours Austria",
     "retailer": "ring_tours_austria",
     "shop": "travel_agency",
     "latitude": 47.0596729,
-    "longitude": 16.3245605
+    "longitude": 16.3245605,
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Stoned",
     "retailer": "stoned",
     "shop": "fashion_accessories",
     "latitude": 47.0595047,
-    "longitude": 16.3223691
+    "longitude": 16.3223691,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.0595587,
-    "longitude": 16.3259204
+    "longitude": 16.3259204,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Trafik Unger",
     "retailer": "trafik_unger",
     "shop": "kiosk",
     "latitude": 47.0592617,
-    "longitude": 16.3230383
+    "longitude": 16.3230383,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Trummer",
     "retailer": "trummer",
     "shop": "shoes",
     "latitude": 47.0594381,
-    "longitude": 16.3257339
+    "longitude": 16.3257339,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Yes",
     "retailer": "shop_yes",
     "shop": "yes",
     "latitude": 47.059995,
-    "longitude": 16.3260293
+    "longitude": 16.3260293,
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

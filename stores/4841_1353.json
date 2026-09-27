@@ -4,27 +4,37 @@
     "retailer": "backerei_konditorei_jungwirth",
     "shop": "bakery",
     "latitude": 48.4104039,
-    "longitude": 13.5366049
+    "longitude": 13.5366049,
+    "postcode": "4775",
+    "city": "Taufkirchen an der Pram",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 48.4104199,
-    "longitude": 13.5371709
+    "longitude": 13.5371709,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Moser",
     "retailer": "moser",
     "shop": "butcher",
     "latitude": 48.4104241,
-    "longitude": 13.5370714
+    "longitude": 13.5370714,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sentimento",
     "retailer": "sentimento",
     "shop": "hairdresser",
     "latitude": 48.410573,
-    "longitude": 13.5363769
+    "longitude": 13.5363769,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

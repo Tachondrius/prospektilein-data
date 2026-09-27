@@ -4,14 +4,18 @@
     "retailer": "alber_sport_check_in",
     "shop": "sports",
     "latitude": 47.1345781,
-    "longitude": 10.2730806
+    "longitude": 10.2730806,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Arlberger Bergbahnen",
     "retailer": "arlberger_bergbahnen",
     "shop": "ticket",
     "latitude": 47.1346918,
-    "longitude": 10.2731615
+    "longitude": 10.2731615,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -19,7 +23,9 @@
     "shop": "sports",
     "latitude": 47.1348555,
     "longitude": 10.2732658,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -27,6 +33,10 @@
     "shop": "sports",
     "latitude": 47.1348891,
     "longitude": 10.2729902,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6580",
+    "city": "St. Anton am Arlberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

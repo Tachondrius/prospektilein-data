@@ -5,42 +5,57 @@
     "shop": "bakery",
     "latitude": 47.2037971,
     "longitude": 10.8933443,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Birgitts Haarstudio",
     "retailer": "birgitts_haarstudio",
     "shop": "hairdresser",
     "latitude": 47.2041859,
-    "longitude": 10.8924135
+    "longitude": 10.8924135,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dress by Manu",
     "retailer": "dress_by_manu",
     "shop": "clothes",
     "latitude": 47.2025366,
-    "longitude": 10.8982104
+    "longitude": 10.8982104,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Hackl",
     "retailer": "elektro_hackl",
     "shop": "radiotechnics",
     "latitude": 47.2022515,
-    "longitude": 10.8992437
+    "longitude": 10.8992437,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Feelfree Bike Center Ötztal",
     "retailer": "feelfree_bike_center_otztal",
     "shop": "bicycle",
     "latitude": 47.2024857,
-    "longitude": 10.8909729
+    "longitude": 10.8909729,
+    "postcode": "6433",
+    "city": "Oetz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Klemens",
     "retailer": "friseur_klemens",
     "shop": "hairdresser",
     "latitude": 47.2036693,
-    "longitude": 10.8965016
+    "longitude": 10.8965016,
+    "city": "Oetz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KiK",
@@ -48,7 +63,10 @@
     "shop": "clothes",
     "latitude": 47.204394,
     "longitude": 10.8925518,
-    "brand": "KiK"
+    "brand": "KiK",
+    "city": "Oetz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KiK",
@@ -56,14 +74,21 @@
     "shop": "clothes",
     "latitude": 47.2045252,
     "longitude": 10.8922901,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "6433",
+    "city": "Oetz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MALISPORT",
     "retailer": "malisport",
     "shop": "sports",
     "latitude": 47.2030009,
-    "longitude": 10.8965597
+    "longitude": 10.8965597,
+    "postcode": "6433",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -71,7 +96,9 @@
     "shop": "supermarket",
     "latitude": 47.2037705,
     "longitude": 10.8932712,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -79,55 +106,77 @@
     "shop": "clothes",
     "latitude": 47.20258,
     "longitude": 10.8980825,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Oetztal Bäck",
     "retailer": "oetztal_back",
     "shop": "bakery",
     "latitude": 47.2040386,
-    "longitude": 10.8940243
+    "longitude": 10.8940243,
+    "postcode": "6433",
+    "city": "Oetz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Optik Pohl",
     "retailer": "optik_pohl",
     "shop": "optician",
     "latitude": 47.2041411,
-    "longitude": 10.892603
+    "longitude": 10.892603,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Outlet Ötz",
     "retailer": "outlet_otz",
     "shop": "clothes",
     "latitude": 47.2030071,
-    "longitude": 10.8968726
+    "longitude": 10.8968726,
+    "postcode": "6433",
+    "city": "Oetz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Parth Mode",
     "retailer": "parth_mode",
     "shop": "clothes",
     "latitude": 47.2032905,
-    "longitude": 10.8957065
+    "longitude": 10.8957065,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Plangger",
     "retailer": "plangger",
     "shop": "deli",
     "latitude": 47.2033787,
-    "longitude": 10.8953178
+    "longitude": 10.8953178,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reaß ’n Hof",
     "retailer": "rea_n_hof",
     "shop": "farm",
     "latitude": 47.2030604,
-    "longitude": 10.8928954
+    "longitude": 10.8928954,
+    "postcode": "6433",
+    "city": "Oetz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sophia Massage",
     "retailer": "sophia_massage",
     "shop": "massage",
     "latitude": 47.2041358,
-    "longitude": 10.8939716
+    "longitude": 10.8939716,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

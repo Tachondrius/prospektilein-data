@@ -5,21 +5,31 @@
     "shop": "car",
     "latitude": 47.3235915,
     "longitude": 13.1724979,
-    "brand": "AutoFrey"
+    "brand": "AutoFrey",
+    "postcode": "5621",
+    "city": "Sankt Veit im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.3242729,
-    "longitude": 13.1731659
+    "longitude": 13.1731659,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Dr. Vinyl Scherer Car Care Center St. Veit KG",
     "retailer": "dr_vinyl_scherer_car_care_center_st_veit_kg",
     "shop": "car_repair",
     "latitude": 47.3240519,
-    "longitude": 13.1745605
+    "longitude": 13.1745605,
+    "postcode": "5621",
+    "city": "Sankt Veit im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Forstinger",
@@ -27,14 +37,22 @@
     "shop": "car_repair",
     "latitude": 47.3237806,
     "longitude": 13.173426,
-    "brand": "Forstinger"
+    "brand": "Forstinger",
+    "postcode": "5621",
+    "city": "Sankt Veit im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Karosserie Konrad",
     "retailer": "karosserie_konrad",
     "shop": "car_repair",
     "latitude": 47.3241276,
-    "longitude": 13.1744278
+    "longitude": 13.1744278,
+    "postcode": "5621",
+    "city": "Sankt Veit im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kia Center Pongau",
@@ -42,6 +60,10 @@
     "shop": "car",
     "latitude": 47.3240436,
     "longitude": 13.174418,
-    "brand": "Kia; Isuzu"
+    "brand": "Kia; Isuzu",
+    "postcode": "5621",
+    "city": "Sankt Veit im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

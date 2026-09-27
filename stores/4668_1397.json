@@ -4,7 +4,9 @@
     "retailer": "blumen_kreativ",
     "shop": "florist",
     "latitude": 46.6848164,
-    "longitude": 13.9743233
+    "longitude": 13.9743233,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "EP Gollob",
@@ -12,14 +14,22 @@
     "shop": "electronics",
     "latitude": 46.6827073,
     "longitude": 13.9711712,
-    "brand": "EP:"
+    "brand": "EP:",
+    "postcode": "9551",
+    "city": "Steindorf am Ossiacher See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schieder",
     "retailer": "schieder",
     "shop": "bakery",
     "latitude": 46.6825183,
-    "longitude": 13.9715028
+    "longitude": 13.9715028,
+    "postcode": "9551",
+    "city": "Bodensdorf",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -27,20 +37,30 @@
     "shop": "supermarket",
     "latitude": 46.6822835,
     "longitude": 13.9706663,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9551",
+    "city": "Steindorf am Ossiacher See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.6843943,
-    "longitude": 13.9739596
+    "longitude": 13.9739596,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wernitznig",
     "retailer": "wernitznig",
     "shop": "travel_agency",
     "latitude": 46.6827704,
-    "longitude": 13.9710882
+    "longitude": 13.9710882,
+    "postcode": "9551",
+    "city": "Steindorf am Ossiacher See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.2509384,
     "longitude": 16.478332,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "IKEA",
@@ -13,7 +17,11 @@
     "shop": "furniture",
     "latitude": 48.2542329,
     "longitude": 16.4717672,
-    "brand": "IKEA"
+    "brand": "IKEA",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kia Österreich",
@@ -21,14 +29,20 @@
     "shop": "car",
     "latitude": 48.2560227,
     "longitude": 16.471766,
-    "brand": "Kia"
+    "brand": "Kia",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.2511201,
-    "longitude": 16.4772671
+    "longitude": 16.4772671,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "OBI",
@@ -36,14 +50,22 @@
     "shop": "doityourself",
     "latitude": 48.2524927,
     "longitude": 16.4707015,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Transgourmet Wien Nord",
     "retailer": "transgourmet_wien_nord",
     "shop": "wholesale",
     "latitude": 48.258791,
-    "longitude": 16.4743148
+    "longitude": 16.4743148,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Viva",
@@ -51,6 +73,8 @@
     "shop": "convenience",
     "latitude": 48.250818,
     "longitude": 16.4701941,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

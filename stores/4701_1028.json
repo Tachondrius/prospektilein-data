@@ -5,14 +5,18 @@
     "shop": "bakery",
     "latitude": 47.0109068,
     "longitude": 10.2886162,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "HighBike Testcenter",
     "retailer": "highbike_testcenter",
     "shop": "rental",
     "latitude": 47.0113626,
-    "longitude": 10.2875364
+    "longitude": 10.2875364,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -20,6 +24,8 @@
     "shop": "supermarket",
     "latitude": 47.0109255,
     "longitude": 10.2885786,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

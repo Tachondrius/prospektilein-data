@@ -4,7 +4,11 @@
     "retailer": "gerald_wolfmayr",
     "shop": "bakery",
     "latitude": 48.4850425,
-    "longitude": 13.970958
+    "longitude": 13.970958,
+    "postcode": "4121",
+    "city": "Altenfelden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Jäger",
@@ -12,6 +16,9 @@
     "shop": "car",
     "latitude": 48.4898255,
     "longitude": 13.9707379,
-    "brand": "Seat"
+    "brand": "Seat",
+    "postcode": "4121",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

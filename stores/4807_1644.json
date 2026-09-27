@@ -4,21 +4,31 @@
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.0754912,
-    "longitude": 16.446327
+    "longitude": 16.446327,
+    "postcode": "2325",
+    "city": "Himberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.0764532,
-    "longitude": 16.4472764
+    "longitude": 16.4472764,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dry Cleaning",
     "retailer": "shop_dry_cleaning",
     "shop": "dry_cleaning",
     "latitude": 48.0790357,
-    "longitude": 16.4413829
+    "longitude": 16.4413829,
+    "postcode": "2325",
+    "city": "Himberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ing. Günther Baumgartner GmbH",
@@ -26,13 +36,21 @@
     "shop": "car",
     "latitude": 48.0782125,
     "longitude": 16.4425412,
-    "brand": "Volvo"
+    "brand": "Volvo",
+    "postcode": "2325",
+    "city": "Himberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Michi's Blumenwerk",
     "retailer": "michi_s_blumenwerk",
     "shop": "florist",
     "latitude": 48.0767451,
-    "longitude": 16.4448864
+    "longitude": 16.4448864,
+    "postcode": "2325",
+    "city": "Himberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

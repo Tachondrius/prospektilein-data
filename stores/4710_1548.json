@@ -5,35 +5,54 @@
     "shop": "chemist",
     "latitude": 47.1019417,
     "longitude": 15.4809449,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8044",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischerei Rudolf Wagist",
     "retailer": "fleischerei_rudolf_wagist",
     "shop": "butcher",
     "latitude": 47.1058151,
-    "longitude": 15.4880001
+    "longitude": 15.4880001,
+    "postcode": "8044",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseurin Demut-Krenn",
     "retailer": "friseurin_demut_krenn",
     "shop": "hairdresser",
     "latitude": 47.1063962,
-    "longitude": 15.4881367
+    "longitude": 15.4881367,
+    "postcode": "8044",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kosmetiksalon Jeannette Schwab",
     "retailer": "kosmetiksalon_jeannette_schwab",
     "shop": "beauty",
     "latitude": 47.1028284,
-    "longitude": 15.4838165
+    "longitude": 15.4838165,
+    "postcode": "8044",
+    "city": "Graz-Mariatrost",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Seifenladen Naturkosmetik",
     "retailer": "seifenladen_naturkosmetik",
     "shop": "cosmetics",
     "latitude": 47.106116,
-    "longitude": 15.4879905
+    "longitude": 15.4879905,
+    "postcode": "8044",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -41,13 +60,21 @@
     "shop": "supermarket",
     "latitude": 47.1016093,
     "longitude": 15.4813315,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8044",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak-Trafik Koller",
     "retailer": "tabak_trafik_koller",
     "shop": "kiosk",
     "latitude": 47.1054008,
-    "longitude": 15.4883316
+    "longitude": 15.4883316,
+    "postcode": "8044",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

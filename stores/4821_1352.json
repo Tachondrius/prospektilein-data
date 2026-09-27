@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 48.2130577,
     "longitude": 13.5212215,
-    "brand": "Mercedes-Benz;Smart"
+    "brand": "Mercedes-Benz;Smart",
+    "postcode": "4921",
+    "city": "Hohenzell",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Würth",
@@ -13,6 +17,8 @@
     "shop": "hardware",
     "latitude": 48.2110826,
     "longitude": 13.5237517,
-    "brand": "Würth"
+    "brand": "Würth",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,14 +4,22 @@
     "retailer": "elektro_schildberger",
     "shop": "electronics",
     "latitude": 47.9555487,
-    "longitude": 14.3598301
+    "longitude": 14.3598301,
+    "postcode": "4452",
+    "city": "Ternberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kopf",
     "retailer": "kopf",
     "shop": "car_repair",
     "latitude": 47.9538239,
-    "longitude": 14.3563125
+    "longitude": 14.3563125,
+    "postcode": "4452",
+    "city": "Ternberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TK",
@@ -19,6 +27,8 @@
     "shop": "kiosk",
     "latitude": 47.9536143,
     "longitude": 14.3563829,
-    "brand": "Eni"
+    "brand": "Eni",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

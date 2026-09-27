@@ -4,49 +4,67 @@
     "retailer": "andi",
     "shop": "bakery",
     "latitude": 47.4809852,
-    "longitude": 12.0541565
+    "longitude": 12.0541565,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Balta-Akin",
     "retailer": "balta_akin",
     "shop": "convenience",
     "latitude": 47.4899269,
-    "longitude": 12.0593206
+    "longitude": 12.0593206,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dr. Jutta Ziegler",
     "retailer": "dr_jutta_ziegler",
     "shop": "pet",
     "latitude": 47.4810583,
-    "longitude": 12.0533162
+    "longitude": 12.0533162,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Druck 2000",
     "retailer": "druck_2000",
     "shop": "copyshop",
     "latitude": 47.4856199,
-    "longitude": 12.0589759
+    "longitude": 12.0589759,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farben Morscher",
     "retailer": "farben_morscher",
     "shop": "paint",
     "latitude": 47.4813936,
-    "longitude": 12.0556766
+    "longitude": 12.0556766,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ladstätter",
     "retailer": "ladstatter",
     "shop": "paint",
     "latitude": 47.489826,
-    "longitude": 12.0588459
+    "longitude": 12.0588459,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Monis Masche",
     "retailer": "monis_masche",
     "shop": "fabric",
     "latitude": 47.481995,
-    "longitude": 12.0557602
+    "longitude": 12.0557602,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Möbelix",
@@ -54,35 +72,47 @@
     "shop": "furniture",
     "latitude": 47.4806936,
     "longitude": 12.0501861,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Porsche",
     "retailer": "porsche",
     "shop": "car_repair",
     "latitude": 47.4811499,
-    "longitude": 12.0516794
+    "longitude": 12.0516794,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Porsche Inter Auto",
     "retailer": "porsche_inter_auto",
     "shop": "car",
     "latitude": 47.4809537,
-    "longitude": 12.051914
+    "longitude": 12.051914,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Renault Langebner",
     "retailer": "renault_langebner",
     "shop": "car",
     "latitude": 47.4810132,
-    "longitude": 12.0510097
+    "longitude": 12.0510097,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Stapf",
     "retailer": "stapf",
     "shop": "clothes",
     "latitude": 47.4862243,
-    "longitude": 12.0582173
+    "longitude": 12.0582173,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wörgler Farbenmarkt",
@@ -90,7 +120,11 @@
     "shop": "paint",
     "latitude": 47.4824442,
     "longitude": 12.0579939,
-    "brand": "Adler"
+    "brand": "Adler",
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth Hochenburger Baumarkt",
@@ -98,7 +132,9 @@
     "shop": "doityourself",
     "latitude": 47.4836612,
     "longitude": 12.0585418,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -106,6 +142,8 @@
     "shop": "trade",
     "latitude": 47.4833108,
     "longitude": 12.057845,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

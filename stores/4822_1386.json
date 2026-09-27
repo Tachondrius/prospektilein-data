@@ -5,20 +5,30 @@
     "shop": "car",
     "latitude": 48.2203868,
     "longitude": 13.8607531,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "4707",
+    "city": "Schlüßlberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "INNLAN Informationssysteme e.U.",
     "retailer": "innlan_informationssysteme_e_u",
     "shop": "computer",
     "latitude": 48.2229659,
-    "longitude": 13.8671714
+    "longitude": 13.8671714,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schnittcode",
     "retailer": "schnittcode",
     "shop": "hairdresser",
     "latitude": 48.2226692,
-    "longitude": 13.8671763
+    "longitude": 13.8671763,
+    "postcode": "4707",
+    "city": "Schlüßlberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

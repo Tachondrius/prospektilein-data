@@ -4,7 +4,9 @@
     "retailer": "familie_scholler",
     "shop": "florist",
     "latitude": 47.8258122,
-    "longitude": 16.1596274
+    "longitude": 16.1596274,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.8257563,
     "longitude": 16.1595644,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2721",
+    "city": "Brunn an der Schneebergbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

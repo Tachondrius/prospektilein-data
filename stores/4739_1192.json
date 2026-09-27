@@ -4,20 +4,30 @@
     "retailer": "schi_und_sportshop_alpbachtal",
     "shop": "ski",
     "latitude": 47.3961658,
-    "longitude": 11.925456
+    "longitude": 11.925456,
+    "postcode": "6236",
+    "city": "Alpbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Shell KFZ - Technik Zellner Gottfried",
     "retailer": "shell_kfz_technik_zellner_gottfried",
     "shop": "car_repair",
     "latitude": 47.3966782,
-    "longitude": 11.9222364
+    "longitude": 11.9222364,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "SiJo Elektrotechnik",
     "retailer": "sijo_elektrotechnik",
     "shop": "electronics",
     "latitude": 47.3961229,
-    "longitude": 11.9262477
+    "longitude": 11.9262477,
+    "postcode": "6236",
+    "city": "Alpbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

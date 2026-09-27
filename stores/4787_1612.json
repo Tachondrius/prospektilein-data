@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.8725893,
     "longitude": 16.123178,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2753",
+    "city": "Markt Piesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,34 +17,54 @@
     "shop": "chemist",
     "latitude": 47.8730516,
     "longitude": 16.1271117,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2753",
+    "city": "Markt Piesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dorfladenbox",
     "retailer": "dorfladenbox",
     "shop": "farm",
     "latitude": 47.8737414,
-    "longitude": 16.1264139
+    "longitude": 16.1264139,
+    "postcode": "2753",
+    "city": "Markt Piesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stationery",
     "retailer": "shop_stationery",
     "shop": "stationery",
     "latitude": 47.8729292,
-    "longitude": 16.1276145
+    "longitude": 16.1276145,
+    "postcode": "2753",
+    "city": "Markt Piesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tom`s Frichbackstube",
     "retailer": "tom_s_frichbackstube",
     "shop": "bakery",
     "latitude": 47.8726001,
-    "longitude": 16.1285586
+    "longitude": 16.1285586,
+    "postcode": "2753",
+    "city": "Markt Piesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zagler Konditorei-Bäckerei",
     "retailer": "zagler_konditorei_backerei",
     "shop": "bakery",
     "latitude": 47.8729059,
-    "longitude": 16.1291483
+    "longitude": 16.1291483,
+    "postcode": "2753",
+    "city": "Markt Piesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

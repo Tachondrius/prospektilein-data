@@ -4,7 +4,11 @@
     "retailer": "24h_ab_hof_standl",
     "shop": "farm",
     "latitude": 48.3194475,
-    "longitude": 14.4630424
+    "longitude": 14.4630424,
+    "postcode": "4209",
+    "city": "Engerwitzdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -12,13 +16,21 @@
     "shop": "supermarket",
     "latitude": 48.3199734,
     "longitude": 14.4697658,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4223",
+    "city": "Katsdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofladen Mayrhofer",
     "retailer": "hofladen_mayrhofer",
     "shop": "agrarian",
     "latitude": 48.3195358,
-    "longitude": 14.4628691
+    "longitude": 14.4628691,
+    "postcode": "4209",
+    "city": "Engerwitzdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

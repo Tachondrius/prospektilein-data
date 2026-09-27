@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 48.0704641,
     "longitude": 14.0531691,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4642",
+    "city": "Sattledt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lorian Hair Salon",
     "retailer": "lorian_hair_salon",
     "shop": "hairdresser",
     "latitude": 48.0732461,
-    "longitude": 14.0578685
+    "longitude": 14.0578685,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -20,35 +26,53 @@
     "shop": "clothes",
     "latitude": 48.0723393,
     "longitude": 14.053645,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "4642",
+    "city": "Sattledt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Orthotechnik Falkensammer",
     "retailer": "orthotechnik_falkensammer",
     "shop": "medical_supply",
     "latitude": 48.0721685,
-    "longitude": 14.0533563
+    "longitude": 14.0533563,
+    "postcode": "4642",
+    "city": "Sattledt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spatt Werkzeughandel",
     "retailer": "spatt_werkzeughandel",
     "shop": "hardware",
     "latitude": 48.0768695,
-    "longitude": 14.051598
+    "longitude": 14.051598,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Strasser",
     "retailer": "strasser",
     "shop": "butcher",
     "latitude": 48.0740415,
-    "longitude": 14.0557477
+    "longitude": 14.0557477,
+    "postcode": "4642",
+    "city": "Sattledt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik Zoni Doris",
     "retailer": "trafik_zoni_doris",
     "shop": "tobacco",
     "latitude": 48.0732856,
-    "longitude": 14.0592334
+    "longitude": 14.0592334,
+    "postcode": "4642",
+    "city": "Sattledt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Turmöl",
@@ -56,13 +80,21 @@
     "shop": "convenience",
     "latitude": 48.0731359,
     "longitude": 14.0519183,
-    "brand": "Turmöl"
+    "brand": "Turmöl",
+    "postcode": "4642",
+    "city": "Sattledt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wurzelwerk",
     "retailer": "wurzelwerk",
     "shop": "florist",
     "latitude": 48.0738875,
-    "longitude": 14.0561747
+    "longitude": 14.0561747,
+    "postcode": "4642",
+    "city": "Sattledt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

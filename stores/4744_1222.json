@@ -4,20 +4,30 @@
     "retailer": "gerberei_trachtenmode_johann_niederkofler",
     "shop": "clothes",
     "latitude": 47.4428974,
-    "longitude": 12.2262545
+    "longitude": 12.2262545,
+    "postcode": "6364",
+    "city": "Brixen im Thale",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lagerhaus Brixen-Westendorf",
     "retailer": "lagerhaus_brixen_westendorf",
     "shop": "hardware",
     "latitude": 47.4415646,
-    "longitude": 12.2237075
+    "longitude": 12.2237075,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schermer",
     "retailer": "schermer",
     "shop": "car_repair",
     "latitude": 47.4423555,
-    "longitude": 12.2258302
+    "longitude": 12.2258302,
+    "postcode": "6364",
+    "city": "Brixen im Thale",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

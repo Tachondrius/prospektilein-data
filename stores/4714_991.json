@@ -4,13 +4,19 @@
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.1485992,
-    "longitude": 9.9103383
+    "longitude": 9.9103383,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar Markt Jenny",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 47.1454999,
-    "longitude": 9.9154543
+    "longitude": 9.9154543,
+    "postcode": "6751",
+    "city": "Innerbraz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

@@ -4,20 +4,30 @@
     "retailer": "backerei_ursprunger",
     "shop": "bakery",
     "latitude": 47.6968767,
-    "longitude": 13.1307897
+    "longitude": 13.1307897,
+    "postcode": "5421",
+    "city": "Adnet",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gimpl",
     "retailer": "gimpl",
     "shop": "car_repair",
     "latitude": 47.6985284,
-    "longitude": 13.1304787
+    "longitude": 13.1304787,
+    "postcode": "5421",
+    "city": "Adnet",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kamm In",
     "retailer": "kamm_in",
     "shop": "hairdresser",
     "latitude": 47.6964253,
-    "longitude": 13.1319862
+    "longitude": 13.1319862,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

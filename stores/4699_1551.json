@@ -5,48 +5,72 @@
     "shop": "supermarket",
     "latitude": 46.9932065,
     "longitude": 15.5165557,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "DAN Küchen",
     "retailer": "dan_kuchen",
     "shop": "kitchen",
     "latitude": 46.9913919,
-    "longitude": 15.5135912
+    "longitude": 15.5135912,
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gartencenter Neuhold",
     "retailer": "gartencenter_neuhold",
     "shop": "garden_centre",
     "latitude": 46.9918806,
-    "longitude": 15.5139855
+    "longitude": 15.5139855,
+    "postcode": "8071",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 46.9904558,
-    "longitude": 15.5115438
+    "longitude": 15.5115438,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nici's Friseurstudio",
     "retailer": "nici_s_friseurstudio",
     "shop": "hairdresser",
     "latitude": 46.9915858,
-    "longitude": 15.5138822
+    "longitude": 15.5138822,
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sorger",
     "retailer": "sorger",
     "shop": "bakery",
     "latitude": 46.9905361,
-    "longitude": 15.5109375
+    "longitude": 15.5109375,
+    "postcode": "8071",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tom's Tattoo World - Hausmannstätten",
     "retailer": "tom_s_tattoo_world_hausmannstatten",
     "shop": "tattoo",
     "latitude": 46.990333,
-    "longitude": 15.512039
+    "longitude": 15.512039,
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

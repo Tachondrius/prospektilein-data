@@ -5,13 +5,19 @@
     "shop": "sports",
     "latitude": 47.0109686,
     "longitude": 11.1550387,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.0108897,
-    "longitude": 11.1547561
+    "longitude": 11.1547561,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

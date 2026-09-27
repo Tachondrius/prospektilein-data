@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.1613993,
     "longitude": 16.2649021,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fachgeschäft Lehner",
     "retailer": "fachgeschaft_lehner",
     "shop": "garden_centre",
     "latitude": 48.1664676,
-    "longitude": 16.2672184
+    "longitude": 16.2672184,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "backerei_stocklauser",
     "shop": "bakery",
     "latitude": 47.0869176,
-    "longitude": 13.9807747
+    "longitude": 13.9807747,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.0886712,
     "longitude": 13.9830189,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "8862",
+    "city": "Stadl-Predlitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

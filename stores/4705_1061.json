@@ -5,14 +5,18 @@
     "shop": "bakery",
     "latitude": 47.0534852,
     "longitude": 10.6133705,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haarstudio Katrin",
     "retailer": "haarstudio_katrin",
     "shop": "hairdresser",
     "latitude": 47.0555934,
-    "longitude": 10.6196849
+    "longitude": 10.6196849,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -20,7 +24,9 @@
     "shop": "sports",
     "latitude": 47.0570802,
     "longitude": 10.6140136,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -28,41 +34,57 @@
     "shop": "supermarket",
     "latitude": 47.0535065,
     "longitude": 10.6133344,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Petra",
     "retailer": "salon_petra",
     "shop": "hairdresser",
     "latitude": 47.0558594,
-    "longitude": 10.6165494
+    "longitude": 10.6165494,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schmid",
     "retailer": "schmid",
     "shop": "sports",
     "latitude": 47.0567768,
-    "longitude": 10.6147798
+    "longitude": 10.6147798,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Shop- Talstation",
     "retailer": "shop_talstation",
     "shop": "ticket",
     "latitude": 47.0569081,
-    "longitude": 10.6137978
+    "longitude": 10.6137978,
+    "postcode": "6533",
+    "city": "Fiss",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T&G",
     "retailer": "t_und_g",
     "shop": "beverages",
     "latitude": 47.0544829,
-    "longitude": 10.6188184
+    "longitude": 10.6188184,
+    "postcode": "6533",
+    "city": "Fiss",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Trafik Lamm",
     "retailer": "tabak_trafik_lamm",
     "shop": "tobacco",
     "latitude": 47.0553743,
-    "longitude": 10.6193607
+    "longitude": 10.6193607,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

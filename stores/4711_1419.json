@@ -5,14 +5,18 @@
     "shop": "shoes",
     "latitude": 47.1108362,
     "longitude": 14.1913534,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "epm-sports",
     "retailer": "epm_sports",
     "shop": "sports",
     "latitude": 47.1108362,
-    "longitude": 14.1904721
+    "longitude": 14.1904721,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fussl",
@@ -20,7 +24,9 @@
     "shop": "clothes",
     "latitude": 47.1108764,
     "longitude": 14.191153,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Libro",
@@ -28,7 +34,9 @@
     "shop": "books",
     "latitude": 47.1107079,
     "longitude": 14.1913976,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -36,7 +44,9 @@
     "shop": "clothes",
     "latitude": 47.110752,
     "longitude": 14.1911559,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Takko Fashion",
@@ -44,6 +54,8 @@
     "shop": "clothes",
     "latitude": 47.1107219,
     "longitude": 14.1915744,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

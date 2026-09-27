@@ -4,77 +4,109 @@
     "retailer": "autohaus_huber",
     "shop": "car_repair",
     "latitude": 47.2352391,
-    "longitude": 11.8831382
+    "longitude": 11.8831382,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 47.2323914,
-    "longitude": 11.8814284
+    "longitude": 11.8814284,
+    "postcode": "6280",
+    "city": "Zell am Ziller",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "EZEB",
     "retailer": "ezeb",
     "shop": "bakery",
     "latitude": 47.231682,
-    "longitude": 11.8847868
+    "longitude": 11.8847868,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gasser",
     "retailer": "gasser",
     "shop": "butcher",
     "latitude": 47.2317775,
-    "longitude": 11.8847612
+    "longitude": 11.8847612,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gredler",
     "retailer": "gredler",
     "shop": "clothes",
     "latitude": 47.2343873,
-    "longitude": 11.8803424
+    "longitude": 11.8803424,
+    "postcode": "6280",
+    "city": "Zell am Ziller",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Huber",
     "retailer": "huber",
     "shop": "car",
     "latitude": 47.2356064,
-    "longitude": 11.8800075
+    "longitude": 11.8800075,
+    "postcode": "6277",
+    "city": "Zellberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport Strasser",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 47.2336322,
-    "longitude": 11.882504
+    "longitude": 11.882504,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Massage Fachinstitut Gredler",
     "retailer": "massage_fachinstitut_gredler",
     "shop": "massage",
     "latitude": 47.2336731,
-    "longitude": 11.8873239
+    "longitude": 11.8873239,
+    "postcode": "6280",
+    "city": "Zell am Ziller",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Möbel Gruber",
     "retailer": "mobel_gruber",
     "shop": "furniture",
     "latitude": 47.2348118,
-    "longitude": 11.8887224
+    "longitude": 11.8887224,
+    "postcode": "6280",
+    "city": "Zell am Ziller",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Optik Amor",
     "retailer": "optik_amor",
     "shop": "optician",
     "latitude": 47.234262,
-    "longitude": 11.880476
+    "longitude": 11.880476,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rebellen-Alm",
     "retailer": "rebellen_alm",
     "shop": "cheese",
     "latitude": 47.2357991,
-    "longitude": 11.8834734
+    "longitude": 11.8834734,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -82,13 +114,19 @@
     "shop": "supermarket",
     "latitude": 47.2362343,
     "longitude": 11.8849006,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Strasser",
     "retailer": "strasser",
     "shop": "bakery",
     "latitude": 47.2331216,
-    "longitude": 11.8816828
+    "longitude": 11.8816828,
+    "postcode": "6280",
+    "city": "Zell am Ziller",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

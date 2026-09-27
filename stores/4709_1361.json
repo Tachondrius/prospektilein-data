@@ -5,13 +5,19 @@
     "shop": "car",
     "latitude": 47.0962542,
     "longitude": 13.6142584,
-    "brand": "Opel;Mercedes;Subaru;Suzuki"
+    "brand": "Opel;Mercedes;Subaru;Suzuki",
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.0962635,
-    "longitude": 13.6140985
+    "longitude": 13.6140985,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

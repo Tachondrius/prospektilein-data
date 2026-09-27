@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.5664604,
     "longitude": 14.9557052,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3920",
+    "city": "Groß Gerungs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wiltschkos Hofladen",
     "retailer": "wiltschkos_hofladen",
     "shop": "farm",
     "latitude": 48.5670452,
-    "longitude": 14.9562392
+    "longitude": 14.9562392,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

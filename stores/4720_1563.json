@@ -4,21 +4,31 @@
     "retailer": "braveart",
     "shop": "tattoo",
     "latitude": 47.2048762,
-    "longitude": 15.6378269
+    "longitude": 15.6378269,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Die Neuen",
     "retailer": "die_neuen",
     "shop": "bathroom_furnishing",
     "latitude": 47.2085547,
-    "longitude": 15.6322594
+    "longitude": 15.6322594,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Die Putzerei",
     "retailer": "die_putzerei",
     "shop": "laundry",
     "latitude": 47.2074686,
-    "longitude": 15.6387269
+    "longitude": 15.6387269,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -26,7 +36,11 @@
     "shop": "chemist",
     "latitude": 47.2073869,
     "longitude": 15.6384883,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fressnapf",
@@ -34,7 +48,11 @@
     "shop": "pet",
     "latitude": 47.2054613,
     "longitude": 15.6398978,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -42,7 +60,11 @@
     "shop": "supermarket",
     "latitude": 47.2056984,
     "longitude": 15.6397014,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Interspar",
@@ -50,14 +72,22 @@
     "shop": "supermarket",
     "latitude": 47.2076463,
     "longitude": 15.6383414,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "doityourself",
     "latitude": 47.2091911,
-    "longitude": 15.6330548
+    "longitude": 15.6330548,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mercedes Harb",
@@ -65,7 +95,11 @@
     "shop": "car",
     "latitude": 47.2049374,
     "longitude": 15.6343491,
-    "brand": "Mercedes-Benz;KIA"
+    "brand": "Mercedes-Benz;KIA",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Penny",
@@ -73,14 +107,22 @@
     "shop": "supermarket",
     "latitude": 47.2063183,
     "longitude": 15.6378979,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pichler&Partner Auto GmbH",
     "retailer": "pichler_und_partner_auto_gmbh",
     "shop": "car",
     "latitude": 47.2050773,
-    "longitude": 15.6380756
+    "longitude": 15.6380756,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Seat Harb",
@@ -88,7 +130,11 @@
     "shop": "car",
     "latitude": 47.2048044,
     "longitude": 15.6330657,
-    "brand": "Seat"
+    "brand": "Seat",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Toyota",
@@ -96,7 +142,9 @@
     "shop": "car",
     "latitude": 47.2060489,
     "longitude": 15.6371025,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "VOGL + CO Weiz",
@@ -104,13 +152,21 @@
     "shop": "car",
     "latitude": 47.2041812,
     "longitude": 15.6343992,
-    "brand": "Renault"
+    "brand": "Renault",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ÖBAU Reisinger",
     "retailer": "obau_reisinger",
     "shop": "doityourself",
     "latitude": 47.2080011,
-    "longitude": 15.633081
+    "longitude": 15.633081,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,20 +4,30 @@
     "retailer": "donaushop",
     "shop": "gift",
     "latitude": 48.240421,
-    "longitude": 16.4100122
+    "longitude": 16.4100122,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gärtnerei Bioschanze",
     "retailer": "gartnerei_bioschanze",
     "shop": "farm",
     "latitude": 48.2484119,
-    "longitude": 16.419037
+    "longitude": 16.419037,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "KFZ Ströck",
     "retailer": "kfz_strock",
     "shop": "car_repair",
     "latitude": 48.2490149,
-    "longitude": 16.4137056
+    "longitude": 16.4137056,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

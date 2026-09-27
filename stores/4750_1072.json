@@ -5,13 +5,19 @@
     "shop": "car",
     "latitude": 47.5002625,
     "longitude": 10.7207657,
-    "brand": "Audi;VW"
+    "brand": "Audi;VW",
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schweiger",
     "retailer": "schweiger",
     "shop": "car",
     "latitude": 47.5013276,
-    "longitude": 10.7208988
+    "longitude": 10.7208988,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

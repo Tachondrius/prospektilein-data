@@ -4,49 +4,69 @@
     "retailer": "bestattung_neunkirchen",
     "shop": "funeral_directors",
     "latitude": 47.7171427,
-    "longitude": 16.0367461
+    "longitude": 16.0367461,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bestattung Stranz",
     "retailer": "bestattung_stranz",
     "shop": "funeral_directors",
     "latitude": 47.7144999,
-    "longitude": 16.0340889
+    "longitude": 16.0340889,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 47.7194869,
-    "longitude": 16.0326881
+    "longitude": 16.0326881,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
     "retailer": "bipa",
     "shop": "chemist",
     "latitude": 47.7177181,
-    "longitude": 16.0371216
+    "longitude": 16.0371216,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Brautmode Hanzlik",
     "retailer": "brautmode_hanzlik",
     "shop": "clothes",
     "latitude": 47.714597,
-    "longitude": 16.0342556
+    "longitude": 16.0342556,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Casa del Vino",
     "retailer": "casa_del_vino",
     "shop": "wine",
     "latitude": 47.712412,
-    "longitude": 16.0306927
+    "longitude": 16.0306927,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dietmayer",
     "retailer": "dietmayer",
     "shop": "bakery",
     "latitude": 47.7167352,
-    "longitude": 16.0361776
+    "longitude": 16.0361776,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -54,70 +74,102 @@
     "shop": "supermarket",
     "latitude": 47.7102389,
     "longitude": 16.0396058,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "House of Shaves",
     "retailer": "house_of_shaves",
     "shop": "hairdresser",
     "latitude": 47.7166324,
-    "longitude": 16.0389465
+    "longitude": 16.0389465,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.7171762,
-    "longitude": 16.0377922
+    "longitude": 16.0377922,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.7149495,
-    "longitude": 16.0354602
+    "longitude": 16.0354602,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Optik Mario Gradwohl",
     "retailer": "optik_mario_gradwohl",
     "shop": "optician",
     "latitude": 47.7160717,
-    "longitude": 16.0382524
+    "longitude": 16.0382524,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PoleDreams",
     "retailer": "poledreams",
     "shop": "sports",
     "latitude": 47.7111984,
-    "longitude": 16.0399852
+    "longitude": 16.0399852,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reifen Schober",
     "retailer": "reifen_schober",
     "shop": "tyres",
     "latitude": 47.7145766,
-    "longitude": 16.037106
+    "longitude": 16.037106,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Scherz-Kogelbauer",
     "retailer": "scherz_kogelbauer",
     "shop": "books",
     "latitude": 47.71601,
-    "longitude": 16.0354053
+    "longitude": 16.0354053,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schlief",
     "retailer": "schlief",
     "shop": "bakery",
     "latitude": 47.7163191,
-    "longitude": 16.0384183
+    "longitude": 16.0384183,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Seidl Fleischereihandwerk",
     "retailer": "seidl_fleischereihandwerk",
     "shop": "butcher",
     "latitude": 47.716393,
-    "longitude": 16.0389003
+    "longitude": 16.0389003,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -125,20 +177,26 @@
     "shop": "supermarket",
     "latitude": 47.714076,
     "longitude": 16.0385372,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.7168859,
-    "longitude": 16.0305626
+    "longitude": 16.0305626,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zahor",
     "retailer": "zahor",
     "shop": "jewelry",
     "latitude": 47.7168341,
-    "longitude": 16.0392917
+    "longitude": 16.0392917,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

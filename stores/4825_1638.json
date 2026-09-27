@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 48.2598723,
     "longitude": 16.3877341,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "City KFZ Technik",
     "retailer": "city_kfz_technik",
     "shop": "motorcycle",
     "latitude": 48.259277,
-    "longitude": 16.3897764
+    "longitude": 16.3897764,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

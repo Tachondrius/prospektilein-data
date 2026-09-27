@@ -4,14 +4,18 @@
     "retailer": "hair_well",
     "shop": "hairdresser",
     "latitude": 48.6738182,
-    "longitude": 15.6518352
+    "longitude": 15.6518352,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.6701791,
-    "longitude": 15.6587181
+    "longitude": 15.6587181,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -19,6 +23,8 @@
     "shop": "supermarket",
     "latitude": 48.6759735,
     "longitude": 15.6500868,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,14 +4,22 @@
     "retailer": "alarm_team",
     "shop": "electrical",
     "latitude": 48.2383782,
-    "longitude": 16.4880728
+    "longitude": 16.4880728,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Aufsperrdienst Donaustadt",
     "retailer": "aufsperrdienst_donaustadt",
     "shop": "locksmith",
     "latitude": 48.2370705,
-    "longitude": 16.4864091
+    "longitude": 16.4864091,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -19,35 +27,53 @@
     "shop": "supermarket",
     "latitude": 48.237126,
     "longitude": 16.4864142,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Elektro Burdis",
     "retailer": "elektro_burdis",
     "shop": "electrical",
     "latitude": 48.2391152,
-    "longitude": 16.4850611
+    "longitude": 16.4850611,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Friseur & Nagelstudio B",
     "retailer": "friseur_und_nagelstudio_b",
     "shop": "hairdresser",
     "latitude": 48.2377122,
-    "longitude": 16.4819746
+    "longitude": 16.4819746,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Geier Brot & Kaffeehaus",
     "retailer": "geier_brot_und_kaffeehaus",
     "shop": "bakery",
     "latitude": 48.2390804,
-    "longitude": 16.4849104
+    "longitude": 16.4849104,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Menzl Medizintechnik",
     "retailer": "menzl_medizintechnik",
     "shop": "medical_technology",
     "latitude": 48.2384734,
-    "longitude": 16.4870413
+    "longitude": 16.4870413,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ströck",
@@ -55,7 +81,9 @@
     "shop": "bakery",
     "latitude": 48.2334612,
     "longitude": 16.4868718,
-    "brand": "Ströck"
+    "brand": "Ströck",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabaktrafik",
@@ -63,13 +91,19 @@
     "shop": "tobacco",
     "latitude": 48.2370039,
     "longitude": 16.4864404,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Yusuf Kara Änderungsschneiderei",
     "retailer": "yusuf_kara_anderungsschneiderei",
     "shop": "tailor",
     "latitude": 48.236993,
-    "longitude": 16.4866303
+    "longitude": 16.4866303,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

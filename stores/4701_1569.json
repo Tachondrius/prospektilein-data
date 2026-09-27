@@ -4,7 +4,9 @@
     "retailer": "die_blume",
     "shop": "florist",
     "latitude": 47.0135808,
-    "longitude": 15.6937794
+    "longitude": 15.6937794,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,13 +14,18 @@
     "shop": "supermarket",
     "latitude": 47.0139743,
     "longitude": 15.6909252,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8323",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.0140704,
-    "longitude": 15.6904657
+    "longitude": 15.6904657,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

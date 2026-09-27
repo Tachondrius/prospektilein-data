@@ -4,7 +4,11 @@
     "retailer": "friseuersalon_susanne",
     "shop": "hairdresser",
     "latitude": 46.589661,
-    "longitude": 14.0182699
+    "longitude": 14.0182699,
+    "postcode": "9232",
+    "city": "Rosegg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "miniM",
@@ -12,7 +16,9 @@
     "shop": "convenience",
     "latitude": 46.5876641,
     "longitude": 14.0181294,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "MPREIS",
@@ -20,6 +26,10 @@
     "shop": "supermarket",
     "latitude": 46.588466,
     "longitude": 14.018206,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "9232",
+    "city": "Rosegg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

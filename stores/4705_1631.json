@@ -4,13 +4,19 @@
     "retailer": "freibad_gussing",
     "shop": "ticket",
     "latitude": 47.0558795,
-    "longitude": 16.3121473
+    "longitude": 16.3121473,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Teichwirtschaft Hoffmann",
     "retailer": "teichwirtschaft_hoffmann",
     "shop": "seafood",
     "latitude": 47.0544992,
-    "longitude": 16.3179678
+    "longitude": 16.3179678,
+    "postcode": "7540",
+    "city": "Güssing",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

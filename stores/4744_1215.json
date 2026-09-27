@@ -4,7 +4,9 @@
     "retailer": "b_und_b_optik",
     "shop": "optician",
     "latitude": 47.4497656,
-    "longitude": 12.1564625
+    "longitude": 12.1564625,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -12,49 +14,65 @@
     "shop": "chemist",
     "latitude": 47.4482845,
     "longitude": 12.1581966,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6361",
+    "city": "Hopfgarten im Brixental",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Buchmayr",
     "retailer": "buchmayr",
     "shop": "interior_decoration",
     "latitude": 47.4490152,
-    "longitude": 12.1595798
+    "longitude": 12.1595798,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eisenmann-Decker",
     "retailer": "eisenmann_decker",
     "shop": "paint",
     "latitude": 47.449008,
-    "longitude": 12.1591089
+    "longitude": 12.1591089,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Glas Schneider",
     "retailer": "glas_schneider",
     "shop": "frame",
     "latitude": 47.4491945,
-    "longitude": 12.1569412
+    "longitude": 12.1569412,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
     "retailer": "hofer",
     "shop": "clothes",
     "latitude": 47.4490643,
-    "longitude": 12.1572076
+    "longitude": 12.1572076,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Modegeschäft Schoela Buchmayr",
     "retailer": "modegeschaft_schoela_buchmayr",
     "shop": "clothes",
     "latitude": 47.4488308,
-    "longitude": 12.1574731
+    "longitude": 12.1574731,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Red Zac",
     "retailer": "red_zac",
     "shop": "electronics",
     "latitude": 47.4483819,
-    "longitude": 12.1578003
+    "longitude": 12.1578003,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ruetz",
@@ -62,27 +80,35 @@
     "shop": "bakery",
     "latitude": 47.4483345,
     "longitude": 12.1581454,
-    "brand": "Der Bäcker Ruetz"
+    "brand": "Der Bäcker Ruetz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "s'Blumenladl",
     "retailer": "s_blumenladl",
     "shop": "florist",
     "latitude": 47.4482821,
-    "longitude": 12.1578942
+    "longitude": 12.1578942,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T&G",
     "retailer": "t_und_g",
     "shop": "beverages",
     "latitude": 47.4497767,
-    "longitude": 12.1559425
+    "longitude": 12.1559425,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wollmann",
     "retailer": "wollmann",
     "shop": "interior_decoration",
     "latitude": 47.448142,
-    "longitude": 12.1583001
+    "longitude": 12.1583001,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

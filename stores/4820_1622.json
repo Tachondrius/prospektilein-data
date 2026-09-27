@@ -4,7 +4,11 @@
     "retailer": "autohero_showroom",
     "shop": "car",
     "latitude": 48.2073982,
-    "longitude": 16.2232606
+    "longitude": 16.2232606,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa Plus",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 48.2078263,
     "longitude": 16.2204268,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Das Futterhaus",
@@ -20,7 +28,11 @@
     "shop": "pet",
     "latitude": 48.2052417,
     "longitude": 16.2240523,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Denns BioMarkt",
@@ -28,21 +40,33 @@
     "shop": "supermarket",
     "latitude": 48.2087657,
     "longitude": 16.2240577,
-    "brand": "Denns BioMarkt"
+    "brand": "Denns BioMarkt",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Doggerie",
     "retailer": "doggerie",
     "shop": "pet",
     "latitude": 48.2054256,
-    "longitude": 16.2251805
+    "longitude": 16.2251805,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hadersdorfer Karosseriewerkstätte",
     "retailer": "hadersdorfer_karosseriewerkstatte",
     "shop": "car_repair",
     "latitude": 48.2092521,
-    "longitude": 16.2213235
+    "longitude": 16.2213235,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -50,14 +74,22 @@
     "shop": "supermarket",
     "latitude": 48.2067909,
     "longitude": 16.2228681,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "INTERSPORT Winninger",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 48.2076321,
-    "longitude": 16.2203705
+    "longitude": 16.2203705,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "JYSK",
@@ -65,42 +97,60 @@
     "shop": "furniture",
     "latitude": 48.2063217,
     "longitude": 16.2233364,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Peek&Cloppenburg",
     "retailer": "peek_und_cloppenburg",
     "shop": "clothes",
     "latitude": 48.2077013,
-    "longitude": 16.2207193
+    "longitude": 16.2207193,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Petermax",
     "retailer": "petermax",
     "shop": "furniture",
     "latitude": 48.2059752,
-    "longitude": 16.2237389
+    "longitude": 16.2237389,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "PhoneExperts",
     "retailer": "phoneexperts",
     "shop": "mobile_phone",
     "latitude": 48.2078273,
-    "longitude": 16.220081
+    "longitude": 16.220081,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Radatz Markt",
     "retailer": "radatz_markt",
     "shop": "butcher",
     "latitude": 48.2054608,
-    "longitude": 16.2247859
+    "longitude": 16.2247859,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Schrenk",
     "retailer": "schrenk",
     "shop": "florist",
     "latitude": 48.2076683,
-    "longitude": 16.2269879
+    "longitude": 16.2269879,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Scotch & Soda",
@@ -108,7 +158,9 @@
     "shop": "clothes",
     "latitude": 48.2081115,
     "longitude": 16.220195,
-    "brand": "Scotch & Soda"
+    "brand": "Scotch & Soda",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -116,6 +168,10 @@
     "shop": "supermarket",
     "latitude": 48.2077846,
     "longitude": 16.2222735,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

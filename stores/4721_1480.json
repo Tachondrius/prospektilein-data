@@ -5,7 +5,11 @@
     "shop": "chemist",
     "latitude": 47.2107394,
     "longitude": 14.8072657,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deichmann",
@@ -13,7 +17,11 @@
     "shop": "shoes",
     "latitude": 47.2107988,
     "longitude": 14.8073572,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -21,7 +29,11 @@
     "shop": "chemist",
     "latitude": 47.2104444,
     "longitude": 14.8096081,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8720",
+    "city": "Knittefeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eurospar",
@@ -29,7 +41,11 @@
     "shop": "supermarket",
     "latitude": 47.2107755,
     "longitude": 14.8081093,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fussl",
@@ -37,21 +53,30 @@
     "shop": "clothes",
     "latitude": 47.2107666,
     "longitude": 14.8075211,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Libro",
     "retailer": "libro",
     "shop": "stationery",
     "latitude": 47.2108522,
-    "longitude": 14.8078054
+    "longitude": 14.8078054,
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.2108891,
-    "longitude": 14.8078095
+    "longitude": 14.8078095,
+    "postcode": "8720",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Takko",
@@ -59,6 +84,10 @@
     "shop": "clothes",
     "latitude": 47.2106851,
     "longitude": 14.8070804,
-    "brand": "Takko"
+    "brand": "Takko",
+    "postcode": "8720",
+    "city": "Knittelfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

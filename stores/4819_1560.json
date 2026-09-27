@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 48.1975127,
     "longitude": 15.6001221,
-    "brand": "Porsche"
+    "brand": "Porsche",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Porsche",
@@ -13,7 +15,11 @@
     "shop": "car",
     "latitude": 48.1983061,
     "longitude": 15.6012249,
-    "brand": "Audi;Porsche;Seat;Volkswagen;Škoda"
+    "brand": "Audi;Porsche;Seat;Volkswagen;Škoda",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Porsche St. Pölten",
@@ -21,6 +27,10 @@
     "shop": "car",
     "latitude": 48.1989606,
     "longitude": 15.6029247,
-    "brand": "Audi;Porsche;Seat;Volkswagen;Škoda"
+    "brand": "Audi;Porsche;Seat;Volkswagen;Škoda",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

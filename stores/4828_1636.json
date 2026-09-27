@@ -4,27 +4,41 @@
     "retailer": "av_hall",
     "shop": "car",
     "latitude": 48.2839868,
-    "longitude": 16.3680823
+    "longitude": 16.3680823,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gschwindl",
     "retailer": "gschwindl",
     "shop": "car_repair",
     "latitude": 48.2857724,
-    "longitude": 16.3677884
+    "longitude": 16.3677884,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "HALE Taxi Service Wien-Strebersdorf",
     "retailer": "hale_taxi_service_wien_strebersdorf",
     "shop": "car_repair",
     "latitude": 48.2863271,
-    "longitude": 16.3663541
+    "longitude": 16.3663541,
+    "postcode": "1210",
+    "city": "Wien - Strebersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MotoCar",
     "retailer": "motocar",
     "shop": "car_repair",
     "latitude": 48.2857507,
-    "longitude": 16.3690557
+    "longitude": 16.3690557,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

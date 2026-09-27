@@ -4,14 +4,18 @@
     "retailer": "dangl_gabriela_massage",
     "shop": "massage",
     "latitude": 48.7544441,
-    "longitude": 15.1780027
+    "longitude": 15.1780027,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "FRANK Sieglinde",
     "retailer": "frank_sieglinde",
     "shop": "massage",
     "latitude": 48.7544615,
-    "longitude": 15.1780616
+    "longitude": 15.1780616,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haustechnik RLH",
@@ -19,6 +23,10 @@
     "shop": "yes",
     "latitude": 48.7567027,
     "longitude": 15.1765586,
-    "brand": "Genöl"
+    "brand": "Genöl",
+    "postcode": "3902",
+    "city": "Vitis",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

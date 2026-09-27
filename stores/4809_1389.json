@@ -5,27 +5,41 @@
     "shop": "supermarket",
     "latitude": 48.0948106,
     "longitude": 13.8954595,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4650",
+    "city": "Edt bei Lambach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stapa Schuhe",
     "retailer": "stapa_schuhe",
     "shop": "shoes",
     "latitude": 48.0975542,
-    "longitude": 13.8967305
+    "longitude": 13.8967305,
+    "postcode": "4650",
+    "city": "Edt bei Lambach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 48.097161,
-    "longitude": 13.8950846
+    "longitude": 13.8950846,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trachten Wichtlstube",
     "retailer": "trachten_wichtlstube",
     "shop": "clothes",
     "latitude": 48.0957176,
-    "longitude": 13.8937837
+    "longitude": 13.8937837,
+    "postcode": "4650",
+    "city": "Edt bei Lambach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

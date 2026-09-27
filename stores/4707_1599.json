@@ -4,14 +4,18 @@
     "retailer": "konig",
     "shop": "car_repair",
     "latitude": 47.0767141,
-    "longitude": 15.9952905
+    "longitude": 15.9952905,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kürbis & Mehr",
     "retailer": "kurbis_und_mehr",
     "shop": "farm",
     "latitude": 47.077198,
-    "longitude": 15.9954869
+    "longitude": 15.9954869,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -19,13 +23,21 @@
     "shop": "doityourself",
     "latitude": 47.0771719,
     "longitude": 15.996662,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8263",
+    "city": "Großwilfersdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah&Frisch Spörk",
     "retailer": "nah_und_frisch",
     "shop": "department_store",
     "latitude": 47.0795812,
-    "longitude": 15.993265
+    "longitude": 15.993265,
+    "postcode": "8263",
+    "city": "Großwilfersdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

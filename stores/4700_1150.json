@@ -19,7 +19,9 @@
     "retailer": "shop_car_parts",
     "shop": "car_parts",
     "latitude": 47.0075652,
-    "longitude": 11.5091357
+    "longitude": 11.5091357,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dainese",
@@ -94,7 +96,8 @@
     "retailer": "sunglasses_by_pfendt_optic",
     "shop": "optician",
     "latitude": 47.0058622,
-    "longitude": 11.5058505
+    "longitude": 11.5058505,
+    "postcode": "39041"
   },
   {
     "name": "Swarovski",
@@ -134,6 +137,8 @@
     "shop": "convenience",
     "latitude": 47.0075416,
     "longitude": 11.5092547,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "andwell_store",
     "shop": "clothes",
     "latitude": 47.2708771,
-    "longitude": 11.4041951
+    "longitude": 11.4041951,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,7 +16,9 @@
     "shop": "bakery",
     "latitude": 47.276316,
     "longitude": 11.4080139,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen B&B",
@@ -20,91 +26,135 @@
     "shop": "florist",
     "latitude": 47.278121,
     "longitude": 11.4056721,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Catullo",
     "retailer": "catullo",
     "shop": "hairdresser",
     "latitude": 47.2736597,
-    "longitude": 11.405273
+    "longitude": 11.405273,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Digital Express",
     "retailer": "digital_express",
     "shop": "copyshop",
     "latitude": 47.2748787,
-    "longitude": 11.4099749
+    "longitude": 11.4099749,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "farbmacher Der Kaffeespezialist",
     "retailer": "farbmacher_der_kaffeespezialist",
     "shop": "electronics",
     "latitude": 47.2706023,
-    "longitude": 11.4038869
+    "longitude": 11.4038869,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hörtnagl",
     "retailer": "hortnagl",
     "shop": "supermarket",
     "latitude": 47.2758568,
-    "longitude": 11.4048528
+    "longitude": 11.4048528,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Josef",
     "retailer": "josef",
     "shop": "car_repair",
     "latitude": 47.274593,
-    "longitude": 11.4095649
+    "longitude": 11.4095649,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Karusell - Die Kinderboutique",
     "retailer": "karusell_die_kinderboutique",
     "shop": "clothes",
     "latitude": 47.2747439,
-    "longitude": 11.4049457
+    "longitude": 11.4049457,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Schreiner",
     "retailer": "kfz_schreiner",
     "shop": "car_repair",
     "latitude": 47.2743279,
-    "longitude": 11.4091938
+    "longitude": 11.4091938,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.2718699,
-    "longitude": 11.4050886
+    "longitude": 11.4050886,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kurven Reich",
     "retailer": "kurven_reich",
     "shop": "clothes",
     "latitude": 47.2743499,
-    "longitude": 11.4088274
+    "longitude": 11.4088274,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Martin my drogery",
     "retailer": "martin_my_drogery",
     "shop": "chemist",
     "latitude": 47.2770085,
-    "longitude": 11.4070068
+    "longitude": 11.4070068,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Moschen",
     "retailer": "moschen",
     "shop": "bakery",
     "latitude": 47.2755498,
-    "longitude": 11.4058824
+    "longitude": 11.4058824,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Motorsport Sandra",
     "retailer": "motorsport_sandra",
     "shop": "motorcycle",
     "latitude": 47.2721258,
-    "longitude": 11.4060381
+    "longitude": 11.4060381,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -112,7 +162,11 @@
     "shop": "supermarket",
     "latitude": 47.272475,
     "longitude": 11.4085147,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -120,56 +174,84 @@
     "shop": "supermarket",
     "latitude": 47.2759132,
     "longitude": 11.4088318,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Petra",
     "retailer": "petra",
     "shop": "hairdresser",
     "latitude": 47.2725496,
-    "longitude": 11.4091695
+    "longitude": 11.4091695,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rindfleisch Reisen",
     "retailer": "rindfleisch_reisen",
     "shop": "travel_agency",
     "latitude": 47.2703124,
-    "longitude": 11.4065575
+    "longitude": 11.4065575,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Er/Sie Richard Eisner",
     "retailer": "salon_er_sie_richard_eisner",
     "shop": "hairdresser",
     "latitude": 47.2767761,
-    "longitude": 11.4073054
+    "longitude": 11.4073054,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Looksus",
     "retailer": "salon_looksus",
     "shop": "hairdresser",
     "latitude": 47.2754616,
-    "longitude": 11.4049467
+    "longitude": 11.4049467,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schi und Brettl-Werkstatt",
     "retailer": "schi_und_brettl_werkstatt",
     "shop": "sports",
     "latitude": 47.2748264,
-    "longitude": 11.4098967
+    "longitude": 11.4098967,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Soundgarage Manfred Sabath",
     "retailer": "soundgarage_manfred_sabath",
     "shop": "car_repair",
     "latitude": 47.2732759,
-    "longitude": 11.407662
+    "longitude": 11.407662,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Trafik Schenkel",
     "retailer": "tabak_trafik_schenkel",
     "shop": "kiosk",
     "latitude": 47.2768546,
-    "longitude": 11.4070249
+    "longitude": 11.4070249,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Staud",
@@ -177,14 +259,20 @@
     "shop": "tobacco",
     "latitude": 47.2728242,
     "longitude": 11.4086728,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tyrolkraft",
     "retailer": "tyrolkraft",
     "shop": "kitchen",
     "latitude": 47.2706746,
-    "longitude": 11.4039631
+    "longitude": 11.4039631,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vespa-Center Kroneder",
@@ -192,6 +280,10 @@
     "shop": "motorcycle",
     "latitude": 47.2712908,
     "longitude": 11.4048425,
-    "brand": "Vespa"
+    "brand": "Vespa",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

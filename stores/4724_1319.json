@@ -5,42 +5,56 @@
     "shop": "supermarket",
     "latitude": 47.241065,
     "longitude": 13.1957088,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.2402459,
-    "longitude": 13.1997867
+    "longitude": 13.1997867,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport Lackner",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 47.2443966,
-    "longitude": 13.1955652
+    "longitude": 13.1955652,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kassa Kieserlbahn",
     "retailer": "kassa_kieserlbahn",
     "shop": "ticket",
     "latitude": 47.2450809,
-    "longitude": 13.1951964
+    "longitude": 13.1951964,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lifestyle by Lackner",
     "retailer": "lifestyle_by_lackner",
     "shop": "clothes",
     "latitude": 47.2446017,
-    "longitude": 13.1952644
+    "longitude": 13.1952644,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000 Kendlbacher",
     "retailer": "sport_2000_kendlbacher",
     "shop": "rental",
     "latitude": 47.242329,
-    "longitude": 13.1960207
+    "longitude": 13.1960207,
+    "postcode": "5611",
+    "city": "Großarl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000 Kendlbacher",
@@ -48,13 +62,19 @@
     "shop": "sports",
     "latitude": 47.2448345,
     "longitude": 13.1951262,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "5611",
+    "city": "Großarl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Steakhaus Großarl",
     "retailer": "steakhaus_groarl",
     "shop": "deli",
     "latitude": 47.2412579,
-    "longitude": 13.1956976
+    "longitude": 13.1956976,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

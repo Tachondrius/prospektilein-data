@@ -5,7 +5,11 @@
     "shop": "variety_store",
     "latitude": 48.0865725,
     "longitude": 17.0496383,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Billa Plus",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 48.0857524,
     "longitude": 17.0477763,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Deichmann",
@@ -21,7 +29,11 @@
     "shop": "shoes",
     "latitude": 48.0867142,
     "longitude": 17.0498886,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Denns BioMarkt",
@@ -29,7 +41,9 @@
     "shop": "supermarket",
     "latitude": 48.0849868,
     "longitude": 17.0439899,
-    "brand": "Denns BioMarkt"
+    "brand": "Denns BioMarkt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "dm",
@@ -37,7 +51,11 @@
     "shop": "chemist",
     "latitude": 48.0863511,
     "longitude": 17.0490352,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ernsting's family",
@@ -45,7 +63,11 @@
     "shop": "clothes",
     "latitude": 48.0867687,
     "longitude": 17.0499849,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Eurospar",
@@ -53,14 +75,22 @@
     "shop": "supermarket",
     "latitude": 48.0862232,
     "longitude": 17.0486641,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Josef Steiner",
     "retailer": "josef_steiner",
     "shop": "furniture",
     "latitude": 48.0848972,
-    "longitude": 17.0488288
+    "longitude": 17.0488288,
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "JYSK",
@@ -68,7 +98,9 @@
     "shop": "furniture",
     "latitude": 48.0854042,
     "longitude": 17.0460163,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lidl",
@@ -76,21 +108,31 @@
     "shop": "supermarket",
     "latitude": 48.0851144,
     "longitude": 17.0455801,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.084813,
-    "longitude": 17.0432872
+    "longitude": 17.0432872,
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.0853974,
-    "longitude": 17.0466668
+    "longitude": 17.0466668,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Müller",
@@ -98,7 +140,11 @@
     "shop": "chemist",
     "latitude": 48.0855567,
     "longitude": 17.0469611,
-    "brand": "Müller"
+    "brand": "Müller",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pepco",
@@ -106,7 +152,11 @@
     "shop": "clothes",
     "latitude": 48.0864399,
     "longitude": 17.0492928,
-    "brand": "Pepco"
+    "brand": "Pepco",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "shoe4you",
@@ -114,7 +164,9 @@
     "shop": "shoes",
     "latitude": 48.0854995,
     "longitude": 17.046579,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ströck",
@@ -122,7 +174,11 @@
     "shop": "bakery",
     "latitude": 48.0864789,
     "longitude": 17.0494059,
-    "brand": "Ströck"
+    "brand": "Ströck",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "TEDi",
@@ -130,13 +186,19 @@
     "shop": "variety_store",
     "latitude": 48.0848846,
     "longitude": 17.043499,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Thomas Philipps",
     "retailer": "thomas_philipps",
     "shop": "variety_store",
     "latitude": 48.0848398,
-    "longitude": 17.0431611
+    "longitude": 17.0431611,
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -4,20 +4,30 @@
     "retailer": "auto_fun",
     "shop": "car",
     "latitude": 48.1587873,
-    "longitude": 16.4350775
+    "longitude": 16.4350775,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fötschl",
     "retailer": "fotschl",
     "shop": "garden_centre",
     "latitude": 48.1591739,
-    "longitude": 16.4340564
+    "longitude": 16.4340564,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kfz Sieger",
     "retailer": "kfz_sieger",
     "shop": "car",
     "latitude": 48.1594162,
-    "longitude": 16.4335146
+    "longitude": 16.4335146,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

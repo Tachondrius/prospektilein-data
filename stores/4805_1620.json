@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.0549038,
     "longitude": 16.2068437,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2531",
+    "city": "Gaaden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.0513357,
-    "longitude": 16.2052699
+    "longitude": 16.2052699,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

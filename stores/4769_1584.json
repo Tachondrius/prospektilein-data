@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.6957091,
     "longitude": 15.8454267,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2651",
+    "city": "Reichenau an der Rax",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -13,21 +17,29 @@
     "shop": "supermarket",
     "latitude": 47.6959081,
     "longitude": 15.844556,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2651",
+    "city": "Reichenau an der Rax",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Le petit Pâtisserie",
     "retailer": "le_petit_patisserie",
     "shop": "pastry",
     "latitude": 47.6956298,
-    "longitude": 15.8436279
+    "longitude": 15.8436279,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Modesalon Christine",
     "retailer": "modesalon_christine",
     "shop": "clothes",
     "latitude": 47.6950374,
-    "longitude": 15.8457827
+    "longitude": 15.8457827,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -35,20 +47,30 @@
     "shop": "clothes",
     "latitude": 47.6953838,
     "longitude": 15.8444614,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "2651",
+    "city": "Reichenau an der Rax",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Salvator Apotheke & Drogerie Reichenau",
     "retailer": "salvator_apotheke_und_drogerie_reichenau",
     "shop": "chemist",
     "latitude": 47.6952409,
-    "longitude": 15.845031
+    "longitude": 15.845031,
+    "postcode": "2651",
+    "city": "Reichenau an der Rax",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak-Trafik Brandstätter",
     "retailer": "tabak_trafik_brandstatter",
     "shop": "tobacco",
     "latitude": 47.6955979,
-    "longitude": 15.8437649
+    "longitude": 15.8437649,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "chemist",
     "latitude": 48.2006632,
     "longitude": 15.90036,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fussl",
@@ -13,7 +15,9 @@
     "shop": "clothes",
     "latitude": 48.2009184,
     "longitude": 15.9007085,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -21,7 +25,9 @@
     "shop": "supermarket",
     "latitude": 48.2013425,
     "longitude": 15.90036,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -29,7 +35,9 @@
     "shop": "stationery",
     "latitude": 48.2007311,
     "longitude": 15.9005908,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -37,6 +45,10 @@
     "shop": "supermarket",
     "latitude": 48.2019532,
     "longitude": 15.9004697,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "3040",
+    "city": "Neulengbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

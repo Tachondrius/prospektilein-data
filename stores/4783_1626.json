@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.8334871,
     "longitude": 16.2674778,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.8317319,
-    "longitude": 16.2650972
+    "longitude": 16.2650972,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

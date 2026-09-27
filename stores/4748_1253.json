@@ -4,70 +4,100 @@
     "retailer": "bipa",
     "shop": "chemist",
     "latitude": 47.4865408,
-    "longitude": 12.5317833
+    "longitude": 12.5317833,
+    "postcode": "6391",
+    "city": "Fieberbrunn",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Brotkultur - Cafe Mali",
     "retailer": "brotkultur_cafe_mali",
     "shop": "bakery",
     "latitude": 47.4869072,
-    "longitude": 12.5310773
+    "longitude": 12.5310773,
+    "postcode": "6391",
+    "city": "Fieberbrunn",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dödlinger Touristik",
     "retailer": "dodlinger_touristik",
     "shop": "travel_agency",
     "latitude": 47.4863961,
-    "longitude": 12.5320394
+    "longitude": 12.5320394,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fuschlberger",
     "retailer": "fuschlberger",
     "shop": "shoes",
     "latitude": 47.4875089,
-    "longitude": 12.5303217
+    "longitude": 12.5303217,
+    "postcode": "6391",
+    "city": "Fieberbrunn",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Happy Hair",
     "retailer": "happy_hair",
     "shop": "hairdresser",
     "latitude": 47.4867649,
-    "longitude": 12.5314345
+    "longitude": 12.5314345,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
     "retailer": "hofer",
     "shop": "supermarket",
     "latitude": 47.4822659,
-    "longitude": 12.5367219
+    "longitude": 12.5367219,
+    "postcode": "6391",
+    "city": "Fieberbrunn",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport Günther",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 47.487134,
-    "longitude": 12.5303278
+    "longitude": 12.5303278,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Millinger",
     "retailer": "millinger",
     "shop": "paint",
     "latitude": 47.4893553,
-    "longitude": 12.5364294
+    "longitude": 12.5364294,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Millinger Farbenhaus",
     "retailer": "millinger_farbenhaus",
     "shop": "paint",
     "latitude": 47.486972,
-    "longitude": 12.5317655
+    "longitude": 12.5317655,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "RosenECK",
     "retailer": "roseneck",
     "shop": "newsagent",
     "latitude": 47.4867163,
-    "longitude": 12.5314811
+    "longitude": 12.5314811,
+    "postcode": "6391",
+    "city": "Fieberbrunn",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -75,13 +105,19 @@
     "shop": "supermarket",
     "latitude": 47.4858939,
     "longitude": 12.5314938,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6391",
+    "city": "Fieberbrunn",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tischlermeister Eder",
     "retailer": "tischlermeister_eder",
     "shop": "furniture",
     "latitude": 47.4870158,
-    "longitude": 12.5313987
+    "longitude": 12.5313987,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "telecommunication",
     "latitude": 47.2560252,
     "longitude": 11.3259481,
-    "brand": "A1"
+    "brand": "A1",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Action",
@@ -13,14 +15,18 @@
     "shop": "variety_store",
     "latitude": 47.2561044,
     "longitude": 11.3249312,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "aus & raus",
     "retailer": "aus_und_raus",
     "shop": "variety_store",
     "latitude": 47.2561272,
-    "longitude": 11.3260551
+    "longitude": 11.3260551,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -28,7 +34,11 @@
     "shop": "bakery",
     "latitude": 47.2589953,
     "longitude": 11.3224899,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bauhaus",
@@ -36,7 +46,11 @@
     "shop": "doityourself",
     "latitude": 47.2589704,
     "longitude": 11.3206296,
-    "brand": "Bauhaus"
+    "brand": "Bauhaus",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bauhaus Drive-In",
@@ -44,7 +58,9 @@
     "shop": "doityourself",
     "latitude": 47.2586855,
     "longitude": 11.321031,
-    "brand": "Bauhaus"
+    "brand": "Bauhaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -52,7 +68,11 @@
     "shop": "chemist",
     "latitude": 47.256134,
     "longitude": 11.3267702,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "C&A",
@@ -60,14 +80,20 @@
     "shop": "clothes",
     "latitude": 47.2577032,
     "longitude": 11.3233378,
-    "brand": "C&A"
+    "brand": "C&A",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Cafe Angy",
     "retailer": "cafe_angy",
     "shop": "coffee",
     "latitude": 47.2560031,
-    "longitude": 11.32621
+    "longitude": 11.32621,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Cecil",
@@ -75,7 +101,9 @@
     "shop": "clothes",
     "latitude": 47.2560786,
     "longitude": 11.3259159,
-    "brand": "Cecil"
+    "brand": "Cecil",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "comma",
@@ -83,28 +111,38 @@
     "shop": "clothes",
     "latitude": 47.2560057,
     "longitude": 11.3257503,
-    "brand": "comma"
+    "brand": "comma",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "CYTA Einkaufszentrum Hauptgebäude",
     "retailer": "cyta_einkaufszentrum_hauptgebaude",
     "shop": "mall",
     "latitude": 47.2561099,
-    "longitude": 11.3257241
+    "longitude": 11.3257241,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Daniel's Haare",
     "retailer": "daniel_s_haare",
     "shop": "hairdresser",
     "latitude": 47.2560353,
-    "longitude": 11.3258582
+    "longitude": 11.3258582,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Danillo Moden",
     "retailer": "danillo_moden",
     "shop": "clothes",
     "latitude": 47.2561915,
-    "longitude": 11.3263235
+    "longitude": 11.3263235,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dehner",
@@ -112,7 +150,11 @@
     "shop": "garden_centre",
     "latitude": 47.2568202,
     "longitude": 11.3241177,
-    "brand": "Dehner"
+    "brand": "Dehner",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Deichmann",
@@ -120,7 +162,11 @@
     "shop": "shoes",
     "latitude": 47.2559317,
     "longitude": 11.3267111,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Depot",
@@ -128,7 +174,9 @@
     "shop": "interior_decoration",
     "latitude": 47.2558852,
     "longitude": 11.3254403,
-    "brand": "Depot"
+    "brand": "Depot",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Der Bäcker Ruetz",
@@ -136,14 +184,22 @@
     "shop": "bakery",
     "latitude": 47.2574212,
     "longitude": 11.3248837,
-    "brand": "Der Bäcker Ruetz"
+    "brand": "Der Bäcker Ruetz",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "DiTech Innsbruck",
     "retailer": "ditech_innsbruck",
     "shop": "computer",
     "latitude": 47.2562209,
-    "longitude": 11.3255667
+    "longitude": 11.3255667,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dm",
@@ -151,7 +207,11 @@
     "shop": "chemist",
     "latitude": 47.2588915,
     "longitude": 11.3235521,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Drei",
@@ -159,28 +219,38 @@
     "shop": "telecommunication",
     "latitude": 47.2561542,
     "longitude": 11.3261412,
-    "brand": "Drei"
+    "brand": "Drei",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "electronic4you",
     "retailer": "electronic4you",
     "shop": "electronics",
     "latitude": 47.2562598,
-    "longitude": 11.3260718
+    "longitude": 11.3260718,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Schuler",
     "retailer": "elektro_schuler",
     "shop": "electronics",
     "latitude": 47.2582253,
-    "longitude": 11.3219891
+    "longitude": 11.3219891,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Espresso Barista",
     "retailer": "espresso_barista",
     "shop": "coffee",
     "latitude": 47.2559383,
-    "longitude": 11.3262007
+    "longitude": 11.3262007,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eurospar",
@@ -188,21 +258,27 @@
     "shop": "supermarket",
     "latitude": 47.2559553,
     "longitude": 11.3256052,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Exzellent Cut",
     "retailer": "exzellent_cut",
     "shop": "hairdresser",
     "latitude": 47.2581772,
-    "longitude": 11.3238802
+    "longitude": 11.3238802,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Feeling Fashion Style Elements",
     "retailer": "feeling_fashion_style_elements",
     "shop": "clothes",
     "latitude": 47.255975,
-    "longitude": 11.325403
+    "longitude": 11.325403,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fressnapf",
@@ -210,7 +286,11 @@
     "shop": "pet",
     "latitude": 47.2592255,
     "longitude": 11.3230719,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fussl",
@@ -218,21 +298,31 @@
     "shop": "clothes",
     "latitude": 47.255736,
     "longitude": 11.326036,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ganner GmbH",
     "retailer": "ganner_gmbh",
     "shop": "butcher",
     "latitude": 47.2501972,
-    "longitude": 11.3266818
+    "longitude": 11.3266818,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Goldschmiede Rangger",
     "retailer": "goldschmiede_rangger",
     "shop": "jewelry",
     "latitude": 47.2549298,
-    "longitude": 11.3216814
+    "longitude": 11.3216814,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hartlauer",
@@ -240,14 +330,20 @@
     "shop": "electronics",
     "latitude": 47.2557151,
     "longitude": 11.3259579,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Heidis Sonneninsel",
     "retailer": "heidis_sonneninsel",
     "shop": "beauty",
     "latitude": 47.2587719,
-    "longitude": 11.3219645
+    "longitude": 11.3219645,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hervis",
@@ -255,7 +351,9 @@
     "shop": "sports",
     "latitude": 47.256171,
     "longitude": 11.326528,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -263,14 +361,22 @@
     "shop": "supermarket",
     "latitude": 47.2560302,
     "longitude": 11.3248867,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Holzhandel Heis Rudolf",
     "retailer": "holzhandel_heis_rudolf",
     "shop": "trade",
     "latitude": 47.2549725,
-    "longitude": 11.3263003
+    "longitude": 11.3263003,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Huber Shop",
@@ -278,7 +384,9 @@
     "shop": "clothes",
     "latitude": 47.2560504,
     "longitude": 11.3259514,
-    "brand": "Huber Shop"
+    "brand": "Huber Shop",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hunkemöller",
@@ -286,7 +394,9 @@
     "shop": "clothes",
     "latitude": 47.2560743,
     "longitude": 11.3261239,
-    "brand": "Hunkemöller"
+    "brand": "Hunkemöller",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -294,7 +404,11 @@
     "shop": "sports",
     "latitude": 47.2594019,
     "longitude": 11.3231755,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -302,7 +416,11 @@
     "shop": "sports",
     "latitude": 47.2595845,
     "longitude": 11.3229452,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KiK",
@@ -310,7 +428,11 @@
     "shop": "clothes",
     "latitude": 47.2580153,
     "longitude": 11.3231624,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Klipp",
@@ -318,14 +440,18 @@
     "shop": "hairdresser",
     "latitude": 47.2557405,
     "longitude": 11.3257976,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Laner",
     "retailer": "laner",
     "shop": "bag",
     "latitude": 47.2560578,
-    "longitude": 11.3257626
+    "longitude": 11.3257626,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Libro",
@@ -333,7 +459,9 @@
     "shop": "books",
     "latitude": 47.2558851,
     "longitude": 11.3265407,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lidl",
@@ -341,7 +469,11 @@
     "shop": "supermarket",
     "latitude": 47.2584048,
     "longitude": 11.3234575,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Magenta",
@@ -349,7 +481,9 @@
     "shop": "telecommunication",
     "latitude": 47.2561671,
     "longitude": 11.325893,
-    "brand": "Magenta"
+    "brand": "Magenta",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Manuela's Feinkost",
@@ -357,7 +491,9 @@
     "shop": "deli",
     "latitude": 47.2560367,
     "longitude": 11.3256097,
-    "brand": "Hörtnagl"
+    "brand": "Hörtnagl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MediaMarkt",
@@ -365,14 +501,20 @@
     "shop": "electronics",
     "latitude": 47.2561123,
     "longitude": 11.3266335,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Singer",
     "retailer": "metzgerei_singer",
     "shop": "butcher",
     "latitude": 47.2531434,
-    "longitude": 11.3255297
+    "longitude": 11.3255297,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Miller United Optics",
@@ -380,7 +522,9 @@
     "shop": "optician",
     "latitude": 47.2561885,
     "longitude": 11.3255917,
-    "brand": "United Optics"
+    "brand": "United Optics",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -388,7 +532,11 @@
     "shop": "supermarket",
     "latitude": 47.2591023,
     "longitude": 11.3225135,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Möbelix",
@@ -396,7 +544,11 @@
     "shop": "furniture",
     "latitude": 47.2578683,
     "longitude": 11.3243617,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Müller",
@@ -404,14 +556,18 @@
     "shop": "chemist",
     "latitude": 47.2559735,
     "longitude": 11.3266105,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nails Angels",
     "retailer": "nails_angels",
     "shop": "beauty",
     "latitude": 47.2558749,
-    "longitude": 11.32591
+    "longitude": 11.32591,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nanu-Nana",
@@ -419,7 +575,9 @@
     "shop": "gift",
     "latitude": 47.2561105,
     "longitude": 11.3263078,
-    "brand": "Nanu-Nana"
+    "brand": "Nanu-Nana",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "New Yorker",
@@ -427,7 +585,9 @@
     "shop": "clothes",
     "latitude": 47.2590413,
     "longitude": 11.3232894,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -435,7 +595,11 @@
     "shop": "clothes",
     "latitude": 47.2563148,
     "longitude": 11.3261634,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "ONLY",
@@ -443,14 +607,20 @@
     "shop": "clothes",
     "latitude": 47.2561248,
     "longitude": 11.3263963,
-    "brand": "ONLY"
+    "brand": "ONLY",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ortho 1.0",
     "retailer": "ortho_1_0",
     "shop": "medical_supply",
     "latitude": 47.258505,
-    "longitude": 11.3218599
+    "longitude": 11.3218599,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pagro",
@@ -458,7 +628,11 @@
     "shop": "stationery",
     "latitude": 47.2582928,
     "longitude": 11.3223947,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Palmers",
@@ -466,7 +640,9 @@
     "shop": "clothes",
     "latitude": 47.2559801,
     "longitude": 11.3258616,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pearle Vision",
@@ -474,42 +650,55 @@
     "shop": "optician",
     "latitude": 47.2560872,
     "longitude": 11.3261977,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Piccus",
     "retailer": "piccus",
     "shop": "mobile_phone",
     "latitude": 47.256187,
-    "longitude": 11.3261302
+    "longitude": 11.3261302,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reformhaus Martin",
     "retailer": "reformhaus_martin",
     "shop": "chemist",
     "latitude": 47.2557757,
-    "longitude": 11.3259466
+    "longitude": 11.3259466,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reisebüro Idealtours",
     "retailer": "reiseburo_idealtours",
     "shop": "travel_agency",
     "latitude": 47.2540877,
-    "longitude": 11.3233259
+    "longitude": 11.3233259,
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reither Brot",
     "retailer": "reither_brot",
     "shop": "bakery",
     "latitude": 47.2559665,
-    "longitude": 11.3259829
+    "longitude": 11.3259829,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reither Brot",
     "retailer": "reither_brot",
     "shop": "bakery",
     "latitude": 47.2589061,
-    "longitude": 11.320717
+    "longitude": 11.320717,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Riepenhausen",
@@ -517,14 +706,18 @@
     "shop": "books",
     "latitude": 47.2561473,
     "longitude": 11.3253489,
-    "brand": "Riepenhausen"
+    "brand": "Riepenhausen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "ROMA Friseurbedarf",
     "retailer": "roma_friseurbedarf",
     "shop": "cosmetics",
     "latitude": 47.2561122,
-    "longitude": 11.3256344
+    "longitude": 11.3256344,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "s.Oliver",
@@ -532,14 +725,20 @@
     "shop": "clothes",
     "latitude": 47.255749,
     "longitude": 11.326267,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Samen Schwarzenberger",
     "retailer": "samen_schwarzenberger",
     "shop": "agrarian",
     "latitude": 47.2550545,
-    "longitude": 11.3228208
+    "longitude": 11.3228208,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "shoe4you",
@@ -547,21 +746,31 @@
     "shop": "shoes",
     "latitude": 47.2591505,
     "longitude": 11.32327,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Baumgartner",
     "retailer": "sport_baumgartner",
     "shop": "sports",
     "latitude": 47.2583348,
-    "longitude": 11.3219304
+    "longitude": 11.3219304,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Steinbauer",
     "retailer": "steinbauer",
     "shop": "books",
     "latitude": 47.2563902,
-    "longitude": 11.3260694
+    "longitude": 11.3260694,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Street One",
@@ -569,14 +778,18 @@
     "shop": "clothes",
     "latitude": 47.2559978,
     "longitude": 11.3256974,
-    "brand": "Street One"
+    "brand": "Street One",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T&G",
     "retailer": "t_und_g",
     "shop": "supermarket",
     "latitude": 47.2518822,
-    "longitude": 11.3281549
+    "longitude": 11.3281549,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Fachgeschäft Günter Rust",
@@ -584,14 +797,18 @@
     "shop": "tobacco",
     "latitude": 47.2561053,
     "longitude": 11.326165,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tachezy",
     "retailer": "tachezy",
     "shop": "perfumery",
     "latitude": 47.2557623,
-    "longitude": 11.3260944
+    "longitude": 11.3260944,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Takko Fashion",
@@ -599,7 +816,11 @@
     "shop": "clothes",
     "latitude": 47.2578848,
     "longitude": 11.3225381,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tchibo",
@@ -607,7 +828,9 @@
     "shop": "coffee",
     "latitude": 47.2558093,
     "longitude": 11.3262525,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TEDi",
@@ -615,14 +838,20 @@
     "shop": "variety_store",
     "latitude": 47.2562549,
     "longitude": 11.3257929,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tingting Asiamarkt",
     "retailer": "tingting_asiamarkt",
     "shop": "supermarket",
     "latitude": 47.2577949,
-    "longitude": 11.3228055
+    "longitude": 11.3228055,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TK Maxx",
@@ -630,7 +859,11 @@
     "shop": "department_store",
     "latitude": 47.2578679,
     "longitude": 11.3231668,
-    "brand": "TK Maxx"
+    "brand": "TK Maxx",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tom Tailor",
@@ -638,14 +871,18 @@
     "shop": "clothes",
     "latitude": 47.2557742,
     "longitude": 11.3264006,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Top Fashion",
     "retailer": "top_fashion",
     "shop": "clothes",
     "latitude": 47.2561122,
-    "longitude": 11.3255927
+    "longitude": 11.3255927,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TUI",
@@ -653,28 +890,37 @@
     "shop": "travel_agency",
     "latitude": 47.2564836,
     "longitude": 11.3249142,
-    "brand": "TUI"
+    "brand": "TUI",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Uhren Outlet",
     "retailer": "uhren_outlet",
     "shop": "watches",
     "latitude": 47.2563326,
-    "longitude": 11.3248663
+    "longitude": 11.3248663,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vierklee Wettbüro",
     "retailer": "vierklee_wettburo",
     "shop": "bookmaker",
     "latitude": 47.2541256,
-    "longitude": 11.3232407
+    "longitude": 11.3232407,
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wundersocks",
     "retailer": "wundersocks",
     "shop": "clothes",
     "latitude": 47.2560466,
-    "longitude": 11.3261954
+    "longitude": 11.3261954,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zillertaler Trachtenwelt",
@@ -682,13 +928,17 @@
     "shop": "clothes",
     "latitude": 47.2556842,
     "longitude": 11.32613,
-    "brand": "Zillertaler Trachtenwelt"
+    "brand": "Zillertaler Trachtenwelt",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Änderungsschneiderei Salar",
     "retailer": "anderungsschneiderei_salar",
     "shop": "tailor",
     "latitude": 47.25616,
-    "longitude": 11.3255974
+    "longitude": 11.3255974,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

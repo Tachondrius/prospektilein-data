@@ -5,20 +5,30 @@
     "shop": "car",
     "latitude": 47.5380822,
     "longitude": 12.4422501,
-    "brand": "Ford;Kia;Suzuki"
+    "brand": "Ford;Kia;Suzuki",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eurogast Sinnesberger",
     "retailer": "eurogast_sinnesberger",
     "shop": "trade",
     "latitude": 47.5393334,
-    "longitude": 12.4423901
+    "longitude": 12.4423901,
+    "postcode": "6382",
+    "city": "Kirchdorf in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sinnesberger's Markt Halle",
     "retailer": "sinnesberger_s_markt_halle",
     "shop": "supermarket",
     "latitude": 47.5390526,
-    "longitude": 12.4426228
+    "longitude": 12.4426228,
+    "postcode": "6382",
+    "city": "Kirchdorf in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

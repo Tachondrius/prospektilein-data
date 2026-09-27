@@ -4,7 +4,11 @@
     "retailer": "michels_gartenmarkt",
     "shop": "garden_centre",
     "latitude": 48.2192923,
-    "longitude": 16.2486366
+    "longitude": 16.2486366,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -12,13 +16,19 @@
     "shop": "supermarket",
     "latitude": 48.2168298,
     "longitude": 16.2493794,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 48.2187785,
-    "longitude": 16.2484628
+    "longitude": 16.2484628,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

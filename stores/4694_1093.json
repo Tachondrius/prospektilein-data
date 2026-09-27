@@ -4,28 +4,36 @@
     "retailer": "fischer_testcenter",
     "shop": "sports",
     "latitude": 46.9421709,
-    "longitude": 10.9324773
+    "longitude": 10.9324773,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Head - Testcenter",
     "retailer": "head_testcenter",
     "shop": "sports",
     "latitude": 46.9422297,
-    "longitude": 10.9323449
+    "longitude": 10.9323449,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nordica - Testcenter",
     "retailer": "nordica_testcenter",
     "shop": "sports",
     "latitude": 46.9421985,
-    "longitude": 10.9324254
+    "longitude": 10.9324254,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salomon Shop und Teststation",
     "retailer": "salomon_shop_und_teststation",
     "shop": "sports",
     "latitude": 46.941371,
-    "longitude": 10.9326588
+    "longitude": 10.9326588,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Riml - Verleih (Atomic)",
@@ -33,20 +41,28 @@
     "shop": "sports",
     "latitude": 46.941966,
     "longitude": 10.9319533,
-    "brand": "Atomic"
+    "brand": "Atomic",
+    "postcode": "6450",
+    "city": "Sölden",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Testcenter Sölden",
     "retailer": "testcenter_solden",
     "shop": "sports",
     "latitude": 46.9423304,
-    "longitude": 10.9320525
+    "longitude": 10.9320525,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Völkl - Testcenter",
     "retailer": "volkl_testcenter",
     "shop": "sports",
     "latitude": 46.942144,
-    "longitude": 10.9325212
+    "longitude": 10.9325212,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

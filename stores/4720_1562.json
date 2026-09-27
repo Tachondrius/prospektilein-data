@@ -4,21 +4,33 @@
     "retailer": "blumen_posch",
     "shop": "florist",
     "latitude": 47.2051572,
-    "longitude": 15.6278586
+    "longitude": 15.6278586,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei-Konditorei Wachmann",
     "retailer": "backerei_konditorei_wachmann",
     "shop": "bakery",
     "latitude": 47.2043905,
-    "longitude": 15.6279161
+    "longitude": 15.6279161,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Karl Strobl",
     "retailer": "karl_strobl",
     "shop": "car_repair",
     "latitude": 47.2044559,
-    "longitude": 15.627206
+    "longitude": 15.627206,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabaktrafik",
@@ -26,6 +38,8 @@
     "shop": "tobacco",
     "latitude": 47.2062368,
     "longitude": 15.6281859,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

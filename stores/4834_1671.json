@@ -4,7 +4,9 @@
     "retailer": "bauer",
     "shop": "tiles",
     "latitude": 48.3418637,
-    "longitude": 16.7189862
+    "longitude": 16.7189862,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,27 +14,37 @@
     "shop": "supermarket",
     "latitude": 48.3411435,
     "longitude": 16.7184184,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Brigitte",
     "retailer": "brigitte",
     "shop": "florist",
     "latitude": 48.3411257,
-    "longitude": 16.7178163
+    "longitude": 16.7178163,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Möbelhaus Karner",
     "retailer": "mobelhaus_karner",
     "shop": "furniture",
     "latitude": 48.3416735,
-    "longitude": 16.7190729
+    "longitude": 16.7190729,
+    "postcode": "2230",
+    "city": "Gänserndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Thaler",
     "retailer": "thaler",
     "shop": "bakery",
     "latitude": 48.3431854,
-    "longitude": 16.7198909
+    "longitude": 16.7198909,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

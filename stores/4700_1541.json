@@ -5,7 +5,11 @@
     "shop": "doityourself",
     "latitude": 47.008182,
     "longitude": 15.4166271,
-    "brand": "Bauhaus"
+    "brand": "Bauhaus",
+    "postcode": "8054",
+    "city": "Seiersberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Dehner",
@@ -13,55 +17,77 @@
     "shop": "garden_centre",
     "latitude": 47.0097351,
     "longitude": 15.4108236,
-    "brand": "Dehner"
+    "brand": "Dehner",
+    "postcode": "8054",
+    "city": "Seiersberg-Pirka",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_repair",
     "latitude": 47.0077719,
-    "longitude": 15.4108418
+    "longitude": 15.4108418,
+    "postcode": "8054",
+    "city": "Seiersberg-Pirka",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 47.0091797,
-    "longitude": 15.4167882
+    "longitude": 15.4167882,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 47.0092141,
-    "longitude": 15.4172179
+    "longitude": 15.4172179,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 47.0092435,
-    "longitude": 15.4175863
+    "longitude": 15.4175863,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 47.0093098,
-    "longitude": 15.4163518
+    "longitude": 15.4163518,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 47.0095035,
-    "longitude": 15.4167761
+    "longitude": 15.4167761,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zgonc",
     "retailer": "zgonc",
     "shop": "hardware",
     "latitude": 47.0090699,
-    "longitude": 15.4108671
+    "longitude": 15.4108671,
+    "postcode": "8054",
+    "city": "Seiersberg/Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

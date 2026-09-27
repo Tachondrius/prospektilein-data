@@ -4,14 +4,20 @@
     "retailer": "moser",
     "shop": "tyres",
     "latitude": 47.5255075,
-    "longitude": 14.0851671
+    "longitude": 14.0851671,
+    "postcode": "8951",
+    "city": "Stainach-Pürgg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "New Holland",
     "retailer": "new_holland",
     "shop": "agrarian",
     "latitude": 47.5231583,
-    "longitude": 14.0811695
+    "longitude": 14.0811695,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar Express",
@@ -19,6 +25,8 @@
     "shop": "convenience",
     "latitude": 47.5228013,
     "longitude": 14.0835464,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

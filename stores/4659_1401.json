@@ -4,20 +4,30 @@
     "retailer": "backerei_mitsche",
     "shop": "bakery",
     "latitude": 46.5904681,
-    "longitude": 14.0185096
+    "longitude": 14.0185096,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Il Gusto - Italienische Spezialitäten",
     "retailer": "il_gusto_italienische_spezialitaten",
     "shop": "supermarket",
     "latitude": 46.5921193,
-    "longitude": 14.0196017
+    "longitude": 14.0196017,
+    "postcode": "9232",
+    "city": "Rosegg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Nostalgie Antik Shop",
     "retailer": "nostalgie_antik_shop",
     "shop": "antiques",
     "latitude": 46.592117,
-    "longitude": 14.0196688
+    "longitude": 14.0196688,
+    "postcode": "9232",
+    "city": "Rosegg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

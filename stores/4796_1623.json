@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.9662964,
     "longitude": 16.2393066,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2540",
+    "city": "Bad Vöslau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Würth",
@@ -13,6 +17,8 @@
     "shop": "hardware",
     "latitude": 47.9668362,
     "longitude": 16.2390827,
-    "brand": "Würth"
+    "brand": "Würth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

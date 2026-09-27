@@ -5,13 +5,18 @@
     "shop": "supermarket",
     "latitude": 47.6578646,
     "longitude": 16.2842458,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Doityourself",
     "retailer": "shop_doityourself",
     "shop": "doityourself",
     "latitude": 47.6580615,
-    "longitude": 16.2851212
+    "longitude": 16.2851212,
+    "postcode": "2802",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

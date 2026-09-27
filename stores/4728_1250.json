@@ -5,20 +5,32 @@
     "shop": "car",
     "latitude": 47.2860117,
     "longitude": 12.5005483,
-    "brand": "VW;Ŝkoda"
+    "brand": "VW;Ŝkoda",
+    "postcode": "5730",
+    "city": "Mittersill",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fleischhauerei Rumpold",
     "retailer": "fleischhauerei_rumpold",
     "shop": "butcher",
     "latitude": 47.28696,
-    "longitude": 12.5086702
+    "longitude": 12.5086702,
+    "postcode": "5724",
+    "city": "Stuhlfelden",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "T&G",
     "retailer": "t_und_g",
     "shop": "supermarket",
     "latitude": 47.2867236,
-    "longitude": 12.5099596
+    "longitude": 12.5099596,
+    "postcode": "5724",
+    "city": "Stuhlfelden",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

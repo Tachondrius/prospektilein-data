@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1459953,
     "longitude": 16.3913357,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen B&B",
@@ -13,34 +17,50 @@
     "shop": "florist",
     "latitude": 48.1485764,
     "longitude": 16.3963834,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Convenience",
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 48.1498731,
-    "longitude": 16.3911321
+    "longitude": 16.3911321,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.1498087,
-    "longitude": 16.391116
+    "longitude": 16.391116,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "SE&PAŞ",
     "retailer": "se_und_pas",
     "shop": "supermarket",
     "latitude": 48.146131,
-    "longitude": 16.3923544
+    "longitude": 16.3923544,
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "TOK",
     "retailer": "tok",
     "shop": "bakery",
     "latitude": 48.1457923,
-    "longitude": 16.3920183
+    "longitude": 16.3920183,
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

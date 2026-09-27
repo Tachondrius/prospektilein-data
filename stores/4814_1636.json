@@ -4,14 +4,20 @@
     "retailer": "felber",
     "shop": "bakery",
     "latitude": 48.1496893,
-    "longitude": 16.360423
+    "longitude": 16.360423,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "IG - Intergast",
     "retailer": "ig_intergast",
     "shop": "wholesale",
     "latitude": 48.1441533,
-    "longitude": 16.3600063
+    "longitude": 16.3600063,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Merbag Liesing",
@@ -19,13 +25,19 @@
     "shop": "car",
     "latitude": 48.1474435,
     "longitude": 16.3619935,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Orion Markt",
     "retailer": "orion_markt",
     "shop": "lighting",
     "latitude": 48.1466588,
-    "longitude": 16.3645498
+    "longitude": 16.3645498,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

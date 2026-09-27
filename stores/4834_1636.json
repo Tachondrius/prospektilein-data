@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.3427539,
     "longitude": 16.3660917,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2102",
+    "city": "Klein-Engersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Maritimo",
     "retailer": "maritimo",
     "shop": "boat",
     "latitude": 48.3433819,
-    "longitude": 16.366732
+    "longitude": 16.366732,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

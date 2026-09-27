@@ -4,14 +4,20 @@
     "retailer": "angelsport_hans_ljubic",
     "shop": "fishing",
     "latitude": 47.045821,
-    "longitude": 15.4332902
+    "longitude": 15.4332902,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autolackierer Christian Schenk",
     "retailer": "autolackierer_christian_schenk",
     "shop": "car_repair",
     "latitude": 47.0423209,
-    "longitude": 15.4312985
+    "longitude": 15.4312985,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -19,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 47.0476281,
     "longitude": 15.4342775,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -27,70 +37,108 @@
     "shop": "chemist",
     "latitude": 47.0456331,
     "longitude": 15.4314028,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Leitner",
     "retailer": "blumen_leitner",
     "shop": "florist",
     "latitude": 47.0409694,
-    "longitude": 15.4368863
+    "longitude": 15.4368863,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäko Österreich",
     "retailer": "bako_osterreich",
     "shop": "wholesale",
     "latitude": 47.0418291,
-    "longitude": 15.431997
+    "longitude": 15.431997,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.0422335,
-    "longitude": 15.4310411
+    "longitude": 15.4310411,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Carla & Möbelverkauf",
     "retailer": "carla_und_mobelverkauf",
     "shop": "furniture",
     "latitude": 47.0476346,
-    "longitude": 15.4332285
+    "longitude": 15.4332285,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ernst Grein Gesellschaft",
     "retailer": "ernst_grein_gesellschaft",
     "shop": "stone",
     "latitude": 47.0458067,
-    "longitude": 15.4300264
+    "longitude": 15.4300264,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseursalon Schalk",
     "retailer": "friseursalon_schalk",
     "shop": "hairdresser",
     "latitude": 47.045626,
-    "longitude": 15.432723
+    "longitude": 15.432723,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HILTI",
     "retailer": "hilti",
     "shop": "tools",
     "latitude": 47.0448855,
-    "longitude": 15.4373217
+    "longitude": 15.4373217,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Impuls Beteiligungs GmbH – KFZ-Service",
     "retailer": "impuls_beteiligungs_gmbh_kfz_service",
     "shop": "car_repair",
     "latitude": 47.0422675,
-    "longitude": 15.4308234
+    "longitude": 15.4308234,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kern",
     "retailer": "kern",
     "shop": "bakery",
     "latitude": 47.0458539,
-    "longitude": 15.4332187
+    "longitude": 15.4332187,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -98,7 +146,9 @@
     "shop": "clothes",
     "latitude": 47.0457109,
     "longitude": 15.4317936,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -106,42 +156,64 @@
     "shop": "supermarket",
     "latitude": 47.045032,
     "longitude": 15.4315496,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "l´argilla",
     "retailer": "l_argilla",
     "shop": "tiles",
     "latitude": 47.0497854,
-    "longitude": 15.4345083
+    "longitude": 15.4345083,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Marko Elektrohandels GmbH",
     "retailer": "marko_elektrohandels_gmbh",
     "shop": "electrical",
     "latitude": 47.0429516,
-    "longitude": 15.4355675
+    "longitude": 15.4355675,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MK Bikeshop",
     "retailer": "mk_bikeshop",
     "shop": "bicycle",
     "latitude": 47.0451368,
-    "longitude": 15.4319887
+    "longitude": 15.4319887,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Murauer Verkaufsshop",
     "retailer": "murauer_verkaufsshop",
     "shop": "alcohol",
     "latitude": 47.043036,
-    "longitude": 15.4368292
+    "longitude": 15.4368292,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Paar Gastronomiebedarf",
     "retailer": "paar_gastronomiebedarf",
     "shop": "wholesale",
     "latitude": 47.0483286,
-    "longitude": 15.4325669
+    "longitude": 15.4325669,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pagro",
@@ -149,13 +221,21 @@
     "shop": "stationery",
     "latitude": 47.0452076,
     "longitude": 15.4322698,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trost",
     "retailer": "trost",
     "shop": "car_repair",
     "latitude": 47.0428476,
-    "longitude": 15.4361693
+    "longitude": 15.4361693,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

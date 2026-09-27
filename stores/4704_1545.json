@@ -5,21 +5,33 @@
     "shop": "car",
     "latitude": 47.0420441,
     "longitude": 15.4579501,
-    "brand": "Fiat"
+    "brand": "Fiat",
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Boxenstop",
     "retailer": "boxenstop",
     "shop": "car_repair",
     "latitude": 47.0403421,
-    "longitude": 15.4593245
+    "longitude": 15.4593245,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.0424576,
-    "longitude": 15.4586114
+    "longitude": 15.4586114,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ford",
@@ -27,7 +39,11 @@
     "shop": "car",
     "latitude": 47.0410403,
     "longitude": 15.4555467,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ford Jagersberger",
@@ -35,7 +51,11 @@
     "shop": "car",
     "latitude": 47.0410775,
     "longitude": 15.4556046,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gady",
@@ -43,7 +63,11 @@
     "shop": "car",
     "latitude": 47.0429123,
     "longitude": 15.4575325,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gady",
@@ -51,14 +75,22 @@
     "shop": "car",
     "latitude": 47.0435455,
     "longitude": 15.4570206,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gady Family Mini Graz",
     "retailer": "gady_family_mini_graz",
     "shop": "car",
     "latitude": 47.0442199,
-    "longitude": 15.4574141
+    "longitude": 15.4574141,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -66,14 +98,20 @@
     "shop": "supermarket",
     "latitude": 47.0488427,
     "longitude": 15.4539383,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ingenieurmann",
     "retailer": "ingenieurmann",
     "shop": "car_repair",
     "latitude": 47.043326,
-    "longitude": 15.4582666
+    "longitude": 15.4582666,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lexus Service Graz",
@@ -81,7 +119,9 @@
     "shop": "car_repair",
     "latitude": 47.0430679,
     "longitude": 15.4578076,
-    "brand": "Lexus"
+    "brand": "Lexus",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -89,49 +129,73 @@
     "shop": "supermarket",
     "latitude": 47.0481083,
     "longitude": 15.4540638,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Peter Max",
     "retailer": "peter_max",
     "shop": "furniture",
     "latitude": 47.0479584,
-    "longitude": 15.4560448
+    "longitude": 15.4560448,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Preglau Fliesen, Sanitär, Kachelöfen",
     "retailer": "preglau_fliesen_sanitar_kachelofen",
     "shop": "tiles",
     "latitude": 47.042029,
-    "longitude": 15.4589193
+    "longitude": 15.4589193,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Querfeldein",
     "retailer": "querfeldein",
     "shop": "outdoor",
     "latitude": 47.0479407,
-    "longitude": 15.4556489
+    "longitude": 15.4556489,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reifen Weichberger",
     "retailer": "reifen_weichberger",
     "shop": "car_repair",
     "latitude": 47.0499504,
-    "longitude": 15.4528161
+    "longitude": 15.4528161,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Riepl",
     "retailer": "riepl",
     "shop": "car",
     "latitude": 47.0415808,
-    "longitude": 15.4589758
+    "longitude": 15.4589758,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Siggi's Shisha Shop",
     "retailer": "siggi_s_shisha_shop",
     "shop": "hookah",
     "latitude": 47.0474762,
-    "longitude": 15.4553175
+    "longitude": 15.4553175,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -139,34 +203,54 @@
     "shop": "supermarket",
     "latitude": 47.0434293,
     "longitude": 15.450151,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sturm Graz Fanshop",
     "retailer": "sturm_graz_fanshop",
     "shop": "gift",
     "latitude": 47.0471173,
-    "longitude": 15.4540115
+    "longitude": 15.4540115,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.0467635,
-    "longitude": 15.4537226
+    "longitude": 15.4537226,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.0471765,
-    "longitude": 15.4549393
+    "longitude": 15.4549393,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wurm",
     "retailer": "wurm",
     "shop": "bakery",
     "latitude": 47.0474508,
-    "longitude": 15.4550553
+    "longitude": 15.4550553,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

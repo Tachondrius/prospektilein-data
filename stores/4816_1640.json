@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 48.1661512,
     "longitude": 16.4092344,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "dm",
@@ -13,14 +15,22 @@
     "shop": "chemist",
     "latitude": 48.1663949,
     "longitude": 16.4089885,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fachmarktzentrum Gadnergasse",
     "retailer": "fachmarktzentrum_gadnergasse",
     "shop": "mall",
     "latitude": 48.1664632,
-    "longitude": 16.4086541
+    "longitude": 16.4086541,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fressnapf",
@@ -28,7 +38,9 @@
     "shop": "pet",
     "latitude": 48.1668083,
     "longitude": 16.4084855,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "KiK",
@@ -36,7 +48,9 @@
     "shop": "clothes",
     "latitude": 48.1666959,
     "longitude": 16.4086447,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "NKD",
@@ -44,7 +58,9 @@
     "shop": "clothes",
     "latitude": 48.166459,
     "longitude": 16.4089018,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Pagro",
@@ -52,7 +68,9 @@
     "shop": "stationery",
     "latitude": 48.1665446,
     "longitude": 16.4088219,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "TEDi",
@@ -60,6 +78,8 @@
     "shop": "variety_store",
     "latitude": 48.1666127,
     "longitude": 16.4087566,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

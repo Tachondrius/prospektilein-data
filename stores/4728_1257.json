@@ -4,41 +4,59 @@
     "retailer": "backerei_bacher",
     "shop": "bakery",
     "latitude": 47.2846134,
-    "longitude": 12.5719934
+    "longitude": 12.5719934,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Haberl",
     "retailer": "backerei_haberl",
     "shop": "bakery",
     "latitude": 47.2863779,
-    "longitude": 12.5712031
+    "longitude": 12.5712031,
+    "postcode": "5723",
+    "city": "Uttendorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Forster Orthopädieschuhtechnik",
     "retailer": "forster_orthopadieschuhtechnik",
     "shop": "shoes",
     "latitude": 47.2863411,
-    "longitude": 12.5722144
+    "longitude": 12.5722144,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "miniM",
     "retailer": "minim",
     "shop": "supermarket",
     "latitude": 47.2842437,
-    "longitude": 12.5719757
+    "longitude": 12.5719757,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 47.2827866,
-    "longitude": 12.5717646
+    "longitude": 12.5717646,
+    "postcode": "5723",
+    "city": "Uttendorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000 Günther",
     "retailer": "sport_2000_gunther",
     "shop": "sports",
     "latitude": 47.2828705,
-    "longitude": 12.571703
+    "longitude": 12.571703,
+    "postcode": "5723",
+    "city": "Uttendorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

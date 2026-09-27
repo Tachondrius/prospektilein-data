@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.4243201,
     "longitude": 15.0001144,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa Plus",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 47.4266906,
     "longitude": 15.0048573,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -21,7 +29,11 @@
     "shop": "chemist",
     "latitude": 47.4243002,
     "longitude": 15.0003478,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -29,7 +41,11 @@
     "shop": "chemist",
     "latitude": 47.4246103,
     "longitude": 15.0027692,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eurospar",
@@ -37,21 +53,31 @@
     "shop": "supermarket",
     "latitude": 47.424818,
     "longitude": 15.0008322,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Feiler's Design Mode",
     "retailer": "feiler_s_design_mode",
     "shop": "clothes",
     "latitude": 47.4236869,
-    "longitude": 15.0016149
+    "longitude": 15.0016149,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisur-Kosmetik-Susi",
     "retailer": "frisur_kosmetik_susi",
     "shop": "hairdresser",
     "latitude": 47.4257693,
-    "longitude": 15.0093472
+    "longitude": 15.0093472,
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hartlauer",
@@ -59,7 +85,11 @@
     "shop": "optician",
     "latitude": 47.4251989,
     "longitude": 15.0094756,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -67,7 +97,11 @@
     "shop": "supermarket",
     "latitude": 47.4243293,
     "longitude": 15.0022012,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -75,14 +109,22 @@
     "shop": "clothes",
     "latitude": 47.4246728,
     "longitude": 15.0023835,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.4254051,
-    "longitude": 15.0093865
+    "longitude": 15.0093865,
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -90,14 +132,22 @@
     "shop": "supermarket",
     "latitude": 47.4227473,
     "longitude": 15.0014693,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Messner",
     "retailer": "messner",
     "shop": "tobacco",
     "latitude": 47.4221989,
-    "longitude": 15.0095601
+    "longitude": 15.0095601,
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -105,21 +155,31 @@
     "shop": "clothes",
     "latitude": 47.4239298,
     "longitude": 15.0012909,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pacher Rainer Raumausstattungs GmbH",
     "retailer": "pacher_rainer_raumausstattungs_gmbh",
     "shop": "furniture",
     "latitude": 47.4264219,
-    "longitude": 15.0053662
+    "longitude": 15.0053662,
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Raddiele Mandler",
     "retailer": "raddiele_mandler",
     "shop": "bicycle",
     "latitude": 47.4251467,
-    "longitude": 15.0095025
+    "longitude": 15.0095025,
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -127,13 +187,21 @@
     "shop": "variety_store",
     "latitude": 47.4233661,
     "longitude": 15.0010342,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wassler",
     "retailer": "wassler",
     "shop": "optician",
     "latitude": 47.4272379,
-    "longitude": 15.0087548
+    "longitude": 15.0087548,
+    "postcode": "8793",
+    "city": "Trofaiach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

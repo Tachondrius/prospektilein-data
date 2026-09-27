@@ -5,14 +5,22 @@
     "shop": "bakery",
     "latitude": 47.3081323,
     "longitude": 11.0667391,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "BILGERI Textil GMBH",
     "retailer": "bilgeri_textil_gmbh",
     "shop": "fabric",
     "latitude": 47.3065192,
-    "longitude": 11.0682688
+    "longitude": 11.0682688,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "C&A",
@@ -20,42 +28,59 @@
     "shop": "clothes",
     "latitude": 47.3053189,
     "longitude": 11.069686,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Christiane für Haare",
     "retailer": "christiane_fur_haare",
     "shop": "hairdresser",
     "latitude": 47.3063865,
-    "longitude": 11.0693026
+    "longitude": 11.0693026,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Frechdax",
     "retailer": "frechdax",
     "shop": "toys",
     "latitude": 47.305453,
-    "longitude": 11.0699296
+    "longitude": 11.0699296,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Gabl",
     "retailer": "friseur_gabl",
     "shop": "hairdresser",
     "latitude": 47.3058707,
-    "longitude": 11.0693727
+    "longitude": 11.0693727,
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseursalon Kaya",
     "retailer": "friseursalon_kaya",
     "shop": "hairdresser",
     "latitude": 47.306157,
-    "longitude": 11.0696163
+    "longitude": 11.0696163,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "FÖGER Woman Pure",
     "retailer": "foger_woman_pure",
     "shop": "clothes",
     "latitude": 47.3063165,
-    "longitude": 11.0697542
+    "longitude": 11.0697542,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "H&M",
@@ -63,14 +88,18 @@
     "shop": "clothes",
     "latitude": 47.3051281,
     "longitude": 11.0698798,
-    "brand": "H&M"
+    "brand": "H&M",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haarwerk by Mira",
     "retailer": "haarwerk_by_mira",
     "shop": "hairdresser",
     "latitude": 47.3074317,
-    "longitude": 11.0682998
+    "longitude": 11.0682998,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haas Hagebaumarkt",
@@ -78,28 +107,42 @@
     "shop": "doityourself",
     "latitude": 47.3082212,
     "longitude": 11.0675051,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Inntal-Center",
     "retailer": "inntal_center",
     "shop": "mall",
     "latitude": 47.3048554,
-    "longitude": 11.0698964
+    "longitude": 11.0698964,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.3096362,
-    "longitude": 11.0662928
+    "longitude": 11.0662928,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.3082558,
-    "longitude": 11.0666045
+    "longitude": 11.0666045,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -107,21 +150,29 @@
     "shop": "supermarket",
     "latitude": 47.3081352,
     "longitude": 11.0666326,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "soogut",
     "retailer": "soogut",
     "shop": "convenience",
     "latitude": 47.3067571,
-    "longitude": 11.0686646
+    "longitude": 11.0686646,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabakwaren Trostberger",
     "retailer": "tabakwaren_trostberger",
     "shop": "tobacco",
     "latitude": 47.3053315,
-    "longitude": 11.0698108
+    "longitude": 11.0698108,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tom Tailor",
@@ -129,6 +180,8 @@
     "shop": "clothes",
     "latitude": 47.3051462,
     "longitude": 11.0697336,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "schnittpunkt",
     "shop": "hairdresser",
     "latitude": 48.0968109,
-    "longitude": 15.5112006
+    "longitude": 15.5112006,
+    "postcode": "3202",
+    "city": "Hofstetten-Grünau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -12,20 +16,30 @@
     "shop": "supermarket",
     "latitude": 48.0949672,
     "longitude": 15.5101698,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3202",
+    "city": "Hofstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Strohmaier",
     "retailer": "strohmaier",
     "shop": "butcher",
     "latitude": 48.0971784,
-    "longitude": 15.5110741
+    "longitude": 15.5110741,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Thomas Stiefsohn GmbH",
     "retailer": "thomas_stiefsohn_gmbh",
     "shop": "doityourself",
     "latitude": 48.098252,
-    "longitude": 15.5130422
+    "longitude": 15.5130422,
+    "postcode": "3202",
+    "city": "Hofstetten-Grünau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

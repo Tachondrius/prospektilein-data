@@ -4,21 +4,31 @@
     "retailer": "action",
     "shop": "general",
     "latitude": 48.5742523,
-    "longitude": 16.0753252
+    "longitude": 16.0753252,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Eissner GmbH",
     "retailer": "autohaus_eissner_gmbh",
     "shop": "car_repair",
     "latitude": 48.5797457,
-    "longitude": 16.0761152
+    "longitude": 16.0761152,
+    "postcode": "2020",
+    "city": "Hollabrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gantner",
     "retailer": "gantner",
     "shop": "butcher",
     "latitude": 48.5788215,
-    "longitude": 16.0737063
+    "longitude": 16.0737063,
+    "postcode": "2020",
+    "city": "Hollabrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hager",
@@ -26,7 +36,9 @@
     "shop": "car",
     "latitude": 48.5737114,
     "longitude": 16.0752201,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hager",
@@ -34,14 +46,18 @@
     "shop": "car",
     "latitude": 48.573825,
     "longitude": 16.0758316,
-    "brand": "Renault; Dacia"
+    "brand": "Renault; Dacia",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Jana",
     "retailer": "jana",
     "shop": "coffee",
     "latitude": 48.5761148,
-    "longitude": 16.0740841
+    "longitude": 16.0740841,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mayer",
@@ -49,7 +65,9 @@
     "shop": "car",
     "latitude": 48.5752802,
     "longitude": 16.0745872,
-    "brand": "Opel; Suzuki; Chevrolet"
+    "brand": "Opel; Suzuki; Chevrolet",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -57,14 +75,20 @@
     "shop": "supermarket",
     "latitude": 48.5749535,
     "longitude": 16.0751231,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2020",
+    "city": "Hollabrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "STOFFCITY",
     "retailer": "stoffcity",
     "shop": "clothes",
     "latitude": 48.5744241,
-    "longitude": 16.0752673
+    "longitude": 16.0752673,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weber",
@@ -72,7 +96,9 @@
     "shop": "car",
     "latitude": 48.5770424,
     "longitude": 16.0738611,
-    "brand": "Mercedes; Mitsubishi"
+    "brand": "Mercedes; Mitsubishi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "WÜRTH Werkzeug",
@@ -80,6 +106,8 @@
     "shop": "hardware",
     "latitude": 48.5745943,
     "longitude": 16.0752028,
-    "brand": "Würth"
+    "brand": "Würth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

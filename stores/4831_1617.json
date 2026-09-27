@@ -4,13 +4,19 @@
     "retailer": "mitsubishi_muller",
     "shop": "car",
     "latitude": 48.3124381,
-    "longitude": 16.1763374
+    "longitude": 16.1763374,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rudolf Hirsch",
     "retailer": "rudolf_hirsch",
     "shop": "car_repair",
     "latitude": 48.3128494,
-    "longitude": 16.1791055
+    "longitude": 16.1791055,
+    "postcode": "3424",
+    "city": "Zeiselmauer-Wolfpassing",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

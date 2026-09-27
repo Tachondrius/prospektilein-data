@@ -4,14 +4,21 @@
     "retailer": "backstage",
     "shop": "hairdresser",
     "latitude": 48.0487052,
-    "longitude": 13.7611513
+    "longitude": 13.7611513,
+    "postcode": "4690",
+    "city": "Schwanenstadt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Getränkeland Mathias Kepp",
     "retailer": "getrankeland_mathias_kepp",
     "shop": "wine",
     "latitude": 48.0481572,
-    "longitude": 13.7613284
+    "longitude": 13.7613284,
+    "postcode": "4690",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -19,14 +26,22 @@
     "shop": "supermarket",
     "latitude": 48.0480363,
     "longitude": 13.7636143,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4846",
+    "city": "Redlham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KFZ-Steinbichler OG",
     "retailer": "kfz_steinbichler_og",
     "shop": "car_repair",
     "latitude": 48.0465,
-    "longitude": 13.762102
+    "longitude": 13.762102,
+    "postcode": "4846",
+    "city": "Redlham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nissan",
@@ -34,7 +49,11 @@
     "shop": "car",
     "latitude": 48.0498498,
     "longitude": 13.7656893,
-    "brand": "Nissan"
+    "brand": "Nissan",
+    "postcode": "4690",
+    "city": "Schwanenstadt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny",
@@ -42,7 +61,11 @@
     "shop": "supermarket",
     "latitude": 48.049333,
     "longitude": 13.7635611,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "4690",
+    "city": "Schwanenstadt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "VW Audi Willeit",
@@ -50,6 +73,10 @@
     "shop": "car",
     "latitude": 48.0485492,
     "longitude": 13.7639421,
-    "brand": "Audi;VW"
+    "brand": "Audi;VW",
+    "postcode": "4690",
+    "city": "Schwanenstadt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

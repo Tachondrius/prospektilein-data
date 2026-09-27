@@ -4,20 +4,28 @@
     "retailer": "adeg",
     "shop": "convenience",
     "latitude": 47.2725549,
-    "longitude": 14.7864364
+    "longitude": 14.7864364,
+    "postcode": "8732",
+    "city": "Seckau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Musik Verein Seckau",
     "retailer": "musik_verein_seckau",
     "shop": "musical_instrument",
     "latitude": 47.276181,
-    "longitude": 14.786679
+    "longitude": 14.786679,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stiftsbuchhandlung",
     "retailer": "stiftsbuchhandlung",
     "shop": "books",
     "latitude": 47.2745122,
-    "longitude": 14.7868544
+    "longitude": 14.7868544,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

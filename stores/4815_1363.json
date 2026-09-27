@@ -4,14 +4,20 @@
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 48.1518831,
-    "longitude": 13.6395473
+    "longitude": 13.6395473,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haarkonzept",
     "retailer": "haarkonzept",
     "shop": "hairdresser",
     "latitude": 48.1529674,
-    "longitude": 13.6350771
+    "longitude": 13.6350771,
+    "postcode": "4682",
+    "city": "Geboltskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar Strauß",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 48.1540933,
     "longitude": 13.6353965,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4682",
+    "city": "Geboltskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

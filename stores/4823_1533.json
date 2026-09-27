@@ -4,13 +4,19 @@
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.2307101,
-    "longitude": 15.3313035
+    "longitude": 15.3313035,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pasha's",
     "retailer": "pasha_s",
     "shop": "hairdresser",
     "latitude": 48.2305219,
-    "longitude": 15.3321993
+    "longitude": 15.3321993,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,20 +5,32 @@
     "shop": "supermarket",
     "latitude": 47.9296645,
     "longitude": 14.0857723,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4565",
+    "city": "Inzersdorf im Kremstal",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blümchen",
     "retailer": "blumchen",
     "shop": "florist",
     "latitude": 47.9274367,
-    "longitude": 14.0874294
+    "longitude": 14.0874294,
+    "postcode": "4565",
+    "city": "Inzersdorf im Kremstal",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Modellbau Lindinger GmbH",
     "retailer": "modellbau_lindinger_gmbh",
     "shop": "electronics",
     "latitude": 47.9292164,
-    "longitude": 14.0882174
+    "longitude": 14.0882174,
+    "postcode": "4565",
+    "city": "Inzersdorf im Kremstal",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

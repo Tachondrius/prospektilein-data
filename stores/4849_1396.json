@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 48.4970824,
     "longitude": 13.9691276,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4121",
+    "city": "Altenfelden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mühlviertler Landbäckerei",
     "retailer": "muhlviertler_landbackerei",
     "shop": "bakery",
     "latitude": 48.497643,
-    "longitude": 13.9699015
+    "longitude": 13.9699015,
+    "postcode": "4121",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Truck Center",
     "retailer": "truck_center",
     "shop": "car_repair",
     "latitude": 48.4977537,
-    "longitude": 13.966743
+    "longitude": 13.966743,
+    "postcode": "4121",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,42 +5,64 @@
     "shop": "supermarket",
     "latitude": 48.2722209,
     "longitude": 13.7219261,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4720",
+    "city": "Neumarkt im Hausruckkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.2756798,
-    "longitude": 13.7226968
+    "longitude": 13.7226968,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Elektro Geßwagner GmbH & Co.KG.",
     "retailer": "elektro_gewagner_gmbh_und_co_kg",
     "shop": "electronics",
     "latitude": 48.2737225,
-    "longitude": 13.7276177
+    "longitude": 13.7276177,
+    "postcode": "4720",
+    "city": "Neumarkt im Hausruckkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "doityourself",
     "latitude": 48.2710367,
-    "longitude": 13.7205842
+    "longitude": 13.7205842,
+    "postcode": "4720",
+    "city": "Kallham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
     "retailer": "nkd",
     "shop": "clothes",
     "latitude": 48.2789928,
-    "longitude": 13.7202461
+    "longitude": 13.7202461,
+    "postcode": "4720",
+    "city": "Kallham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Norma",
     "retailer": "norma",
     "shop": "supermarket",
     "latitude": 48.2789461,
-    "longitude": 13.7206823
+    "longitude": 13.7206823,
+    "postcode": "4720",
+    "city": "Kallham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Rudolf Kreupl",
@@ -48,13 +70,17 @@
     "shop": "motorcycle",
     "latitude": 48.2733011,
     "longitude": 13.7239476,
-    "brand": "BMW"
+    "brand": "BMW",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "SYWO",
     "retailer": "sywo",
     "shop": "hardware",
     "latitude": 48.2735242,
-    "longitude": 13.7253745
+    "longitude": 13.7253745,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

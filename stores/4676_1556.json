@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 46.769142,
     "longitude": 15.5676223,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "8435",
+    "city": "Wagna",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -13,14 +17,21 @@
     "shop": "supermarket",
     "latitude": 46.769773,
     "longitude": 15.563072,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8435",
+    "city": "Wagna",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Koppitz",
     "retailer": "koppitz",
     "shop": "confectionery",
     "latitude": 46.7688432,
-    "longitude": 15.5687991
+    "longitude": 15.5687991,
+    "postcode": "8435",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -28,13 +39,21 @@
     "shop": "clothes",
     "latitude": 46.7692236,
     "longitude": 15.5682985,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8435",
+    "city": "Wagna",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Plankenauer",
     "retailer": "plankenauer",
     "shop": "tyres",
     "latitude": 46.7692422,
-    "longitude": 15.5657097
+    "longitude": 15.5657097,
+    "postcode": "8435",
+    "city": "Wagna",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

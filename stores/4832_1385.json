@@ -4,28 +4,42 @@
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 48.3256116,
-    "longitude": 13.8511121
+    "longitude": 13.8511121,
+    "postcode": "4730",
+    "city": "Waizenkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kidiis",
     "retailer": "kidiis",
     "shop": "stationery",
     "latitude": 48.3296164,
-    "longitude": 13.8564164
+    "longitude": 13.8564164,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Moser Filiale Waizenkirchen",
     "retailer": "moser_filiale_waizenkirchen",
     "shop": "butcher",
     "latitude": 48.3291645,
-    "longitude": 13.856728
+    "longitude": 13.856728,
+    "postcode": "4730",
+    "city": "Waizenkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Optik Strauch",
     "retailer": "optik_strauch",
     "shop": "optician",
     "latitude": 48.3289163,
-    "longitude": 13.8562206
+    "longitude": 13.8562206,
+    "postcode": "4730",
+    "city": "Waizenkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Renault",
@@ -33,13 +47,21 @@
     "shop": "car",
     "latitude": 48.3256347,
     "longitude": 13.8520035,
-    "brand": "Renault"
+    "brand": "Renault",
+    "postcode": "4730",
+    "city": "Waizenkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stengl Wirtschaft",
     "retailer": "stengl_wirtschaft",
     "shop": "florist",
     "latitude": 48.3294608,
-    "longitude": 13.8562519
+    "longitude": 13.8562519,
+    "postcode": "4730",
+    "city": "Waizenkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

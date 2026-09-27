@@ -5,56 +5,84 @@
     "shop": "supermarket",
     "latitude": 47.4287501,
     "longitude": 11.8767712,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6230",
+    "city": "Brixlegg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumenhaus Schiessling",
     "retailer": "blumenhaus_schiessling",
     "shop": "florist",
     "latitude": 47.427499,
-    "longitude": 11.8754567
+    "longitude": 11.8754567,
+    "postcode": "6230",
+    "city": "Brixlegg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Büro-Papier Baumgartner",
     "retailer": "buro_papier_baumgartner",
     "shop": "stationery",
     "latitude": 47.429634,
-    "longitude": 11.8786676
+    "longitude": 11.8786676,
+    "postcode": "6230",
+    "city": "Brixlegg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Cafe Bäckerei Schwaiger",
     "retailer": "cafe_backerei_schwaiger",
     "shop": "bakery",
     "latitude": 47.4296057,
-    "longitude": 11.8792851
+    "longitude": 11.8792851,
+    "postcode": "6230",
+    "city": "Brixlegg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Cafe Sigwart",
     "retailer": "cafe_sigwart",
     "shop": "bakery",
     "latitude": 47.4285415,
-    "longitude": 11.8771941
+    "longitude": 11.8771941,
+    "postcode": "6230",
+    "city": "Brixlegg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Conny`s Sport",
     "retailer": "conny_s_sport",
     "shop": "clothes",
     "latitude": 47.4297651,
-    "longitude": 11.8779591
+    "longitude": 11.8779591,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Der Schuh",
     "retailer": "der_schuh",
     "shop": "shoes",
     "latitude": 47.4286498,
-    "longitude": 11.8770334
+    "longitude": 11.8770334,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "EZEB",
     "retailer": "ezeb",
     "shop": "bakery",
     "latitude": 47.4295389,
-    "longitude": 11.8780002
+    "longitude": 11.8780002,
+    "postcode": "6230",
+    "city": "Brixlegg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "GardenBull",
@@ -62,28 +90,40 @@
     "shop": "groundskeeping",
     "latitude": 47.4267291,
     "longitude": 11.8749681,
-    "brand": "Stihl;Viking"
+    "brand": "Stihl;Viking",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Huber",
     "retailer": "huber",
     "shop": "hairdresser",
     "latitude": 47.4295951,
-    "longitude": 11.8789478
+    "longitude": 11.8789478,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Messner Brixlegg",
     "retailer": "messner_brixlegg",
     "shop": "doityourself",
     "latitude": 47.4294214,
-    "longitude": 11.8773095
+    "longitude": 11.8773095,
+    "postcode": "6230",
+    "city": "Brixlegg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Sock",
     "retailer": "metzgerei_sock",
     "shop": "butcher",
     "latitude": 47.4279037,
-    "longitude": 11.8775679
+    "longitude": 11.8775679,
+    "postcode": "6230",
+    "city": "Brixlegg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Miller United Optics",
@@ -91,14 +131,18 @@
     "shop": "optician",
     "latitude": 47.4288169,
     "longitude": 11.8764833,
-    "brand": "United Optics"
+    "brand": "United Optics",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
     "retailer": "nkd",
     "shop": "clothes",
     "latitude": 47.4286956,
-    "longitude": 11.8769181
+    "longitude": 11.8769181,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -106,41 +150,57 @@
     "shop": "clothes",
     "latitude": 47.4296713,
     "longitude": 11.879103,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "6230",
+    "city": "Brixlegg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Raumausstatter Wieland",
     "retailer": "raumausstatter_wieland",
     "shop": "interior_decoration",
     "latitude": 47.4280464,
-    "longitude": 11.8764845
+    "longitude": 11.8764845,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schiessling",
     "retailer": "schiessling",
     "shop": "jewelry",
     "latitude": 47.4287619,
-    "longitude": 11.8773123
+    "longitude": 11.8773123,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Senn",
     "retailer": "senn",
     "shop": "chemist",
     "latitude": 47.4299359,
-    "longitude": 11.8784395
+    "longitude": 11.8784395,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Gredler",
     "retailer": "trafik_gredler",
     "shop": "tobacco",
     "latitude": 47.4284911,
-    "longitude": 11.8776985
+    "longitude": 11.8776985,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zobl",
     "retailer": "zobl",
     "shop": "electronics",
     "latitude": 47.4277651,
-    "longitude": 11.8756127
+    "longitude": 11.8756127,
+    "postcode": "6230",
+    "city": "Brixlegg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

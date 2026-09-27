@@ -5,14 +5,18 @@
     "shop": "supermarket",
     "latitude": 48.3372045,
     "longitude": 16.2970191,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Der Winzer",
     "retailer": "der_winzer",
     "shop": "wine",
     "latitude": 48.3344562,
-    "longitude": 16.2906588
+    "longitude": 16.2906588,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Euramobil Doskoczil OEG",
@@ -20,13 +24,19 @@
     "shop": "caravan",
     "latitude": 48.3346386,
     "longitude": 16.2993264,
-    "brand": "Eura Mobil"
+    "brand": "Eura Mobil",
+    "postcode": "3420",
+    "city": "Kritzendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.3369814,
-    "longitude": 16.2969703
+    "longitude": 16.2969703,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

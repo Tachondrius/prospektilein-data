@@ -4,28 +4,42 @@
     "retailer": "ambulatorium_reichenau",
     "shop": "hairdresser",
     "latitude": 47.6977497,
-    "longitude": 15.8366563
+    "longitude": 15.8366563,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.6975449,
-    "longitude": 15.836573
+    "longitude": 15.836573,
+    "postcode": "2651",
+    "city": "Reichenau an der Rax",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kaizar Art & Tweet",
     "retailer": "kaizar_art_und_tweet",
     "shop": "clothes",
     "latitude": 47.6991913,
-    "longitude": 15.8383576
+    "longitude": 15.8383576,
+    "postcode": "2651",
+    "city": "Reichenau an der Rax",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Konditorei Nöbauer",
     "retailer": "konditorei_nobauer",
     "shop": "bakery",
     "latitude": 47.6990815,
-    "longitude": 15.8386661
+    "longitude": 15.8386661,
+    "postcode": "2651",
+    "city": "Reichenau an der Rax",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Slanar",
@@ -33,6 +47,8 @@
     "shop": "car_repair",
     "latitude": 47.698274,
     "longitude": 15.8363179,
-    "brand": "Eurorepair"
+    "brand": "Eurorepair",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

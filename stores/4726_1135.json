@@ -4,7 +4,11 @@
     "retailer": "christian_klotz",
     "shop": "kiosk",
     "latitude": 47.2635407,
-    "longitude": 11.351363
+    "longitude": 11.351363,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eurospar",
@@ -12,20 +16,32 @@
     "shop": "supermarket",
     "latitude": 47.2639578,
     "longitude": 11.3505319,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Green Energy Center",
     "retailer": "green_energy_center",
     "shop": "yes",
     "latitude": 47.2633438,
-    "longitude": 11.3513081
+    "longitude": 11.3513081,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Yonas Hairstyle",
     "retailer": "yonas_hairstyle",
     "shop": "hairdresser",
     "latitude": 47.2633807,
-    "longitude": 11.3510521
+    "longitude": 11.3510521,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

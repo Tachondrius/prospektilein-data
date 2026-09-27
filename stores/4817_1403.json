@@ -4,14 +4,20 @@
     "retailer": "blumenkiosk_dopetsberger",
     "shop": "florist",
     "latitude": 48.1738285,
-    "longitude": 14.0307169
+    "longitude": 14.0307169,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friedhofsgärtnerei der Stadt Wels",
     "retailer": "friedhofsgartnerei_der_stadt_wels",
     "shop": "florist",
     "latitude": 48.1712056,
-    "longitude": 14.0348771
+    "longitude": 14.0348771,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Leeb",
@@ -19,6 +25,10 @@
     "shop": "car",
     "latitude": 48.1704056,
     "longitude": 14.0321986,
-    "brand": "Peugeot;Citroen"
+    "brand": "Peugeot;Citroen",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

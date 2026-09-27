@@ -4,20 +4,30 @@
     "retailer": "bernhard_altmann_e_u",
     "shop": "honey;beekeeping_supplies",
     "latitude": 48.2151445,
-    "longitude": 14.4937198
+    "longitude": 14.4937198,
+    "postcode": "4482",
+    "city": "Ennsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.2158078,
-    "longitude": 14.4932829
+    "longitude": 14.4932829,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "LowArt",
     "retailer": "lowart",
     "shop": "car_repair",
     "latitude": 48.213061,
-    "longitude": 14.4902721
+    "longitude": 14.4902721,
+    "postcode": "4482",
+    "city": "Ennsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

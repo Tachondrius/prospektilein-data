@@ -4,7 +4,9 @@
     "retailer": "beikircher_agrarcenter",
     "shop": "garden_centre",
     "latitude": 46.8296055,
-    "longitude": 12.8039265
+    "longitude": 12.8039265,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -12,49 +14,71 @@
     "shop": "chemist",
     "latitude": 46.8272834,
     "longitude": 12.8089165,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 46.8296347,
-    "longitude": 12.8021985
+    "longitude": 12.8021985,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Diogenes",
     "retailer": "diogenes",
     "shop": "alcohol",
     "latitude": 46.8294788,
-    "longitude": 12.8028522
+    "longitude": 12.8028522,
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Electronic4you",
     "retailer": "electronic4you",
     "shop": "electronics",
     "latitude": 46.8273463,
-    "longitude": 12.8086499
+    "longitude": 12.8086499,
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eurogast Zuegg",
     "retailer": "eurogast_zuegg",
     "shop": "wholesale",
     "latitude": 46.8288807,
-    "longitude": 12.8074193
+    "longitude": 12.8074193,
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gartenzentrum Waude Gardens",
     "retailer": "gartenzentrum_waude_gardens",
     "shop": "garden_centre",
     "latitude": 46.8280728,
-    "longitude": 12.8047946
+    "longitude": 12.8047946,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Inmann Karosserie",
     "retailer": "inmann_karosserie",
     "shop": "car_repair",
     "latitude": 46.8278671,
-    "longitude": 12.8099596
+    "longitude": 12.8099596,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Klipp",
@@ -62,7 +86,11 @@
     "shop": "hairdresser",
     "latitude": 46.8272299,
     "longitude": 12.8091527,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lackner",
@@ -70,14 +98,18 @@
     "shop": "car_repair",
     "latitude": 46.8297646,
     "longitude": 12.8071124,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Let's Do it Eisenfachmarkt Manhart",
     "retailer": "let_s_do_it_eisenfachmarkt_manhart",
     "shop": "doityourself",
     "latitude": 46.8296422,
-    "longitude": 12.8032561
+    "longitude": 12.8032561,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Matratzen Concord",
@@ -85,7 +117,11 @@
     "shop": "bed",
     "latitude": 46.8273122,
     "longitude": 12.8087742,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Möbelix",
@@ -93,7 +129,11 @@
     "shop": "furniture",
     "latitude": 46.8282806,
     "longitude": 12.8090673,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -101,7 +141,11 @@
     "shop": "clothes",
     "latitude": 46.8272601,
     "longitude": 12.8090351,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "PENNY",
@@ -109,7 +153,11 @@
     "shop": "supermarket",
     "latitude": 46.8273798,
     "longitude": 12.8085061,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Toyota Lackner",
@@ -117,13 +165,19 @@
     "shop": "car",
     "latitude": 46.8297623,
     "longitude": 12.8069264,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "XXXLutz Nußdorf-Debant",
     "retailer": "xxxlutz",
     "shop": "furniture",
     "latitude": 46.8294875,
-    "longitude": 12.8055868
+    "longitude": 12.8055868,
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

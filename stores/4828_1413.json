@@ -4,7 +4,9 @@
     "retailer": "auto_wimmer",
     "shop": "car_repair",
     "latitude": 48.289777,
-    "longitude": 14.1313899
+    "longitude": 14.1313899,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa stop & shop",
@@ -12,14 +14,22 @@
     "shop": "convenience",
     "latitude": 48.2895608,
     "longitude": 14.1309074,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "postcode": "4072",
+    "city": "Alkoven",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gärtnerei Josef Weichselbaumer",
     "retailer": "gartnerei_josef_weichselbaumer",
     "shop": "florist",
     "latitude": 48.2878531,
-    "longitude": 14.1399142
+    "longitude": 14.1399142,
+    "postcode": "4072",
+    "city": "Alkoven",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Peugeot",
@@ -27,6 +37,10 @@
     "shop": "car",
     "latitude": 48.2897662,
     "longitude": 14.1313954,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "4072",
+    "city": "Alkoven",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

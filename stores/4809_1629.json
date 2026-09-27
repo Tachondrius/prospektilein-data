@@ -4,14 +4,22 @@
     "retailer": "25_stunden_brot",
     "shop": "convenience",
     "latitude": 48.0951492,
-    "longitude": 16.2989071
+    "longitude": 16.2989071,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Artner's Bike & Reifenbox",
     "retailer": "artner_s_bike_und_reifenbox",
     "shop": "motorcycle",
     "latitude": 48.0947873,
-    "longitude": 16.293278
+    "longitude": 16.293278,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -19,35 +27,53 @@
     "shop": "supermarket",
     "latitude": 48.0969869,
     "longitude": 16.2934576,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Buchhandlung Kral St. Gabriel",
     "retailer": "buchhandlung_kral_st_gabriel",
     "shop": "books",
     "latitude": 48.0951123,
-    "longitude": 16.2966474
+    "longitude": 16.2966474,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DeLuke Coffee",
     "retailer": "deluke_coffee",
     "shop": "coffee_roasting",
     "latitude": 48.0949499,
-    "longitude": 16.2997909
+    "longitude": 16.2997909,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hinger's Brunnenshop",
     "retailer": "hinger_s_brunnenshop",
     "shop": "interior_decoration",
     "latitude": 48.0929917,
-    "longitude": 16.2939187
+    "longitude": 16.2939187,
+    "postcode": "2340",
+    "city": "Mödling",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klosterbauer",
     "retailer": "klosterbauer",
     "shop": "garden_centre",
     "latitude": 48.0949177,
-    "longitude": 16.2999988
+    "longitude": 16.2999988,
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Porsche Maria Enzersdorf",
@@ -55,6 +81,10 @@
     "shop": "car",
     "latitude": 48.094263,
     "longitude": 16.2939756,
-    "brand": "Volkswagen;Audi;Seat"
+    "brand": "Volkswagen;Audi;Seat",
+    "postcode": "2344",
+    "city": "Maria Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

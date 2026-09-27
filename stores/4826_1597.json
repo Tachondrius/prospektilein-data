@@ -4,21 +4,33 @@
     "retailer": "autohandel_danijel_glavas",
     "shop": "car",
     "latitude": 48.2698981,
-    "longitude": 15.9705428
+    "longitude": 15.9705428,
+    "postcode": "3441",
+    "city": "Einsiedl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autozentrum Glavaś e.U.",
     "retailer": "autozentrum_glavas_e_u",
     "shop": "car",
     "latitude": 48.2680032,
-    "longitude": 15.9714745
+    "longitude": 15.9714745,
+    "postcode": "3441",
+    "city": "Dietersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tuning Center Noll",
     "retailer": "tuning_center_noll",
     "shop": "tyres",
     "latitude": 48.268921,
-    "longitude": 15.9745382
+    "longitude": 15.9745382,
+    "postcode": "3441",
+    "city": "Einsiedl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Viva",
@@ -26,6 +38,8 @@
     "shop": "convenience",
     "latitude": 48.2696759,
     "longitude": 15.9716279,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

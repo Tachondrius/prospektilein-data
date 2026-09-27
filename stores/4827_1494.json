@@ -5,28 +5,38 @@
     "shop": "supermarket",
     "latitude": 48.2726893,
     "longitude": 14.9493305,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "4391",
+    "city": "Waldhausen im Strudengau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Floristik Petra",
     "retailer": "floristik_petra",
     "shop": "florist",
     "latitude": 48.2726889,
-    "longitude": 14.9489414
+    "longitude": 14.9489414,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gabis Shop",
     "retailer": "gabis_shop",
     "shop": "wool",
     "latitude": 48.2729305,
-    "longitude": 14.948036
+    "longitude": 14.948036,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Genol",
     "retailer": "genol",
     "shop": "convenience",
     "latitude": 48.2703282,
-    "longitude": 14.9496042
+    "longitude": 14.9496042,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -34,13 +44,19 @@
     "shop": "doityourself",
     "latitude": 48.2703435,
     "longitude": 14.9498226,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "4391",
+    "city": "Waldhausen im Strudengau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Modefriseur Helene",
     "retailer": "modefriseur_helene",
     "shop": "hairdresser",
     "latitude": 48.2727601,
-    "longitude": 14.948762
+    "longitude": 14.948762,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

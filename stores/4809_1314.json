@@ -5,20 +5,30 @@
     "shop": "car",
     "latitude": 48.0900695,
     "longitude": 13.1484916,
-    "brand": "Nissan;Ford"
+    "brand": "Nissan;Ford",
+    "postcode": "5230",
+    "city": "Mattighofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bachfischerei Baumgartner",
     "retailer": "bachfischerei_baumgartner",
     "shop": "seafood",
     "latitude": 48.0947413,
-    "longitude": 13.149145
+    "longitude": 13.149145,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bau und Möbeltischlerei Franz und Waltraud Enthammer",
     "retailer": "bau_und_mobeltischlerei_franz_und_waltraud_enthammer",
     "shop": "doors",
     "latitude": 48.0931848,
-    "longitude": 13.1499203
+    "longitude": 13.1499203,
+    "postcode": "5230",
+    "city": "Mattighofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 48.06117,
     "longitude": 14.4531366,
-    "brand": "Hyundai"
+    "brand": "Hyundai",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -13,14 +17,20 @@
     "shop": "chemist",
     "latitude": 48.0604477,
     "longitude": 14.4537994,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hinteregger",
     "retailer": "hinteregger",
     "shop": "tyres",
     "latitude": 48.0634349,
-    "longitude": 14.4537707
+    "longitude": 14.4537707,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -28,20 +38,28 @@
     "shop": "supermarket",
     "latitude": 48.0600729,
     "longitude": 14.4537024,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus Werkstätte Ramingdorf",
     "retailer": "lagerhaus_werkstatte_ramingdorf",
     "shop": "car_repair",
     "latitude": 48.0642684,
-    "longitude": 14.4552445
+    "longitude": 14.4552445,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SPAR",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 48.0606449,
-    "longitude": 14.4538745
+    "longitude": 14.4538745,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

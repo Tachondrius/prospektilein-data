@@ -4,7 +4,10 @@
     "retailer": "obst_leopold",
     "shop": "greengrocer",
     "latitude": 47.0054428,
-    "longitude": 15.7611008
+    "longitude": 15.7611008,
+    "city": "Kirchberg an der Raab",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,13 +15,21 @@
     "shop": "supermarket",
     "latitude": 47.0042094,
     "longitude": 15.7624988,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8322",
+    "city": "Kirchberg an der Raab",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Studio Irmi",
     "retailer": "studio_irmi",
     "shop": "hairdresser",
     "latitude": 47.0037094,
-    "longitude": 15.7619672
+    "longitude": 15.7619672,
+    "postcode": "8322",
+    "city": "Kirchberg an der Raab",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

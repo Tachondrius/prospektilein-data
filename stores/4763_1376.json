@@ -4,28 +4,36 @@
     "retailer": "beautique_desiree_hentschel",
     "shop": "beauty",
     "latitude": 47.6350723,
-    "longitude": 13.7615817
+    "longitude": 13.7615817,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen-Eck",
     "retailer": "blumen_eck",
     "shop": "florist",
     "latitude": 47.6394463,
-    "longitude": 13.7632943
+    "longitude": 13.7632943,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Buch & Boot",
     "retailer": "buch_und_boot",
     "shop": "books",
     "latitude": 47.6381862,
-    "longitude": 13.7628728
+    "longitude": 13.7628728,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Maislinger",
     "retailer": "backerei_maislinger",
     "shop": "bakery",
     "latitude": 47.639716,
-    "longitude": 13.7637091
+    "longitude": 13.7637091,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Expert",
@@ -33,21 +41,31 @@
     "shop": "electronics",
     "latitude": 47.6377514,
     "longitude": 13.7624318,
-    "brand": "Expert"
+    "brand": "Expert",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Glas Kunst Hand Werk",
     "retailer": "glas_kunst_hand_werk",
     "shop": "gift",
     "latitude": 47.6394731,
-    "longitude": 13.7634214
+    "longitude": 13.7634214,
+    "postcode": "8992",
+    "city": "Altaussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gärtnerei Reischenböck",
     "retailer": "gartnerei_reischenbock",
     "shop": "florist",
     "latitude": 47.6354829,
-    "longitude": 13.7600339
+    "longitude": 13.7600339,
+    "postcode": "8992",
+    "city": "Altaussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -55,13 +73,19 @@
     "shop": "supermarket",
     "latitude": 47.6375925,
     "longitude": 13.7622561,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8992",
+    "city": "Altaussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik Greiner",
     "retailer": "tabak_trafik_greiner",
     "shop": "newsagent",
     "latitude": 47.6394588,
-    "longitude": 13.7633619
+    "longitude": 13.7633619,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

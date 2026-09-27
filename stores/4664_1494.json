@@ -5,21 +5,31 @@
     "shop": "supermarket",
     "latitude": 46.6417383,
     "longitude": 14.9412814,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "9473",
+    "city": "Lavamünd",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Alexander Hartl",
     "retailer": "alexander_hartl",
     "shop": "bakery",
     "latitude": 46.6433852,
-    "longitude": 14.9413886
+    "longitude": 14.9413886,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Autohaus Töfferl",
     "retailer": "autohaus_tofferl",
     "shop": "car_repair",
     "latitude": 46.6421087,
-    "longitude": 14.9407737
+    "longitude": 14.9407737,
+    "postcode": "9473",
+    "city": "Lavamünd",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -27,7 +37,11 @@
     "shop": "supermarket",
     "latitude": 46.6411622,
     "longitude": 14.946972,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9473",
+    "city": "Lavamünd",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagerhaus",
@@ -35,7 +49,11 @@
     "shop": "doityourself",
     "latitude": 46.6408525,
     "longitude": 14.9474532,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "9473",
+    "city": "Lavamünd",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Red Zac Lehner",
@@ -43,34 +61,54 @@
     "shop": "electronics",
     "latitude": 46.6421792,
     "longitude": 14.9410129,
-    "brand": "Red Zac"
+    "brand": "Red Zac",
+    "postcode": "9473",
+    "city": "Lavamünd",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Salberger",
     "retailer": "salberger",
     "shop": "weapons",
     "latitude": 46.6418713,
-    "longitude": 14.9410974
+    "longitude": 14.9410974,
+    "postcode": "9473",
+    "city": "Lavamünd",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sander",
     "retailer": "sander",
     "shop": "car_repair",
     "latitude": 46.6413159,
-    "longitude": 14.9427003
+    "longitude": 14.9427003,
+    "postcode": "9473",
+    "city": "Lavamünd",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schuhe Sarny",
     "retailer": "schuhe_sarny",
     "shop": "shoes",
     "latitude": 46.6417234,
-    "longitude": 14.941774
+    "longitude": 14.941774,
+    "postcode": "9473",
+    "city": "Lavamünd",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trafik Offner",
     "retailer": "trafik_offner",
     "shop": "stationery",
     "latitude": 46.6419498,
-    "longitude": 14.9409662
+    "longitude": 14.9409662,
+    "postcode": "9473",
+    "city": "Lavamünd",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

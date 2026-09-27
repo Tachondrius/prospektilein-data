@@ -5,7 +5,11 @@
     "shop": "car;car_repair",
     "latitude": 47.5702015,
     "longitude": 14.2170019,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "8940",
+    "city": "Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Raith",
@@ -13,6 +17,10 @@
     "shop": "car;car_repair",
     "latitude": 47.5701196,
     "longitude": 14.2147788,
-    "brand": "Kia;Mitsubishi"
+    "brand": "Kia;Mitsubishi",
+    "postcode": "8940",
+    "city": "Weißenbach bei Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

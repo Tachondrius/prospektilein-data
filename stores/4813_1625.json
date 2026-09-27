@@ -5,28 +5,40 @@
     "shop": "supermarket",
     "latitude": 48.1338869,
     "longitude": 16.2565702,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Christian Müller",
     "retailer": "christian_muller",
     "shop": "hairdresser",
     "latitude": 48.1372016,
-    "longitude": 16.2574336
+    "longitude": 16.2574336,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kosmetikpalette",
     "retailer": "kosmetikpalette",
     "shop": "beauty",
     "latitude": 48.1332896,
-    "longitude": 16.2586218
+    "longitude": 16.2586218,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Preindl",
     "retailer": "preindl",
     "shop": "jewelry",
     "latitude": 48.1332482,
-    "longitude": 16.2579724
+    "longitude": 16.2579724,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -34,13 +46,21 @@
     "shop": "supermarket",
     "latitude": 48.1330996,
     "longitude": 16.2597202,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "X-Sport Worldstore",
     "retailer": "x_sport_worldstore",
     "shop": "sports",
     "latitude": 48.1333851,
-    "longitude": 16.2583159
+    "longitude": 16.2583159,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

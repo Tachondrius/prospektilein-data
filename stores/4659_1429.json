@@ -5,7 +5,9 @@
     "shop": "variety_store",
     "latitude": 46.5981833,
     "longitude": 14.2953353,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen B&B",
@@ -13,7 +15,10 @@
     "shop": "florist",
     "latitude": 46.5987676,
     "longitude": 14.2950842,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Forstinger",
@@ -21,20 +26,30 @@
     "shop": "car_repair",
     "latitude": 46.5994247,
     "longitude": 14.2965137,
-    "brand": "Forstinger"
+    "brand": "Forstinger",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fritz Auto Karosserie GmbH",
     "retailer": "fritz_auto_karosserie_gmbh",
     "shop": "car_repair",
     "latitude": 46.5976822,
-    "longitude": 14.2941841
+    "longitude": 14.2941841,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Leopold Kober Gesellschaft m.b.H.",
     "retailer": "leopold_kober_gesellschaft_m_b_h",
     "shop": "electronics",
     "latitude": 46.5985014,
-    "longitude": 14.2954772
+    "longitude": 14.2954772,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

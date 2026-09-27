@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.3211758,
     "longitude": 16.6544591,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,14 +17,18 @@
     "shop": "chemist",
     "latitude": 48.3212835,
     "longitude": 16.6557244,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "First Class",
     "retailer": "first_class",
     "shop": "hairdresser",
     "latitude": 48.3205535,
-    "longitude": 16.6537272
+    "longitude": 16.6537272,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -28,14 +36,22 @@
     "shop": "supermarket",
     "latitude": 48.3205563,
     "longitude": 16.6520384,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Importcars.at",
     "retailer": "importcars_at",
     "shop": "car",
     "latitude": 48.3208118,
-    "longitude": 16.6537037
+    "longitude": 16.6537037,
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klipp",
@@ -43,14 +59,20 @@
     "shop": "hairdresser",
     "latitude": 48.3213878,
     "longitude": 16.6557368,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Linas Pflegestudio",
     "retailer": "linas_pflegestudio",
     "shop": "beauty",
     "latitude": 48.3206309,
-    "longitude": 16.6580514
+    "longitude": 16.6580514,
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -58,7 +80,9 @@
     "shop": "clothes",
     "latitude": 48.3215203,
     "longitude": 16.6557665,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny Markt",
@@ -66,28 +90,40 @@
     "shop": "supermarket",
     "latitude": 48.3211741,
     "longitude": 16.6557279,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sehmanufaktur Litzenberger",
     "retailer": "sehmanufaktur_litzenberger",
     "shop": "optician",
     "latitude": 48.3209505,
-    "longitude": 16.6543658
+    "longitude": 16.6543658,
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Siam Banburi",
     "retailer": "siam_banburi",
     "shop": "massage",
     "latitude": 48.3206809,
-    "longitude": 16.6565253
+    "longitude": 16.6565253,
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SP Vidlak",
     "retailer": "sp_vidlak",
     "shop": "electronics",
     "latitude": 48.3205214,
-    "longitude": 16.6534992
+    "longitude": 16.6534992,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -95,6 +131,8 @@
     "shop": "variety_store",
     "latitude": 48.3216385,
     "longitude": 16.6557639,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

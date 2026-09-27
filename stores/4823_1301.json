@@ -4,21 +4,31 @@
     "retailer": "dorfladen",
     "shop": "supermarket",
     "latitude": 48.2329341,
-    "longitude": 13.015813
+    "longitude": 13.015813,
+    "postcode": "5282",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofladen Schaberl",
     "retailer": "hofladen_schaberl",
     "shop": "bakery",
     "latitude": 48.238337,
-    "longitude": 13.0145181
+    "longitude": 13.0145181,
+    "postcode": "5282",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Höllbacher",
     "retailer": "hollbacher",
     "shop": "bakery",
     "latitude": 48.2313047,
-    "longitude": 13.018522
+    "longitude": 13.018522,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mercedes Forster",
@@ -26,41 +36,59 @@
     "shop": "car_repair",
     "latitude": 48.2336925,
     "longitude": 13.0158908,
-    "brand": "Mercedes-Benz;Mazda"
+    "brand": "Mercedes-Benz;Mazda",
+    "postcode": "5282",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Möbel Rieder",
     "retailer": "mobel_rieder",
     "shop": "furniture",
     "latitude": 48.2340241,
-    "longitude": 13.0157144
+    "longitude": 13.0157144,
+    "postcode": "5282",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reitsport Götz",
     "retailer": "reitsport_gotz",
     "shop": "sports",
     "latitude": 48.2332167,
-    "longitude": 13.015483
+    "longitude": 13.015483,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "schnittlounge",
     "retailer": "schnittlounge",
     "shop": "hairdresser",
     "latitude": 48.2327358,
-    "longitude": 13.0164566
+    "longitude": 13.0164566,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schuhhaus Schaumberger",
     "retailer": "schuhhaus_schaumberger",
     "shop": "shoes",
     "latitude": 48.2328415,
-    "longitude": 13.0148046
+    "longitude": 13.0148046,
+    "postcode": "5282",
+    "city": "Braunau am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik Friedl",
     "retailer": "trafik_friedl",
     "shop": "kiosk",
     "latitude": 48.2320551,
-    "longitude": 13.0180714
+    "longitude": 13.0180714,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

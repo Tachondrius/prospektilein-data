@@ -4,7 +4,9 @@
     "retailer": "kosmetik_und_fupflege_renate_kapfinger",
     "shop": "beauty",
     "latitude": 47.4039277,
-    "longitude": 11.8909326
+    "longitude": 11.8909326,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MMtech",
@@ -12,6 +14,10 @@
     "shop": "motorcycle",
     "latitude": 47.4011168,
     "longitude": 11.8907428,
-    "brand": "Zero"
+    "brand": "Zero",
+    "postcode": "6235",
+    "city": "Reith im Alpbachtal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

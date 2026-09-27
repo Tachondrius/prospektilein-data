@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 46.5463861,
     "longitude": 14.0594668,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9184",
+    "city": "St. Jakob im Rosental",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 46.5490151,
-    "longitude": 14.0522479
+    "longitude": 14.0522479,
+    "postcode": "9184",
+    "city": "St. Jakob im Rosental",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

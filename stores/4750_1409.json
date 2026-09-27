@@ -5,28 +5,42 @@
     "shop": "supermarket",
     "latitude": 47.5050222,
     "longitude": 14.0980366,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8952",
+    "city": "Irdning-Donnersbachtal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "FliegFix Boote",
     "retailer": "fliegfix_boote",
     "shop": "sports",
     "latitude": 47.5050632,
-    "longitude": 14.0974519
+    "longitude": 14.0974519,
+    "postcode": "8952",
+    "city": "Irdning-Donnersbachtal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Haargenau",
     "retailer": "friseur_haargenau",
     "shop": "hairdresser",
     "latitude": 47.5053491,
-    "longitude": 14.0979723
+    "longitude": 14.0979723,
+    "postcode": "8952",
+    "city": "Irdning-Donnersbachtal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Letmaier",
     "retailer": "letmaier",
     "shop": "doityourself",
     "latitude": 47.5068395,
-    "longitude": 14.0969866
+    "longitude": 14.0969866,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -34,21 +48,31 @@
     "shop": "clothes",
     "latitude": 47.5062245,
     "longitude": 14.0978096,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8952",
+    "city": "Irdning-Donnersbachtal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Peter Optik",
     "retailer": "peter_optik",
     "shop": "optician",
     "latitude": 47.505393,
-    "longitude": 14.0980446
+    "longitude": 14.0980446,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schretthauser",
     "retailer": "schretthauser",
     "shop": "electronics",
     "latitude": 47.5066501,
-    "longitude": 14.0974175
+    "longitude": 14.0974175,
+    "postcode": "8952",
+    "city": "Irdning-Donnersbachtal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sport 2000",
@@ -56,6 +80,10 @@
     "shop": "sports",
     "latitude": 47.5024978,
     "longitude": 14.0971419,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "8952",
+    "city": "Irdning-Donnersbachtal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

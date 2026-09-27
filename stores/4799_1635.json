@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.9938823,
     "longitude": 16.35849,
-    "brand": "Seat"
+    "brand": "Seat",
+    "postcode": "2521",
+    "city": "Trumau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Koessler-Hammerschmid Morgan Austria",
@@ -13,6 +17,8 @@
     "shop": "car",
     "latitude": 47.9934022,
     "longitude": 16.3581598,
-    "brand": "Morgan"
+    "brand": "Morgan",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

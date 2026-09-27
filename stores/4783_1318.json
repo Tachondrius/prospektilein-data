@@ -4,13 +4,19 @@
     "retailer": "frauenlob",
     "shop": "convenience",
     "latitude": 47.8313988,
-    "longitude": 13.1812535
+    "longitude": 13.1812535,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Steyrer",
     "retailer": "steyrer",
     "shop": "car_repair",
     "latitude": 47.8330629,
-    "longitude": 13.1805066
+    "longitude": 13.1805066,
+    "postcode": "5325",
+    "city": "Plainfeld",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

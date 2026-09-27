@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 46.6138808,
     "longitude": 13.8296426,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "MRC - BBQ World Villach",
     "retailer": "mrc_bbq_world_villach",
     "shop": "bbq",
     "latitude": 46.6187902,
-    "longitude": 13.8224841
+    "longitude": 13.8224841,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

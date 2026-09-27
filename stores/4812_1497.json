@@ -5,14 +5,22 @@
     "shop": "yes",
     "latitude": 48.1258967,
     "longitude": 14.9798101,
-    "brand": "Independent"
+    "brand": "Independent",
+    "postcode": "3372",
+    "city": "Blindenmarkt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pipelife",
     "retailer": "pipelife",
     "shop": "trade",
     "latitude": 48.1242204,
-    "longitude": 14.9763279
+    "longitude": 14.9763279,
+    "postcode": "3372",
+    "city": "Blindenmarkt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -20,7 +28,11 @@
     "shop": "supermarket",
     "latitude": 48.1244523,
     "longitude": 14.974073,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3304",
+    "city": "St. Georgen am Ybbsfelde",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Turmöl",
@@ -28,6 +40,10 @@
     "shop": "convenience",
     "latitude": 48.1240211,
     "longitude": 14.9730357,
-    "brand": "Turmöl"
+    "brand": "Turmöl",
+    "postcode": "3304",
+    "city": "St. Georgen am Ybbsfelde",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,20 +4,30 @@
     "retailer": "h_w_r_rundholz_gmbh",
     "shop": "trade",
     "latitude": 47.116638,
-    "longitude": 10.6146815
+    "longitude": 10.6146815,
+    "postcode": "6500",
+    "city": "Fließ",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Holzhandel Falch",
     "retailer": "holzhandel_falch",
     "shop": "trade",
     "latitude": 47.1166572,
-    "longitude": 10.6165167
+    "longitude": 10.6165167,
+    "postcode": "6500",
+    "city": "Fließ",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ-Tech Jürgen Prieler",
     "retailer": "kfz_tech_jurgen_prieler",
     "shop": "car_repair",
     "latitude": 47.1161753,
-    "longitude": 10.6164971
+    "longitude": 10.6164971,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

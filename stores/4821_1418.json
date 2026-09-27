@@ -4,34 +4,50 @@
     "retailer": "auto_kremer",
     "shop": "car",
     "latitude": 48.2147743,
-    "longitude": 14.1845149
+    "longitude": 14.1845149,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.2164093,
-    "longitude": 14.1858468
+    "longitude": 14.1858468,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gooix Group",
     "retailer": "gooix_group",
     "shop": "jewelry",
     "latitude": 48.2149844,
-    "longitude": 14.182682
+    "longitude": 14.182682,
+    "postcode": "4063",
+    "city": "Hörsching",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Höko",
     "retailer": "hoko",
     "shop": "garden_centre",
     "latitude": 48.2110572,
-    "longitude": 14.1803048
+    "longitude": 14.1803048,
+    "postcode": "4063",
+    "city": "Hörsching",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny Markt",
     "retailer": "penny",
     "shop": "supermarket",
     "latitude": 48.2138466,
-    "longitude": 14.1825396
+    "longitude": 14.1825396,
+    "postcode": "4063",
+    "city": "Hörsching",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

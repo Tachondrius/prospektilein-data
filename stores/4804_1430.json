@@ -4,21 +4,27 @@
     "retailer": "shop_bicycle",
     "shop": "bicycle",
     "latitude": 48.0451054,
-    "longitude": 14.3099289
+    "longitude": 14.3099289,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Buchegger",
     "retailer": "buchegger",
     "shop": "florist",
     "latitude": 48.0443462,
-    "longitude": 14.3052598
+    "longitude": 14.3052598,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fröschl",
     "retailer": "froschl",
     "shop": "tobacco",
     "latitude": 48.0438755,
-    "longitude": 14.3087359
+    "longitude": 14.3087359,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hartlauer",
@@ -26,48 +32,68 @@
     "shop": "electronics",
     "latitude": 48.0438129,
     "longitude": 14.3086527,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "4522",
+    "city": "Sierning",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hifi",
     "retailer": "shop_hifi",
     "shop": "hifi",
     "latitude": 48.0439527,
-    "longitude": 14.3088368
+    "longitude": 14.3088368,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kaiser Barber Shop",
     "retailer": "kaiser_barber_shop",
     "shop": "hairdresser",
     "latitude": 48.0439254,
-    "longitude": 14.3087857
+    "longitude": 14.3087857,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mara Hand - Second Hand",
     "retailer": "mara_hand_second_hand",
     "shop": "convenience",
     "latitude": 48.0409543,
-    "longitude": 14.309966
+    "longitude": 14.309966,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
     "retailer": "nkd",
     "shop": "clothes",
     "latitude": 48.0433373,
-    "longitude": 14.3079613
+    "longitude": 14.3079613,
+    "postcode": "4522",
+    "city": "Sierning",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Scheinecker Sport",
     "retailer": "scheinecker_sport",
     "shop": "sports",
     "latitude": 48.0436375,
-    "longitude": 14.3085235
+    "longitude": 14.3085235,
+    "postcode": "4522",
+    "city": "Sierning",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Skialm Scheinecker",
     "retailer": "skialm_scheinecker",
     "shop": "sports",
     "latitude": 48.04419,
-    "longitude": 14.3080579
+    "longitude": 14.3080579,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

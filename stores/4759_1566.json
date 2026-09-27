@@ -4,7 +4,9 @@
     "retailer": "bestattung_murztal",
     "shop": "funeral_directors",
     "latitude": 47.5979652,
-    "longitude": 15.6657763
+    "longitude": 15.6657763,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eni Shop",
@@ -12,14 +14,20 @@
     "shop": "convenience",
     "latitude": 47.5994668,
     "longitude": 15.6662426,
-    "brand": "Eni Shop"
+    "brand": "Eni Shop",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ Verli",
     "retailer": "kfz_verli",
     "shop": "car_repair",
     "latitude": 47.5915238,
-    "longitude": 15.6612679
+    "longitude": 15.6612679,
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -27,13 +35,19 @@
     "shop": "supermarket",
     "latitude": 47.598867,
     "longitude": 15.6655944,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Walzer",
     "retailer": "walzer",
     "shop": "florist",
     "latitude": 47.5979034,
-    "longitude": 15.6657639
+    "longitude": 15.6657639,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

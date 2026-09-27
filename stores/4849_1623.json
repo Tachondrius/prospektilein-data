@@ -4,14 +4,20 @@
     "retailer": "bestattung_frittum",
     "shop": "funeral_directors",
     "latitude": 48.497853,
-    "longitude": 16.2307845
+    "longitude": 16.2307845,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Mayer",
     "retailer": "backerei_mayer",
     "shop": "bakery",
     "latitude": 48.4979401,
-    "longitude": 16.2302575
+    "longitude": 16.2302575,
+    "postcode": "2002",
+    "city": "Großmugl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -19,14 +25,22 @@
     "shop": "supermarket",
     "latitude": 48.4958213,
     "longitude": 16.2322667,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "2002",
+    "city": "Großmugl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Riebel",
     "retailer": "riebel",
     "shop": "hairdresser",
     "latitude": 48.4987134,
-    "longitude": 16.2304767
+    "longitude": 16.2304767,
+    "postcode": "2002",
+    "city": "Großmugl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -34,13 +48,21 @@
     "shop": "tobacco",
     "latitude": 48.4957582,
     "longitude": 16.232152,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "2002",
+    "city": "Großmugl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Öz Batman / Tam Kayseri et Mamülleri",
     "retailer": "oz_batman_tam_kayseri_et_mamulleri",
     "shop": "butcher",
     "latitude": 48.4955875,
-    "longitude": 16.2326632
+    "longitude": 16.2326632,
+    "postcode": "2002",
+    "city": "Großmugl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

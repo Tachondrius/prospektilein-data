@@ -4,7 +4,9 @@
     "retailer": "shop_bicycle",
     "shop": "bicycle",
     "latitude": 46.9529658,
-    "longitude": 14.4034405
+    "longitude": 14.4034405,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -12,21 +14,30 @@
     "shop": "supermarket",
     "latitude": 46.9566519,
     "longitude": 14.4020355,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9360",
+    "city": "Friesach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Convenience",
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 46.9560374,
-    "longitude": 14.4018911
+    "longitude": 14.4018911,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Craigher",
     "retailer": "craigher",
     "shop": "chocolate",
     "latitude": 46.9505394,
-    "longitude": 14.4061108
+    "longitude": 14.4061108,
+    "postcode": "9360",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -34,6 +45,8 @@
     "shop": "supermarket",
     "latitude": 46.9507544,
     "longitude": 14.40592,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

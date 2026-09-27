@@ -5,21 +5,31 @@
     "shop": "chemist",
     "latitude": 48.2310157,
     "longitude": 13.9180193,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Computer Video",
     "retailer": "computer_video",
     "shop": "computer",
     "latitude": 48.2300516,
-    "longitude": 13.9195479
+    "longitude": 13.9195479,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dessous Exclusive Reisenbichler",
     "retailer": "dessous_exclusive_reisenbichler",
     "shop": "clothes",
     "latitude": 48.2310523,
-    "longitude": 13.9184341
+    "longitude": 13.9184341,
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Expert",
@@ -27,69 +37,101 @@
     "shop": "electronics",
     "latitude": 48.231358,
     "longitude": 13.9193433,
-    "brand": "Expert"
+    "brand": "Expert",
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gewußt wie",
     "retailer": "gewut_wie",
     "shop": "stationery",
     "latitude": 48.2303807,
-    "longitude": 13.9199187
+    "longitude": 13.9199187,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Göstl Optik",
     "retailer": "gostl_optik",
     "shop": "optician",
     "latitude": 48.2304451,
-    "longitude": 13.919992
+    "longitude": 13.919992,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Jewelry",
     "retailer": "shop_jewelry",
     "shop": "jewelry",
     "latitude": 48.2314344,
-    "longitude": 13.9194285
+    "longitude": 13.9194285,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lorena",
     "retailer": "lorena",
     "shop": "jewelry",
     "latitude": 48.2310207,
-    "longitude": 13.9180893
+    "longitude": 13.9180893,
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mein Friseur",
     "retailer": "mein_friseur",
     "shop": "hairdresser",
     "latitude": 48.2310904,
-    "longitude": 13.9187083
+    "longitude": 13.9187083,
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Moden Uschi",
     "retailer": "moden_uschi",
     "shop": "clothes",
     "latitude": 48.2303672,
-    "longitude": 13.9195822
+    "longitude": 13.9195822,
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 48.2305277,
-    "longitude": 13.9130916
+    "longitude": 13.9130916,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Scala",
     "retailer": "scala",
     "shop": "clothes",
     "latitude": 48.2311356,
-    "longitude": 13.9190592
+    "longitude": 13.9190592,
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Skribo",
     "retailer": "skribo",
     "shop": "gift",
     "latitude": 48.2302625,
-    "longitude": 13.9197854
+    "longitude": 13.9197854,
+    "postcode": "4701",
+    "city": "Bad Schallerbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

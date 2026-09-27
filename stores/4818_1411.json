@@ -4,14 +4,20 @@
     "retailer": "delikat_ess",
     "shop": "supermarket",
     "latitude": 48.1823107,
-    "longitude": 14.1139698
+    "longitude": 14.1139698,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "FSW Shop",
     "retailer": "fsw_shop",
     "shop": "car_parts",
     "latitude": 48.1899035,
-    "longitude": 14.1195427
+    "longitude": 14.1195427,
+    "postcode": "4614",
+    "city": "Marchtrenk",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 48.1886579,
     "longitude": 14.1178415,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4614",
+    "city": "Marchtrenk",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

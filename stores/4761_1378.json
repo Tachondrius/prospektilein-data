@@ -4,42 +4,58 @@
     "retailer": "andreas_mayer",
     "shop": "musical_instrument",
     "latitude": 47.6103035,
-    "longitude": 13.7831396
+    "longitude": 13.7831396,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Anno Dazumal",
     "retailer": "anno_dazumal",
     "shop": "antiques",
     "latitude": 47.6104533,
-    "longitude": 13.7839319
+    "longitude": 13.7839319,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Antiquariat Karl Steinkogler",
     "retailer": "antiquariat_karl_steinkogler",
     "shop": "antiques",
     "latitude": 47.6112352,
-    "longitude": 13.7844929
+    "longitude": 13.7844929,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Atelier Greul",
     "retailer": "atelier_greul",
     "shop": "clothes",
     "latitude": 47.6111163,
-    "longitude": 13.785652
+    "longitude": 13.785652,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bauer Optik",
     "retailer": "bauer_optik",
     "shop": "optician",
     "latitude": 47.6106332,
-    "longitude": 13.784482
+    "longitude": 13.784482,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bestattung Haider",
     "retailer": "bestattung_haider",
     "shop": "funeral_directors",
     "latitude": 47.6103365,
-    "longitude": 13.783395
+    "longitude": 13.783395,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -47,63 +63,93 @@
     "shop": "supermarket",
     "latitude": 47.6105428,
     "longitude": 13.784891,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Buchhandlung Bücher, Musik & alte Dinge",
     "retailer": "buchhandlung_bucher_musik_und_alte_dinge",
     "shop": "books",
     "latitude": 47.6105364,
-    "longitude": 13.7851859
+    "longitude": 13.7851859,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "eing'seift Ausseer Seifenmanufaktur",
     "retailer": "eing_seift_ausseer_seifenmanufaktur",
     "shop": "cosmetics",
     "latitude": 47.6103862,
-    "longitude": 13.7840986
+    "longitude": 13.7840986,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elssenwenger Goldschmiede",
     "retailer": "elssenwenger_goldschmiede",
     "shop": "jewelry",
     "latitude": 47.6105934,
-    "longitude": 13.7843409
+    "longitude": 13.7843409,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fischverkauf",
     "retailer": "fischverkauf",
     "shop": "seafood",
     "latitude": 47.6113817,
-    "longitude": 13.7806816
+    "longitude": 13.7806816,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friedl Rad",
     "retailer": "friedl_rad",
     "shop": "bicycle",
     "latitude": 47.6115216,
-    "longitude": 13.7855938
+    "longitude": 13.7855938,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.6113852,
-    "longitude": 13.7859383
+    "longitude": 13.7859383,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Manuelas Happy Play",
     "retailer": "manuelas_happy_play",
     "shop": "toys",
     "latitude": 47.6103228,
-    "longitude": 13.7839067
+    "longitude": 13.7839067,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Möbel Peer",
     "retailer": "mobel_peer",
     "shop": "furniture",
     "latitude": 47.6129987,
-    "longitude": 13.7899014
+    "longitude": 13.7899014,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Penny",
@@ -111,21 +157,33 @@
     "shop": "supermarket",
     "latitude": 47.6115403,
     "longitude": 13.7866525,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Radio Soder",
     "retailer": "radio_soder",
     "shop": "electronics",
     "latitude": 47.6108372,
-    "longitude": 13.7860625
+    "longitude": 13.7860625,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rastl Meranplatz",
     "retailer": "rastl_meranplatz",
     "shop": "clothes",
     "latitude": 47.6112667,
-    "longitude": 13.7855326
+    "longitude": 13.7855326,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ruefa",
@@ -133,48 +191,68 @@
     "shop": "travel_agency",
     "latitude": 47.6100021,
     "longitude": 13.783721,
-    "brand": "Ruefa"
+    "brand": "Ruefa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schuhmoments",
     "retailer": "schuhmoments",
     "shop": "shoes",
     "latitude": 47.6105188,
-    "longitude": 13.7800334
+    "longitude": 13.7800334,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Teamshop SCAP",
     "retailer": "teamshop_scap",
     "shop": "sports",
     "latitude": 47.6102948,
-    "longitude": 13.7852219
+    "longitude": 13.7852219,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "The Zwoa - Gwond for Women",
     "retailer": "the_zwoa_gwond_for_women",
     "shop": "clothes",
     "latitude": 47.6103564,
-    "longitude": 13.7837734
+    "longitude": 13.7837734,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tranninger Leder",
     "retailer": "tranninger_leder",
     "shop": "bag",
     "latitude": 47.6114444,
-    "longitude": 13.7858196
+    "longitude": 13.7858196,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vinzi-Markt",
     "retailer": "vinzi_markt",
     "shop": "variety_store",
     "latitude": 47.6110187,
-    "longitude": 13.7867025
+    "longitude": 13.7867025,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ZEIT:LOS",
     "retailer": "zeit_los",
     "shop": "clothes",
     "latitude": 47.6113877,
-    "longitude": 13.7864202
+    "longitude": 13.7864202,
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

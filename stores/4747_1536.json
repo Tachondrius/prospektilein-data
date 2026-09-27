@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.4739595,
     "longitude": 15.3684307,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8641",
+    "city": "St. Marein im Mürztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -13,14 +17,22 @@
     "shop": "clothes",
     "latitude": 47.4738655,
     "longitude": 15.3688283,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8641",
+    "city": "Sankt Marein im Mürztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schwarz - Der Rauchfangkehrer",
     "retailer": "schwarz_der_rauchfangkehrer",
     "shop": "yes",
     "latitude": 47.4728052,
-    "longitude": 15.3604428
+    "longitude": 15.3604428,
+    "postcode": "8641",
+    "city": "St. Marein im Mürztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -28,6 +40,8 @@
     "shop": "supermarket",
     "latitude": 47.4731904,
     "longitude": 15.3652624,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

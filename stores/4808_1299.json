@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 48.0875155,
     "longitude": 12.9929744,
-    "brand": "Volkswagen;Audi;Seat"
+    "brand": "Volkswagen;Audi;Seat",
+    "postcode": "5142",
+    "city": "Eggelsberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -13,13 +17,21 @@
     "shop": "supermarket",
     "latitude": 48.0892414,
     "longitude": 12.992836,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "5142",
+    "city": "Eggelsberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fliesen Kreativ",
     "retailer": "fliesen_kreativ",
     "shop": "tiles",
     "latitude": 48.0801305,
-    "longitude": 12.9918235
+    "longitude": 12.9918235,
+    "postcode": "5142",
+    "city": "Eggelsberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

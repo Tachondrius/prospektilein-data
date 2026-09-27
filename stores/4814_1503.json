@@ -5,13 +5,17 @@
     "shop": "kiosk",
     "latitude": 48.1467812,
     "longitude": 15.0315354,
-    "brand": "Avia"
+    "brand": "Avia",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ-Korndeuer",
     "retailer": "kfz_korndeuer",
     "shop": "car_repair",
     "latitude": 48.1465518,
-    "longitude": 15.0316775
+    "longitude": 15.0316775,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

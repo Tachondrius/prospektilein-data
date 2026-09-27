@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 46.6252775,
     "longitude": 13.3741325,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Autohaus Patterer",
@@ -13,7 +15,11 @@
     "shop": "car",
     "latitude": 46.6275893,
     "longitude": 13.3757448,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "9620",
+    "city": "Hermagor-Pressegger See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -21,7 +27,9 @@
     "shop": "supermarket",
     "latitude": 46.6254513,
     "longitude": 13.372483,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -29,14 +37,20 @@
     "shop": "chemist",
     "latitude": 46.6269519,
     "longitude": 13.3712259,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9620",
+    "city": "Hermagor",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blue Rose",
     "retailer": "blue_rose",
     "shop": "tailor",
     "latitude": 46.627539,
-    "longitude": 13.3708926
+    "longitude": 13.3708926,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Deichmann",
@@ -44,7 +58,9 @@
     "shop": "shoes",
     "latitude": 46.6240949,
     "longitude": 13.3725876,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "dm",
@@ -52,35 +68,45 @@
     "shop": "chemist",
     "latitude": 46.6239604,
     "longitude": 13.3725983,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eder",
     "retailer": "eder",
     "shop": "books",
     "latitude": 46.627222,
-    "longitude": 13.3700682
+    "longitude": 13.3700682,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Essl",
     "retailer": "essl",
     "shop": "bag",
     "latitude": 46.6276764,
-    "longitude": 13.3727633
+    "longitude": 13.3727633,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Frisör Christine",
     "retailer": "frisor_christine",
     "shop": "hairdresser",
     "latitude": 46.6268148,
-    "longitude": 13.3709396
+    "longitude": 13.3709396,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Frisör Enzi",
     "retailer": "frisor_enzi",
     "shop": "hairdresser",
     "latitude": 46.6269704,
-    "longitude": 13.374101
+    "longitude": 13.374101,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fussl",
@@ -88,49 +114,63 @@
     "shop": "clothes",
     "latitude": 46.6268569,
     "longitude": 13.3709375,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gailtaler Reisebüro",
     "retailer": "gailtaler_reiseburo",
     "shop": "travel_agency",
     "latitude": 46.6269834,
-    "longitude": 13.3709394
+    "longitude": 13.3709394,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Georg Essl",
     "retailer": "georg_essl",
     "shop": "bag",
     "latitude": 46.6276625,
-    "longitude": 13.3725306
+    "longitude": 13.3725306,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gruber",
     "retailer": "gruber",
     "shop": "doityourself",
     "latitude": 46.6260453,
-    "longitude": 13.3786503
+    "longitude": 13.3786503,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gärtnerei Kleibner",
     "retailer": "gartnerei_kleibner",
     "shop": "florist",
     "latitude": 46.6259748,
-    "longitude": 13.3723864
+    "longitude": 13.3723864,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Haar Zone",
     "retailer": "haar_zone",
     "shop": "hairdresser",
     "latitude": 46.6264196,
-    "longitude": 13.3730394
+    "longitude": 13.3730394,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hansaton",
     "retailer": "hansaton",
     "shop": "hearing_aids",
     "latitude": 46.6270426,
-    "longitude": 13.3709433
+    "longitude": 13.3709433,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -138,14 +178,20 @@
     "shop": "supermarket",
     "latitude": 46.6247187,
     "longitude": 13.373218,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9620",
+    "city": "Hermagor-Pressegger See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Imkerei Segner",
     "retailer": "imkerei_segner",
     "shop": "yes",
     "latitude": 46.6233446,
-    "longitude": 13.3725689
+    "longitude": 13.3725689,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Intersport",
@@ -153,7 +199,9 @@
     "shop": "sports",
     "latitude": 46.6271057,
     "longitude": 13.3712196,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KiK",
@@ -161,35 +209,49 @@
     "shop": "clothes",
     "latitude": 46.6274474,
     "longitude": 13.3739233,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Klipp Frisör",
     "retailer": "klipp_frisor",
     "shop": "hairdresser",
     "latitude": 46.6272756,
-    "longitude": 13.3720168
+    "longitude": 13.3720168,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kury Uhren Schmuck",
     "retailer": "kury_uhren_schmuck",
     "shop": "jewelry",
     "latitude": 46.6274178,
-    "longitude": 13.3700534
+    "longitude": 13.3700534,
+    "postcode": "9620",
+    "city": "Hermagor",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 46.6239519,
-    "longitude": 13.3726304
+    "longitude": 13.3726304,
+    "postcode": "9620",
+    "city": "Hermagor-Pressegger See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Moden Blue Rose",
     "retailer": "moden_blue_rose",
     "shop": "clothes",
     "latitude": 46.6275384,
-    "longitude": 13.3708497
+    "longitude": 13.3708497,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "OBI",
@@ -197,14 +259,19 @@
     "shop": "doityourself",
     "latitude": 46.6258609,
     "longitude": 13.3745964,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "9620",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Optik Plessin",
     "retailer": "optik_plessin",
     "shop": "optician",
     "latitude": 46.6274915,
-    "longitude": 13.371508
+    "longitude": 13.371508,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pagro",
@@ -212,14 +279,20 @@
     "shop": "stationery",
     "latitude": 46.6249191,
     "longitude": 13.3725414,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "9620",
+    "city": "Hermagor-Pressegger See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Reifenzentrum",
     "retailer": "reifenzentrum",
     "shop": "tyres",
     "latitude": 46.6249128,
-    "longitude": 13.3739555
+    "longitude": 13.3739555,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "s.Oliver",
@@ -227,14 +300,18 @@
     "shop": "clothes",
     "latitude": 46.6275153,
     "longitude": 13.3725554,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Shoes",
     "retailer": "shop_shoes",
     "shop": "shoes",
     "latitude": 46.6250957,
-    "longitude": 13.371627
+    "longitude": 13.371627,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -242,7 +319,9 @@
     "shop": "supermarket",
     "latitude": 46.6264791,
     "longitude": 13.3700859,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -250,21 +329,29 @@
     "shop": "supermarket",
     "latitude": 46.6266428,
     "longitude": 13.3744525,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9620",
+    "city": "Hermagor-Pressegger See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Stattmann",
     "retailer": "stattmann",
     "shop": "clothes",
     "latitude": 46.6277145,
-    "longitude": 13.3715678
+    "longitude": 13.3715678,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "newsagent",
     "latitude": 46.6271596,
-    "longitude": 13.3709444
+    "longitude": 13.3709444,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Takko Fashion",
@@ -272,14 +359,20 @@
     "shop": "clothes",
     "latitude": 46.6238296,
     "longitude": 13.3724427,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Unser Lagerhaus",
     "retailer": "unser_lagerhaus",
     "shop": "trade",
     "latitude": 46.6271484,
-    "longitude": 13.377217
+    "longitude": 13.377217,
+    "postcode": "9620",
+    "city": "Hermagor-Pressegger See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Viva",
@@ -287,13 +380,17 @@
     "shop": "convenience",
     "latitude": 46.6296873,
     "longitude": 13.3786366,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Werner Bartolot",
     "retailer": "werner_bartolot",
     "shop": "weapons",
     "latitude": 46.6267118,
-    "longitude": 13.3730015
+    "longitude": 13.3730015,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

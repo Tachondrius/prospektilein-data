@@ -4,28 +4,38 @@
     "retailer": "braubogen",
     "shop": "convenience",
     "latitude": 47.8032492,
-    "longitude": 14.7720643
+    "longitude": 14.7720643,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Schwarzlmüller",
     "retailer": "backerei_schwarzlmuller",
     "shop": "bakery",
     "latitude": 47.8029819,
-    "longitude": 14.7723225
+    "longitude": 14.7723225,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "floral-kreativ",
     "retailer": "floral_kreativ",
     "shop": "florist",
     "latitude": 47.8034499,
-    "longitude": 14.7717406
+    "longitude": 14.7717406,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Renner",
     "retailer": "friseur_renner",
     "shop": "hairdresser",
     "latitude": 47.8028878,
-    "longitude": 14.7717983
+    "longitude": 14.7717983,
+    "postcode": "3343",
+    "city": "Hollenstein/Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -33,14 +43,20 @@
     "shop": "doityourself",
     "latitude": 47.8075883,
     "longitude": 14.7703813,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3343",
+    "city": "Hollenstein an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lindlbauer",
     "retailer": "lindlbauer",
     "shop": "florist",
     "latitude": 47.8040689,
-    "longitude": 14.7710279
+    "longitude": 14.7710279,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -48,6 +64,10 @@
     "shop": "supermarket",
     "latitude": 47.8045476,
     "longitude": 14.7727993,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3343",
+    "city": "Hollenstein an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

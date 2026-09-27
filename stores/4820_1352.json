@@ -4,14 +4,18 @@
     "retailer": "bf_motion_e_u",
     "shop": "bicycle",
     "latitude": 48.2092769,
-    "longitude": 13.5250497
+    "longitude": 13.5250497,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Birner",
     "retailer": "birner",
     "shop": "car_parts",
     "latitude": 48.2091655,
-    "longitude": 13.5251074
+    "longitude": 13.5251074,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "driveME",
@@ -19,6 +23,8 @@
     "shop": "car",
     "latitude": 48.2088327,
     "longitude": 13.5272172,
-    "brand": "BMW"
+    "brand": "BMW",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

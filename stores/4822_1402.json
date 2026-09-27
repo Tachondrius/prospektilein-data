@@ -4,14 +4,20 @@
     "retailer": "backerei_aigner",
     "shop": "bakery",
     "latitude": 48.2237586,
-    "longitude": 14.0203928
+    "longitude": 14.0203928,
+    "postcode": "4611",
+    "city": "Buchkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "HairStyle by Tina",
     "retailer": "hairstyle_by_tina",
     "shop": "hairdresser",
     "latitude": 48.2256431,
-    "longitude": 14.0273249
+    "longitude": 14.0273249,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -19,6 +25,8 @@
     "shop": "supermarket",
     "latitude": 48.2248218,
     "longitude": 14.0281912,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

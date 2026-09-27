@@ -4,14 +4,21 @@
     "retailer": "abschleppdienst_niedrist",
     "shop": "car_repair",
     "latitude": 46.9151702,
-    "longitude": 12.333748
+    "longitude": 12.333748,
+    "city": "St. Jakob in Defereggen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport Troger",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 46.9160978,
-    "longitude": 12.3323067
+    "longitude": 12.3323067,
+    "postcode": "9963",
+    "city": "St. Jakob in Defereggen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -19,14 +26,20 @@
     "shop": "supermarket",
     "latitude": 46.9167707,
     "longitude": 12.331152,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9963",
+    "city": "St. Jakob in Defereggen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport 2000 Passler",
     "retailer": "sport_2000_passler",
     "shop": "clothes",
     "latitude": 46.9171,
-    "longitude": 12.3300604
+    "longitude": 12.3300604,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Turmöl Quick",
@@ -34,13 +47,20 @@
     "shop": "fuel",
     "latitude": 46.9151882,
     "longitude": 12.3338103,
-    "brand": "Turmöl"
+    "brand": "Turmöl",
+    "postcode": "9963",
+    "city": "St. Jakob in Defereggen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Unterkircher",
     "retailer": "unterkircher",
     "shop": "shoes",
     "latitude": 46.9174479,
-    "longitude": 12.3310542
+    "longitude": 12.3310542,
+    "city": "St. Jakob in Defereggen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

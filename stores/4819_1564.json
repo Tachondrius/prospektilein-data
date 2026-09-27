@@ -5,14 +5,22 @@
     "shop": "pet",
     "latitude": 48.1960707,
     "longitude": 15.6403968,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Diskont Depot",
     "retailer": "diskont_depot",
     "shop": "storage_rental",
     "latitude": 48.1947061,
-    "longitude": 15.6403777
+    "longitude": 15.6403777,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -20,7 +28,9 @@
     "shop": "chemist",
     "latitude": 48.1959288,
     "longitude": 15.6403763,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -28,7 +38,11 @@
     "shop": "supermarket",
     "latitude": 48.1973477,
     "longitude": 15.6405361,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3100",
+    "city": "Oberwagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "METRO",
@@ -36,7 +50,11 @@
     "shop": "wholesale",
     "latitude": 48.1970955,
     "longitude": 15.6425969,
-    "brand": "METRO"
+    "brand": "METRO",
+    "postcode": "3100",
+    "city": "Stattersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -44,13 +62,21 @@
     "shop": "supermarket",
     "latitude": 48.1964672,
     "longitude": 15.6403487,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zweiradzentrum Ginzinger",
     "retailer": "zweiradzentrum_ginzinger",
     "shop": "motorcycle",
     "latitude": 48.1978017,
-    "longitude": 15.6407892
+    "longitude": 15.6407892,
+    "postcode": "3100",
+    "city": "Stattersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

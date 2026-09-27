@@ -4,7 +4,11 @@
     "retailer": "ahornseekiosk",
     "shop": "kiosk",
     "latitude": 47.5014473,
-    "longitude": 12.1991881
+    "longitude": 12.1991881,
+    "postcode": "6306",
+    "city": "Söll",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,7 +16,11 @@
     "shop": "bakery",
     "latitude": 47.5033783,
     "longitude": 12.194297,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6306",
+    "city": "Söll",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -20,7 +28,9 @@
     "shop": "chemist",
     "latitude": 47.5029399,
     "longitude": 12.1932643,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -28,49 +38,71 @@
     "shop": "chemist",
     "latitude": 47.5037521,
     "longitude": 12.1947273,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6306",
+    "city": "Söll",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei MItterer",
     "retailer": "backerei_mitterer",
     "shop": "bakery",
     "latitude": 47.5028958,
-    "longitude": 12.1907584
+    "longitude": 12.1907584,
+    "postcode": "6306",
+    "city": "Söll",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Expert Hochfilzer",
     "retailer": "expert_hochfilzer",
     "shop": "electronics",
     "latitude": 47.5045161,
-    "longitude": 12.1921854
+    "longitude": 12.1921854,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "grün zone",
     "retailer": "grun_zone",
     "shop": "florist",
     "latitude": 47.5028808,
-    "longitude": 12.1910048
+    "longitude": 12.1910048,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hoamatkastl",
     "retailer": "hoamatkastl",
     "shop": "convenience",
     "latitude": 47.5040877,
-    "longitude": 12.1908524
+    "longitude": 12.1908524,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hotel Alpenpanorama",
     "retailer": "hotel_alpenpanorama",
     "shop": "pastry",
     "latitude": 47.50873,
-    "longitude": 12.1950037
+    "longitude": 12.1950037,
+    "postcode": "6306",
+    "city": "Söll",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mirabell",
     "retailer": "mirabell",
     "shop": "pastry",
     "latitude": 47.5043532,
-    "longitude": 12.1930831
+    "longitude": 12.1930831,
+    "postcode": "6306",
+    "city": "Söll",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -78,48 +110,66 @@
     "shop": "supermarket",
     "latitude": 47.503699,
     "longitude": 12.1945022,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6306",
+    "city": "Söll",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schnitt + Style",
     "retailer": "schnitt_plus_style",
     "shop": "hairdresser",
     "latitude": 47.5044236,
-    "longitude": 12.1934914
+    "longitude": 12.1934914,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Skicenter Stoll",
     "retailer": "skicenter_stoll",
     "shop": "sports",
     "latitude": 47.5002316,
-    "longitude": 12.1964975
+    "longitude": 12.1964975,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Skiverleih Sport Mayr",
     "retailer": "skiverleih_sport_mayr",
     "shop": "sports",
     "latitude": 47.5048195,
-    "longitude": 12.1938479
+    "longitude": 12.1938479,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Snow & Fun",
     "retailer": "snow_und_fun",
     "shop": "sports",
     "latitude": 47.5024651,
-    "longitude": 12.1929064
+    "longitude": 12.1929064,
+    "postcode": "6306",
+    "city": "Söll",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Stoll Reisen",
     "retailer": "stoll_reisen",
     "shop": "travel_agency",
     "latitude": 47.504025,
-    "longitude": 12.1923647
+    "longitude": 12.1923647,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Variety Store",
     "retailer": "shop_variety_store",
     "shop": "variety_store",
     "latitude": 47.5037055,
-    "longitude": 12.1920387
+    "longitude": 12.1920387,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

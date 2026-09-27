@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 48.16545,
     "longitude": 16.4118973,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Diskont Depot",
     "retailer": "diskont_depot",
     "shop": "storage_rental",
     "latitude": 48.1602994,
-    "longitude": 16.4189388
+    "longitude": 16.4189388,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -20,13 +28,21 @@
     "shop": "supermarket",
     "latitude": 48.1653925,
     "longitude": 16.4102082,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hundesalon Wash 'n' Wag",
     "retailer": "hundesalon_wash_n_wag",
     "shop": "pet_grooming",
     "latitude": 48.1663334,
-    "longitude": 16.4181192
+    "longitude": 16.4181192,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

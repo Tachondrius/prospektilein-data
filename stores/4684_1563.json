@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 46.8416259,
     "longitude": 15.6395699,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8421",
+    "city": "Wolfsberg im Schwarzautal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Supermarket",
     "retailer": "shop_supermarket",
     "shop": "supermarket",
     "latitude": 46.8416026,
-    "longitude": 15.6396539
+    "longitude": 15.6396539,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

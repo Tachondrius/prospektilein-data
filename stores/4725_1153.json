@@ -4,21 +4,27 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.2582521,
-    "longitude": 11.5303285
+    "longitude": 11.5303285,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fasserhof",
     "retailer": "fasserhof",
     "shop": "agrarian",
     "latitude": 47.2574108,
-    "longitude": 11.5311662
+    "longitude": 11.5311662,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Glungezer Bahn",
     "retailer": "glungezer_bahn",
     "shop": "ticket",
     "latitude": 47.2563435,
-    "longitude": 11.5354142
+    "longitude": 11.5354142,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -26,13 +32,21 @@
     "shop": "convenience",
     "latitude": 47.2591039,
     "longitude": 11.5336484,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "postcode": "6075",
+    "city": "Tulfes",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tuxerbauer",
     "retailer": "tuxerbauer",
     "shop": "farm",
     "latitude": 47.2575654,
-    "longitude": 11.5315997
+    "longitude": 11.5315997,
+    "postcode": "6075",
+    "city": "Tulfes",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,27 +4,37 @@
     "retailer": "bair",
     "shop": "clothes",
     "latitude": 48.0285521,
-    "longitude": 14.7707594
+    "longitude": 14.7707594,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumenwelt Zemlizka",
     "retailer": "blumenwelt_zemlizka",
     "shop": "florist",
     "latitude": 48.028406,
-    "longitude": 14.7703667
+    "longitude": 14.7703667,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DEPOT Selfstorage",
     "retailer": "depot_selfstorage",
     "shop": "storage_rental",
     "latitude": 48.0273617,
-    "longitude": 14.7700482
+    "longitude": 14.7700482,
+    "postcode": "3331",
+    "city": "Kematen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "HENNIGLER Martin Moderne Raumgestaltung",
     "retailer": "hennigler_martin_moderne_raumgestaltung",
     "shop": "interior_decoration",
     "latitude": 48.0287567,
-    "longitude": 14.7712313
+    "longitude": 14.7712313,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

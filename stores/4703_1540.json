@@ -5,42 +5,62 @@
     "shop": "car_repair",
     "latitude": 47.0303964,
     "longitude": 15.4014774,
-    "brand": "Carglass"
+    "brand": "Carglass",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Durmaz Gastrogeräte",
     "retailer": "durmaz_gastrogerate",
     "shop": "trade",
     "latitude": 47.0309309,
-    "longitude": 15.4053898
+    "longitude": 15.4053898,
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Farben Morscher",
     "retailer": "farben_morscher",
     "shop": "paint",
     "latitude": 47.0319098,
-    "longitude": 15.4005853
+    "longitude": 15.4005853,
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fingernagelwerkstatt",
     "retailer": "fingernagelwerkstatt",
     "shop": "beauty",
     "latitude": 47.0397046,
-    "longitude": 15.4009287
+    "longitude": 15.4009287,
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairlovers",
     "retailer": "hairlovers",
     "shop": "hairdresser",
     "latitude": 47.0304956,
-    "longitude": 15.4046991
+    "longitude": 15.4046991,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kolarik & Leeb",
     "retailer": "kolarik_und_leeb",
     "shop": "yes",
     "latitude": 47.030164,
-    "longitude": 15.4029132
+    "longitude": 15.4029132,
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -48,21 +68,33 @@
     "shop": "supermarket",
     "latitude": 47.0302541,
     "longitude": 15.4032564,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mammamia",
     "retailer": "mammamia",
     "shop": "furniture",
     "latitude": 47.0300723,
-    "longitude": 15.4015416
+    "longitude": 15.4015416,
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Roller & Moped Shop",
     "retailer": "roller_und_moped_shop",
     "shop": "motorcycle",
     "latitude": 47.0318987,
-    "longitude": 15.401915
+    "longitude": 15.401915,
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vogl",
@@ -70,7 +102,9 @@
     "shop": "car_repair",
     "latitude": 47.0308688,
     "longitude": 15.4010664,
-    "brand": "Renault"
+    "brand": "Renault",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vogl",
@@ -78,13 +112,21 @@
     "shop": "car",
     "latitude": 47.0308691,
     "longitude": 15.4013969,
-    "brand": "Renault"
+    "brand": "Renault",
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vorwerk",
     "retailer": "vorwerk",
     "shop": "kitchen",
     "latitude": 47.0305273,
-    "longitude": 15.4014244
+    "longitude": 15.4014244,
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

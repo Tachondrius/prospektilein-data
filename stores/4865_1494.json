@@ -4,7 +4,9 @@
     "retailer": "adeg",
     "shop": "supermarket",
     "latitude": 48.6524352,
-    "longitude": 14.9420799
+    "longitude": 14.9420799,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mazda",
@@ -12,6 +14,8 @@
     "shop": "car",
     "latitude": 48.6534382,
     "longitude": 14.9431425,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

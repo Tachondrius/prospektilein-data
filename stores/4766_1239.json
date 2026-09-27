@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.6624763,
     "longitude": 12.3960014,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6345",
+    "city": "Kössen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nordic Center",
     "retailer": "nordic_center",
     "shop": "sports",
     "latitude": 47.6695427,
-    "longitude": 12.3971485
+    "longitude": 12.3971485,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

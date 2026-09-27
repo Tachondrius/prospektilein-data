@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 47.9752597,
     "longitude": 16.2810309,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Oankauf",
     "retailer": "oankauf",
     "shop": "car",
     "latitude": 47.9775259,
-    "longitude": 16.2838452
+    "longitude": 16.2838452,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "OBI",
@@ -20,13 +26,19 @@
     "shop": "doityourself",
     "latitude": 47.9764944,
     "longitude": 16.2814701,
-    "brand": "OBI"
+    "brand": "OBI",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rekord Baden GmbH",
     "retailer": "rekord_baden_gmbh",
     "shop": "windows",
     "latitude": 47.9771525,
-    "longitude": 16.2827048
+    "longitude": 16.2827048,
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

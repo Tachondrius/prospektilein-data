@@ -4,7 +4,11 @@
     "retailer": "bichlback",
     "shop": "bakery",
     "latitude": 47.6506947,
-    "longitude": 12.2153785
+    "longitude": 12.2153785,
+    "postcode": "6342",
+    "city": "Niederndorf",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bike Quadrat",
@@ -12,48 +16,64 @@
     "shop": "bicycle",
     "latitude": 47.6500547,
     "longitude": 12.2164068,
-    "brand": "Pivot;Mondraker;BMC;Scor;Moustache;Norco;Lapierre;Ridley"
+    "brand": "Pivot;Mondraker;BMC;Scor;Moustache;Norco;Lapierre;Ridley",
+    "postcode": "6342",
+    "city": "Niederndorf",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektrotechnik Ritzer Roland",
     "retailer": "elektrotechnik_ritzer_roland",
     "shop": "electronics",
     "latitude": 47.651987,
-    "longitude": 12.2174454
+    "longitude": 12.2174454,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Moser",
     "retailer": "moser",
     "shop": "beverages",
     "latitude": 47.6509492,
-    "longitude": 12.2143775
+    "longitude": 12.2143775,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Niederndorfer Bauernladen",
     "retailer": "niederndorfer_bauernladen",
     "shop": "gift",
     "latitude": 47.6501226,
-    "longitude": 12.2144585
+    "longitude": 12.2144585,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Röck",
     "retailer": "rock",
     "shop": "jewelry",
     "latitude": 47.6509165,
-    "longitude": 12.2154489
+    "longitude": 12.2154489,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schneidig bei Andi",
     "retailer": "schneidig_bei_andi",
     "shop": "hairdresser",
     "latitude": 47.6505,
-    "longitude": 12.2150025
+    "longitude": 12.2150025,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Traffik Doppelhammer",
     "retailer": "traffik_doppelhammer",
     "shop": "books",
     "latitude": 47.6501757,
-    "longitude": 12.2157395
+    "longitude": 12.2157395,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

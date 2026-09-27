@@ -4,34 +4,48 @@
     "retailer": "backerei_goldenitsch",
     "shop": "bakery",
     "latitude": 47.784191,
-    "longitude": 16.9445887
+    "longitude": 16.9445887,
+    "postcode": "7161",
+    "city": "Sankt Andrä am Zicksee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.7863884,
-    "longitude": 16.9401589
+    "longitude": 16.9401589,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Raiffeisenlagerhaus St.Andrä am Zicksee",
     "retailer": "raiffeisenlagerhaus_st_andra_am_zicksee",
     "shop": "agrarian",
     "latitude": 47.7821673,
-    "longitude": 16.9451661
+    "longitude": 16.9451661,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Tabak Trafik Andrea Schwartz",
     "retailer": "tabak_trafik_andrea_schwartz",
     "shop": "newsagent",
     "latitude": 47.7840246,
-    "longitude": 16.9424661
+    "longitude": 16.9424661,
+    "postcode": "7161",
+    "city": "Sankt Andrä am Zicksee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weingut Ziniel",
     "retailer": "weingut_ziniel",
     "shop": "wine",
     "latitude": 47.7846772,
-    "longitude": 16.9428505
+    "longitude": 16.9428505,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

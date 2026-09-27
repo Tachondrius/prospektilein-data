@@ -4,35 +4,47 @@
     "retailer": "adam",
     "shop": "watches",
     "latitude": 48.6678543,
-    "longitude": 16.6301057
+    "longitude": 16.6301057,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 48.6677665,
-    "longitude": 16.6306558
+    "longitude": 16.6306558,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Mattner",
     "retailer": "blumen_mattner",
     "shop": "florist",
     "latitude": 48.6675608,
-    "longitude": 16.6344572
+    "longitude": 16.6344572,
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gibs weida",
     "retailer": "gibs_weida",
     "shop": "clothes",
     "latitude": 48.6683053,
-    "longitude": 16.6313495
+    "longitude": 16.6313495,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.6684213,
-    "longitude": 16.6307655
+    "longitude": 16.6307655,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -40,27 +52,39 @@
     "shop": "doityourself",
     "latitude": 48.6693571,
     "longitude": 16.6388749,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Radwerk",
     "retailer": "radwerk",
     "shop": "bicycle",
     "latitude": 48.6681763,
-    "longitude": 16.6306794
+    "longitude": 16.6306794,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reidlinger",
     "retailer": "reidlinger",
     "shop": "gift",
     "latitude": 48.667831,
-    "longitude": 16.6303895
+    "longitude": 16.6303895,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schreiber's Obst- und Saftladen",
     "retailer": "schreiber_s_obst_und_saftladen",
     "shop": "greengrocer",
     "latitude": 48.6675778,
-    "longitude": 16.6312489
+    "longitude": 16.6312489,
+    "postcode": "2170",
+    "city": "Poysdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

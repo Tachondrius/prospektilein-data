@@ -4,13 +4,19 @@
     "retailer": "gstach_hofladen",
     "shop": "farm",
     "latitude": 47.2880574,
-    "longitude": 9.5979986
+    "longitude": 9.5979986,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kastner Autoersatzteile - Zubehör",
     "retailer": "kastner_autoersatzteile_zubehor",
     "shop": "car_parts",
     "latitude": 47.284537,
-    "longitude": 9.5920075
+    "longitude": 9.5920075,
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

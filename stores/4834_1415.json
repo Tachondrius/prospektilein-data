@@ -4,21 +4,27 @@
     "retailer": "eder",
     "shop": "car_repair",
     "latitude": 48.3477072,
-    "longitude": 14.1547082
+    "longitude": 14.1547082,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hans Eder GmbH",
     "retailer": "hans_eder_gmbh",
     "shop": "car",
     "latitude": 48.347612,
-    "longitude": 14.1544881
+    "longitude": 14.1544881,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Punzenberger",
     "retailer": "punzenberger",
     "shop": "car_repair",
     "latitude": 48.349168,
-    "longitude": 14.1518458
+    "longitude": 14.1518458,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Punzenberger",
@@ -26,7 +32,9 @@
     "shop": "car",
     "latitude": 48.3492999,
     "longitude": 14.1516366,
-    "brand": "Seat"
+    "brand": "Seat",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -34,6 +42,10 @@
     "shop": "supermarket",
     "latitude": 48.3494701,
     "longitude": 14.1570586,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4111",
+    "city": "Walding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

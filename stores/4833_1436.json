@@ -4,21 +4,31 @@
     "retailer": "backerei_fenzl",
     "shop": "bakery",
     "latitude": 48.337653,
-    "longitude": 14.365511
+    "longitude": 14.365511,
+    "postcode": "4209",
+    "city": "Engerwitzdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Figaro Uno",
     "retailer": "figaro_uno",
     "shop": "hairdresser",
     "latitude": 48.3376884,
-    "longitude": 14.3658916
+    "longitude": 14.3658916,
+    "postcode": "4209",
+    "city": "Engerwitzdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Moosbinkerl",
     "retailer": "moosbinkerl",
     "shop": "florist",
     "latitude": 48.3374104,
-    "longitude": 14.3653812
+    "longitude": 14.3653812,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -26,6 +36,8 @@
     "shop": "supermarket",
     "latitude": 48.337489,
     "longitude": 14.3677771,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

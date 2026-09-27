@@ -5,49 +5,69 @@
     "shop": "bakery",
     "latitude": 47.2882103,
     "longitude": 11.5657677,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6111",
+    "city": "Volders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Car Parts Tyrol",
     "retailer": "car_parts_tyrol",
     "shop": "car_repair",
     "latitude": 47.2864208,
-    "longitude": 11.5619302
+    "longitude": 11.5619302,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "DAN Küchen",
     "retailer": "dan_kuchen",
     "shop": "kitchen",
     "latitude": 47.2874462,
-    "longitude": 11.564852
+    "longitude": 11.564852,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Einfach schön - Kosmetik Julia",
     "retailer": "einfach_schon_kosmetik_julia",
     "shop": "beauty",
     "latitude": 47.2865072,
-    "longitude": 11.5669405
+    "longitude": 11.5669405,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ezeb Brot",
     "retailer": "ezeb_brot",
     "shop": "bakery",
     "latitude": 47.2872366,
-    "longitude": 11.5656237
+    "longitude": 11.5656237,
+    "postcode": "6111",
+    "city": "Volders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Relly",
     "retailer": "friseur_relly",
     "shop": "hairdresser",
     "latitude": 47.2871294,
-    "longitude": 11.5656728
+    "longitude": 11.5656728,
+    "postcode": "6111",
+    "city": "Volders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "K & K Service GmbH",
     "retailer": "k_und_k_service_gmbh",
     "shop": "car_repair",
     "latitude": 47.2837721,
-    "longitude": 11.5656026
+    "longitude": 11.5656026,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -55,7 +75,11 @@
     "shop": "supermarket",
     "latitude": 47.2881761,
     "longitude": 11.5657742,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6111",
+    "city": "Volders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TEDi",
@@ -63,13 +87,17 @@
     "shop": "variety_store",
     "latitude": 47.2877017,
     "longitude": 11.5660863,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Harb",
     "retailer": "trafik_harb",
     "shop": "tobacco",
     "latitude": 47.2871863,
-    "longitude": 11.5656524
+    "longitude": 11.5656524,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

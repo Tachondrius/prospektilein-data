@@ -4,21 +4,33 @@
     "retailer": "acr_wien_nord",
     "shop": "hifi",
     "latitude": 48.2769176,
-    "longitude": 16.3886753
+    "longitude": 16.3886753,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "APR Autoglass",
     "retailer": "apr_autoglass",
     "shop": "car_repair",
     "latitude": 48.2765315,
-    "longitude": 16.3892397
+    "longitude": 16.3892397,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "BestDrive",
     "retailer": "bestdrive",
     "shop": "car_repair",
     "latitude": 48.2731135,
-    "longitude": 16.3884297
+    "longitude": 16.3884297,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa Plus",
@@ -26,7 +38,11 @@
     "shop": "supermarket",
     "latitude": 48.2789379,
     "longitude": 16.3887813,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa stop & shop",
@@ -34,14 +50,18 @@
     "shop": "convenience",
     "latitude": 48.2783708,
     "longitude": 16.3879225,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen Regina",
     "retailer": "blumen_regina",
     "shop": "florist",
     "latitude": 48.2749367,
-    "longitude": 16.389394
+    "longitude": 16.389394,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "dm",
@@ -49,7 +69,11 @@
     "shop": "chemist",
     "latitude": 48.2774522,
     "longitude": 16.3875371,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Eurospar",
@@ -57,14 +81,20 @@
     "shop": "supermarket",
     "latitude": 48.2753954,
     "longitude": 16.3885414,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Foodpoint Floridsdorf Prager Straße",
     "retailer": "foodpoint_floridsdorf_prager_strae",
     "shop": "convenience",
     "latitude": 48.278695,
-    "longitude": 16.3876914
+    "longitude": 16.3876914,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Forstinger",
@@ -72,14 +102,20 @@
     "shop": "car_repair",
     "latitude": 48.2734168,
     "longitude": 16.389432,
-    "brand": "Forstinger"
+    "brand": "Forstinger",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ideal",
     "retailer": "ideal",
     "shop": "supermarket",
     "latitude": 48.2771787,
-    "longitude": 16.3872471
+    "longitude": 16.3872471,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Il moto",
@@ -87,7 +123,9 @@
     "shop": "motorcycle",
     "latitude": 48.2760069,
     "longitude": 16.388361,
-    "brand": "triumph, ktm"
+    "brand": "triumph, ktm",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Porsche Wien-Pragerstrasse",
@@ -95,21 +133,33 @@
     "shop": "car",
     "latitude": 48.2739167,
     "longitude": 16.3887078,
-    "brand": "Porsche"
+    "brand": "Porsche",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Raum li-Belle",
     "retailer": "raum_li_belle",
     "shop": "massage",
     "latitude": 48.2788998,
-    "longitude": 16.3871605
+    "longitude": 16.3871605,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Rudolf Augustyn",
     "retailer": "rudolf_augustyn",
     "shop": "florist",
     "latitude": 48.2714699,
-    "longitude": 16.3833745
+    "longitude": 16.3833745,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar Express",
@@ -117,34 +167,44 @@
     "shop": "convenience",
     "latitude": 48.2763996,
     "longitude": 16.3881212,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Stir Bike",
     "retailer": "stir_bike",
     "shop": "bicycle",
     "latitude": 48.2750839,
-    "longitude": 16.3882118
+    "longitude": 16.3882118,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Teppich Center Siamak",
     "retailer": "teppich_center_siamak",
     "shop": "furniture",
     "latitude": 48.2755555,
-    "longitude": 16.3881017
+    "longitude": 16.3881017,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik Rockenbauer",
     "retailer": "trafik_rockenbauer",
     "shop": "tobacco",
     "latitude": 48.2751879,
-    "longitude": 16.3882813
+    "longitude": 16.3882813,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Traum",
     "retailer": "traum",
     "shop": "beauty",
     "latitude": 48.2771428,
-    "longitude": 16.3871123
+    "longitude": 16.3871123,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

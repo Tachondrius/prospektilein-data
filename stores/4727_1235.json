@@ -4,7 +4,9 @@
     "retailer": "hollaus",
     "shop": "tiles",
     "latitude": 47.2732731,
-    "longitude": 12.354146
+    "longitude": 12.354146,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MPREIS",
@@ -12,6 +14,8 @@
     "shop": "supermarket",
     "latitude": 47.2743033,
     "longitude": 12.3597227,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

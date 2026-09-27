@@ -4,20 +4,28 @@
     "retailer": "imkerei_kirschner",
     "shop": "honey",
     "latitude": 48.5002216,
-    "longitude": 15.9562252
+    "longitude": 15.9562252,
+    "postcode": "3704",
+    "city": "Großwetzdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Johann Pass",
     "retailer": "johann_pass",
     "shop": "car",
     "latitude": 48.5010618,
-    "longitude": 15.9587948
+    "longitude": 15.9587948,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schwarz",
     "retailer": "schwarz",
     "shop": "taxidermy",
     "latitude": 48.5018196,
-    "longitude": 15.9596736
+    "longitude": 15.9596736,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

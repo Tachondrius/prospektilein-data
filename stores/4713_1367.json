@@ -4,28 +4,38 @@
     "retailer": "das_kaminzimmer",
     "shop": "yes",
     "latitude": 47.1337144,
-    "longitude": 13.6794193
+    "longitude": 13.6794193,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fleischerei Lankmayr",
     "retailer": "fleischerei_lankmayr",
     "shop": "butcher",
     "latitude": 47.1342447,
-    "longitude": 13.6797978
+    "longitude": 13.6797978,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kosmetik Andrea",
     "retailer": "kosmetik_andrea",
     "shop": "beauty",
     "latitude": 47.1359331,
-    "longitude": 13.6782735
+    "longitude": 13.6782735,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Saloon Figaro",
     "retailer": "saloon_figaro",
     "shop": "hairdresser",
     "latitude": 47.1334738,
-    "longitude": 13.6779078
+    "longitude": 13.6779078,
+    "postcode": "5570",
+    "city": "Mauterndorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Pichler GmbH",
@@ -33,20 +43,28 @@
     "shop": "sports",
     "latitude": 47.133679,
     "longitude": 13.6792605,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "5570",
+    "city": "Mauterndorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.1372393,
-    "longitude": 13.6785512
+    "longitude": 13.6785512,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Trausners im Markt",
     "retailer": "trausners_im_markt",
     "shop": "deli",
     "latitude": 47.1334216,
-    "longitude": 13.6792018
+    "longitude": 13.6792018,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

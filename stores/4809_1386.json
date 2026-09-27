@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 48.0917415,
     "longitude": 13.8674944,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4650",
+    "city": "Lambach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hatice's Salon",
     "retailer": "hatice_s_salon",
     "shop": "hairdresser",
     "latitude": 48.0906866,
-    "longitude": 13.8645994
+    "longitude": 13.8645994,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -20,7 +26,11 @@
     "shop": "supermarket",
     "latitude": 48.0910385,
     "longitude": 13.8627048,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "4650",
+    "city": "Lambach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "PENNY",
@@ -28,13 +38,19 @@
     "shop": "supermarket",
     "latitude": 48.0909874,
     "longitude": 13.8640531,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "4650",
+    "city": "Lambach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "SMO Innenputz & Aussenputz",
     "retailer": "smo_innenputz_und_aussenputz",
     "shop": "doityourself",
     "latitude": 48.0904201,
-    "longitude": 13.8626701
+    "longitude": 13.8626701,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

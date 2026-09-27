@@ -5,7 +5,9 @@
     "shop": "electronics",
     "latitude": 47.4115394,
     "longitude": 9.7087968,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "OBI",
@@ -13,6 +15,10 @@
     "shop": "doityourself",
     "latitude": 47.4142023,
     "longitude": 9.7097063,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

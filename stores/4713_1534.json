@@ -4,21 +4,31 @@
     "retailer": "handel",
     "shop": "bakery",
     "latitude": 47.1329546,
-    "longitude": 15.341141
+    "longitude": 15.341141,
+    "postcode": "8101",
+    "city": "Gratkorn",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kostnixladen Gratkorn",
     "retailer": "kostnixladen_gratkorn",
     "shop": "convenience",
     "latitude": 47.1348145,
-    "longitude": 15.3499652
+    "longitude": 15.3499652,
+    "postcode": "8101",
+    "city": "Gratkorn",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.1326589,
-    "longitude": 15.3405255
+    "longitude": 15.3405255,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -26,6 +36,10 @@
     "shop": "supermarket",
     "latitude": 47.1343382,
     "longitude": 15.3434231,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8101",
+    "city": "Gratkorn",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

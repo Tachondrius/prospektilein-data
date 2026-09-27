@@ -5,34 +5,52 @@
     "shop": "supermarket",
     "latitude": 47.7216242,
     "longitude": 13.0606701,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5400",
+    "city": "Hallein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Ebner",
     "retailer": "backerei_ebner",
     "shop": "bakery",
     "latitude": 47.728402,
-    "longitude": 13.0604426
+    "longitude": 13.0604426,
+    "postcode": "5081",
+    "city": "Anif",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Dani's Beauty and More",
     "retailer": "dani_s_beauty_und_more",
     "shop": "clothes",
     "latitude": 47.7226795,
-    "longitude": 13.0606097
+    "longitude": 13.0606097,
+    "postcode": "5400",
+    "city": "Hallein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Friseur Stefanie",
     "retailer": "friseur_stefanie",
     "shop": "hairdresser",
     "latitude": 47.7227215,
-    "longitude": 13.0605697
+    "longitude": 13.0605697,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "P & A Gaumenfreude",
     "retailer": "p_und_a_gaumenfreude",
     "shop": "convenience",
     "latitude": 47.7223933,
-    "longitude": 13.0611288
+    "longitude": 13.0611288,
+    "postcode": "5400",
+    "city": "Hallein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

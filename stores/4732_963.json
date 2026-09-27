@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 47.326583,
     "longitude": 9.6304856,
-    "brand": "Kia"
+    "brand": "Kia",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mazda Maier",
@@ -13,7 +15,11 @@
     "shop": "car",
     "latitude": 47.3273344,
     "longitude": 9.6310906,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Montfort Garage",
@@ -21,13 +27,21 @@
     "shop": "car",
     "latitude": 47.3260838,
     "longitude": 9.6310969,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "SCHMIDT'S Handelsgesellschaft mbH",
     "retailer": "schmidt_s_handelsgesellschaft_mbh",
     "shop": "doityourself",
     "latitude": 47.3299215,
-    "longitude": 9.6352153
+    "longitude": 9.6352153,
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

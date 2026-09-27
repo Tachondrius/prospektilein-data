@@ -5,27 +5,39 @@
     "shop": "kitchen",
     "latitude": 48.3100559,
     "longitude": 16.3252449,
-    "brand": "DanKüchen"
+    "brand": "DanKüchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Frisch vom Bauern",
     "retailer": "frisch_vom_bauern",
     "shop": "farm",
     "latitude": 48.310229,
-    "longitude": 16.3292846
+    "longitude": 16.3292846,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Handyrettung",
     "retailer": "handyrettung",
     "shop": "mobile_phone",
     "latitude": 48.3100138,
-    "longitude": 16.3250527
+    "longitude": 16.3250527,
+    "postcode": "3400",
+    "city": "Klosterneuburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Radsport Swoboda",
     "retailer": "radsport_swoboda",
     "shop": "bicycle",
     "latitude": 48.3104421,
-    "longitude": 16.3239023
+    "longitude": 16.3239023,
+    "postcode": "3400",
+    "city": "Klosterneuburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

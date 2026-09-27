@@ -4,20 +4,30 @@
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 46.940882,
-    "longitude": 15.7966521
+    "longitude": 15.7966521,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 46.9406972,
-    "longitude": 15.7951161
+    "longitude": 15.7951161,
+    "postcode": "8341",
+    "city": "Paldau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisör Brigitt",
     "retailer": "frisor_brigitt",
     "shop": "hairdresser",
     "latitude": 46.940366,
-    "longitude": 15.7949861
+    "longitude": 15.7949861,
+    "postcode": "8341",
+    "city": "Paldau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

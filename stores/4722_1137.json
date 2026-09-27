@@ -4,41 +4,55 @@
     "retailer": "aste",
     "shop": "bakery",
     "latitude": 47.2274176,
-    "longitude": 11.3764902
+    "longitude": 11.3764902,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Jäger",
     "retailer": "blumen_jager",
     "shop": "florist",
     "latitude": 47.2278236,
-    "longitude": 11.3740656
+    "longitude": 11.3740656,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.2274173,
-    "longitude": 11.3768829
+    "longitude": 11.3768829,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Service Muigg",
     "retailer": "kfz_service_muigg",
     "shop": "car_repair",
     "latitude": 47.22814,
-    "longitude": 11.373249
+    "longitude": 11.373249,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Fritz",
     "retailer": "metzgerei_fritz",
     "shop": "butcher",
     "latitude": 47.2296226,
-    "longitude": 11.3768558
+    "longitude": 11.3768558,
+    "postcode": "6162",
+    "city": "Natters",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schilder Vieider",
     "retailer": "schilder_vieider",
     "shop": "stationery",
     "latitude": 47.2250715,
-    "longitude": 11.3741254
+    "longitude": 11.3741254,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

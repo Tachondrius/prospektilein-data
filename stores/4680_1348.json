@@ -5,21 +5,33 @@
     "shop": "supermarket",
     "latitude": 46.8022265,
     "longitude": 13.4879772,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Auto ROC GmbH",
     "retailer": "auto_roc_gmbh",
     "shop": "car",
     "latitude": 46.805987,
-    "longitude": 13.4849048
+    "longitude": 13.4849048,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen & Schöne Dinge",
     "retailer": "blumen_und_schone_dinge",
     "shop": "florist",
     "latitude": 46.8026446,
-    "longitude": 13.4886923
+    "longitude": 13.4886923,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -27,13 +39,19 @@
     "shop": "supermarket",
     "latitude": 46.8057744,
     "longitude": 13.4840221,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Reifen Steiner",
     "retailer": "reifen_steiner",
     "shop": "tyres",
     "latitude": 46.803373,
-    "longitude": 13.4874033
+    "longitude": 13.4874033,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

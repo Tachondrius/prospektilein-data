@@ -4,20 +4,30 @@
     "retailer": "alpendrogerie_beer",
     "shop": "chemist",
     "latitude": 47.3211593,
-    "longitude": 9.9821118
+    "longitude": 9.9821118,
+    "postcode": "6883",
+    "city": "Au",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Alpenkäse Bregenzerwald",
     "retailer": "alpenkase_bregenzerwald",
     "shop": "cheese",
     "latitude": 47.3211315,
-    "longitude": 9.9821992
+    "longitude": 9.9821992,
+    "postcode": "6883",
+    "city": "Au",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.3212773,
-    "longitude": 9.9874254
+    "longitude": 9.9874254,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

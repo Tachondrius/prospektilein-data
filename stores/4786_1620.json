@@ -4,20 +4,30 @@
     "retailer": "autoplus24",
     "shop": "car",
     "latitude": 47.8644423,
-    "longitude": 16.2030126
+    "longitude": 16.2030126,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Folien Expert",
     "retailer": "folien_expert",
     "shop": "car_repair",
     "latitude": 47.8642769,
-    "longitude": 16.2041801
+    "longitude": 16.2041801,
+    "postcode": "2751",
+    "city": "Wöllersdorf-Steinabrückl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ProWasser",
     "retailer": "prowasser",
     "shop": "swimming_pool",
     "latitude": 47.8641915,
-    "longitude": 16.2047046
+    "longitude": 16.2047046,
+    "postcode": "2751",
+    "city": "Wöllersdorf-Steinabrückl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

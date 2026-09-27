@@ -5,13 +5,21 @@
     "shop": "convenience",
     "latitude": 47.205469,
     "longitude": 15.3158776,
-    "brand": "OMV"
+    "brand": "OMV",
+    "postcode": "8121",
+    "city": "Deutschfeistritz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Viertler Brot",
     "retailer": "viertler_brot",
     "shop": "bakery",
     "latitude": 47.2083051,
-    "longitude": 15.31297
+    "longitude": 15.31297,
+    "postcode": "8121",
+    "city": "Deutschfeistritz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "variety_store",
     "latitude": 47.4673971,
     "longitude": 15.3420206,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa Plus",
@@ -13,7 +15,9 @@
     "shop": "supermarket",
     "latitude": 47.4668209,
     "longitude": 15.3423711,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -21,21 +25,29 @@
     "shop": "chemist",
     "latitude": 47.4668589,
     "longitude": 15.3406497,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.4695473,
-    "longitude": 15.3471207
+    "longitude": 15.3471207,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Chiara",
     "retailer": "chiara",
     "shop": "clothes",
     "latitude": 47.4669762,
-    "longitude": 15.3421211
+    "longitude": 15.3421211,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Das Futterhaus",
@@ -43,7 +55,11 @@
     "shop": "pet",
     "latitude": 47.469265,
     "longitude": 15.3426136,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "8642",
+    "city": "Sankt Lorenzen im Mürztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deichmann",
@@ -51,7 +67,11 @@
     "shop": "shoes",
     "latitude": 47.468961,
     "longitude": 15.3424629,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "8642",
+    "city": "Sankt Lorenzen im Mürztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -59,7 +79,11 @@
     "shop": "chemist",
     "latitude": 47.4695593,
     "longitude": 15.3449338,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8642",
+    "city": "Sankt Lorenzen im Mürztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ernsting's family",
@@ -67,7 +91,9 @@
     "shop": "clothes",
     "latitude": 47.4696204,
     "longitude": 15.3450371,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fressnapf",
@@ -75,7 +101,9 @@
     "shop": "pet",
     "latitude": 47.467099,
     "longitude": 15.3404854,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fussl",
@@ -83,7 +111,9 @@
     "shop": "clothes",
     "latitude": 47.4664835,
     "longitude": 15.3409067,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fussl",
@@ -91,14 +121,18 @@
     "shop": "clothes",
     "latitude": 47.4694284,
     "longitude": 15.344597,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gruber Reisen",
     "retailer": "gruber_reisen",
     "shop": "travel_agency",
     "latitude": 47.4688128,
-    "longitude": 15.3425855
+    "longitude": 15.3425855,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -106,14 +140,22 @@
     "shop": "supermarket",
     "latitude": 47.4699089,
     "longitude": 15.3460831,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8642",
+    "city": "Sankt Lorenzen im Mürztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Huber",
     "retailer": "huber",
     "shop": "car",
     "latitude": 47.4681165,
-    "longitude": 15.341699
+    "longitude": 15.341699,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "JYSK",
@@ -121,7 +163,9 @@
     "shop": "furniture",
     "latitude": 47.4676323,
     "longitude": 15.3400166,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "K&Ö",
@@ -129,7 +173,11 @@
     "shop": "clothes",
     "latitude": 47.4692995,
     "longitude": 15.3440802,
-    "brand": "K&Ö"
+    "brand": "K&Ö",
+    "postcode": "8642",
+    "city": "Sankt Lorenzen im Mürztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -137,14 +185,18 @@
     "shop": "clothes",
     "latitude": 47.4668434,
     "longitude": 15.3428799,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "LET'S DOIT",
     "retailer": "let_s_doit",
     "shop": "doityourself",
     "latitude": 47.4677014,
-    "longitude": 15.3402544
+    "longitude": 15.3402544,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Libro",
@@ -152,21 +204,29 @@
     "shop": "books",
     "latitude": 47.4669781,
     "longitude": 15.342264,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.4667109,
-    "longitude": 15.3420852
+    "longitude": 15.3420852,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.4667511,
-    "longitude": 15.3405322
+    "longitude": 15.3405322,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Matratzen Concord",
@@ -174,7 +234,11 @@
     "shop": "bed",
     "latitude": 47.4695353,
     "longitude": 15.3447732,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "postcode": "8642",
+    "city": "Sankt Lorenzen im Mürztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MediaMarkt St.Lorenzen",
@@ -182,7 +246,11 @@
     "shop": "electronics",
     "latitude": 47.4694023,
     "longitude": 15.3430684,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "postcode": "8642",
+    "city": "Sankt Lorenzen im Mürztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "mister*lady",
@@ -190,7 +258,9 @@
     "shop": "clothes",
     "latitude": 47.4667339,
     "longitude": 15.3407353,
-    "brand": "mister*lady"
+    "brand": "mister*lady",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Möbelix",
@@ -198,7 +268,11 @@
     "shop": "furniture",
     "latitude": 47.4675605,
     "longitude": 15.3442451,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pagro",
@@ -206,21 +280,27 @@
     "shop": "stationery",
     "latitude": 47.4663294,
     "longitude": 15.3410121,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "SHOE 4 YOU",
     "retailer": "shoe_4_you",
     "shop": "shoes",
     "latitude": 47.469665,
-    "longitude": 15.3451903
+    "longitude": 15.3451903,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sorger",
     "retailer": "sorger",
     "shop": "bakery",
     "latitude": 47.4686625,
-    "longitude": 15.3427969
+    "longitude": 15.3427969,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -228,7 +308,11 @@
     "shop": "supermarket",
     "latitude": 47.4684945,
     "longitude": 15.3450447,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8642",
+    "city": "Sankt Lorenzen im Mürztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Takko Fashion",
@@ -236,7 +320,9 @@
     "shop": "clothes",
     "latitude": 47.4669789,
     "longitude": 15.3405675,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "XXXLutz",
@@ -244,6 +330,10 @@
     "shop": "furniture",
     "latitude": 47.4672916,
     "longitude": 15.3440106,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

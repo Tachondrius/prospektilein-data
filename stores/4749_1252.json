@@ -4,13 +4,19 @@
     "retailer": "artesania",
     "shop": "trade",
     "latitude": 47.4912804,
-    "longitude": 12.5223335
+    "longitude": 12.5223335,
+    "postcode": "6391",
+    "city": "Fieberbrunn",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 47.4905453,
-    "longitude": 12.5244665
+    "longitude": 12.5244665,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

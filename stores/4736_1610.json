@@ -4,7 +4,9 @@
     "retailer": "imex_gebrauchtwagen_gmbh",
     "shop": "car",
     "latitude": 47.369734,
-    "longitude": 16.1096206
+    "longitude": 16.1096206,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -12,6 +14,8 @@
     "shop": "supermarket",
     "latitude": 47.3690306,
     "longitude": 16.1095869,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

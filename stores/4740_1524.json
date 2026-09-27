@@ -4,35 +4,49 @@
     "retailer": "das_futterhaus",
     "shop": "pet",
     "latitude": 47.4014891,
-    "longitude": 15.2400587
+    "longitude": 15.2400587,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friedrich",
     "retailer": "friedrich",
     "shop": "bakery",
     "latitude": 47.4071093,
-    "longitude": 15.2483126
+    "longitude": 15.2483126,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Für Mich",
     "retailer": "fur_mich",
     "shop": "massage",
     "latitude": 47.4070912,
-    "longitude": 15.2482499
+    "longitude": 15.2482499,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gartenbau Schacherl GmbH",
     "retailer": "gartenbau_schacherl_gmbh",
     "shop": "garden_centre",
     "latitude": 47.4066651,
-    "longitude": 15.2429517
+    "longitude": 15.2429517,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Genussladen",
     "retailer": "genussladen",
     "shop": "supermarket",
     "latitude": 47.4066365,
-    "longitude": 15.2427874
+    "longitude": 15.2427874,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "OBI",
@@ -40,13 +54,19 @@
     "shop": "doityourself",
     "latitude": 47.4020195,
     "longitude": 15.2414865,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "OBI-Gartencenter",
     "retailer": "obi",
     "shop": "garden_centre",
     "latitude": 47.4019691,
-    "longitude": 15.2410004
+    "longitude": 15.2410004,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

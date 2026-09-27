@@ -4,7 +4,9 @@
     "retailer": "friseur_figaro",
     "shop": "hairdresser",
     "latitude": 47.4266134,
-    "longitude": 14.7569174
+    "longitude": 14.7569174,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch",
@@ -12,13 +14,21 @@
     "shop": "supermarket",
     "latitude": 47.4288252,
     "longitude": 14.7555242,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "8775",
+    "city": "Kalwang",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reformkaufhaus",
     "retailer": "reformkaufhaus",
     "shop": "health_food",
     "latitude": 47.4279097,
-    "longitude": 14.7561827
+    "longitude": 14.7561827,
+    "postcode": "8775",
+    "city": "Kalwang",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

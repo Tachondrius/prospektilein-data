@@ -4,7 +4,11 @@
     "retailer": "blumen_fischer",
     "shop": "garden_centre",
     "latitude": 47.0042941,
-    "longitude": 15.3988301
+    "longitude": 15.3988301,
+    "postcode": "8054",
+    "city": "Seiersberg-Pirka",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gady",
@@ -12,13 +16,21 @@
     "shop": "car",
     "latitude": 47.0080524,
     "longitude": 15.3974231,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "8054",
+    "city": "Seiersberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Marlene Hairfashion",
     "retailer": "marlene_hairfashion",
     "shop": "hairdresser",
     "latitude": 47.0046097,
-    "longitude": 15.3934065
+    "longitude": 15.3934065,
+    "postcode": "8054",
+    "city": "Seiersberg-Pirka",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

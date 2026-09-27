@@ -5,14 +5,18 @@
     "shop": "supermarket",
     "latitude": 47.867428,
     "longitude": 13.3262405,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Deichmann",
     "retailer": "deichmann",
     "shop": "shoes",
     "latitude": 47.8678631,
-    "longitude": 13.3255239
+    "longitude": 13.3255239,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -20,14 +24,18 @@
     "shop": "chemist",
     "latitude": 47.8680891,
     "longitude": 13.3252212,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.8680149,
-    "longitude": 13.3253176
+    "longitude": 13.3253176,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -35,7 +43,9 @@
     "shop": "supermarket",
     "latitude": 47.868777,
     "longitude": 13.3244097,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KiK",
@@ -43,21 +53,29 @@
     "shop": "clothes",
     "latitude": 47.868198,
     "longitude": 13.3250831,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "5310",
+    "city": "Tiefgraben",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ring Bäckerei",
     "retailer": "ring_backerei",
     "shop": "bakery",
     "latitude": 47.8677292,
-    "longitude": 13.3257153
+    "longitude": 13.3257153,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spielzeugland",
     "retailer": "spielzeugland",
     "shop": "toys",
     "latitude": 47.8679458,
-    "longitude": 13.3254034
+    "longitude": 13.3254034,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Takko",
@@ -65,6 +83,8 @@
     "shop": "clothes",
     "latitude": 47.8677931,
     "longitude": 13.3256049,
-    "brand": "Takko"
+    "brand": "Takko",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 46.8174749,
     "longitude": 14.8453513,
-    "brand": "Seat"
+    "brand": "Seat",
+    "postcode": "9400",
+    "city": "Wolfsberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Autohaus Penz",
@@ -13,14 +17,20 @@
     "shop": "car",
     "latitude": 46.819047,
     "longitude": 14.8414106,
-    "brand": "Renault, Dacia"
+    "brand": "Renault, Dacia",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Forst und Gartengeräte Kügele",
     "retailer": "forst_und_gartengerate_kugele",
     "shop": "garden_centre",
     "latitude": 46.8180406,
-    "longitude": 14.8454945
+    "longitude": 14.8454945,
+    "postcode": "9400",
+    "city": "Wolfsberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hagebaumarkt",
@@ -28,7 +38,11 @@
     "shop": "doityourself",
     "latitude": 46.8199667,
     "longitude": 14.8407534,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "postcode": "9400",
+    "city": "Wolfsberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lexus Service Wolfsberg",
@@ -36,7 +50,9 @@
     "shop": "car_repair",
     "latitude": 46.8177269,
     "longitude": 14.8429031,
-    "brand": "Lexus"
+    "brand": "Lexus",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -44,21 +60,30 @@
     "shop": "supermarket",
     "latitude": 46.8180896,
     "longitude": 14.8419903,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "9400",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Odörfer Profi Bad und Heizung",
     "retailer": "odorfer_profi_bad_und_heizung",
     "shop": "bathroom_furnishing",
     "latitude": 46.8181601,
-    "longitude": 14.844189
+    "longitude": 14.844189,
+    "postcode": "9400",
+    "city": "Wolfsberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schatz Böden",
     "retailer": "schatz_boden",
     "shop": "furniture",
     "latitude": 46.8181699,
-    "longitude": 14.8449914
+    "longitude": 14.8449914,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Toyota Saloschnik",
@@ -66,6 +91,10 @@
     "shop": "car",
     "latitude": 46.8175371,
     "longitude": 14.8431356,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "9400",
+    "city": "Wolfsberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

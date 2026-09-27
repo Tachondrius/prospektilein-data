@@ -4,7 +4,11 @@
     "retailer": "c_bergmann_fliesen",
     "shop": "tiles",
     "latitude": 47.2835761,
-    "longitude": 9.6195205
+    "longitude": 9.6195205,
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ellensohn",
@@ -12,7 +16,11 @@
     "shop": "car",
     "latitude": 47.2808153,
     "longitude": 9.6188741,
-    "brand": "Toyota;Hyundai;Lexus"
+    "brand": "Toyota;Hyundai;Lexus",
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Honda Häseli",
@@ -20,13 +28,21 @@
     "shop": "car",
     "latitude": 47.2830623,
     "longitude": 9.6193863,
-    "brand": "Honda"
+    "brand": "Honda",
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sennhof",
     "retailer": "sennhof",
     "shop": "farm",
     "latitude": 47.2817911,
-    "longitude": 9.6157139
+    "longitude": 9.6157139,
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

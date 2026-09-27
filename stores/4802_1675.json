@@ -4,7 +4,11 @@
     "retailer": "bauer",
     "shop": "car",
     "latitude": 48.0239458,
-    "longitude": 16.7571915
+    "longitude": 16.7571915,
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 48.0235857,
     "longitude": 16.7583142,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Interspar",
@@ -20,14 +28,20 @@
     "shop": "supermarket",
     "latitude": 48.0217957,
     "longitude": 16.7572768,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MO.SPACE - SELFSTORAGE & CONTAINERHANDEL",
     "retailer": "mo_space_selfstorage_und_containerhandel",
     "shop": "storage_rental",
     "latitude": 48.0200713,
-    "longitude": 16.7529287
+    "longitude": 16.7529287,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -35,6 +49,10 @@
     "shop": "supermarket",
     "latitude": 48.0239913,
     "longitude": 16.7577174,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

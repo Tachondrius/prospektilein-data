@@ -5,20 +5,29 @@
     "shop": "supermarket",
     "latitude": 47.1853439,
     "longitude": 14.8096012,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "8734",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kaufhaus & Trafik - Moser-Grün",
     "retailer": "kaufhaus_und_trafik_moser_grun",
     "shop": "convenience",
     "latitude": 47.184907,
-    "longitude": 14.8087549
+    "longitude": 14.8087549,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Melitta´s Naturwerkstatt",
     "retailer": "melitta_s_naturwerkstatt",
     "shop": "gift",
     "latitude": 47.1845529,
-    "longitude": 14.8084156
+    "longitude": 14.8084156,
+    "postcode": "8734",
+    "city": "Großlobming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

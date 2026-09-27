@@ -4,14 +4,20 @@
     "retailer": "blickpunkt_haar",
     "shop": "hairdresser",
     "latitude": 46.6207641,
-    "longitude": 13.9445198
+    "longitude": 13.9445198,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fliesencenter Wernberg",
     "retailer": "fliesencenter_wernberg",
     "shop": "doityourself",
     "latitude": 46.6230633,
-    "longitude": 13.9412068
+    "longitude": 13.9412068,
+    "postcode": "9241",
+    "city": "Wernberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -19,13 +25,19 @@
     "shop": "supermarket",
     "latitude": 46.6211001,
     "longitude": 13.9422821,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Stöckl Parket",
     "retailer": "stockl_parket",
     "shop": "doityourself",
     "latitude": 46.6230376,
-    "longitude": 13.9406378
+    "longitude": 13.9406378,
+    "postcode": "9241",
+    "city": "Wernberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

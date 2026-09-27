@@ -4,7 +4,9 @@
     "retailer": "bandagist_heindl",
     "shop": "medical_supply",
     "latitude": 47.1582998,
-    "longitude": 10.589679
+    "longitude": 10.589679,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 47.1526885,
     "longitude": 10.5817421,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa stop & shop",
@@ -20,21 +26,31 @@
     "shop": "convenience",
     "latitude": 47.1502768,
     "longitude": 10.5815091,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Schlatter",
     "retailer": "blumen_schlatter",
     "shop": "florist",
     "latitude": 47.1593303,
-    "longitude": 10.5883912
+    "longitude": 10.5883912,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei - Cafè Ruetz Zams",
     "retailer": "backerei_cafe_ruetz_zams",
     "shop": "bakery",
     "latitude": 47.1581911,
-    "longitude": 10.5898183
+    "longitude": 10.5898183,
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dosenberger-Plaseller",
@@ -42,7 +58,11 @@
     "shop": "car",
     "latitude": 47.151213,
     "longitude": 10.5830811,
-    "brand": "Ford;Volvo"
+    "brand": "Ford;Volvo",
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Falch",
@@ -50,7 +70,11 @@
     "shop": "car",
     "latitude": 47.1536653,
     "longitude": 10.5833703,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Falch",
@@ -58,28 +82,40 @@
     "shop": "car",
     "latitude": 47.1543353,
     "longitude": 10.5840888,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseursalon Schnittpunkt",
     "retailer": "friseursalon_schnittpunkt",
     "shop": "hairdresser",
     "latitude": 47.1588141,
-    "longitude": 10.5886196
+    "longitude": 10.5886196,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Garden Centre",
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 47.1599785,
-    "longitude": 10.5827495
+    "longitude": 10.5827495,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Grüner",
     "retailer": "gruner",
     "shop": "supermarket",
     "latitude": 47.155579,
-    "longitude": 10.5864897
+    "longitude": 10.5864897,
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport Kaltenbrunner Venetbahn",
@@ -87,14 +123,20 @@
     "shop": "sports",
     "latitude": 47.1537692,
     "longitude": 10.5857006,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kosmetikstudio Carmen",
     "retailer": "kosmetikstudio_carmen",
     "shop": "beauty",
     "latitude": 47.1564471,
-    "longitude": 10.5868493
+    "longitude": 10.5868493,
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lagerhaus",
@@ -102,14 +144,20 @@
     "shop": "doityourself",
     "latitude": 47.1537514,
     "longitude": 10.5815645,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lagerhaus Bau- und Gartenmarkt",
     "retailer": "lagerhaus_bau_und_gartenmarkt",
     "shop": "garden_centre",
     "latitude": 47.1513058,
-    "longitude": 10.5841095
+    "longitude": 10.5841095,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -117,34 +165,52 @@
     "shop": "supermarket",
     "latitude": 47.155343,
     "longitude": 10.585891,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Onsight Bergsport",
     "retailer": "onsight_bergsport",
     "shop": "sports",
     "latitude": 47.1562621,
-    "longitude": 10.5865633
+    "longitude": 10.5865633,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Peto Bike",
     "retailer": "peto_bike",
     "shop": "sports",
     "latitude": 47.1520501,
-    "longitude": 10.582843
+    "longitude": 10.582843,
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuhhaus Ladner",
     "retailer": "schuhhaus_ladner",
     "shop": "shoes",
     "latitude": 47.1556066,
-    "longitude": 10.5852286
+    "longitude": 10.5852286,
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "ÖRK Kleiderladen",
     "retailer": "ork_kleiderladen",
     "shop": "second_hand",
     "latitude": 47.1599253,
-    "longitude": 10.5876265
+    "longitude": 10.5876265,
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

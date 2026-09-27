@@ -4,14 +4,21 @@
     "retailer": "drogerie_kosmetik_und_fupflege_ablasser",
     "shop": "chemist",
     "latitude": 47.2267359,
-    "longitude": 15.2337932
+    "longitude": 15.2337932,
+    "postcode": "8124",
+    "city": "Übelbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischhauerei Jauschnig",
     "retailer": "fleischhauerei_jauschnig",
     "shop": "butcher",
     "latitude": 47.2266876,
-    "longitude": 15.2339526
+    "longitude": 15.2339526,
+    "postcode": "8124",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -19,34 +26,50 @@
     "shop": "doityourself",
     "latitude": 47.224589,
     "longitude": 15.2392032,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8124",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Monte Vino",
     "retailer": "monte_vino",
     "shop": "wine",
     "latitude": 47.2271066,
-    "longitude": 15.235076
+    "longitude": 15.235076,
+    "postcode": "8124",
+    "city": "Übelbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.2268036,
-    "longitude": 15.2336082
+    "longitude": 15.2336082,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trachtenmode Hiden",
     "retailer": "trachtenmode_hiden",
     "shop": "clothes",
     "latitude": 47.2269292,
-    "longitude": 15.2338266
+    "longitude": 15.2338266,
+    "postcode": "8124",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trachtenmode und Schuhhaus Hiden",
     "retailer": "trachtenmode_und_schuhhaus_hiden",
     "shop": "clothes",
     "latitude": 47.227001,
-    "longitude": 15.2335025
+    "longitude": 15.2335025,
+    "postcode": "8124",
+    "city": "Übelbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

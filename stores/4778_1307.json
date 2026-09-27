@@ -4,7 +4,11 @@
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 47.7885693,
-    "longitude": 13.0781482
+    "longitude": 13.0781482,
+    "postcode": "5026",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -12,7 +16,9 @@
     "shop": "supermarket",
     "latitude": 47.7888863,
     "longitude": 13.0775904,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bipa",
@@ -20,48 +26,68 @@
     "shop": "chemist",
     "latitude": 47.7887549,
     "longitude": 13.0778284,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "5026",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Ursprunger",
     "retailer": "backerei_ursprunger",
     "shop": "bakery",
     "latitude": 47.7885464,
-    "longitude": 13.0780557
+    "longitude": 13.0780557,
+    "postcode": "5026",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "carla",
     "retailer": "carla",
     "shop": "second_hand",
     "latitude": 47.7886915,
-    "longitude": 13.0773219
+    "longitude": 13.0773219,
+    "postcode": "5026",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Christinas griechischer Genuss-Treff",
     "retailer": "christinas_griechischer_genuss_treff",
     "shop": "deli",
     "latitude": 47.7883748,
-    "longitude": 13.0785895
+    "longitude": 13.0785895,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Dannemann",
     "retailer": "dannemann",
     "shop": "tobacco",
     "latitude": 47.7832487,
-    "longitude": 13.0795902
+    "longitude": 13.0795902,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Feinkost Kreta",
     "retailer": "feinkost_kreta",
     "shop": "supermarket",
     "latitude": 47.7833002,
-    "longitude": 13.0795766
+    "longitude": 13.0795766,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Holztrattner",
     "retailer": "holztrattner",
     "shop": "bakery",
     "latitude": 47.7841411,
-    "longitude": 13.0716792
+    "longitude": 13.0716792,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -5,35 +5,51 @@
     "shop": "bakery",
     "latitude": 47.3249087,
     "longitude": 10.15531,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bergbauermetzgerei Feurstein",
     "retailer": "bergbauermetzgerei_feurstein",
     "shop": "butcher",
     "latitude": 47.3270893,
-    "longitude": 10.1578965
+    "longitude": 10.1578965,
+    "postcode": "6993",
+    "city": "Mittelberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fritz Getränke",
     "retailer": "fritz_getranke",
     "shop": "beverages",
     "latitude": 47.3283684,
-    "longitude": 10.1592769
+    "longitude": 10.1592769,
+    "postcode": "6993",
+    "city": "Mittelberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Harmonie",
     "retailer": "harmonie",
     "shop": "hairdresser",
     "latitude": 47.3244357,
-    "longitude": 10.1548659
+    "longitude": 10.1548659,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Modepark Abler",
     "retailer": "modepark_abler",
     "shop": "clothes",
     "latitude": 47.326038,
-    "longitude": 10.1566977
+    "longitude": 10.1566977,
+    "postcode": "6993",
+    "city": "Mittelberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "MPREIS",
@@ -41,41 +57,61 @@
     "shop": "supermarket",
     "latitude": 47.3249713,
     "longitude": 10.1550294,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6993",
+    "city": "Mittelberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Salon Hair",
     "retailer": "salon_hair",
     "shop": "hairdresser",
     "latitude": 47.3271645,
-    "longitude": 10.1584213
+    "longitude": 10.1584213,
+    "postcode": "6993",
+    "city": "Mittelberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Skistadl",
     "retailer": "skistadl",
     "shop": "sports",
     "latitude": 47.3250924,
-    "longitude": 10.1557834
+    "longitude": 10.1557834,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spezialitäten Abler",
     "retailer": "spezialitaten_abler",
     "shop": "farm",
     "latitude": 47.3263332,
-    "longitude": 10.1571466
+    "longitude": 10.1571466,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sport Hilbrand",
     "retailer": "sport_hilbrand",
     "shop": "sports",
     "latitude": 47.322656,
-    "longitude": 10.1531435
+    "longitude": 10.1531435,
+    "postcode": "6993",
+    "city": "Mittelberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Talstation Zaferna Kiosk",
     "retailer": "talstation_zaferna_kiosk",
     "shop": "kiosk",
     "latitude": 47.3262109,
-    "longitude": 10.1559953
+    "longitude": 10.1559953,
+    "postcode": "6993",
+    "city": "Mittelberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

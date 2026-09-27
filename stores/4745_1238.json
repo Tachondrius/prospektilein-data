@@ -4,7 +4,9 @@
     "retailer": "beauty_artist",
     "shop": "beauty",
     "latitude": 47.4526227,
-    "longitude": 12.3889282
+    "longitude": 12.3889282,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 47.45758,
     "longitude": 12.3876536,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -20,21 +26,27 @@
     "shop": "chemist",
     "latitude": 47.455138,
     "longitude": 12.3878682,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen B&B",
     "retailer": "blumen_b_und_b",
     "shop": "florist",
     "latitude": 47.4593935,
-    "longitude": 12.3860313
+    "longitude": 12.3860313,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Helene Dahlmeier-adelsberger",
     "retailer": "helene_dahlmeier_adelsberger",
     "shop": "florist",
     "latitude": 47.4528182,
-    "longitude": 12.3884962
+    "longitude": 12.3884962,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -42,28 +54,42 @@
     "shop": "supermarket",
     "latitude": 47.4569495,
     "longitude": 12.3875782,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kitz Gastro",
     "retailer": "kitz_gastro",
     "shop": "electronics",
     "latitude": 47.456181,
-    "longitude": 12.3878389
+    "longitude": 12.3878389,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lackner Outlet",
     "retailer": "lackner_outlet",
     "shop": "clothes",
     "latitude": 47.4558177,
-    "longitude": 12.3862031
+    "longitude": 12.3862031,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lackner Schuhe",
     "retailer": "lackner_schuhe",
     "shop": "shoes",
     "latitude": 47.4557515,
-    "longitude": 12.3865014
+    "longitude": 12.3865014,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -71,35 +97,51 @@
     "shop": "supermarket",
     "latitude": 47.4548868,
     "longitude": 12.387576,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Polin Baustoffmarkt",
     "retailer": "polin_baustoffmarkt",
     "shop": "doityourself",
     "latitude": 47.4584419,
-    "longitude": 12.3875848
+    "longitude": 12.3875848,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Radsport Stanger",
     "retailer": "radsport_stanger",
     "shop": "bicycle",
     "latitude": 47.4519507,
-    "longitude": 12.3894542
+    "longitude": 12.3894542,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Revox",
     "retailer": "revox",
     "shop": "hifi",
     "latitude": 47.4516612,
-    "longitude": 12.3895593
+    "longitude": 12.3895593,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schlüsselstelle",
     "retailer": "schlusselstelle",
     "shop": "locksmith",
     "latitude": 47.4513636,
-    "longitude": 12.3897284
+    "longitude": 12.3897284,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schmidt Automobile",
@@ -107,14 +149,20 @@
     "shop": "car",
     "latitude": 47.4555543,
     "longitude": 12.3873507,
-    "brand": "Citroën;Mitsubishi;Volvo"
+    "brand": "Citroën;Mitsubishi;Volvo",
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sportalm Outlet",
     "retailer": "sportalm_outlet",
     "shop": "clothes",
     "latitude": 47.4552869,
-    "longitude": 12.3864583
+    "longitude": 12.3864583,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Viva",
@@ -122,13 +170,17 @@
     "shop": "convenience",
     "latitude": 47.4560837,
     "longitude": 12.3862679,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Waltraud",
     "retailer": "waltraud",
     "shop": "hairdresser",
     "latitude": 47.4525608,
-    "longitude": 12.3889928
+    "longitude": 12.3889928,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,84 +4,118 @@
     "retailer": "backerei_cafe_konditorei_thomas_czihak",
     "shop": "bakery",
     "latitude": 47.928549,
-    "longitude": 15.0890259
+    "longitude": 15.0890259,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dry Cleaning",
     "retailer": "shop_dry_cleaning",
     "shop": "dry_cleaning",
     "latitude": 47.9289654,
-    "longitude": 15.087868
+    "longitude": 15.087868,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Expert Allmer Elektrogeschäft",
     "retailer": "expert_allmer_elektrogeschaft",
     "shop": "electronics",
     "latitude": 47.928365,
-    "longitude": 15.08835
+    "longitude": 15.08835,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei Schagerl",
     "retailer": "fleischerei_schagerl",
     "shop": "butcher",
     "latitude": 47.9283079,
-    "longitude": 15.0871073
+    "longitude": 15.0871073,
+    "postcode": "3292",
+    "city": "Gaming",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gertrudes Spielwaren",
     "retailer": "gertrudes_spielwaren",
     "shop": "toys",
     "latitude": 47.9290371,
-    "longitude": 15.0883958
+    "longitude": 15.0883958,
+    "postcode": "3292",
+    "city": "Gaming",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Intersport Matschi",
     "retailer": "intersport",
     "shop": "department_store",
     "latitude": 47.9285046,
-    "longitude": 15.0882193
+    "longitude": 15.0882193,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kaufmann Haustechnik",
     "retailer": "kaufmann_haustechnik",
     "shop": "bathroom_furnishing",
     "latitude": 47.9292388,
-    "longitude": 15.0887342
+    "longitude": 15.0887342,
+    "postcode": "3292",
+    "city": "Gaming",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kauf´zHaus",
     "retailer": "kauf_zhaus",
     "shop": "department_store",
     "latitude": 47.9285314,
-    "longitude": 15.0876781
+    "longitude": 15.0876781,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Küchenstudio Tischlerei Michael Hahnebacher",
     "retailer": "kuchenstudio_tischlerei_michael_hahnebacher",
     "shop": "kitchen",
     "latitude": 47.927095,
-    "longitude": 15.0856399
+    "longitude": 15.0856399,
+    "postcode": "3292",
+    "city": "Gaming",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Matschi",
     "retailer": "matschi",
     "shop": "shoes",
     "latitude": 47.9279334,
-    "longitude": 15.0873819
+    "longitude": 15.0873819,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Monikas Haar- und Stylingoase",
     "retailer": "monikas_haar_und_stylingoase",
     "shop": "hairdresser",
     "latitude": 47.927621,
-    "longitude": 15.0859994
+    "longitude": 15.0859994,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sandrena",
     "retailer": "sandrena",
     "shop": "gift",
     "latitude": 47.9270047,
-    "longitude": 15.0854982
+    "longitude": 15.0854982,
+    "postcode": "3292",
+    "city": "Gaming",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -89,13 +123,21 @@
     "shop": "supermarket",
     "latitude": 47.9279912,
     "longitude": 15.0862741,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3292",
+    "city": "Gaming",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ullis Blumenstube",
     "retailer": "ullis_blumenstube",
     "shop": "florist",
     "latitude": 47.9280666,
-    "longitude": 15.0896809
+    "longitude": 15.0896809,
+    "postcode": "3292",
+    "city": "Gaming",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "doityourself",
     "latitude": 48.0632371,
     "longitude": 14.4194342,
-    "brand": "Bauhaus"
+    "brand": "Bauhaus",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 48.0669241,
     "longitude": 14.419561,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4407",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Porsche Steyr",
@@ -21,6 +29,8 @@
     "shop": "car",
     "latitude": 48.0616241,
     "longitude": 14.4197972,
-    "brand": "Porsche"
+    "brand": "Porsche",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

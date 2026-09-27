@@ -5,28 +5,40 @@
     "shop": "supermarket",
     "latitude": 47.2183915,
     "longitude": 9.6364935,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "6820",
+    "city": "Frastanz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mangold",
     "retailer": "mangold",
     "shop": "bakery",
     "latitude": 47.2168988,
-    "longitude": 9.6311645
+    "longitude": 9.6311645,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Moll",
     "retailer": "moll",
     "shop": "hairdresser",
     "latitude": 47.2169656,
-    "longitude": 9.6317262
+    "longitude": 9.6317262,
+    "postcode": "6820",
+    "city": "Frastanz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Rampenverkauf Frastanzer",
     "retailer": "rampenverkauf_frastanzer",
     "shop": "beverages",
     "latitude": 47.2189396,
-    "longitude": 9.6380118
+    "longitude": 9.6380118,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Weltladen",
@@ -34,6 +46,8 @@
     "shop": "convenience",
     "latitude": 47.2155025,
     "longitude": 9.6321274,
-    "brand": "Weltladen"
+    "brand": "Weltladen",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

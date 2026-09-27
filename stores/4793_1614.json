@@ -4,7 +4,11 @@
     "retailer": "arbo_berndorf_st_veit",
     "shop": "car_repair",
     "latitude": 47.9386181,
-    "longitude": 16.1452635
+    "longitude": 16.1452635,
+    "postcode": "2560",
+    "city": "Sankt Veit an der Triesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Gehmayer",
@@ -12,7 +16,11 @@
     "shop": "car",
     "latitude": 47.9369813,
     "longitude": 16.1475164,
-    "brand": "Hyundai"
+    "brand": "Hyundai",
+    "postcode": "2560",
+    "city": "Berndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -20,35 +28,51 @@
     "shop": "supermarket",
     "latitude": 47.9390781,
     "longitude": 16.140289,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2560",
+    "city": "Sankt Veit an der Triesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_parts",
     "latitude": 47.9390676,
-    "longitude": 16.1409794
+    "longitude": 16.1409794,
+    "postcode": "2560",
+    "city": "Berndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_repair",
     "latitude": 47.9392528,
-    "longitude": 16.1409957
+    "longitude": 16.1409957,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "G+A Bestcar GmbH",
     "retailer": "g_plus_a_bestcar_gmbh",
     "shop": "car_repair",
     "latitude": 47.9397659,
-    "longitude": 16.1412336
+    "longitude": 16.1412336,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Zbornik",
     "retailer": "kfz_zbornik",
     "shop": "car_repair",
     "latitude": 47.9373751,
-    "longitude": 16.1468602
+    "longitude": 16.1468602,
+    "postcode": "2560",
+    "city": "Sankt Veit an der Triesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -56,14 +80,22 @@
     "shop": "clothes",
     "latitude": 47.9391137,
     "longitude": 16.1407879,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "2560",
+    "city": "Berndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Land-KFZ Technik Hackner",
     "retailer": "land_kfz_technik_hackner",
     "shop": "car_repair",
     "latitude": 47.9373009,
-    "longitude": 16.1463611
+    "longitude": 16.1463611,
+    "postcode": "2560",
+    "city": "Sankt Veit an der Triesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "M. Berger",
@@ -71,6 +103,10 @@
     "shop": "car",
     "latitude": 47.9379645,
     "longitude": 16.1455219,
-    "brand": "Volkswagen;Audi;Seat;Škoda"
+    "brand": "Volkswagen;Audi;Seat;Škoda",
+    "postcode": "2560",
+    "city": "Sankt Veit an der Triesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

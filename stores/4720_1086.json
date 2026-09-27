@@ -4,21 +4,31 @@
     "retailer": "backerei_rudigier",
     "shop": "bakery",
     "latitude": 47.2082112,
-    "longitude": 10.8649475
+    "longitude": 10.8649475,
+    "postcode": "6432",
+    "city": "Sautens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Christl's Hof",
     "retailer": "christl_s_hof",
     "shop": "convenience",
     "latitude": 47.2079582,
-    "longitude": 10.8651728
+    "longitude": 10.8651728,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Feinkost Huber",
     "retailer": "feinkost_huber",
     "shop": "deli",
     "latitude": 47.2080979,
-    "longitude": 10.8635042
+    "longitude": 10.8635042,
+    "postcode": "6432",
+    "city": "Sautens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -26,6 +36,10 @@
     "shop": "convenience",
     "latitude": 47.207843,
     "longitude": 10.8631854,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "postcode": "6432",
+    "city": "Sautens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,14 +4,20 @@
     "retailer": "aukos",
     "shop": "furniture",
     "latitude": 48.2737072,
-    "longitude": 14.2721926
+    "longitude": 14.2721926,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "B&K Autoglas",
     "retailer": "b_und_k_autoglas",
     "shop": "car_repair",
     "latitude": 48.2714423,
-    "longitude": 14.2714485
+    "longitude": 14.2714485,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen B&B",
@@ -19,21 +25,27 @@
     "shop": "florist",
     "latitude": 48.2754059,
     "longitude": 14.2734708,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bodycult Tattoos",
     "retailer": "bodycult_tattoos",
     "shop": "tattoo",
     "latitude": 48.2751911,
-    "longitude": 14.2732446
+    "longitude": 14.2732446,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Chaarisma",
     "retailer": "chaarisma",
     "shop": "hairdresser",
     "latitude": 48.2736611,
-    "longitude": 14.2721615
+    "longitude": 14.2721615,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eni",
@@ -41,7 +53,11 @@
     "shop": "convenience",
     "latitude": 48.2746618,
     "longitude": 14.2724556,
-    "brand": "Eni"
+    "brand": "Eni",
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -49,63 +65,89 @@
     "shop": "supermarket",
     "latitude": 48.2753164,
     "longitude": 14.2754644,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "INKU Fachberater",
     "retailer": "inku_fachberater",
     "shop": "furniture",
     "latitude": 48.2787881,
-    "longitude": 14.2791782
+    "longitude": 14.2791782,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "J&M",
     "retailer": "j_und_m",
     "shop": "mobile_phone",
     "latitude": 48.2739547,
-    "longitude": 14.272453
+    "longitude": 14.272453,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Jagen & Fischen",
     "retailer": "jagen_und_fischen",
     "shop": "outdoor",
     "latitude": 48.2722757,
-    "longitude": 14.2711025
+    "longitude": 14.2711025,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KFZ Box",
     "retailer": "kfz_box",
     "shop": "car_repair",
     "latitude": 48.2750613,
-    "longitude": 14.2725776
+    "longitude": 14.2725776,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kristina's Hundesalon",
     "retailer": "kristina_s_hundesalon",
     "shop": "pet",
     "latitude": 48.2738493,
-    "longitude": 14.2723606
+    "longitude": 14.2723606,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mix Markt",
     "retailer": "mix_markt",
     "shop": "supermarket",
     "latitude": 48.2772878,
-    "longitude": 14.2772227
+    "longitude": 14.2772227,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nußböckgut",
     "retailer": "nubockgut",
     "shop": "farm",
     "latitude": 48.2784638,
-    "longitude": 14.2728214
+    "longitude": 14.2728214,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Paketeria",
     "retailer": "paketeria",
     "shop": "general",
     "latitude": 48.2735045,
-    "longitude": 14.2720272
+    "longitude": 14.2720272,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny",
@@ -113,6 +155,10 @@
     "shop": "supermarket",
     "latitude": 48.2713183,
     "longitude": 14.2700399,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

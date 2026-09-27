@@ -5,7 +5,11 @@
     "shop": "bakery",
     "latitude": 47.265659,
     "longitude": 11.3454507,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Der Bäcker Ruetz",
@@ -13,7 +17,11 @@
     "shop": "bakery",
     "latitude": 47.2655433,
     "longitude": 11.3452657,
-    "brand": "Der Bäcker Ruetz"
+    "brand": "Der Bäcker Ruetz",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dm",
@@ -21,14 +29,21 @@
     "shop": "chemist",
     "latitude": 47.2653691,
     "longitude": 11.3482094,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Galerie D‘Ecole",
     "retailer": "galerie_decole",
     "shop": "art",
     "latitude": 47.2698632,
-    "longitude": 11.3495045
+    "longitude": 11.3495045,
+    "postcode": "6020",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -36,20 +51,30 @@
     "shop": "supermarket",
     "latitude": 47.2656965,
     "longitude": 11.3454707,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Studia Technikerstraße",
     "retailer": "studia_technikerstrae",
     "shop": "copyshop",
     "latitude": 47.2632237,
-    "longitude": 11.345187
+    "longitude": 11.345187,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak- und Schreibwarengeschäft",
     "retailer": "tabak_und_schreibwarengeschaft",
     "shop": "kiosk",
     "latitude": 47.2654906,
-    "longitude": 11.3451122
+    "longitude": 11.3451122,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.5724294,
     "longitude": 16.4271695,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "7331",
+    "city": "Weppersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bipa",
@@ -13,21 +17,29 @@
     "shop": "chemist",
     "latitude": 47.5742071,
     "longitude": 16.425236,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "KFZ Franschitz GmbH",
     "retailer": "kfz_franschitz_gmbh",
     "shop": "car_repair",
     "latitude": 47.5730907,
-    "longitude": 16.4257404
+    "longitude": 16.4257404,
+    "postcode": "7331",
+    "city": "Weppersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Maurer Manfred OEG",
     "retailer": "maurer_manfred_oeg",
     "shop": "lawn_mower",
     "latitude": 47.5737581,
-    "longitude": 16.4253035
+    "longitude": 16.4253035,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "PENNY",
@@ -35,6 +47,8 @@
     "shop": "supermarket",
     "latitude": 47.5744796,
     "longitude": 16.4253552,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

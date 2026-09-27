@@ -5,63 +5,94 @@
     "shop": "garden_centre",
     "latitude": 47.9942133,
     "longitude": 13.682249,
-    "brand": "Bellaflora"
+    "brand": "Bellaflora",
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Mayr",
     "retailer": "backerei_mayr",
     "shop": "bakery",
     "latitude": 47.9908741,
-    "longitude": 13.6888616
+    "longitude": 13.6888616,
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "drive ME",
     "retailer": "drive_me",
     "shop": "car",
     "latitude": 47.9964039,
-    "longitude": 13.6847502
+    "longitude": 13.6847502,
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Elektro-Service Schobesberger",
     "retailer": "elektro_service_schobesberger",
     "shop": "electronics",
     "latitude": 47.9931509,
-    "longitude": 13.6844645
+    "longitude": 13.6844645,
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "FAIE",
     "retailer": "faie",
     "shop": "doityourself",
     "latitude": 47.994644,
-    "longitude": 13.6850912
+    "longitude": 13.6850912,
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseursalon Capelli",
     "retailer": "friseursalon_capelli",
     "shop": "hairdresser",
     "latitude": 47.991111,
-    "longitude": 13.6880645
+    "longitude": 13.6880645,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseurstudio Tres Chic",
     "retailer": "friseurstudio_tres_chic",
     "shop": "hairdresser",
     "latitude": 47.9900061,
-    "longitude": 13.6881539
+    "longitude": 13.6881539,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 47.9910513,
-    "longitude": 13.6894667
+    "longitude": 13.6894667,
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Holzinger",
     "retailer": "holzinger",
     "shop": "kiosk",
     "latitude": 47.9914575,
-    "longitude": 13.6880545
+    "longitude": 13.6880545,
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -69,7 +100,11 @@
     "shop": "houseware",
     "latitude": 47.9951825,
     "longitude": 13.6836877,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "4844",
+    "city": "Regau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -77,6 +112,8 @@
     "shop": "supermarket",
     "latitude": 47.9951563,
     "longitude": 13.6833807,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

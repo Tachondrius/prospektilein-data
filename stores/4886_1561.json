@@ -4,7 +4,9 @@
     "retailer": "fleischerei_ebner",
     "shop": "butcher",
     "latitude": 48.8683618,
-    "longitude": 15.6190761
+    "longitude": 15.6190761,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch Linsbauer",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 48.8681021,
     "longitude": 15.6198817,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "2095",
+    "city": "Drosendorf-Zissersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,20 +5,32 @@
     "shop": "supermarket",
     "latitude": 48.1869995,
     "longitude": 16.1248875,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3011",
+    "city": "Purkersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Renault Jurica",
     "retailer": "renault_jurica",
     "shop": "car",
     "latitude": 48.1895152,
-    "longitude": 16.1257208
+    "longitude": 16.1257208,
+    "postcode": "3011",
+    "city": "Untertullnerbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SamLa",
     "retailer": "samla",
     "shop": "second_hand",
     "latitude": 48.1864841,
-    "longitude": 16.1239228
+    "longitude": 16.1239228,
+    "postcode": "3011",
+    "city": "Purkersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

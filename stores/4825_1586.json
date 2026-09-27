@@ -4,7 +4,11 @@
     "retailer": "franz_ehn",
     "shop": "bakery",
     "latitude": 48.2535833,
-    "longitude": 15.8603214
+    "longitude": 15.8603214,
+    "postcode": "3042",
+    "city": "Würmla",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -12,6 +16,8 @@
     "shop": "doityourself",
     "latitude": 48.2520211,
     "longitude": 15.8621223,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

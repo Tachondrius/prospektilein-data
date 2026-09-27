@@ -5,20 +5,28 @@
     "shop": "doityourself",
     "latitude": 48.2884848,
     "longitude": 16.009309,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "private",
     "retailer": "private",
     "shop": "butcher",
     "latitude": 48.2801357,
-    "longitude": 16.0075288
+    "longitude": 16.0075288,
+    "postcode": "3441",
+    "city": "Judenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SZ Classic",
     "retailer": "sz_classic",
     "shop": "car_repair",
     "latitude": 48.2878351,
-    "longitude": 16.0091373
+    "longitude": 16.0091373,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

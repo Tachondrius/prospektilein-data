@@ -4,13 +4,19 @@
     "retailer": "hofladen",
     "shop": "yes",
     "latitude": 48.2778922,
-    "longitude": 14.2338183
+    "longitude": 14.2338183,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Miesenbergerhof",
     "retailer": "miesenbergerhof",
     "shop": "farm",
     "latitude": 48.2781153,
-    "longitude": 14.2338797
+    "longitude": 14.2338797,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

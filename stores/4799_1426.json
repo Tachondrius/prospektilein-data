@@ -4,7 +4,11 @@
     "retailer": "carmen_hairstyling",
     "shop": "hairdresser",
     "latitude": 47.9977948,
-    "longitude": 14.2610448
+    "longitude": 14.2610448,
+    "postcode": "4595",
+    "city": "Waldneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -12,13 +16,21 @@
     "shop": "supermarket",
     "latitude": 47.9979516,
     "longitude": 14.2608806,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4595",
+    "city": "Waldneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NVZ - Nahversorgungszentrum",
     "retailer": "nvz_nahversorgungszentrum",
     "shop": "mall",
     "latitude": 47.9978754,
-    "longitude": 14.2610037
+    "longitude": 14.2610037,
+    "postcode": "4595",
+    "city": "Waldneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

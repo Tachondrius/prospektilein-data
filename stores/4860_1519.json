@@ -5,14 +5,18 @@
     "shop": "chemist",
     "latitude": 48.6005667,
     "longitude": 15.1914014,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_repair",
     "latitude": 48.6001637,
-    "longitude": 15.191229
+    "longitude": 15.191229,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "JYSK",
@@ -20,7 +24,9 @@
     "shop": "furniture",
     "latitude": 48.6002633,
     "longitude": 15.1912994,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -28,6 +34,8 @@
     "shop": "supermarket",
     "latitude": 48.6004817,
     "longitude": 15.1916957,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

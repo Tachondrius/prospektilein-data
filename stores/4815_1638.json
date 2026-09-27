@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1521334,
     "longitude": 16.3833035,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -13,35 +17,49 @@
     "shop": "chemist",
     "latitude": 48.1527314,
     "longitude": 16.3835475,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Diamant",
     "retailer": "diamant",
     "shop": "bakery",
     "latitude": 48.1532783,
-    "longitude": 16.3828577
+    "longitude": 16.3828577,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Frisör Günther",
     "retailer": "frisor_gunther",
     "shop": "hairdresser",
     "latitude": 48.1521316,
-    "longitude": 16.3840829
+    "longitude": 16.3840829,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 48.1533678,
-    "longitude": 16.3830643
+    "longitude": 16.3830643,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hanssonzentrum",
     "retailer": "hanssonzentrum",
     "shop": "mall",
     "latitude": 48.1532464,
-    "longitude": 16.3830404
+    "longitude": 16.3830404,
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hartlauer",
@@ -49,14 +67,18 @@
     "shop": "electronics",
     "latitude": 48.1534309,
     "longitude": 16.3833985,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hifi",
     "retailer": "shop_hifi",
     "shop": "hifi",
     "latitude": 48.1529043,
-    "longitude": 16.3844241
+    "longitude": 16.3844241,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -64,21 +86,29 @@
     "shop": "supermarket",
     "latitude": 48.1520608,
     "longitude": 16.3827254,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Jewelry",
     "retailer": "shop_jewelry",
     "shop": "jewelry",
     "latitude": 48.1533409,
-    "longitude": 16.3832064
+    "longitude": 16.3832064,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Laundry",
     "retailer": "shop_laundry",
     "shop": "laundry",
     "latitude": 48.1532336,
-    "longitude": 16.3833486
+    "longitude": 16.3833486,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Libro",
@@ -86,21 +116,28 @@
     "shop": "books",
     "latitude": 48.1527182,
     "longitude": 16.383185,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mann",
     "retailer": "mann",
     "shop": "bakery",
     "latitude": 48.1536791,
-    "longitude": 16.3826727
+    "longitude": 16.3826727,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "MeinLachs",
     "retailer": "meinlachs",
     "shop": "seafood",
     "latitude": 48.1541414,
-    "longitude": 16.3803224
+    "longitude": 16.3803224,
+    "postcode": "1100",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -108,7 +145,11 @@
     "shop": "supermarket",
     "latitude": 48.1531023,
     "longitude": 16.3836865,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Radatz",
@@ -116,13 +157,17 @@
     "shop": "butcher",
     "latitude": 48.1533052,
     "longitude": 16.382729,
-    "brand": "Radatz"
+    "brand": "Radatz",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Toys",
     "retailer": "shop_toys",
     "shop": "toys",
     "latitude": 48.1532542,
-    "longitude": 16.3831461
+    "longitude": 16.3831461,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

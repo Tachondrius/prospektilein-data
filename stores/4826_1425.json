@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 48.266862,
     "longitude": 14.2572599,
-    "brand": "Merzedes;Ford;Fiat"
+    "brand": "Merzedes;Ford;Fiat",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -13,35 +15,49 @@
     "shop": "supermarket",
     "latitude": 48.2631888,
     "longitude": 14.2587902,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Berger",
     "retailer": "backerei_berger",
     "shop": "bakery",
     "latitude": 48.2652175,
-    "longitude": 14.2563918
+    "longitude": 14.2563918,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Carmen Kosmetik",
     "retailer": "carmen_kosmetik",
     "shop": "beauty",
     "latitude": 48.2674687,
-    "longitude": 14.2516384
+    "longitude": 14.2516384,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Der Bio Wander-Bäcker",
     "retailer": "der_bio_wander_backer",
     "shop": "bakery",
     "latitude": 48.264176,
-    "longitude": 14.2573401
+    "longitude": 14.2573401,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "K12 Kalender",
     "retailer": "k12_kalender",
     "shop": "calendar",
     "latitude": 48.2660597,
-    "longitude": 14.2576047
+    "longitude": 14.2576047,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Libro",
@@ -49,28 +65,40 @@
     "shop": "books",
     "latitude": 48.2602667,
     "longitude": 14.2568943,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Liebesbrot",
     "retailer": "liebesbrot",
     "shop": "bakery",
     "latitude": 48.2636303,
-    "longitude": 14.2585765
+    "longitude": 14.2585765,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "M.A. Lettner",
     "retailer": "m_a_lettner",
     "shop": "stationery",
     "latitude": 48.2651802,
-    "longitude": 14.2564649
+    "longitude": 14.2564649,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Miko & Mitterhuber",
     "retailer": "miko_und_mitterhuber",
     "shop": "massage",
     "latitude": 48.2606347,
-    "longitude": 14.2549245
+    "longitude": 14.2549245,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "OBI",
@@ -78,7 +106,11 @@
     "shop": "doityourself",
     "latitude": 48.2609521,
     "longitude": 14.258599,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pagro",
@@ -86,27 +118,35 @@
     "shop": "stationery",
     "latitude": 48.2603626,
     "longitude": 14.2570075,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Livia",
     "retailer": "salon_livia",
     "shop": "hairdresser",
     "latitude": 48.26514,
-    "longitude": 14.2565441
+    "longitude": 14.2565441,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sportnahrung.at",
     "retailer": "sportnahrung_at",
     "shop": "sports",
     "latitude": 48.2603703,
-    "longitude": 14.2558102
+    "longitude": 14.2558102,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Woolworth Österreich GMbH",
     "retailer": "woolworth",
     "shop": "furniture",
     "latitude": 48.2604817,
-    "longitude": 14.257148
+    "longitude": 14.257148,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

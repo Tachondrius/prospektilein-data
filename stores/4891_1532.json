@@ -4,21 +4,27 @@
     "retailer": "bauerinnenladen_dobersberg",
     "shop": "convenience",
     "latitude": 48.9149682,
-    "longitude": 15.3213028
+    "longitude": 15.3213028,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Handl Horst",
     "retailer": "handl_horst",
     "shop": "butcher",
     "latitude": 48.9152833,
-    "longitude": 15.3221971
+    "longitude": 15.3221971,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Handl Wohnen",
     "retailer": "handl_wohnen",
     "shop": "furniture",
     "latitude": 48.9146569,
-    "longitude": 15.3220906
+    "longitude": 15.3220906,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Werkstatt",
@@ -26,7 +32,11 @@
     "shop": "car_repair",
     "latitude": 48.9146128,
     "longitude": 15.3287955,
-    "brand": "Land Rover, Ford"
+    "brand": "Land Rover, Ford",
+    "postcode": "3843",
+    "city": "Dobersberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Land Rover",
@@ -34,7 +44,11 @@
     "shop": "car",
     "latitude": 48.9146358,
     "longitude": 15.3285258,
-    "brand": "Land Rover"
+    "brand": "Land Rover",
+    "postcode": "3843",
+    "city": "Dobersberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -42,7 +56,9 @@
     "shop": "supermarket",
     "latitude": 48.9144489,
     "longitude": 15.3220718,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -50,13 +66,21 @@
     "shop": "tobacco",
     "latitude": 48.9148767,
     "longitude": 15.3221387,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "3843",
+    "city": "Dobersberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Yes",
     "retailer": "shop_yes",
     "shop": "yes",
     "latitude": 48.9145706,
-    "longitude": 15.3221057
+    "longitude": 15.3221057,
+    "postcode": "3843",
+    "city": "Dobersberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

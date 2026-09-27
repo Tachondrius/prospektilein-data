@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 47.4945225,
     "longitude": 15.4142469,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8652",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.4957814,
-    "longitude": 15.4173577
+    "longitude": 15.4173577,
+    "postcode": "8652",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

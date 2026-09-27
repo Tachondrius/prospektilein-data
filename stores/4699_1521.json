@@ -4,42 +4,54 @@
     "retailer": "autoaufbereitung_reitzer",
     "shop": "car_parts",
     "latitude": 46.9914002,
-    "longitude": 15.2110912
+    "longitude": 15.2110912,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fingernagelstudio Flecker",
     "retailer": "fingernagelstudio_flecker",
     "shop": "beauty",
     "latitude": 46.9915609,
-    "longitude": 15.2111203
+    "longitude": 15.2111203,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Furniture",
     "retailer": "shop_furniture",
     "shop": "furniture",
     "latitude": 46.9913746,
-    "longitude": 15.2111438
+    "longitude": 15.2111438,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Heimtierbedarf",
     "retailer": "heimtierbedarf",
     "shop": "pet",
     "latitude": 46.9914658,
-    "longitude": 15.2109137
+    "longitude": 15.2109137,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "OCS - Oberländer Car Service",
     "retailer": "ocs_oberlander_car_service",
     "shop": "car_repair",
     "latitude": 46.9925799,
-    "longitude": 15.2117807
+    "longitude": 15.2117807,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Roboschaf",
     "retailer": "roboschaf",
     "shop": "yes",
     "latitude": 46.9915574,
-    "longitude": 15.2109941
+    "longitude": 15.2109941,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -47,7 +59,11 @@
     "shop": "supermarket",
     "latitude": 46.9917599,
     "longitude": 15.2115716,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8563",
+    "city": "Ligist",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar Express",
@@ -55,6 +71,10 @@
     "shop": "convenience",
     "latitude": 46.992496,
     "longitude": 15.2116066,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8563",
+    "city": "Ligist",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.2422954,
     "longitude": 15.9259029,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3041",
+    "city": "Asperhofen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Steinhauser",
@@ -13,20 +17,27 @@
     "shop": "car",
     "latitude": 48.2422119,
     "longitude": 15.9257571,
-    "brand": "Nissan"
+    "brand": "Nissan",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tischlerei Kugler",
     "retailer": "tischlerei_kugler",
     "shop": "doityourself",
     "latitude": 48.2490063,
-    "longitude": 15.927075
+    "longitude": 15.927075,
+    "postcode": "3041",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Your Hair Style Tamara",
     "retailer": "your_hair_style_tamara",
     "shop": "hairdresser",
     "latitude": 48.2438082,
-    "longitude": 15.9262609
+    "longitude": 15.9262609,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

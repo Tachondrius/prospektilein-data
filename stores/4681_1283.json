@@ -4,20 +4,28 @@
     "retailer": "erdbeeren_selber_pflucken",
     "shop": "greengrocer",
     "latitude": 46.8182267,
-    "longitude": 12.8365543
+    "longitude": 12.8365543,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kastl Greisler",
     "retailer": "kastl_greisler",
     "shop": "convenience",
     "latitude": 46.815424,
-    "longitude": 12.8335586
+    "longitude": 12.8335586,
+    "postcode": "9991",
+    "city": "Dölsach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sports",
     "retailer": "shop_sports",
     "shop": "sports",
     "latitude": 46.8120826,
-    "longitude": 12.8313622
+    "longitude": 12.8313622,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

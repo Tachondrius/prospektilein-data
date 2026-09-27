@@ -5,7 +5,9 @@
     "shop": "tobacco",
     "latitude": 46.8621152,
     "longitude": 15.5283794,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Unimarkt",
@@ -13,6 +15,10 @@
     "shop": "supermarket",
     "latitude": 46.8622497,
     "longitude": 15.52843,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "8403",
+    "city": "Lebring-Sankt Margarethen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

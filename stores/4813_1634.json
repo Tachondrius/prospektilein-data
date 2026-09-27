@@ -4,14 +4,22 @@
     "retailer": "fire4you",
     "shop": "department_store",
     "latitude": 48.1366155,
-    "longitude": 16.3433974
+    "longitude": 16.3433974,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "HAKA Center Wien 23",
     "retailer": "haka_center_wien_23",
     "shop": "kitchen",
     "latitude": 48.1349653,
-    "longitude": 16.3427021
+    "longitude": 16.3427021,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mail Boxes Etc.",
@@ -19,13 +27,19 @@
     "shop": "copyshop",
     "latitude": 48.1399872,
     "longitude": 16.3402179,
-    "brand": "Mail Boxes Etc."
+    "brand": "Mail Boxes Etc.",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Projektor.at Präsentationstechnik GmbH",
     "retailer": "projektor_at_prasentationstechnik_gmbh",
     "shop": "hifi",
     "latitude": 48.1367679,
-    "longitude": 16.3417441
+    "longitude": 16.3417441,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

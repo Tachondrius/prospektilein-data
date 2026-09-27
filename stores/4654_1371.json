@@ -4,21 +4,33 @@
     "retailer": "auto_buchacher",
     "shop": "car_repair",
     "latitude": 46.5488015,
-    "longitude": 13.7158874
+    "longitude": 13.7158874,
+    "postcode": "9601",
+    "city": "Arnoldstein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "baernd - buch&blatt",
     "retailer": "baernd_buch_und_blatt",
     "shop": "stationery",
     "latitude": 46.5490671,
-    "longitude": 13.7107501
+    "longitude": 13.7107501,
+    "postcode": "9601",
+    "city": "Arnoldstein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Arnold",
     "retailer": "backerei_arnold",
     "shop": "bakery",
     "latitude": 46.5484591,
-    "longitude": 13.7100976
+    "longitude": 13.7100976,
+    "postcode": "9601",
+    "city": "Arnoldstein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -26,6 +38,10 @@
     "shop": "supermarket",
     "latitude": 46.5494859,
     "longitude": 13.7126022,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9601",
+    "city": "Arnoldstein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -4,21 +4,31 @@
     "retailer": "friseur_petra",
     "shop": "hairdresser",
     "latitude": 48.2684337,
-    "longitude": 15.0393006
+    "longitude": 15.0393006,
+    "postcode": "3684",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Frisiersalon Monika",
     "retailer": "frisiersalon_monika",
     "shop": "hairdresser",
     "latitude": 48.2676571,
-    "longitude": 15.0387668
+    "longitude": 15.0387668,
+    "postcode": "3684",
+    "city": "Sankt Oswald",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kfz- und Zweiradservice Holzapfel",
     "retailer": "kfz_und_zweiradservice_holzapfel",
     "shop": "car_repair",
     "latitude": 48.2662886,
-    "longitude": 15.0362026
+    "longitude": 15.0362026,
+    "postcode": "3684",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -26,6 +36,10 @@
     "shop": "supermarket",
     "latitude": 48.2683986,
     "longitude": 15.0389227,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3684",
+    "city": "St. Oswald",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

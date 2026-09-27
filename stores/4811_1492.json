@@ -5,14 +5,22 @@
     "shop": "car",
     "latitude": 48.1138773,
     "longitude": 14.9252268,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "3304",
+    "city": "St. Georgen am Ybbsfelde",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Farben Wahl GmbH",
     "retailer": "farben_wahl_gmbh",
     "shop": "paint",
     "latitude": 48.1145341,
-    "longitude": 14.9212515
+    "longitude": 14.9212515,
+    "postcode": "3304",
+    "city": "St. Georgen am Ybbsfelde",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Slawitscheck AutohandelsgmbH",
@@ -20,20 +28,32 @@
     "shop": "car",
     "latitude": 48.1142091,
     "longitude": 14.9238108,
-    "brand": "Honda;Hyundai;Citroën;BYD"
+    "brand": "Honda;Hyundai;Citroën;BYD",
+    "postcode": "3304",
+    "city": "Hart",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sonnleitner Amstetten",
     "retailer": "sonnleitner_amstetten",
     "shop": "car",
     "latitude": 48.11409,
-    "longitude": 14.9232026
+    "longitude": 14.9232026,
+    "postcode": "3304",
+    "city": "Hart",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stahlgruber Amstetten",
     "retailer": "stahlgruber_amstetten",
     "shop": "car_parts",
     "latitude": 48.113763,
-    "longitude": 14.9262745
+    "longitude": 14.9262745,
+    "postcode": "3304",
+    "city": "St. Georgen am Ybbsfelde",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

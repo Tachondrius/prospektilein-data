@@ -4,35 +4,53 @@
     "retailer": "auto_poschinger",
     "shop": "car_parts",
     "latitude": 48.045269,
-    "longitude": 16.3054115
+    "longitude": 16.3054115,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Ludwig",
     "retailer": "blumen_ludwig",
     "shop": "florist",
     "latitude": 48.0470639,
-    "longitude": 16.301575
+    "longitude": 16.301575,
+    "postcode": "2353",
+    "city": "Guntramsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Fürmsinn KG",
     "retailer": "gartnerei_furmsinn_kg",
     "shop": "garden_centre",
     "latitude": 48.0420637,
-    "longitude": 16.3029974
+    "longitude": 16.3029974,
+    "postcode": "2514",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hido-Co GmbH",
     "retailer": "hido_co_gmbh",
     "shop": "car_repair",
     "latitude": 48.043742,
-    "longitude": 16.3063862
+    "longitude": 16.3063862,
+    "postcode": "2353",
+    "city": "Guntramsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Heinisch & Partner",
     "retailer": "kfz_heinisch_und_partner",
     "shop": "car_repair",
     "latitude": 48.0433014,
-    "longitude": 16.3063357
+    "longitude": 16.3063357,
+    "postcode": "2353",
+    "city": "Guntramsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -40,7 +58,11 @@
     "shop": "doityourself",
     "latitude": 48.0432997,
     "longitude": 16.3043924,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2353",
+    "city": "Guntramsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -48,6 +70,10 @@
     "shop": "supermarket",
     "latitude": 48.0458006,
     "longitude": 16.3055893,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2353",
+    "city": "Guntramsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

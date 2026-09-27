@@ -5,28 +5,40 @@
     "shop": "supermarket",
     "latitude": 46.9607922,
     "longitude": 15.4776551,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8401",
+    "city": "Kalsdorf bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Steiner",
     "retailer": "backerei_steiner",
     "shop": "bakery",
     "latitude": 46.9621441,
-    "longitude": 15.4793337
+    "longitude": 15.4793337,
+    "postcode": "8401",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischerei Pecigus",
     "retailer": "fleischerei_pecigus",
     "shop": "butcher",
     "latitude": 46.9643722,
-    "longitude": 15.4788206
+    "longitude": 15.4788206,
+    "postcode": "8401",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Irene",
     "retailer": "friseur_irene",
     "shop": "hairdresser",
     "latitude": 46.9641899,
-    "longitude": 15.4778068
+    "longitude": 15.4778068,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -34,34 +46,52 @@
     "shop": "supermarket",
     "latitude": 46.9673988,
     "longitude": 15.4753681,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8401",
+    "city": "Kalsdorf bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Optik Kalsdorf",
     "retailer": "optik_kalsdorf",
     "shop": "optician",
     "latitude": 46.964601,
-    "longitude": 15.4783578
+    "longitude": 15.4783578,
+    "postcode": "8401",
+    "city": "Kalsdorf bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Radl Schmidt",
     "retailer": "radl_schmidt",
     "shop": "bicycle",
     "latitude": 46.9643967,
-    "longitude": 15.4760703
+    "longitude": 15.4760703,
+    "postcode": "8401",
+    "city": "Kalsdorf bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stibitzhofer",
     "retailer": "stibitzhofer",
     "shop": "electronics",
     "latitude": 46.9651546,
-    "longitude": 15.4781942
+    "longitude": 15.4781942,
+    "postcode": "8401",
+    "city": "Kalsdorf bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vinzenz l",
     "retailer": "vinzenz_l",
     "shop": "second_hand",
     "latitude": 46.9642439,
-    "longitude": 15.477694
+    "longitude": 15.477694,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

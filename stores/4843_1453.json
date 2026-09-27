@@ -4,20 +4,30 @@
     "retailer": "lagerhaus",
     "shop": "hardware",
     "latitude": 48.4398802,
-    "longitude": 14.5378867
+    "longitude": 14.5378867,
+    "postcode": "4292",
+    "city": "Kefermarkt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "myTEX GmbH",
     "retailer": "mytex_gmbh",
     "shop": "fabric",
     "latitude": 48.4393963,
-    "longitude": 14.5379713
+    "longitude": 14.5379713,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schnittpunkt Lisa",
     "retailer": "schnittpunkt_lisa",
     "shop": "hairdresser",
     "latitude": 48.439334,
-    "longitude": 14.5376587
+    "longitude": 14.5376587,
+    "postcode": "4292",
+    "city": "Kefermarkt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

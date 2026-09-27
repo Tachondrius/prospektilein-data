@@ -5,35 +5,49 @@
     "shop": "car",
     "latitude": 47.7270154,
     "longitude": 16.0617575,
-    "brand": "Volvo"
+    "brand": "Volvo",
+    "postcode": "2620",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.7228745,
-    "longitude": 16.0691081
+    "longitude": 16.0691081,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.7274602,
-    "longitude": 16.0652332
+    "longitude": 16.0652332,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.7228132,
-    "longitude": 16.0688345
+    "longitude": 16.0688345,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fahrzeugtechnik Koglbauer GmbH",
     "retailer": "fahrzeugtechnik_koglbauer_gmbh",
     "shop": "car_repair",
     "latitude": 47.7267888,
-    "longitude": 16.0627718
+    "longitude": 16.0627718,
+    "postcode": "2620",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -41,7 +55,11 @@
     "shop": "supermarket",
     "latitude": 47.7214435,
     "longitude": 16.0673558,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hyundai-Partner Koglbauer",
@@ -49,14 +67,20 @@
     "shop": "car",
     "latitude": 47.7269951,
     "longitude": 16.0627289,
-    "brand": "Hyundai"
+    "brand": "Hyundai",
+    "postcode": "2620",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kuchner Alois, Gartengestaltung, Baumschule",
     "retailer": "kuchner_alois_gartengestaltung_baumschule",
     "shop": "garden_centre",
     "latitude": 47.7244791,
-    "longitude": 16.0657775
+    "longitude": 16.0657775,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -64,14 +88,20 @@
     "shop": "doityourself",
     "latitude": 47.7265516,
     "longitude": 16.0655895,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2620",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Ternitz - Radshop",
     "retailer": "lagerhaus_ternitz_radshop",
     "shop": "yes",
     "latitude": 47.7267786,
-    "longitude": 16.0667136
+    "longitude": 16.0667136,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -79,13 +109,21 @@
     "shop": "supermarket",
     "latitude": 47.7269153,
     "longitude": 16.0654564,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2620",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Welt der Mineralien Egger GmbH",
     "retailer": "welt_der_mineralien_egger_gmbh",
     "shop": "wholesale",
     "latitude": 47.7215516,
-    "longitude": 16.0627044
+    "longitude": 16.0627044,
+    "postcode": "2620",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

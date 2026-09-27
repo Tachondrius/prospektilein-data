@@ -5,34 +5,48 @@
     "shop": "supermarket",
     "latitude": 48.529153,
     "longitude": 13.7567028,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bakery",
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 48.5292307,
-    "longitude": 13.7568274
+    "longitude": 13.7568274,
+    "postcode": "4143",
+    "city": "Neustift im Mühlkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseur Team Sandra",
     "retailer": "friseur_team_sandra",
     "shop": "hairdresser",
     "latitude": 48.528866,
-    "longitude": 13.7538553
+    "longitude": 13.7538553,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kunstwerkstätte Scharrer",
     "retailer": "kunstwerkstatte_scharrer",
     "shop": "art",
     "latitude": 48.5286046,
-    "longitude": 13.7566838
+    "longitude": 13.7566838,
+    "postcode": "4143",
+    "city": "Neustift im Mühlkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wöss",
     "retailer": "woss",
     "shop": "bakery",
     "latitude": 48.5290988,
-    "longitude": 13.756802
+    "longitude": 13.756802,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

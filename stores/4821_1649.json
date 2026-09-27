@@ -4,14 +4,22 @@
     "retailer": "fachinstitut_fur_hautverbesserung_claudia_wilpert",
     "shop": "beauty",
     "latitude": 48.2161345,
-    "longitude": 16.4993289
+    "longitude": 16.4993289,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "GRÜKO",
     "retailer": "gruko",
     "shop": "car_repair",
     "latitude": 48.2160198,
-    "longitude": 16.4910195
+    "longitude": 16.4910195,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -19,14 +27,22 @@
     "shop": "supermarket",
     "latitude": 48.2165664,
     "longitude": 16.4922888,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Monkey King",
     "retailer": "monkey_king",
     "shop": "motorcycle",
     "latitude": 48.2185075,
-    "longitude": 16.4907244
+    "longitude": 16.4907244,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "OBI",
@@ -34,7 +50,11 @@
     "shop": "doityourself",
     "latitude": 48.2174857,
     "longitude": 16.4954464,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "OMV",
@@ -42,34 +62,50 @@
     "shop": "convenience",
     "latitude": 48.2168821,
     "longitude": 16.4935321,
-    "brand": "OMV"
+    "brand": "OMV",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Schokischenk",
     "retailer": "schokischenk",
     "shop": "chocolate",
     "latitude": 48.2162074,
-    "longitude": 16.4986833
+    "longitude": 16.4986833,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Shiva Chihuahua",
     "retailer": "shiva_chihuahua",
     "shop": "pet",
     "latitude": 48.2161511,
-    "longitude": 16.4991983
+    "longitude": 16.4991983,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.2171018,
-    "longitude": 16.4905813
+    "longitude": 16.4905813,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Viva Billa",
     "retailer": "viva_billa",
     "shop": "convenience",
     "latitude": 48.216868,
-    "longitude": 16.4938263
+    "longitude": 16.4938263,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

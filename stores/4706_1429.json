@@ -5,27 +5,42 @@
     "shop": "supermarket",
     "latitude": 47.0684959,
     "longitude": 14.2987029,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "8813",
+    "city": "St. Lambrecht",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Barbaras Feinkost",
     "retailer": "barbaras_feinkost",
     "shop": "convenience",
     "latitude": 47.0693931,
-    "longitude": 14.2992892
+    "longitude": 14.2992892,
+    "postcode": "8813",
+    "city": "St. Lambrecht",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumenboutique Regina",
     "retailer": "blumenboutique_regina",
     "shop": "florist",
     "latitude": 47.0689527,
-    "longitude": 14.2989851
+    "longitude": 14.2989851,
+    "postcode": "8813",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Marktfriseur Bettina",
     "retailer": "marktfriseur_bettina",
     "shop": "hairdresser",
     "latitude": 47.069276,
-    "longitude": 14.2991836
+    "longitude": 14.2991836,
+    "postcode": "8813",
+    "city": "St. Lambrecht",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

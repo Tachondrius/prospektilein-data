@@ -4,14 +4,20 @@
     "retailer": "lisis_blumenhutt_l",
     "shop": "florist",
     "latitude": 47.5540043,
-    "longitude": 14.1497804
+    "longitude": 14.1497804,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schnäppchenshop und Bike-Verleih Scherz",
     "retailer": "schnappchenshop_und_bike_verleih_scherz",
     "shop": "sports",
     "latitude": 47.5523606,
-    "longitude": 14.1467307
+    "longitude": 14.1467307,
+    "postcode": "8942",
+    "city": "Wörschach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 47.5522527,
     "longitude": 14.1465686,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8942",
+    "city": "Wörschach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

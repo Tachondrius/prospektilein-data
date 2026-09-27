@@ -4,28 +4,40 @@
     "retailer": "alles_fur_s_haar",
     "shop": "hairdresser_supply",
     "latitude": 46.6095687,
-    "longitude": 14.3002262
+    "longitude": 14.3002262,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "BestDrive",
     "retailer": "bestdrive",
     "shop": "car_repair",
     "latitude": 46.6071484,
-    "longitude": 14.3080646
+    "longitude": 14.3080646,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bookmaker",
     "retailer": "shop_bookmaker",
     "shop": "bookmaker",
     "latitude": 46.6097256,
-    "longitude": 14.3003248
+    "longitude": 14.3003248,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Box4u Klagenfurt",
     "retailer": "box4u_klagenfurt",
     "shop": "storage_rental",
     "latitude": 46.6052338,
-    "longitude": 14.3090702
+    "longitude": 14.3090702,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Iveco",
@@ -33,7 +45,9 @@
     "shop": "truck",
     "latitude": 46.6043555,
     "longitude": 14.3019149,
-    "brand": "Iveco"
+    "brand": "Iveco",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Modepark Röther",
@@ -41,7 +55,11 @@
     "shop": "clothes",
     "latitude": 46.60668,
     "longitude": 14.3096964,
-    "brand": "Modepark Röther"
+    "brand": "Modepark Röther",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Müller",
@@ -49,7 +67,11 @@
     "shop": "chemist",
     "latitude": 46.6067235,
     "longitude": 14.309582,
-    "brand": "Müller"
+    "brand": "Müller",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Peugeot Riesemann",
@@ -57,20 +79,32 @@
     "shop": "car",
     "latitude": 46.6069434,
     "longitude": 14.3088658,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "SELFSTORAGE Klagenfurt SÜD",
     "retailer": "selfstorage_klagenfurt_sud",
     "shop": "storage_rental",
     "latitude": 46.6056494,
-    "longitude": 14.3098645
+    "longitude": 14.3098645,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Unser Lagerhaus",
     "retailer": "unser_lagerhaus",
     "shop": "yes",
     "latitude": 46.6066904,
-    "longitude": 14.3029135
+    "longitude": 14.3029135,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

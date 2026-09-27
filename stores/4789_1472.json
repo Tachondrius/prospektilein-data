@@ -4,21 +4,32 @@
     "retailer": "a1_autoservice_helm_raimund",
     "shop": "car_repair",
     "latitude": 47.8900885,
-    "longitude": 14.7205206
+    "longitude": 14.7205206,
+    "postcode": "3334",
+    "city": "Gaflenz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Hirtenlehner",
     "retailer": "backerei_hirtenlehner",
     "shop": "bakery",
     "latitude": 47.895693,
-    "longitude": 14.7256792
+    "longitude": 14.7256792,
+    "postcode": "3334",
+    "city": "Gaflenz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hoamatgfü",
     "retailer": "hoamatgfu",
     "shop": "convenience",
     "latitude": 47.8965668,
-    "longitude": 14.7283928
+    "longitude": 14.7283928,
+    "postcode": "3334",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lenz",
@@ -26,6 +37,10 @@
     "shop": "supermarket",
     "latitude": 47.8961211,
     "longitude": 14.7279959,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3334",
+    "city": "Gaflenz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,70 +5,103 @@
     "shop": "supermarket",
     "latitude": 47.2765038,
     "longitude": 15.6932976,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Kubat",
     "retailer": "blumen_kubat",
     "shop": "florist",
     "latitude": 47.2742634,
-    "longitude": 15.6910333
+    "longitude": 15.6910333,
+    "postcode": "8184",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektrojet Kuterer",
     "retailer": "elektrojet_kuterer",
     "shop": "hifi",
     "latitude": 47.2722501,
-    "longitude": 15.6952758
+    "longitude": 15.6952758,
+    "postcode": "8184",
+    "city": "Anger",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Farben Fetz",
     "retailer": "farben_fetz",
     "shop": "paint",
     "latitude": 47.2778627,
-    "longitude": 15.6941676
+    "longitude": 15.6941676,
+    "postcode": "8184",
+    "city": "Anger",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gründl KEG",
     "retailer": "grundl_keg",
     "shop": "computer",
     "latitude": 47.2736924,
-    "longitude": 15.6925919
+    "longitude": 15.6925919,
+    "postcode": "8184",
+    "city": "Anger",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ Hausleitner",
     "retailer": "kfz_hausleitner",
     "shop": "car_repair",
     "latitude": 47.2792018,
-    "longitude": 15.6923187
+    "longitude": 15.6923187,
+    "postcode": "8184",
+    "city": "Anger",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kfz Hausleitner",
     "retailer": "kfz_hausleitner",
     "shop": "car_repair",
     "latitude": 47.279272,
-    "longitude": 15.6928503
+    "longitude": 15.6928503,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ Werkstätte Vogl",
     "retailer": "kfz_werkstatte_vogl",
     "shop": "car_repair",
     "latitude": 47.2737843,
-    "longitude": 15.6927221
+    "longitude": 15.6927221,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "department_store",
     "latitude": 47.2778529,
-    "longitude": 15.6930774
+    "longitude": 15.6930774,
+    "postcode": "8184",
+    "city": "Anger",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Papier Haider",
     "retailer": "papier_haider",
     "shop": "stationery",
     "latitude": 47.2718763,
-    "longitude": 15.6959537
+    "longitude": 15.6959537,
+    "postcode": "8184",
+    "city": "Anger",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -76,20 +109,30 @@
     "shop": "supermarket",
     "latitude": 47.2717345,
     "longitude": 15.6952938,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8184",
+    "city": "Anger",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stibor Schuhe",
     "retailer": "stibor_schuhe",
     "shop": "convenience",
     "latitude": 47.2734352,
-    "longitude": 15.6921895
+    "longitude": 15.6921895,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tischlerei Zottler",
     "retailer": "tischlerei_zottler",
     "shop": "furniture",
     "latitude": 47.2799233,
-    "longitude": 15.6919575
+    "longitude": 15.6919575,
+    "postcode": "8184",
+    "city": "Anger",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

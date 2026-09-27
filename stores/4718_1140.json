@@ -5,41 +5,63 @@
     "shop": "supermarket",
     "latitude": 47.1862153,
     "longitude": 11.406264,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "6141",
+    "city": "Schönberg im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Car Parts",
     "retailer": "shop_car_parts",
     "shop": "car_parts",
     "latitude": 47.1846726,
-    "longitude": 11.4000198
+    "longitude": 11.4000198,
+    "postcode": "6141",
+    "city": "Schönberg im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gietl's Cafe und Laden",
     "retailer": "gietl_s_cafe_und_laden",
     "shop": "convenience",
     "latitude": 47.1861701,
-    "longitude": 11.4063265
+    "longitude": 11.4063265,
+    "postcode": "6141",
+    "city": "Schönberg im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Hair-Z",
     "retailer": "salon_hair_z",
     "shop": "hairdresser",
     "latitude": 47.1859118,
-    "longitude": 11.4049633
+    "longitude": 11.4049633,
+    "postcode": "6141",
+    "city": "Schönberg im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sophie's Biowelt",
     "retailer": "sophie_s_biowelt",
     "shop": "supermarket",
     "latitude": 47.1859699,
-    "longitude": 11.4020508
+    "longitude": 11.4020508,
+    "postcode": "6141",
+    "city": "Schönberg im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "X-Moto",
     "retailer": "x_moto",
     "shop": "motorcycle",
     "latitude": 47.1856945,
-    "longitude": 11.4000775
+    "longitude": 11.4000775,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

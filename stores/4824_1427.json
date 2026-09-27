@@ -4,7 +4,11 @@
     "retailer": "acl_metall_gmbh",
     "shop": "second_hand",
     "latitude": 48.2404633,
-    "longitude": 14.2758252
+    "longitude": 14.2758252,
+    "postcode": "4050",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -12,14 +16,20 @@
     "shop": "supermarket",
     "latitude": 48.2499469,
     "longitude": 14.2716652,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klipp",
     "retailer": "klipp",
     "shop": "hairdresser",
     "latitude": 48.2434306,
-    "longitude": 14.2769332
+    "longitude": 14.2769332,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Maximarkt",
@@ -27,6 +37,10 @@
     "shop": "supermarket",
     "latitude": 48.2430955,
     "longitude": 14.2768879,
-    "brand": "Maximarkt"
+    "brand": "Maximarkt",
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

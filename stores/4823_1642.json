@@ -4,7 +4,9 @@
     "retailer": "asia_supermarkt",
     "shop": "supermarket",
     "latitude": 48.2359983,
-    "longitude": 16.4244241
+    "longitude": 16.4244241,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,7 +14,9 @@
     "shop": "supermarket",
     "latitude": 48.2359179,
     "longitude": 16.4230683,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -20,7 +24,11 @@
     "shop": "supermarket",
     "latitude": 48.2394169,
     "longitude": 16.4293641,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa Unterwegs",
@@ -28,7 +36,9 @@
     "shop": "convenience",
     "latitude": 48.233621,
     "longitude": 16.4204799,
-    "brand": "Billa Unterwegs"
+    "brand": "Billa Unterwegs",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fischer",
@@ -36,21 +46,31 @@
     "shop": "car",
     "latitude": 48.2353131,
     "longitude": 16.4233516,
-    "brand": "Hyundai;Mitsubischi"
+    "brand": "Hyundai;Mitsubischi",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.2394743,
-    "longitude": 16.4295224
+    "longitude": 16.4295224,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "MSV Nails",
     "retailer": "msv_nails",
     "shop": "beauty",
     "latitude": 48.2354727,
-    "longitude": 16.4222968
+    "longitude": 16.4222968,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Schwandl",
@@ -58,13 +78,19 @@
     "shop": "car_repair",
     "latitude": 48.2333716,
     "longitude": 16.4209459,
-    "brand": "Seat"
+    "brand": "Seat",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "uptown",
     "retailer": "uptown",
     "shop": "clothes",
     "latitude": 48.2356434,
-    "longitude": 16.4226092
+    "longitude": 16.4226092,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

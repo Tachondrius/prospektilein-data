@@ -4,28 +4,38 @@
     "retailer": "eichler",
     "shop": "bakery",
     "latitude": 48.313873,
-    "longitude": 14.2777127
+    "longitude": 14.2777127,
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseur am Berg",
     "retailer": "friseur_am_berg",
     "shop": "hairdresser",
     "latitude": 48.3133718,
-    "longitude": 14.2791715
+    "longitude": 14.2791715,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kepler Bruckner Shop",
     "retailer": "kepler_bruckner_shop",
     "shop": "gift",
     "latitude": 48.3157742,
-    "longitude": 14.2737371
+    "longitude": 14.2737371,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Leisenhof Demeter-Gärtnerei",
     "retailer": "leisenhof_demeter_gartnerei",
     "shop": "farm",
     "latitude": 48.3191995,
-    "longitude": 14.2745711
+    "longitude": 14.2745711,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -33,6 +43,10 @@
     "shop": "supermarket",
     "latitude": 48.3147805,
     "longitude": 14.2735374,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

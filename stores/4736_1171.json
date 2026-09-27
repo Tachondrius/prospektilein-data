@@ -4,41 +4,61 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.369678,
-    "longitude": 11.716552
+    "longitude": 11.716552,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Steinlechner",
     "retailer": "kfz_steinlechner",
     "shop": "car_repair",
     "latitude": 47.3636346,
-    "longitude": 11.71222
+    "longitude": 11.71222,
+    "postcode": "6135",
+    "city": "Stans",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "manu's",
     "retailer": "manu_s",
     "shop": "hairdresser",
     "latitude": 47.3692332,
-    "longitude": 11.7161514
+    "longitude": 11.7161514,
+    "postcode": "6135",
+    "city": "Stans",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS miniM",
     "retailer": "mpreis",
     "shop": "supermarket",
     "latitude": 47.3691249,
-    "longitude": 11.7176952
+    "longitude": 11.7176952,
+    "postcode": "6135",
+    "city": "Stans",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Steiner Bruno",
     "retailer": "steiner_bruno",
     "shop": "butcher",
     "latitude": 47.368837,
-    "longitude": 11.7193454
+    "longitude": 11.7193454,
+    "postcode": "6135",
+    "city": "Stans",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tschann LKW Service GmbH",
     "retailer": "tschann_lkw_service_gmbh",
     "shop": "truck_repair",
     "latitude": 47.3639036,
-    "longitude": 11.7106648
+    "longitude": 11.7106648,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

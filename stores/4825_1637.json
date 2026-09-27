@@ -5,14 +5,18 @@
     "shop": "supermarket",
     "latitude": 48.2516594,
     "longitude": 16.3703707,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 48.2522434,
-    "longitude": 16.3700339
+    "longitude": 16.3700339,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "OPEL Beyschlag",
@@ -20,6 +24,10 @@
     "shop": "car",
     "latitude": 48.2507194,
     "longitude": 16.3701298,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

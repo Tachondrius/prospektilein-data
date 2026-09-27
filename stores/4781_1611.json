@@ -5,20 +5,27 @@
     "shop": "supermarket",
     "latitude": 47.8110465,
     "longitude": 16.1169889,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Drogerie Führer",
     "retailer": "drogerie_fuhrer",
     "shop": "chemist",
     "latitude": 47.8111084,
-    "longitude": 16.1122644
+    "longitude": 16.1122644,
+    "city": "Winzendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik René Reiner",
     "retailer": "tabak_trafik_rene_reiner",
     "shop": "tobacco",
     "latitude": 47.8109729,
-    "longitude": 16.1118133
+    "longitude": 16.1118133,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

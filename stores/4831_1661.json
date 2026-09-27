@@ -4,20 +4,30 @@
     "retailer": "autohaus_haidweger_nissan_und_land_rover",
     "shop": "car",
     "latitude": 48.3119675,
-    "longitude": 16.6124029
+    "longitude": 16.6124029,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.3126313,
-    "longitude": 16.6170895
+    "longitude": 16.6170895,
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Flix Karniesen und Sonnenschutz",
     "retailer": "flix_karniesen_und_sonnenschutz",
     "shop": "yes",
     "latitude": 48.3124757,
-    "longitude": 16.61611
+    "longitude": 16.61611,
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "kfz_simon",
     "shop": "car_repair",
     "latitude": 47.3819106,
-    "longitude": 16.1205555
+    "longitude": 16.1205555,
+    "postcode": "7423",
+    "city": "Pinkafeld",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lidl",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.3806313,
     "longitude": 16.1214182,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "7423",
+    "city": "Pinkafeld",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

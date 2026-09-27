@@ -5,27 +5,37 @@
     "shop": "sports",
     "latitude": 47.2814629,
     "longitude": 13.3189333,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kletterwelt Kleinarl",
     "retailer": "kletterwelt_kleinarl",
     "shop": "outdoor",
     "latitude": 47.2854607,
-    "longitude": 13.3134737
+    "longitude": 13.3134737,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schernthaner sports & Skischule Kleinarl",
     "retailer": "schernthaner_sports_und_skischule_kleinarl",
     "shop": "outdoor;ski;",
     "latitude": 47.2808743,
-    "longitude": 13.3196453
+    "longitude": 13.3196453,
+    "postcode": "5603",
+    "city": "Kleinarl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Shuttleberg Ticket Shop",
     "retailer": "shuttleberg_ticket_shop",
     "shop": "ticket",
     "latitude": 47.281709,
-    "longitude": 13.3195189
+    "longitude": 13.3195189,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -4,28 +4,38 @@
     "retailer": "asian_spa_massage",
     "shop": "massage",
     "latitude": 46.7928238,
-    "longitude": 13.4863146
+    "longitude": 13.4863146,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Aveda",
     "retailer": "aveda",
     "shop": "hairdresser",
     "latitude": 46.7963114,
-    "longitude": 13.4896555
+    "longitude": 13.4896555,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Wendt",
     "retailer": "backerei_wendt",
     "shop": "bakery",
     "latitude": 46.7956944,
-    "longitude": 13.4880009
+    "longitude": 13.4880009,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lassnig",
     "retailer": "lassnig",
     "shop": "tobacco",
     "latitude": 46.7905058,
-    "longitude": 13.4881788
+    "longitude": 13.4881788,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -33,13 +43,17 @@
     "shop": "clothes",
     "latitude": 46.7966449,
     "longitude": 13.489897,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "ÖBB Ticketschalter",
     "retailer": "obb_ticketschalter",
     "shop": "ticket",
     "latitude": 46.7957253,
-    "longitude": 13.487952
+    "longitude": 13.487952,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

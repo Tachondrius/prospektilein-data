@@ -4,21 +4,27 @@
     "retailer": "backerei_fritz_klaus",
     "shop": "bakery",
     "latitude": 46.6623873,
-    "longitude": 12.9993908
+    "longitude": 12.9993908,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 46.6682364,
-    "longitude": 12.9999575
+    "longitude": 12.9999575,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Flora Lackner",
     "retailer": "flora_lackner",
     "shop": "massage",
     "latitude": 46.6646052,
-    "longitude": 12.9980054
+    "longitude": 12.9980054,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Presslauer-Webhofer GmbH",
@@ -26,13 +32,17 @@
     "shop": "car_repair",
     "latitude": 46.6682502,
     "longitude": 12.999563,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trafik Singer",
     "retailer": "trafik_singer",
     "shop": "kiosk",
     "latitude": 46.6661647,
-    "longitude": 12.9979871
+    "longitude": 12.9979871,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

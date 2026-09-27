@@ -4,7 +4,9 @@
     "retailer": "blumen_kerstin",
     "shop": "florist",
     "latitude": 47.7824913,
-    "longitude": 17.0275508
+    "longitude": 17.0275508,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.7829434,
     "longitude": 17.0278322,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7163",
+    "city": "Andau",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

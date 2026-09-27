@@ -5,7 +5,9 @@
     "shop": "chemist",
     "latitude": 47.1969778,
     "longitude": 9.7401401,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hofer",
@@ -13,7 +15,11 @@
     "shop": "supermarket",
     "latitude": 47.1971817,
     "longitude": 9.7402217,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6719",
+    "city": "Bludesch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kik",
@@ -21,20 +27,30 @@
     "shop": "clothes",
     "latitude": 47.1968217,
     "longitude": 9.7402461,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mangold",
     "retailer": "mangold",
     "shop": "bakery",
     "latitude": 47.1968678,
-    "longitude": 9.7413085
+    "longitude": 9.7413085,
+    "postcode": "6719",
+    "city": "Bludesch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Walgau-Bäckerei Stuchly",
     "retailer": "walgau_backerei_stuchly",
     "shop": "bakery",
     "latitude": 47.1989371,
-    "longitude": 9.7454013
+    "longitude": 9.7454013,
+    "postcode": "6719",
+    "city": "Bludesch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

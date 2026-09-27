@@ -4,7 +4,9 @@
     "retailer": "bestdrive_schwechat",
     "shop": "tyres",
     "latitude": 48.1398246,
-    "longitude": 16.4812108
+    "longitude": 16.4812108,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "OBI",
@@ -12,6 +14,10 @@
     "shop": "doityourself",
     "latitude": 48.1389533,
     "longitude": 16.4890144,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "2320",
+    "city": "Schwechat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "danube_edv_systeme_gmbh",
     "shop": "computer",
     "latitude": 48.3637214,
-    "longitude": 14.0121403
+    "longitude": 14.0121403,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NORMA",
@@ -12,13 +14,19 @@
     "shop": "supermarket",
     "latitude": 48.3627852,
     "longitude": 14.0106124,
-    "brand": "NORMA"
+    "brand": "NORMA",
+    "postcode": "4082",
+    "city": "Aschach an der Donau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.3637082,
-    "longitude": 14.0122492
+    "longitude": 14.0122492,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

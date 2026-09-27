@@ -4,7 +4,11 @@
     "retailer": "rad_und_service_naschenweng_gunther",
     "shop": "bicycle",
     "latitude": 46.6010104,
-    "longitude": 13.8381793
+    "longitude": 13.8381793,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -12,13 +16,21 @@
     "shop": "supermarket",
     "latitude": 46.6070542,
     "longitude": 13.8314215,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 46.6045815,
-    "longitude": 13.8332754
+    "longitude": 13.8332754,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

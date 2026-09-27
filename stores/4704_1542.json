@@ -4,70 +4,104 @@
     "retailer": "bestattung_wolf",
     "shop": "funeral_directors",
     "latitude": 47.0457727,
-    "longitude": 15.4289833
+    "longitude": 15.4289833,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Eibinger",
     "retailer": "blumen_eibinger",
     "shop": "florist",
     "latitude": 47.0451666,
-    "longitude": 15.4295133
+    "longitude": 15.4295133,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Engele",
     "retailer": "blumen_engele",
     "shop": "florist",
     "latitude": 47.0472011,
-    "longitude": 15.4213211
+    "longitude": 15.4213211,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Kleissner",
     "retailer": "blumen_kleissner",
     "shop": "florist",
     "latitude": 47.045312,
-    "longitude": 15.4294615
+    "longitude": 15.4294615,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumenhaus Zötsch",
     "retailer": "blumenhaus_zotsch",
     "shop": "florist",
     "latitude": 47.04524,
-    "longitude": 15.4294864
+    "longitude": 15.4294864,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Diskont Depot",
     "retailer": "diskont_depot",
     "shop": "storage_rental",
     "latitude": 47.0423935,
-    "longitude": 15.429691
+    "longitude": 15.429691,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektrotechnik Hochegger",
     "retailer": "elektrotechnik_hochegger",
     "shop": "electrical",
     "latitude": 47.0467856,
-    "longitude": 15.4213647
+    "longitude": 15.4213647,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hochl",
     "retailer": "hochl",
     "shop": "florist",
     "latitude": 47.0457573,
-    "longitude": 15.4293873
+    "longitude": 15.4293873,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "mild stein",
     "retailer": "mild_stein",
     "shop": "yes",
     "latitude": 47.0430471,
-    "longitude": 15.4284366
+    "longitude": 15.4284366,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PAX Bestattung",
     "retailer": "pax_bestattung",
     "shop": "funeral_directors",
     "latitude": 47.043811,
-    "longitude": 15.4229767
+    "longitude": 15.4229767,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -75,20 +109,28 @@
     "shop": "supermarket",
     "latitude": 47.0497532,
     "longitude": 15.4207142,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak/Trafik Gräber",
     "retailer": "tabak_trafik_graber",
     "shop": "newsagent;tobacco",
     "latitude": 47.049615,
-    "longitude": 15.4278901
+    "longitude": 15.4278901,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.0499506,
-    "longitude": 15.4217691
+    "longitude": 15.4217691,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

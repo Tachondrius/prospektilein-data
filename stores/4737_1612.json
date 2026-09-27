@@ -5,63 +5,95 @@
     "shop": "supermarket",
     "latitude": 47.376645,
     "longitude": 16.1241412,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "7423",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Autohaus Pahr",
     "retailer": "autohaus_pahr",
     "shop": "car_repair",
     "latitude": 47.3772115,
-    "longitude": 16.1239735
+    "longitude": 16.1239735,
+    "postcode": "7423",
+    "city": "Pinkafeld",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bio-Bäckerei Ringhofer",
     "retailer": "bio_backerei_ringhofer",
     "shop": "bakery",
     "latitude": 47.3708922,
-    "longitude": 16.1206528
+    "longitude": 16.1206528,
+    "postcode": "7423",
+    "city": "Pinkafeld",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bioladen Pinkafeld",
     "retailer": "bioladen_pinkafeld",
     "shop": "supermarket",
     "latitude": 47.3716679,
-    "longitude": 16.1222422
+    "longitude": 16.1222422,
+    "postcode": "7423",
+    "city": "Pinkafeld",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Cafe-Konditorei Träger",
     "retailer": "cafe_konditorei_trager",
     "shop": "pastry",
     "latitude": 47.371279,
-    "longitude": 16.1221166
+    "longitude": 16.1221166,
+    "postcode": "7423",
+    "city": "Pinkafeld",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Drogerie \"Zum St. Hubertus\"",
     "retailer": "drogerie_zum_st_hubertus",
     "shop": "chemist",
     "latitude": 47.3717547,
-    "longitude": 16.1226038
+    "longitude": 16.1226038,
+    "postcode": "7423",
+    "city": "Pinkafeld",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ebner",
     "retailer": "ebner",
     "shop": "butcher",
     "latitude": 47.3710919,
-    "longitude": 16.1230098
+    "longitude": 16.1230098,
+    "postcode": "7423",
+    "city": "Pinkafeld",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Friseurteam Creativ - Andrea Wilfinger",
     "retailer": "friseurteam_creativ_andrea_wilfinger",
     "shop": "hairdresser",
     "latitude": 47.3765723,
-    "longitude": 16.1242109
+    "longitude": 16.1242109,
+    "postcode": "7423",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Palmers",
     "retailer": "palmers",
     "shop": "convenience",
     "latitude": 47.3712533,
-    "longitude": 16.1224776
+    "longitude": 16.1224776,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Penny",
@@ -69,34 +101,50 @@
     "shop": "supermarket",
     "latitude": 47.3700024,
     "longitude": 16.1222384,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "7423",
+    "city": "Pinkafeld",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Traffik Horvath",
     "retailer": "traffik_horvath",
     "shop": "tobacco",
     "latitude": 47.3711184,
-    "longitude": 16.1209965
+    "longitude": 16.1209965,
+    "postcode": "7423",
+    "city": "Pinkafeld",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Traffik Simoncsits",
     "retailer": "traffik_simoncsits",
     "shop": "tobacco",
     "latitude": 47.3717046,
-    "longitude": 16.1224511
+    "longitude": 16.1224511,
+    "postcode": "7423",
+    "city": "Pinkafeld",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weltladen",
     "retailer": "weltladen",
     "shop": "convenience",
     "latitude": 47.3713567,
-    "longitude": 16.1224237
+    "longitude": 16.1224237,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Zweirad Fassl",
     "retailer": "zweirad_fassl",
     "shop": "bicycle",
     "latitude": 47.3703995,
-    "longitude": 16.1224949
+    "longitude": 16.1224949,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

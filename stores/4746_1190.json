@@ -4,20 +4,26 @@
     "retailer": "ezeb",
     "shop": "bakery",
     "latitude": 47.4610018,
-    "longitude": 11.9064068
+    "longitude": 11.9064068,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.4617306,
-    "longitude": 11.9068663
+    "longitude": 11.9068663,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Seehof Shop",
     "retailer": "seehof_shop",
     "shop": "convenience",
     "latitude": 47.4615316,
-    "longitude": 11.9070245
+    "longitude": 11.9070245,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

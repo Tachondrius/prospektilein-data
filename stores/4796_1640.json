@@ -4,7 +4,11 @@
     "retailer": "ayan_minimarkt",
     "shop": "convenience",
     "latitude": 47.9632655,
-    "longitude": 16.4039213
+    "longitude": 16.4039213,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 47.9640411,
     "longitude": 16.4066097,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -20,21 +28,33 @@
     "shop": "chemist",
     "latitude": 47.9669186,
     "longitude": 16.4012539,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen-Atelier",
     "retailer": "blumen_atelier",
     "shop": "florist",
     "latitude": 47.9651384,
-    "longitude": 16.4020369
+    "longitude": 16.4020369,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bodyaction",
     "retailer": "bodyaction",
     "shop": "tattoo",
     "latitude": 47.9668251,
-    "longitude": 16.402108
+    "longitude": 16.402108,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ernst Nemeth GmbH",
@@ -42,7 +62,9 @@
     "shop": "car_parts",
     "latitude": 47.9658766,
     "longitude": 16.402372,
-    "brand": "Hyundai"
+    "brand": "Hyundai",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ernst Nemeth GmbH",
@@ -50,35 +72,47 @@
     "shop": "car",
     "latitude": 47.9660713,
     "longitude": 16.4028065,
-    "brand": "Hyundai"
+    "brand": "Hyundai",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Florsitik Werkstatt Hladovsky",
     "retailer": "florsitik_werkstatt_hladovsky",
     "shop": "florist",
     "latitude": 47.960859,
-    "longitude": 16.4032117
+    "longitude": 16.4032117,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gebrauchtwagen Nemeth",
     "retailer": "gebrauchtwagen_nemeth",
     "shop": "car",
     "latitude": 47.9653553,
-    "longitude": 16.4015521
+    "longitude": 16.4015521,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.9637352,
-    "longitude": 16.4025328
+    "longitude": 16.4025328,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "kreHAARtiv",
     "retailer": "krehaartiv",
     "shop": "hairdresser",
     "latitude": 47.9652402,
-    "longitude": 16.4020179
+    "longitude": 16.4020179,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -86,14 +120,22 @@
     "shop": "doityourself",
     "latitude": 47.9645311,
     "longitude": 16.4058802,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Olaf Kovacs - Ofenstudio",
     "retailer": "olaf_kovacs_ofenstudio",
     "shop": "fireplace",
     "latitude": 47.966421,
-    "longitude": 16.4021741
+    "longitude": 16.4021741,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -101,21 +143,31 @@
     "shop": "supermarket",
     "latitude": 47.9669958,
     "longitude": 16.4012472,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Putzerei",
     "retailer": "putzerei",
     "shop": "dry_cleaning",
     "latitude": 47.9633969,
-    "longitude": 16.4028561
+    "longitude": 16.4028561,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stadtoptik",
     "retailer": "stadtoptik",
     "shop": "optician",
     "latitude": 47.9628028,
-    "longitude": 16.4001453
+    "longitude": 16.4001453,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -123,41 +175,59 @@
     "shop": "variety_store",
     "latitude": 47.9663057,
     "longitude": 16.4016217,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Vision Connecting Point",
     "retailer": "vision_connecting_point",
     "shop": "mobile_phone",
     "latitude": 47.9672273,
-    "longitude": 16.4020579
+    "longitude": 16.4020579,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Vitality Schönheitssalon Ebreichsdorf",
     "retailer": "vitality_schonheitssalon_ebreichsdorf",
     "shop": "hairdresser",
     "latitude": 47.9663596,
-    "longitude": 16.4022071
+    "longitude": 16.4022071,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wagner",
     "retailer": "wagner",
     "shop": "bakery",
     "latitude": 47.9636977,
-    "longitude": 16.4022525
+    "longitude": 16.4022525,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weltladen Ebreichsdorf",
     "retailer": "weltladen_ebreichsdorf",
     "shop": "convenience",
     "latitude": 47.9632631,
-    "longitude": 16.4012209
+    "longitude": 16.4012209,
+    "postcode": "2483",
+    "city": "Ebreichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Änderungsschneiderei",
     "retailer": "anderungsschneiderei",
     "shop": "tailor",
     "latitude": 47.9634058,
-    "longitude": 16.4029277
+    "longitude": 16.4029277,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "ahmet",
     "shop": "car_repair",
     "latitude": 47.2852118,
-    "longitude": 12.4914095
+    "longitude": 12.4914095,
+    "postcode": "5730",
+    "city": "Mittersill",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 47.2857538,
     "longitude": 12.4927585,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5730",
+    "city": "Mittersill",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -20,7 +28,11 @@
     "shop": "supermarket",
     "latitude": 47.2843919,
     "longitude": 12.4918729,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5730",
+    "city": "Mittersill",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "JYSK",
@@ -28,14 +40,20 @@
     "shop": "furniture",
     "latitude": 47.2845751,
     "longitude": 12.4938396,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "5730",
+    "city": "Mittersill",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lagerhaus Mittersill",
     "retailer": "lagerhaus_mittersill",
     "shop": "hardware",
     "latitude": 47.2850583,
-    "longitude": 12.4987646
+    "longitude": 12.4987646,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MPREIS",
@@ -43,14 +61,22 @@
     "shop": "supermarket",
     "latitude": 47.2843747,
     "longitude": 12.4901053,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "5730",
+    "city": "Mittersill",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Prostis Autoboutique",
     "retailer": "prostis_autoboutique",
     "shop": "car_repair",
     "latitude": 47.2857076,
-    "longitude": 12.4987391
+    "longitude": 12.4987391,
+    "postcode": "5730",
+    "city": "Mittersill",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar Express",
@@ -58,6 +84,8 @@
     "shop": "convenience",
     "latitude": 47.2850273,
     "longitude": 12.4929818,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

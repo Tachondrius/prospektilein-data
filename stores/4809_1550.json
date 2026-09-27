@@ -4,7 +4,11 @@
     "retailer": "elektro_schadner",
     "shop": "electronics",
     "latitude": 48.0958124,
-    "longitude": 15.5090853
+    "longitude": 15.5090853,
+    "postcode": "3202",
+    "city": "Hofstetten-Grünau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -12,14 +16,22 @@
     "shop": "doityourself",
     "latitude": 48.0961484,
     "longitude": 15.5077413,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3202",
+    "city": "Hofstetten-Grünau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Werkstätte Hofstetten",
     "retailer": "lagerhaus_werkstatte_hofstetten",
     "shop": "car_repair",
     "latitude": 48.0956261,
-    "longitude": 15.5078354
+    "longitude": 15.5078354,
+    "postcode": "3202",
+    "city": "Hofstetten-Grünau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mazda Köfler",
@@ -27,13 +39,19 @@
     "shop": "car",
     "latitude": 48.0969284,
     "longitude": 15.5097425,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
     "retailer": "nkd",
     "shop": "clothes",
     "latitude": 48.0950742,
-    "longitude": 15.5094555
+    "longitude": 15.5094555,
+    "postcode": "3202",
+    "city": "Hofstetten-Grünau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

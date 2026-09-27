@@ -5,21 +5,31 @@
     "shop": "supermarket",
     "latitude": 47.304616,
     "longitude": 9.6460406,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Amann-Summer-Rieder Weine",
     "retailer": "amann_summer_rieder_weine",
     "shop": "wine",
     "latitude": 47.3080643,
-    "longitude": 9.6486391
+    "longitude": 9.6486391,
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Amici del Vino",
     "retailer": "amici_del_vino",
     "shop": "wine",
     "latitude": 47.3049135,
-    "longitude": 9.6461168
+    "longitude": 9.6461168,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bayram Coskun Trafik Klaus",
@@ -27,49 +37,73 @@
     "shop": "kiosk",
     "latitude": 47.3092247,
     "longitude": 9.64879,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Beauty For You",
     "retailer": "beauty_for_you",
     "shop": "beauty",
     "latitude": 47.3087775,
-    "longitude": 9.648674
+    "longitude": 9.648674,
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Buchhandlung M&M",
     "retailer": "buchhandlung_m_und_m",
     "shop": "books",
     "latitude": 47.3050359,
-    "longitude": 9.6487391
+    "longitude": 9.6487391,
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bäckerei Cafe Waltner",
     "retailer": "backerei_cafe_waltner",
     "shop": "bakery",
     "latitude": 47.3088704,
-    "longitude": 9.6483602
+    "longitude": 9.6483602,
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Farben Morscher",
     "retailer": "farben_morscher",
     "shop": "paint",
     "latitude": 47.305117,
-    "longitude": 9.6429602
+    "longitude": 9.6429602,
+    "postcode": "6837",
+    "city": "Weiler",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Frick Brennstoffe",
     "retailer": "frick_brennstoffe",
     "shop": "fuel",
     "latitude": 47.3047031,
-    "longitude": 9.6470895
+    "longitude": 9.6470895,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "genusshortus",
     "retailer": "genusshortus",
     "shop": "herbalist",
     "latitude": 47.3059836,
-    "longitude": 9.6476479
+    "longitude": 9.6476479,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "M3 Energy",
@@ -77,41 +111,61 @@
     "shop": "kiosk",
     "latitude": 47.3043391,
     "longitude": 9.6476569,
-    "brand": "M3 Energy"
+    "brand": "M3 Energy",
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Nutzfahrzeuge Haubner GmbH",
     "retailer": "nutzfahrzeuge_haubner_gmbh",
     "shop": "truck_repair",
     "latitude": 47.3004905,
-    "longitude": 9.6424437
+    "longitude": 9.6424437,
+    "postcode": "6837",
+    "city": "Weiler",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "rundum service GmbH - Reifen, Forst und Garten",
     "retailer": "rundum_service_gmbh_reifen_forst_und_garten",
     "shop": "tyres",
     "latitude": 47.3043957,
-    "longitude": 9.6470695
+    "longitude": 9.6470695,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "sohm",
     "retailer": "sohm",
     "shop": "hairdresser",
     "latitude": 47.30548,
-    "longitude": 9.6479382
+    "longitude": 9.6479382,
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sportpokale Karl Grabuschnigg",
     "retailer": "sportpokale_karl_grabuschnigg",
     "shop": "trophy",
     "latitude": 47.308592,
-    "longitude": 9.6486538
+    "longitude": 9.6486538,
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Stoffwerkelei",
     "retailer": "stoffwerkelei",
     "shop": "fabric",
     "latitude": 47.3047587,
-    "longitude": 9.6460814
+    "longitude": 9.6460814,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

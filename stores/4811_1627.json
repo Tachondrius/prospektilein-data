@@ -4,14 +4,20 @@
     "retailer": "bestattung_modling",
     "shop": "funeral_directors",
     "latitude": 48.1171044,
-    "longitude": 16.2744172
+    "longitude": 16.2744172,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bestattung Unvergessen",
     "retailer": "bestattung_unvergessen",
     "shop": "funeral_directors",
     "latitude": 48.1125519,
-    "longitude": 16.2736457
+    "longitude": 16.2736457,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -19,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 48.1138376,
     "longitude": 16.2735434,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2380",
+    "city": "Perchtoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -27,7 +37,11 @@
     "shop": "supermarket",
     "latitude": 48.1154649,
     "longitude": 16.2712752,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2380",
+    "city": "Perchtoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -35,13 +49,21 @@
     "shop": "supermarket",
     "latitude": 48.1128299,
     "longitude": 16.272857,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Renault Skala",
     "retailer": "renault_skala",
     "shop": "car",
     "latitude": 48.1140666,
-    "longitude": 16.2743131
+    "longitude": 16.2743131,
+    "postcode": "2380",
+    "city": "Perchtoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

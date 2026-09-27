@@ -4,7 +4,11 @@
     "retailer": "arbo_prufzentrum_schladming",
     "shop": "car_repair",
     "latitude": 47.3969513,
-    "longitude": 13.7041419
+    "longitude": 13.7041419,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa stop & shop",
@@ -12,7 +16,11 @@
     "shop": "convenience",
     "latitude": 47.3957905,
     "longitude": 13.7013595,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar Express",
@@ -20,6 +28,10 @@
     "shop": "convenience",
     "latitude": 47.3966241,
     "longitude": 13.7042473,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

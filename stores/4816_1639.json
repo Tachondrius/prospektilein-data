@@ -5,7 +5,11 @@
     "shop": "chemist",
     "latitude": 48.1660426,
     "longitude": 16.3911063,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 48.1651971,
     "longitude": 16.3904239,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -21,6 +29,10 @@
     "shop": "supermarket",
     "latitude": 48.1650505,
     "longitude": 16.3908184,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

@@ -4,35 +4,54 @@
     "retailer": "antik_und_trodelstube",
     "shop": "second_hand",
     "latitude": 47.6938606,
-    "longitude": 16.0159628
+    "longitude": 16.0159628,
+    "postcode": "2632",
+    "city": "Grafenbach-St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car-Tek",
     "retailer": "car_tek",
     "shop": "car_repair",
     "latitude": 47.6947078,
-    "longitude": 16.0166612
+    "longitude": 16.0166612,
+    "postcode": "2632",
+    "city": "Grafenbach-St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Goiser Solutions",
     "retailer": "goiser_solutions",
     "shop": "computer",
     "latitude": 47.6955437,
-    "longitude": 16.0118876
+    "longitude": 16.0118876,
+    "postcode": "2630",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lachsräucherei Fuchs",
     "retailer": "lachsraucherei_fuchs",
     "shop": "seafood",
     "latitude": 47.6941075,
-    "longitude": 16.0161451
+    "longitude": 16.0161451,
+    "postcode": "2632",
+    "city": "Grafenbach-St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lekkerland",
     "retailer": "lekkerland",
     "shop": "wholesale",
     "latitude": 47.6981728,
-    "longitude": 16.0117769
+    "longitude": 16.0117769,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar Wagner",
@@ -40,6 +59,10 @@
     "shop": "supermarket",
     "latitude": 47.6963085,
     "longitude": 16.0197032,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2632",
+    "city": "Wimpassing im Schwarzatale",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

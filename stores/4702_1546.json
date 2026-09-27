@@ -4,28 +4,40 @@
     "retailer": "autobahn_zoo",
     "shop": "pet",
     "latitude": 47.0290762,
-    "longitude": 15.4665025
+    "longitude": 15.4665025,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 47.0252211,
-    "longitude": 15.4683459
+    "longitude": 15.4683459,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Canon",
     "retailer": "canon",
     "shop": "computer",
     "latitude": 47.0246062,
-    "longitude": 15.4677703
+    "longitude": 15.4677703,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Glas Meisl",
     "retailer": "glas_meisl",
     "shop": "yes",
     "latitude": 47.0221581,
-    "longitude": 15.4697675
+    "longitude": 15.4697675,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -33,13 +45,19 @@
     "shop": "supermarket",
     "latitude": 47.0282342,
     "longitude": 15.465809,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zellweger",
     "retailer": "zellweger",
     "shop": "sewing_machines",
     "latitude": 47.0245206,
-    "longitude": 15.467847
+    "longitude": 15.467847,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

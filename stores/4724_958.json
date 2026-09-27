@@ -5,28 +5,42 @@
     "shop": "supermarket",
     "latitude": 47.2483996,
     "longitude": 9.5876198,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Gohm",
     "retailer": "gohm",
     "shop": "funeral_directors",
     "latitude": 47.245553,
-    "longitude": 9.5839029
+    "longitude": 9.5839029,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ikea Abholstation",
     "retailer": "ikea",
     "shop": "furniture",
     "latitude": 47.2421853,
-    "longitude": 9.5869526
+    "longitude": 9.5869526,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kapfgarage",
     "retailer": "kapfgarage",
     "shop": "car_repair",
     "latitude": 47.244698,
-    "longitude": 9.5898064
+    "longitude": 9.5898064,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "KiK",
@@ -34,41 +48,60 @@
     "shop": "clothes",
     "latitude": 47.2483963,
     "longitude": 9.5868934,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Klien",
     "retailer": "klien",
     "shop": "groundskeeping",
     "latitude": 47.2484062,
-    "longitude": 9.5838497
+    "longitude": 9.5838497,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Montfort",
     "retailer": "montfort",
     "shop": "hairdresser",
     "latitude": 47.2423129,
-    "longitude": 9.5820208
+    "longitude": 9.5820208,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Salon-Evelyn",
     "retailer": "salon_evelyn",
     "shop": "hairdresser",
     "latitude": 47.2405303,
-    "longitude": 9.588556
+    "longitude": 9.588556,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schertler Brot",
     "retailer": "schertler_brot",
     "shop": "bakery",
     "latitude": 47.2430557,
-    "longitude": 9.5873128
+    "longitude": 9.5873128,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trafik Melidoro",
     "retailer": "trafik_melidoro",
     "shop": "tobacco",
     "latitude": 47.2475269,
-    "longitude": 9.5881812
+    "longitude": 9.5881812,
+    "postcode": "6800",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

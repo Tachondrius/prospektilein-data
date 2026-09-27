@@ -4,7 +4,11 @@
     "retailer": "eberl",
     "shop": "car",
     "latitude": 47.2179387,
-    "longitude": 10.7450754
+    "longitude": 10.7450754,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Falch",
@@ -12,14 +16,20 @@
     "shop": "car",
     "latitude": 47.2175965,
     "longitude": 10.7450433,
-    "brand": "Audi;Volkswagen;Škoda"
+    "brand": "Audi;Volkswagen;Škoda",
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gartenbedarf Hochfilzer",
     "retailer": "gartenbedarf_hochfilzer",
     "shop": "garden_centre",
     "latitude": 47.2181953,
-    "longitude": 10.7451474
+    "longitude": 10.7451474,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Goidinger",
@@ -27,42 +37,62 @@
     "shop": "car",
     "latitude": 47.2178035,
     "longitude": 10.7437409,
-    "brand": "Mercedes-Benz;Peugeot"
+    "brand": "Mercedes-Benz;Peugeot",
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Jenewein fliesen",
     "retailer": "jenewein_fliesen",
     "shop": "doityourself",
     "latitude": 47.2180851,
-    "longitude": 10.7469672
+    "longitude": 10.7469672,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kaminbau und Ofencenter Pelech",
     "retailer": "kaminbau_und_ofencenter_pelech",
     "shop": "fireplace",
     "latitude": 47.2175842,
-    "longitude": 10.7461336
+    "longitude": 10.7461336,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Krismer",
     "retailer": "krismer",
     "shop": "furniture",
     "latitude": 47.2175415,
-    "longitude": 10.7458864
+    "longitude": 10.7458864,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Küchenprofis Schranz und Wolf",
     "retailer": "kuchenprofis_schranz_und_wolf",
     "shop": "appliance",
     "latitude": 47.2174649,
-    "longitude": 10.7461444
+    "longitude": 10.7461444,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wurth",
     "retailer": "wurth",
     "shop": "doityourself",
     "latitude": 47.2179203,
-    "longitude": 10.7470222
+    "longitude": 10.7470222,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth",
@@ -70,6 +100,8 @@
     "shop": "hardware",
     "latitude": 47.2179987,
     "longitude": 10.7466845,
-    "brand": "Würth"
+    "brand": "Würth",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

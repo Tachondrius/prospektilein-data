@@ -4,21 +4,27 @@
     "retailer": "bauernfenster",
     "shop": "farm",
     "latitude": 47.0741509,
-    "longitude": 10.6481686
+    "longitude": 10.6481686,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.0751573,
-    "longitude": 10.6494474
+    "longitude": 10.6494474,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ladis' Ladele",
     "retailer": "ladis_ladele",
     "shop": "gift",
     "latitude": 47.0752665,
-    "longitude": 10.6493092
+    "longitude": 10.6493092,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -26,41 +32,55 @@
     "shop": "convenience",
     "latitude": 47.0751458,
     "longitude": 10.6494382,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MKS Falkner Gastroservice",
     "retailer": "mks_falkner_gastroservice",
     "shop": "kitchen",
     "latitude": 47.073906,
-    "longitude": 10.6484033
+    "longitude": 10.6484033,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Skischule Fiss Ladis",
     "retailer": "skischule_fiss_ladis",
     "shop": "ticket",
     "latitude": 47.0704552,
-    "longitude": 10.645709
+    "longitude": 10.645709,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Loisl",
     "retailer": "sport_loisl",
     "shop": "sports",
     "latitude": 47.0713915,
-    "longitude": 10.6463373
+    "longitude": 10.6463373,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Senn",
     "retailer": "sport_senn",
     "shop": "sports",
     "latitude": 47.070633,
-    "longitude": 10.6452018
+    "longitude": 10.6452018,
+    "postcode": "6532",
+    "city": "Ladis",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zierholz",
     "retailer": "zierholz",
     "shop": "interior_decoration",
     "latitude": 47.0755546,
-    "longitude": 10.6496599
+    "longitude": 10.6496599,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

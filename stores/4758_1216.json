@@ -4,7 +4,9 @@
     "retailer": "aktuell_unser_friseur",
     "shop": "hairdresser",
     "latitude": 47.5844065,
-    "longitude": 12.1690994
+    "longitude": 12.1690994,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,42 +14,60 @@
     "shop": "bakery",
     "latitude": 47.5845585,
     "longitude": 12.169265,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Balkan",
     "retailer": "balkan",
     "shop": "bakery",
     "latitude": 47.5858973,
-    "longitude": 12.1618713
+    "longitude": 12.1618713,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bastelwurm",
     "retailer": "bastelwurm",
     "shop": "doityourself",
     "latitude": 47.5865336,
-    "longitude": 12.1629098
+    "longitude": 12.1629098,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Belmondo",
     "retailer": "belmondo",
     "shop": "travel_agency",
     "latitude": 47.5830473,
-    "longitude": 12.1668245
+    "longitude": 12.1668245,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "BP",
     "retailer": "bp",
     "shop": "convenience",
     "latitude": 47.5852803,
-    "longitude": 12.1617009
+    "longitude": 12.1617009,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Buch-Café im Lippott-Haus",
     "retailer": "buch_cafe_im_lippott_haus",
     "shop": "books",
     "latitude": 47.5830513,
-    "longitude": 12.1698423
+    "longitude": 12.1698423,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "C&A",
@@ -55,42 +75,56 @@
     "shop": "clothes",
     "latitude": 47.5844219,
     "longitude": 12.1695298,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Christine's Tabakfachgeschäft",
     "retailer": "christine_s_tabakfachgeschaft",
     "shop": "tobacco",
     "latitude": 47.5844356,
-    "longitude": 12.1693251
+    "longitude": 12.1693251,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "City SUN",
     "retailer": "city_sun",
     "shop": "beauty",
     "latitude": 47.5854236,
-    "longitude": 12.1697192
+    "longitude": 12.1697192,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "ECK",
     "retailer": "eck",
     "shop": "electronics",
     "latitude": 47.5848249,
-    "longitude": 12.1686916
+    "longitude": 12.1686916,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Expert Seilinger",
     "retailer": "elektro_expert_seilinger",
     "shop": "electronics",
     "latitude": 47.5862776,
-    "longitude": 12.163071
+    "longitude": 12.163071,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Grieskirchner Bier",
     "retailer": "grieskirchner_bier",
     "shop": "beverages",
     "latitude": 47.5884353,
-    "longitude": 12.1635527
+    "longitude": 12.1635527,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "H&M",
@@ -98,35 +132,49 @@
     "shop": "clothes",
     "latitude": 47.5845011,
     "longitude": 12.169934,
-    "brand": "H&M"
+    "brand": "H&M",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Handy Börse",
     "retailer": "handy_borse",
     "shop": "mobile_phone",
     "latitude": 47.5844194,
-    "longitude": 12.1692881
+    "longitude": 12.1692881,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hauber",
     "retailer": "hauber",
     "shop": "bakery",
     "latitude": 47.5828336,
-    "longitude": 12.1663492
+    "longitude": 12.1663492,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hauber Vollwertbäckerei",
     "retailer": "hauber_vollwertbackerei",
     "shop": "bakery",
     "latitude": 47.5865206,
-    "longitude": 12.1600285
+    "longitude": 12.1600285,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "HOC",
     "retailer": "hoc",
     "shop": "yes",
     "latitude": 47.5847522,
-    "longitude": 12.1693819
+    "longitude": 12.1693819,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Honda Kufstein",
@@ -134,77 +182,108 @@
     "shop": "car",
     "latitude": 47.5856655,
     "longitude": 12.1618389,
-    "brand": "Honda"
+    "brand": "Honda",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "King",
     "retailer": "king",
     "shop": "hairdresser",
     "latitude": 47.5831673,
-    "longitude": 12.1662876
+    "longitude": 12.1662876,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiss",
     "retailer": "kiss",
     "shop": "mall",
     "latitude": 47.5833039,
-    "longitude": 12.1688513
+    "longitude": 12.1688513,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kleen-Tex",
     "retailer": "kleen_tex",
     "shop": "doormat",
     "latitude": 47.5889477,
-    "longitude": 12.1628528
+    "longitude": 12.1628528,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kufstein Galerien",
     "retailer": "kufstein_galerien",
     "shop": "mall",
     "latitude": 47.5846798,
-    "longitude": 12.1696128
+    "longitude": 12.1696128,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kufsteiner Markt",
     "retailer": "kufsteiner_markt",
     "shop": "gift",
     "latitude": 47.5828,
-    "longitude": 12.1687996
+    "longitude": 12.1687996,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kufsteiner Musikhaus",
     "retailer": "kufsteiner_musikhaus",
     "shop": "musical_instrument",
     "latitude": 47.585193,
-    "longitude": 12.1696531
+    "longitude": 12.1696531,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kult",
     "retailer": "kult",
     "shop": "clothes",
     "latitude": 47.5847354,
-    "longitude": 12.1692413
+    "longitude": 12.1692413,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kunstschmerz",
     "retailer": "kunstschmerz",
     "shop": "tattoo",
     "latitude": 47.5806154,
-    "longitude": 12.1699944
+    "longitude": 12.1699944,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Latif",
     "retailer": "latif",
     "shop": "hairdresser",
     "latitude": 47.5845482,
-    "longitude": 12.1693693
+    "longitude": 12.1693693,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Loot Box",
     "retailer": "loot_box",
     "shop": "toys",
     "latitude": 47.5844056,
-    "longitude": 12.1691591
+    "longitude": 12.1691591,
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Marionnaud",
@@ -212,14 +291,18 @@
     "shop": "perfumery",
     "latitude": 47.5847528,
     "longitude": 12.1695747,
-    "brand": "Marionnaud"
+    "brand": "Marionnaud",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Massagepraxis René Mich",
     "retailer": "massagepraxis_rene_mich",
     "shop": "massage",
     "latitude": 47.5863844,
-    "longitude": 12.1610436
+    "longitude": 12.1610436,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Matratzen Concord",
@@ -227,14 +310,18 @@
     "shop": "bed",
     "latitude": 47.5837007,
     "longitude": 12.1621227,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Max Ihr Herrenfriseur",
     "retailer": "max_ihr_herrenfriseur",
     "shop": "hairdresser",
     "latitude": 47.583478,
-    "longitude": 12.1666651
+    "longitude": 12.1666651,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Moreboards",
@@ -242,7 +329,9 @@
     "shop": "clothes",
     "latitude": 47.5847501,
     "longitude": 12.1696057,
-    "brand": "Moreboards"
+    "brand": "Moreboards",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -250,28 +339,40 @@
     "shop": "supermarket",
     "latitude": 47.5846806,
     "longitude": 12.169163,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nails & the City",
     "retailer": "nails_und_the_city",
     "shop": "beauty",
     "latitude": 47.5840518,
-    "longitude": 12.1661749
+    "longitude": 12.1661749,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nipp",
     "retailer": "nipp",
     "shop": "shoes",
     "latitude": 47.5846176,
-    "longitude": 12.1692435
+    "longitude": 12.1692435,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nix Drin",
     "retailer": "nix_drin",
     "shop": "gift",
     "latitude": 47.5827974,
-    "longitude": 12.1689716
+    "longitude": 12.1689716,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Opel",
@@ -279,14 +380,18 @@
     "shop": "car_repair",
     "latitude": 47.5859848,
     "longitude": 12.1684697,
-    "brand": "Opel"
+    "brand": "Opel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rainalter",
     "retailer": "rainalter",
     "shop": "interior_decoration",
     "latitude": 47.5836387,
-    "longitude": 12.1693551
+    "longitude": 12.1693551,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reanult Langebner",
@@ -294,21 +399,29 @@
     "shop": "car_repair",
     "latitude": 47.5861681,
     "longitude": 12.162841,
-    "brand": "Renault"
+    "brand": "Renault",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Red Zac Kufstein",
     "retailer": "red_zac_kufstein",
     "shop": "electrical",
     "latitude": 47.5844057,
-    "longitude": 12.1692033
+    "longitude": 12.1692033,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reformhaus Martin",
     "retailer": "reformhaus_martin",
     "shop": "supermarket",
     "latitude": 47.5847501,
-    "longitude": 12.169421
+    "longitude": 12.169421,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reibmayr",
@@ -316,7 +429,9 @@
     "shop": "car",
     "latitude": 47.5861698,
     "longitude": 12.1682061,
-    "brand": "Opel"
+    "brand": "Opel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ruefa",
@@ -324,14 +439,20 @@
     "shop": "travel_agency",
     "latitude": 47.5830749,
     "longitude": 12.1696981,
-    "brand": "Ruefa"
+    "brand": "Ruefa",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schatztruhe",
     "retailer": "schatztruhe",
     "shop": "second_hand",
     "latitude": 47.5850804,
-    "longitude": 12.1609818
+    "longitude": 12.1609818,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -339,7 +460,11 @@
     "shop": "supermarket",
     "latitude": 47.5830464,
     "longitude": 12.1699499,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -347,28 +472,40 @@
     "shop": "supermarket",
     "latitude": 47.5843732,
     "longitude": 12.1627058,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spezialitäten Shop, Unterberger Marianne",
     "retailer": "spezialitaten_shop_unterberger_marianne",
     "shop": "gift",
     "latitude": 47.5824362,
-    "longitude": 12.1683616
+    "longitude": 12.1683616,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "StadtJuwelier Hüttner",
     "retailer": "stadtjuwelier_huttner",
     "shop": "jewelry",
     "latitude": 47.5831272,
-    "longitude": 12.1689913
+    "longitude": 12.1689913,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 47.5850247,
-    "longitude": 12.1640471
+    "longitude": 12.1640471,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tchibo",
@@ -376,42 +513,60 @@
     "shop": "coffee",
     "latitude": 47.5847438,
     "longitude": 12.1698801,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tiroler Schmankerlladen",
     "retailer": "tiroler_schmankerlladen",
     "shop": "gift",
     "latitude": 47.58305,
-    "longitude": 12.1684506
+    "longitude": 12.1684506,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tom Tailor Denim",
     "retailer": "tom_tailor_denim",
     "shop": "clothes",
     "latitude": 47.584509,
-    "longitude": 12.1692423
+    "longitude": 12.1692423,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trachten Stolzer",
     "retailer": "trachten_stolzer",
     "shop": "clothes",
     "latitude": 47.5824878,
-    "longitude": 12.1685217
+    "longitude": 12.1685217,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Kellner",
     "retailer": "trafik_kellner",
     "shop": "kiosk",
     "latitude": 47.5830515,
-    "longitude": 12.1666639
+    "longitude": 12.1666639,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tyrolia",
     "retailer": "tyrolia",
     "shop": "books",
     "latitude": 47.584748,
-    "longitude": 12.1698435
+    "longitude": 12.1698435,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zillertaler Trachtenwelt",
@@ -419,20 +574,26 @@
     "shop": "clothes",
     "latitude": 47.5827335,
     "longitude": 12.1685912,
-    "brand": "Zillertaler Trachtenwelt"
+    "brand": "Zillertaler Trachtenwelt",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Änderungsschneiderei Zave",
     "retailer": "anderungsschneiderei_zave",
     "shop": "tailor",
     "latitude": 47.584399,
-    "longitude": 12.1690381
+    "longitude": 12.1690381,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "ÖBB",
     "retailer": "obb",
     "shop": "ticket",
     "latitude": 47.5829622,
-    "longitude": 12.1658911
+    "longitude": 12.1658911,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

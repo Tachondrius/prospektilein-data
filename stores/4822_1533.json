@@ -4,63 +4,89 @@
     "retailer": "alter_brotladen",
     "shop": "vending_machine",
     "latitude": 48.2274036,
-    "longitude": 15.3315026
+    "longitude": 15.3315026,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Austria Souvenir",
     "retailer": "austria_souvenir",
     "shop": "gift",
     "latitude": 48.2272736,
-    "longitude": 15.3306946
+    "longitude": 15.3306946,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Beauty One",
     "retailer": "beauty_one",
     "shop": "hairdresser",
     "latitude": 48.227813,
-    "longitude": 15.3353831
+    "longitude": 15.3353831,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Lagler",
     "retailer": "blumen_lagler",
     "shop": "florist",
     "latitude": 48.2277031,
-    "longitude": 15.3356392
+    "longitude": 15.3356392,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Braun",
     "retailer": "braun",
     "shop": "pastry",
     "latitude": 48.2274047,
-    "longitude": 15.3328192
+    "longitude": 15.3328192,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Buch & Wein Böck",
     "retailer": "buch_und_wein_bock",
     "shop": "books",
     "latitude": 48.2271927,
-    "longitude": 15.3329601
+    "longitude": 15.3329601,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Schwinn",
     "retailer": "backerei_schwinn",
     "shop": "bakery",
     "latitude": 48.2266565,
-    "longitude": 15.3348402
+    "longitude": 15.3348402,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Teufner",
     "retailer": "backerei_teufner",
     "shop": "bakery",
     "latitude": 48.2277126,
-    "longitude": 15.3358506
+    "longitude": 15.3358506,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cafe Konditorei Mistlbacher",
     "retailer": "cafe_konditorei_mistlbacher",
     "shop": "pastry",
     "latitude": 48.2273609,
-    "longitude": 15.3303367
+    "longitude": 15.3303367,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -68,14 +94,18 @@
     "shop": "chemist",
     "latitude": 48.2242889,
     "longitude": 15.3375415,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Edina Lashes",
     "retailer": "edina_lashes",
     "shop": "beauty",
     "latitude": 48.2276173,
-    "longitude": 15.3344255
+    "longitude": 15.3344255,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -83,70 +113,96 @@
     "shop": "supermarket",
     "latitude": 48.2242408,
     "longitude": 15.3383355,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "figaro uno",
     "retailer": "figaro_uno",
     "shop": "hairdresser",
     "latitude": 48.2274009,
-    "longitude": 15.3310648
+    "longitude": 15.3310648,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Führlinger",
     "retailer": "fuhrlinger",
     "shop": "houseware",
     "latitude": 48.22746,
-    "longitude": 15.3335786
+    "longitude": 15.3335786,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gerdas Bioladen",
     "retailer": "gerdas_bioladen",
     "shop": "convenience",
     "latitude": 48.2274599,
-    "longitude": 15.3323347
+    "longitude": 15.3323347,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 48.2286573,
-    "longitude": 15.3334749
+    "longitude": 15.3334749,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 48.2286582,
-    "longitude": 15.3349601
+    "longitude": 15.3349601,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Grossauer",
     "retailer": "grossauer",
     "shop": "furniture",
     "latitude": 48.2275622,
-    "longitude": 15.3341136
+    "longitude": 15.3341136,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairlich",
     "retailer": "hairlich",
     "shop": "hairdresser",
     "latitude": 48.2273381,
-    "longitude": 15.3331082
+    "longitude": 15.3331082,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haubis",
     "retailer": "haubis",
     "shop": "bakery",
     "latitude": 48.22467,
-    "longitude": 15.3382796
+    "longitude": 15.3382796,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Henry Laden",
     "retailer": "henry_laden",
     "shop": "second_hand",
     "latitude": 48.2274926,
-    "longitude": 15.3316016
+    "longitude": 15.3316016,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -154,28 +210,40 @@
     "shop": "supermarket",
     "latitude": 48.2246632,
     "longitude": 15.3364391,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "it's the cat's house",
     "retailer": "it_s_the_cat_s_house",
     "shop": "gift",
     "latitude": 48.2273782,
-    "longitude": 15.3332966
+    "longitude": 15.3332966,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kaffee-Rösterrei",
     "retailer": "kaffee_rosterrei",
     "shop": "coffee",
     "latitude": 48.2277252,
-    "longitude": 15.3320122
+    "longitude": 15.3320122,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kopfwerk",
     "retailer": "kopfwerk",
     "shop": "hairdresser",
     "latitude": 48.2263867,
-    "longitude": 15.3345283
+    "longitude": 15.3345283,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -183,21 +251,33 @@
     "shop": "books",
     "latitude": 48.2251458,
     "longitude": 15.3357619,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Löwenpark-Einkaufszentrum",
     "retailer": "lowenpark_einkaufszentrum",
     "shop": "mall",
     "latitude": 48.224482,
-    "longitude": 15.3377758
+    "longitude": 15.3377758,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Massage Fasching",
     "retailer": "massage_fasching",
     "shop": "massage",
     "latitude": 48.227304,
-    "longitude": 15.3311241
+    "longitude": 15.3311241,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "mister*lady",
@@ -205,28 +285,38 @@
     "shop": "clothes",
     "latitude": 48.2241999,
     "longitude": 15.3379647,
-    "brand": "mister*lady"
+    "brand": "mister*lady",
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mode Eck",
     "retailer": "mode_eck",
     "shop": "clothes",
     "latitude": 48.2277075,
-    "longitude": 15.3354508
+    "longitude": 15.3354508,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "modegraf",
     "retailer": "modegraf",
     "shop": "clothes",
     "latitude": 48.2272304,
-    "longitude": 15.3325909
+    "longitude": 15.3325909,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "modegraf",
     "retailer": "modegraf",
     "shop": "clothes",
     "latitude": 48.2274115,
-    "longitude": 15.3329374
+    "longitude": 15.3329374,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Müller",
@@ -234,42 +324,56 @@
     "shop": "chemist",
     "latitude": 48.2244656,
     "longitude": 15.3384225,
-    "brand": "Müller"
+    "brand": "Müller",
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PLU genuss.schüda.feschn",
     "retailer": "plu_genuss_schuda_feschn",
     "shop": "boutique",
     "latitude": 48.2273078,
-    "longitude": 15.3315743
+    "longitude": 15.3315743,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reichholf Gartenarchitektur",
     "retailer": "reichholf_gartenarchitektur",
     "shop": "garden_centre",
     "latitude": 48.2273191,
-    "longitude": 15.3312151
+    "longitude": 15.3312151,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schammra",
     "retailer": "schammra",
     "shop": "hairdresser",
     "latitude": 48.226602,
-    "longitude": 15.3349632
+    "longitude": 15.3349632,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schuhhaus Lechner",
     "retailer": "schuhhaus_lechner",
     "shop": "shoes",
     "latitude": 48.2275712,
-    "longitude": 15.3336516
+    "longitude": 15.3336516,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "spiriti'm Mode & Design",
     "retailer": "spiriti_m_mode_und_design",
     "shop": "art",
     "latitude": 48.2274827,
-    "longitude": 15.3317028
+    "longitude": 15.3317028,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sport 2000",
@@ -277,83 +381,121 @@
     "shop": "sports",
     "latitude": 48.2269767,
     "longitude": 15.3303779,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stefanie Mohr",
     "retailer": "stefanie_mohr",
     "shop": "beauty",
     "latitude": 48.2276636,
-    "longitude": 15.3340376
+    "longitude": 15.3340376,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Steinecker",
     "retailer": "steinecker",
     "shop": "clothes",
     "latitude": 48.2274012,
-    "longitude": 15.3308932
+    "longitude": 15.3308932,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tastedillery",
     "retailer": "tastedillery",
     "shop": "alcohol",
     "latitude": 48.2273842,
-    "longitude": 15.3306652
+    "longitude": 15.3306652,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDI",
     "retailer": "tedi",
     "shop": "clothes",
     "latitude": 48.2260816,
-    "longitude": 15.3348447
+    "longitude": 15.3348447,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 48.2281329,
-    "longitude": 15.3330202
+    "longitude": 15.3330202,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 48.2286506,
-    "longitude": 15.3337189
+    "longitude": 15.3337189,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Töpferei Brandl",
     "retailer": "topferei_brandl",
     "shop": "pottery",
     "latitude": 48.2273047,
-    "longitude": 15.3316732
+    "longitude": 15.3316732,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wachauer Kunsthandel",
     "retailer": "wachauer_kunsthandel",
     "shop": "gift",
     "latitude": 48.2272744,
-    "longitude": 15.331959
+    "longitude": 15.331959,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wachauer Spezialitäten",
     "retailer": "wachauer_spezialitaten",
     "shop": "convenience",
     "latitude": 48.227439,
-    "longitude": 15.3331855
+    "longitude": 15.3331855,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wieser",
     "retailer": "wieser",
     "shop": "alcohol",
     "latitude": 48.2274652,
-    "longitude": 15.3327002
+    "longitude": 15.3327002,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zwölfer Reisen",
     "retailer": "zwolfer_reisen",
     "shop": "travel_agency",
     "latitude": 48.2276132,
-    "longitude": 15.3361963
+    "longitude": 15.3361963,
+    "postcode": "3390",
+    "city": "Melk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

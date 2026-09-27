@@ -4,20 +4,30 @@
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.4342115,
-    "longitude": 14.4805291
+    "longitude": 14.4805291,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kosmetik und Fußpflege Angelika Bauer",
     "retailer": "kosmetik_und_fupflege_angelika_bauer",
     "shop": "beauty",
     "latitude": 47.4334704,
-    "longitude": 14.4834374
+    "longitude": 14.4834374,
+    "postcode": "8785",
+    "city": "Hohentauern",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah&Frisch",
     "retailer": "nah_und_frisch",
     "shop": "convenience",
     "latitude": 47.4339774,
-    "longitude": 14.4838032
+    "longitude": 14.4838032,
+    "postcode": "8785",
+    "city": "Hohentauern",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,21 +4,33 @@
     "retailer": "bikecare",
     "shop": "bicycle",
     "latitude": 47.3180208,
-    "longitude": 14.9778281
+    "longitude": 14.9778281,
+    "postcode": "8713",
+    "city": "St. Stefan ob Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Emersdorfee",
     "retailer": "emersdorfee",
     "shop": "butcher",
     "latitude": 47.3177143,
-    "longitude": 14.9773923
+    "longitude": 14.9773923,
+    "postcode": "8713",
+    "city": "Sankt Stefan ob Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Luber",
     "retailer": "trafik_luber",
     "shop": "tobacco",
     "latitude": 47.318278,
-    "longitude": 14.9793363
+    "longitude": 14.9793363,
+    "postcode": "8713",
+    "city": "Sankt Stefan ob Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Unimarkt",
@@ -26,6 +38,10 @@
     "shop": "supermarket",
     "latitude": 47.319625,
     "longitude": 14.9760578,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "8713",
+    "city": "Sankt Stefan ob Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

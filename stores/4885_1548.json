@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.8523905,
     "longitude": 15.4875427,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3820",
+    "city": "Raabs an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseursalon im PBZ Raabs",
     "retailer": "friseursalon_im_pbz_raabs",
     "shop": "hairdresser",
     "latitude": 48.8530587,
-    "longitude": 15.4857208
+    "longitude": 15.4857208,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "car_repair",
     "latitude": 47.1414972,
     "longitude": 10.7495443,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -13,6 +15,8 @@
     "shop": "convenience",
     "latitude": 47.1496767,
     "longitude": 10.7465468,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

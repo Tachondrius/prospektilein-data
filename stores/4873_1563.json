@@ -4,13 +4,19 @@
     "retailer": "kartoffeln",
     "shop": "farm",
     "latitude": 48.7374126,
-    "longitude": 15.6310571
+    "longitude": 15.6310571,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Wolf",
     "retailer": "kfz_wolf",
     "shop": "car_repair",
     "latitude": 48.7376961,
-    "longitude": 15.6325288
+    "longitude": 15.6325288,
+    "postcode": "3753",
+    "city": "Pernegg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

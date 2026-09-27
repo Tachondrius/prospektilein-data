@@ -4,20 +4,30 @@
     "retailer": "burgschenke_burg_heinfels",
     "shop": "kiosk",
     "latitude": 46.7511652,
-    "longitude": 12.4399909
+    "longitude": 12.4399909,
+    "postcode": "9919",
+    "city": "Heinfels",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 46.7508438,
-    "longitude": 12.4399239
+    "longitude": 12.4399239,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Sunny 2000",
     "retailer": "sport_sunny_2000",
     "shop": "sports",
     "latitude": 46.7506458,
-    "longitude": 12.4330878
+    "longitude": 12.4330878,
+    "postcode": "9920",
+    "city": "Sillian",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

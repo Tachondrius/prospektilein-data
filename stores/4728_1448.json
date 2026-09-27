@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.2806157,
     "longitude": 14.4810404,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "8763",
+    "city": "Pölstal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Horn",
@@ -13,13 +17,17 @@
     "shop": "car",
     "latitude": 47.2826214,
     "longitude": 14.4813685,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haarpflegestudio Ingrid",
     "retailer": "haarpflegestudio_ingrid",
     "shop": "hairdresser",
     "latitude": 47.2834205,
-    "longitude": 14.4811861
+    "longitude": 14.4811861,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

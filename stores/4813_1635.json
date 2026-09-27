@@ -5,14 +5,22 @@
     "shop": "car_repair",
     "latitude": 48.1354011,
     "longitude": 16.3558276,
-    "brand": "A.T.U"
+    "brand": "A.T.U",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "BABE Handels GmbH",
     "retailer": "babe_handels_gmbh",
     "shop": "car_parts",
     "latitude": 48.1360355,
-    "longitude": 16.3510769
+    "longitude": 16.3510769,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Brillux",
@@ -20,27 +28,41 @@
     "shop": "paint",
     "latitude": 48.1313938,
     "longitude": 16.3545235,
-    "brand": "Brillux"
+    "brand": "Brillux",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Greenyard Fresh Austria",
     "retailer": "greenyard_fresh_austria",
     "shop": "wholesale",
     "latitude": 48.1344399,
-    "longitude": 16.358589
+    "longitude": 16.358589,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Orient",
     "retailer": "orient",
     "shop": "wholesale",
     "latitude": 48.1344703,
-    "longitude": 16.3572581
+    "longitude": 16.3572581,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Stickerei Birdy",
     "retailer": "stickerei_birdy",
     "shop": "tailor",
     "latitude": 48.1321879,
-    "longitude": 16.3520648
+    "longitude": 16.3520648,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

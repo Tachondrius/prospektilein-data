@@ -5,27 +5,41 @@
     "shop": "supermarket",
     "latitude": 48.1371211,
     "longitude": 15.6139058,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3151",
+    "city": "St. Georgen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Schindl",
     "retailer": "backerei_schindl",
     "shop": "bakery",
     "latitude": 48.1375563,
-    "longitude": 15.613615
+    "longitude": 15.613615,
+    "postcode": "3151",
+    "city": "St. Georgen am Steinfelde",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseurstube Anna",
     "retailer": "friseurstube_anna",
     "shop": "hairdresser",
     "latitude": 48.1381793,
-    "longitude": 15.613481
+    "longitude": 15.613481,
+    "postcode": "3151",
+    "city": "St. Georgen am Steinfelde",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schmied & Fellmann",
     "retailer": "schmied_und_fellmann",
     "shop": "electronics",
     "latitude": 48.1363058,
-    "longitude": 15.6135236
+    "longitude": 15.6135236,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

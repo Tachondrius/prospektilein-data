@@ -5,7 +5,9 @@
     "shop": "clothes",
     "latitude": 48.5678813,
     "longitude": 13.9793626,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Deichmann",
@@ -13,7 +15,9 @@
     "shop": "shoes",
     "latitude": 48.5676935,
     "longitude": 13.9795988,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Expert",
@@ -21,7 +25,11 @@
     "shop": "electronics",
     "latitude": 48.5686029,
     "longitude": 13.9792491,
-    "brand": "Expert"
+    "brand": "Expert",
+    "postcode": "4150",
+    "city": "Rohrbach-Berg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fressnapf",
@@ -29,7 +37,9 @@
     "shop": "pet",
     "latitude": 48.5680755,
     "longitude": 13.9791963,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Libro",
@@ -37,7 +47,9 @@
     "shop": "books",
     "latitude": 48.5675631,
     "longitude": 13.9797861,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -45,6 +57,8 @@
     "shop": "clothes",
     "latitude": 48.5682235,
     "longitude": 13.9791194,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

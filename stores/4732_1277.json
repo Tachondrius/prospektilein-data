@@ -4,7 +4,11 @@
     "retailer": "brundl_sports",
     "shop": "sports",
     "latitude": 47.3264739,
-    "longitude": 12.7726126
+    "longitude": 12.7726126,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport",
@@ -12,13 +16,19 @@
     "shop": "sports",
     "latitude": 47.3264706,
     "longitude": 12.7724797,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schmitten",
     "retailer": "schmitten",
     "shop": "ticket",
     "latitude": 47.3265236,
-    "longitude": 12.7726054
+    "longitude": 12.7726054,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

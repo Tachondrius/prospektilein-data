@@ -5,7 +5,11 @@
     "shop": "variety_store",
     "latitude": 46.950654,
     "longitude": 15.9151175,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deichmann",
@@ -13,7 +17,11 @@
     "shop": "shoes",
     "latitude": 46.9500118,
     "longitude": 15.9140958,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fussl",
@@ -21,7 +29,11 @@
     "shop": "clothes",
     "latitude": 46.9501849,
     "longitude": 15.9141786,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "JYSK",
@@ -29,27 +41,43 @@
     "shop": "furniture",
     "latitude": 46.9505946,
     "longitude": 15.9153387,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Obsthof Kaufmann",
     "retailer": "obsthof_kaufmann",
     "shop": "farm",
     "latitude": 46.9599408,
-    "longitude": 15.9144513
+    "longitude": 15.9144513,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reifentechnik",
     "retailer": "reifentechnik",
     "shop": "tyres",
     "latitude": 46.9510315,
-    "longitude": 15.9110961
+    "longitude": 15.9110961,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Teewelt",
     "retailer": "teewelt",
     "shop": "tea",
     "latitude": 46.9548504,
-    "longitude": 15.9176667
+    "longitude": 15.9176667,
+    "postcode": "8330",
+    "city": "Feldbach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

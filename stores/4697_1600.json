@@ -4,21 +4,33 @@
     "retailer": "auner_aufbau",
     "shop": "car_repair",
     "latitude": 46.9760186,
-    "longitude": 16.0005822
+    "longitude": 16.0005822,
+    "postcode": "8361",
+    "city": "Fehring",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseursalon Elisabeth Matzhold-Hödl",
     "retailer": "friseursalon_elisabeth_matzhold_hodl",
     "shop": "hairdresser",
     "latitude": 46.9771114,
-    "longitude": 16.0018407
+    "longitude": 16.0018407,
+    "postcode": "8361",
+    "city": "Fehring",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Helga Linhoudt",
     "retailer": "helga_linhoudt",
     "shop": "tobacco",
     "latitude": 46.9770196,
-    "longitude": 16.0016402
+    "longitude": 16.0016402,
+    "postcode": "8361",
+    "city": "Fehring",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch",
@@ -26,13 +38,19 @@
     "shop": "supermarket",
     "latitude": 46.977375,
     "longitude": 16.0021194,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "8361",
+    "city": "Fehring",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 46.9774086,
-    "longitude": 16.003447
+    "longitude": 16.003447,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

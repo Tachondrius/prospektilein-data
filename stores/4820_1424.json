@@ -5,21 +5,27 @@
     "shop": "convenience",
     "latitude": 48.203617,
     "longitude": 14.2469594,
-    "brand": "Avanti"
+    "brand": "Avanti",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.2049959,
-    "longitude": 14.2470525
+    "longitude": 14.2470525,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Renault",
     "retailer": "renault",
     "shop": "car",
     "latitude": 48.2063,
-    "longitude": 14.2464804
+    "longitude": 14.2464804,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Shell",
@@ -27,6 +33,8 @@
     "shop": "convenience",
     "latitude": 48.2048949,
     "longitude": 14.247797,
-    "brand": "Shell"
+    "brand": "Shell",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

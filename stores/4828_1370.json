@@ -4,20 +4,30 @@
     "retailer": "auto_mujo_e_u",
     "shop": "car",
     "latitude": 48.281249,
-    "longitude": 13.7052202
+    "longitude": 13.7052202,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hintermayr Otto - Gastrobleche",
     "retailer": "hintermayr_otto_gastrobleche",
     "shop": "locksmith",
     "latitude": 48.2832083,
-    "longitude": 13.7023179
+    "longitude": 13.7023179,
+    "postcode": "4720",
+    "city": "Kallham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Robert Schneglberger",
     "retailer": "robert_schneglberger",
     "shop": "car_repair",
     "latitude": 48.2828414,
-    "longitude": 13.7049432
+    "longitude": 13.7049432,
+    "postcode": "4720",
+    "city": "Kallham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

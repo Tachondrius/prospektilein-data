@@ -4,27 +4,39 @@
     "retailer": "automobil_service",
     "shop": "car_repair",
     "latitude": 48.5538727,
-    "longitude": 16.0781371
+    "longitude": 16.0781371,
+    "postcode": "2020",
+    "city": "Hollabrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 48.5528221,
-    "longitude": 16.0778783
+    "longitude": 16.0778783,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "LKT",
     "retailer": "lkt",
     "shop": "car_repair",
     "latitude": 48.5510399,
-    "longitude": 16.0784012
+    "longitude": 16.0784012,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Strasser",
     "retailer": "strasser",
     "shop": "jewelry",
     "latitude": 48.5575762,
-    "longitude": 16.0796075
+    "longitude": 16.0796075,
+    "postcode": "2020",
+    "city": "Hollabrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

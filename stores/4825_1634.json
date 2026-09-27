@@ -4,14 +4,22 @@
     "retailer": "architekt_ziviltechniker",
     "shop": "doityourself",
     "latitude": 48.2544927,
-    "longitude": 16.3484404
+    "longitude": 16.3484404,
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "BEL-ART Kunst- und Musikreisen",
     "retailer": "bel_art_kunst_und_musikreisen",
     "shop": "travel_agency",
     "latitude": 48.2555356,
-    "longitude": 16.3423465
+    "longitude": 16.3423465,
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -19,7 +27,11 @@
     "shop": "supermarket",
     "latitude": 48.2546299,
     "longitude": 16.3419454,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -27,70 +39,95 @@
     "shop": "chemist",
     "latitude": 48.256236,
     "longitude": 16.3402373,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen Summer",
     "retailer": "blumen_summer",
     "shop": "florist",
     "latitude": 48.2560985,
-    "longitude": 16.3407103
+    "longitude": 16.3407103,
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bäcker und Café Nöbauer",
     "retailer": "backer_und_cafe_nobauer",
     "shop": "bakery",
     "latitude": 48.2556396,
-    "longitude": 16.3418116
+    "longitude": 16.3418116,
+    "postcode": "1190",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bäckerei Schwarz",
     "retailer": "backerei_schwarz",
     "shop": "bakery",
     "latitude": 48.2564701,
-    "longitude": 16.3400353
+    "longitude": 16.3400353,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Frisiersalon Anne",
     "retailer": "frisiersalon_anne",
     "shop": "hairdresser",
     "latitude": 48.250523,
-    "longitude": 16.341911
+    "longitude": 16.341911,
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Grinzinger Kleider-Werkstatt",
     "retailer": "grinzinger_kleider_werkstatt",
     "shop": "tailor",
     "latitude": 48.2561839,
-    "longitude": 16.3403965
+    "longitude": 16.3403965,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Haargenau",
     "retailer": "haargenau",
     "shop": "hairdresser",
     "latitude": 48.2560377,
-    "longitude": 16.3408783
+    "longitude": 16.3408783,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Johanna‘s feiner Laden",
     "retailer": "johannas_feiner_laden",
     "shop": "deli",
     "latitude": 48.2559251,
-    "longitude": 16.3419423
+    "longitude": 16.3419423,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Massage Fochler",
     "retailer": "massage_fochler",
     "shop": "massage",
     "latitude": 48.250052,
-    "longitude": 16.342034
+    "longitude": 16.342034,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Schmuck · Stein · Design",
     "retailer": "schmuck_stein_design",
     "shop": "jewelry",
     "latitude": 48.2561514,
-    "longitude": 16.3405255
+    "longitude": 16.3405255,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar Gourmet",
@@ -98,27 +135,35 @@
     "shop": "supermarket",
     "latitude": 48.2558788,
     "longitude": 16.341278,
-    "brand": "SPAR Gourmet"
+    "brand": "SPAR Gourmet",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.2559234,
-    "longitude": 16.3415613
+    "longitude": 16.3415613,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Vinothek",
     "retailer": "vinothek",
     "shop": "alcohol",
     "latitude": 48.2558842,
-    "longitude": 16.3422434
+    "longitude": 16.3422434,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Vital Massagefachinstitut",
     "retailer": "vital_massagefachinstitut",
     "shop": "massage",
     "latitude": 48.2548681,
-    "longitude": 16.340827
+    "longitude": 16.340827,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

@@ -4,20 +4,27 @@
     "retailer": "gastogrohandel_niederwieser",
     "shop": "wholesale",
     "latitude": 47.2291776,
-    "longitude": 11.3864398
+    "longitude": 11.3864398,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Holzfachmarkt Minatti",
     "retailer": "holzfachmarkt_minatti",
     "shop": "trade",
     "latitude": 47.2288229,
-    "longitude": 11.3849744
+    "longitude": 11.3849744,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Gritscher",
     "retailer": "kfz_gritscher",
     "shop": "car_repair",
     "latitude": 47.2277391,
-    "longitude": 11.3843275
+    "longitude": 11.3843275,
+    "postcode": "6020",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

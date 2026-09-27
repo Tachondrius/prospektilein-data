@@ -5,42 +5,54 @@
     "shop": "chemist",
     "latitude": 47.2367045,
     "longitude": 11.3086669,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fahrzeuge Kugler",
     "retailer": "fahrzeuge_kugler",
     "shop": "car_repair",
     "latitude": 47.2357674,
-    "longitude": 11.3013725
+    "longitude": 11.3013725,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rebe Austria",
     "retailer": "rebe_austria",
     "shop": "deli",
     "latitude": 47.2361465,
-    "longitude": 11.3001688
+    "longitude": 11.3001688,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ruetz",
     "retailer": "ruetz",
     "shop": "bakery",
     "latitude": 47.2370662,
-    "longitude": 11.3072927
+    "longitude": 11.3072927,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "s'Gschäftl",
     "retailer": "s_gschaftl",
     "shop": "bakery",
     "latitude": 47.2359763,
-    "longitude": 11.3001299
+    "longitude": 11.3001299,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Siebert Sports",
     "retailer": "siebert_sports",
     "shop": "outdoor",
     "latitude": 47.236672,
-    "longitude": 11.3079797
+    "longitude": 11.3079797,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -48,7 +60,11 @@
     "shop": "supermarket",
     "latitude": 47.2371835,
     "longitude": 11.3061788,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6091",
+    "city": "Götzens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabaktrafik",
@@ -56,13 +72,17 @@
     "shop": "tobacco",
     "latitude": 47.2366029,
     "longitude": 11.308964,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Textilien Gerhold",
     "retailer": "textilien_gerhold",
     "shop": "carpet",
     "latitude": 47.2377325,
-    "longitude": 11.303419
+    "longitude": 11.303419,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

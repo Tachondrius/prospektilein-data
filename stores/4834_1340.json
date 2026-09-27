@@ -4,7 +4,11 @@
     "retailer": "ecofly",
     "shop": "pet",
     "latitude": 48.3467322,
-    "longitude": 13.4014379
+    "longitude": 13.4014379,
+    "postcode": "4980",
+    "city": "Antiesenhofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nissan",
@@ -12,13 +16,19 @@
     "shop": "car",
     "latitude": 48.3498887,
     "longitude": 13.402148,
-    "brand": "Nissan"
+    "brand": "Nissan",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Vintage Automobil",
     "retailer": "vintage_automobil",
     "shop": "car_repair",
     "latitude": 48.3427025,
-    "longitude": 13.4022689
+    "longitude": 13.4022689,
+    "postcode": "4980",
+    "city": "Antiesenhofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

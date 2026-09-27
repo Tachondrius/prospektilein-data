@@ -4,7 +4,9 @@
     "retailer": "automobile_zauner_keg",
     "shop": "car",
     "latitude": 48.4471902,
-    "longitude": 13.4393578
+    "longitude": 13.4393578,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -12,14 +14,20 @@
     "shop": "supermarket",
     "latitude": 48.448095,
     "longitude": 13.4392419,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Expert ETECH",
     "retailer": "expert_etech",
     "shop": "appliance",
     "latitude": 48.4494189,
-    "longitude": 13.4375368
+    "longitude": 13.4375368,
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fressnapf",
@@ -27,7 +35,9 @@
     "shop": "pet",
     "latitude": 48.4486079,
     "longitude": 13.4386998,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fussl",
@@ -35,28 +45,40 @@
     "shop": "clothes",
     "latitude": 48.4476019,
     "longitude": 13.4394953,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "GMc - Parts - Austria",
     "retailer": "gmc_parts_austria",
     "shop": "hardware",
     "latitude": 48.4471227,
-    "longitude": 13.4390691
+    "longitude": 13.4390691,
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.4481011,
-    "longitude": 13.4393116
+    "longitude": 13.4393116,
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Möbel Maier",
     "retailer": "mobel_maier",
     "shop": "furniture",
     "latitude": 48.4489706,
-    "longitude": 13.4370832
+    "longitude": 13.4370832,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pearle",
@@ -64,20 +86,28 @@
     "shop": "optician",
     "latitude": 48.4475508,
     "longitude": 13.4392903,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reisebüro Busreisen Glas Günther GmbH.",
     "retailer": "reiseburo_busreisen_glas_gunther_gmbh",
     "shop": "travel_agency",
     "latitude": 48.4474016,
-    "longitude": 13.4398391
+    "longitude": 13.4398391,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TEDi",
     "retailer": "tedi",
     "shop": "variety_store",
     "latitude": 48.4487353,
-    "longitude": 13.4386096
+    "longitude": 13.4386096,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

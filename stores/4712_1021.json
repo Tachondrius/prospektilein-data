@@ -4,7 +4,9 @@
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 47.1297115,
-    "longitude": 10.2104445
+    "longitude": 10.2104445,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -12,13 +14,19 @@
     "shop": "sports",
     "latitude": 47.1271466,
     "longitude": 10.2132,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6580",
+    "city": "St. Anton am Arlberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Walter‘s Kiosk",
     "retailer": "walters_kiosk",
     "shop": "kiosk",
     "latitude": 47.129976,
-    "longitude": 10.210196
+    "longitude": 10.210196,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

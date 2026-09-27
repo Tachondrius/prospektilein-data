@@ -4,7 +4,11 @@
     "retailer": "abhof_verkauf_weinbau_weindl",
     "shop": "farm",
     "latitude": 48.5800053,
-    "longitude": 16.6434061
+    "longitude": 16.6434061,
+    "postcode": "2193",
+    "city": "Hobersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ADEG",
@@ -12,20 +16,32 @@
     "shop": "supermarket",
     "latitude": 48.5859609,
     "longitude": 16.6445827,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "2193",
+    "city": "Wilfersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Romer GmbH",
     "retailer": "romer_gmbh",
     "shop": "car_parts",
     "latitude": 48.5843234,
-    "longitude": 16.6444467
+    "longitude": 16.6444467,
+    "postcode": "2193",
+    "city": "Wilfersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Troll",
     "retailer": "troll",
     "shop": "car_repair",
     "latitude": 48.5845514,
-    "longitude": 16.6432545
+    "longitude": 16.6432545,
+    "postcode": "2193",
+    "city": "Wilfersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

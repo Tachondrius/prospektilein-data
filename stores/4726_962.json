@@ -4,7 +4,11 @@
     "retailer": "auto_wager",
     "shop": "car",
     "latitude": 47.2640707,
-    "longitude": 9.6276085
+    "longitude": 9.6276085,
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Autohaus Rohrer",
@@ -12,7 +16,11 @@
     "shop": "car",
     "latitude": 47.2655054,
     "longitude": 9.6294796,
-    "brand": "Fiat;Alfa Romeo;Jeep;Maserati;Lancia;Abarth"
+    "brand": "Fiat;Alfa Romeo;Jeep;Maserati;Lancia;Abarth",
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Harley-Davidson Vorarlberg",
@@ -20,13 +28,21 @@
     "shop": "motorcycle",
     "latitude": 47.2652265,
     "longitude": 9.6289689,
-    "brand": "Harley-Davidson"
+    "brand": "Harley-Davidson",
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Zangerlhof",
     "retailer": "zangerlhof",
     "shop": "farm",
     "latitude": 47.2628778,
-    "longitude": 9.6264336
+    "longitude": 9.6264336,
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

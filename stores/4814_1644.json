@@ -4,20 +4,30 @@
     "retailer": "gebrauchtbikes_at",
     "shop": "motorcycle",
     "latitude": 48.140523,
-    "longitude": 16.4412521
+    "longitude": 16.4412521,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Getränke/Snackautomaten",
     "retailer": "getranke_snackautomaten",
     "shop": "kiosk",
     "latitude": 48.1457643,
-    "longitude": 16.4417907
+    "longitude": 16.4417907,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Stern",
     "retailer": "stern",
     "shop": "car",
     "latitude": 48.1400079,
-    "longitude": 16.4439089
+    "longitude": 16.4439089,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

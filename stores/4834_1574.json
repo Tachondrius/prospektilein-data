@@ -5,34 +5,46 @@
     "shop": "supermarket",
     "latitude": 48.3497046,
     "longitude": 15.748007,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3133",
+    "city": "Traismauer",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Pauntzen",
     "retailer": "backerei_pauntzen",
     "shop": "bakery",
     "latitude": 48.3496682,
-    "longitude": 15.7446439
+    "longitude": 15.7446439,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dora Lehel",
     "retailer": "dora_lehel",
     "shop": "massage",
     "latitude": 48.3495755,
-    "longitude": 15.7463813
+    "longitude": 15.7463813,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Expert Blamauer",
     "retailer": "expert_blamauer",
     "shop": "electronics",
     "latitude": 48.3474316,
-    "longitude": 15.7422456
+    "longitude": 15.7422456,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zehnerhaus, Fineart Zone",
     "retailer": "zehnerhaus_fineart_zone",
     "shop": "kiosk",
     "latitude": 48.3498402,
-    "longitude": 15.7447107
+    "longitude": 15.7447107,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

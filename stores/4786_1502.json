@@ -5,28 +5,44 @@
     "shop": "car",
     "latitude": 47.8610538,
     "longitude": 15.0293863,
-    "brand": "Audi, Seat, Skoda, VW"
+    "brand": "Audi, Seat, Skoda, VW",
+    "postcode": "3293",
+    "city": "Lunz am See",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Genussplatzl",
     "retailer": "genussplatzl",
     "shop": "supermarket",
     "latitude": 47.8608057,
-    "longitude": 15.0267978
+    "longitude": 15.0267978,
+    "postcode": "3293",
+    "city": "Lunz am See",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haargenau Claudia",
     "retailer": "haargenau_claudia",
     "shop": "hairdresser",
     "latitude": 47.8610813,
-    "longitude": 15.0262048
+    "longitude": 15.0262048,
+    "postcode": "3293",
+    "city": "Lunz am See",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Inka Teufl",
     "retailer": "inka_teufl",
     "shop": "clothes",
     "latitude": 47.8605928,
-    "longitude": 15.0268215
+    "longitude": 15.0268215,
+    "postcode": "3293",
+    "city": "Lunz am See",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -34,6 +50,8 @@
     "shop": "supermarket",
     "latitude": 47.8616147,
     "longitude": 15.0294513,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

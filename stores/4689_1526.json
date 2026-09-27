@@ -4,7 +4,11 @@
     "retailer": "bikefittingstore",
     "shop": "bicycle",
     "latitude": 46.8934858,
-    "longitude": 15.2626921
+    "longitude": 15.2626921,
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -12,70 +16,100 @@
     "shop": "chemist",
     "latitude": 46.8933925,
     "longitude": 15.2660179,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Dr. Scala Optik",
     "retailer": "dr_scala_optik",
     "shop": "optician",
     "latitude": 46.8938752,
-    "longitude": 15.265163
+    "longitude": 15.265163,
+    "postcode": "8510",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Freydl",
     "retailer": "freydl",
     "shop": "bakery",
     "latitude": 46.8936904,
-    "longitude": 15.2639861
+    "longitude": 15.2639861,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fühl dich wohl",
     "retailer": "fuhl_dich_wohl",
     "shop": "beauty",
     "latitude": 46.897715,
-    "longitude": 15.2689051
+    "longitude": 15.2689051,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hammer",
     "retailer": "hammer",
     "shop": "florist",
     "latitude": 46.8935992,
-    "longitude": 15.2652722
+    "longitude": 15.2652722,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HandyShop Stainz",
     "retailer": "handyshop_stainz",
     "shop": "mobile_phone",
     "latitude": 46.8939306,
-    "longitude": 15.2650386
+    "longitude": 15.2650386,
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ima",
     "retailer": "ima",
     "shop": "shoes",
     "latitude": 46.8936891,
-    "longitude": 15.2645016
+    "longitude": 15.2645016,
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "IWS Haarstudio",
     "retailer": "iws_haarstudio",
     "shop": "hairdresser",
     "latitude": 46.8948734,
-    "longitude": 15.2649929
+    "longitude": 15.2649929,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kaufhaus Hubmann",
     "retailer": "kaufhaus_hubmann",
     "shop": "supermarket",
     "latitude": 46.894479,
-    "longitude": 15.2635481
+    "longitude": 15.2635481,
+    "postcode": "8510",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Messner",
     "retailer": "messner",
     "shop": "butcher",
     "latitude": 46.8936785,
-    "longitude": 15.2640591
+    "longitude": 15.2640591,
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -83,41 +117,64 @@
     "shop": "supermarket",
     "latitude": 46.8988711,
     "longitude": 15.2689181,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Team Steinbauer",
     "retailer": "team_steinbauer",
     "shop": "hairdresser",
     "latitude": 46.8946633,
-    "longitude": 15.2644423
+    "longitude": 15.2644423,
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trachten Mode Ulz",
     "retailer": "trachten_mode_ulz",
     "shop": "clothes",
     "latitude": 46.8939836,
-    "longitude": 15.2641482
+    "longitude": 15.2641482,
+    "postcode": "8510",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trachten Weigl",
     "retailer": "trachten_weigl",
     "shop": "clothes",
     "latitude": 46.895036,
-    "longitude": 15.2608176
+    "longitude": 15.2608176,
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Schauer",
     "retailer": "trafik_schauer",
     "shop": "kiosk",
     "latitude": 46.894617,
-    "longitude": 15.2643284
+    "longitude": 15.2643284,
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wohlgemuth",
     "retailer": "wohlgemuth",
     "shop": "furniture",
     "latitude": 46.8976414,
-    "longitude": 15.2692995
+    "longitude": 15.2692995,
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,14 +4,20 @@
     "retailer": "adeg",
     "shop": "convenience",
     "latitude": 48.1802111,
-    "longitude": 14.8265619
+    "longitude": 14.8265619,
+    "postcode": "3321",
+    "city": "Ardagger Markt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Pfaffeneder",
     "retailer": "backerei_pfaffeneder",
     "shop": "bakery",
     "latitude": 48.1815247,
-    "longitude": 14.8260163
+    "longitude": 14.8260163,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Expert",
@@ -19,13 +25,17 @@
     "shop": "electronics",
     "latitude": 48.1810502,
     "longitude": 14.8260109,
-    "brand": "Expert"
+    "brand": "Expert",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Freudenschuss",
     "retailer": "freudenschuss",
     "shop": "butcher",
     "latitude": 48.180861,
-    "longitude": 14.8261847
+    "longitude": 14.8261847,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,14 +4,18 @@
     "retailer": "shop_bicycle",
     "shop": "bicycle",
     "latitude": 47.8594901,
-    "longitude": 13.0590676
+    "longitude": 13.0590676,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Eisl Sanitär GmbH",
     "retailer": "eisl_sanitar_gmbh",
     "shop": "yes",
     "latitude": 47.8587402,
-    "longitude": 13.05949
+    "longitude": 13.05949,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "eni",
@@ -19,20 +23,26 @@
     "shop": "kiosk",
     "latitude": 47.8595913,
     "longitude": 13.0591239,
-    "brand": "eni"
+    "brand": "eni",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Freinbichler Logistik",
     "retailer": "freinbichler_logistik",
     "shop": "yes",
     "latitude": 47.8584163,
-    "longitude": 13.059116
+    "longitude": 13.059116,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Opel",
     "retailer": "opel",
     "shop": "car",
     "latitude": 47.8592876,
-    "longitude": 13.0589949
+    "longitude": 13.0589949,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "augenoptik_gombotz",
     "shop": "optician",
     "latitude": 46.9373472,
-    "longitude": 16.1394347
+    "longitude": 16.1394347,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bipa",
@@ -12,20 +14,31 @@
     "shop": "chemist",
     "latitude": 46.9368726,
     "longitude": 16.1381596,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8380",
+    "city": "Jennersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hütter",
     "retailer": "hutter",
     "shop": "bakery",
     "latitude": 46.93707,
-    "longitude": 16.1399507
+    "longitude": 16.1399507,
+    "postcode": "8380",
+    "city": "Jennersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Kastner Abholmarkt Jennerdorf",
     "retailer": "kastner_abholmarkt_jennerdorf",
     "shop": "wholesale",
     "latitude": 46.932426,
-    "longitude": 16.1329897
+    "longitude": 16.1329897,
+    "postcode": "8380",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

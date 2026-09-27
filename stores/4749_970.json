@@ -4,7 +4,11 @@
     "retailer": "alma_kasladele",
     "shop": "cheese",
     "latitude": 47.4905669,
-    "longitude": 9.7082264
+    "longitude": 9.7082264,
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bipa",
@@ -12,7 +16,11 @@
     "shop": "chemist",
     "latitude": 47.4902225,
     "longitude": 9.7059024,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Deichmann",
@@ -20,7 +28,11 @@
     "shop": "shoes",
     "latitude": 47.4911735,
     "longitude": 9.7065208,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fressnapf",
@@ -28,7 +40,11 @@
     "shop": "pet",
     "latitude": 47.4909478,
     "longitude": 9.7061198,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fussl",
@@ -36,21 +52,33 @@
     "shop": "clothes",
     "latitude": 47.4910983,
     "longitude": 9.7063693,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lider Supermarkt",
     "retailer": "lider_supermarkt",
     "shop": "supermarket",
     "latitude": 47.4978166,
-    "longitude": 9.7062979
+    "longitude": 9.7062979,
+    "postcode": "6900",
+    "city": "Bregenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mangold Hard Delladiopark",
     "retailer": "mangold_hard_delladiopark",
     "shop": "bakery",
     "latitude": 47.4914602,
-    "longitude": 9.7070241
+    "longitude": 9.7070241,
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Pagro",
@@ -58,13 +86,21 @@
     "shop": "stationery",
     "latitude": 47.4913643,
     "longitude": 9.7068808,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "SIE ER - Kosmetik, Fußpflege",
     "retailer": "sie_er_kosmetik_fupflege",
     "shop": "hairdresser",
     "latitude": 47.4906807,
-    "longitude": 9.7006566
+    "longitude": 9.7006566,
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

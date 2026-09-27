@@ -5,14 +5,18 @@
     "shop": "bakery",
     "latitude": 47.2934841,
     "longitude": 11.5898583,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bikeshop J3 - Jeller Biketech",
     "retailer": "bikeshop_j3_jeller_biketech",
     "shop": "bicycle",
     "latitude": 47.2921199,
-    "longitude": 11.5869699
+    "longitude": 11.5869699,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa Express",
@@ -20,28 +24,42 @@
     "shop": "supermarket",
     "latitude": 47.2977163,
     "longitude": 11.5880573,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Christophorus Reisen - Reisebüro Wattens",
     "retailer": "christophorus_reisen_reiseburo_wattens",
     "shop": "travel_agency",
     "latitude": 47.2931662,
-    "longitude": 11.589847
+    "longitude": 11.589847,
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friedrichs Futterscheune",
     "retailer": "friedrichs_futterscheune",
     "shop": "pet",
     "latitude": 47.2963473,
-    "longitude": 11.5863986
+    "longitude": 11.5863986,
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Handytime",
     "retailer": "handytime",
     "shop": "mobile_phone",
     "latitude": 47.2934129,
-    "longitude": 11.5895325
+    "longitude": 11.5895325,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -49,7 +67,11 @@
     "shop": "supermarket",
     "latitude": 47.297674,
     "longitude": 11.5873707,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KiK",
@@ -57,28 +79,38 @@
     "shop": "clothes",
     "latitude": 47.2934948,
     "longitude": 11.5895661,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kosmetik Sora",
     "retailer": "kosmetik_sora",
     "shop": "beauty",
     "latitude": 47.2943777,
-    "longitude": 11.582367
+    "longitude": 11.582367,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Küche & Co",
     "retailer": "kuche_und_co",
     "shop": "furniture",
     "latitude": 47.2982409,
-    "longitude": 11.5873222
+    "longitude": 11.5873222,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Modern Times",
     "retailer": "modern_times",
     "shop": "hairdresser",
     "latitude": 47.2944704,
-    "longitude": 11.5825204
+    "longitude": 11.5825204,
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -86,21 +118,33 @@
     "shop": "supermarket",
     "latitude": 47.2936076,
     "longitude": 11.5894571,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Musack Limonaden Wattens",
     "retailer": "musack_limonaden_wattens",
     "shop": "beverages",
     "latitude": 47.2963561,
-    "longitude": 11.5864621
+    "longitude": 11.5864621,
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Musik Hammerschmidt",
     "retailer": "musik_hammerschmidt",
     "shop": "musical_instrument",
     "latitude": 47.2983719,
-    "longitude": 11.5887064
+    "longitude": 11.5887064,
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Red Zac Elektro Haim",
@@ -108,14 +152,20 @@
     "shop": "electronics",
     "latitude": 47.2948924,
     "longitude": 11.5889097,
-    "brand": "Red Zac"
+    "brand": "Red Zac",
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rudolf Kainz",
     "retailer": "rudolf_kainz",
     "shop": "hairdresser",
     "latitude": 47.2909333,
-    "longitude": 11.5895777
+    "longitude": 11.5895777,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -123,20 +173,28 @@
     "shop": "supermarket",
     "latitude": 47.2983357,
     "longitude": 11.5868413,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Stein & Co",
     "retailer": "stein_und_co",
     "shop": "furniture",
     "latitude": 47.2982987,
-    "longitude": 11.5872989
+    "longitude": 11.5872989,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabaktrafik",
     "retailer": "tabaktrafik",
     "shop": "tobacco",
     "latitude": 47.2949523,
-    "longitude": 11.5863393
+    "longitude": 11.5863393,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

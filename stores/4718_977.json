@@ -5,7 +5,11 @@
     "shop": "motorcycle",
     "latitude": 47.1869824,
     "longitude": 9.7781883,
-    "brand": "Zero;EM;EMCO;NIU"
+    "brand": "Zero;EM;EMCO;NIU",
+    "postcode": "6713",
+    "city": "Ludesch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sutterlüty",
@@ -13,13 +17,17 @@
     "shop": "supermarket",
     "latitude": 47.1878259,
     "longitude": 9.7782533,
-    "brand": "Sutterlüty"
+    "brand": "Sutterlüty",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Traffic",
     "retailer": "traffic",
     "shop": "kiosk",
     "latitude": 47.1875973,
-    "longitude": 9.7779182
+    "longitude": 9.7779182,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

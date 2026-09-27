@@ -4,14 +4,18 @@
     "retailer": "annas_conceptstore",
     "shop": "interior_decoration",
     "latitude": 47.1648258,
-    "longitude": 16.0123239
+    "longitude": 16.0123239,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bikecenter Geiger",
     "retailer": "bikecenter_geiger",
     "shop": "bicycle",
     "latitude": 47.1644403,
-    "longitude": 16.0128884
+    "longitude": 16.0128884,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -19,77 +23,107 @@
     "shop": "supermarket",
     "latitude": 47.1685429,
     "longitude": 16.0111193,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8271",
+    "city": "Bad Waltersdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Boutique \"Frau Herrlich\"",
     "retailer": "boutique_frau_herrlich",
     "shop": "yes",
     "latitude": 47.1647356,
-    "longitude": 16.0124172
+    "longitude": 16.0124172,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Landeshammer",
     "retailer": "backerei_landeshammer",
     "shop": "bakery",
     "latitude": 47.1682285,
-    "longitude": 16.0111482
+    "longitude": 16.0111482,
+    "postcode": "8271",
+    "city": "Bad Waltersdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Faiss Rahmen",
     "retailer": "faiss_rahmen",
     "shop": "yes",
     "latitude": 47.1625883,
-    "longitude": 16.0141591
+    "longitude": 16.0141591,
+    "postcode": "8271",
+    "city": "Bad Waltersdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Freibad Bad Waltersdorf",
     "retailer": "freibad_bad_waltersdorf",
     "shop": "ticket",
     "latitude": 47.1689923,
-    "longitude": 16.0131167
+    "longitude": 16.0131167,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Freibad-Kiosk",
     "retailer": "freibad_kiosk",
     "shop": "kiosk",
     "latitude": 47.168852,
-    "longitude": 16.0124587
+    "longitude": 16.0124587,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisurentreff",
     "retailer": "frisurentreff",
     "shop": "hairdresser",
     "latitude": 47.1645986,
-    "longitude": 16.0127045
+    "longitude": 16.0127045,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "GZ EDV-Service",
     "retailer": "gz_edv_service",
     "shop": "electronics",
     "latitude": 47.1645284,
-    "longitude": 16.0127992
+    "longitude": 16.0127992,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Jogl",
     "retailer": "jogl",
     "shop": "florist",
     "latitude": 47.1644076,
-    "longitude": 16.0129302
+    "longitude": 16.0129302,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kerzenland",
     "retailer": "kerzenland",
     "shop": "yes",
     "latitude": 47.1653765,
-    "longitude": 16.0122791
+    "longitude": 16.0122791,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Konditorei Zuckalatom - Cafe",
     "retailer": "konditorei_zuckalatom_cafe",
     "shop": "pastry",
     "latitude": 47.1698665,
-    "longitude": 16.0103279
+    "longitude": 16.0103279,
+    "postcode": "8271",
+    "city": "Bad Waltersdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -97,13 +131,19 @@
     "shop": "supermarket",
     "latitude": 47.1641376,
     "longitude": 16.0128623,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8271",
+    "city": "Bad Waltersdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tukkata Massagen",
     "retailer": "tukkata_massagen",
     "shop": "massage",
     "latitude": 47.1649594,
-    "longitude": 16.0121004
+    "longitude": 16.0121004,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "adler",
     "shop": "paint",
     "latitude": 48.1510908,
-    "longitude": 16.2957184
+    "longitude": 16.2957184,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 48.1515634,
     "longitude": 16.291467,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -20,7 +28,9 @@
     "shop": "supermarket",
     "latitude": 48.1595316,
     "longitude": 16.2945032,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -28,14 +38,20 @@
     "shop": "chemist",
     "latitude": 48.1518401,
     "longitude": 16.2908192,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bäckerei Schwarz",
     "retailer": "backerei_schwarz",
     "shop": "bakery",
     "latitude": 48.1534238,
-    "longitude": 16.2971224
+    "longitude": 16.2971224,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Der Mann",
@@ -43,7 +59,11 @@
     "shop": "bakery",
     "latitude": 48.1518627,
     "longitude": 16.2903653,
-    "brand": "Der Mann"
+    "brand": "Der Mann",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Eurospar",
@@ -51,14 +71,22 @@
     "shop": "supermarket",
     "latitude": 48.1505035,
     "longitude": 16.2905484,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Glücksmomente",
     "retailer": "glucksmomente",
     "shop": "tea;flowers",
     "latitude": 48.1501255,
-    "longitude": 16.2925415
+    "longitude": 16.2925415,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -66,7 +94,11 @@
     "shop": "supermarket",
     "latitude": 48.1511004,
     "longitude": 16.2910966,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "JYSK",
@@ -74,21 +106,31 @@
     "shop": "furniture",
     "latitude": 48.1517622,
     "longitude": 16.2914811,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "KFZ-Technik Ginner",
     "retailer": "kfz_technik_ginner",
     "shop": "car_repair",
     "latitude": 48.1542396,
-    "longitude": 16.2964169
+    "longitude": 16.2964169,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.1502705,
-    "longitude": 16.2994927
+    "longitude": 16.2994927,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Libro",
@@ -96,7 +138,9 @@
     "shop": "books",
     "latitude": 48.1518212,
     "longitude": 16.2910177,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "NKD",
@@ -104,27 +148,39 @@
     "shop": "clothes",
     "latitude": 48.1508466,
     "longitude": 16.2905473,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Schuh Altholz & Antike Baustoffe",
     "retailer": "schuh_altholz_und_antike_baustoffe",
     "shop": "trade",
     "latitude": 48.1525778,
-    "longitude": 16.2927904
+    "longitude": 16.2927904,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "newsagent",
     "latitude": 48.1507103,
-    "longitude": 16.2904365
+    "longitude": 16.2904365,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "ULIKETT GmbH",
     "retailer": "ulikett_gmbh",
     "shop": "print_shop",
     "latitude": 48.1549335,
-    "longitude": 16.2989373
+    "longitude": 16.2989373,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

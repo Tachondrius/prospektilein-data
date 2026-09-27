@@ -4,21 +4,27 @@
     "retailer": "cafe_gschopf",
     "shop": "bakery",
     "latitude": 48.0827764,
-    "longitude": 14.931218
+    "longitude": 14.931218,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "d'Speis",
     "retailer": "d_speis",
     "shop": "convenience",
     "latitude": 48.0827547,
-    "longitude": 14.9317288
+    "longitude": 14.9317288,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Jungwirth Baumarkt Euratsfeld",
     "retailer": "jungwirth_baumarkt_euratsfeld",
     "shop": "doityourself",
     "latitude": 48.0835461,
-    "longitude": 14.930288
+    "longitude": 14.930288,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -26,20 +32,28 @@
     "shop": "supermarket",
     "latitude": 48.0829816,
     "longitude": 14.9314641,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabaktrafik Erwin Maus",
     "retailer": "tabaktrafik_erwin_maus",
     "shop": "kiosk",
     "latitude": 48.0816354,
-    "longitude": 14.9317783
+    "longitude": 14.9317783,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Team Silvia",
     "retailer": "team_silvia",
     "shop": "hairdresser",
     "latitude": 48.0823283,
-    "longitude": 14.9315733
+    "longitude": 14.9315733,
+    "postcode": "3324",
+    "city": "Euratsfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

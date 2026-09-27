@@ -5,7 +5,9 @@
     "shop": "doityourself",
     "latitude": 47.7251244,
     "longitude": 14.307202,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -13,13 +15,21 @@
     "shop": "supermarket",
     "latitude": 47.723877,
     "longitude": 14.3088144,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4575",
+    "city": "Roßleithen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Rußner",
     "retailer": "runer",
     "shop": "car_repair",
     "latitude": 47.7230728,
-    "longitude": 14.3075436
+    "longitude": 14.3075436,
+    "postcode": "4575",
+    "city": "Roßleithen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,28 +5,42 @@
     "shop": "clothes",
     "latitude": 47.4859282,
     "longitude": 9.6943216,
-    "brand": "Adler"
+    "brand": "Adler",
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bäckerei Mangold",
     "retailer": "backerei_mangold",
     "shop": "bakery",
     "latitude": 47.4898412,
-    "longitude": 9.6904748
+    "longitude": 9.6904748,
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hafner Büchele",
     "retailer": "hafner_buchele",
     "shop": "furniture",
     "latitude": 47.4899664,
-    "longitude": 9.6936737
+    "longitude": 9.6936737,
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lutz",
     "retailer": "lutz",
     "shop": "butcher",
     "latitude": 47.4897793,
-    "longitude": 9.690167
+    "longitude": 9.690167,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -34,13 +48,19 @@
     "shop": "supermarket",
     "latitude": 47.489652,
     "longitude": 9.690834,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "WOLFF-Shop",
     "retailer": "wolff_shop",
     "shop": "clothes",
     "latitude": 47.4893146,
-    "longitude": 9.6933284
+    "longitude": 9.6933284,
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

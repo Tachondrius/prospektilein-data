@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 46.5499871,
     "longitude": 13.6978999,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9601",
+    "city": "Arnoldstein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -13,6 +17,10 @@
     "shop": "supermarket",
     "latitude": 46.5499917,
     "longitude": 13.6967038,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "9601",
+    "city": "Arnoldstein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1630274,
     "longitude": 14.0155461,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -13,28 +17,40 @@
     "shop": "chemist",
     "latitude": 48.1650243,
     "longitude": 14.0119419,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseur Prömer",
     "retailer": "friseur_promer",
     "shop": "hairdresser",
     "latitude": 48.1630556,
-    "longitude": 14.0119127
+    "longitude": 14.0119127,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haarstudio Monika Hörzi",
     "retailer": "haarstudio_monika_horzi",
     "shop": "hairdresser",
     "latitude": 48.1648746,
-    "longitude": 14.0118679
+    "longitude": 14.0118679,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lenk",
     "retailer": "lenk",
     "shop": "stationery",
     "latitude": 48.1649578,
-    "longitude": 14.0117407
+    "longitude": 14.0117407,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Matratzen Concord",
@@ -42,7 +58,11 @@
     "shop": "bed",
     "latitude": 48.1614321,
     "longitude": 14.017286,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny",
@@ -50,34 +70,50 @@
     "shop": "supermarket",
     "latitude": 48.1611665,
     "longitude": 14.0170812,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Regina Plaza",
     "retailer": "regina_plaza",
     "shop": "kitchen",
     "latitude": 48.1600899,
-    "longitude": 14.0193724
+    "longitude": 14.0193724,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "So Afro Shop",
     "retailer": "so_afro_shop",
     "shop": "convenience",
     "latitude": 48.16327,
-    "longitude": 14.014434
+    "longitude": 14.014434,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stöbich",
     "retailer": "stobich",
     "shop": "bakery",
     "latitude": 48.1648313,
-    "longitude": 14.011926
+    "longitude": 14.011926,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik Kreilinger",
     "retailer": "trafik_kreilinger",
     "shop": "kiosk",
     "latitude": 48.1647617,
-    "longitude": 14.012033
+    "longitude": 14.012033,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

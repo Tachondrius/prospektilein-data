@@ -5,7 +5,10 @@
     "shop": "sports",
     "latitude": 46.5942911,
     "longitude": 14.2774806,
-    "brand": "Adidas"
+    "brand": "Adidas",
+    "postcode": "9073",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -13,7 +16,10 @@
     "shop": "supermarket",
     "latitude": 46.5909071,
     "longitude": 14.2733699,
-    "brand": "Billa"
+    "brand": "Billa",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -21,21 +27,29 @@
     "shop": "chemist",
     "latitude": 46.5925517,
     "longitude": 14.270766,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Der Fahrradprofi",
     "retailer": "der_fahrradprofi",
     "shop": "bicycle",
     "latitude": 46.592389,
-    "longitude": 14.2773609
+    "longitude": 14.2773609,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "dm",
     "retailer": "dm",
     "shop": "chemist",
     "latitude": 46.5916587,
-    "longitude": 14.272356
+    "longitude": 14.272356,
+    "postcode": "9073",
+    "city": "Klagenfurt-Viktring",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eurospar",
@@ -43,14 +57,20 @@
     "shop": "supermarket",
     "latitude": 46.5924038,
     "longitude": 14.2741469,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Haar-Design Regina",
     "retailer": "haar_design_regina",
     "shop": "hairdresser",
     "latitude": 46.5921378,
-    "longitude": 14.2726259
+    "longitude": 14.2726259,
+    "postcode": "9073",
+    "city": "Klagenfurt-Viktring",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Klipp",
@@ -58,14 +78,20 @@
     "shop": "hairdresser",
     "latitude": 46.5924705,
     "longitude": 14.2710908,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "9073",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
     "retailer": "nkd",
     "shop": "clothes",
     "latitude": 46.5909862,
-    "longitude": 14.2728268
+    "longitude": 14.2728268,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Penny",
@@ -73,7 +99,11 @@
     "shop": "supermarket",
     "latitude": 46.5926256,
     "longitude": 14.2705508,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "9073",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Puma Outlet",
@@ -81,20 +111,28 @@
     "shop": "clothes",
     "latitude": 46.5930238,
     "longitude": 14.2769558,
-    "brand": "Puma Outlet"
+    "brand": "Puma Outlet",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Radhaus.at",
     "retailer": "radhaus_at",
     "shop": "bicycle",
     "latitude": 46.5922529,
-    "longitude": 14.2725308
+    "longitude": 14.2725308,
+    "postcode": "9073",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wienerroither",
     "retailer": "wienerroither",
     "shop": "bakery",
     "latitude": 46.5916303,
-    "longitude": 14.2727738
+    "longitude": 14.2727738,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.2667788,
     "longitude": 9.6157161,
-    "brand": "VW,Audi,Skoda"
+    "brand": "VW,Audi,Skoda",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Carglass",
@@ -13,7 +17,11 @@
     "shop": "car_repair",
     "latitude": 47.2646177,
     "longitude": 9.6148439,
-    "brand": "Carglass"
+    "brand": "Carglass",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "dm",
@@ -21,28 +29,42 @@
     "shop": "chemist",
     "latitude": 47.2671786,
     "longitude": 9.6149713,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Drawitex",
     "retailer": "drawitex",
     "shop": "sewing",
     "latitude": 47.2610014,
-    "longitude": 9.6159438
+    "longitude": 9.6159438,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "FAIR Küchenstudio",
     "retailer": "fair_kuchenstudio",
     "shop": "kitchen",
     "latitude": 47.2656925,
-    "longitude": 9.614925
+    "longitude": 9.614925,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Frisör Schatzmann",
     "retailer": "frisor_schatzmann",
     "shop": "hairdresser",
     "latitude": 47.260128,
-    "longitude": 9.6175537
+    "longitude": 9.6175537,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hofer",
@@ -50,21 +72,33 @@
     "shop": "supermarket",
     "latitude": 47.2674512,
     "longitude": 9.6141754,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "JAWI-Computer",
     "retailer": "jawi_computer",
     "shop": "computer",
     "latitude": 47.2685654,
-    "longitude": 9.6118319
+    "longitude": 9.6118319,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "lichtFACTOR",
     "retailer": "lichtfactor",
     "shop": "lighting",
     "latitude": 47.2653077,
-    "longitude": 9.6148302
+    "longitude": 9.6148302,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lucky Car",
@@ -72,21 +106,33 @@
     "shop": "car_repair",
     "latitude": 47.267205,
     "longitude": 9.6155856,
-    "brand": "Lucky Car"
+    "brand": "Lucky Car",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "OMV",
     "retailer": "omv",
     "shop": "kiosk",
     "latitude": 47.2677589,
-    "longitude": 9.6148465
+    "longitude": 9.6148465,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Pretterhofer",
     "retailer": "pretterhofer",
     "shop": "kitchen",
     "latitude": 47.2600255,
-    "longitude": 9.6149376
+    "longitude": 9.6149376,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Quick Schuh",
@@ -94,21 +140,29 @@
     "shop": "shoes",
     "latitude": 47.2674184,
     "longitude": 9.6149676,
-    "brand": "Quick Schuh"
+    "brand": "Quick Schuh",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "schertlerbrot",
     "retailer": "schertlerbrot",
     "shop": "bakery",
     "latitude": 47.2608082,
-    "longitude": 9.6165474
+    "longitude": 9.6165474,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tabak Trafik Benzer",
     "retailer": "tabak_trafik_benzer",
     "shop": "kiosk",
     "latitude": 47.2669836,
-    "longitude": 9.6150517
+    "longitude": 9.6150517,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Takko",
@@ -116,7 +170,11 @@
     "shop": "clothes",
     "latitude": 47.2666966,
     "longitude": 9.6145157,
-    "brand": "Takko"
+    "brand": "Takko",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "XXXLutz",
@@ -124,6 +182,10 @@
     "shop": "furniture",
     "latitude": 47.2682674,
     "longitude": 9.6164755,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

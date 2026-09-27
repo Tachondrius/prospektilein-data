@@ -4,14 +4,20 @@
     "retailer": "maurello_nails",
     "shop": "beauty",
     "latitude": 48.2881703,
-    "longitude": 16.4807568
+    "longitude": 16.4807568,
+    "postcode": "2201",
+    "city": "Gerasdorf bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stastnik Abholmarkt",
     "retailer": "stastnik_abholmarkt",
     "shop": "butcher",
     "latitude": 48.2828168,
-    "longitude": 16.4819956
+    "longitude": 16.4819956,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wurst Großmarkt",
@@ -19,13 +25,19 @@
     "shop": "butcher",
     "latitude": 48.2826058,
     "longitude": 16.4818392,
-    "brand": "Radatz"
+    "brand": "Radatz",
+    "postcode": "2201",
+    "city": "Gerasdorf bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Yes",
     "retailer": "shop_yes",
     "shop": "yes",
     "latitude": 48.2844479,
-    "longitude": 16.4852694
+    "longitude": 16.4852694,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

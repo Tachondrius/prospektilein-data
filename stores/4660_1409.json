@@ -5,20 +5,28 @@
     "shop": "supermarket",
     "latitude": 46.6023482,
     "longitude": 14.0965883,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9535",
+    "city": "Schiefling am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Friseur WACHE",
     "retailer": "friseur_wache",
     "shop": "hairdresser",
     "latitude": 46.6032547,
-    "longitude": 14.0928073
+    "longitude": 14.0928073,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tarfik Jäger",
     "retailer": "tarfik_jager",
     "shop": "kiosk",
     "latitude": 46.6020344,
-    "longitude": 14.0987958
+    "longitude": 14.0987958,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

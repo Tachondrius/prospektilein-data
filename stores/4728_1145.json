@@ -4,7 +4,11 @@
     "retailer": "auto_hatzl",
     "shop": "car_repair",
     "latitude": 47.2867032,
-    "longitude": 11.4522067
+    "longitude": 11.4522067,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,28 +16,40 @@
     "shop": "bakery",
     "latitude": 47.2857415,
     "longitude": 11.4516748,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Claudia",
     "retailer": "blumen_claudia",
     "shop": "florist",
     "latitude": 47.2858224,
-    "longitude": 11.4520091
+    "longitude": 11.4520091,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseursalon KaKaDu Hair & Nails",
     "retailer": "friseursalon_kakadu_hair_und_nails",
     "shop": "hairdresser",
     "latitude": 47.2864408,
-    "longitude": 11.4591104
+    "longitude": 11.4591104,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Brindlinger",
     "retailer": "metzgerei_brindlinger",
     "shop": "butcher",
     "latitude": 47.2867054,
-    "longitude": 11.457707
+    "longitude": 11.457707,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -41,13 +57,19 @@
     "shop": "supermarket",
     "latitude": 47.2860396,
     "longitude": 11.452017,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 47.2859105,
-    "longitude": 11.4521524
+    "longitude": 11.4521524,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 47.3220971,
     "longitude": 9.9770758,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Autohaus Madlener",
@@ -13,13 +15,19 @@
     "shop": "car",
     "latitude": 47.3266768,
     "longitude": 9.9758524,
-    "brand": "Opel,Suzuki"
+    "brand": "Opel,Suzuki",
+    "postcode": "6883",
+    "city": "Au",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Toyota Natter",
     "retailer": "toyota_natter",
     "shop": "car",
     "latitude": 47.3275755,
-    "longitude": 9.9752553
+    "longitude": 9.9752553,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

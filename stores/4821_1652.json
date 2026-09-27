@@ -5,48 +5,72 @@
     "shop": "supermarket",
     "latitude": 48.2125522,
     "longitude": 16.5291287,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Cut & Cafe",
     "retailer": "cut_und_cafe",
     "shop": "hairdresser",
     "latitude": 48.2146944,
-    "longitude": 16.521057
+    "longitude": 16.521057,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gaderer",
     "retailer": "gaderer",
     "shop": "florist",
     "latitude": 48.212135,
-    "longitude": 16.5223957
+    "longitude": 16.5223957,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Laundry",
     "retailer": "shop_laundry",
     "shop": "laundry",
     "latitude": 48.2143684,
-    "longitude": 16.5203501
+    "longitude": 16.5203501,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Maluch Premium Autozubehör",
     "retailer": "maluch_premium_autozubehor",
     "shop": "car_parts",
     "latitude": 48.2152547,
-    "longitude": 16.5229327
+    "longitude": 16.5229327,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Martina Wildner",
     "retailer": "martina_wildner",
     "shop": "beauty",
     "latitude": 48.2114253,
-    "longitude": 16.5285839
+    "longitude": 16.5285839,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik Sagmeister",
     "retailer": "trafik_sagmeister",
     "shop": "kiosk",
     "latitude": 48.21465,
-    "longitude": 16.520308
+    "longitude": 16.520308,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

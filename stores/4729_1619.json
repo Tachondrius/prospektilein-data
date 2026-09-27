@@ -4,35 +4,49 @@
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.2927693,
-    "longitude": 16.1968897
+    "longitude": 16.1968897,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.2945681,
-    "longitude": 16.1986147
+    "longitude": 16.1986147,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.2953769,
-    "longitude": 16.1985643
+    "longitude": 16.1985643,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.2973796,
-    "longitude": 16.1992628
+    "longitude": 16.1992628,
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.2978631,
-    "longitude": 16.1992296
+    "longitude": 16.1992296,
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Citroen Köhler",
@@ -40,7 +54,9 @@
     "shop": "car",
     "latitude": 47.2973558,
     "longitude": 16.1992169,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Opel Schatz-Draskovits",
@@ -48,14 +64,20 @@
     "shop": "car",
     "latitude": 47.2978262,
     "longitude": 16.1991778,
-    "brand": "Opel"
+    "brand": "Opel",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Reifen Paukner",
     "retailer": "reifen_paukner",
     "shop": "tyres",
     "latitude": 47.2933736,
-    "longitude": 16.1987869
+    "longitude": 16.1987869,
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Renault Vogl&Co",
@@ -63,7 +85,11 @@
     "shop": "car",
     "latitude": 47.2928206,
     "longitude": 16.1971037,
-    "brand": "Renault"
+    "brand": "Renault",
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Skoda Simon",
@@ -71,6 +97,10 @@
     "shop": "car",
     "latitude": 47.2979988,
     "longitude": 16.1989316,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

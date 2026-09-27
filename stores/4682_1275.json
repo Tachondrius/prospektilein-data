@@ -5,21 +5,29 @@
     "shop": "car",
     "latitude": 46.8253416,
     "longitude": 12.7558175,
-    "brand": "Nissan;Subaru"
+    "brand": "Nissan;Subaru",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Defregger",
     "retailer": "defregger",
     "shop": "paint",
     "latitude": 46.8256917,
-    "longitude": 12.7566092
+    "longitude": 12.7566092,
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.8209466,
-    "longitude": 12.7594175
+    "longitude": 12.7594175,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -27,7 +35,9 @@
     "shop": "supermarket",
     "latitude": 46.8212477,
     "longitude": 12.7561172,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -35,7 +45,11 @@
     "shop": "supermarket",
     "latitude": 46.8297451,
     "longitude": 12.7546222,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Prisker",
@@ -43,20 +57,26 @@
     "shop": "car",
     "latitude": 46.8260544,
     "longitude": 12.7561829,
-    "brand": "Citroen;Land Rover"
+    "brand": "Citroen;Land Rover",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sanitätshaus Ortner",
     "retailer": "sanitatshaus_ortner",
     "shop": "medical_supply",
     "latitude": 46.8278764,
-    "longitude": 12.7586158
+    "longitude": 12.7586158,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.8210468,
-    "longitude": 12.7585781
+    "longitude": 12.7585781,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

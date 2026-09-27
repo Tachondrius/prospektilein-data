@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 48.244872,
     "longitude": 14.2829486,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lieselotte Foedinger-Wieder",
     "retailer": "lieselotte_foedinger_wieder",
     "shop": "tobacco",
     "latitude": 48.2461402,
-    "longitude": 14.2869322
+    "longitude": 14.2869322,
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "LIGE Barber",
     "retailer": "lige_barber",
     "shop": "hairdresser",
     "latitude": 48.245527,
-    "longitude": 14.2849892
+    "longitude": 14.2849892,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "kugelsicher_e_u",
     "shop": "weapons",
     "latitude": 47.9391978,
-    "longitude": 16.8547314
+    "longitude": 16.8547314,
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Mercedes-Benz",
@@ -12,7 +16,11 @@
     "shop": "car_repair",
     "latitude": 47.9369344,
     "longitude": 16.8561256,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "7100",
+    "city": "Weiden am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -20,6 +28,10 @@
     "shop": "supermarket",
     "latitude": 47.9384973,
     "longitude": 16.8549688,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

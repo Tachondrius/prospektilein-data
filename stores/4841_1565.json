@@ -5,20 +5,32 @@
     "shop": "supermarket",
     "latitude": 48.4191852,
     "longitude": 15.6569747,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "3495",
+    "city": "Rohrendorf bei Krems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Weichslbaum",
     "retailer": "backerei_weichslbaum",
     "shop": "bakery",
     "latitude": 48.4188511,
-    "longitude": 15.6581059
+    "longitude": 15.6581059,
+    "postcode": "3495",
+    "city": "Rohrendorf bei Krems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairstyling Tina",
     "retailer": "hairstyling_tina",
     "shop": "hairdresser",
     "latitude": 48.4195044,
-    "longitude": 15.654704
+    "longitude": 15.654704,
+    "postcode": "3495",
+    "city": "Rohrendorf bei Krems",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

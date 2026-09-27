@@ -4,35 +4,51 @@
     "retailer": "dorfautomat",
     "shop": "farm",
     "latitude": 47.3319911,
-    "longitude": 9.6068864
+    "longitude": 9.6068864,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Formsache",
     "retailer": "formsache",
     "shop": "copyshop",
     "latitude": 47.3324921,
-    "longitude": 9.6058764
+    "longitude": 9.6058764,
+    "postcode": "6842",
+    "city": "Koblach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Koblerbäck",
     "retailer": "koblerback",
     "shop": "bakery",
     "latitude": 47.3301242,
-    "longitude": 9.6013627
+    "longitude": 9.6013627,
+    "postcode": "6842",
+    "city": "Koblach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mosterei Amann",
     "retailer": "mosterei_amann",
     "shop": "wine",
     "latitude": 47.3327383,
-    "longitude": 9.6007023
+    "longitude": 9.6007023,
+    "postcode": "6842",
+    "city": "Koblach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Salon Fend",
     "retailer": "salon_fend",
     "shop": "hairdresser",
     "latitude": 47.3304165,
-    "longitude": 9.6011793
+    "longitude": 9.6011793,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -40,6 +56,10 @@
     "shop": "supermarket",
     "latitude": 47.3310529,
     "longitude": 9.601192,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6842",
+    "city": "Koblach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

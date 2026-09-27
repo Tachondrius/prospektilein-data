@@ -5,14 +5,22 @@
     "shop": "variety_store",
     "latitude": 48.2213404,
     "longitude": 15.6405416,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "3107",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Furniture",
     "retailer": "shop_furniture",
     "shop": "furniture",
     "latitude": 48.2224188,
-    "longitude": 15.6404043
+    "longitude": 15.6404043,
+    "postcode": "3107",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -20,7 +28,11 @@
     "shop": "car",
     "latitude": 48.2201426,
     "longitude": 15.6433089,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3107",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Möbelix",
@@ -28,7 +40,9 @@
     "shop": "furniture",
     "latitude": 48.2226313,
     "longitude": 15.640631,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mömax",
@@ -36,35 +50,45 @@
     "shop": "furniture",
     "latitude": 48.2222667,
     "longitude": 15.6407249,
-    "brand": "Mömax"
+    "brand": "Mömax",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nähmaschinenmann",
     "retailer": "nahmaschinenmann",
     "shop": "sewing",
     "latitude": 48.2265936,
-    "longitude": 15.6424995
+    "longitude": 15.6424995,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pet",
     "retailer": "shop_pet",
     "shop": "pet",
     "latitude": 48.228706,
-    "longitude": 15.6426001
+    "longitude": 15.6426001,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rappersberger",
     "retailer": "rappersberger",
     "shop": "bathroom_furnishing",
     "latitude": 48.2290147,
-    "longitude": 15.6438419
+    "longitude": 15.6438419,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reifen Krafka",
     "retailer": "reifen_krafka",
     "shop": "tyres",
     "latitude": 48.2297821,
-    "longitude": 15.6462358
+    "longitude": 15.6462358,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -72,6 +96,10 @@
     "shop": "supermarket",
     "latitude": 48.221337,
     "longitude": 15.640109,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3107",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

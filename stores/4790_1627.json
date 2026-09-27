@@ -4,27 +4,39 @@
     "retailer": "gwt",
     "shop": "swimming_pool",
     "latitude": 47.9056492,
-    "longitude": 16.2718161
+    "longitude": 16.2718161,
+    "postcode": "2601",
+    "city": "Sollenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Karat",
     "retailer": "karat",
     "shop": "cleaning",
     "latitude": 47.9045919,
-    "longitude": 16.2743669
+    "longitude": 16.2743669,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SBV Immobilienvermietung",
     "retailer": "sbv_immobilienvermietung",
     "shop": "storage_rental",
     "latitude": 47.9076217,
-    "longitude": 16.2790802
+    "longitude": 16.2790802,
+    "postcode": "2601",
+    "city": "Sollenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "WEF Handel & Service",
     "retailer": "wef_handel_und_service",
     "shop": "trade",
     "latitude": 47.907743,
-    "longitude": 16.2792405
+    "longitude": 16.2792405,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

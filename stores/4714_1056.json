@@ -4,7 +4,9 @@
     "retailer": "auto_miro",
     "shop": "car_repair",
     "latitude": 47.14148,
-    "longitude": 10.5636764
+    "longitude": 10.5636764,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Autohaus Unterberger Netzer",
@@ -12,35 +14,47 @@
     "shop": "car",
     "latitude": 47.1406657,
     "longitude": 10.5644311,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Automatenshop smile 24/7",
     "retailer": "automatenshop_smile_24_7",
     "shop": "vending_machine",
     "latitude": 47.1408521,
-    "longitude": 10.5666724
+    "longitude": 10.5666724,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Lisi",
     "retailer": "blumen_lisi",
     "shop": "florist",
     "latitude": 47.1401587,
-    "longitude": 10.5640854
+    "longitude": 10.5640854,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Pekara Furra Grill",
     "retailer": "backerei_pekara_furra_grill",
     "shop": "bakery",
     "latitude": 47.1406366,
-    "longitude": 10.5662441
+    "longitude": 10.5662441,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Copyshop Landeck",
     "retailer": "copyshop_landeck",
     "shop": "copyshop",
     "latitude": 47.1421975,
-    "longitude": 10.5616607
+    "longitude": 10.5616607,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dm",
@@ -48,42 +62,58 @@
     "shop": "chemist",
     "latitude": 47.1414729,
     "longitude": 10.5606561,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farben Weiskopf GmbH",
     "retailer": "farben_weiskopf_gmbh",
     "shop": "paint",
     "latitude": 47.1421665,
-    "longitude": 10.5615245
+    "longitude": 10.5615245,
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseursalon Peter",
     "retailer": "friseursalon_peter",
     "shop": "hairdresser",
     "latitude": 47.1410829,
-    "longitude": 10.5670679
+    "longitude": 10.5670679,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseursalon Wally",
     "retailer": "friseursalon_wally",
     "shop": "hairdresser",
     "latitude": 47.1403621,
-    "longitude": 10.5666241
+    "longitude": 10.5666241,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gemüsehandlung Kofler",
     "retailer": "gemusehandlung_kofler",
     "shop": "greengrocer",
     "latitude": 47.1414057,
-    "longitude": 10.5642343
+    "longitude": 10.5642343,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Harrer Babybedarf",
     "retailer": "harrer_babybedarf",
     "shop": "baby_goods",
     "latitude": 47.1412961,
-    "longitude": 10.5664268
+    "longitude": 10.5664268,
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -91,7 +121,11 @@
     "shop": "supermarket",
     "latitude": 47.1423395,
     "longitude": 10.5639507,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KiK",
@@ -99,14 +133,18 @@
     "shop": "clothes",
     "latitude": 47.1411877,
     "longitude": 10.5608506,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiwi Sports House",
     "retailer": "kiwi_sports_house",
     "shop": "sports",
     "latitude": 47.1404761,
-    "longitude": 10.5663854
+    "longitude": 10.5663854,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lidl",
@@ -114,14 +152,18 @@
     "shop": "supermarket",
     "latitude": 47.1421366,
     "longitude": 10.5603218,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Massagerie",
     "retailer": "massagerie",
     "shop": "massage",
     "latitude": 47.1421456,
-    "longitude": 10.5616324
+    "longitude": 10.5616324,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -129,14 +171,20 @@
     "shop": "supermarket",
     "latitude": 47.1418548,
     "longitude": 10.5608098,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Optik Weinseisen",
     "retailer": "optik_weinseisen",
     "shop": "optician",
     "latitude": 47.1401404,
-    "longitude": 10.5660689
+    "longitude": 10.5660689,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pagro",
@@ -144,41 +192,55 @@
     "shop": "stationery",
     "latitude": 47.1413838,
     "longitude": 10.5601265,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reinigung Wanek",
     "retailer": "reinigung_wanek",
     "shop": "dry_cleaning",
     "latitude": 47.1408761,
-    "longitude": 10.5669272
+    "longitude": 10.5669272,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Paris",
     "retailer": "salon_paris",
     "shop": "hairdresser",
     "latitude": 47.14071,
-    "longitude": 10.5665888
+    "longitude": 10.5665888,
+    "postcode": "6500",
+    "city": "Landeck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Shiatsupraxis Juen Kathrin",
     "retailer": "shiatsupraxis_juen_kathrin",
     "shop": "beauty",
     "latitude": 47.1458349,
-    "longitude": 10.5656634
+    "longitude": 10.5656634,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tirona IT Systems",
     "retailer": "tirona_it_systems",
     "shop": "computer",
     "latitude": 47.1415817,
-    "longitude": 10.5600218
+    "longitude": 10.5600218,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vujo Sat",
     "retailer": "vujo_sat",
     "shop": "electronics",
     "latitude": 47.1424381,
-    "longitude": 10.5616712
+    "longitude": 10.5616712,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

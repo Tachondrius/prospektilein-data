@@ -4,27 +4,37 @@
     "retailer": "antiquitaten",
     "shop": "antiques",
     "latitude": 47.34811,
-    "longitude": 10.1713926
+    "longitude": 10.1713926,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ifen Sport",
     "retailer": "ifen_sport",
     "shop": "ski",
     "latitude": 47.3489314,
-    "longitude": 10.1712638
+    "longitude": 10.1712638,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ski Fritz",
     "retailer": "ski_fritz",
     "shop": "ski",
     "latitude": 47.3476976,
-    "longitude": 10.1707521
+    "longitude": 10.1707521,
+    "postcode": "6992",
+    "city": "Mittelberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Skistadl",
     "retailer": "skistadl",
     "shop": "ski",
     "latitude": 47.3491804,
-    "longitude": 10.1707274
+    "longitude": 10.1707274,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

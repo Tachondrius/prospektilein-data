@@ -4,35 +4,45 @@
     "retailer": "7_for_all_mankind",
     "shop": "clothes",
     "latitude": 47.9778893,
-    "longitude": 16.8471765
+    "longitude": 16.8471765,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Aigner",
     "retailer": "aigner",
     "shop": "bag",
     "latitude": 47.9787931,
-    "longitude": 16.8468595
+    "longitude": 16.8468595,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Alberta Ferretti Moschino",
     "retailer": "alberta_ferretti_moschino",
     "shop": "clothes",
     "latitude": 47.9790409,
-    "longitude": 16.8459449
+    "longitude": 16.8459449,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Alina",
     "retailer": "alina",
     "shop": "perfumery",
     "latitude": 47.9762555,
-    "longitude": 16.8493653
+    "longitude": 16.8493653,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Alpha Tauri",
     "retailer": "alpha_tauri",
     "shop": "sports",
     "latitude": 47.9770741,
-    "longitude": 16.8495904
+    "longitude": 16.8495904,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "ara",
@@ -40,42 +50,60 @@
     "shop": "shoes",
     "latitude": 47.9783357,
     "longitude": 16.8491176,
-    "brand": "ara"
+    "brand": "ara",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Armani",
     "retailer": "armani",
     "shop": "clothes",
     "latitude": 47.9786279,
-    "longitude": 16.8459362
+    "longitude": 16.8459362,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Autobedarf Schmutzer",
     "retailer": "autobedarf_schmutzer",
     "shop": "car_parts",
     "latitude": 47.9727064,
-    "longitude": 16.8413117
+    "longitude": 16.8413117,
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Autocenter Parndorf by Nemeth",
     "retailer": "autocenter_parndorf_by_nemeth",
     "shop": "car_repair",
     "latitude": 47.9735064,
-    "longitude": 16.842954
+    "longitude": 16.842954,
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Babor",
     "retailer": "babor",
     "shop": "perfumery",
     "latitude": 47.9774687,
-    "longitude": 16.8472509
+    "longitude": 16.8472509,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Baldessarini",
     "retailer": "baldessarini",
     "shop": "clothes",
     "latitude": 47.9789733,
-    "longitude": 16.8488272
+    "longitude": 16.8488272,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bally",
@@ -83,7 +111,9 @@
     "shop": "shoes",
     "latitude": 47.9789,
     "longitude": 16.84622,
-    "brand": "Bally"
+    "brand": "Bally",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Betty Barclay",
@@ -91,7 +121,9 @@
     "shop": "clothes",
     "latitude": 47.9798311,
     "longitude": 16.849951,
-    "brand": "Betty Barclay"
+    "brand": "Betty Barclay",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Billa Plus",
@@ -99,7 +131,11 @@
     "shop": "supermarket",
     "latitude": 47.9735087,
     "longitude": 16.8402061,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bogner",
@@ -107,7 +143,9 @@
     "shop": "clothes",
     "latitude": 47.9766994,
     "longitude": 16.8499035,
-    "brand": "Bogner"
+    "brand": "Bogner",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "BRAX",
@@ -115,14 +153,18 @@
     "shop": "clothes",
     "latitude": 47.9799723,
     "longitude": 16.8498866,
-    "brand": "BRAX"
+    "brand": "BRAX",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bruno Banani",
     "retailer": "bruno_banani",
     "shop": "clothes",
     "latitude": 47.9793508,
-    "longitude": 16.849751
+    "longitude": 16.849751,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Burberry",
@@ -130,14 +172,20 @@
     "shop": "clothes",
     "latitude": 47.9787239,
     "longitude": 16.845719,
-    "brand": "Burberry"
+    "brand": "Burberry",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bäumler",
     "retailer": "baumler",
     "shop": "clothes",
     "latitude": 47.978583,
-    "longitude": 16.8494261
+    "longitude": 16.8494261,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Calvin Klein",
@@ -145,7 +193,9 @@
     "shop": "clothes",
     "latitude": 47.9784625,
     "longitude": 16.8463976,
-    "brand": "Calvin Klein"
+    "brand": "Calvin Klein",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Calzedonia",
@@ -153,7 +203,11 @@
     "shop": "clothes",
     "latitude": 47.9777701,
     "longitude": 16.8480139,
-    "brand": "Calzedonia"
+    "brand": "Calzedonia",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Camp David",
@@ -161,21 +215,29 @@
     "shop": "clothes",
     "latitude": 47.9784498,
     "longitude": 16.8488876,
-    "brand": "Camp David"
+    "brand": "Camp David",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "CENTERSHOP",
     "retailer": "centershop",
     "shop": "variety_store",
     "latitude": 47.9794947,
-    "longitude": 16.8443996
+    "longitude": 16.8443996,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Coach",
     "retailer": "coach",
     "shop": "clothes",
     "latitude": 47.9792633,
-    "longitude": 16.8461129
+    "longitude": 16.8461129,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Coccodrillo",
@@ -183,28 +245,38 @@
     "shop": "clothes",
     "latitude": 47.9778031,
     "longitude": 16.8478855,
-    "brand": "Coccodrillo"
+    "brand": "Coccodrillo",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Corneliani",
     "retailer": "corneliani",
     "shop": "clothes",
     "latitude": 47.9791125,
-    "longitude": 16.8468122
+    "longitude": 16.8468122,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Cross Jeanswear",
     "retailer": "cross_jeanswear",
     "shop": "clothes",
     "latitude": 47.9789068,
-    "longitude": 16.8492481
+    "longitude": 16.8492481,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Designer Outlet Parndorf",
     "retailer": "designer_outlet_parndorf",
     "shop": "clothes",
     "latitude": 47.9792998,
-    "longitude": 16.8466516
+    "longitude": 16.8466516,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Diesel",
@@ -212,14 +284,18 @@
     "shop": "clothes",
     "latitude": 47.9779592,
     "longitude": 16.8471467,
-    "brand": "Diesel"
+    "brand": "Diesel",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Digel",
     "retailer": "digel",
     "shop": "clothes",
     "latitude": 47.978752,
-    "longitude": 16.8493277
+    "longitude": 16.8493277,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "dm",
@@ -227,14 +303,22 @@
     "shop": "chemist",
     "latitude": 47.9722399,
     "longitude": 16.8412147,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "dm friseur- und kosmetikstudio",
     "retailer": "dm",
     "shop": "hairdresser",
     "latitude": 47.9721927,
-    "longitude": 16.8412206
+    "longitude": 16.8412206,
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Dolce & Gabbana",
@@ -242,7 +326,9 @@
     "shop": "clothes",
     "latitude": 47.97901,
     "longitude": 16.8462967,
-    "brand": "Dolce & Gabbana"
+    "brand": "Dolce & Gabbana",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Douglas",
@@ -250,14 +336,20 @@
     "shop": "perfumery",
     "latitude": 47.976748,
     "longitude": 16.8482793,
-    "brand": "Douglas"
+    "brand": "Douglas",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Dyson",
     "retailer": "dyson",
     "shop": "vacuum_cleaner",
     "latitude": 47.9780002,
-    "longitude": 16.8476546
+    "longitude": 16.8476546,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ernsting's family",
@@ -265,28 +357,40 @@
     "shop": "clothes",
     "latitude": 47.9729787,
     "longitude": 16.8413688,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Estella",
     "retailer": "estella",
     "shop": "clothes",
     "latitude": 47.9783947,
-    "longitude": 16.8490012
+    "longitude": 16.8490012,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Falke",
     "retailer": "falke",
     "shop": "clothes",
     "latitude": 47.9766353,
-    "longitude": 16.8484081
+    "longitude": 16.8484081,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fissler / Riedel",
     "retailer": "fissler_riedel",
     "shop": "houseware",
     "latitude": 47.9773922,
-    "longitude": 16.8489724
+    "longitude": 16.8489724,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Forstinger",
@@ -294,7 +398,11 @@
     "shop": "car_repair",
     "latitude": 47.9736005,
     "longitude": 16.8419271,
-    "brand": "Forstinger"
+    "brand": "Forstinger",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fossil",
@@ -302,28 +410,40 @@
     "shop": "watches",
     "latitude": 47.978526,
     "longitude": 16.8462204,
-    "brand": "Fossil"
+    "brand": "Fossil",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Frey Wille",
     "retailer": "frey_wille",
     "shop": "jewelry",
     "latitude": 47.978388,
-    "longitude": 16.8466754
+    "longitude": 16.8466754,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fur Gallery",
     "retailer": "fur_gallery",
     "shop": "clothes",
     "latitude": 47.9793682,
-    "longitude": 16.8498706
+    "longitude": 16.8498706,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Furla",
     "retailer": "furla",
     "shop": "fashion_accessories",
     "latitude": 47.9794983,
-    "longitude": 16.8462826
+    "longitude": 16.8462826,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "G-Star Raw",
@@ -331,21 +451,27 @@
     "shop": "clothes",
     "latitude": 47.9772019,
     "longitude": 16.8472983,
-    "brand": "G-Star Raw"
+    "brand": "G-Star Raw",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "G.G. Sun Optic",
     "retailer": "g_g_sun_optic",
     "shop": "optician",
     "latitude": 47.9792375,
-    "longitude": 16.8491461
+    "longitude": 16.8491461,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Gabor",
     "retailer": "gabor",
     "shop": "shoes",
     "latitude": 47.9781267,
-    "longitude": 16.8495008
+    "longitude": 16.8495008,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "GANT",
@@ -353,7 +479,9 @@
     "shop": "clothes",
     "latitude": 47.976443,
     "longitude": 16.8489363,
-    "brand": "GANT"
+    "brand": "GANT",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Geox",
@@ -361,7 +489,9 @@
     "shop": "shoes",
     "latitude": 47.9784218,
     "longitude": 16.8465595,
-    "brand": "Geox"
+    "brand": "Geox",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Gucci",
@@ -369,7 +499,9 @@
     "shop": "clothes",
     "latitude": 47.9795765,
     "longitude": 16.8472975,
-    "brand": "Gucci"
+    "brand": "Gucci",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Guess",
@@ -377,7 +509,9 @@
     "shop": "clothes",
     "latitude": 47.9770285,
     "longitude": 16.8475121,
-    "brand": "Guess"
+    "brand": "Guess",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Guess Accessories",
@@ -385,35 +519,45 @@
     "shop": "fashion_accessories",
     "latitude": 47.9762093,
     "longitude": 16.8494825,
-    "brand": "Guess"
+    "brand": "Guess",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Haribo",
     "retailer": "haribo",
     "shop": "confectionery",
     "latitude": 47.9761325,
-    "longitude": 16.8496852
+    "longitude": 16.8496852,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hechter Paris",
     "retailer": "hechter_paris",
     "shop": "clothes",
     "latitude": 47.9785657,
-    "longitude": 16.8486718
+    "longitude": 16.8486718,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hour Passion",
     "retailer": "hour_passion",
     "shop": "watches",
     "latitude": 47.9788141,
-    "longitude": 16.8468888
+    "longitude": 16.8468888,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Huber",
     "retailer": "huber",
     "shop": "clothes",
     "latitude": 47.9783433,
-    "longitude": 16.849498
+    "longitude": 16.849498,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hugo Boss",
@@ -421,7 +565,9 @@
     "shop": "clothes",
     "latitude": 47.9790655,
     "longitude": 16.8471145,
-    "brand": "Hugo Boss"
+    "brand": "Hugo Boss",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hugo Boss",
@@ -429,21 +575,29 @@
     "shop": "clothes",
     "latitude": 47.9798347,
     "longitude": 16.8467184,
-    "brand": "Hugo Boss"
+    "brand": "Hugo Boss",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Högl",
     "retailer": "hogl",
     "shop": "shoes",
     "latitude": 47.9765115,
-    "longitude": 16.8487487
+    "longitude": 16.8487487,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "iFLOW",
     "retailer": "iflow",
     "shop": "outdoor",
     "latitude": 47.9792415,
-    "longitude": 16.8498406
+    "longitude": 16.8498406,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Jack Wolfskin",
@@ -451,14 +605,20 @@
     "shop": "outdoor",
     "latitude": 47.9770058,
     "longitude": 16.849787,
-    "brand": "Jack Wolfskin"
+    "brand": "Jack Wolfskin",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Jacques Lemans",
     "retailer": "jacques_lemans",
     "shop": "watches",
     "latitude": 47.9787893,
-    "longitude": 16.8485019
+    "longitude": 16.8485019,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Jimmy Choo",
@@ -466,35 +626,49 @@
     "shop": "shoes",
     "latitude": 47.9794451,
     "longitude": 16.8462372,
-    "brand": "Jimmy Choo"
+    "brand": "Jimmy Choo",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Jones",
     "retailer": "jones",
     "shop": "clothes",
     "latitude": 47.9788487,
-    "longitude": 16.8485625
+    "longitude": 16.8485625,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Joop!",
     "retailer": "joop",
     "shop": "clothes",
     "latitude": 47.9782808,
-    "longitude": 16.8468893
+    "longitude": 16.8468893,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "JOOP! Women",
     "retailer": "joop_women",
     "shop": "clothes",
     "latitude": 47.9776622,
-    "longitude": 16.8483045
+    "longitude": 16.8483045,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Kapten & Son",
     "retailer": "kapten_und_son",
     "shop": "bag",
     "latitude": 47.9769424,
-    "longitude": 16.8476661
+    "longitude": 16.8476661,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Karl Lagerfeld",
@@ -502,7 +676,11 @@
     "shop": "clothes",
     "latitude": 47.9788978,
     "longitude": 16.8465722,
-    "brand": "Karl Lagerfeld"
+    "brand": "Karl Lagerfeld",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Kate Spade New York",
@@ -510,14 +688,18 @@
     "shop": "clothes",
     "latitude": 47.979142,
     "longitude": 16.846024,
-    "brand": "Kate Spade New York"
+    "brand": "Kate Spade New York",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "kidsonly",
     "retailer": "kidsonly",
     "shop": "clothes",
     "latitude": 47.979725,
-    "longitude": 16.8499858
+    "longitude": 16.8499858,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "KiK",
@@ -525,14 +707,20 @@
     "shop": "clothes",
     "latitude": 47.972573,
     "longitude": 16.8412907,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "L'Oréal",
     "retailer": "l_oreal",
     "shop": "cosmetics",
     "latitude": 47.9775277,
-    "longitude": 16.8472418
+    "longitude": 16.8472418,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lacoste",
@@ -540,7 +728,11 @@
     "shop": "clothes",
     "latitude": 47.9772674,
     "longitude": 16.8493026,
-    "brand": "Lacoste"
+    "brand": "Lacoste",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Le Creuset",
@@ -548,7 +740,9 @@
     "shop": "houseware",
     "latitude": 47.9764843,
     "longitude": 16.848831,
-    "brand": "Le Creuset"
+    "brand": "Le Creuset",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Le Creuset",
@@ -556,28 +750,36 @@
     "shop": "houseware",
     "latitude": 47.9770378,
     "longitude": 16.8498566,
-    "brand": "Le Creuset"
+    "brand": "Le Creuset",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ledercenter",
     "retailer": "ledercenter",
     "shop": "leather",
     "latitude": 47.9790142,
-    "longitude": 16.8491829
+    "longitude": 16.8491829,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lego Wear",
     "retailer": "lego_wear",
     "shop": "clothes",
     "latitude": 47.9785089,
-    "longitude": 16.848776
+    "longitude": 16.848776,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Leo Hillinger Weingut",
     "retailer": "leo_hillinger_weingut",
     "shop": "wine",
     "latitude": 47.9786381,
-    "longitude": 16.8485829
+    "longitude": 16.8485829,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Levi's",
@@ -585,7 +787,11 @@
     "shop": "clothes",
     "latitude": 47.9771037,
     "longitude": 16.847353,
-    "brand": "Levi's"
+    "brand": "Levi's",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Libro",
@@ -593,7 +799,11 @@
     "shop": "books",
     "latitude": 47.9736476,
     "longitude": 16.8413017,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lindt",
@@ -601,7 +811,11 @@
     "shop": "chocolate",
     "latitude": 47.9774929,
     "longitude": 16.8471454,
-    "brand": "Lindt"
+    "brand": "Lindt",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lindt & Sprüngli Lindt Outlet-Store",
@@ -609,7 +823,11 @@
     "shop": "chocolate",
     "latitude": 47.9768065,
     "longitude": 16.8481361,
-    "brand": "Lindt"
+    "brand": "Lindt",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Liu Jo",
@@ -617,7 +835,11 @@
     "shop": "clothes",
     "latitude": 47.9773657,
     "longitude": 16.8490491,
-    "brand": "Liu Jo"
+    "brand": "Liu Jo",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lloyd",
@@ -625,7 +847,9 @@
     "shop": "shoes",
     "latitude": 47.9781918,
     "longitude": 16.8493863,
-    "brand": "Lloyd"
+    "brand": "Lloyd",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Longchamp",
@@ -633,7 +857,9 @@
     "shop": "fashion_accessories",
     "latitude": 47.9791411,
     "longitude": 16.8471778,
-    "brand": "Longchamp"
+    "brand": "Longchamp",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Läderach",
@@ -641,14 +867,20 @@
     "shop": "chocolate",
     "latitude": 47.9763676,
     "longitude": 16.8490997,
-    "brand": "Läderach"
+    "brand": "Läderach",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Manner",
     "retailer": "manner",
     "shop": "chocolate",
     "latitude": 47.9763367,
-    "longitude": 16.8491829
+    "longitude": 16.8491829,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Matratzen Concord",
@@ -656,7 +888,11 @@
     "shop": "bed",
     "latitude": 47.9736323,
     "longitude": 16.841532,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "McArthurGlen Designer Outlet Parndorf",
@@ -664,7 +900,9 @@
     "shop": "mall",
     "latitude": 47.9770417,
     "longitude": 16.8486082,
-    "brand": "McArthurGlen"
+    "brand": "McArthurGlen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "McArthurGlen Designer Outlet Parndorf",
@@ -672,14 +910,19 @@
     "shop": "mall",
     "latitude": 47.9790824,
     "longitude": 16.846388,
-    "brand": "McArthurGlen"
+    "brand": "McArthurGlen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "McQueen",
     "retailer": "mcqueen",
     "shop": "clothes",
     "latitude": 47.9791968,
-    "longitude": 16.8468622
+    "longitude": 16.8468622,
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Michael Kors",
@@ -687,14 +930,18 @@
     "shop": "clothes",
     "latitude": 47.9797014,
     "longitude": 16.8464999,
-    "brand": "Michael Kors"
+    "brand": "Michael Kors",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Mobtel",
     "retailer": "mobtel",
     "shop": "mobile_phone",
     "latitude": 47.9786151,
-    "longitude": 16.8497024
+    "longitude": 16.8497024,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Moncler",
@@ -702,7 +949,9 @@
     "shop": "clothes",
     "latitude": 47.9792959,
     "longitude": 16.8472976,
-    "brand": "Moncler"
+    "brand": "Moncler",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Montblanc",
@@ -710,7 +959,9 @@
     "shop": "fashion_accessories",
     "latitude": 47.9787647,
     "longitude": 16.8468395,
-    "brand": "Montblanc"
+    "brand": "Montblanc",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Mustang",
@@ -718,28 +969,36 @@
     "shop": "clothes",
     "latitude": 47.9760973,
     "longitude": 16.8497854,
-    "brand": "Mustang"
+    "brand": "Mustang",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "My Burgenland",
     "retailer": "my_burgenland",
     "shop": "wine",
     "latitude": 47.9777546,
-    "longitude": 16.847244
+    "longitude": 16.847244,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "MyShoes",
     "retailer": "myshoes",
     "shop": "shoes",
     "latitude": 47.9726517,
-    "longitude": 16.8412996
+    "longitude": 16.8412996,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Möwe",
     "retailer": "mowe",
     "shop": "bathroom_furnishing",
     "latitude": 47.9786912,
-    "longitude": 16.8493673
+    "longitude": 16.8493673,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Nespresso",
@@ -747,7 +1006,9 @@
     "shop": "coffee",
     "latitude": 47.9787696,
     "longitude": 16.8464038,
-    "brand": "Nespresso"
+    "brand": "Nespresso",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "New Balance",
@@ -755,7 +1016,9 @@
     "shop": "shoes",
     "latitude": 47.9770065,
     "longitude": 16.8499473,
-    "brand": "New Balance"
+    "brand": "New Balance",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "NKD",
@@ -763,7 +1026,11 @@
     "shop": "clothes",
     "latitude": 47.9736629,
     "longitude": 16.8410595,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "O'Neill",
@@ -771,14 +1038,20 @@
     "shop": "clothes",
     "latitude": 47.9796347,
     "longitude": 16.8489251,
-    "brand": "O'Neill"
+    "brand": "O'Neill",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Original Salzburger Trachtenoutlet",
     "retailer": "original_salzburger_trachtenoutlet",
     "shop": "clothes",
     "latitude": 47.9774377,
-    "longitude": 16.8488666
+    "longitude": 16.8488666,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pagro",
@@ -786,7 +1059,11 @@
     "shop": "stationery",
     "latitude": 47.9723807,
     "longitude": 16.8412513,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pandora",
@@ -794,21 +1071,29 @@
     "shop": "jewelry",
     "latitude": 47.9791273,
     "longitude": 16.8463746,
-    "brand": "Pandora"
+    "brand": "Pandora",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pannonia Center",
     "retailer": "pannonia_center",
     "shop": "mall",
     "latitude": 47.9725611,
-    "longitude": 16.841339
+    "longitude": 16.841339,
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Parfumerie Alina",
     "retailer": "parfumerie_alina",
     "shop": "perfumery",
     "latitude": 47.9784599,
-    "longitude": 16.8494553
+    "longitude": 16.8494553,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Penny",
@@ -816,7 +1101,11 @@
     "shop": "supermarket",
     "latitude": 47.9721845,
     "longitude": 16.8400263,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pepe Jeans",
@@ -824,14 +1113,18 @@
     "shop": "clothes",
     "latitude": 47.9773187,
     "longitude": 16.8472768,
-    "brand": "Pepe Jeans"
+    "brand": "Pepe Jeans",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Philipp Plein",
     "retailer": "philipp_plein",
     "shop": "clothes",
     "latitude": 47.9787558,
-    "longitude": 16.8465279
+    "longitude": 16.8465279,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pierre Cardin",
@@ -839,7 +1132,9 @@
     "shop": "clothes",
     "latitude": 47.9788847,
     "longitude": 16.8488317,
-    "brand": "Pierre Cardin"
+    "brand": "Pierre Cardin",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pinko",
@@ -847,14 +1142,20 @@
     "shop": "clothes",
     "latitude": 47.9778363,
     "longitude": 16.8472117,
-    "brand": "Pinko"
+    "brand": "Pinko",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pollini",
     "retailer": "pollini",
     "shop": "fashion_accessories",
     "latitude": 47.9795753,
-    "longitude": 16.8463962
+    "longitude": 16.8463962,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Polo Ralph Lauren",
@@ -862,7 +1163,11 @@
     "shop": "clothes",
     "latitude": 47.9764905,
     "longitude": 16.8497591,
-    "brand": "Polo Ralph Lauren"
+    "brand": "Polo Ralph Lauren",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Porsche Design",
@@ -870,7 +1175,9 @@
     "shop": "fashion_accessories",
     "latitude": 47.9781148,
     "longitude": 16.8470472,
-    "brand": "Porsche Design"
+    "brand": "Porsche Design",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Prada",
@@ -878,7 +1185,9 @@
     "shop": "clothes",
     "latitude": 47.9793871,
     "longitude": 16.8465552,
-    "brand": "Prada"
+    "brand": "Prada",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Puma Outlet",
@@ -886,7 +1195,9 @@
     "shop": "clothes",
     "latitude": 47.9765482,
     "longitude": 16.8486398,
-    "brand": "Puma Outlet"
+    "brand": "Puma Outlet",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Quiksilver",
@@ -894,28 +1205,36 @@
     "shop": "clothes",
     "latitude": 47.9784821,
     "longitude": 16.8497507,
-    "brand": "Quiksilver"
+    "brand": "Quiksilver",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Rabe",
     "retailer": "rabe",
     "shop": "clothes",
     "latitude": 47.9798981,
-    "longitude": 16.8499148
+    "longitude": 16.8499148,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ravensburger",
     "retailer": "ravensburger",
     "shop": "model",
     "latitude": 47.9765927,
-    "longitude": 16.8485155
+    "longitude": 16.8485155,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Red Bull World",
     "retailer": "red_bull_world",
     "shop": "clothes",
     "latitude": 47.9771097,
-    "longitude": 16.849501
+    "longitude": 16.849501,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Regatta Great Outdoors",
@@ -923,14 +1242,20 @@
     "shop": "outdoor",
     "latitude": 47.9787159,
     "longitude": 16.8496598,
-    "brand": "Regatta Great Outdoors"
+    "brand": "Regatta Great Outdoors",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Reifen Ritz",
     "retailer": "reifen_ritz",
     "shop": "tyres",
     "latitude": 47.9706893,
-    "longitude": 16.8497145
+    "longitude": 16.8497145,
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Replay",
@@ -938,14 +1263,22 @@
     "shop": "clothes",
     "latitude": 47.9792546,
     "longitude": 16.8493674,
-    "brand": "Replay"
+    "brand": "Replay",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Retro Jeans",
     "retailer": "retro_jeans",
     "shop": "clothes",
     "latitude": 47.9791766,
-    "longitude": 16.849157
+    "longitude": 16.849157,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Rituals",
@@ -953,21 +1286,29 @@
     "shop": "cosmetics",
     "latitude": 47.9777348,
     "longitude": 16.8481224,
-    "brand": "Rituals"
+    "brand": "Rituals",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Rosentahl",
     "retailer": "rosentahl",
     "shop": "houseware",
     "latitude": 47.977607,
-    "longitude": 16.8484445
+    "longitude": 16.8484445,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Rösle",
     "retailer": "rosle",
     "shop": "houseware",
     "latitude": 47.976413,
-    "longitude": 16.8490065
+    "longitude": 16.8490065,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "s.Oliver",
@@ -975,14 +1316,18 @@
     "shop": "clothes",
     "latitude": 47.978686,
     "longitude": 16.8489192,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Salewa",
     "retailer": "salewa",
     "shop": "outdoor",
     "latitude": 47.9792537,
-    "longitude": 16.8487172
+    "longitude": 16.8487172,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Samsonite",
@@ -990,21 +1335,29 @@
     "shop": "bag",
     "latitude": 47.9772342,
     "longitude": 16.8493939,
-    "brand": "Samsonite"
+    "brand": "Samsonite",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Schiesser",
     "retailer": "schiesser",
     "shop": "clothes",
     "latitude": 47.978932,
-    "longitude": 16.8485569
+    "longitude": 16.8485569,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Schöffel",
     "retailer": "schoffel",
     "shop": "clothes",
     "latitude": 47.9791495,
-    "longitude": 16.8494261
+    "longitude": 16.8494261,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Seidensticker",
@@ -1012,63 +1365,83 @@
     "shop": "clothes",
     "latitude": 47.9762988,
     "longitude": 16.8492786,
-    "brand": "Seidensticker"
+    "brand": "Seidensticker",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Skiny",
     "retailer": "skiny",
     "shop": "clothes",
     "latitude": 47.9793252,
-    "longitude": 16.8496714
+    "longitude": 16.8496714,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Sonnenstudio sun for you",
     "retailer": "sonnenstudio_sun_for_you",
     "shop": "beauty",
     "latitude": 47.9719761,
-    "longitude": 16.8411586
+    "longitude": 16.8411586,
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Sportalm",
     "retailer": "sportalm",
     "shop": "clothes",
     "latitude": 47.976174,
-    "longitude": 16.8495818
+    "longitude": 16.8495818,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Stone Island",
     "retailer": "stone_island",
     "shop": "clothes",
     "latitude": 47.9788968,
-    "longitude": 16.8469569
+    "longitude": 16.8469569,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 47.9718251,
-    "longitude": 16.8434039
+    "longitude": 16.8434039,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 47.9721433,
-    "longitude": 16.8434741
+    "longitude": 16.8434741,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 47.9723209,
-    "longitude": 16.8435392
+    "longitude": 16.8435392,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 47.9726246,
-    "longitude": 16.8435898
+    "longitude": 16.8435898,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Street One",
@@ -1076,7 +1449,9 @@
     "shop": "clothes",
     "latitude": 47.9779753,
     "longitude": 16.8497932,
-    "brand": "Street One"
+    "brand": "Street One",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ströck",
@@ -1084,21 +1459,27 @@
     "shop": "bakery",
     "latitude": 47.9771722,
     "longitude": 16.8475329,
-    "brand": "Ströck"
+    "brand": "Ströck",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Sunglass Time",
     "retailer": "sunglass_time",
     "shop": "optician",
     "latitude": 47.9774108,
-    "longitude": 16.8472598
+    "longitude": 16.8472598,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Sunglasses Outlet",
     "retailer": "sunglasses_outlet",
     "shop": "optician",
     "latitude": 47.9790851,
-    "longitude": 16.849455
+    "longitude": 16.849455,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Swarovski",
@@ -1106,7 +1487,9 @@
     "shop": "jewelry",
     "latitude": 47.9789627,
     "longitude": 16.8470099,
-    "brand": "Swarovski"
+    "brand": "Swarovski",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Takko Fashion",
@@ -1114,7 +1497,11 @@
     "shop": "clothes",
     "latitude": 47.9721001,
     "longitude": 16.8411989,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "The Body Shop",
@@ -1122,14 +1509,18 @@
     "shop": "cosmetics",
     "latitude": 47.9775845,
     "longitude": 16.847233,
-    "brand": "The Body Shop"
+    "brand": "The Body Shop",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "The Cosmetics Company Store",
     "retailer": "the_cosmetics_company_store",
     "shop": "chemist",
     "latitude": 47.9776446,
-    "longitude": 16.8472238
+    "longitude": 16.8472238,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "The North Face",
@@ -1137,7 +1528,10 @@
     "shop": "clothes",
     "latitude": 47.9770362,
     "longitude": 16.8496934,
-    "brand": "The North Face"
+    "brand": "The North Face",
+    "postcode": "7111",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Timberland",
@@ -1145,7 +1539,11 @@
     "shop": "clothes",
     "latitude": 47.9768798,
     "longitude": 16.8478247,
-    "brand": "Timberland"
+    "brand": "Timberland",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Tod's",
@@ -1153,7 +1551,9 @@
     "shop": "shoes",
     "latitude": 47.978932,
     "longitude": 16.8458454,
-    "brand": "Tod's"
+    "brand": "Tod's",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Tommy Hilfiger",
@@ -1161,14 +1561,18 @@
     "shop": "clothes",
     "latitude": 47.9774593,
     "longitude": 16.8485842,
-    "brand": "Tommy Hilfiger"
+    "brand": "Tommy Hilfiger",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Trespass",
     "retailer": "trespass",
     "shop": "outdoor",
     "latitude": 47.9790979,
-    "longitude": 16.8491658
+    "longitude": 16.8491658,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Triumph Factory Outlet",
@@ -1176,7 +1580,9 @@
     "shop": "clothes",
     "latitude": 47.9794381,
     "longitude": 16.8490721,
-    "brand": "Triumph"
+    "brand": "Triumph",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "UGG",
@@ -1184,7 +1590,9 @@
     "shop": "shoes",
     "latitude": 47.9786716,
     "longitude": 16.8467709,
-    "brand": "UGG"
+    "brand": "UGG",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ulla Popken",
@@ -1192,7 +1600,9 @@
     "shop": "clothes",
     "latitude": 47.979216,
     "longitude": 16.8497242,
-    "brand": "Ulla Popken"
+    "brand": "Ulla Popken",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Valentino",
@@ -1200,7 +1610,9 @@
     "shop": "clothes",
     "latitude": 47.9792616,
     "longitude": 16.8469104,
-    "brand": "Valentino"
+    "brand": "Valentino",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Vero Moda",
@@ -1208,7 +1620,9 @@
     "shop": "clothes",
     "latitude": 47.9791245,
     "longitude": 16.8486548,
-    "brand": "Vero Moda"
+    "brand": "Vero Moda",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Versace",
@@ -1216,14 +1630,20 @@
     "shop": "clothes",
     "latitude": 47.9794354,
     "longitude": 16.8473572,
-    "brand": "Versace"
+    "brand": "Versace",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Vossen / Billerbeck",
     "retailer": "vossen_billerbeck",
     "shop": "bathroom_furnishing",
     "latitude": 47.9788318,
-    "longitude": 16.8496144
+    "longitude": 16.8496144,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "WMF",
@@ -1231,28 +1651,42 @@
     "shop": "houseware",
     "latitude": 47.9776346,
     "longitude": 16.8483736,
-    "brand": "WMF"
+    "brand": "WMF",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "WMF / Riess / Kelomat",
     "retailer": "wmf_riess_kelomat",
     "shop": "kitchen",
     "latitude": 47.9794237,
-    "longitude": 16.8488024
+    "longitude": 16.8488024,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Woolrich",
     "retailer": "woolrich",
     "shop": "clothes",
     "latitude": 47.9776937,
-    "longitude": 16.8482202
+    "longitude": 16.8482202,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Wrstbhvr",
     "retailer": "wrstbhvr",
     "shop": "clothes",
     "latitude": 47.9792269,
-    "longitude": 16.8472443
+    "longitude": 16.8472443,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Würth Kundenzentrum Neusiedl am See",
@@ -1260,7 +1694,11 @@
     "shop": "hardware",
     "latitude": 47.9736085,
     "longitude": 16.8417466,
-    "brand": "Würth"
+    "brand": "Würth",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Zegna Outlet Store",
@@ -1268,27 +1706,39 @@
     "shop": "clothes",
     "latitude": 47.978183,
     "longitude": 16.8469838,
-    "brand": "Zegna"
+    "brand": "Zegna",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Zoo Center",
     "retailer": "zoo_center",
     "shop": "pet",
     "latitude": 47.971833,
-    "longitude": 16.8411394
+    "longitude": 16.8411394,
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Zwiling",
     "retailer": "zwiling",
     "shop": "houseware",
     "latitude": 47.9795238,
-    "longitude": 16.8488705
+    "longitude": 16.8488705,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Zwilling",
     "retailer": "zwilling",
     "shop": "houseware",
     "latitude": 47.9773083,
-    "longitude": 16.8491904
+    "longitude": 16.8491904,
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

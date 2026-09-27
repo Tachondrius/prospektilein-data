@@ -5,34 +5,54 @@
     "shop": "supermarket",
     "latitude": 47.2603926,
     "longitude": 9.5993873,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Allgäuer Hof Gisingen",
     "retailer": "allgauer_hof_gisingen",
     "shop": "farm",
     "latitude": 47.2668211,
-    "longitude": 9.5956638
+    "longitude": 9.5956638,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ehrne Bioladen",
     "retailer": "ehrne_bioladen",
     "shop": "convenience",
     "latitude": 47.2621733,
-    "longitude": 9.5976455
+    "longitude": 9.5976455,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fahrrad Nachbaur",
     "retailer": "fahrrad_nachbaur",
     "shop": "bicycle",
     "latitude": 47.263703,
-    "longitude": 9.5907915
+    "longitude": 9.5907915,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Marte",
     "retailer": "marte",
     "shop": "car_repair",
     "latitude": 47.2607296,
-    "longitude": 9.5968346
+    "longitude": 9.5968346,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

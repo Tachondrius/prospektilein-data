@@ -4,20 +4,30 @@
     "retailer": "die_peckerei",
     "shop": "hairdresser",
     "latitude": 47.9966416,
-    "longitude": 13.6439264
+    "longitude": 13.6439264,
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mini Markt",
     "retailer": "mini_markt",
     "shop": "convenience",
     "latitude": 47.9970549,
-    "longitude": 13.6448593
+    "longitude": 13.6448593,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabakfachgeschäft Eschbach",
     "retailer": "tabakfachgeschaft_eschbach",
     "shop": "kiosk",
     "latitude": 47.9970717,
-    "longitude": 13.6446957
+    "longitude": 13.6446957,
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

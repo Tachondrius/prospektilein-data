@@ -4,13 +4,19 @@
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 47.449293,
-    "longitude": 15.8384186
+    "longitude": 15.8384186,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "SPAR Markt Sedelmaier",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 47.4491487,
-    "longitude": 15.8367259
+    "longitude": 15.8367259,
+    "postcode": "8253",
+    "city": "Waldbach-Mönichwald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

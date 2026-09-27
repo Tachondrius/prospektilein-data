@@ -4,13 +4,19 @@
     "retailer": "kfz_werkstatt_hechl",
     "shop": "car_repair",
     "latitude": 47.6756547,
-    "longitude": 12.1847041
+    "longitude": 12.1847041,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "New Wave Austria Bekleidung",
     "retailer": "new_wave_austria_bekleidung",
     "shop": "fabric",
     "latitude": 47.6709439,
-    "longitude": 12.1811604
+    "longitude": 12.1811604,
+    "postcode": "6343",
+    "city": "Erl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

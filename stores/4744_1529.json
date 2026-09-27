@@ -5,7 +5,11 @@
     "shop": "telecommunication",
     "latitude": 47.4441645,
     "longitude": 15.2911134,
-    "brand": "A1"
+    "brand": "A1",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Admiral Sportsbar",
@@ -13,7 +17,11 @@
     "shop": "bookmaker",
     "latitude": 47.4445865,
     "longitude": 15.2929284,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -21,7 +29,11 @@
     "shop": "supermarket",
     "latitude": 47.4442689,
     "longitude": 15.2911255,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -29,21 +41,33 @@
     "shop": "supermarket",
     "latitude": 47.4466694,
     "longitude": 15.2998463,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Buchgraber & Buchberger",
     "retailer": "buchgraber_und_buchberger",
     "shop": "butcher",
     "latitude": 47.4442732,
-    "longitude": 15.2912077
+    "longitude": 15.2912077,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Köck",
     "retailer": "backerei_kock",
     "shop": "bakery",
     "latitude": 47.4442507,
-    "longitude": 15.2911614
+    "longitude": 15.2911614,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "C&A",
@@ -51,7 +75,11 @@
     "shop": "clothes",
     "latitude": 47.4443819,
     "longitude": 15.2913,
-    "brand": "C&A"
+    "brand": "C&A",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -59,7 +87,11 @@
     "shop": "chemist",
     "latitude": 47.4438287,
     "longitude": 15.2903524,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Drei",
@@ -67,14 +99,22 @@
     "shop": "telecommunication",
     "latitude": 47.4442066,
     "longitude": 15.2912471,
-    "brand": "Drei"
+    "brand": "Drei",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ece-Kapfenberg",
     "retailer": "ece_kapfenberg",
     "shop": "mall",
     "latitude": 47.4443381,
-    "longitude": 15.291301
+    "longitude": 15.291301,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ElectronicShop24",
@@ -82,21 +122,31 @@
     "shop": "electronics",
     "latitude": 47.4427671,
     "longitude": 15.2903343,
-    "brand": "ElectronicShop24"
+    "brand": "ElectronicShop24",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "emb.bike",
     "retailer": "emb_bike",
     "shop": "bicycle",
     "latitude": 47.4440627,
-    "longitude": 15.292914
+    "longitude": 15.292914,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Europa-Apotheke",
     "retailer": "europa_apotheke",
     "shop": "chemist",
     "latitude": 47.4439471,
-    "longitude": 15.2921993
+    "longitude": 15.2921993,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eurospar",
@@ -104,21 +154,29 @@
     "shop": "supermarket",
     "latitude": 47.4455772,
     "longitude": 15.2950335,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fuchs",
     "retailer": "fuchs",
     "shop": "bakery",
     "latitude": 47.4441119,
-    "longitude": 15.2930318
+    "longitude": 15.2930318,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gruber Reisen",
     "retailer": "gruber_reisen",
     "shop": "travel_agency",
     "latitude": 47.4438995,
-    "longitude": 15.2905238
+    "longitude": 15.2905238,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "H&M",
@@ -126,14 +184,22 @@
     "shop": "clothes",
     "latitude": 47.4439477,
     "longitude": 15.2906416,
-    "brand": "H&M"
+    "brand": "H&M",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HAUPTSACHE",
     "retailer": "hauptsache",
     "shop": "hairdresser",
     "latitude": 47.445757,
-    "longitude": 15.2966496
+    "longitude": 15.2966496,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -141,7 +207,11 @@
     "shop": "clothes",
     "latitude": 47.444125,
     "longitude": 15.2905456,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
@@ -149,14 +219,22 @@
     "shop": "hairdresser",
     "latitude": 47.443961,
     "longitude": 15.2906945,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Koini",
     "retailer": "koini",
     "shop": "bakery",
     "latitude": 47.4458251,
-    "longitude": 15.2975004
+    "longitude": 15.2975004,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Magenta",
@@ -164,14 +242,22 @@
     "shop": "telecommunication",
     "latitude": 47.4441958,
     "longitude": 15.2912126,
-    "brand": "Magenta"
+    "brand": "Magenta",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mürztaler Reisebüro",
     "retailer": "murztaler_reiseburo",
     "shop": "travel_agency",
     "latitude": 47.4436275,
-    "longitude": 15.2912544
+    "longitude": 15.2912544,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "New Yorker",
@@ -179,14 +265,20 @@
     "shop": "clothes",
     "latitude": 47.4438212,
     "longitude": 15.2904053,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Optician",
     "retailer": "shop_optician",
     "shop": "optician",
     "latitude": 47.4429545,
-    "longitude": 15.2900582
+    "longitude": 15.2900582,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "sehen!wutscher",
@@ -194,7 +286,11 @@
     "shop": "optician",
     "latitude": 47.4427838,
     "longitude": 15.2900759,
-    "brand": "sehen!wutscher"
+    "brand": "sehen!wutscher",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sonnentor",
@@ -202,14 +298,20 @@
     "shop": "tea",
     "latitude": 47.4439044,
     "longitude": 15.292088,
-    "brand": "Sonnentor"
+    "brand": "Sonnentor",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tattoos",
     "retailer": "tattoos",
     "shop": "tattoo",
     "latitude": 47.4442856,
-    "longitude": 15.2920611
+    "longitude": 15.2920611,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -217,7 +319,11 @@
     "shop": "variety_store",
     "latitude": 47.4442299,
     "longitude": 15.2913086,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Thalia",
@@ -225,13 +331,19 @@
     "shop": "books",
     "latitude": 47.4443686,
     "longitude": 15.2912723,
-    "brand": "Thalia"
+    "brand": "Thalia",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.4455284,
-    "longitude": 15.2948055
+    "longitude": 15.2948055,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

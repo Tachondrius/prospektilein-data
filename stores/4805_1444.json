@@ -4,14 +4,22 @@
     "retailer": "bestdrive_steyr",
     "shop": "tyres",
     "latitude": 48.0557204,
-    "longitude": 14.4498314
+    "longitude": 14.4498314,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "EP:Elcont Plus Steyr",
     "retailer": "ep_elcont_plus_steyr",
     "shop": "electrical",
     "latitude": 48.0559857,
-    "longitude": 14.4499543
+    "longitude": 14.4499543,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -19,20 +27,32 @@
     "shop": "supermarket",
     "latitude": 48.0527771,
     "longitude": 14.4415293,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik Haider",
     "retailer": "trafik_haider",
     "shop": "kiosk",
     "latitude": 48.0528617,
-    "longitude": 14.4403165
+    "longitude": 14.4403165,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zellinger",
     "retailer": "zellinger",
     "shop": "butcher",
     "latitude": 48.057952,
-    "longitude": 14.441357
+    "longitude": 14.441357,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

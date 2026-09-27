@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 46.8373986,
     "longitude": 14.8389728,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "9400",
+    "city": "Wolfsberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -13,14 +17,20 @@
     "shop": "chemist",
     "latitude": 46.8382954,
     "longitude": 14.839139,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9400",
+    "city": "Wolfsberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Dan Küchen",
     "retailer": "dan_kuchen",
     "shop": "kitchen",
     "latitude": 46.8384,
-    "longitude": 14.8393
+    "longitude": 14.8393,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fussl",
@@ -28,7 +38,9 @@
     "shop": "clothes",
     "latitude": 46.8385981,
     "longitude": 14.8393,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Intersport",
@@ -36,6 +48,8 @@
     "shop": "sports",
     "latitude": 46.8376439,
     "longitude": 14.8391596,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

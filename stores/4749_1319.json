@@ -4,13 +4,19 @@
     "retailer": "besucherzentrum_eisriesenwelt",
     "shop": "ticket",
     "latitude": 47.4975623,
-    "longitude": 13.1936451
+    "longitude": 13.1936451,
+    "postcode": "5450",
+    "city": "Werfen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 47.4975458,
-    "longitude": 13.1935347
+    "longitude": 13.1935347,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

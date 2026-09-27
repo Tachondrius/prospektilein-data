@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 48.0368978,
     "longitude": 15.7687196,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "3170",
+    "city": "Hainfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Baumarkt Josef Lux und Sohn Baumeister Ges.m.b.H.",
     "retailer": "baumarkt_josef_lux_und_sohn_baumeister_ges_m_b_h",
     "shop": "doityourself",
     "latitude": 48.0396156,
-    "longitude": 15.7665316
+    "longitude": 15.7665316,
+    "postcode": "3170",
+    "city": "Hainfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -20,28 +28,42 @@
     "shop": "supermarket",
     "latitude": 48.0371911,
     "longitude": 15.7646318,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3170",
+    "city": "Hainfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "eni shop",
     "retailer": "eni_shop",
     "shop": "convenience",
     "latitude": 48.0379925,
-    "longitude": 15.762882
+    "longitude": 15.762882,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haarstudio Marianne",
     "retailer": "haarstudio_marianne",
     "shop": "hairdresser",
     "latitude": 48.0366287,
-    "longitude": 15.7693293
+    "longitude": 15.7693293,
+    "postcode": "3170",
+    "city": "Hainfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kirchtalfisch",
     "retailer": "kirchtalfisch",
     "shop": "farm",
     "latitude": 48.031375,
-    "longitude": 15.7638424
+    "longitude": 15.7638424,
+    "postcode": "3170",
+    "city": "Hainfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -49,6 +71,8 @@
     "shop": "supermarket",
     "latitude": 48.0372784,
     "longitude": 15.7639142,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,56 +5,78 @@
     "shop": "doityourself",
     "latitude": 47.5010832,
     "longitude": 9.7372812,
-    "brand": "Bauhaus"
+    "brand": "Bauhaus",
+    "postcode": "6900",
+    "city": "Bregenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Egger Zweirad",
     "retailer": "egger_zweirad",
     "shop": "bicycle",
     "latitude": 47.5010891,
-    "longitude": 9.736602
+    "longitude": 9.736602,
+    "postcode": "6900",
+    "city": "Bregenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fat Foogo",
     "retailer": "fat_foogo",
     "shop": "tattoo",
     "latitude": 47.5011052,
-    "longitude": 9.7312918
+    "longitude": 9.7312918,
+    "postcode": "6900",
+    "city": "Bregenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.5023001,
-    "longitude": 9.7399189
+    "longitude": 9.7399189,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.5051759,
-    "longitude": 9.7359788
+    "longitude": 9.7359788,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.5056874,
-    "longitude": 9.7318297
+    "longitude": 9.7318297,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kiosk, Trafik am Stadion",
     "retailer": "kiosk_trafik_am_stadion",
     "shop": "kiosk",
     "latitude": 47.5029836,
-    "longitude": 9.7344614
+    "longitude": 9.7344614,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Laundry",
     "retailer": "shop_laundry",
     "shop": "laundry",
     "latitude": 47.5013726,
-    "longitude": 9.7354179
+    "longitude": 9.7354179,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lidl",
@@ -62,13 +84,19 @@
     "shop": "supermarket",
     "latitude": 47.5008551,
     "longitude": 9.7373548,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "6900",
+    "city": "Bregenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "UFER.kuchl",
     "retailer": "ufer_kuchl",
     "shop": "kiosk",
     "latitude": 47.5046567,
-    "longitude": 9.735154
+    "longitude": 9.735154,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

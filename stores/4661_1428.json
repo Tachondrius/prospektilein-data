@@ -4,21 +4,28 @@
     "retailer": "an_t_ra",
     "shop": "antiques",
     "latitude": 46.613169,
-    "longitude": 14.2878352
+    "longitude": 14.2878352,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bauernladen Familie Krenn",
     "retailer": "bauernladen_familie_krenn",
     "shop": "convenience",
     "latitude": 46.6137463,
-    "longitude": 14.2898973
+    "longitude": 14.2898973,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Beinl Ihr Zweiradfachmann",
     "retailer": "beinl_ihr_zweiradfachmann",
     "shop": "bicycle",
     "latitude": 46.6127431,
-    "longitude": 14.2867451
+    "longitude": 14.2867451,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -26,35 +33,47 @@
     "shop": "supermarket",
     "latitude": 46.6108856,
     "longitude": 14.280871,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bio Laden",
     "retailer": "bio_laden",
     "shop": "health_food",
     "latitude": 46.6130544,
-    "longitude": 14.2882459
+    "longitude": 14.2882459,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Christin",
     "retailer": "christin",
     "shop": "clothes",
     "latitude": 46.6131461,
-    "longitude": 14.287711
+    "longitude": 14.287711,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Dry Cleaning",
     "retailer": "shop_dry_cleaning",
     "shop": "dry_cleaning",
     "latitude": 46.6150449,
-    "longitude": 14.2831519
+    "longitude": 14.2831519,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Dry Cleaning",
     "retailer": "shop_dry_cleaning",
     "shop": "dry_cleaning",
     "latitude": 46.6193485,
-    "longitude": 14.2833039
+    "longitude": 14.2833039,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eni Shop",
@@ -62,77 +81,107 @@
     "shop": "convenience",
     "latitude": 46.619725,
     "longitude": 14.2821797,
-    "brand": "Eni Shop"
+    "brand": "Eni Shop",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Farben Schellander",
     "retailer": "farben_schellander",
     "shop": "paint",
     "latitude": 46.6195151,
-    "longitude": 14.2833094
+    "longitude": 14.2833094,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "gesh",
     "retailer": "gesh",
     "shop": "cosmetics",
     "latitude": 46.6130277,
-    "longitude": 14.2881082
+    "longitude": 14.2881082,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.6138418,
-    "longitude": 14.2837339
+    "longitude": 14.2837339,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kärntner Nudelmanufaktur",
     "retailer": "karntner_nudelmanufaktur",
     "shop": "pasta",
     "latitude": 46.6131404,
-    "longitude": 14.2888539
+    "longitude": 14.2888539,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ladinser",
     "retailer": "ladinser",
     "shop": "bathroom_furnishing",
     "latitude": 46.6135274,
-    "longitude": 14.2899641
+    "longitude": 14.2899641,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Maistro",
     "retailer": "maistro",
     "shop": "convenience",
     "latitude": 46.6152652,
-    "longitude": 14.284815
+    "longitude": 14.284815,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Naturkosmetik Langer",
     "retailer": "naturkosmetik_langer",
     "shop": "beauty",
     "latitude": 46.6131564,
-    "longitude": 14.2877789
+    "longitude": 14.2877789,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Osteopathie & Heilmassage Petrovič",
     "retailer": "osteopathie_und_heilmassage_petrovic",
     "shop": "massage",
     "latitude": 46.6199788,
-    "longitude": 14.2832216
+    "longitude": 14.2832216,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Prestige",
     "retailer": "prestige",
     "shop": "hairdresser",
     "latitude": 46.6152662,
-    "longitude": 14.2836312
+    "longitude": 14.2836312,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Preyhaupt Andrea Elisabteh",
     "retailer": "preyhaupt_andrea_elisabteh",
     "shop": "clothes",
     "latitude": 46.6134385,
-    "longitude": 14.2881647
+    "longitude": 14.2881647,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -140,21 +189,30 @@
     "shop": "supermarket",
     "latitude": 46.6131074,
     "longitude": 14.2833711,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Top Flowers",
     "retailer": "top_flowers",
     "shop": "florist",
     "latitude": 46.6134593,
-    "longitude": 14.2833355
+    "longitude": 14.2833355,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ute Habenicht",
     "retailer": "ute_habenicht",
     "shop": "jewelry",
     "latitude": 46.613267,
-    "longitude": 14.2882212
+    "longitude": 14.2882212,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wienerroither",
@@ -162,20 +220,29 @@
     "shop": "bakery",
     "latitude": 46.6129485,
     "longitude": 14.2876331,
-    "brand": "Wienerroither"
+    "brand": "Wienerroither",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "ZIRNIG Autowerkstätten KG (Peugeot Zirnig)",
     "retailer": "zirnig_autowerkstatten_kg_peugeot_zirnig",
     "shop": "car_repair",
     "latitude": 46.6160778,
-    "longitude": 14.2890364
+    "longitude": 14.2890364,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Änderungs-Schneiderei",
     "retailer": "anderungs_schneiderei",
     "shop": "tailor",
     "latitude": 46.6130024,
-    "longitude": 14.2879696
+    "longitude": 14.2879696,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

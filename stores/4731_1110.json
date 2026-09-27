@@ -4,7 +4,10 @@
     "retailer": "cube_store_bike_palast",
     "shop": "sports",
     "latitude": 47.3129672,
-    "longitude": 11.1015949
+    "longitude": 11.1015949,
+    "postcode": "6410",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth",
@@ -12,6 +15,10 @@
     "shop": "hardware",
     "latitude": 47.31334,
     "longitude": 11.1010619,
-    "brand": "Würth"
+    "brand": "Würth",
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

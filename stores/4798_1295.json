@@ -4,14 +4,20 @@
     "retailer": "autohandel_hg",
     "shop": "car",
     "latitude": 47.9855023,
-    "longitude": 12.9541465
+    "longitude": 12.9541465,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "kids-team",
     "retailer": "kids_team",
     "shop": "books",
     "latitude": 47.9869784,
-    "longitude": 12.9520531
+    "longitude": 12.9520531,
+    "postcode": "5112",
+    "city": "Lamprechtshausen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lidl",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 47.9886593,
     "longitude": 12.9559529,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "5112",
+    "city": "Lamprechtshausen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "chemist",
     "latitude": 46.9395965,
     "longitude": 16.1519218,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8380",
+    "city": "Jennersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Eurospar",
@@ -13,14 +17,22 @@
     "shop": "supermarket",
     "latitude": 46.9397029,
     "longitude": 16.1525584,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8380",
+    "city": "Jennersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "FMZ Jennersdorf",
     "retailer": "fmz_jennersdorf",
     "shop": "mall",
     "latitude": 46.9396062,
-    "longitude": 16.1522152
+    "longitude": 16.1522152,
+    "postcode": "8380",
+    "city": "Jennersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hofer",
@@ -28,7 +40,11 @@
     "shop": "supermarket",
     "latitude": 46.9389139,
     "longitude": 16.150561,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8380",
+    "city": "Jennersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "NKD",
@@ -36,14 +52,22 @@
     "shop": "clothes",
     "latitude": 46.9396099,
     "longitude": 16.152097,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8380",
+    "city": "Jennersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pflanzenwelt Langer",
     "retailer": "pflanzenwelt_langer",
     "shop": "florist",
     "latitude": 46.9395924,
-    "longitude": 16.1518429
+    "longitude": 16.1518429,
+    "postcode": "8380",
+    "city": "Jennersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Quick Schuh",
@@ -51,6 +75,10 @@
     "shop": "shoes",
     "latitude": 46.9396146,
     "longitude": 16.1522879,
-    "brand": "Quick Schuh"
+    "brand": "Quick Schuh",
+    "postcode": "8380",
+    "city": "Jennersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

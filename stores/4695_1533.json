@@ -4,7 +4,11 @@
     "retailer": "der_preis_pirat",
     "shop": "variety_store",
     "latitude": 46.951923,
-    "longitude": 15.3399931
+    "longitude": 15.3399931,
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Offroadtrucks.eu",
@@ -12,7 +16,11 @@
     "shop": "car",
     "latitude": 46.9556421,
     "longitude": 15.3310862,
-    "brand": "Mercedes, MAN, Iveco, Steyr, Saurer und Puch"
+    "brand": "Mercedes, MAN, Iveco, Steyr, Saurer und Puch",
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -20,6 +28,10 @@
     "shop": "variety_store",
     "latitude": 46.9516348,
     "longitude": 15.3398264,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

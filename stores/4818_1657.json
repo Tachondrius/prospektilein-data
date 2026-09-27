@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.1897924,
     "longitude": 16.5772678,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Holzhandel Moldaschl",
     "retailer": "holzhandel_moldaschl",
     "shop": "trade",
     "latitude": 48.1853838,
-    "longitude": 16.5797706
+    "longitude": 16.5797706,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

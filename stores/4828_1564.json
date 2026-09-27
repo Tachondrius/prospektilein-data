@@ -4,13 +4,19 @@
     "retailer": "pepi_oma_s_speis",
     "shop": "farm",
     "latitude": 48.2883492,
-    "longitude": 15.6481361
+    "longitude": 15.6481361,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PKB Performance",
     "retailer": "pkb_performance",
     "shop": "motorcycle_repair",
     "latitude": 48.2855275,
-    "longitude": 15.6487343
+    "longitude": 15.6487343,
+    "postcode": "3125",
+    "city": "Rottersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

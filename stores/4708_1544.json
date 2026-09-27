@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 47.0813716,
     "longitude": 15.4446462,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Salon Anny",
     "retailer": "salon_anny",
     "shop": "hairdresser",
     "latitude": 47.0804708,
-    "longitude": 15.4453679
+    "longitude": 15.4453679,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -20,13 +28,21 @@
     "shop": "supermarket",
     "latitude": 47.0803147,
     "longitude": 15.4449947,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "sun group",
     "retailer": "sun_group",
     "shop": "beauty",
     "latitude": 47.0806217,
-    "longitude": 15.4452727
+    "longitude": 15.4452727,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

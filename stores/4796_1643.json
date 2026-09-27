@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 47.962145,
     "longitude": 16.4358854,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2442",
+    "city": "Unterwaltersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Miltner",
     "retailer": "kfz_miltner",
     "shop": "car_repair",
     "latitude": 47.9610629,
-    "longitude": 16.4379934
+    "longitude": 16.4379934,
+    "postcode": "2442",
+    "city": "Unterwaltersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.9605056,
-    "longitude": 16.4304185
+    "longitude": 16.4304185,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

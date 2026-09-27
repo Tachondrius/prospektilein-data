@@ -5,7 +5,11 @@
     "shop": "chemist",
     "latitude": 48.2509299,
     "longitude": 16.4895448,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -13,6 +17,10 @@
     "shop": "supermarket",
     "latitude": 48.2507889,
     "longitude": 16.4894402,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

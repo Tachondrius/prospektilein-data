@@ -4,21 +4,29 @@
     "retailer": "alustahl_niro",
     "shop": "trade",
     "latitude": 48.3087905,
-    "longitude": 16.2798956
+    "longitude": 16.2798956,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Kaisler",
     "retailer": "friseur_kaisler",
     "shop": "hairdresser",
     "latitude": 48.3086275,
-    "longitude": 16.2735095
+    "longitude": 16.2735095,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sigi's Guade Jaus'n",
     "retailer": "sigi_s_guade_jaus_n",
     "shop": "supermarket",
     "latitude": 48.308919,
-    "longitude": 16.2776814
+    "longitude": 16.2776814,
+    "postcode": "3400",
+    "city": "Kierling",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik",
@@ -26,6 +34,8 @@
     "shop": "kiosk",
     "latitude": 48.3089622,
     "longitude": 16.2774085,
-    "brand": "Tabak Trafik"
+    "brand": "Tabak Trafik",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

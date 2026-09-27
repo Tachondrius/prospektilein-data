@@ -5,27 +5,39 @@
     "shop": "supermarket",
     "latitude": 47.5576628,
     "longitude": 13.9244828,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8983",
+    "city": "Bad Mitterndorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.5553837,
-    "longitude": 13.9297776
+    "longitude": 13.9297776,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Die Blume",
     "retailer": "die_blume",
     "shop": "florist",
     "latitude": 47.5583568,
-    "longitude": 13.9242831
+    "longitude": 13.9242831,
+    "postcode": "8983",
+    "city": "Bad Mitterndorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Möbelhaus Sams",
     "retailer": "mobelhaus_sams",
     "shop": "furniture",
     "latitude": 47.5521633,
-    "longitude": 13.9278326
+    "longitude": 13.9278326,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

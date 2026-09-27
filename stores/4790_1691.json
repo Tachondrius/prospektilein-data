@@ -4,13 +4,20 @@
     "retailer": "weingut_paul_achs",
     "shop": "wine",
     "latitude": 47.9019899,
-    "longitude": 16.9131168
+    "longitude": 16.9131168,
+    "postcode": "7122",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Werkstätte Landmaschinen",
     "retailer": "werkstatte_landmaschinen",
     "shop": "car_repair",
     "latitude": 47.9044189,
-    "longitude": 16.9197416
+    "longitude": 16.9197416,
+    "postcode": "7122",
+    "city": "Gols",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

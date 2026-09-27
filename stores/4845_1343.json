@@ -4,7 +4,9 @@
     "retailer": "action",
     "shop": "variety_store",
     "latitude": 48.4556226,
-    "longitude": 13.4361208
+    "longitude": 13.4361208,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Auto Strasser",
@@ -12,84 +14,116 @@
     "shop": "car",
     "latitude": 48.4515767,
     "longitude": 13.4355462,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
     "retailer": "bipa",
     "shop": "chemist",
     "latitude": 48.4558914,
-    "longitude": 13.4315225
+    "longitude": 13.4315225,
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Buchegger",
     "retailer": "buchegger",
     "shop": "bakery",
     "latitude": 48.4568366,
-    "longitude": 13.4313636
+    "longitude": 13.4313636,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Chemist",
     "retailer": "shop_chemist",
     "shop": "chemist",
     "latitude": 48.4569937,
-    "longitude": 13.4320203
+    "longitude": 13.4320203,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Die Teerose",
     "retailer": "die_teerose",
     "shop": "tea",
     "latitude": 48.4563028,
-    "longitude": 13.4309796
+    "longitude": 13.4309796,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Feichtinger",
     "retailer": "feichtinger",
     "shop": "butcher",
     "latitude": 48.4567777,
-    "longitude": 13.4313896
+    "longitude": 13.4313896,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gupfinger Einrichtungsstudio",
     "retailer": "gupfinger_einrichtungsstudio",
     "shop": "furniture",
     "latitude": 48.4519438,
-    "longitude": 13.4362016
+    "longitude": 13.4362016,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haarstudio Christina",
     "retailer": "haarstudio_christina",
     "shop": "hairdresser",
     "latitude": 48.4560512,
-    "longitude": 13.4313599
+    "longitude": 13.4313599,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hartlauer",
     "retailer": "hartlauer",
     "shop": "optician",
     "latitude": 48.4564833,
-    "longitude": 13.4324905
+    "longitude": 13.4324905,
+    "postcode": "4780",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kik",
     "retailer": "kik",
     "shop": "clothes",
     "latitude": 48.4563661,
-    "longitude": 13.4357129
+    "longitude": 13.4357129,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kingsman Barbershop",
     "retailer": "kingsman_barbershop",
     "shop": "hairdresser",
     "latitude": 48.4559751,
-    "longitude": 13.431394
+    "longitude": 13.431394,
+    "postcode": "4780",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lambert",
     "retailer": "lambert",
     "shop": "medical_supply",
     "latitude": 48.4561238,
-    "longitude": 13.4355458
+    "longitude": 13.4355458,
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -97,97 +131,137 @@
     "shop": "supermarket",
     "latitude": 48.4506029,
     "longitude": 13.4369482,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Linzer Bäcker",
     "retailer": "linzer_backer",
     "shop": "bakery",
     "latitude": 48.4565516,
-    "longitude": 13.4323905
+    "longitude": 13.4323905,
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Moser Fleischhauer GesmbH & Co KG",
     "retailer": "moser_fleischhauer_gesmbh_und_co_kg",
     "shop": "butcher",
     "latitude": 48.4564103,
-    "longitude": 13.4325566
+    "longitude": 13.4325566,
+    "postcode": "4780",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Palmers",
     "retailer": "palmers",
     "shop": "clothes",
     "latitude": 48.4561683,
-    "longitude": 13.4317251
+    "longitude": 13.4317251,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Quick Schuh",
     "retailer": "quick_schuh",
     "shop": "shoes",
     "latitude": 48.4562415,
-    "longitude": 13.4356247
+    "longitude": 13.4356247,
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reich",
     "retailer": "reich",
     "shop": "antiques",
     "latitude": 48.4566982,
-    "longitude": 13.431455
+    "longitude": 13.431455,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schuh und Orthophädie Schneebauer",
     "retailer": "schuh_und_orthophadie_schneebauer",
     "shop": "shoes",
     "latitude": 48.4561923,
-    "longitude": 13.4307007
+    "longitude": 13.4307007,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schuhhaus Mayer",
     "retailer": "schuhhaus_mayer",
     "shop": "shoes",
     "latitude": 48.4563698,
-    "longitude": 13.4321555
+    "longitude": 13.4321555,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "sehen!wutscher",
     "retailer": "sehen_wutscher",
     "shop": "optician",
     "latitude": 48.4557645,
-    "longitude": 13.4342979
+    "longitude": 13.4342979,
+    "postcode": "4780",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sport Maier",
     "retailer": "sport_maier",
     "shop": "clothes",
     "latitude": 48.4563987,
-    "longitude": 13.4319221
+    "longitude": 13.4319221,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Hager",
     "retailer": "tabak_hager",
     "shop": "tobacco",
     "latitude": 48.4574077,
-    "longitude": 13.4316396
+    "longitude": 13.4316396,
+    "postcode": "4780",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "The men room Barbershop",
     "retailer": "the_men_room_barbershop",
     "shop": "hairdresser",
     "latitude": 48.4542784,
-    "longitude": 13.4350527
+    "longitude": 13.4350527,
+    "postcode": "4780",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trachtenalm",
     "retailer": "trachtenalm",
     "shop": "clothes",
     "latitude": 48.4567121,
-    "longitude": 13.4309853
+    "longitude": 13.4309853,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zur Post",
     "retailer": "zur_post",
     "shop": "bakery",
     "latitude": 48.4560248,
-    "longitude": 13.4349966
+    "longitude": 13.4349966,
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

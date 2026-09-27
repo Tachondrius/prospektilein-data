@@ -4,27 +4,37 @@
     "retailer": "ezeb",
     "shop": "bakery",
     "latitude": 47.2952793,
-    "longitude": 11.5057734
+    "longitude": 11.5057734,
+    "postcode": "6067",
+    "city": "Absam",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.2945003,
-    "longitude": 11.5044022
+    "longitude": 11.5044022,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pfarrladen",
     "retailer": "pfarrladen",
     "shop": "kiosk",
     "latitude": 47.2955862,
-    "longitude": 11.5010881
+    "longitude": 11.5010881,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.295247,
-    "longitude": 11.5050566
+    "longitude": 11.5050566,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

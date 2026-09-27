@@ -4,20 +4,28 @@
     "retailer": "fleisch_wurst_h_gerner",
     "shop": "butcher",
     "latitude": 48.2349142,
-    "longitude": 13.1791453
+    "longitude": 13.1791453,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fritzmobile e.U.",
     "retailer": "fritzmobile_e_u",
     "shop": "bicycle",
     "latitude": 48.2337286,
-    "longitude": 13.1761458
+    "longitude": 13.1761458,
+    "postcode": "4952",
+    "city": "Weng im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 48.2350456,
-    "longitude": 13.1790273
+    "longitude": 13.1790273,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

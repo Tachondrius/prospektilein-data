@@ -5,20 +5,30 @@
     "shop": "car_repair",
     "latitude": 48.3641035,
     "longitude": 16.5335511,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Frisiersalon Eva Jarisch",
     "retailer": "frisiersalon_eva_jarisch",
     "shop": "hairdresser",
     "latitude": 48.3635007,
-    "longitude": 16.5376891
+    "longitude": 16.5376891,
+    "postcode": "2211",
+    "city": "Pillichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Gössinger",
     "retailer": "weingut_gossinger",
     "shop": "wine",
     "latitude": 48.3638171,
-    "longitude": 16.536092
+    "longitude": 16.536092,
+    "postcode": "2211",
+    "city": "Pillichsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

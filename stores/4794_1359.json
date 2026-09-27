@@ -4,7 +4,11 @@
     "retailer": "bike_und_boot_austria",
     "shop": "bicycle",
     "latitude": 47.947619,
-    "longitude": 13.5948357
+    "longitude": 13.5948357,
+    "postcode": "4861",
+    "city": "Schörfling am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -12,21 +16,31 @@
     "shop": "supermarket",
     "latitude": 47.9478249,
     "longitude": 13.5961335,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4861",
+    "city": "Schörfling am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen Astrid Mayer",
     "retailer": "blumen_astrid_mayer",
     "shop": "florist",
     "latitude": 47.9495434,
-    "longitude": 13.5933972
+    "longitude": 13.5933972,
+    "postcode": "4863",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bunte Urlaubswelt Schobesberger",
     "retailer": "bunte_urlaubswelt_schobesberger",
     "shop": "travel_agency",
     "latitude": 47.9467395,
-    "longitude": 13.5948184
+    "longitude": 13.5948184,
+    "postcode": "4861",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Expert",
@@ -34,55 +48,81 @@
     "shop": "electronics",
     "latitude": 47.9475777,
     "longitude": 13.5974921,
-    "brand": "Expert"
+    "brand": "Expert",
+    "postcode": "4861",
+    "city": "Schörfling am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haargenau Klara",
     "retailer": "haargenau_klara",
     "shop": "hairdresser",
     "latitude": 47.9475736,
-    "longitude": 13.5976665
+    "longitude": 13.5976665,
+    "postcode": "4861",
+    "city": "Schörfling am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mosaik",
     "retailer": "mosaik",
     "shop": "gift",
     "latitude": 47.9479575,
-    "longitude": 13.5947745
+    "longitude": 13.5947745,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "optik:sehblick",
     "retailer": "optik_sehblick",
     "shop": "optician",
     "latitude": 47.9495125,
-    "longitude": 13.5943902
+    "longitude": 13.5943902,
+    "postcode": "4863",
+    "city": "Seewalchen am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schmuck-Uhren Koller",
     "retailer": "schmuck_uhren_koller",
     "shop": "jewelry",
     "latitude": 47.9461734,
-    "longitude": 13.5946895
+    "longitude": 13.5946895,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "SUP Center Attersee",
     "retailer": "sup_center_attersee",
     "shop": "sports",
     "latitude": 47.9475689,
-    "longitude": 13.5972926
+    "longitude": 13.5972926,
+    "postcode": "4861",
+    "city": "Schörfling am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tee am See",
     "retailer": "tee_am_see",
     "shop": "gift",
     "latitude": 47.9478408,
-    "longitude": 13.5953572
+    "longitude": 13.5953572,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.9473962,
-    "longitude": 13.5965992
+    "longitude": 13.5965992,
+    "postcode": "4861",
+    "city": "Schörfling am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

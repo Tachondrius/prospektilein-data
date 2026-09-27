@@ -4,20 +4,30 @@
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 47.4187372,
-    "longitude": 12.4208137
+    "longitude": 12.4208137,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kuschmied",
     "retailer": "kuschmied",
     "shop": "hardware",
     "latitude": 47.4182058,
-    "longitude": 12.4212474
+    "longitude": 12.4212474,
+    "postcode": "6371",
+    "city": "Aurach bei Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Racingdoc",
     "retailer": "racingdoc",
     "shop": "sports",
     "latitude": 47.4114025,
-    "longitude": 12.4275219
+    "longitude": 12.4275219,
+    "postcode": "6371",
+    "city": "Aurach bei Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

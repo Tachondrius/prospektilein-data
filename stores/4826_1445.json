@@ -5,21 +5,31 @@
     "shop": "supermarket",
     "latitude": 48.2636377,
     "longitude": 14.4538988,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4222",
+    "city": "St. Georgen an der Gusen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haarstudio Schön",
     "retailer": "haarstudio_schon",
     "shop": "hairdresser",
     "latitude": 48.2696963,
-    "longitude": 14.4534971
+    "longitude": 14.4534971,
+    "postcode": "4222",
+    "city": "St. Georgen an der Gusen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "HEDL",
     "retailer": "hedl",
     "shop": "car_repair",
     "latitude": 48.2627832,
-    "longitude": 14.4548798
+    "longitude": 14.4548798,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny",
@@ -27,7 +37,11 @@
     "shop": "supermarket",
     "latitude": 48.2698275,
     "longitude": 14.4525389,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "4222",
+    "city": "St. Georgen an der Gusen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -35,6 +49,10 @@
     "shop": "supermarket",
     "latitude": 48.265672,
     "longitude": 14.4527444,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4222",
+    "city": "St. Georgen an der Gusen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,14 +4,20 @@
     "retailer": "hetzendorfer_putenmast_gmbh",
     "shop": "farm",
     "latitude": 48.8432981,
-    "longitude": 15.1912055
+    "longitude": 15.1912055,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MK Fahrradhandel",
     "retailer": "mk_fahrradhandel",
     "shop": "bicycle",
     "latitude": 48.8432936,
-    "longitude": 15.1976404
+    "longitude": 15.1976404,
+    "postcode": "3834",
+    "city": "Pfaffenschlag bei Waidhofen a.d.Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 48.8439116,
     "longitude": 15.1926199,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3834",
+    "city": "Pfaffenschlag bei Waidhofen a.d.Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "kern",
     "shop": "bakery",
     "latitude": 47.0691311,
-    "longitude": 15.4845763
+    "longitude": 15.4845763,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.0690882,
     "longitude": 15.4844546,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

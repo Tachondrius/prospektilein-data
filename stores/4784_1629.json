@@ -4,21 +4,31 @@
     "retailer": "grosschadl",
     "shop": "trade",
     "latitude": 47.8437361,
-    "longitude": 16.2943846
+    "longitude": 16.2943846,
+    "postcode": "2493",
+    "city": "Lichtenwörth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer Agrarhandel",
     "retailer": "hofer",
     "shop": "wholesale",
     "latitude": 47.8484252,
-    "longitude": 16.2973085
+    "longitude": 16.2973085,
+    "postcode": "2493",
+    "city": "Eggendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "J.B. Autotechnik",
     "retailer": "j_b_autotechnik",
     "shop": "car_repair",
     "latitude": 47.8481085,
-    "longitude": 16.2985866
+    "longitude": 16.2985866,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -26,6 +36,10 @@
     "shop": "doityourself",
     "latitude": 47.8458655,
     "longitude": 16.2920413,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2493",
+    "city": "Eggendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

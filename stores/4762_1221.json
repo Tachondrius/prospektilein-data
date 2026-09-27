@@ -4,7 +4,11 @@
     "retailer": "bichlback",
     "shop": "bakery",
     "latitude": 47.6278423,
-    "longitude": 12.2147009
+    "longitude": 12.2147009,
+    "postcode": "6341",
+    "city": "Ebbs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -12,56 +16,72 @@
     "shop": "supermarket",
     "latitude": 47.6231562,
     "longitude": 12.2132691,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumengroßhandel Flora",
     "retailer": "blumengrohandel_flora",
     "shop": "florist",
     "latitude": 47.6277303,
-    "longitude": 12.2185047
+    "longitude": 12.2185047,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumenhandel Werndle",
     "retailer": "blumenhandel_werndle",
     "shop": "florist",
     "latitude": 47.6226515,
-    "longitude": 12.2124911
+    "longitude": 12.2124911,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Butcher",
     "retailer": "shop_butcher",
     "shop": "butcher",
     "latitude": 47.6286266,
-    "longitude": 12.2145648
+    "longitude": 12.2145648,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Charly’s Bikeshop",
     "retailer": "charlys_bikeshop",
     "shop": "bicycle",
     "latitude": 47.6225457,
-    "longitude": 12.2104907
+    "longitude": 12.2104907,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Seiler",
     "retailer": "elektro_seiler",
     "shop": "electronics",
     "latitude": 47.624814,
-    "longitude": 12.2133614
+    "longitude": 12.2133614,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Episas Fliesen",
     "retailer": "episas_fliesen",
     "shop": "tiles",
     "latitude": 47.6299159,
-    "longitude": 12.2138545
+    "longitude": 12.2138545,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Seiler - Fischbacher",
     "retailer": "seiler_fischbacher",
     "shop": "car_repair",
     "latitude": 47.6246603,
-    "longitude": 12.2132407
+    "longitude": 12.2132407,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -69,13 +89,17 @@
     "shop": "supermarket",
     "latitude": 47.6296029,
     "longitude": 12.2139052,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Stöckl Agrarhandel",
     "retailer": "stockl_agrarhandel",
     "shop": "trade",
     "latitude": 47.6274489,
-    "longitude": 12.2150497
+    "longitude": 12.2150497,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

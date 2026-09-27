@@ -4,14 +4,20 @@
     "retailer": "ab_hof_hutte",
     "shop": "farm",
     "latitude": 47.9744381,
-    "longitude": 14.7650146
+    "longitude": 14.7650146,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Der Naturlehm-Keramiker",
     "retailer": "der_naturlehm_keramiker",
     "shop": "fireplace",
     "latitude": 47.9707679,
-    "longitude": 14.7666838
+    "longitude": 14.7666838,
+    "postcode": "3340",
+    "city": "Waidhofen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -19,7 +25,11 @@
     "shop": "doityourself",
     "latitude": 47.9705221,
     "longitude": 14.7614935,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3340",
+    "city": "Waidhofen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -27,6 +37,10 @@
     "shop": "supermarket",
     "latitude": 47.9702471,
     "longitude": 14.7627174,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "3340",
+    "city": "Waidhofen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

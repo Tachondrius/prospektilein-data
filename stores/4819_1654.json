@@ -5,62 +5,86 @@
     "shop": "supermarket",
     "latitude": 48.1994135,
     "longitude": 16.5491911,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Drogerie Kovacic",
     "retailer": "drogerie_kovacic",
     "shop": "chemist",
     "latitude": 48.1999644,
-    "longitude": 16.5496252
+    "longitude": 16.5496252,
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Kren",
     "retailer": "kfz_kren",
     "shop": "car_repair",
     "latitude": 48.1938733,
-    "longitude": 16.5490085
+    "longitude": 16.5490085,
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mythos",
     "retailer": "mythos",
     "shop": "hairdresser",
     "latitude": 48.1999149,
-    "longitude": 16.5499888
+    "longitude": 16.5499888,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Müller-Gartner",
     "retailer": "mueller",
     "shop": "bakery",
     "latitude": 48.1997786,
-    "longitude": 16.5498431
+    "longitude": 16.5498431,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nina",
     "retailer": "nina",
     "shop": "hairdresser",
     "latitude": 48.1998915,
-    "longitude": 16.5499541
+    "longitude": 16.5499541,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sabsis Hofladen",
     "retailer": "sabsis_hofladen",
     "shop": "convenience",
     "latitude": 48.1950656,
-    "longitude": 16.5455013
+    "longitude": 16.5455013,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Krekner",
     "retailer": "trafik_krekner",
     "shop": "kiosk",
     "latitude": 48.1955234,
-    "longitude": 16.5462821
+    "longitude": 16.5462821,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Velomove",
     "retailer": "velomove",
     "shop": "bicycle",
     "latitude": 48.1997418,
-    "longitude": 16.5483217
+    "longitude": 16.5483217,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,63 +5,95 @@
     "shop": "telecommunication",
     "latitude": 47.1051201,
     "longitude": 15.7040564,
-    "brand": "A1"
+    "brand": "A1",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Abholmarkt",
     "retailer": "abholmarkt",
     "shop": "butcher",
     "latitude": 47.1091396,
-    "longitude": 15.7035448
+    "longitude": 15.7035448,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Action",
     "retailer": "action",
     "shop": "variety_store",
     "latitude": 47.1052433,
-    "longitude": 15.7057911
+    "longitude": 15.7057911,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Anglerparadies Gleisdorf",
     "retailer": "anglerparadies_gleisdorf",
     "shop": "sports",
     "latitude": 47.1036351,
-    "longitude": 15.7044022
+    "longitude": 15.7044022,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Art",
     "retailer": "shop_art",
     "shop": "art",
     "latitude": 47.104848,
-    "longitude": 15.7086073
+    "longitude": 15.7086073,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ashs archery",
     "retailer": "ashs_archery",
     "shop": "sports",
     "latitude": 47.104812,
-    "longitude": 15.7085123
+    "longitude": 15.7085123,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "August Stibor Herrenschuhe",
     "retailer": "august_stibor_herrenschuhe",
     "shop": "shoes",
     "latitude": 47.1047972,
-    "longitude": 15.7081979
+    "longitude": 15.7081979,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Auto Paar",
     "retailer": "auto_paar",
     "shop": "car",
     "latitude": 47.1054169,
-    "longitude": 15.7031563
+    "longitude": 15.7031563,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Fritz",
     "retailer": "autohaus_fritz",
     "shop": "car",
     "latitude": 47.1053286,
-    "longitude": 15.7070591
+    "longitude": 15.7070591,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Krammer",
@@ -69,49 +101,69 @@
     "shop": "car",
     "latitude": 47.1081668,
     "longitude": 15.7017639,
-    "brand": "Opel;Mercedes-Benz"
+    "brand": "Opel;Mercedes-Benz",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Seidl",
     "retailer": "autohaus_seidl",
     "shop": "car",
     "latitude": 47.1059001,
-    "longitude": 15.7029398
+    "longitude": 15.7029398,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Wachtler",
     "retailer": "autohaus_wachtler",
     "shop": "car",
     "latitude": 47.1073833,
-    "longitude": 15.7074514
+    "longitude": 15.7074514,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Baumgartner",
     "retailer": "baumgartner",
     "shop": "clothes;leather",
     "latitude": 47.1048736,
-    "longitude": 15.7091927
+    "longitude": 15.7091927,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Beauty Studio Cinderella",
     "retailer": "beauty_studio_cinderella",
     "shop": "beauty",
     "latitude": 47.1028429,
-    "longitude": 15.7093641
+    "longitude": 15.7093641,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bestattung Eden Gleisdorf",
     "retailer": "bestattung_eden_gleisdorf",
     "shop": "funeral_directors",
     "latitude": 47.1065507,
-    "longitude": 15.707649
+    "longitude": 15.707649,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bestattung Grosschädl",
     "retailer": "bestattung_grosschadl",
     "shop": "funeral_directors",
     "latitude": 47.1060607,
-    "longitude": 15.7076157
+    "longitude": 15.7076157,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa Plus",
@@ -119,7 +171,11 @@
     "shop": "supermarket",
     "latitude": 47.1094666,
     "longitude": 15.7032003,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -127,28 +183,44 @@
     "shop": "chemist",
     "latitude": 47.1092365,
     "longitude": 15.7034389,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumeneck Eber",
     "retailer": "blumeneck_eber",
     "shop": "florist",
     "latitude": 47.1029608,
-    "longitude": 15.7075389
+    "longitude": 15.7075389,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Brautsalon Gleisdorf",
     "retailer": "brautsalon_gleisdorf",
     "shop": "clothes",
     "latitude": 47.1047537,
-    "longitude": 15.7067122
+    "longitude": 15.7067122,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Brickcomplete",
     "retailer": "brickcomplete",
     "shop": "toys",
     "latitude": 47.1044016,
-    "longitude": 15.7085375
+    "longitude": 15.7085375,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "C&A",
@@ -156,14 +228,22 @@
     "shop": "clothes",
     "latitude": 47.1071824,
     "longitude": 15.7042597,
-    "brand": "C&A"
+    "brand": "C&A",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Carla",
     "retailer": "carla",
     "shop": "clothes",
     "latitude": 47.1048452,
-    "longitude": 15.7076343
+    "longitude": 15.7076343,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Cecil",
@@ -171,28 +251,41 @@
     "shop": "clothes",
     "latitude": 47.1060212,
     "longitude": 15.7043242,
-    "brand": "Cecil"
+    "brand": "Cecil",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Citydampf Gleisdorf",
     "retailer": "citydampf_gleisdorf",
     "shop": "tobacco",
     "latitude": 47.1077417,
-    "longitude": 15.7084066
+    "longitude": 15.7084066,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "COCUNI",
     "retailer": "cocuni",
     "shop": "clothes",
     "latitude": 47.1055015,
-    "longitude": 15.7092789
+    "longitude": 15.7092789,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Corinna Gesundheits-Wellnesscenter",
     "retailer": "corinna_gesundheits_wellnesscenter",
     "shop": "beauty",
     "latitude": 47.1049706,
-    "longitude": 15.7094485
+    "longitude": 15.7094485,
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deichmann",
@@ -200,7 +293,11 @@
     "shop": "shoes",
     "latitude": 47.1050919,
     "longitude": 15.705617,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -208,21 +305,33 @@
     "shop": "chemist",
     "latitude": 47.1056205,
     "longitude": 15.7047592,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Drogerie Gleisdorf",
     "retailer": "drogerie_gleisdorf",
     "shop": "chemist",
     "latitude": 47.105222,
-    "longitude": 15.7095832
+    "longitude": 15.7095832,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ernesting's Family",
     "retailer": "ernesting_s_family",
     "shop": "clothes",
     "latitude": 47.1060709,
-    "longitude": 15.7042721
+    "longitude": 15.7042721,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eurospar",
@@ -230,35 +339,55 @@
     "shop": "supermarket",
     "latitude": 47.1035384,
     "longitude": 15.7086045,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fachkosmetik Katharina",
     "retailer": "fachkosmetik_katharina",
     "shop": "beauty",
     "latitude": 47.1050513,
-    "longitude": 15.7096641
+    "longitude": 15.7096641,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Felice Modepassage",
     "retailer": "felice_modepassage",
     "shop": "clothes",
     "latitude": 47.105392,
-    "longitude": 15.7094103
+    "longitude": 15.7094103,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischerei Feiertag",
     "retailer": "fleischerei_feiertag",
     "shop": "butcher",
     "latitude": 47.106027,
-    "longitude": 15.706777
+    "longitude": 15.706777,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischerei Höfler",
     "retailer": "fleischerei_hofler",
     "shop": "butcher",
     "latitude": 47.1001579,
-    "longitude": 15.7092822
+    "longitude": 15.7092822,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fressnapf",
@@ -266,14 +395,22 @@
     "shop": "pet",
     "latitude": 47.1093493,
     "longitude": 15.703316,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseursalon Monika",
     "retailer": "friseursalon_monika",
     "shop": "hairdresser",
     "latitude": 47.1048703,
-    "longitude": 15.7087172
+    "longitude": 15.7087172,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fussl",
@@ -281,14 +418,22 @@
     "shop": "clothes",
     "latitude": 47.1069696,
     "longitude": 15.7040558,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "GEA",
     "retailer": "gea",
     "shop": "yes",
     "latitude": 47.1047265,
-    "longitude": 15.7087466
+    "longitude": 15.7087466,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gerry Weber",
@@ -296,7 +441,11 @@
     "shop": "clothes",
     "latitude": 47.105846,
     "longitude": 15.7045379,
-    "brand": "Gerry Weber"
+    "brand": "Gerry Weber",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hartlauer",
@@ -304,7 +453,11 @@
     "shop": "electronics",
     "latitude": 47.1056381,
     "longitude": 15.7096593,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -312,14 +465,22 @@
     "shop": "supermarket",
     "latitude": 47.1060404,
     "longitude": 15.7055595,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Inked Fashion",
     "retailer": "inked_fashion",
     "shop": "clothes",
     "latitude": 47.1060604,
-    "longitude": 15.7074407
+    "longitude": 15.7074407,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intersport",
@@ -327,35 +488,51 @@
     "shop": "sports",
     "latitude": 47.1045578,
     "longitude": 15.7080608,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Isuna Nagelstudio",
     "retailer": "isuna_nagelstudio",
     "shop": "beauty",
     "latitude": 47.1054208,
-    "longitude": 15.7062143
+    "longitude": 15.7062143,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Juwelier Klamminger",
     "retailer": "juwelier_klamminger",
     "shop": "jewelry",
     "latitude": 47.1058614,
-    "longitude": 15.7087768
+    "longitude": 15.7087768,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ Hödl",
     "retailer": "kfz_hodl",
     "shop": "car_repair",
     "latitude": 47.1062357,
-    "longitude": 15.7021503
+    "longitude": 15.7021503,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ-Technik Wels",
     "retailer": "kfz_technik_wels",
     "shop": "car_repair",
     "latitude": 47.1044897,
-    "longitude": 15.7036587
+    "longitude": 15.7036587,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -363,7 +540,11 @@
     "shop": "clothes",
     "latitude": 47.1024319,
     "longitude": 15.7092182,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
@@ -371,21 +552,33 @@
     "shop": "hairdresser",
     "latitude": 47.1063304,
     "longitude": 15.7064016,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Koller Uhren & Schmuck",
     "retailer": "koller_uhren_und_schmuck",
     "shop": "jewelry",
     "latitude": 47.104656,
-    "longitude": 15.7085823
+    "longitude": 15.7085823,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kunst_31",
     "retailer": "kunst_31",
     "shop": "art",
     "latitude": 47.1043905,
-    "longitude": 15.7063343
+    "longitude": 15.7063343,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Libro",
@@ -393,28 +586,42 @@
     "shop": "books",
     "latitude": 47.1063354,
     "longitude": 15.7040366,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Liebmarkt",
     "retailer": "liebmarkt",
     "shop": "doityourself",
     "latitude": 47.1068876,
-    "longitude": 15.706166
+    "longitude": 15.706166,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Liebmarkt Gleisdorf",
     "retailer": "liebmarkt_gleisdorf",
     "shop": "trade",
     "latitude": 47.1085247,
-    "longitude": 15.7003513
+    "longitude": 15.7003513,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Malimi KIDS",
     "retailer": "malimi_kids",
     "shop": "baby_goods",
     "latitude": 47.1057594,
-    "longitude": 15.7092143
+    "longitude": 15.7092143,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Marionnaud",
@@ -422,49 +629,72 @@
     "shop": "perfumery",
     "latitude": 47.1065352,
     "longitude": 15.7040306,
-    "brand": "Marionnaud"
+    "brand": "Marionnaud",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MAS IT Solution Handy Shop",
     "retailer": "mas_it_solution_handy_shop",
     "shop": "mobile_phone",
     "latitude": 47.1049404,
-    "longitude": 15.7093369
+    "longitude": 15.7093369,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mat's True Fellas Barbershop",
     "retailer": "mat_s_true_fellas_barbershop",
     "shop": "hairdresser",
     "latitude": 47.1097765,
-    "longitude": 15.7070765
+    "longitude": 15.7070765,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "medicci",
     "retailer": "medicci",
     "shop": "clothes",
     "latitude": 47.1051074,
-    "longitude": 15.7098515
+    "longitude": 15.7098515,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Modehaus Roth",
     "retailer": "modehaus_roth",
     "shop": "clothes",
     "latitude": 47.1057921,
-    "longitude": 15.7045821
+    "longitude": 15.7045821,
+    "postcode": "8200",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Musikzentrum Dexer",
     "retailer": "musikzentrum_dexer",
     "shop": "hifi",
     "latitude": 47.1070607,
-    "longitude": 15.7081413
+    "longitude": 15.7081413,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mystery Touch",
     "retailer": "mystery_touch",
     "shop": "tattoo",
     "latitude": 47.1060381,
-    "longitude": 15.7073703
+    "longitude": 15.7073703,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Möbelix",
@@ -472,14 +702,22 @@
     "shop": "furniture",
     "latitude": 47.109836,
     "longitude": 15.7028411,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Natural Hairstyle",
     "retailer": "natural_hairstyle",
     "shop": "hairdresser",
     "latitude": 47.1050821,
-    "longitude": 15.7092053
+    "longitude": 15.7092053,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Neuroth",
@@ -487,7 +725,9 @@
     "shop": "hearing_aids",
     "latitude": 47.1028771,
     "longitude": 15.7093317,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "New Yorker",
@@ -495,14 +735,22 @@
     "shop": "clothes",
     "latitude": 47.106135,
     "longitude": 15.7065774,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Optik Spielhofer",
     "retailer": "optik_spielhofer",
     "shop": "optician",
     "latitude": 47.1053004,
-    "longitude": 15.709508
+    "longitude": 15.709508,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pagro",
@@ -510,14 +758,22 @@
     "shop": "stationery",
     "latitude": 47.102507,
     "longitude": 15.7094567,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Panda Office",
     "retailer": "panda_office",
     "shop": "stationery",
     "latitude": 47.1031928,
-    "longitude": 15.7056733
+    "longitude": 15.7056733,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pearle Optik",
@@ -525,42 +781,64 @@
     "shop": "optician",
     "latitude": 47.1062395,
     "longitude": 15.7041304,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Phönix",
     "retailer": "phonix",
     "shop": "hairdresser",
     "latitude": 47.1051303,
-    "longitude": 15.7099524
+    "longitude": 15.7099524,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reisebüro Schwarz",
     "retailer": "reiseburo_schwarz",
     "shop": "travel_agency",
     "latitude": 47.1053522,
-    "longitude": 15.7062644
+    "longitude": 15.7062644,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reisebüro Springer und Söhne",
     "retailer": "reiseburo_springer_und_sohne",
     "shop": "travel_agency",
     "latitude": 47.1051372,
-    "longitude": 15.7093828
+    "longitude": 15.7093828,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "RELAXyou",
     "retailer": "relaxyou",
     "shop": "massage",
     "latitude": 47.1046558,
-    "longitude": 15.7085229
+    "longitude": 15.7085229,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "RIMA Textilreinigung",
     "retailer": "rima_textilreinigung",
     "shop": "laundry",
     "latitude": 47.10628,
-    "longitude": 15.7040745
+    "longitude": 15.7040745,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ROMA",
@@ -568,7 +846,11 @@
     "shop": "hairdresser_supply",
     "latitude": 47.1055493,
     "longitude": 15.7058168,
-    "brand": "ROMA"
+    "brand": "ROMA",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ruefa",
@@ -576,42 +858,66 @@
     "shop": "travel_agency",
     "latitude": 47.1030313,
     "longitude": 15.7076908,
-    "brand": "Ruefa"
+    "brand": "Ruefa",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "S.M.I.L.E. electronic",
     "retailer": "s_m_i_l_e_electronic",
     "shop": "electronics",
     "latitude": 47.1049176,
-    "longitude": 15.70386
+    "longitude": 15.70386,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schmerda Gartenbaustoffe und Pflasterei",
     "retailer": "schmerda_gartenbaustoffe_und_pflasterei",
     "shop": "trade",
     "latitude": 47.1075982,
-    "longitude": 15.7005462
+    "longitude": 15.7005462,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schneiderei Mayer-Kreimer",
     "retailer": "schneiderei_mayer_kreimer",
     "shop": "tailor;dry_cleaning",
     "latitude": 47.1048079,
-    "longitude": 15.7074545
+    "longitude": 15.7074545,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schuhhaus Ertl",
     "retailer": "schuhhaus_ertl",
     "shop": "shoes",
     "latitude": 47.104976,
-    "longitude": 15.7089338
+    "longitude": 15.7089338,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "SD Frisuren",
     "retailer": "sd_frisuren",
     "shop": "hairdresser",
     "latitude": 47.1030916,
-    "longitude": 15.7078208
+    "longitude": 15.7078208,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "sehen!wutscher",
@@ -619,21 +925,31 @@
     "shop": "optician",
     "latitude": 47.1066057,
     "longitude": 15.7040417,
-    "brand": "sehen!wutscher"
+    "brand": "sehen!wutscher",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Siegis Garage",
     "retailer": "siegis_garage",
     "shop": "motorcycle",
     "latitude": 47.1048817,
-    "longitude": 15.704274
+    "longitude": 15.704274,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Smart skin / Body & Beauty",
     "retailer": "smart_skin_body_und_beauty",
     "shop": "beauty",
     "latitude": 47.1046314,
-    "longitude": 15.7084529
+    "longitude": 15.7084529,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sport 2000",
@@ -641,28 +957,44 @@
     "shop": "sports",
     "latitude": 47.106412,
     "longitude": 15.7059372,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Steigerl Genuss-Greißlerei",
     "retailer": "steigerl_genuss_greilerei",
     "shop": "general",
     "latitude": 47.1042092,
-    "longitude": 15.7051417
+    "longitude": 15.7051417,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stibor Damenschuhe & Kinderschuhe",
     "retailer": "stibor_damenschuhe_und_kinderschuhe",
     "shop": "shoes",
     "latitude": 47.1047165,
-    "longitude": 15.7078807
+    "longitude": 15.7078807,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stoff- und Nähparadies",
     "retailer": "stoff_und_nahparadies",
     "shop": "fabric",
     "latitude": 47.106388,
-    "longitude": 15.7076534
+    "longitude": 15.7076534,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Street One",
@@ -670,21 +1002,33 @@
     "shop": "clothes",
     "latitude": 47.1064669,
     "longitude": 15.704023,
-    "brand": "Street One"
+    "brand": "Street One",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak-Trafik Fabschitz",
     "retailer": "tabak_trafik_fabschitz",
     "shop": "kiosk",
     "latitude": 47.1029938,
-    "longitude": 15.70761
+    "longitude": 15.70761,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak-Trafik Niederbacher",
     "retailer": "tabak_trafik_niederbacher",
     "shop": "newsagent",
     "latitude": 47.1055332,
-    "longitude": 15.7057636
+    "longitude": 15.7057636,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Takko Fashion",
@@ -692,7 +1036,11 @@
     "shop": "clothes",
     "latitude": 47.1062967,
     "longitude": 15.7064277,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Takko Fashion",
@@ -700,7 +1048,11 @@
     "shop": "clothes",
     "latitude": 47.1090521,
     "longitude": 15.7036564,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tchibo",
@@ -708,48 +1060,74 @@
     "shop": "coffee",
     "latitude": 47.106412,
     "longitude": 15.704021,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tibeco Textilfachgeschäft",
     "retailer": "tibeco_textilfachgeschaft",
     "shop": "fabric",
     "latitude": 47.1066778,
-    "longitude": 15.7084111
+    "longitude": 15.7084111,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "True Fellas Tattoo",
     "retailer": "true_fellas_tattoo",
     "shop": "tattoo",
     "latitude": 47.1096957,
-    "longitude": 15.7070669
+    "longitude": 15.7070669,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Uhren-Schmuck Koller",
     "retailer": "uhren_schmuck_koller",
     "shop": "jewelry",
     "latitude": 47.1064256,
-    "longitude": 15.7063104
+    "longitude": 15.7063104,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Viktorias Kosmetik-Studio",
     "retailer": "viktorias_kosmetik_studio",
     "shop": "beauty",
     "latitude": 47.1024915,
-    "longitude": 15.7062756
+    "longitude": 15.7062756,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Weltladen",
     "retailer": "weltladen",
     "shop": "convenience",
     "latitude": 47.1063098,
-    "longitude": 15.7099204
+    "longitude": 15.7099204,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Yes",
     "retailer": "shop_yes",
     "shop": "yes",
     "latitude": 47.1054793,
-    "longitude": 15.7048719
+    "longitude": 15.7048719,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

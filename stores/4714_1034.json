@@ -4,14 +4,20 @@
     "retailer": "kathi_s_backwerk",
     "shop": "pastry",
     "latitude": 47.1477629,
-    "longitude": 10.3401165
+    "longitude": 10.3401165,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kathi's BackWerk",
     "retailer": "kathi_s_backwerk",
     "shop": "pastry",
     "latitude": 47.1494926,
-    "longitude": 10.3466176
+    "longitude": 10.3466176,
+    "postcode": "6574",
+    "city": "Pettneu am Arlberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -19,6 +25,9 @@
     "shop": "convenience",
     "latitude": 47.148311,
     "longitude": 10.3414654,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "city": "Pettneu am Arlberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

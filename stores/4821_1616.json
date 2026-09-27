@@ -4,14 +4,20 @@
     "retailer": "act_anzeige_und_informationstechnik_gmbh",
     "shop": "electronics",
     "latitude": 48.2168203,
-    "longitude": 16.1674085
+    "longitude": 16.1674085,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Figl",
     "retailer": "autohaus_figl",
     "shop": "car",
     "latitude": 48.2161992,
-    "longitude": 16.1678572
+    "longitude": 16.1678572,
+    "postcode": "3003",
+    "city": "Purkersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -19,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 48.2184869,
     "longitude": 16.1654831,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3003",
+    "city": "Gablitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -27,42 +37,60 @@
     "shop": "chemist",
     "latitude": 48.2179699,
     "longitude": 16.1655631,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "3003",
+    "city": "Gablitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Simhofer",
     "retailer": "backerei_simhofer",
     "shop": "bakery",
     "latitude": 48.2188388,
-    "longitude": 16.1653497
+    "longitude": 16.1653497,
+    "postcode": "3003",
+    "city": "Gablitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DanKüchen",
     "retailer": "dankuchen",
     "shop": "kitchen",
     "latitude": 48.2147741,
-    "longitude": 16.1698884
+    "longitude": 16.1698884,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dr. Zieglers Naturfutter",
     "retailer": "dr_zieglers_naturfutter",
     "shop": "pet",
     "latitude": 48.2175883,
-    "longitude": 16.166704
+    "longitude": 16.166704,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_parts",
     "latitude": 48.217031,
-    "longitude": 16.1669407
+    "longitude": 16.1669407,
+    "postcode": "3002",
+    "city": "Purkersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gruber Sauna",
     "retailer": "gruber_sauna",
     "shop": "bathroom_furnishing",
     "latitude": 48.2160636,
-    "longitude": 16.168545
+    "longitude": 16.168545,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -70,13 +98,19 @@
     "shop": "supermarket",
     "latitude": 48.2186441,
     "longitude": 16.1665401,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Viterma Badsanierung",
     "retailer": "viterma_badsanierung",
     "shop": "bathroom_furnishing",
     "latitude": 48.2150107,
-    "longitude": 16.1696685
+    "longitude": 16.1696685,
+    "postcode": "3003",
+    "city": "Purkersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

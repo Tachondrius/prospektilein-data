@@ -5,7 +5,11 @@
     "shop": "garden_centre",
     "latitude": 47.0312397,
     "longitude": 15.4225307,
-    "brand": "Bellaflora"
+    "brand": "Bellaflora",
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fressnapf",
@@ -13,14 +17,22 @@
     "shop": "pet",
     "latitude": 47.0312513,
     "longitude": 15.4214097,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Golf House",
     "retailer": "golf_house",
     "shop": "sports",
     "latitude": 47.0318287,
-    "longitude": 15.4213925
+    "longitude": 15.4213925,
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "IKEA",
@@ -28,7 +40,11 @@
     "shop": "furniture",
     "latitude": 47.0335833,
     "longitude": 15.4223018,
-    "brand": "IKEA"
+    "brand": "IKEA",
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "JYSK",
@@ -36,14 +52,22 @@
     "shop": "furniture",
     "latitude": 47.0319008,
     "longitude": 15.4204118,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ-Technik Bosnjak",
     "retailer": "kfz_technik_bosnjak",
     "shop": "car_repair",
     "latitude": 47.0338725,
-    "longitude": 15.4292914
+    "longitude": 15.4292914,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -51,7 +75,11 @@
     "shop": "clothes",
     "latitude": 47.0319606,
     "longitude": 15.4201538,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8054",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MAN Truck & Bus Vertrieb Österreich AG",
@@ -59,7 +87,9 @@
     "shop": "car_repair",
     "latitude": 47.0305686,
     "longitude": 15.4244237,
-    "brand": "MAN"
+    "brand": "MAN",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MAN Truck & Bus Vertrieb Österreich AG",
@@ -67,6 +97,8 @@
     "shop": "truck",
     "latitude": 47.0306122,
     "longitude": 15.4248035,
-    "brand": "MAN"
+    "brand": "MAN",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

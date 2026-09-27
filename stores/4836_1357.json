@@ -5,20 +5,32 @@
     "shop": "supermarket",
     "latitude": 48.3689637,
     "longitude": 13.5711705,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "4770",
+    "city": "Andorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Moser",
     "retailer": "moser",
     "shop": "butcher",
     "latitude": 48.3696419,
-    "longitude": 13.5716201
+    "longitude": 13.5716201,
+    "postcode": "4770",
+    "city": "Andorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schrattenecker Spielwaren Bürobedarf",
     "retailer": "schrattenecker_spielwaren_burobedarf",
     "shop": "toys",
     "latitude": 48.369458,
-    "longitude": 13.5712638
+    "longitude": 13.5712638,
+    "postcode": "4770",
+    "city": "Andorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

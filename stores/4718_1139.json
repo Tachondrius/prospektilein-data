@@ -5,7 +5,9 @@
     "shop": "chemist",
     "latitude": 47.183522,
     "longitude": 11.398613,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Der Bäcker Ruetz",
@@ -13,7 +15,11 @@
     "shop": "bakery",
     "latitude": 47.1835996,
     "longitude": 11.398398,
-    "brand": "Der Bäcker Ruetz"
+    "brand": "Der Bäcker Ruetz",
+    "postcode": "6141",
+    "city": "Schönberg im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -21,7 +27,11 @@
     "shop": "supermarket",
     "latitude": 47.1832063,
     "longitude": 11.3979038,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6141",
+    "city": "Schönberg im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KiK",
@@ -29,6 +39,10 @@
     "shop": "clothes",
     "latitude": 47.1836673,
     "longitude": 11.3982341,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "6141",
+    "city": "Schönberg im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

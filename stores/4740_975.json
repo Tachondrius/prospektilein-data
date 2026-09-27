@@ -4,7 +4,11 @@
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.4090742,
-    "longitude": 9.7548684
+    "longitude": 9.7548684,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.4097882,
     "longitude": 9.7527334,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 48.2090484,
     "longitude": 15.6433415,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -13,63 +17,97 @@
     "shop": "supermarket",
     "latitude": 48.2029141,
     "longitude": 15.6419008,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3100",
+    "city": "Oberwagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bogner",
     "retailer": "bogner",
     "shop": "butcher",
     "latitude": 48.204212,
-    "longitude": 15.6465382
+    "longitude": 15.6465382,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Buchhandlung Böck GmbH",
     "retailer": "buchhandlung_bock_gmbh",
     "shop": "books",
     "latitude": 48.2050105,
-    "longitude": 15.6487755
+    "longitude": 15.6487755,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Das Dirndl",
     "retailer": "das_dirndl",
     "shop": "farm",
     "latitude": 48.2032762,
-    "longitude": 15.6402104
+    "longitude": 15.6402104,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Demar",
     "retailer": "demar",
     "shop": "car_repair",
     "latitude": 48.2097134,
-    "longitude": 15.6443611
+    "longitude": 15.6443611,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Happy Car",
     "retailer": "happy_car",
     "shop": "car_repair",
     "latitude": 48.2064722,
-    "longitude": 15.6412136
+    "longitude": 15.6412136,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hörlein Brigitte",
     "retailer": "horlein_brigitte",
     "shop": "laundry",
     "latitude": 48.2038996,
-    "longitude": 15.6466142
+    "longitude": 15.6466142,
+    "postcode": "3100",
+    "city": "St. Pölten-Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "K-Sport",
     "retailer": "k_sport",
     "shop": "sports",
     "latitude": 48.2032775,
-    "longitude": 15.6407103
+    "longitude": 15.6407103,
+    "postcode": "3100",
+    "city": "St. Pölten-Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 48.2035604,
-    "longitude": 15.6421573
+    "longitude": 15.6421573,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -77,6 +115,10 @@
     "shop": "supermarket",
     "latitude": 48.2029491,
     "longitude": 15.6474147,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

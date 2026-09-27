@@ -4,7 +4,11 @@
     "retailer": "auto_wiener",
     "shop": "car",
     "latitude": 47.6909351,
-    "longitude": 13.6222332
+    "longitude": 13.6222332,
+    "postcode": "4820",
+    "city": "Bad Ischl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus De-Bettin",
@@ -12,7 +16,11 @@
     "shop": "car",
     "latitude": 47.6965545,
     "longitude": 13.6236979,
-    "brand": "Ford;Suzuki"
+    "brand": "Ford;Suzuki",
+    "postcode": "4820",
+    "city": "Bad Ischl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa Plus",
@@ -20,7 +28,9 @@
     "shop": "supermarket",
     "latitude": 47.6904644,
     "longitude": 13.6234835,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -28,7 +38,11 @@
     "shop": "chemist",
     "latitude": 47.690524,
     "longitude": 13.6237391,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4820",
+    "city": "Bad Ischl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -36,27 +50,43 @@
     "shop": "chemist",
     "latitude": 47.6950032,
     "longitude": 13.6214858,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4820",
+    "city": "Bad Ischl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mauna Loa OG",
     "retailer": "mauna_loa_og",
     "shop": "bicycle",
     "latitude": 47.6994499,
-    "longitude": 13.6236908
+    "longitude": 13.6236908,
+    "postcode": "4820",
+    "city": "Bad Ischl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Möbel Baumgartner",
     "retailer": "mobel_baumgartner",
     "shop": "furniture",
     "latitude": 47.6968745,
-    "longitude": 13.6225836
+    "longitude": 13.6225836,
+    "postcode": "4820",
+    "city": "Bad Ischl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Promberger",
     "retailer": "promberger",
     "shop": "electronics",
     "latitude": 47.6977536,
-    "longitude": 13.6222623
+    "longitude": 13.6222623,
+    "postcode": "4820",
+    "city": "Bad Ischl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

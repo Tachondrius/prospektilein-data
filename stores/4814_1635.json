@@ -4,35 +4,55 @@
     "retailer": "afb_ggmbh",
     "shop": "computer",
     "latitude": 48.1455082,
-    "longitude": 16.354166
+    "longitude": 16.354166,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Best Cars",
     "retailer": "best_cars",
     "shop": "car",
     "latitude": 48.1476558,
-    "longitude": 16.3533837
+    "longitude": 16.3533837,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen Dona",
     "retailer": "blumen_dona",
     "shop": "florist",
     "latitude": 48.1475343,
-    "longitude": 16.3509855
+    "longitude": 16.3509855,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen Stieber",
     "retailer": "blumen_stieber",
     "shop": "florist",
     "latitude": 48.146674,
-    "longitude": 16.3518683
+    "longitude": 16.3518683,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "CG Shop",
     "retailer": "cg_shop",
     "shop": "computer",
     "latitude": 48.1468606,
-    "longitude": 16.3579022
+    "longitude": 16.3579022,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Erwin Hanzl",
@@ -40,14 +60,20 @@
     "shop": "car_repair",
     "latitude": 48.1472628,
     "longitude": 16.3569077,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Jonny Ink Tattoo",
     "retailer": "jonny_ink_tattoo",
     "shop": "tattoo",
     "latitude": 48.146495,
-    "longitude": 16.3582884
+    "longitude": 16.3582884,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "PENNY",
@@ -55,14 +81,22 @@
     "shop": "supermarket",
     "latitude": 48.1482469,
     "longitude": 16.3531538,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "SG Velo",
     "retailer": "sg_velo",
     "shop": "bicycle",
     "latitude": 48.1418708,
-    "longitude": 16.3543739
+    "longitude": 16.3543739,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabaktrafik",
@@ -70,20 +104,29 @@
     "shop": "tobacco",
     "latitude": 48.1461546,
     "longitude": 16.3536007,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Time for You",
     "retailer": "time_for_you",
     "shop": "massage",
     "latitude": 48.1468112,
-    "longitude": 16.3534586
+    "longitude": 16.3534586,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Weichberger",
     "retailer": "weichberger",
     "shop": "tyres",
     "latitude": 48.1425535,
-    "longitude": 16.3581726
+    "longitude": 16.3581726,
+    "postcode": "1230",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

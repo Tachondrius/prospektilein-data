@@ -4,14 +4,18 @@
     "retailer": "imkerei_karl_und_brigitte_schaffel",
     "shop": "beekeeping",
     "latitude": 48.3165849,
-    "longitude": 15.8125055
+    "longitude": 15.8125055,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pet Grooming",
     "retailer": "shop_pet_grooming",
     "shop": "pet_grooming",
     "latitude": 48.3165458,
-    "longitude": 15.8119145
+    "longitude": 15.8119145,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -19,6 +23,8 @@
     "shop": "supermarket",
     "latitude": 48.3190096,
     "longitude": 15.8181177,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

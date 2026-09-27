@@ -4,7 +4,11 @@
     "retailer": "bauernladen",
     "shop": "farm",
     "latitude": 48.5113144,
-    "longitude": 15.5100086
+    "longitude": 15.5100086,
+    "postcode": "3542",
+    "city": "Gföhl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 48.5113378,
     "longitude": 15.5105828,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "3542",
+    "city": "Gföhl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Viva",
@@ -20,6 +28,8 @@
     "shop": "convenience",
     "latitude": 48.5120669,
     "longitude": 15.5105458,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

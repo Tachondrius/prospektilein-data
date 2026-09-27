@@ -4,14 +4,20 @@
     "retailer": "autohaus_wang_im_alpenvorland",
     "shop": "car_repair",
     "latitude": 48.0410471,
-    "longitude": 15.0228773
+    "longitude": 15.0228773,
+    "postcode": "3262",
+    "city": "Wang",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cut & Style",
     "retailer": "cut_und_style",
     "shop": "hairdresser",
     "latitude": 48.0448007,
-    "longitude": 15.0257704
+    "longitude": 15.0257704,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah&Frisch Wang",
@@ -19,6 +25,8 @@
     "shop": "supermarket",
     "latitude": 48.045529,
     "longitude": 15.0257242,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

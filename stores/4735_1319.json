@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.3562097,
     "longitude": 13.1995351,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 47.3503913,
     "longitude": 13.1944101,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fussl",
@@ -21,7 +29,11 @@
     "shop": "clothes",
     "latitude": 47.3500785,
     "longitude": 13.1961148,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fussl",
@@ -29,21 +41,29 @@
     "shop": "clothes",
     "latitude": 47.351,
     "longitude": 13.1960635,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gartencenter Zachhalmel",
     "retailer": "gartencenter_zachhalmel",
     "shop": "garden_centre",
     "latitude": 47.3512241,
-    "longitude": 13.1967659
+    "longitude": 13.1967659,
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gerberei Felsberger",
     "retailer": "gerberei_felsberger",
     "shop": "clothes",
     "latitude": 47.3529784,
-    "longitude": 13.1947556
+    "longitude": 13.1947556,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -51,14 +71,22 @@
     "shop": "supermarket",
     "latitude": 47.357317,
     "longitude": 13.197159,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Huber Computer & Netzwerktechnik",
     "retailer": "huber_computer_und_netzwerktechnik",
     "shop": "computer",
     "latitude": 47.353528,
-    "longitude": 13.1954663
+    "longitude": 13.1954663,
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "JET",
@@ -66,7 +94,11 @@
     "shop": "convenience",
     "latitude": 47.3504457,
     "longitude": 13.1941573,
-    "brand": "JET"
+    "brand": "JET",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Klipp",
@@ -74,14 +106,20 @@
     "shop": "hairdresser",
     "latitude": 47.3510871,
     "longitude": 13.1960711,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "garden_centre",
     "latitude": 47.3522431,
-    "longitude": 13.1970937
+    "longitude": 13.1970937,
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mercedes-Pappas",
@@ -89,7 +127,11 @@
     "shop": "car",
     "latitude": 47.3560552,
     "longitude": 13.1966058,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -97,7 +139,9 @@
     "shop": "supermarket",
     "latitude": 47.3510739,
     "longitude": 13.1963317,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Würth Hochenburger Baumarkt",
@@ -105,7 +149,11 @@
     "shop": "hardware",
     "latitude": 47.3553422,
     "longitude": 13.1978928,
-    "brand": "Würth"
+    "brand": "Würth",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -113,6 +161,10 @@
     "shop": "trade",
     "latitude": 47.3557694,
     "longitude": 13.1983181,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -5,62 +5,90 @@
     "shop": "supermarket",
     "latitude": 47.5189848,
     "longitude": 13.4310385,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Hauser",
     "retailer": "backerei_hauser",
     "shop": "bakery",
     "latitude": 47.5147447,
-    "longitude": 13.4314508
+    "longitude": 13.4314508,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Elektro Krallinger",
     "retailer": "elektro_krallinger",
     "shop": "electrical",
     "latitude": 47.5120042,
-    "longitude": 13.4301838
+    "longitude": 13.4301838,
+    "postcode": "5524",
+    "city": "Annaberg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Martini Sportswear",
     "retailer": "martini_sportswear",
     "shop": "clothes",
     "latitude": 47.5127081,
-    "longitude": 13.4316068
+    "longitude": 13.4316068,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Martini Sportswear Outlet",
     "retailer": "martini_sportswear_outlet",
     "shop": "clothes",
     "latitude": 47.5125377,
-    "longitude": 13.4314475
+    "longitude": 13.4314475,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Rupert Hirscher",
     "retailer": "rupert_hirscher",
     "shop": "hardware",
     "latitude": 47.5109368,
-    "longitude": 13.430786
+    "longitude": 13.430786,
+    "postcode": "5524",
+    "city": "Annaberg-Lungötz",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Russeger",
     "retailer": "russeger",
     "shop": "sports",
     "latitude": 47.511179,
-    "longitude": 13.4314567
+    "longitude": 13.4314567,
+    "postcode": "5524",
+    "city": "Annaberg-Lungötz",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak-Trafik",
     "retailer": "tabak_trafik",
     "shop": "stationery",
     "latitude": 47.5129086,
-    "longitude": 13.4315204
+    "longitude": 13.4315204,
+    "postcode": "5524",
+    "city": "Annaberg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Visio Tronic - Outdoor Display Innovations",
     "retailer": "visio_tronic_outdoor_display_innovations",
     "shop": "electronics",
     "latitude": 47.5110931,
-    "longitude": 13.4305177
+    "longitude": 13.4305177,
+    "postcode": "5524",
+    "city": "Annaberg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

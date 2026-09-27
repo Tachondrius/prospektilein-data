@@ -4,7 +4,11 @@
     "retailer": "blumenhalle_lenz",
     "shop": "florist",
     "latitude": 47.4240383,
-    "longitude": 9.7283772
+    "longitude": 9.7283772,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.4238172,
     "longitude": 9.7289462,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

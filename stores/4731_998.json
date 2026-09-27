@@ -4,20 +4,28 @@
     "retailer": "shop_dairy",
     "shop": "dairy",
     "latitude": 47.3196022,
-    "longitude": 9.9851891
+    "longitude": 9.9851891,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schuhhaus Beer",
     "retailer": "schuhhaus_beer",
     "shop": "shoes",
     "latitude": 47.3199174,
-    "longitude": 9.9857818
+    "longitude": 9.9857818,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sport Fuchs",
     "retailer": "sport_fuchs",
     "shop": "sports",
     "latitude": 47.3193845,
-    "longitude": 9.9857329
+    "longitude": 9.9857329,
+    "postcode": "6883",
+    "city": "Au",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

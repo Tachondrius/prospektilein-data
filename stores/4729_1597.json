@@ -5,20 +5,30 @@
     "shop": "car",
     "latitude": 47.2905141,
     "longitude": 15.9797532,
-    "brand": "VW;Audi;Skoda"
+    "brand": "VW;Audi;Skoda",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hair & Flair",
     "retailer": "hair_und_flair",
     "shop": "hairdresser",
     "latitude": 47.2902624,
-    "longitude": 15.9783741
+    "longitude": 15.9783741,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ortho-Aktiv Orthopädie",
     "retailer": "ortho_aktiv_orthopadie",
     "shop": "shoes",
     "latitude": 47.2904387,
-    "longitude": 15.978478
+    "longitude": 15.978478,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

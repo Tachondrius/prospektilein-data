@@ -4,7 +4,11 @@
     "retailer": "alpine_mode_mathias_schrempf",
     "shop": "sports",
     "latitude": 47.412378,
-    "longitude": 13.6785327
+    "longitude": 13.6785327,
+    "postcode": "8972",
+    "city": "Ramsau am Dachstein",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,48 +16,72 @@
     "shop": "supermarket",
     "latitude": 47.418047,
     "longitude": 13.6703852,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8972",
+    "city": "Ramsau am Dachstein",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Christl",
     "retailer": "friseur_christl",
     "shop": "hairdresser",
     "latitude": 47.4146874,
-    "longitude": 13.6763775
+    "longitude": 13.6763775,
+    "postcode": "8972",
+    "city": "Ramsau am Dachstein",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kaufhaus Plut",
     "retailer": "kaufhaus_plut",
     "shop": "mall",
     "latitude": 47.4148672,
-    "longitude": 13.6756752
+    "longitude": 13.6756752,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kunstschmiede",
     "retailer": "kunstschmiede",
     "shop": "jewelry",
     "latitude": 47.4177215,
-    "longitude": 13.6713911
+    "longitude": 13.6713911,
+    "postcode": "8972",
+    "city": "Ramsau am Dachstein",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Möbel Wohlfahrter",
     "retailer": "mobel_wohlfahrter",
     "shop": "furniture",
     "latitude": 47.4172955,
-    "longitude": 13.6749661
+    "longitude": 13.6749661,
+    "postcode": "8972",
+    "city": "Ramsau am Dachstein",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sport Steiner",
     "retailer": "sport_steiner",
     "shop": "sports",
     "latitude": 47.4173653,
-    "longitude": 13.6726546
+    "longitude": 13.6726546,
+    "postcode": "8972",
+    "city": "Ramsau am Dachstein",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.4146216,
-    "longitude": 13.6759038
+    "longitude": 13.6759038,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

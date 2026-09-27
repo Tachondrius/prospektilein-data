@@ -4,7 +4,9 @@
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 48.256489,
-    "longitude": 14.1667496
+    "longitude": 14.1667496,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 48.2569622,
     "longitude": 14.161561,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4062",
+    "city": "Kirchberg-Thening",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

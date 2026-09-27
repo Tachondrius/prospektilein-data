@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 47.8778848,
     "longitude": 16.3658431,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2490",
+    "city": "Ebenfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Number 1 Barber Shop",
     "retailer": "number_1_barber_shop",
     "shop": "hairdresser",
     "latitude": 47.8775256,
-    "longitude": 16.3695236
+    "longitude": 16.3695236,
+    "postcode": "2490",
+    "city": "Ebenfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny Markt",
@@ -20,6 +28,10 @@
     "shop": "supermarket",
     "latitude": 47.8771302,
     "longitude": 16.3670295,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2490",
+    "city": "Ebenfurth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

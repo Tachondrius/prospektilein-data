@@ -4,13 +4,19 @@
     "retailer": "erdbeeren_spargel",
     "shop": "farm",
     "latitude": 48.2107881,
-    "longitude": 16.2544697
+    "longitude": 16.2544697,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Shiatsu am Kordon",
     "retailer": "shiatsu_am_kordon",
     "shop": "massage",
     "latitude": 48.2183609,
-    "longitude": 16.250563
+    "longitude": 16.250563,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

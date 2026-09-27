@@ -5,14 +5,20 @@
     "shop": "doityourself",
     "latitude": 48.04403,
     "longitude": 15.6816846,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Manuela´s Schneiderladen - mit Herz und Faden",
     "retailer": "manuela_s_schneiderladen_mit_herz_und_faden",
     "shop": "tailor",
     "latitude": 48.044338,
-    "longitude": 15.6802747
+    "longitude": 15.6802747,
+    "postcode": "3161",
+    "city": "St. Veit an der Gölsen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Subaru",
@@ -20,6 +26,8 @@
     "shop": "car",
     "latitude": 48.0435221,
     "longitude": 15.6815112,
-    "brand": "Subaru"
+    "brand": "Subaru",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

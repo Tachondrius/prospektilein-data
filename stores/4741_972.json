@@ -4,7 +4,11 @@
     "retailer": "back_birkenwiese",
     "shop": "bakery",
     "latitude": 47.4132222,
-    "longitude": 9.7263887
+    "longitude": 9.7263887,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bürgle Garage",
@@ -12,14 +16,22 @@
     "shop": "car",
     "latitude": 47.4105566,
     "longitude": 9.7218548,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fastbox",
     "retailer": "fastbox",
     "shop": "car_repair",
     "latitude": 47.4106181,
-    "longitude": 9.7211459
+    "longitude": 9.7211459,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lidl",
@@ -27,14 +39,22 @@
     "shop": "supermarket",
     "latitude": 47.4103939,
     "longitude": 9.7252403,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schlüssel Klien",
     "retailer": "schlussel_klien",
     "shop": "locksmith",
     "latitude": 47.4104667,
-    "longitude": 9.7201553
+    "longitude": 9.7201553,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "SEPPcycles e.U.",
@@ -42,6 +62,10 @@
     "shop": "bicycle",
     "latitude": 47.4122709,
     "longitude": 9.7242839,
-    "brand": "Pivot;Orbea;Unno;Sour"
+    "brand": "Pivot;Orbea;Unno;Sour",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

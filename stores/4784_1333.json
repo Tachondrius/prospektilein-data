@@ -4,7 +4,11 @@
     "retailer": "bert_s_carage",
     "shop": "car_repair",
     "latitude": 47.8464711,
-    "longitude": 13.3318748
+    "longitude": 13.3318748,
+    "postcode": "5310",
+    "city": "Tiefgraben",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 47.8455385,
     "longitude": 13.3376873,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5310",
+    "city": "St. Lorenz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pagro",
@@ -20,6 +28,10 @@
     "shop": "stationery",
     "latitude": 47.8463495,
     "longitude": 13.3383677,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "5310",
+    "city": "St. Lorenz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

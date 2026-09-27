@@ -4,41 +4,61 @@
     "retailer": "bau_chem_gmbh",
     "shop": "trade",
     "latitude": 47.3067137,
-    "longitude": 9.6181144
+    "longitude": 9.6181144,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "KFZ Technik Nachbaur",
     "retailer": "kfz_technik_nachbaur",
     "shop": "car_repair",
     "latitude": 47.3076221,
-    "longitude": 9.6178705
+    "longitude": 9.6178705,
+    "postcode": "6832",
+    "city": "Röthis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "olina Küchen",
     "retailer": "olina_kuchen",
     "shop": "kitchen",
     "latitude": 47.3060928,
-    "longitude": 9.6177386
+    "longitude": 9.6177386,
+    "postcode": "6832",
+    "city": "Röthis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "sto VerkaufsCenter",
     "retailer": "sto_verkaufscenter",
     "shop": "trade",
     "latitude": 47.3072163,
-    "longitude": 9.618675
+    "longitude": 9.618675,
+    "postcode": "6832",
+    "city": "Röthis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trend Immo",
     "retailer": "trend_immo",
     "shop": "houseware",
     "latitude": 47.3068143,
-    "longitude": 9.6198828
+    "longitude": 9.6198828,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Würth Shop Röthis",
     "retailer": "wurth_shop_rothis",
     "shop": "wholesale",
     "latitude": 47.3061786,
-    "longitude": 9.6187847
+    "longitude": 9.6187847,
+    "postcode": "6832",
+    "city": "Röthis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

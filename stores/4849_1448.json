@@ -4,20 +4,30 @@
     "retailer": "ikea",
     "shop": "furniture",
     "latitude": 48.4961245,
-    "longitude": 14.4872408
+    "longitude": 14.4872408,
+    "postcode": "4240",
+    "city": "Freitadt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus Gen. Freistadt",
     "retailer": "lagerhaus_gen_freistadt",
     "shop": "car_repair",
     "latitude": 48.4976796,
-    "longitude": 14.4853769
+    "longitude": 14.4853769,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Radsport Fischerlehner",
     "retailer": "radsport_fischerlehner",
     "shop": "bicycle",
     "latitude": 48.4964008,
-    "longitude": 14.4856764
+    "longitude": 14.4856764,
+    "postcode": "4240",
+    "city": "Freitadt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

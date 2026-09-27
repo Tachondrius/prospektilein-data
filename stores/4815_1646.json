@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1548288,
     "longitude": 16.4656729,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -13,14 +17,20 @@
     "shop": "chemist",
     "latitude": 48.1547276,
     "longitude": 16.4651192,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Garden Centre",
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 48.1510538,
-    "longitude": 16.4654356
+    "longitude": 16.4654356,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lidl",
@@ -28,14 +38,20 @@
     "shop": "supermarket",
     "latitude": 48.1517623,
     "longitude": 16.4652897,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Nefis Imbiss & Bäckerei",
     "retailer": "nefis_imbiss_und_backerei",
     "shop": "bakery",
     "latitude": 48.1549444,
-    "longitude": 16.4662453
+    "longitude": 16.4662453,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "NKD",
@@ -43,7 +59,11 @@
     "shop": "clothes",
     "latitude": 48.1548828,
     "longitude": 16.464703,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "PENNY",
@@ -51,34 +71,54 @@
     "shop": "supermarket",
     "latitude": 48.1533618,
     "longitude": 16.4651115,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "SE&PAŞ",
     "retailer": "se_und_pas",
     "shop": "supermarket",
     "latitude": 48.1530938,
-    "longitude": 16.4679095
+    "longitude": 16.4679095,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Starkl",
     "retailer": "starkl",
     "shop": "garden_centre",
     "latitude": 48.1510199,
-    "longitude": 16.4650025
+    "longitude": 16.4650025,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik Bosch",
     "retailer": "trafik_bosch",
     "shop": "tobacco",
     "latitude": 48.1548109,
-    "longitude": 16.4658661
+    "longitude": 16.4658661,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Veggie Goodies",
     "retailer": "veggie_goodies",
     "shop": "supermarket",
     "latitude": 48.1529198,
-    "longitude": 16.4647443
+    "longitude": 16.4647443,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

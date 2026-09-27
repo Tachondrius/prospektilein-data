@@ -4,20 +4,31 @@
     "retailer": "honeder_naturbackstube",
     "shop": "bakery",
     "latitude": 48.368177,
-    "longitude": 14.515811
+    "longitude": 14.515811,
+    "postcode": "4232",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Zauner",
     "retailer": "salon_zauner",
     "shop": "hairdresser",
     "latitude": 48.3669596,
-    "longitude": 14.5177595
+    "longitude": 14.5177595,
+    "postcode": "4232",
+    "city": "Hagenberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Struwelliese Friseure",
     "retailer": "struwelliese_friseure",
     "shop": "hairdresser",
     "latitude": 48.3672074,
-    "longitude": 14.516875
+    "longitude": 14.516875,
+    "postcode": "4232",
+    "city": "Hagenberg im Mühlkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

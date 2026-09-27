@@ -4,42 +4,60 @@
     "retailer": "fa_pernsteiner",
     "shop": "tobacco",
     "latitude": 48.444436,
-    "longitude": 13.9386775
+    "longitude": 13.9386775,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hoarschnid, Friseur",
     "retailer": "hoarschnid_friseur",
     "shop": "hairdresser",
     "latitude": 48.4440971,
-    "longitude": 13.9383185
+    "longitude": 13.9383185,
+    "postcode": "4131",
+    "city": "Kirchberg ob der Donau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ihre Linie, Musikagentur",
     "retailer": "ihre_linie_musikagentur",
     "shop": "music",
     "latitude": 48.4440313,
-    "longitude": 13.9332351
+    "longitude": 13.9332351,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pernsteiner GmbH",
     "retailer": "pernsteiner_gmbh",
     "shop": "travel_agency",
     "latitude": 48.4441667,
-    "longitude": 13.9397559
+    "longitude": 13.9397559,
+    "postcode": "4131",
+    "city": "Kirchberg ob der Donau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Roswitha Koblmüller, Praxis \"Fühl dich Wohl\"",
     "retailer": "roswitha_koblmuller_praxis_fuhl_dich_wohl",
     "shop": "massage",
     "latitude": 48.4441964,
-    "longitude": 13.9371769
+    "longitude": 13.9371769,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schaufleischerei Zalto-Höglinger",
     "retailer": "schaufleischerei_zalto_hoglinger",
     "shop": "butcher",
     "latitude": 48.4443135,
-    "longitude": 13.9363262
+    "longitude": 13.9363262,
+    "postcode": "4131",
+    "city": "Kirchberg ob der Donau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -47,6 +65,10 @@
     "shop": "convenience",
     "latitude": 48.444447,
     "longitude": 13.9386399,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4131",
+    "city": "Kirchberg ob der Donau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

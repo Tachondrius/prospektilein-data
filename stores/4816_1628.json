@@ -4,7 +4,9 @@
     "retailer": "ballonwerk",
     "shop": "toys",
     "latitude": 48.1698948,
-    "longitude": 16.28664
+    "longitude": 16.28664,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,14 +14,20 @@
     "shop": "supermarket",
     "latitude": 48.1676438,
     "longitude": 16.2837972,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bintat Express",
     "retailer": "bintat_express",
     "shop": "supermarket",
     "latitude": 48.1681106,
-    "longitude": 16.2842078
+    "longitude": 16.2842078,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen B&B",
@@ -27,28 +35,38 @@
     "shop": "florist",
     "latitude": 48.1682093,
     "longitude": 16.2843026,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fische Spezialitäten",
     "retailer": "fische_spezialitaten",
     "shop": "seafood",
     "latitude": 48.1686855,
-    "longitude": 16.2842208
+    "longitude": 16.2842208,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Funeral Directors",
     "retailer": "shop_funeral_directors",
     "shop": "funeral_directors",
     "latitude": 48.168486,
-    "longitude": 16.2832623
+    "longitude": 16.2832623,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hair Cut&Style",
     "retailer": "hair_cut_und_style",
     "shop": "hairdresser",
     "latitude": 48.1697697,
-    "longitude": 16.2861987
+    "longitude": 16.2861987,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "KiK",
@@ -56,27 +74,36 @@
     "shop": "clothes",
     "latitude": 48.1672607,
     "longitude": 16.2834527,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "1130",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lederwaren",
     "retailer": "lederwaren",
     "shop": "leather",
     "latitude": 48.1684467,
-    "longitude": 16.2845463
+    "longitude": 16.2845463,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "luftballon.at",
     "retailer": "luftballon_at",
     "shop": "gift",
     "latitude": 48.1684697,
-    "longitude": 16.2834453
+    "longitude": 16.2834453,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tiamo Coiffeur",
     "retailer": "tiamo_coiffeur",
     "shop": "hairdresser",
     "latitude": 48.1691208,
-    "longitude": 16.2846759
+    "longitude": 16.2846759,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

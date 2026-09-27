@@ -4,7 +4,9 @@
     "retailer": "rosalia",
     "shop": "hairdresser",
     "latitude": 46.4898722,
-    "longitude": 14.5894486
+    "longitude": 14.5894486,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 46.4880486,
     "longitude": 14.5897163,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9135",
+    "city": "Eisenkappel-Vellach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

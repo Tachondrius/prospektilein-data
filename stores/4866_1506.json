@@ -4,49 +4,66 @@
     "retailer": "bauernladen",
     "shop": "farm",
     "latitude": 48.6682013,
-    "longitude": 15.0624713
+    "longitude": 15.0624713,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cafe-Bäckerei Prinz",
     "retailer": "cafe_backerei_prinz",
     "shop": "bakery",
     "latitude": 48.6682286,
-    "longitude": 15.06208
+    "longitude": 15.06208,
+    "postcode": "3931",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Strohmayer",
     "retailer": "kfz_strohmayer",
     "shop": "car_repair",
     "latitude": 48.6690305,
-    "longitude": 15.0612493
+    "longitude": 15.0612493,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Werkstatt",
     "retailer": "kfz_werkstatt",
     "shop": "car_repair",
     "latitude": 48.667528,
-    "longitude": 15.0679819
+    "longitude": 15.0679819,
+    "postcode": "3931",
+    "city": "Schweiggers",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kfz-Technik Kurz",
     "retailer": "kfz_technik_kurz",
     "shop": "car_repair",
     "latitude": 48.6680585,
-    "longitude": 15.0630089
+    "longitude": 15.0630089,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pollak",
     "retailer": "nah_und_frisch",
     "shop": "supermarket",
     "latitude": 48.6678988,
-    "longitude": 15.0633069
+    "longitude": 15.0633069,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Salon Sandra",
     "retailer": "salon_sandra",
     "shop": "hairdresser",
     "latitude": 48.6674319,
-    "longitude": 15.0632997
+    "longitude": 15.0632997,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -54,13 +71,21 @@
     "shop": "supermarket",
     "latitude": 48.6672203,
     "longitude": 15.067801,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3931",
+    "city": "Schweiggers",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Suzuki/Opel",
     "retailer": "suzuki_opel",
     "shop": "car",
     "latitude": 48.6672962,
-    "longitude": 15.0681426
+    "longitude": 15.0681426,
+    "postcode": "3931",
+    "city": "Schweiggers",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

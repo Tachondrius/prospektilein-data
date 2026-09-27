@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 47.0033241,
     "longitude": 12.4604582,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "9972",
+    "city": "Virgen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bauernladen Virgen",
     "retailer": "bauernladen_virgen",
     "shop": "gift",
     "latitude": 47.0030913,
-    "longitude": 12.4600026
+    "longitude": 12.4600026,
+    "postcode": "9972",
+    "city": "Virgen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

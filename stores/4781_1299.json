@@ -4,7 +4,11 @@
     "retailer": "backeria",
     "shop": "bakery",
     "latitude": 47.8157866,
-    "longitude": 12.9903541
+    "longitude": 12.9903541,
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bauhaus",
@@ -12,27 +16,39 @@
     "shop": "doityourself",
     "latitude": 47.8147843,
     "longitude": 12.9969195,
-    "brand": "Bauhaus"
+    "brand": "Bauhaus",
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bauhaus - Gartencenter",
     "retailer": "bauhaus",
     "shop": "garden_centre",
     "latitude": 47.8143279,
-    "longitude": 12.9980753
+    "longitude": 12.9980753,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bull Shop",
     "retailer": "bull_shop",
     "shop": "fan",
     "latitude": 47.8153679,
-    "longitude": 12.9985741
+    "longitude": 12.9985741,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Webkom EDV Dienste GmbH",
     "retailer": "webkom_edv_dienste_gmbh",
     "shop": "computer",
     "latitude": 47.8107821,
-    "longitude": 12.9904397
+    "longitude": 12.9904397,
+    "postcode": "5071",
+    "city": "Wals-Siezenheim",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -5,13 +5,19 @@
     "shop": "motorcycle",
     "latitude": 48.2528296,
     "longitude": 13.1623738,
-    "brand": "Daihatsu;Lada;Kawasaki"
+    "brand": "Daihatsu;Lada;Kawasaki",
+    "postcode": "4952",
+    "city": "Weng im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KFZ-Stadler",
     "retailer": "kfz_stadler",
     "shop": "car_repair",
     "latitude": 48.2523914,
-    "longitude": 13.1611521
+    "longitude": 13.1611521,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

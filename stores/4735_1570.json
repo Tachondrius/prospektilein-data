@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.354798,
     "longitude": 15.7013753,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8190",
+    "city": "Birkfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Jeans-Kast'l",
     "retailer": "jeans_kast_l",
     "shop": "clothes",
     "latitude": 47.3546928,
-    "longitude": 15.7005599
+    "longitude": 15.7005599,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

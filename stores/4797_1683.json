@@ -4,7 +4,11 @@
     "retailer": "hw_wohnen_gmbh",
     "shop": "furniture",
     "latitude": 47.9705234,
-    "longitude": 16.8373568
+    "longitude": 16.8373568,
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "TEDi",
@@ -12,13 +16,21 @@
     "shop": "variety_store",
     "latitude": 47.9722219,
     "longitude": 16.8395791,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.9734688,
-    "longitude": 16.8399305
+    "longitude": 16.8399305,
+    "postcode": "7100",
+    "city": "Neusiedl am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

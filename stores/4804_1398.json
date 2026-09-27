@@ -4,7 +4,11 @@
     "retailer": "autohaus_silbermayr_gmbh",
     "shop": "car_repair",
     "latitude": 48.0441426,
-    "longitude": 13.9815163
+    "longitude": 13.9815163,
+    "postcode": "4653",
+    "city": "Eberstalzell",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -12,28 +16,40 @@
     "shop": "supermarket",
     "latitude": 48.0470219,
     "longitude": 13.9875545,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4653",
+    "city": "Eberstalzell",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei & Café Schmidler",
     "retailer": "backerei_und_cafe_schmidler",
     "shop": "bakery",
     "latitude": 48.044042,
-    "longitude": 13.9822244
+    "longitude": 13.9822244,
+    "postcode": "4653",
+    "city": "Eberstalzell",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dorfladenbox Eberstalzell",
     "retailer": "dorfladenbox_eberstalzell",
     "shop": "food",
     "latitude": 48.0434126,
-    "longitude": 13.9815002
+    "longitude": 13.9815002,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fleischerei Kölblinger",
     "retailer": "fleischerei_kolblinger",
     "shop": "butcher",
     "latitude": 48.0441445,
-    "longitude": 13.9807709
+    "longitude": 13.9807709,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah&Frisch s'Gschäft ums Eck",
@@ -41,20 +57,28 @@
     "shop": "convenience",
     "latitude": 48.0452618,
     "longitude": 13.9839841,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4653",
+    "city": "Eberstalzell",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Kohler",
     "retailer": "salon_kohler",
     "shop": "hairdresser",
     "latitude": 48.0439602,
-    "longitude": 13.9819394
+    "longitude": 13.9819394,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zweirad Springer",
     "retailer": "zweirad_springer",
     "shop": "motorcycle",
     "latitude": 48.0435073,
-    "longitude": 13.988578
+    "longitude": 13.988578,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

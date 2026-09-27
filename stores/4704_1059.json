@@ -4,14 +4,19 @@
     "retailer": "bacher_sportcenter_serfaus",
     "shop": "sports",
     "latitude": 47.0402833,
-    "longitude": 10.5982838
+    "longitude": 10.5982838,
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bsundrix",
     "retailer": "bsundrix",
     "shop": "gift",
     "latitude": 47.0400874,
-    "longitude": 10.5999601
+    "longitude": 10.5999601,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -19,20 +24,26 @@
     "shop": "sports",
     "latitude": 47.0406246,
     "longitude": 10.5980869,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Patscheider",
     "retailer": "patscheider",
     "shop": "sports",
     "latitude": 47.0404127,
-    "longitude": 10.5974149
+    "longitude": 10.5974149,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rodelverleih Haus Theresia",
     "retailer": "rodelverleih_haus_theresia",
     "shop": "sports",
     "latitude": 47.0408273,
-    "longitude": 10.596834
+    "longitude": 10.596834,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

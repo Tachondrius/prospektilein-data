@@ -4,7 +4,9 @@
     "retailer": "althaler",
     "shop": "bakery",
     "latitude": 47.0388575,
-    "longitude": 10.6033681
+    "longitude": 10.6033681,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,14 +14,20 @@
     "shop": "bakery",
     "latitude": 47.0388396,
     "longitude": 10.604408,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6534",
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Between the lines",
     "retailer": "between_the_lines",
     "shop": "gift",
     "latitude": 47.0389631,
-    "longitude": 10.6036786
+    "longitude": 10.6036786,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -27,35 +35,53 @@
     "shop": "supermarket",
     "latitude": 47.0378172,
     "longitude": 10.6058001,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6534",
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Drogerie Stecher",
     "retailer": "drogerie_stecher",
     "shop": "chemist",
     "latitude": 47.0385,
-    "longitude": 10.6051229
+    "longitude": 10.6051229,
+    "postcode": "6534",
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Greiters Ladele",
     "retailer": "greiters_ladele",
     "shop": "gift",
     "latitude": 47.0388297,
-    "longitude": 10.6045214
+    "longitude": 10.6045214,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gusto Momente",
     "retailer": "gusto_momente",
     "shop": "supermarket",
     "latitude": 47.0384887,
-    "longitude": 10.6052307
+    "longitude": 10.6052307,
+    "postcode": "6534",
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Handl",
     "retailer": "handl",
     "shop": "butcher",
     "latitude": 47.0383655,
-    "longitude": 10.6073473
+    "longitude": 10.6073473,
+    "postcode": "6534",
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -63,28 +89,38 @@
     "shop": "sports",
     "latitude": 47.0378145,
     "longitude": 10.6056073,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Joe's Sportstadl",
     "retailer": "joe_s_sportstadl",
     "shop": "sports",
     "latitude": 47.0393289,
-    "longitude": 10.6014202
+    "longitude": 10.6014202,
+    "postcode": "6534",
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "M Preis",
     "retailer": "m_preis",
     "shop": "supermarket",
     "latitude": 47.0388004,
-    "longitude": 10.604344
+    "longitude": 10.604344,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mitbringsl",
     "retailer": "mitbringsl",
     "shop": "gift",
     "latitude": 47.0376893,
-    "longitude": 10.606099
+    "longitude": 10.606099,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -92,35 +128,52 @@
     "shop": "supermarket",
     "latitude": 47.0388455,
     "longitude": 10.6043037,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6534",
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Patscheider",
     "retailer": "patscheider",
     "shop": "sports",
     "latitude": 47.0377854,
-    "longitude": 10.6059004
+    "longitude": 10.6059004,
+    "postcode": "6534",
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Patscheider",
     "retailer": "patscheider",
     "shop": "sports",
     "latitude": 47.0377984,
-    "longitude": 10.6062382
+    "longitude": 10.6062382,
+    "postcode": "6534",
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Peep Shop",
     "retailer": "peep_shop",
     "shop": "sports",
     "latitude": 47.038518,
-    "longitude": 10.6075837
+    "longitude": 10.6075837,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Plangger",
     "retailer": "plangger",
     "shop": "deli",
     "latitude": 47.0382725,
-    "longitude": 10.6053495
+    "longitude": 10.6053495,
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "s'Guzzele",
@@ -128,34 +181,48 @@
     "shop": "gift",
     "latitude": 47.0379234,
     "longitude": 10.6074118,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "s'Ladele",
     "retailer": "s_ladele",
     "shop": "gift",
     "latitude": 47.0371184,
-    "longitude": 10.6078355
+    "longitude": 10.6078355,
+    "postcode": "6534",
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuh Sport Hammerle",
     "retailer": "schuh_sport_hammerle",
     "shop": "sports",
     "latitude": 47.0387907,
-    "longitude": 10.6048521
+    "longitude": 10.6048521,
+    "postcode": "6534",
+    "city": "Serfaus",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport und Mode Lenz",
     "retailer": "sport_und_mode_lenz",
     "shop": "clothes",
     "latitude": 47.038557,
-    "longitude": 10.6074179
+    "longitude": 10.6074179,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Uhren - Juwelen Winkler",
     "retailer": "uhren_juwelen_winkler",
     "shop": "jewelry",
     "latitude": 47.0392662,
-    "longitude": 10.6022469
+    "longitude": 10.6022469,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

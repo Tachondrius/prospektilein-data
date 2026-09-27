@@ -4,14 +4,20 @@
     "retailer": "ideenpark",
     "shop": "garden_centre",
     "latitude": 47.3419138,
-    "longitude": 9.6288145
+    "longitude": 9.6288145,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Natursteine Fend",
     "retailer": "natursteine_fend",
     "shop": "trade",
     "latitude": 47.3418579,
-    "longitude": 9.6293519
+    "longitude": 9.6293519,
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 47.3497392,
     "longitude": 9.622701,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6841",
+    "city": "Mäder",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

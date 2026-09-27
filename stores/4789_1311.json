@@ -4,35 +4,51 @@
     "retailer": "autohaus_gschaider",
     "shop": "car",
     "latitude": 47.8940611,
-    "longitude": 13.1190208
+    "longitude": 13.1190208,
+    "postcode": "5201",
+    "city": "Seekirchen am Wallersee",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fisherman‘s Friend",
     "retailer": "fishermans_friend",
     "shop": "department_store",
     "latitude": 47.895054,
-    "longitude": 13.1183579
+    "longitude": 13.1183579,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Genussladen DAHOAM",
     "retailer": "genussladen_dahoam",
     "shop": "convenience",
     "latitude": 47.8971202,
-    "longitude": 13.1184228
+    "longitude": 13.1184228,
+    "postcode": "5201",
+    "city": "Seekirchen am Wallersee",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Greengrocer",
     "retailer": "shop_greengrocer",
     "shop": "greengrocer",
     "latitude": 47.8970304,
-    "longitude": 13.1182298
+    "longitude": 13.1182298,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Siglmühle Tiernahrung Pellets",
     "retailer": "siglmuhle_tiernahrung_pellets",
     "shop": "pet_grooming",
     "latitude": 47.8977748,
-    "longitude": 13.118074
+    "longitude": 13.118074,
+    "postcode": "5201",
+    "city": "Seekirchen am Wallersee",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Unimarkt",
@@ -40,6 +56,8 @@
     "shop": "supermarket",
     "latitude": 47.8985124,
     "longitude": 13.1186296,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -4,14 +4,20 @@
     "retailer": "moar_back",
     "shop": "bakery",
     "latitude": 47.9043379,
-    "longitude": 13.5734913
+    "longitude": 13.5734913,
+    "postcode": "4852",
+    "city": "Weyregg am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Segelschule Weyregg",
     "retailer": "segelschule_weyregg",
     "shop": "rental",
     "latitude": 47.9094066,
-    "longitude": 13.5718812
+    "longitude": 13.5718812,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -19,20 +25,32 @@
     "shop": "supermarket",
     "latitude": 47.9073807,
     "longitude": 13.5715606,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4852",
+    "city": "Weyregg am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Under Pressure Divecenter",
     "retailer": "under_pressure_divecenter",
     "shop": "scuba_diving",
     "latitude": 47.9092976,
-    "longitude": 13.5721938
+    "longitude": 13.5721938,
+    "postcode": "4852",
+    "city": "Weyregg am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Werner Hemetsberger",
     "retailer": "werner_hemetsberger",
     "shop": "hairdresser",
     "latitude": 47.9017426,
-    "longitude": 13.5702921
+    "longitude": 13.5702921,
+    "postcode": "4852",
+    "city": "Weyregg am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

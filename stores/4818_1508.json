@@ -5,34 +5,50 @@
     "shop": "supermarket",
     "latitude": 48.1876971,
     "longitude": 15.086322,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "3680",
+    "city": "Persenbeug-Gottsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Farbenhandel",
     "retailer": "farbenhandel",
     "shop": "paint",
     "latitude": 48.1878705,
-    "longitude": 15.0856254
+    "longitude": 15.0856254,
+    "postcode": "3680",
+    "city": "Persenbeug",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haarstudio Klaudia",
     "retailer": "haarstudio_klaudia",
     "shop": "hairdresser",
     "latitude": 48.1876664,
-    "longitude": 15.080238
+    "longitude": 15.080238,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "HAIR-lich Freiberger",
     "retailer": "hair_lich_freiberger",
     "shop": "hairdresser",
     "latitude": 48.187071,
-    "longitude": 15.083845
+    "longitude": 15.083845,
+    "postcode": "3680",
+    "city": "Persenbeug",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Bayer Sebastian",
     "retailer": "trafik_bayer_sebastian",
     "shop": "newsagent",
     "latitude": 48.1876451,
-    "longitude": 15.0836559
+    "longitude": 15.0836559,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

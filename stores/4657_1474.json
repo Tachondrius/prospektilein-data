@@ -4,21 +4,29 @@
     "retailer": "backerei_haimburger",
     "shop": "bakery",
     "latitude": 46.5780863,
-    "longitude": 14.7432439
+    "longitude": 14.7432439,
+    "postcode": "9143",
+    "city": "Feistritz ob Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Friseursalon Niki",
     "retailer": "friseursalon_niki",
     "shop": "hairdresser",
     "latitude": 46.5785828,
-    "longitude": 14.7444822
+    "longitude": 14.7444822,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gseft",
     "retailer": "gseft",
     "shop": "convenience",
     "latitude": 46.5781119,
-    "longitude": 14.7462062
+    "longitude": 14.7462062,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Nah & Frisch",
@@ -26,6 +34,10 @@
     "shop": "supermarket",
     "latitude": 46.5789533,
     "longitude": 14.749231,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "9143",
+    "city": "St. Michael bei Bleiburg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

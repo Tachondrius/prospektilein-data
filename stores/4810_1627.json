@@ -4,7 +4,9 @@
     "retailer": "coiffeur_jasmin",
     "shop": "hairdresser",
     "latitude": 48.1081768,
-    "longitude": 16.2797829
+    "longitude": 16.2797829,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Narowetz",
@@ -12,20 +14,32 @@
     "shop": "car",
     "latitude": 48.1095157,
     "longitude": 16.2782693,
-    "brand": "Volkswagen;Audi;SEAT;Skoda"
+    "brand": "Volkswagen;Audi;SEAT;Skoda",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Noppe Boulangerie",
     "retailer": "noppe_boulangerie",
     "shop": "bakery",
     "latitude": 48.1088493,
-    "longitude": 16.2787537
+    "longitude": 16.2787537,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Peter Nistelberger",
     "retailer": "peter_nistelberger",
     "shop": "yes",
     "latitude": 48.1018501,
-    "longitude": 16.2768532
+    "longitude": 16.2768532,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

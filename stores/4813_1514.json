@@ -4,7 +4,9 @@
     "retailer": "baumschule_moser",
     "shop": "garden_centre",
     "latitude": 48.1347304,
-    "longitude": 15.1406146
+    "longitude": 15.1406146,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,7 +14,9 @@
     "shop": "supermarket",
     "latitude": 48.1359916,
     "longitude": 15.1404892,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Plus",
@@ -20,7 +24,11 @@
     "shop": "supermarket",
     "latitude": 48.1329522,
     "longitude": 15.1419979,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "3250",
+    "city": "Wieselburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -28,21 +36,29 @@
     "shop": "chemist",
     "latitude": 48.1326802,
     "longitude": 15.1421476,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "City Bazar",
     "retailer": "city_bazar",
     "shop": "convenience",
     "latitude": 48.1311404,
-    "longitude": 15.1405463
+    "longitude": 15.1405463,
+    "postcode": "3250",
+    "city": "Wieselburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_repair",
     "latitude": 48.1352099,
-    "longitude": 15.1407478
+    "longitude": 15.1407478,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gastecker",
@@ -50,42 +66,60 @@
     "shop": "car",
     "latitude": 48.136342,
     "longitude": 15.1414875,
-    "brand": "Renault;Dacia"
+    "brand": "Renault;Dacia",
+    "postcode": "3250",
+    "city": "Wieselburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Getränkevertrieb Wieland",
     "retailer": "getrankevertrieb_wieland",
     "shop": "beverages",
     "latitude": 48.1310409,
-    "longitude": 15.1403926
+    "longitude": 15.1403926,
+    "postcode": "3250",
+    "city": "Wieselburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hartlauer",
     "retailer": "hartlauer",
     "shop": "optician",
     "latitude": 48.1323082,
-    "longitude": 15.1404314
+    "longitude": 15.1404314,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kamm und Schere",
     "retailer": "kamm_und_schere",
     "shop": "hairdresser",
     "latitude": 48.1345662,
-    "longitude": 15.1418729
+    "longitude": 15.1418729,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mostviertler Modellbahnhof",
     "retailer": "mostviertler_modellbahnhof",
     "shop": "model",
     "latitude": 48.1319295,
-    "longitude": 15.1418906
+    "longitude": 15.1418906,
+    "postcode": "3250",
+    "city": "Wieselburg an der Erlauf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pedal Hero",
     "retailer": "pedal_hero",
     "shop": "bicycle",
     "latitude": 48.1322458,
-    "longitude": 15.1403181
+    "longitude": 15.1403181,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pruckner",
@@ -93,41 +127,59 @@
     "shop": "car",
     "latitude": 48.1364149,
     "longitude": 15.1406018,
-    "brand": "Audi;Škoda;Volkswagen"
+    "brand": "Audi;Škoda;Volkswagen",
+    "postcode": "3250",
+    "city": "Wieselburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sanos",
     "retailer": "sanos",
     "shop": "medical_supply",
     "latitude": 48.1319763,
-    "longitude": 15.1411904
+    "longitude": 15.1411904,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schuberth",
     "retailer": "schuberth",
     "shop": "doityourself",
     "latitude": 48.1357164,
-    "longitude": 15.1417342
+    "longitude": 15.1417342,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Toys",
     "retailer": "shop_toys",
     "shop": "toys",
     "latitude": 48.1332904,
-    "longitude": 15.1444124
+    "longitude": 15.1444124,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Villa No.9",
     "retailer": "villa_no_9",
     "shop": "interior_decoration",
     "latitude": 48.1321595,
-    "longitude": 15.140183
+    "longitude": 15.140183,
+    "postcode": "3250",
+    "city": "Wieselburg an der Erlauf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weichberger",
     "retailer": "weichberger",
     "shop": "tyres",
     "latitude": 48.133539,
-    "longitude": 15.1414872
+    "longitude": 15.1414872,
+    "postcode": "3250",
+    "city": "Wieselburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

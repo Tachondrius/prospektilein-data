@@ -5,42 +5,56 @@
     "shop": "car",
     "latitude": 48.5021557,
     "longitude": 14.0869333,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "4171",
+    "city": "St. Peter am Wimberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Sunzenauer",
     "retailer": "backerei_sunzenauer",
     "shop": "bakery",
     "latitude": 48.5023838,
-    "longitude": 14.0831818
+    "longitude": 14.0831818,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fa. Ganser",
     "retailer": "fa_ganser",
     "shop": "car_repair",
     "latitude": 48.5021046,
-    "longitude": 14.0845846
+    "longitude": 14.0845846,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fleischerei Enzenhofer",
     "retailer": "fleischerei_enzenhofer",
     "shop": "butcher",
     "latitude": 48.5021847,
-    "longitude": 14.0830692
+    "longitude": 14.0830692,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairgricht",
     "retailer": "hairgricht",
     "shop": "hairdresser",
     "latitude": 48.501623,
-    "longitude": 14.0874385
+    "longitude": 14.0874385,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "RegioNatur",
     "retailer": "regionatur",
     "shop": "farm",
     "latitude": 48.5023119,
-    "longitude": 14.0821265
+    "longitude": 14.0821265,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -48,6 +62,8 @@
     "shop": "supermarket",
     "latitude": 48.5018142,
     "longitude": 14.0873903,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

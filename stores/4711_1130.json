@@ -4,7 +4,9 @@
     "retailer": "alpen_ambiente",
     "shop": "gift",
     "latitude": 47.1109218,
-    "longitude": 11.3066008
+    "longitude": 11.3066008,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,7 +14,11 @@
     "shop": "bakery",
     "latitude": 47.1121053,
     "longitude": 11.3098463,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -20,28 +26,40 @@
     "shop": "supermarket",
     "latitude": 47.1102837,
     "longitude": 11.3089137,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "HANDL Tyrol",
     "retailer": "handl_tyrol",
     "shop": "butcher",
     "latitude": 47.1103609,
-    "longitude": 11.3071461
+    "longitude": 11.3071461,
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport Schönherr",
     "retailer": "intersport",
     "shop": "outdoor",
     "latitude": 47.1116842,
-    "longitude": 11.3098636
+    "longitude": 11.3098636,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Junge Mode Gleirscher",
     "retailer": "junge_mode_gleirscher",
     "shop": "clothes",
     "latitude": 47.1103212,
-    "longitude": 11.3063548
+    "longitude": 11.3063548,
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -49,28 +67,42 @@
     "shop": "supermarket",
     "latitude": 47.1121764,
     "longitude": 11.3095908,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "olina Küchen Wolfgang Danler GmbH",
     "retailer": "olina_kuchen_wolfgang_danler_gmbh",
     "shop": "kitchen",
     "latitude": 47.1111153,
-    "longitude": 11.3089283
+    "longitude": 11.3089283,
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Outlet Schönherr",
     "retailer": "outlet_schonherr",
     "shop": "clothes",
     "latitude": 47.1102427,
-    "longitude": 11.3061813
+    "longitude": 11.3061813,
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Plangger Delikatessen",
     "retailer": "plangger_delikatessen",
     "shop": "deli",
     "latitude": 47.1107147,
-    "longitude": 11.3070975
+    "longitude": 11.3070975,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport 2000 Hofer",
@@ -78,20 +110,30 @@
     "shop": "sports",
     "latitude": 47.1107575,
     "longitude": 11.3063497,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Danler",
     "retailer": "sport_danler",
     "shop": "outdoor",
     "latitude": 47.1103577,
-    "longitude": 11.3061406
+    "longitude": 11.3061406,
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ticket Stubaier Gletscher",
     "retailer": "ticket_stubaier_gletscher",
     "shop": "ticket",
     "latitude": 47.1117709,
-    "longitude": 11.3090591
+    "longitude": 11.3090591,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

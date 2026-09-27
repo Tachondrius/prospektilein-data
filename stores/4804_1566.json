@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.045988,
     "longitude": 15.6654172,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3161",
+    "city": "Sankt Veit an der Gölsen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Suzuki",
@@ -13,6 +17,8 @@
     "shop": "car",
     "latitude": 48.0461309,
     "longitude": 15.6606716,
-    "brand": "Suzuki"
+    "brand": "Suzuki",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,14 +5,22 @@
     "shop": "car",
     "latitude": 47.0948773,
     "longitude": 15.4223644,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "B&B Bike",
     "retailer": "b_und_b_bike",
     "shop": "bicycle",
     "latitude": 47.0936928,
-    "longitude": 15.4237175
+    "longitude": 15.4237175,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa stop & shop",
@@ -20,34 +28,50 @@
     "shop": "convenience",
     "latitude": 47.0940542,
     "longitude": 15.4232443,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Malo Beauty Studio",
     "retailer": "malo_beauty_studio",
     "shop": "beauty",
     "latitude": 47.0917845,
-    "longitude": 15.4254068
+    "longitude": 15.4254068,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "RCO",
     "retailer": "rco",
     "shop": "interior_decoration",
     "latitude": 47.091883,
-    "longitude": 15.4252816
+    "longitude": 15.4252816,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Salon Tina",
     "retailer": "salon_tina",
     "shop": "hairdresser",
     "latitude": 47.0994921,
-    "longitude": 15.424391
+    "longitude": 15.424391,
+    "postcode": "8045",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sintec IT-Service",
     "retailer": "sintec_it_service",
     "shop": "computer",
     "latitude": 47.093266,
-    "longitude": 15.4238387
+    "longitude": 15.4238387,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

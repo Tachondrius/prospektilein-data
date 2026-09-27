@@ -4,14 +4,20 @@
     "retailer": "backerei_cifci",
     "shop": "bakery",
     "latitude": 47.2834359,
-    "longitude": 11.5494606
+    "longitude": 11.5494606,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Home",
     "retailer": "home",
     "shop": "furniture",
     "latitude": 47.2831012,
-    "longitude": 11.5476722
+    "longitude": 11.5476722,
+    "postcode": "6068",
+    "city": "Mils",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Scooter Center Egger",
@@ -19,13 +25,19 @@
     "shop": "motorcycle",
     "latitude": 47.2835842,
     "longitude": 11.5453293,
-    "brand": "Vespa"
+    "brand": "Vespa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Yesca Mils, ehem. Tschugg",
     "retailer": "yesca_mils_ehem_tschugg",
     "shop": "car",
     "latitude": 47.2831917,
-    "longitude": 11.5445691
+    "longitude": 11.5445691,
+    "postcode": "6068",
+    "city": "Mils",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

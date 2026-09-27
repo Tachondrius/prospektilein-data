@@ -4,7 +4,11 @@
     "retailer": "beauty_residenz",
     "shop": "beauty",
     "latitude": 47.0807411,
-    "longitude": 15.4511366
+    "longitude": 15.4511366,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,35 +16,51 @@
     "shop": "supermarket",
     "latitude": 47.0840012,
     "longitude": 15.4596696,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Coiffeur Lehner",
     "retailer": "coiffeur_lehner",
     "shop": "hairdresser",
     "latitude": 47.0896485,
-    "longitude": 15.4595766
+    "longitude": 15.4595766,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektrotechnik Selman",
     "retailer": "elektrotechnik_selman",
     "shop": "electronics",
     "latitude": 47.0887771,
-    "longitude": 15.458623
+    "longitude": 15.458623,
+    "postcode": "8043",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kitchen",
     "retailer": "shop_kitchen",
     "shop": "kitchen",
     "latitude": 47.083886,
-    "longitude": 15.4567627
+    "longitude": 15.4567627,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kulthund",
     "retailer": "kulthund",
     "shop": "pet_grooming",
     "latitude": 47.0843671,
-    "longitude": 15.4599054
+    "longitude": 15.4599054,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Martin Auer",
@@ -48,7 +68,11 @@
     "shop": "bakery",
     "latitude": 47.0841284,
     "longitude": 15.4567064,
-    "brand": "Martin Auer"
+    "brand": "Martin Auer",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Matratzen Concord",
@@ -56,27 +80,41 @@
     "shop": "bed",
     "latitude": 47.0895879,
     "longitude": 15.4594792,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "postcode": "8043",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "olina Küchen Andreas Poglitsch e.U.",
     "retailer": "olina_kuchen_andreas_poglitsch_e_u",
     "shop": "kitchen",
     "latitude": 47.0839555,
-    "longitude": 15.4567092
+    "longitude": 15.4567092,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sauberland",
     "retailer": "sauberland",
     "shop": "laundry",
     "latitude": 47.0881525,
-    "longitude": 15.4581247
+    "longitude": 15.4581247,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sorger",
     "retailer": "sorger",
     "shop": "bakery",
     "latitude": 47.0892895,
-    "longitude": 15.4593038
+    "longitude": 15.4593038,
+    "postcode": "8043",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

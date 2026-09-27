@@ -4,7 +4,11 @@
     "retailer": "bosch_hifi_tv_video_elektro",
     "shop": "electronics",
     "latitude": 47.4334797,
-    "longitude": 9.6601806
+    "longitude": 9.6601806,
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "dm",
@@ -12,7 +16,9 @@
     "shop": "chemist",
     "latitude": 47.4304333,
     "longitude": 9.6608241,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Eurospar",
@@ -20,7 +26,11 @@
     "shop": "supermarket",
     "latitude": 47.4309524,
     "longitude": 9.6604686,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Libro",
@@ -28,14 +38,20 @@
     "shop": "books",
     "latitude": 47.4305893,
     "longitude": 9.6610343,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Rheincenter",
     "retailer": "rheincenter",
     "shop": "mall",
     "latitude": 47.4308236,
-    "longitude": 9.660527
+    "longitude": 9.660527,
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "s.Oliver",
@@ -43,6 +59,8 @@
     "shop": "clothes",
     "latitude": 47.4306583,
     "longitude": 9.6604872,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

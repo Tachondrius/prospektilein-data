@@ -4,35 +4,51 @@
     "retailer": "bike_n_soul",
     "shop": "sports",
     "latitude": 47.3772162,
-    "longitude": 12.5939888
+    "longitude": 12.5939888,
+    "postcode": "5754",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bike'n Soul E-Bike Shop",
     "retailer": "bike_n_soul_e_bike_shop",
     "shop": "bicycle",
     "latitude": 47.3787842,
-    "longitude": 12.596667
+    "longitude": 12.596667,
+    "postcode": "5754",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gumpold Last Minute",
     "retailer": "gumpold_last_minute",
     "shop": "gift",
     "latitude": 47.3778364,
-    "longitude": 12.5917268
+    "longitude": 12.5917268,
+    "postcode": "5754",
+    "city": "Saalbach-Hinterglemm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gumpold Mountain Sports",
     "retailer": "gumpold_mountain_sports",
     "shop": "sports",
     "latitude": 47.377531,
-    "longitude": 12.5910801
+    "longitude": 12.5910801,
+    "postcode": "5754",
+    "city": "Saalbach-Hinterglemm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gumpold Mountain Surf Shop",
     "retailer": "gumpold_mountain_surf_shop",
     "shop": "surf",
     "latitude": 47.3784449,
-    "longitude": 12.5957796
+    "longitude": 12.5957796,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hervis",
@@ -40,7 +56,9 @@
     "shop": "sports",
     "latitude": 47.3777071,
     "longitude": 12.5912691,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport",
@@ -48,35 +66,45 @@
     "shop": "sports",
     "latitude": 47.3781234,
     "longitude": 12.5958319,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.379967,
-    "longitude": 12.5996801
+    "longitude": 12.5996801,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Moser Trachten Shop",
     "retailer": "moser_trachten_shop",
     "shop": "clothes",
     "latitude": 47.3779835,
-    "longitude": 12.5955664
+    "longitude": 12.5955664,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Rabbit Sports",
     "retailer": "rabbit_sports",
     "shop": "ski",
     "latitude": 47.3773302,
-    "longitude": 12.5901195
+    "longitude": 12.5901195,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "snow & fun",
     "retailer": "snow_und_fun",
     "shop": "ski",
     "latitude": 47.3779513,
-    "longitude": 12.5924475
+    "longitude": 12.5924475,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -84,6 +112,8 @@
     "shop": "supermarket",
     "latitude": 47.3781002,
     "longitude": 12.5932234,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

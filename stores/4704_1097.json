@@ -4,13 +4,19 @@
     "retailer": "backerei_fiegl",
     "shop": "bakery",
     "latitude": 47.04094,
-    "longitude": 10.9746709
+    "longitude": 10.9746709,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
     "retailer": "mpreis",
     "shop": "supermarket",
     "latitude": 47.041161,
-    "longitude": 10.9712261
+    "longitude": 10.9712261,
+    "postcode": "6444",
+    "city": "Längenfeld",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

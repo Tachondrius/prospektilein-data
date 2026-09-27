@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.5999251,
     "longitude": 15.1887239,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3910",
+    "city": "Zwettl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "XXXLutz",
@@ -13,6 +17,10 @@
     "shop": "furniture",
     "latitude": 48.5989419,
     "longitude": 15.1898269,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "3910",
+    "city": "Zwettl-Niederösterreich",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

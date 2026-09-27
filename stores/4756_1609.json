@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.5600822,
     "longitude": 16.094534,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2870",
+    "city": "Aspang",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -13,13 +17,19 @@
     "shop": "supermarket",
     "latitude": 47.5602301,
     "longitude": 16.0931709,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2870",
+    "city": "Aspang-Markt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "garden_centre",
     "latitude": 47.5608329,
-    "longitude": 16.0981356
+    "longitude": 16.0981356,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

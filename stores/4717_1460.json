@@ -4,7 +4,11 @@
     "retailer": "hartleb_s_hofladen",
     "shop": "farm",
     "latitude": 47.1725954,
-    "longitude": 14.6078769
+    "longitude": 14.6078769,
+    "postcode": "8755",
+    "city": "Sankt Peter ob Judenburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar Express",
@@ -12,6 +16,8 @@
     "shop": "convenience",
     "latitude": 47.1780692,
     "longitude": 14.6064493,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

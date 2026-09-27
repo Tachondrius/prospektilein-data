@@ -4,13 +4,19 @@
     "retailer": "kfz_bastarz",
     "shop": "car_repair",
     "latitude": 46.7886014,
-    "longitude": 13.500516
+    "longitude": 13.500516,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Zweiradhandel Rödlbach",
     "retailer": "zweiradhandel_rodlbach",
     "shop": "motorcycle",
     "latitude": 46.7892429,
-    "longitude": 13.5091384
+    "longitude": 13.5091384,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

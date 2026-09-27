@@ -4,7 +4,9 @@
     "retailer": "a_und_ida_gasser",
     "shop": "clothes",
     "latitude": 47.3452726,
-    "longitude": 13.1996877
+    "longitude": 13.1996877,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "ADEG",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 47.3445209,
     "longitude": 13.1998133,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bipa",
@@ -20,21 +26,33 @@
     "shop": "chemist",
     "latitude": 47.3498454,
     "longitude": 13.1945112,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "HAARIDEE",
     "retailer": "haaridee",
     "shop": "hairdresser",
     "latitude": 47.3453627,
-    "longitude": 13.1985541
+    "longitude": 13.1985541,
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Jello",
     "retailer": "jello",
     "shop": "shoes",
     "latitude": 47.3452287,
-    "longitude": 13.19243
+    "longitude": 13.19243,
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Jet",
@@ -42,7 +60,11 @@
     "shop": "car_repair",
     "latitude": 47.3434236,
     "longitude": 13.1915643,
-    "brand": "Jet"
+    "brand": "Jet",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lidl",
@@ -50,28 +72,44 @@
     "shop": "supermarket",
     "latitude": 47.3491903,
     "longitude": 13.1943709,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "meine Trafik",
     "retailer": "meine_trafik",
     "shop": "tobacco",
     "latitude": 47.3454454,
-    "longitude": 13.1981977
+    "longitude": 13.1981977,
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Metal Shop",
     "retailer": "metal_shop",
     "shop": "clothes",
     "latitude": 47.3444428,
-    "longitude": 13.1999623
+    "longitude": 13.1999623,
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Nagl",
     "retailer": "nagl",
     "shop": "clothes",
     "latitude": 47.346385,
-    "longitude": 13.1959796
+    "longitude": 13.1959796,
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pagro",
@@ -79,7 +117,11 @@
     "shop": "stationery",
     "latitude": 47.3449152,
     "longitude": 13.1922703,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Ruefa",
@@ -87,27 +129,41 @@
     "shop": "travel_agency",
     "latitude": 47.3463126,
     "longitude": 13.1970637,
-    "brand": "Ruefa"
+    "brand": "Ruefa",
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Wielandner",
     "retailer": "sport_wielandner",
     "shop": "sports",
     "latitude": 47.3461969,
-    "longitude": 13.1972926
+    "longitude": 13.1972926,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Unterkofler",
     "retailer": "unterkofler",
     "shop": "bakery",
     "latitude": 47.3452579,
-    "longitude": 13.1980793
+    "longitude": 13.1980793,
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Wohnstudio Resch",
     "retailer": "wohnstudio_resch",
     "shop": "furniture",
     "latitude": 47.3454054,
-    "longitude": 13.1983871
+    "longitude": 13.1983871,
+    "postcode": "5600",
+    "city": "Sankt Johann im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

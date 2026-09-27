@@ -4,21 +4,30 @@
     "retailer": "alu_gager_zaun_und_torsysteme",
     "shop": "fence",
     "latitude": 47.512434,
-    "longitude": 16.4922599
+    "longitude": 16.4922599,
+    "postcode": "7344",
+    "city": "Stoob",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Blumen-Boutique Schunerits-Pauer",
     "retailer": "blumen_boutique_schunerits_pauer",
     "shop": "florist",
     "latitude": 47.5101054,
-    "longitude": 16.4983658
+    "longitude": 16.4983658,
+    "postcode": "7344",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "BMW Kohla-Strauss",
     "retailer": "bmw_kohla_strauss",
     "shop": "car",
     "latitude": 47.5102045,
-    "longitude": 16.4969508
+    "longitude": 16.4969508,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bonita",
@@ -26,7 +35,9 @@
     "shop": "clothes",
     "latitude": 47.5131516,
     "longitude": 16.4904351,
-    "brand": "Bonita"
+    "brand": "Bonita",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "C&A",
@@ -34,14 +45,18 @@
     "shop": "clothes",
     "latitude": 47.5131614,
     "longitude": 16.4912715,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Einkaufszentrum Stoob",
     "retailer": "einkaufszentrum_stoob",
     "shop": "mall",
     "latitude": 47.5131237,
-    "longitude": 16.4906695
+    "longitude": 16.4906695,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Klipp",
@@ -49,14 +64,18 @@
     "shop": "hairdresser",
     "latitude": 47.5130989,
     "longitude": 16.4905613,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Libro",
     "retailer": "libro",
     "shop": "stationery",
     "latitude": 47.5131942,
-    "longitude": 16.4903256
+    "longitude": 16.4903256,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "New Yorker",
@@ -64,7 +83,9 @@
     "shop": "clothes",
     "latitude": 47.5132444,
     "longitude": 16.4901956,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Opel Horvath",
@@ -72,14 +93,22 @@
     "shop": "car",
     "latitude": 47.5115916,
     "longitude": 16.4935295,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "7344",
+    "city": "Stoob",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Pfnier Trucks",
     "retailer": "pfnier_trucks",
     "shop": "car",
     "latitude": 47.5102968,
-    "longitude": 16.4961867
+    "longitude": 16.4961867,
+    "postcode": "7344",
+    "city": "Stoob",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Skoda Simon",
@@ -87,14 +116,20 @@
     "shop": "car",
     "latitude": 47.5119269,
     "longitude": 16.4929541,
-    "brand": "Skoda"
+    "brand": "Skoda",
+    "postcode": "7344",
+    "city": "Stoob",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spiel & Spaß",
     "retailer": "spiel_und_spa",
     "shop": "toys",
     "latitude": 47.5130412,
-    "longitude": 16.4910329
+    "longitude": 16.4910329,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Sport 2000",
@@ -102,6 +137,8 @@
     "shop": "sports",
     "latitude": 47.51305,
     "longitude": 16.4906801,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.2132144,
     "longitude": 16.1712466,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3002",
+    "city": "Purkersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa stop & shop",
@@ -13,14 +17,18 @@
     "shop": "convenience",
     "latitude": 48.2114069,
     "longitude": 16.1729793,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Diamant Pools",
     "retailer": "diamant_pools",
     "shop": "swimming_pool",
     "latitude": 48.2146408,
-    "longitude": 16.1700211
+    "longitude": 16.1700211,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -28,6 +36,10 @@
     "shop": "supermarket",
     "latitude": 48.211821,
     "longitude": 16.1739719,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3002",
+    "city": "Purkersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

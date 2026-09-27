@@ -5,42 +5,54 @@
     "shop": "supermarket",
     "latitude": 47.8066503,
     "longitude": 13.7710453,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumenstube Ebensee",
     "retailer": "blumenstube_ebensee",
     "shop": "florist",
     "latitude": 47.8080808,
-    "longitude": 13.7720585
+    "longitude": 13.7720585,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Roithinger",
     "retailer": "backerei_roithinger",
     "shop": "bakery",
     "latitude": 47.8074541,
-    "longitude": 13.7722513
+    "longitude": 13.7722513,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.8086256,
-    "longitude": 13.7726283
+    "longitude": 13.7726283,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.8087182,
-    "longitude": 13.7728721
+    "longitude": 13.7728721,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Drahteselklinik",
     "retailer": "drahteselklinik",
     "shop": "bicycle",
     "latitude": 47.8074256,
-    "longitude": 13.7729591
+    "longitude": 13.7729591,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "EP TV-Partner",
@@ -48,7 +60,9 @@
     "shop": "electronics",
     "latitude": 47.8053566,
     "longitude": 13.7710332,
-    "brand": "EP TV-Partner"
+    "brand": "EP TV-Partner",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Expert",
@@ -56,63 +70,87 @@
     "shop": "electronics",
     "latitude": 47.8067612,
     "longitude": 13.7714981,
-    "brand": "Expert"
+    "brand": "Expert",
+    "postcode": "4802",
+    "city": "Ebensee am Traunsee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "fadenspiel",
     "retailer": "fadenspiel",
     "shop": "wool",
     "latitude": 47.8076904,
-    "longitude": 13.7721752
+    "longitude": 13.7721752,
+    "postcode": "4802",
+    "city": "Ebensee am Traunsee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fahrräder Elektro Neuböck",
     "retailer": "fahrrader_elektro_neubock",
     "shop": "bicycle",
     "latitude": 47.806823,
-    "longitude": 13.7713384
+    "longitude": 13.7713384,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Farben Thalhammer",
     "retailer": "farben_thalhammer",
     "shop": "paint",
     "latitude": 47.8078701,
-    "longitude": 13.7725794
+    "longitude": 13.7725794,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Glaserei Reiter",
     "retailer": "glaserei_reiter",
     "shop": "copyshop",
     "latitude": 47.8070792,
-    "longitude": 13.7717837
+    "longitude": 13.7717837,
+    "postcode": "4802",
+    "city": "Ebensee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Goldschmiede Reischauer",
     "retailer": "goldschmiede_reischauer",
     "shop": "jewelry",
     "latitude": 47.8063378,
-    "longitude": 13.7713481
+    "longitude": 13.7713481,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hahn Augenoptik",
     "retailer": "hahn_augenoptik",
     "shop": "optician",
     "latitude": 47.8082915,
-    "longitude": 13.7722358
+    "longitude": 13.7722358,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hitzenberger Textil",
     "retailer": "hitzenberger_textil",
     "shop": "fabric",
     "latitude": 47.8087039,
-    "longitude": 13.7715997
+    "longitude": 13.7715997,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Josef Frey e.U.",
     "retailer": "josef_frey_e_u",
     "shop": "hardware",
     "latitude": 47.8093281,
-    "longitude": 13.7710063
+    "longitude": 13.7710063,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klipp",
@@ -120,70 +158,94 @@
     "shop": "hairdresser",
     "latitude": 47.8098391,
     "longitude": 13.7752422,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Martina Schrempf",
     "retailer": "martina_schrempf",
     "shop": "kiosk",
     "latitude": 47.807982,
-    "longitude": 13.7720294
+    "longitude": 13.7720294,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "N.U.G.",
     "retailer": "n_u_g",
     "shop": "second_hand",
     "latitude": 47.8081219,
-    "longitude": 13.7723467
+    "longitude": 13.7723467,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NU.ART surfstuff",
     "retailer": "nu_art_surfstuff",
     "shop": "sports",
     "latitude": 47.806813,
-    "longitude": 13.7712981
+    "longitude": 13.7712981,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Rad.Sport Hochhauser",
     "retailer": "rad_sport_hochhauser",
     "shop": "bicycle",
     "latitude": 47.8082218,
-    "longitude": 13.7722892
+    "longitude": 13.7722892,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Radreparatur Reisenbichler KG",
     "retailer": "radreparatur_reisenbichler_kg",
     "shop": "bicycle",
     "latitude": 47.8062041,
-    "longitude": 13.7794247
+    "longitude": 13.7794247,
+    "postcode": "4802",
+    "city": "Ebensee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reingruber Bäckerei",
     "retailer": "reingruber_backerei",
     "shop": "bakery",
     "latitude": 47.8089597,
-    "longitude": 13.771312
+    "longitude": 13.771312,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reischl Elektrotechnik",
     "retailer": "reischl_elektrotechnik",
     "shop": "electrical",
     "latitude": 47.8042002,
-    "longitude": 13.7706662
+    "longitude": 13.7706662,
+    "postcode": "4802",
+    "city": "Ebensee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Brigitte",
     "retailer": "salon_brigitte",
     "shop": "hairdresser",
     "latitude": 47.807325,
-    "longitude": 13.771738
+    "longitude": 13.771738,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sandra's Nagelstudio",
     "retailer": "sandra_s_nagelstudio",
     "shop": "beauty",
     "latitude": 47.807808,
-    "longitude": 13.7726421
+    "longitude": 13.7726421,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -191,21 +253,29 @@
     "shop": "supermarket",
     "latitude": 47.8079347,
     "longitude": 13.7712797,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4802",
+    "city": "Ebensee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Trafik Günter Kalitzky",
     "retailer": "tabak_trafik_gunter_kalitzky",
     "shop": "kiosk",
     "latitude": 47.805238,
-    "longitude": 13.7710045
+    "longitude": 13.7710045,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tennis Shop",
     "retailer": "tennis_shop",
     "shop": "sports",
     "latitude": 47.8073829,
-    "longitude": 13.7730022
+    "longitude": 13.7730022,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Volkswagen, Audi, Škoda, VW Nutzfahrzeuge",
@@ -213,6 +283,10 @@
     "shop": "car_repair",
     "latitude": 47.8084076,
     "longitude": 13.7722172,
-    "brand": "Volkswagen;Audi;Škoda;VW Nutzfahrzeuge"
+    "brand": "Volkswagen;Audi;Škoda;VW Nutzfahrzeuge",
+    "postcode": "4802",
+    "city": "Ebensee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

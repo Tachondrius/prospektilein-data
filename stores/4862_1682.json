@@ -4,20 +4,28 @@
     "retailer": "fleischerei_retzl_ges_mbh",
     "shop": "butcher",
     "latitude": 48.6264579,
-    "longitude": 16.8294666
+    "longitude": 16.8294666,
+    "postcode": "2145",
+    "city": "Hausbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MoSo",
     "retailer": "moso",
     "shop": "convenience",
     "latitude": 48.6275608,
-    "longitude": 16.8291959
+    "longitude": 16.8291959,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sabine Ruth",
     "retailer": "sabine_ruth",
     "shop": "massage",
     "latitude": 48.6244186,
-    "longitude": 16.8275605
+    "longitude": 16.8275605,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

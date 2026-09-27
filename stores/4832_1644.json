@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 48.323109,
     "longitude": 16.4433772,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2201",
+    "city": "Gerasdorf bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Meister Lampe",
     "retailer": "meister_lampe",
     "shop": "lighting",
     "latitude": 48.3246744,
-    "longitude": 16.445581
+    "longitude": 16.445581,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -20,27 +26,35 @@
     "shop": "supermarket",
     "latitude": 48.3230835,
     "longitude": 16.4453593,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Teak It",
     "retailer": "teak_it",
     "shop": "furniture",
     "latitude": 48.3247903,
-    "longitude": 16.4456561
+    "longitude": 16.4456561,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wohngesund",
     "retailer": "wohngesund",
     "shop": "parquet",
     "latitude": 48.3249116,
-    "longitude": 16.4457446
+    "longitude": 16.4457446,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zöchling Holz",
     "retailer": "zochling_holz",
     "shop": "wood",
     "latitude": 48.3207138,
-    "longitude": 16.4401847
+    "longitude": 16.4401847,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

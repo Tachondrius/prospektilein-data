@@ -4,28 +4,36 @@
     "retailer": "blumenwerk",
     "shop": "florist",
     "latitude": 47.5108339,
-    "longitude": 12.0848201
+    "longitude": 12.0848201,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Margreiter",
     "retailer": "margreiter",
     "shop": "bakery",
     "latitude": 47.5132918,
-    "longitude": 12.0886081
+    "longitude": 12.0886081,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Maria",
     "retailer": "maria",
     "shop": "florist",
     "latitude": 47.5132112,
-    "longitude": 12.0885229
+    "longitude": 12.0885229,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Schroll",
     "retailer": "metzgerei_schroll",
     "shop": "butcher",
     "latitude": 47.5139661,
-    "longitude": 12.0892792
+    "longitude": 12.0892792,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -33,20 +41,30 @@
     "shop": "supermarket",
     "latitude": 47.5104709,
     "longitude": 12.0852157,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6322",
+    "city": "Kirchbichl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "mySensation",
     "retailer": "mysensation",
     "shop": "furniture",
     "latitude": 47.5111568,
-    "longitude": 12.0853113
+    "longitude": 12.0853113,
+    "postcode": "6322",
+    "city": "Kirchbichl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Woodbase",
     "retailer": "woodbase",
     "shop": "flooring",
     "latitude": 47.5110866,
-    "longitude": 12.0851795
+    "longitude": 12.0851795,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

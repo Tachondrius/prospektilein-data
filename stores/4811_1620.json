@@ -4,7 +4,9 @@
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 48.1169785,
-    "longitude": 16.2005639
+    "longitude": 16.2005639,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,13 +14,19 @@
     "shop": "supermarket",
     "latitude": 48.1184853,
     "longitude": 16.2051995,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2391",
+    "city": "Kaltenleutgeben",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 48.1186824,
-    "longitude": 16.2072289
+    "longitude": 16.2072289,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.603444,
     "longitude": 16.9018536,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2273",
+    "city": "Hohenau an der March",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,14 +17,22 @@
     "shop": "chemist",
     "latitude": 48.6029353,
     "longitude": 16.9028611,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2273",
+    "city": "Hohenau an der March",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Römer",
     "retailer": "backerei_romer",
     "shop": "bakery",
     "latitude": 48.607132,
-    "longitude": 16.9083388
+    "longitude": 16.9083388,
+    "postcode": "2273",
+    "city": "Hohenau an der March",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -28,7 +40,11 @@
     "shop": "chemist",
     "latitude": 48.603831,
     "longitude": 16.902049,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2273",
+    "city": "Hohenau an der March",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -36,14 +52,20 @@
     "shop": "supermarket",
     "latitude": 48.603693,
     "longitude": 16.9028266,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "2273",
+    "city": "Hohenau an der March",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hair lounge",
     "retailer": "hair_lounge",
     "shop": "hairdresser",
     "latitude": 48.6038124,
-    "longitude": 16.9022137
+    "longitude": 16.9022137,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -51,14 +73,20 @@
     "shop": "supermarket",
     "latitude": 48.6041228,
     "longitude": 16.9019911,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Konditorei Gaß",
     "retailer": "konditorei_ga",
     "shop": "pastry",
     "latitude": 48.6069204,
-    "longitude": 16.9074426
+    "longitude": 16.9074426,
+    "postcode": "2273",
+    "city": "Hohenau an der March",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -66,41 +94,61 @@
     "shop": "supermarket",
     "latitude": 48.6063779,
     "longitude": 16.9080953,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2273",
+    "city": "Hohenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Salon Elfi",
     "retailer": "salon_elfi",
     "shop": "hairdresser",
     "latitude": 48.6050358,
-    "longitude": 16.902967
+    "longitude": 16.902967,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sport Böhm",
     "retailer": "sport_bohm",
     "shop": "sports",
     "latitude": 48.6080709,
-    "longitude": 16.9097822
+    "longitude": 16.9097822,
+    "postcode": "2273",
+    "city": "Hohenau an der March",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sport Röhm",
     "retailer": "sport_rohm",
     "shop": "bicycle",
     "latitude": 48.6036923,
-    "longitude": 16.9037094
+    "longitude": 16.9037094,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Wimmer",
     "retailer": "trafik_wimmer",
     "shop": "tobacco",
     "latitude": 48.6067615,
-    "longitude": 16.9081493
+    "longitude": 16.9081493,
+    "postcode": "2273",
+    "city": "Hohenau an der March",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Uhren-Schmuck Fiedler",
     "retailer": "uhren_schmuck_fiedler",
     "shop": "jewelry",
     "latitude": 48.6065403,
-    "longitude": 16.9050658
+    "longitude": 16.9050658,
+    "postcode": "2273",
+    "city": "Hohenau an der March",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

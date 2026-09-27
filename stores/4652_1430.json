@@ -4,7 +4,9 @@
     "retailer": "betarea",
     "shop": "bookmaker",
     "latitude": 46.5265907,
-    "longitude": 14.300075
+    "longitude": 14.300075,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -12,21 +14,31 @@
     "shop": "chemist",
     "latitude": 46.5267783,
     "longitude": 14.3004012,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Peterlin",
     "retailer": "backerei_peterlin",
     "shop": "bakery",
     "latitude": 46.5272647,
-    "longitude": 14.3006499
+    "longitude": 14.3006499,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eisenwaren Napotnik",
     "retailer": "eisenwaren_napotnik",
     "shop": "hardware",
     "latitude": 46.5248082,
-    "longitude": 14.3004772
+    "longitude": 14.3004772,
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eurospar",
@@ -34,7 +46,11 @@
     "shop": "supermarket",
     "latitude": 46.5229334,
     "longitude": 14.3021506,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Expert",
@@ -42,14 +58,22 @@
     "shop": "electronics",
     "latitude": 46.5240999,
     "longitude": 14.300434,
-    "brand": "Expert"
+    "brand": "Expert",
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fleischerei Nussbaumer",
     "retailer": "fleischerei_nussbaumer",
     "shop": "butcher",
     "latitude": 46.5244575,
-    "longitude": 14.3006033
+    "longitude": 14.3006033,
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hartlauer",
@@ -57,14 +81,22 @@
     "shop": "electronics",
     "latitude": 46.5263165,
     "longitude": 14.3001052,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "doityourself",
     "latitude": 46.5295575,
-    "longitude": 14.3010658
+    "longitude": 14.3010658,
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Libro",
@@ -72,27 +104,37 @@
     "shop": "books",
     "latitude": 46.5263085,
     "longitude": 14.3004882,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ludwig Borovnik",
     "retailer": "ludwig_borovnik",
     "shop": "weapons",
     "latitude": 46.5234353,
-    "longitude": 14.3036823
+    "longitude": 14.3036823,
+    "postcode": "9170",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tanja Schönlieb",
     "retailer": "tanja_schonlieb",
     "shop": "photo",
     "latitude": 46.5275622,
-    "longitude": 14.3006288
+    "longitude": 14.3006288,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.5274548,
-    "longitude": 14.300742
+    "longitude": 14.300742,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

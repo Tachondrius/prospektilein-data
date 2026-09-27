@@ -4,7 +4,9 @@
     "retailer": "schiladl_gwandladl",
     "shop": "clothes",
     "latitude": 47.3781257,
-    "longitude": 12.4187541
+    "longitude": 12.4187541,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -12,13 +14,19 @@
     "shop": "supermarket",
     "latitude": 47.3792536,
     "longitude": 12.4188008,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6373",
+    "city": "Jochberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.3774693,
-    "longitude": 12.4184153
+    "longitude": 12.4184153,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

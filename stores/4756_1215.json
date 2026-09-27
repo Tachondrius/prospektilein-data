@@ -4,35 +4,47 @@
     "retailer": "anita_unique_bodywear",
     "shop": "clothes",
     "latitude": 47.569718,
-    "longitude": 12.1544265
+    "longitude": 12.1544265,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Getränke Heine",
     "retailer": "getranke_heine",
     "shop": "beverages",
     "latitude": 47.5645749,
-    "longitude": 12.1574521
+    "longitude": 12.1574521,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Laundry",
     "retailer": "shop_laundry",
     "shop": "laundry",
     "latitude": 47.5660377,
-    "longitude": 12.1557723
+    "longitude": 12.1557723,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rammer Fahrzeugbau",
     "retailer": "rammer_fahrzeugbau",
     "shop": "car_repair",
     "latitude": 47.5652694,
-    "longitude": 12.1563549
+    "longitude": 12.1563549,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sefra",
     "retailer": "sefra",
     "shop": "paint",
     "latitude": 47.5695786,
-    "longitude": 12.154229
+    "longitude": 12.154229,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Unterberger",
@@ -40,6 +52,8 @@
     "shop": "car",
     "latitude": 47.5656346,
     "longitude": 12.1524885,
-    "brand": "BMW"
+    "brand": "BMW",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

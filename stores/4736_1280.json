@@ -4,14 +4,22 @@
     "retailer": "big_time_sport_gmbh_bike_und_ski",
     "shop": "bicycle",
     "latitude": 47.360948,
-    "longitude": 12.8043322
+    "longitude": 12.8043322,
+    "postcode": "5751",
+    "city": "Maishofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Die Holzwerkstatt Maishofen",
     "retailer": "die_holzwerkstatt_maishofen",
     "shop": "gift",
     "latitude": 47.3689307,
-    "longitude": 12.8058135
+    "longitude": 12.8058135,
+    "postcode": "5751",
+    "city": "Maishofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -19,13 +27,17 @@
     "shop": "supermarket",
     "latitude": 47.3614346,
     "longitude": 12.8061379,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Unterberger",
     "retailer": "unterberger",
     "shop": "bakery",
     "latitude": 47.3607034,
-    "longitude": 12.8074976
+    "longitude": 12.8074976,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

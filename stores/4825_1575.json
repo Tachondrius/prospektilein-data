@@ -4,14 +4,18 @@
     "retailer": "bestattung_radlherr",
     "shop": "funeral_directors",
     "latitude": 48.2574235,
-    "longitude": 15.7595095
+    "longitude": 15.7595095,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.257362,
-    "longitude": 15.759018
+    "longitude": 15.759018,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofbauer",
@@ -19,14 +23,18 @@
     "shop": "car",
     "latitude": 48.25802,
     "longitude": 15.7577798,
-    "brand": "VW;Audi"
+    "brand": "VW;Audi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofbauer",
     "retailer": "hofbauer",
     "shop": "car",
     "latitude": 48.2584311,
-    "longitude": 15.7586743
+    "longitude": 15.7586743,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -34,6 +42,10 @@
     "shop": "supermarket",
     "latitude": 48.2582429,
     "longitude": 15.7562373,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3141",
+    "city": "Kapelln",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

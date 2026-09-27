@@ -4,7 +4,11 @@
     "retailer": "biber_sport_service",
     "shop": "bicycle",
     "latitude": 48.2234781,
-    "longitude": 16.4893438
+    "longitude": 16.4893438,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 48.2275452,
     "longitude": 16.4864091,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

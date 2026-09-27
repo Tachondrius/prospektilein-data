@@ -4,7 +4,9 @@
     "retailer": "pallinger",
     "shop": "bakery",
     "latitude": 48.1430588,
-    "longitude": 14.6484644
+    "longitude": 14.6484644,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 48.1449822,
     "longitude": 14.6436916,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3314",
+    "city": "Strengberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

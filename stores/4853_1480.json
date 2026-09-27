@@ -5,42 +5,56 @@
     "shop": "supermarket",
     "latitude": 48.5329146,
     "longitude": 14.8085748,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus/Werkstatt Gierer",
     "retailer": "autohaus_werkstatt_gierer",
     "shop": "car_repair",
     "latitude": 48.5319089,
-    "longitude": 14.8064441
+    "longitude": 14.8064441,
+    "postcode": "4252",
+    "city": "Liebenau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen Kaiser",
     "retailer": "blumen_kaiser",
     "shop": "florist",
     "latitude": 48.5321797,
-    "longitude": 14.8074531
+    "longitude": 14.8074531,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Konditorei Cafe FRÜHWIRTH",
     "retailer": "backerei_konditorei_cafe_fruhwirth",
     "shop": "bakery",
     "latitude": 48.5329005,
-    "longitude": 14.8083766
+    "longitude": 14.8083766,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Konditorei Cafè Frühwirth",
     "retailer": "backerei_konditorei_cafe_fruhwirth",
     "shop": "bakery",
     "latitude": 48.5314202,
-    "longitude": 14.8060327
+    "longitude": 14.8060327,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "DI.(FH) Markus Lindner",
     "retailer": "di_fh_markus_lindner",
     "shop": "car",
     "latitude": 48.53044,
-    "longitude": 14.8012652
+    "longitude": 14.8012652,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -48,27 +62,37 @@
     "shop": "doityourself",
     "latitude": 48.5327815,
     "longitude": 14.8077306,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Primetzhofer Bettina - (mobile) Friseurin",
     "retailer": "primetzhofer_bettina_mobile_friseurin",
     "shop": "hairdresser",
     "latitude": 48.5312525,
-    "longitude": 14.8021805
+    "longitude": 14.8021805,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Gerlinde",
     "retailer": "salon_gerlinde",
     "shop": "hairdresser",
     "latitude": 48.5321432,
-    "longitude": 14.8095404
+    "longitude": 14.8095404,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "W. König KG",
     "retailer": "w_konig_kg",
     "shop": "bicycle",
     "latitude": 48.5309222,
-    "longitude": 14.8049592
+    "longitude": 14.8049592,
+    "postcode": "4252",
+    "city": "Liebenau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

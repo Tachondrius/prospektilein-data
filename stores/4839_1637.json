@@ -4,27 +4,39 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.3945873,
-    "longitude": 16.3741923
+    "longitude": 16.3741923,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Riebl",
     "retailer": "friseur_riebl",
     "shop": "hairdresser",
     "latitude": 48.3901787,
-    "longitude": 16.372253
+    "longitude": 16.372253,
+    "postcode": "2111",
+    "city": "Harmannsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.3901465,
-    "longitude": 16.3723694
+    "longitude": 16.3723694,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kirchmeiers Spargel",
     "retailer": "kirchmeiers_spargel",
     "shop": "farm",
     "latitude": 48.3946741,
-    "longitude": 16.3740403
+    "longitude": 16.3740403,
+    "postcode": "2111",
+    "city": "Rückersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

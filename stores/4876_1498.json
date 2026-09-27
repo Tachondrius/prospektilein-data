@@ -4,21 +4,31 @@
     "retailer": "arbo_gmund",
     "shop": "car_repair",
     "latitude": 48.7613682,
-    "longitude": 14.9869428
+    "longitude": 14.9869428,
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Gmünd",
     "retailer": "autohaus_gmund",
     "shop": "car",
     "latitude": 48.7629944,
-    "longitude": 14.9875948
+    "longitude": 14.9875948,
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Be 4 You",
     "retailer": "be_4_you",
     "shop": "hairdresser",
     "latitude": 48.7665587,
-    "longitude": 14.9857478
+    "longitude": 14.9857478,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Plus",
@@ -26,7 +36,11 @@
     "shop": "supermarket",
     "latitude": 48.7651969,
     "longitude": 14.9862883,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -34,21 +48,29 @@
     "shop": "chemist",
     "latitude": 48.7649625,
     "longitude": 14.9860477,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Döller",
     "retailer": "backerei_doller",
     "shop": "bakery",
     "latitude": 48.7663756,
-    "longitude": 14.9857009
+    "longitude": 14.9857009,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DanKüchen",
     "retailer": "dankuchen",
     "shop": "kitchen",
     "latitude": 48.7674259,
-    "longitude": 14.9858523
+    "longitude": 14.9858523,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -56,14 +78,20 @@
     "shop": "supermarket",
     "latitude": 48.7661907,
     "longitude": 14.9839871,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.7698788,
-    "longitude": 14.9834482
+    "longitude": 14.9834482,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -71,14 +99,22 @@
     "shop": "supermarket",
     "latitude": 48.7654625,
     "longitude": 14.9817149,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Elektrotechnik",
     "retailer": "lagerhaus_elektrotechnik",
     "shop": "electronics",
     "latitude": 48.7611018,
-    "longitude": 14.9864399
+    "longitude": 14.9864399,
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -86,7 +122,11 @@
     "shop": "stationery",
     "latitude": 48.7653712,
     "longitude": 14.9827223,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -94,21 +134,29 @@
     "shop": "supermarket",
     "latitude": 48.7653388,
     "longitude": 14.9838463,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rad Fuchs",
     "retailer": "rad_fuchs",
     "shop": "bicycle",
     "latitude": 48.7684873,
-    "longitude": 14.985382
+    "longitude": 14.985382,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Steiner",
     "retailer": "steiner",
     "shop": "optician",
     "latitude": 48.7659335,
-    "longitude": 14.9854215
+    "longitude": 14.9854215,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Volkswagen",
@@ -116,13 +164,17 @@
     "shop": "car_repair",
     "latitude": 48.7628247,
     "longitude": 14.9875577,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zeiler",
     "retailer": "zeiler",
     "shop": "hairdresser",
     "latitude": 48.7670791,
-    "longitude": 14.9854576
+    "longitude": 14.9854576,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

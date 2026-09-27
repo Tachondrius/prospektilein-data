@@ -4,21 +4,27 @@
     "retailer": "fotostudio",
     "shop": "photo",
     "latitude": 47.4912241,
-    "longitude": 10.7174653
+    "longitude": 10.7174653,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hansaton",
     "retailer": "hansaton",
     "shop": "hearing_aids",
     "latitude": 47.4924809,
-    "longitude": 10.7176673
+    "longitude": 10.7176673,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.4910958,
-    "longitude": 10.7197497
+    "longitude": 10.7197497,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -26,41 +32,57 @@
     "shop": "supermarket",
     "latitude": 47.4908892,
     "longitude": 10.7195638,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sanitätshaus Heindl",
     "retailer": "sanitatshaus_heindl",
     "shop": "medical_supply",
     "latitude": 47.4929296,
-    "longitude": 10.7182108
+    "longitude": 10.7182108,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Singer",
     "retailer": "singer",
     "shop": "hairdresser",
     "latitude": 47.4907724,
-    "longitude": 10.717766
+    "longitude": 10.717766,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sucks Clothing",
     "retailer": "sucks_clothing",
     "shop": "clothes",
     "latitude": 47.4904134,
-    "longitude": 10.7174072
+    "longitude": 10.7174072,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 47.4925238,
-    "longitude": 10.7176408
+    "longitude": 10.7176408,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vanity Friseur",
     "retailer": "vanity_friseur",
     "shop": "hairdresser",
     "latitude": 47.4904856,
-    "longitude": 10.7174401
+    "longitude": 10.7174401,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

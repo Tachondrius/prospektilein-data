@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.3091632,
     "longitude": 16.3577403,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2103",
+    "city": "Langenzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Der Mann",
@@ -13,27 +17,43 @@
     "shop": "bakery",
     "latitude": 48.3097195,
     "longitude": 16.3575259,
-    "brand": "Der Mann"
+    "brand": "Der Mann",
+    "postcode": "2103",
+    "city": "Langenzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Drohtesl",
     "retailer": "drohtesl",
     "shop": "bicycle",
     "latitude": 48.3088483,
-    "longitude": 16.358678
+    "longitude": 16.358678,
+    "postcode": "2103",
+    "city": "Langenzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei Dormayer",
     "retailer": "fleischerei_dormayer",
     "shop": "butcher",
     "latitude": 48.3092409,
-    "longitude": 16.3580477
+    "longitude": 16.3580477,
+    "postcode": "2103",
+    "city": "Langenzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Riebel",
     "retailer": "friseur_riebel",
     "shop": "hairdresser",
     "latitude": 48.3088574,
-    "longitude": 16.3580858
+    "longitude": 16.3580858,
+    "postcode": "2103",
+    "city": "Langenzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

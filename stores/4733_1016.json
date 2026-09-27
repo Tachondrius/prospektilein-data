@@ -4,27 +4,41 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.338942,
-    "longitude": 10.1685743
+    "longitude": 10.1685743,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Guido Matt",
     "retailer": "guido_matt",
     "shop": "electronics",
     "latitude": 47.3321735,
-    "longitude": 10.1607338
+    "longitude": 10.1607338,
+    "postcode": "6993",
+    "city": "Mittelberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sport Rief - Schuhklinik",
     "retailer": "sport_rief_schuhklinik",
     "shop": "shoes",
     "latitude": 47.3333958,
-    "longitude": 10.1618182
+    "longitude": 10.1618182,
+    "postcode": "6993",
+    "city": "Mittelberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Thomas Uth Auto-Reparatur",
     "retailer": "thomas_uth_auto_reparatur",
     "shop": "car_repair",
     "latitude": 47.3337159,
-    "longitude": 10.1617904
+    "longitude": 10.1617904,
+    "postcode": "6993",
+    "city": "Mittelberg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

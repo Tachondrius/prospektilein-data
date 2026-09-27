@@ -4,7 +4,11 @@
     "retailer": "auner",
     "shop": "clothes",
     "latitude": 46.7612083,
-    "longitude": 14.3674953
+    "longitude": 14.3674953,
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 46.7653232,
     "longitude": 14.3659239,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen B&B",
@@ -20,7 +28,9 @@
     "shop": "florist",
     "latitude": 46.7692659,
     "longitude": 14.3642173,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Das Futterhaus",
@@ -28,21 +38,29 @@
     "shop": "pet",
     "latitude": 46.767552,
     "longitude": 14.3621717,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "9300",
+    "city": "St. Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Garden Centre",
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 46.7683365,
-    "longitude": 14.3628413
+    "longitude": 14.3628413,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.7656338,
-    "longitude": 14.3604354
+    "longitude": 14.3604354,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -50,21 +68,29 @@
     "shop": "supermarket",
     "latitude": 46.763699,
     "longitude": 14.3603627,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 46.7649828,
-    "longitude": 14.3691435
+    "longitude": 14.3691435,
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Massage",
     "retailer": "shop_massage",
     "shop": "massage",
     "latitude": 46.7655441,
-    "longitude": 14.3608114
+    "longitude": 14.3608114,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "PENNY",
@@ -72,7 +98,11 @@
     "shop": "supermarket",
     "latitude": 46.7648197,
     "longitude": 14.3650474,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Rutar",
@@ -80,7 +110,9 @@
     "shop": "furniture",
     "latitude": 46.7688541,
     "longitude": 14.3628203,
-    "brand": "Rutar"
+    "brand": "Rutar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -88,20 +120,28 @@
     "shop": "supermarket",
     "latitude": 46.7638889,
     "longitude": 14.3609732,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.7698692,
-    "longitude": 14.3657154
+    "longitude": 14.3657154,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trapp",
     "retailer": "trapp",
     "shop": "bakery",
     "latitude": 46.7678932,
-    "longitude": 14.3621003
+    "longitude": 14.3621003,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

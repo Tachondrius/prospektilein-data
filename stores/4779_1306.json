@@ -5,7 +5,11 @@
     "shop": "telecommunication",
     "latitude": 47.7929947,
     "longitude": 13.0609571,
-    "brand": "A1"
+    "brand": "A1",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa Unterwegs",
@@ -13,28 +17,40 @@
     "shop": "convenience",
     "latitude": 47.7929253,
     "longitude": 13.0600276,
-    "brand": "Billa Unterwegs"
+    "brand": "Billa Unterwegs",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Friseur am Kai",
     "retailer": "friseur_am_kai",
     "shop": "hairdresser",
     "latitude": 47.7928758,
-    "longitude": 13.0658126
+    "longitude": 13.0658126,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lambert",
     "retailer": "lambert",
     "shop": "medical_supply",
     "latitude": 47.7930061,
-    "longitude": 13.0655649
+    "longitude": 13.0655649,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Salon Astrid Wiesner",
     "retailer": "salon_astrid_wiesner",
     "shop": "hairdresser",
     "latitude": 47.7985154,
-    "longitude": 13.0646317
+    "longitude": 13.0646317,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -42,7 +58,9 @@
     "shop": "supermarket",
     "latitude": 47.7932141,
     "longitude": 13.0651722,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar Express",
@@ -50,6 +68,8 @@
     "shop": "convenience",
     "latitude": 47.7972189,
     "longitude": 13.0674625,
-    "brand": "Spar Express"
+    "brand": "Spar Express",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

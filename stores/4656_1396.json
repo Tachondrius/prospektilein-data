@@ -4,13 +4,19 @@
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.5676148,
-    "longitude": 13.9640669
+    "longitude": 13.9640669,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kfz Krall",
     "retailer": "kfz_krall",
     "shop": "car_repair",
     "latitude": 46.563797,
-    "longitude": 13.9643994
+    "longitude": 13.9643994,
+    "postcode": "9581",
+    "city": "Ledenitzen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

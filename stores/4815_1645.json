@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.158243,
     "longitude": 16.4543134,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Anker",
@@ -13,7 +17,11 @@
     "shop": "bakery",
     "latitude": 48.1581035,
     "longitude": 16.454441,
-    "brand": "Anker"
+    "brand": "Anker",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -21,28 +29,42 @@
     "shop": "chemist",
     "latitude": 48.1581565,
     "longitude": 16.4532048,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blümel Grüne Technik",
     "retailer": "blumel_grune_technik",
     "shop": "garden_furniture",
     "latitude": 48.1519133,
-    "longitude": 16.4537974
+    "longitude": 16.4537974,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Der Mann Backstubenverkauf",
     "retailer": "der_mann_backstubenverkauf",
     "shop": "bakery",
     "latitude": 48.1515284,
-    "longitude": 16.4543145
+    "longitude": 16.4543145,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Edi's Schuhservice & Schlüsseldienst",
     "retailer": "edi_s_schuhservice_und_schlusseldienst",
     "shop": "locksmith",
     "latitude": 48.1579838,
-    "longitude": 16.4544308
+    "longitude": 16.4544308,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Eurospar",
@@ -50,49 +72,73 @@
     "shop": "supermarket",
     "latitude": 48.1533843,
     "longitude": 16.45102,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gartenbau Kontner",
     "retailer": "gartenbau_kontner",
     "shop": "florist",
     "latitude": 48.1523474,
-    "longitude": 16.4513603
+    "longitude": 16.4513603,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gartenbaubetrieb Josef Diner",
     "retailer": "gartenbaubetrieb_josef_diner",
     "shop": "florist",
     "latitude": 48.1521721,
-    "longitude": 16.4518873
+    "longitude": 16.4518873,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hatmar Supermarkt",
     "retailer": "hatmar_supermarkt",
     "shop": "supermarket",
     "latitude": 48.157907,
-    "longitude": 16.4541233
+    "longitude": 16.4541233,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Intercoiffeur Strassl Schaider",
     "retailer": "intercoiffeur_strassl_schaider",
     "shop": "hairdresser",
     "latitude": 48.158062,
-    "longitude": 16.4544384
+    "longitude": 16.4544384,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "L. Heiner",
     "retailer": "l_heiner",
     "shop": "pastry",
     "latitude": 48.1517271,
-    "longitude": 16.454549
+    "longitude": 16.454549,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Leo's Autohaus",
     "retailer": "leo_s_autohaus",
     "shop": "car",
     "latitude": 48.1514137,
-    "longitude": 16.4547885
+    "longitude": 16.4547885,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "PENNY",
@@ -100,20 +146,32 @@
     "shop": "supermarket",
     "latitude": 48.1580114,
     "longitude": 16.4532033,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 48.1580228,
-    "longitude": 16.4544351
+    "longitude": 16.4544351,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Änderungs-Schneidere & Textil-Reinigung",
     "retailer": "anderungs_schneidere_und_textil_reinigung",
     "shop": "dry_cleaning",
     "latitude": 48.1579451,
-    "longitude": 16.4544265
+    "longitude": 16.4544265,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

@@ -5,20 +5,26 @@
     "shop": "supermarket",
     "latitude": 47.4414522,
     "longitude": 16.0573171,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischhauer",
     "retailer": "fleischhauer",
     "shop": "supermarket",
     "latitude": 47.4417772,
-    "longitude": 16.0571028
+    "longitude": 16.0571028,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "WiederWertVoll",
     "retailer": "wiederwertvoll",
     "shop": "second_hand",
     "latitude": 47.4414652,
-    "longitude": 16.0591558
+    "longitude": 16.0591558,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

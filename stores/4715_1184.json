@@ -5,7 +5,9 @@
     "shop": "bakery",
     "latitude": 47.1594327,
     "longitude": 11.8492374,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -13,13 +15,19 @@
     "shop": "supermarket",
     "latitude": 47.1595485,
     "longitude": 11.8493477,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6290",
+    "city": "Mayrhofen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Neuroth Hörgeräte",
     "retailer": "neuroth_horgerate",
     "shop": "hearing_aids",
     "latitude": 47.1586767,
-    "longitude": 11.8477967
+    "longitude": 11.8477967,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

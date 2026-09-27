@@ -4,35 +4,47 @@
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 47.5231998,
-    "longitude": 16.1937405
+    "longitude": 16.1937405,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 47.5225838,
-    "longitude": 16.1913276
+    "longitude": 16.1913276,
+    "postcode": "2851",
+    "city": "Krumbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Sonja",
     "retailer": "friseur_sonja",
     "shop": "hairdresser",
     "latitude": 47.5241386,
-    "longitude": 16.1921773
+    "longitude": 16.1921773,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Pichlbauer",
     "retailer": "gartnerei_pichlbauer",
     "shop": "florist",
     "latitude": 47.5219249,
-    "longitude": 16.190757
+    "longitude": 16.190757,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haarstudio Susanne",
     "retailer": "haarstudio_susanne",
     "shop": "hairdresser",
     "latitude": 47.5235369,
-    "longitude": 16.1930692
+    "longitude": 16.1930692,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -40,6 +52,10 @@
     "shop": "supermarket",
     "latitude": 47.5200506,
     "longitude": 16.193074,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2851",
+    "city": "Krumbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

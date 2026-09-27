@@ -5,14 +5,20 @@
     "shop": "car",
     "latitude": 48.629351,
     "longitude": 14.8281578,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Richter",
     "retailer": "backerei_richter",
     "shop": "bakery",
     "latitude": 48.6288475,
-    "longitude": 14.8248203
+    "longitude": 14.8248203,
+    "postcode": "3972",
+    "city": "Bad Großpertholz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -20,20 +26,30 @@
     "shop": "supermarket",
     "latitude": 48.6286904,
     "longitude": 14.8230858,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3972",
+    "city": "Bad Großpertholz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nordwaldhof",
     "retailer": "nordwaldhof",
     "shop": "butcher",
     "latitude": 48.6286209,
-    "longitude": 14.8245294
+    "longitude": 14.8245294,
+    "postcode": "3972",
+    "city": "Bad Großpertholz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pertholzer Hofladen",
     "retailer": "pertholzer_hofladen",
     "shop": "convenience",
     "latitude": 48.629694,
-    "longitude": 14.825848
+    "longitude": 14.825848,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

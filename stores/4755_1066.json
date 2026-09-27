@@ -4,13 +4,19 @@
     "retailer": "baguette",
     "shop": "bakery",
     "latitude": 47.5514869,
-    "longitude": 10.6698922
+    "longitude": 10.6698922,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
     "retailer": "mpreis",
     "shop": "supermarket",
     "latitude": 47.5514985,
-    "longitude": 10.6693562
+    "longitude": 10.6693562,
+    "postcode": "6600",
+    "city": "Pinswang",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

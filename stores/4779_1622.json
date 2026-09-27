@@ -5,21 +5,33 @@
     "shop": "supermarket",
     "latitude": 47.7990046,
     "longitude": 16.2273057,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DENZEL Wr. Neustadt Süd",
     "retailer": "denzel_wr_neustadt_sud",
     "shop": "car_repair",
     "latitude": 47.7960612,
-    "longitude": 16.2215016
+    "longitude": 16.2215016,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Erich Neubauer",
     "retailer": "erich_neubauer",
     "shop": "car_repair",
     "latitude": 47.7948375,
-    "longitude": 16.2204256
+    "longitude": 16.2204256,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Porsche Wr. Neustadt",
@@ -27,7 +39,11 @@
     "shop": "car",
     "latitude": 47.7988036,
     "longitude": 16.2245703,
-    "brand": "Audi;Seat;Volkswagen"
+    "brand": "Audi;Seat;Volkswagen",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Škoda",
@@ -35,6 +51,10 @@
     "shop": "car",
     "latitude": 47.7979557,
     "longitude": 16.2234512,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

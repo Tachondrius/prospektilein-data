@@ -4,14 +4,20 @@
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 47.9646257,
-    "longitude": 14.2564502
+    "longitude": 14.2564502,
+    "postcode": "4594",
+    "city": "Grünburg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 47.9649862,
-    "longitude": 14.2565592
+    "longitude": 14.2565592,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mazda Martin Raffetseder e.U.",
@@ -19,6 +25,8 @@
     "shop": "car",
     "latitude": 47.9689956,
     "longitude": 14.2585472,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "amann_kaffee",
     "shop": "coffee",
     "latitude": 47.4186325,
-    "longitude": 9.6720629
+    "longitude": 9.6720629,
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Auto Blaser",
@@ -12,7 +16,11 @@
     "shop": "car",
     "latitude": 47.4172869,
     "longitude": 9.6707904,
-    "brand": "Volkswagen;Audi"
+    "brand": "Volkswagen;Audi",
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Autohaus Walter GmbH",
@@ -20,7 +28,11 @@
     "shop": "car",
     "latitude": 47.4167954,
     "longitude": 9.67256,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Autohof Lingg",
@@ -28,13 +40,21 @@
     "shop": "car",
     "latitude": 47.4192412,
     "longitude": 9.6721627,
-    "brand": "Suzuki;Alfa Romeo"
+    "brand": "Suzuki;Alfa Romeo",
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lustenauer Senf",
     "retailer": "lustenauer_senf",
     "shop": "deli",
     "latitude": 47.4162371,
-    "longitude": 9.6724369
+    "longitude": 9.6724369,
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

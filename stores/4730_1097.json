@@ -4,14 +4,22 @@
     "retailer": "blumen_neurauter",
     "shop": "florist",
     "latitude": 47.3056151,
-    "longitude": 10.9761404
+    "longitude": 10.9761404,
+    "postcode": "6414",
+    "city": "Mieming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Falch",
     "retailer": "elektro_falch",
     "shop": "electronics",
     "latitude": 47.3061278,
-    "longitude": 10.977815
+    "longitude": 10.977815,
+    "postcode": "6414",
+    "city": "Mieming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lagerhaus",
@@ -19,28 +27,40 @@
     "shop": "doityourself",
     "latitude": 47.3056116,
     "longitude": 10.9768827,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "6414",
+    "city": "Mieming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.3050241,
-    "longitude": 10.9722835
+    "longitude": 10.9722835,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Radsport Krug",
     "retailer": "radsport_krug",
     "shop": "bicycle",
     "latitude": 47.306302,
-    "longitude": 10.9777577
+    "longitude": 10.9777577,
+    "postcode": "6414",
+    "city": "Mieming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon 179",
     "retailer": "salon_179",
     "shop": "hairdresser",
     "latitude": 47.3060197,
-    "longitude": 10.9771905
+    "longitude": 10.9771905,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -48,20 +68,30 @@
     "shop": "supermarket",
     "latitude": 47.305688,
     "longitude": 10.9779089,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6414",
+    "city": "Mieming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport+Mode Maurer",
     "retailer": "sport_plus_mode_maurer",
     "shop": "sports;clothes",
     "latitude": 47.3060506,
-    "longitude": 10.9755824
+    "longitude": 10.9755824,
+    "postcode": "6414",
+    "city": "Mieming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ötztal Bäck",
     "retailer": "otztal_back",
     "shop": "bakery",
     "latitude": 47.3060261,
-    "longitude": 10.977332
+    "longitude": 10.977332,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

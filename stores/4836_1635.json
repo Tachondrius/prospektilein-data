@@ -4,7 +4,9 @@
     "retailer": "anhanger_steininger",
     "shop": "trailer",
     "latitude": 48.3675085,
-    "longitude": 16.3559443
+    "longitude": 16.3559443,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,21 +14,33 @@
     "shop": "supermarket",
     "latitude": 48.3655929,
     "longitude": 16.3556114,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2111",
+    "city": "Tresdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KIRCHHOFF Mobility Austria GmbH",
     "retailer": "kirchhoff_mobility_austria_gmbh",
     "shop": "car_repair",
     "latitude": 48.3664949,
-    "longitude": 16.3563575
+    "longitude": 16.3563575,
+    "postcode": "2111",
+    "city": "Tresdorf-Gewerbegebiet",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Werkstätte PKW",
     "retailer": "lagerhaus_werkstatte_pkw",
     "shop": "car_repair",
     "latitude": 48.3675871,
-    "longitude": 16.3581186
+    "longitude": 16.3581186,
+    "postcode": "2111",
+    "city": "Tresdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "OPEL RLH Korneuburg",
@@ -34,20 +48,30 @@
     "shop": "car",
     "latitude": 48.3663063,
     "longitude": 16.3564367,
-    "brand": "Opel"
+    "brand": "Opel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pink",
     "retailer": "pink",
     "shop": "bicycle",
     "latitude": 48.3652937,
-    "longitude": 16.359044
+    "longitude": 16.359044,
+    "postcode": "2100",
+    "city": "Stetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pruckner Rehatechnik GmbH / Kirchhoff Mobility",
     "retailer": "pruckner_rehatechnik_gmbh_kirchhoff_mobility",
     "shop": "car",
     "latitude": 48.366307,
-    "longitude": 16.3561271
+    "longitude": 16.3561271,
+    "postcode": "2111",
+    "city": "Tresdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

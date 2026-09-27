@@ -4,21 +4,31 @@
     "retailer": "bernhard_sport_und_mode",
     "shop": "rental",
     "latitude": 47.1628136,
-    "longitude": 11.743959
+    "longitude": 11.743959,
+    "postcode": "6293",
+    "city": "Tux",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Braunegger Supermarkt",
     "retailer": "braunegger_supermarkt",
     "shop": "convenience",
     "latitude": 47.1629546,
-    "longitude": 11.7443386
+    "longitude": 11.7443386,
+    "postcode": "6293",
+    "city": "Tux",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Insider Sportshop",
     "retailer": "insider_sportshop",
     "shop": "sports",
     "latitude": 47.1632779,
-    "longitude": 11.7443858
+    "longitude": 11.7443858,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -26,6 +36,8 @@
     "shop": "convenience",
     "latitude": 47.1624334,
     "longitude": 11.7450379,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

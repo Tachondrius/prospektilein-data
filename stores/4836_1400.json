@@ -4,14 +4,18 @@
     "retailer": "barber_leo",
     "shop": "hairdresser",
     "latitude": 48.3618645,
-    "longitude": 14.002689
+    "longitude": 14.002689,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Beverages",
     "retailer": "shop_beverages",
     "shop": "beverages",
     "latitude": 48.3618049,
-    "longitude": 14.0085516
+    "longitude": 14.0085516,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -19,35 +23,47 @@
     "shop": "chemist",
     "latitude": 48.3608009,
     "longitude": 14.0040439,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei und Konditorei Moser GmbH",
     "retailer": "backerei_und_konditorei_moser_gmbh",
     "shop": "bakery",
     "latitude": 48.3617282,
-    "longitude": 14.0026359
+    "longitude": 14.0026359,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "figaro uno",
     "retailer": "figaro_uno",
     "shop": "hairdresser",
     "latitude": 48.362366,
-    "longitude": 14.0056343
+    "longitude": 14.0056343,
+    "postcode": "4081",
+    "city": "Hartkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fleischhauerei Ozlberger",
     "retailer": "fleischhauerei_ozlberger",
     "shop": "butcher",
     "latitude": 48.3627861,
-    "longitude": 14.0034486
+    "longitude": 14.0034486,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hans Arthofer GmbH",
     "retailer": "hans_arthofer_gmbh",
     "shop": "trade",
     "latitude": 48.3609169,
-    "longitude": 14.006199
+    "longitude": 14.006199,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -55,21 +71,31 @@
     "shop": "supermarket",
     "latitude": 48.3605078,
     "longitude": 14.0037546,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4081",
+    "city": "Hartkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hörsysteme Manuela Lehner",
     "retailer": "horsysteme_manuela_lehner",
     "shop": "hearing_aids",
     "latitude": 48.3623868,
-    "longitude": 14.0057298
+    "longitude": 14.0057298,
+    "postcode": "4081",
+    "city": "Hartkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "doityourself",
     "latitude": 48.3620044,
-    "longitude": 14.008679
+    "longitude": 14.008679,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -77,6 +103,10 @@
     "shop": "supermarket",
     "latitude": 48.3605985,
     "longitude": 14.0024069,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4081",
+    "city": "Hartkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

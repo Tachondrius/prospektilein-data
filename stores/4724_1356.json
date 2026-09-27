@@ -4,14 +4,22 @@
     "retailer": "alpenshop",
     "shop": "gift",
     "latitude": 47.2474904,
-    "longitude": 13.5600353
+    "longitude": 13.5600353,
+    "postcode": "5562",
+    "city": "Obertauern",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Freudenhaus",
     "retailer": "freudenhaus",
     "shop": "sports",
     "latitude": 47.2482359,
-    "longitude": 13.5622385
+    "longitude": 13.5622385,
+    "postcode": "5562",
+    "city": "Tweng",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport",
@@ -19,7 +27,11 @@
     "shop": "sports",
     "latitude": 47.2472027,
     "longitude": 13.5603086,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "5562",
+    "city": "Tweng",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport",
@@ -27,21 +39,29 @@
     "shop": "sports",
     "latitude": 47.2472931,
     "longitude": 13.5620515,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kassa",
     "retailer": "kassa",
     "shop": "ticket",
     "latitude": 47.246547,
-    "longitude": 13.5609944
+    "longitude": 13.5609944,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Skiworld",
     "retailer": "skiworld",
     "shop": "sports",
     "latitude": 47.2476929,
-    "longitude": 13.5607237
+    "longitude": 13.5607237,
+    "postcode": "5562",
+    "city": "Tweng",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -49,13 +69,19 @@
     "shop": "supermarket",
     "latitude": 47.2471275,
     "longitude": 13.5608209,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5562",
+    "city": "Tweng",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tickets",
     "retailer": "tickets",
     "shop": "ticket",
     "latitude": 47.2457083,
-    "longitude": 13.5669437
+    "longitude": 13.5669437,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

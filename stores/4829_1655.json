@@ -5,28 +5,38 @@
     "shop": "supermarket",
     "latitude": 48.294727,
     "longitude": 16.5553575,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2232",
+    "city": "Deutsch-Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BonaTerra",
     "retailer": "bonaterra",
     "shop": "farm",
     "latitude": 48.2985887,
-    "longitude": 16.5535627
+    "longitude": 16.5535627,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Böckl Brände",
     "retailer": "bockl_brande",
     "shop": "alcohol",
     "latitude": 48.2956319,
-    "longitude": 16.5541695
+    "longitude": 16.5541695,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Wagner",
     "retailer": "gartnerei_wagner",
     "shop": "convenience",
     "latitude": 48.2997913,
-    "longitude": 16.55731
+    "longitude": 16.55731,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -34,6 +44,10 @@
     "shop": "stationery",
     "latitude": 48.2950622,
     "longitude": 16.5565231,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "2232",
+    "city": "Deutsch-Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

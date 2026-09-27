@@ -5,20 +5,32 @@
     "shop": "chemist",
     "latitude": 48.1898533,
     "longitude": 16.2773619,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Maroitalia",
     "retailer": "maroitalia",
     "shop": "bicycle",
     "latitude": 48.1823431,
-    "longitude": 16.2798313
+    "longitude": 16.2798313,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Zum grünen Rauchfangkehrer",
     "retailer": "zum_grunen_rauchfangkehrer",
     "shop": "convenience",
     "latitude": 48.188583,
-    "longitude": 16.2722326
+    "longitude": 16.2722326,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

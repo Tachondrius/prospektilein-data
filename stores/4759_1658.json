@@ -4,13 +4,19 @@
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 47.5912024,
-    "longitude": 16.5831065
+    "longitude": 16.5831065,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fleischerei Kuzmits",
     "retailer": "fleischerei_kuzmits",
     "shop": "butcher",
     "latitude": 47.5908371,
-    "longitude": 16.5824466
+    "longitude": 16.5824466,
+    "postcode": "7312",
+    "city": "Horitschon",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -4,35 +4,47 @@
     "retailer": "a_und_a_kidsdesign",
     "shop": "clothes",
     "latitude": 47.4159332,
-    "longitude": 13.2183814
+    "longitude": 13.2183814,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Antosch",
     "retailer": "antosch",
     "shop": "tyres",
     "latitude": 47.4120368,
-    "longitude": 13.216286
+    "longitude": 13.216286,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Arzböck",
     "retailer": "arzbock",
     "shop": "estate_agent",
     "latitude": 47.4154402,
-    "longitude": 13.2181803
+    "longitude": 13.2181803,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bauer",
     "retailer": "bauer",
     "shop": "bakery",
     "latitude": 47.4175451,
-    "longitude": 13.2188624
+    "longitude": 13.2188624,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bikeklinik by Alex Scheer",
     "retailer": "bikeklinik_by_alex_scheer",
     "shop": "bicycle_repair",
     "latitude": 47.4162993,
-    "longitude": 13.2190256
+    "longitude": 13.2190256,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -40,7 +52,11 @@
     "shop": "supermarket",
     "latitude": 47.4178406,
     "longitude": 13.2178088,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa Plus",
@@ -48,14 +64,20 @@
     "shop": "supermarket",
     "latitude": 47.4107082,
     "longitude": 13.2171535,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Konditorei Bauer",
     "retailer": "backerei_konditorei_bauer",
     "shop": "bakery",
     "latitude": 47.4133679,
-    "longitude": 13.2167882
+    "longitude": 13.2167882,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "C&A",
@@ -63,14 +85,20 @@
     "shop": "clothes",
     "latitude": 47.4156859,
     "longitude": 13.2193895,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Clodette - Französische Patisserie",
     "retailer": "clodette_franzosische_patisserie",
     "shop": "pastry;confectionery",
     "latitude": 47.4160264,
-    "longitude": 13.2183979
+    "longitude": 13.2183979,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Colloseum",
@@ -78,7 +106,9 @@
     "shop": "clothes",
     "latitude": 47.4158393,
     "longitude": 13.2190673,
-    "brand": "Colloseum"
+    "brand": "Colloseum",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Depot",
@@ -86,7 +116,9 @@
     "shop": "interior_decoration",
     "latitude": 47.4156824,
     "longitude": 13.2194462,
-    "brand": "Depot"
+    "brand": "Depot",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -94,56 +126,80 @@
     "shop": "chemist",
     "latitude": 47.4158236,
     "longitude": 13.2191575,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "donnerbauer",
     "retailer": "donnerbauer",
     "shop": "estate_agent",
     "latitude": 47.4148248,
-    "longitude": 13.2177054
+    "longitude": 13.2177054,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Drogerie & Parfümerie Lackinger",
     "retailer": "drogerie_und_parfumerie_lackinger",
     "shop": "department_store;cosmetics",
     "latitude": 47.4178059,
-    "longitude": 13.2189399
+    "longitude": 13.2189399,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Egin",
     "retailer": "egin",
     "shop": "hairdresser",
     "latitude": 47.4149836,
-    "longitude": 13.2179919
+    "longitude": 13.2179919,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Einkaufszentrum \"KARO\"",
     "retailer": "einkaufszentrum_karo",
     "shop": "department_store",
     "latitude": 47.4157453,
-    "longitude": 13.218963
+    "longitude": 13.218963,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "EKZ Süd",
     "retailer": "ekz_sud",
     "shop": "mall",
     "latitude": 47.4110222,
-    "longitude": 13.2174003
+    "longitude": 13.2174003,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Elektrogeräte-Service Grill",
     "retailer": "elektrogerate_service_grill",
     "shop": "appliance;electronics",
     "latitude": 47.4162151,
-    "longitude": 13.2176927
+    "longitude": 13.2176927,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fahrrad Lacher",
     "retailer": "fahrrad_lacher",
     "shop": "sports",
     "latitude": 47.4160884,
-    "longitude": 13.2178046
+    "longitude": 13.2178046,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fressnapf",
@@ -151,7 +207,9 @@
     "shop": "pet",
     "latitude": 47.4112567,
     "longitude": 13.2161663,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fussl",
@@ -159,14 +217,18 @@
     "shop": "clothes",
     "latitude": 47.4114735,
     "longitude": 13.2167648,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Glow & Glory",
     "retailer": "glow_und_glory",
     "shop": "hairdresser",
     "latitude": 47.415688,
-    "longitude": 13.2181386
+    "longitude": 13.2181386,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "H&M",
@@ -174,21 +236,31 @@
     "shop": "clothes",
     "latitude": 47.4172881,
     "longitude": 13.2187983,
-    "brand": "H&M"
+    "brand": "H&M",
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.4169531,
-    "longitude": 13.2187413
+    "longitude": 13.2187413,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "hairlounge",
     "retailer": "hairlounge",
     "shop": "hairdresser",
     "latitude": 47.4170595,
-    "longitude": 13.2185197
+    "longitude": 13.2185197,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hartlauer",
@@ -196,7 +268,9 @@
     "shop": "electronics",
     "latitude": 47.4151353,
     "longitude": 13.2178333,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -204,21 +278,32 @@
     "shop": "supermarket",
     "latitude": 47.4105996,
     "longitude": 13.2152929,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "JYSK Bischofshofen",
     "retailer": "jysk_bischofshofen",
     "shop": "furniture",
     "latitude": 47.4116715,
-    "longitude": 13.2159349
+    "longitude": 13.2159349,
+    "postcode": "5500",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KARO Bischofshofen",
     "retailer": "karo_bischofshofen",
     "shop": "mall",
     "latitude": 47.4157462,
-    "longitude": 13.2191209
+    "longitude": 13.2191209,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KiK",
@@ -226,21 +311,31 @@
     "shop": "clothes",
     "latitude": 47.4116351,
     "longitude": 13.2163047,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kunstquadrat-Werkstatt",
     "retailer": "kunstquadrat_werkstatt",
     "shop": "art",
     "latitude": 47.4142658,
-    "longitude": 13.2172769
+    "longitude": 13.2172769,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Musikhaus Lechner",
     "retailer": "musikhaus_lechner",
     "shop": "musical_instrument",
     "latitude": 47.415729,
-    "longitude": 13.2172209
+    "longitude": 13.2172209,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Müller",
@@ -248,7 +343,11 @@
     "shop": "chemist",
     "latitude": 47.4109957,
     "longitude": 13.2148952,
-    "brand": "Müller"
+    "brand": "Müller",
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Neuroth",
@@ -256,7 +355,9 @@
     "shop": "hearing_aids",
     "latitude": 47.4178152,
     "longitude": 13.2185835,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "New Yorker",
@@ -264,7 +365,11 @@
     "shop": "clothes",
     "latitude": 47.4169302,
     "longitude": 13.2184276,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "NKD",
@@ -272,14 +377,20 @@
     "shop": "clothes",
     "latitude": 47.4115117,
     "longitude": 13.2175441,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Novak",
     "retailer": "novak",
     "shop": "shoes",
     "latitude": 47.4161743,
-    "longitude": 13.218673
+    "longitude": 13.218673,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "OBI",
@@ -287,35 +398,51 @@
     "shop": "doityourself",
     "latitude": 47.4116063,
     "longitude": 13.2178192,
-    "brand": "OBI"
+    "brand": "OBI",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Patisserie-Café Madl",
     "retailer": "patisserie_cafe_madl",
     "shop": "confectionery;pastry",
     "latitude": 47.4183879,
-    "longitude": 13.2178089
+    "longitude": 13.2178089,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "saIT - We know how",
     "retailer": "sait_we_know_how",
     "shop": "repair",
     "latitude": 47.4166371,
-    "longitude": 13.2187652
+    "longitude": 13.2187652,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sattlecker",
     "retailer": "sattlecker",
     "shop": "chemist",
     "latitude": 47.419465,
-    "longitude": 13.2188737
+    "longitude": 13.2188737,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schmuck Teufel",
     "retailer": "schmuck_teufel",
     "shop": "jewelry",
     "latitude": 47.4158734,
-    "longitude": 13.2183486
+    "longitude": 13.2183486,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "sehen!wutscher",
@@ -323,7 +450,9 @@
     "shop": "optician",
     "latitude": 47.4168357,
     "longitude": 13.2187106,
-    "brand": "sehen!wutscher"
+    "brand": "sehen!wutscher",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "shoe4you",
@@ -331,7 +460,9 @@
     "shop": "shoes",
     "latitude": 47.4114833,
     "longitude": 13.2173816,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -339,7 +470,9 @@
     "shop": "supermarket",
     "latitude": 47.4156931,
     "longitude": 13.2190987,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000",
@@ -347,7 +480,9 @@
     "shop": "sports",
     "latitude": 47.4159456,
     "longitude": 13.2194872,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tally Weijl",
@@ -355,35 +490,49 @@
     "shop": "clothes",
     "latitude": 47.415712,
     "longitude": 13.218874,
-    "brand": "Tally Weijl"
+    "brand": "Tally Weijl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "TAPPE Bischofshofen",
     "retailer": "tappe_bischofshofen",
     "shop": "medical_supply",
     "latitude": 47.4167051,
-    "longitude": 13.2184786
+    "longitude": 13.2184786,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Teufl",
     "retailer": "teufl",
     "shop": "optician",
     "latitude": 47.4158253,
-    "longitude": 13.2183136
+    "longitude": 13.2183136,
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.4146129,
-    "longitude": 13.2173736
+    "longitude": 13.2173736,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.4182037,
-    "longitude": 13.2189532
+    "longitude": 13.2189532,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Weltladen",
@@ -391,13 +540,20 @@
     "shop": "convenience",
     "latitude": 47.4147781,
     "longitude": 13.2179217,
-    "brand": "Weltladen"
+    "brand": "Weltladen",
+    "postcode": "5500",
+    "city": "Bischofshofen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Zillertaler Trachtenweld",
     "retailer": "zillertaler_trachtenweld",
     "shop": "clothes",
     "latitude": 47.4172201,
-    "longitude": 13.2183932
+    "longitude": 13.2183932,
+    "postcode": "5500",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "friedensburg_schlaining",
     "shop": "ticket",
     "latitude": 47.3225824,
-    "longitude": 16.2799271
+    "longitude": 16.2799271,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.3219619,
     "longitude": 16.2732767,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7461",
+    "city": "Stadtschlaining",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -4,27 +4,39 @@
     "retailer": "palmers_textil_ag",
     "shop": "clothes",
     "latitude": 48.1204839,
-    "longitude": 14.8931151
+    "longitude": 14.8931151,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Radsport Ginner",
     "retailer": "radsport_ginner",
     "shop": "bicycle",
     "latitude": 48.1200647,
-    "longitude": 14.8938038
+    "longitude": 14.8938038,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Riedl Bosch Service",
     "retailer": "riedl_bosch_service",
     "shop": "car_repair",
     "latitude": 48.1227643,
-    "longitude": 14.8924528
+    "longitude": 14.8924528,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Eva Reder",
     "retailer": "trafik_eva_reder",
     "shop": "tobacco",
     "latitude": 48.1203976,
-    "longitude": 14.8934804
+    "longitude": 14.8934804,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

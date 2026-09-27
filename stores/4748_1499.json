@@ -4,7 +4,9 @@
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.4888374,
-    "longitude": 14.9930398
+    "longitude": 14.9930398,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch",
@@ -12,13 +14,19 @@
     "shop": "supermarket",
     "latitude": 47.4877691,
     "longitude": 14.9940009,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "8794",
+    "city": "Vordernberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schwarzer Adler Hausladen",
     "retailer": "schwarzer_adler_hausladen",
     "shop": "general",
     "latitude": 47.4875605,
-    "longitude": 14.9928398
+    "longitude": 14.9928398,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

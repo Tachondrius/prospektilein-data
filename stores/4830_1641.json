@@ -4,7 +4,9 @@
     "retailer": "alles_guenstig",
     "shop": "electronics",
     "latitude": 48.3019634,
-    "longitude": 16.4110135
+    "longitude": 16.4110135,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,34 +14,45 @@
     "shop": "supermarket",
     "latitude": 48.3001152,
     "longitude": 16.415733,
-    "brand": "Billa"
+    "brand": "Billa",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Helga Kastner",
     "retailer": "helga_kastner",
     "shop": "hairdresser",
     "latitude": 48.3015904,
-    "longitude": 16.4115551
+    "longitude": 16.4115551,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.3015872,
-    "longitude": 16.4118162
+    "longitude": 16.4118162,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lendl",
     "retailer": "lendl",
     "shop": "bakery",
     "latitude": 48.3013504,
-    "longitude": 16.413956
+    "longitude": 16.413956,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mario's Moto Outlet",
     "retailer": "mario_s_moto_outlet",
     "shop": "motorcycle",
     "latitude": 48.3009888,
-    "longitude": 16.4165181
+    "longitude": 16.4165181,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

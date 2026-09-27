@@ -5,27 +5,39 @@
     "shop": "supermarket",
     "latitude": 48.0866539,
     "longitude": 16.2544766,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2371",
+    "city": "Hinterbrühl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Frisör Hinterbrühl",
     "retailer": "frisor_hinterbruhl",
     "shop": "hairdresser",
     "latitude": 48.0883862,
-    "longitude": 16.2538254
+    "longitude": 16.2538254,
+    "postcode": "2371",
+    "city": "Hinterbrühl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Seegrotte",
     "retailer": "seegrotte",
     "shop": "gift",
     "latitude": 48.0861451,
-    "longitude": 16.2572619
+    "longitude": 16.2572619,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Touristshop",
     "retailer": "touristshop",
     "shop": "gift",
     "latitude": 48.0859812,
-    "longitude": 16.2574043
+    "longitude": 16.2574043,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

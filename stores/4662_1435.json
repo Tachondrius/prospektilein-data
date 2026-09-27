@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 46.6293886,
     "longitude": 14.3555924,
-    "brand": "Renault;Dacia;Jaguar;Land Rover;BYD"
+    "brand": "Renault;Dacia;Jaguar;Land Rover;BYD",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bellaflora",
@@ -13,14 +15,22 @@
     "shop": "garden_centre",
     "latitude": 46.6288185,
     "longitude": 14.3541608,
-    "brand": "Bellaflora"
+    "brand": "Bellaflora",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Betten Reiter",
     "retailer": "betten_reiter",
     "shop": "bed",
     "latitude": 46.6291202,
-    "longitude": 14.3526202
+    "longitude": 14.3526202,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen B&B",
@@ -28,21 +38,31 @@
     "shop": "florist",
     "latitude": 46.6299115,
     "longitude": 14.3508815,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "DAN Küchenstudio",
     "retailer": "dan_kuchenstudio",
     "shop": "kitchen",
     "latitude": 46.6290854,
-    "longitude": 14.3513431
+    "longitude": 14.3513431,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "DanKüchen",
     "retailer": "dankuchen",
     "shop": "kitchen",
     "latitude": 46.6299903,
-    "longitude": 14.3588022
+    "longitude": 14.3588022,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Forstinger",
@@ -50,7 +70,9 @@
     "shop": "car_repair",
     "latitude": 46.6291119,
     "longitude": 14.3534348,
-    "brand": "Forstinger"
+    "brand": "Forstinger",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fressnapf",
@@ -58,7 +80,11 @@
     "shop": "pet",
     "latitude": 46.6299305,
     "longitude": 14.3585233,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gigasport",
@@ -66,28 +92,38 @@
     "shop": "sports",
     "latitude": 46.6274621,
     "longitude": 14.3520744,
-    "brand": "Gigasport"
+    "brand": "Gigasport",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gusto Italian",
     "retailer": "gusto_italian",
     "shop": "convenience",
     "latitude": 46.6285139,
-    "longitude": 14.351803
+    "longitude": 14.351803,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Iloon",
     "retailer": "iloon",
     "shop": "beverages",
     "latitude": 46.6299334,
-    "longitude": 14.350691
+    "longitude": 14.350691,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Iloonfa",
     "retailer": "iloonfa",
     "shop": "supermarket",
     "latitude": 46.6299423,
-    "longitude": 14.3505529
+    "longitude": 14.3505529,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Intersport",
@@ -95,21 +131,31 @@
     "shop": "sports",
     "latitude": 46.6289052,
     "longitude": 14.3565753,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Jamnig Bauelemente",
     "retailer": "jamnig_bauelemente",
     "shop": "hardware",
     "latitude": 46.6297431,
-    "longitude": 14.3515389
+    "longitude": 14.3515389,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kfz Ing. A. Aichholzer",
     "retailer": "kfz_ing_a_aichholzer",
     "shop": "car_repair",
     "latitude": 46.6294689,
-    "longitude": 14.3500765
+    "longitude": 14.3500765,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KiK",
@@ -117,21 +163,31 @@
     "shop": "clothes",
     "latitude": 46.6291625,
     "longitude": 14.3532221,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kölle Zoo",
     "retailer": "kolle_zoo",
     "shop": "pet",
     "latitude": 46.6277296,
-    "longitude": 14.3502443
+    "longitude": 14.3502443,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lucky Car",
     "retailer": "lucky_car",
     "shop": "car_repair",
     "latitude": 46.6280305,
-    "longitude": 14.3528941
+    "longitude": 14.3528941,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Magenta",
@@ -139,7 +195,9 @@
     "shop": "telecommunication",
     "latitude": 46.6297512,
     "longitude": 14.351407,
-    "brand": "Magenta"
+    "brand": "Magenta",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "OBI",
@@ -147,7 +205,9 @@
     "shop": "doityourself",
     "latitude": 46.6287405,
     "longitude": 14.3585962,
-    "brand": "OBI"
+    "brand": "OBI",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pagro",
@@ -155,7 +215,9 @@
     "shop": "stationery",
     "latitude": 46.6286208,
     "longitude": 14.3516113,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Smyths",
@@ -163,21 +225,31 @@
     "shop": "toys",
     "latitude": 46.6288941,
     "longitude": 14.357042,
-    "brand": "Smyths"
+    "brand": "Smyths",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Stadtgartenamt",
     "retailer": "stadtgartenamt",
     "shop": "garden_centre",
     "latitude": 46.6249305,
-    "longitude": 14.3531897
+    "longitude": 14.3531897,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "WOM",
     "retailer": "wom",
     "shop": "furniture",
     "latitude": 46.6298385,
-    "longitude": 14.3581234
+    "longitude": 14.3581234,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Zeppitz",
@@ -185,6 +257,8 @@
     "shop": "bakery",
     "latitude": 46.628652,
     "longitude": 14.358741,
-    "brand": "Zeppitz"
+    "brand": "Zeppitz",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -5,34 +5,46 @@
     "shop": "supermarket",
     "latitude": 48.3355132,
     "longitude": 14.3002532,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bio Genussecke",
     "retailer": "bio_genussecke",
     "shop": "butcher",
     "latitude": 48.3320741,
-    "longitude": 14.3098521
+    "longitude": 14.3098521,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Honeder",
     "retailer": "honeder",
     "shop": "bakery",
     "latitude": 48.3321669,
-    "longitude": 14.309621
+    "longitude": 14.309621,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Massageteam Biesenfeld",
     "retailer": "massageteam_biesenfeld",
     "shop": "massage",
     "latitude": 48.3336867,
-    "longitude": 14.302944
+    "longitude": 14.302944,
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "SU Massage",
     "retailer": "su_massage",
     "shop": "massage",
     "latitude": 48.3322926,
-    "longitude": 14.309183
+    "longitude": 14.309183,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

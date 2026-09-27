@@ -4,7 +4,9 @@
     "retailer": "akusun",
     "shop": "window_blind",
     "latitude": 47.277167,
-    "longitude": 11.4778524
+    "longitude": 11.4778524,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,14 +14,18 @@
     "shop": "bakery",
     "latitude": 47.2734014,
     "longitude": 11.4747514,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baumit",
     "retailer": "baumit",
     "shop": "trade",
     "latitude": 47.2720236,
-    "longitude": 11.4727231
+    "longitude": 11.4727231,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -27,14 +33,18 @@
     "shop": "chemist",
     "latitude": 47.27615,
     "longitude": 11.4753326,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eurogast Hall",
     "retailer": "eurogast_hall",
     "shop": "supermarket",
     "latitude": 47.2731453,
-    "longitude": 11.4729828
+    "longitude": 11.4729828,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eurospar",
@@ -42,14 +52,18 @@
     "shop": "supermarket",
     "latitude": 47.2761707,
     "longitude": 11.4750427,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fa. Holter",
     "retailer": "fa_holter",
     "shop": "wholesale",
     "latitude": 47.2793954,
-    "longitude": 11.473726
+    "longitude": 11.473726,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fressnapf",
@@ -57,35 +71,49 @@
     "shop": "pet",
     "latitude": 47.2761182,
     "longitude": 11.4757615,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "HELLA Sonnen- und Wetterschutztechnik GmbH",
     "retailer": "hella_sonnen_und_wetterschutztechnik_gmbh",
     "shop": "window_blind",
     "latitude": 47.276763,
-    "longitude": 11.4770595
+    "longitude": 11.4770595,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Impex",
     "retailer": "impex",
     "shop": "wholesale",
     "latitude": 47.2768452,
-    "longitude": 11.4747919
+    "longitude": 11.4747919,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Krämer",
     "retailer": "kramer",
     "shop": "equestrian",
     "latitude": 47.27813,
-    "longitude": 11.4714066
+    "longitude": 11.4714066,
+    "postcode": "6065",
+    "city": "Thaur",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Küchenstudio Isabella Walch",
     "retailer": "kuchenstudio_isabella_walch",
     "shop": "kitchen",
     "latitude": 47.2751884,
-    "longitude": 11.4711043
+    "longitude": 11.4711043,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Louis Motorrad Hall in Tirol",
@@ -93,14 +121,21 @@
     "shop": "motorcycle",
     "latitude": 47.2768005,
     "longitude": 11.4764538,
-    "brand": "Louis Motorrad"
+    "brand": "Louis Motorrad",
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MayWay Gastroausstattung",
     "retailer": "mayway_gastroausstattung",
     "shop": "kitchen",
     "latitude": 47.2794154,
-    "longitude": 11.4711977
+    "longitude": 11.4711977,
+    "city": "Thaur",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -108,55 +143,79 @@
     "shop": "convenience",
     "latitude": 47.2769484,
     "longitude": 11.4738514,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pappas",
     "retailer": "pappas",
     "shop": "car",
     "latitude": 47.2762478,
-    "longitude": 11.4732784
+    "longitude": 11.4732784,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reifen Jais",
     "retailer": "reifen_jais",
     "shop": "tyres",
     "latitude": 47.2729766,
-    "longitude": 11.4764764
+    "longitude": 11.4764764,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reifen Team West",
     "retailer": "reifen_team_west",
     "shop": "tyres",
     "latitude": 47.2739704,
-    "longitude": 11.470094
+    "longitude": 11.470094,
+    "postcode": "6065",
+    "city": "Thaur",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reischl",
     "retailer": "reischl",
     "shop": "car_repair",
     "latitude": 47.2722111,
-    "longitude": 11.4737891
+    "longitude": 11.4737891,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schmidt's",
     "retailer": "schmidt_s",
     "shop": "hardware",
     "latitude": 47.2746128,
-    "longitude": 11.4702321
+    "longitude": 11.4702321,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sto Verkaufscenter Hall",
     "retailer": "sto_verkaufscenter_hall",
     "shop": "trade",
     "latitude": 47.2775139,
-    "longitude": 11.473884
+    "longitude": 11.473884,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T & G",
     "retailer": "mpreis",
     "shop": "supermarket",
     "latitude": 47.273385,
-    "longitude": 11.4750208
+    "longitude": 11.4750208,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

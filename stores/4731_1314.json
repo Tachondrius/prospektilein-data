@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 47.3195261,
     "longitude": 13.1416651,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5620",
+    "city": "Schwarzach im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Elektro Vötter",
     "retailer": "elektro_votter",
     "shop": "electronics",
     "latitude": 47.3194918,
-    "longitude": 13.1407329
+    "longitude": 13.1407329,
+    "postcode": "5620",
+    "city": "Schwarzach im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

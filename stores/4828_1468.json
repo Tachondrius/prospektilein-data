@@ -4,7 +4,11 @@
     "retailer": "amstler_pikant_fur_seine_wurst",
     "shop": "butcher",
     "latitude": 48.2840163,
-    "longitude": 14.6825921
+    "longitude": 14.6825921,
+    "postcode": "4322",
+    "city": "Windhaag",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Irreiter Gabriele",
@@ -12,13 +16,18 @@
     "shop": "convenience",
     "latitude": 48.2830764,
     "longitude": 14.6812461,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Veronika",
     "retailer": "salon_veronika",
     "shop": "hairdresser",
     "latitude": 48.2838739,
-    "longitude": 14.6817952
+    "longitude": 14.6817952,
+    "postcode": "4322",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

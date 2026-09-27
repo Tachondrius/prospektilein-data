@@ -4,14 +4,20 @@
     "retailer": "aus_und_raus",
     "shop": "variety_store",
     "latitude": 47.3508731,
-    "longitude": 11.6967182
+    "longitude": 11.6967182,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Autopark Vomp",
     "retailer": "autopark_vomp",
     "shop": "car",
     "latitude": 47.3515618,
-    "longitude": 11.6998891
+    "longitude": 11.6998891,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -19,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 47.350488,
     "longitude": 11.6976367,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "C&A",
@@ -27,7 +37,11 @@
     "shop": "clothes",
     "latitude": 47.3510022,
     "longitude": 11.6966026,
-    "brand": "C&A"
+    "brand": "C&A",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Deichmann",
@@ -35,7 +49,9 @@
     "shop": "shoes",
     "latitude": 47.3508059,
     "longitude": 11.6990836,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dm",
@@ -43,21 +59,31 @@
     "shop": "chemist",
     "latitude": 47.3511641,
     "longitude": 11.6967657,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Doityourself",
     "retailer": "shop_doityourself",
     "shop": "doityourself",
     "latitude": 47.3566617,
-    "longitude": 11.6962817
+    "longitude": 11.6962817,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fachmarktzentrum",
     "retailer": "fachmarktzentrum",
     "shop": "mall",
     "latitude": 47.3509652,
-    "longitude": 11.6966905
+    "longitude": 11.6966905,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fussl",
@@ -65,14 +91,22 @@
     "shop": "clothes",
     "latitude": 47.3500873,
     "longitude": 11.6974167,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gebrauchtwagenzentrum Tirol",
     "retailer": "gebrauchtwagenzentrum_tirol",
     "shop": "car",
     "latitude": 47.3546099,
-    "longitude": 11.6993371
+    "longitude": 11.6993371,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -80,7 +114,11 @@
     "shop": "sports",
     "latitude": 47.3520089,
     "longitude": 11.6987966,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "JYSK",
@@ -88,14 +126,22 @@
     "shop": "furniture",
     "latitude": 47.3506587,
     "longitude": 11.6972141,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Spatzier Robert",
     "retailer": "kfz_spatzier_robert",
     "shop": "car_repair",
     "latitude": 47.3566647,
-    "longitude": 11.696377
+    "longitude": 11.696377,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KiK",
@@ -103,14 +149,20 @@
     "shop": "clothes",
     "latitude": 47.3507695,
     "longitude": 11.6969434,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.3508106,
-    "longitude": 11.6991962
+    "longitude": 11.6991962,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "OBI",
@@ -118,35 +170,51 @@
     "shop": "doityourself",
     "latitude": 47.3518417,
     "longitude": 11.6975287,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ofen Ober",
     "retailer": "ofen_ober",
     "shop": "fireplace",
     "latitude": 47.3536604,
-    "longitude": 11.6999043
+    "longitude": 11.6999043,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ruetz",
     "retailer": "ruetz",
     "shop": "bakery",
     "latitude": 47.3509204,
-    "longitude": 11.6992312
+    "longitude": 11.6992312,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Stoffplanet Vomp",
     "retailer": "stoffplanet_vomp",
     "shop": "fabric",
     "latitude": 47.3537458,
-    "longitude": 11.6996024
+    "longitude": 11.6996024,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tattoo by Joe",
     "retailer": "tattoo_by_joe",
     "shop": "tattoo",
     "latitude": 47.3566697,
-    "longitude": 11.6988529
+    "longitude": 11.6988529,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TEDi",
@@ -154,27 +222,41 @@
     "shop": "variety_store",
     "latitude": 47.3506642,
     "longitude": 11.6989281,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Vomp",
     "retailer": "trafik_vomp",
     "shop": "tobacco",
     "latitude": 47.3509093,
-    "longitude": 11.6980013
+    "longitude": 11.6980013,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Troger Moden",
     "retailer": "troger_moden",
     "shop": "clothes",
     "latitude": 47.353685,
-    "longitude": 11.6998177
+    "longitude": 11.6998177,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wippro Türsysteme",
     "retailer": "wippro_tursysteme",
     "shop": "doors",
     "latitude": 47.3537649,
-    "longitude": 11.6995692
+    "longitude": 11.6995692,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

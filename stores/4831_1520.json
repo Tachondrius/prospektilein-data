@@ -4,21 +4,31 @@
     "retailer": "bipa",
     "shop": "chemist",
     "latitude": 48.3179447,
-    "longitude": 15.2001011
+    "longitude": 15.2001011,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.3176002,
-    "longitude": 15.2001125
+    "longitude": 15.2001125,
+    "postcode": "3650",
+    "city": "Pöggstall",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Neuhauser Cafe",
     "retailer": "neuhauser_cafe",
     "shop": "bakery",
     "latitude": 48.3181444,
-    "longitude": 15.2010437
+    "longitude": 15.2010437,
+    "postcode": "3650",
+    "city": "Pöggstall",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -26,7 +36,9 @@
     "shop": "clothes",
     "latitude": 48.3179672,
     "longitude": 15.200222,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Peugeot",
@@ -34,28 +46,40 @@
     "shop": "car",
     "latitude": 48.3145845,
     "longitude": 15.2007008,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Raiffeisen Lagerhaus Pögstall",
     "retailer": "raiffeisen_lagerhaus_pogstall",
     "shop": "car_repair",
     "latitude": 48.3143027,
-    "longitude": 15.200336
+    "longitude": 15.200336,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Raiffeisen Lagerhaus Pögstall",
     "retailer": "raiffeisen_lagerhaus_pogstall",
     "shop": "doityourself",
     "latitude": 48.3147251,
-    "longitude": 15.201011
+    "longitude": 15.201011,
+    "postcode": "3650",
+    "city": "Pöggstall",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sauerei",
     "retailer": "sauerei",
     "shop": "butcher",
     "latitude": 48.3182036,
-    "longitude": 15.2007431
+    "longitude": 15.2007431,
+    "postcode": "3650",
+    "city": "Pöggstall",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schlager",
@@ -63,14 +87,20 @@
     "shop": "car",
     "latitude": 48.3177724,
     "longitude": 15.2088778,
-    "brand": "VW"
+    "brand": "VW",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schlager Ernst",
     "retailer": "schlager_ernst",
     "shop": "car_repair",
     "latitude": 48.3178572,
-    "longitude": 15.2087911
+    "longitude": 15.2087911,
+    "postcode": "3650",
+    "city": "Pöggstall",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -78,20 +108,32 @@
     "shop": "supermarket",
     "latitude": 48.3169853,
     "longitude": 15.2070045,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3650",
+    "city": "Pöggstall",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "newsagent",
     "latitude": 48.3179482,
-    "longitude": 15.2015442
+    "longitude": 15.2015442,
+    "postcode": "3650",
+    "city": "Pöggstall",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weitzenböck Franz",
     "retailer": "weitzenbock_franz",
     "shop": "florist",
     "latitude": 48.3124612,
-    "longitude": 15.2076504
+    "longitude": 15.2076504,
+    "postcode": "3650",
+    "city": "Pöggstall",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

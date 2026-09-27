@@ -4,14 +4,21 @@
     "retailer": "backer_und_cafe_mostl",
     "shop": "bakery",
     "latitude": 47.7457244,
-    "longitude": 16.8288743
+    "longitude": 16.8288743,
+    "postcode": "7143",
+    "city": "Apetlon",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.7470054,
-    "longitude": 16.8260083
+    "longitude": 16.8260083,
+    "postcode": "7143",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lagerhaus",
@@ -19,13 +26,19 @@
     "shop": "doityourself",
     "latitude": 47.7453769,
     "longitude": 16.8292507,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "7143",
+    "city": "Apetlon",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Steindorfer",
     "retailer": "steindorfer",
     "shop": "alcohol",
     "latitude": 47.7473119,
-    "longitude": 16.8249065
+    "longitude": 16.8249065,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

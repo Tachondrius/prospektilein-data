@@ -4,14 +4,18 @@
     "retailer": "der_friseur",
     "shop": "hairdresser",
     "latitude": 48.5740684,
-    "longitude": 15.3307322
+    "longitude": 15.3307322,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eichinger Motoren",
     "retailer": "eichinger_motoren",
     "shop": "car_parts",
     "latitude": 48.5710413,
-    "longitude": 15.3393343
+    "longitude": 15.3393343,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "F & P GRUBER OG",
@@ -19,34 +23,54 @@
     "shop": "car",
     "latitude": 48.5721405,
     "longitude": 15.3368728,
-    "brand": "Suzuki"
+    "brand": "Suzuki",
+    "postcode": "3532",
+    "city": "Rastenfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei - Imbiss - Martin Böck GmbH",
     "retailer": "fleischerei_imbiss_martin_bock_gmbh",
     "shop": "butcher",
     "latitude": 48.5731342,
-    "longitude": 15.3322502
+    "longitude": 15.3322502,
+    "postcode": "3532",
+    "city": "Rastenfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofladen",
     "retailer": "hofladen",
     "shop": "farm",
     "latitude": 48.5717571,
-    "longitude": 15.3371935
+    "longitude": 15.3371935,
+    "postcode": "3532",
+    "city": "Rastenfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mella Italia",
     "retailer": "mella_italia",
     "shop": "boutique",
     "latitude": 48.5744248,
-    "longitude": 15.3311852
+    "longitude": 15.3311852,
+    "postcode": "3532",
+    "city": "Rastenfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
     "retailer": "nah_und_frisch",
     "shop": "supermarket",
     "latitude": 48.5745724,
-    "longitude": 15.3312958
+    "longitude": 15.3312958,
+    "postcode": "3532",
+    "city": "Rastenfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

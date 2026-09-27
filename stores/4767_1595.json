@@ -4,7 +4,11 @@
     "retailer": "abholmarkt",
     "shop": "butcher",
     "latitude": 47.673302,
-    "longitude": 15.9515558
+    "longitude": 15.9515558,
+    "postcode": "2640",
+    "city": "Gloggnitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 47.6720811,
     "longitude": 15.9515037,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2640",
+    "city": "Gloggnitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -20,14 +28,20 @@
     "shop": "supermarket",
     "latitude": 47.6717714,
     "longitude": 15.9570381,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2640",
+    "city": "Gloggnitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus - Einkaufshalle",
     "retailer": "lagerhaus_einkaufshalle",
     "shop": "trade",
     "latitude": 47.6770795,
-    "longitude": 15.9506391
+    "longitude": 15.9506391,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Gloggnitz",
@@ -35,34 +49,54 @@
     "shop": "car",
     "latitude": 47.677397,
     "longitude": 15.9507439,
-    "brand": "Dacia;Renault;IVECO"
+    "brand": "Dacia;Renault;IVECO",
+    "postcode": "2640",
+    "city": "Gloggnitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Gloggnitz - Autoteilhandel",
     "retailer": "lagerhaus_gloggnitz_autoteilhandel",
     "shop": "car_parts",
     "latitude": 47.6765016,
-    "longitude": 15.950856
+    "longitude": 15.950856,
+    "postcode": "2640",
+    "city": "Gloggnitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Gloggnitz - Autowerkstatt",
     "retailer": "lagerhaus_gloggnitz_autowerkstatt",
     "shop": "car_repair",
     "latitude": 47.6767785,
-    "longitude": 15.950768
+    "longitude": 15.950768,
+    "postcode": "2640",
+    "city": "Gloggnitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lindt & Sprüngli Werksverkauf",
     "retailer": "lindt_und_sprungli_werksverkauf",
     "shop": "confectionery",
     "latitude": 47.6762233,
-    "longitude": 15.9520941
+    "longitude": 15.9520941,
+    "postcode": "2640",
+    "city": "Gloggnitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Radwerkstatt Kastner",
     "retailer": "radwerkstatt_kastner",
     "shop": "bicycle",
     "latitude": 47.6796318,
-    "longitude": 15.9515795
+    "longitude": 15.9515795,
+    "postcode": "2640",
+    "city": "Gloggnitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

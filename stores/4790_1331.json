@@ -4,13 +4,19 @@
     "retailer": "badebuffet",
     "shop": "kiosk",
     "latitude": 47.9048019,
-    "longitude": 13.314404
+    "longitude": 13.314404,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 47.9039052,
-    "longitude": 13.3199692
+    "longitude": 13.3199692,
+    "postcode": "4893",
+    "city": "Zell am Moos",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

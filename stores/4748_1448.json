@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.489373,
     "longitude": 14.4854651,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -13,56 +17,86 @@
     "shop": "chemist",
     "latitude": 47.4884861,
     "longitude": 14.4853533,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blattwerk",
     "retailer": "blattwerk",
     "shop": "florist",
     "latitude": 47.4876565,
-    "longitude": 14.4883396
+    "longitude": 14.4883396,
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Carla",
     "retailer": "carla",
     "shop": "clothes",
     "latitude": 47.4881635,
-    "longitude": 14.4877665
+    "longitude": 14.4877665,
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "DoIt Heimwertner",
     "retailer": "doit_heimwertner",
     "shop": "doityourself",
     "latitude": 47.4841191,
-    "longitude": 14.4864882
+    "longitude": 14.4864882,
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Doityourself",
     "retailer": "shop_doityourself",
     "shop": "doityourself",
     "latitude": 47.4845646,
-    "longitude": 14.4865194
+    "longitude": 14.4865194,
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Floralena",
     "retailer": "floralena",
     "shop": "florist",
     "latitude": 47.4883114,
-    "longitude": 14.4867093
+    "longitude": 14.4867093,
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ Zehentmayr",
     "retailer": "kfz_zehentmayr",
     "shop": "car_repair",
     "latitude": 47.489094,
-    "longitude": 14.4803925
+    "longitude": 14.4803925,
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.4886377,
-    "longitude": 14.4849788
+    "longitude": 14.4849788,
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -70,7 +104,11 @@
     "shop": "clothes",
     "latitude": 47.488734,
     "longitude": 14.486249,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -78,27 +116,43 @@
     "shop": "supermarket",
     "latitude": 47.4876507,
     "longitude": 14.4852556,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stadtbäckerei Hupf",
     "retailer": "stadtbackerei_hupf",
     "shop": "bakery",
     "latitude": 47.4859309,
-    "longitude": 14.4869617
+    "longitude": 14.4869617,
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabaktrafik Gabriele Kaufmann",
     "retailer": "tabaktrafik_gabriele_kaufmann",
     "shop": "tobacco",
     "latitude": 47.4874167,
-    "longitude": 14.4863047
+    "longitude": 14.4863047,
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Carmen Habe",
     "retailer": "trafik_carmen_habe",
     "shop": "tobacco",
     "latitude": 47.4882518,
-    "longitude": 14.4880495
+    "longitude": 14.4880495,
+    "postcode": "8784",
+    "city": "Trieben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "chemist",
     "latitude": 46.8708049,
     "longitude": 14.4679774,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "9330",
+    "city": "Althofen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eurospar",
@@ -13,14 +17,22 @@
     "shop": "supermarket",
     "latitude": 46.8721948,
     "longitude": 14.4659942,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "9330",
+    "city": "Althofen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Handy-Shop Hofstätter",
     "retailer": "handy_shop_hofstatter",
     "shop": "mobile_phone",
     "latitude": 46.8718708,
-    "longitude": 14.467554
+    "longitude": 14.467554,
+    "postcode": "9330",
+    "city": "Althofen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -28,7 +40,11 @@
     "shop": "supermarket",
     "latitude": 46.8740203,
     "longitude": 14.4688733,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9330",
+    "city": "Althofen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Palmers",
@@ -36,20 +52,30 @@
     "shop": "clothes",
     "latitude": 46.8707838,
     "longitude": 14.4676408,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "postcode": "9330",
+    "city": "Althofen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Studio Petra",
     "retailer": "studio_petra",
     "shop": "beauty",
     "latitude": 46.8707633,
-    "longitude": 14.4658393
+    "longitude": 14.4658393,
+    "postcode": "9330",
+    "city": "Althofen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Terkl",
     "retailer": "terkl",
     "shop": "hifi",
     "latitude": 46.8704844,
-    "longitude": 14.4696343
+    "longitude": 14.4696343,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

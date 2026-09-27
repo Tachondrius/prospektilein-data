@@ -4,14 +4,20 @@
     "retailer": "a_granzer",
     "shop": "hairdresser",
     "latitude": 48.207704,
-    "longitude": 16.2440178
+    "longitude": 16.2440178,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen Radl",
     "retailer": "blumen_radl",
     "shop": "florist",
     "latitude": 48.2035735,
-    "longitude": 16.2448214
+    "longitude": 16.2448214,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 48.2028651,
     "longitude": 16.2433632,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

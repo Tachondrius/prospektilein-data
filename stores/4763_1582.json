@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.6329364,
     "longitude": 15.8295903,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sport Puschi",
     "retailer": "sport_puschi",
     "shop": "sports",
     "latitude": 47.6328363,
-    "longitude": 15.8284883
+    "longitude": 15.8284883,
+    "postcode": "2680",
+    "city": "Semmering",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

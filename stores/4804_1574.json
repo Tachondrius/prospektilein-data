@@ -4,21 +4,31 @@
     "retailer": "backerei_schindl",
     "shop": "bakery",
     "latitude": 48.0472864,
-    "longitude": 15.7407003
+    "longitude": 15.7407003,
+    "postcode": "3163",
+    "city": "Rohrbach an der Gölsen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Fischer",
     "retailer": "friseur_fischer",
     "shop": "hairdresser",
     "latitude": 48.0472791,
-    "longitude": 15.7410707
+    "longitude": 15.7410707,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Gaupmann",
     "retailer": "gartnerei_gaupmann",
     "shop": "garden_centre",
     "latitude": 48.0445248,
-    "longitude": 15.7416795
+    "longitude": 15.7416795,
+    "postcode": "3170",
+    "city": "Rohrbach an der Gölsen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah&Frisch Hartmann",
@@ -26,20 +36,30 @@
     "shop": "supermarket",
     "latitude": 48.0470802,
     "longitude": 15.7409297,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3163",
+    "city": "Rohrbach an der Gölsen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Skoda",
     "retailer": "skoda",
     "shop": "car_repair",
     "latitude": 48.0414424,
-    "longitude": 15.7465225
+    "longitude": 15.7465225,
+    "postcode": "3170",
+    "city": "Hainfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Pruckner",
     "retailer": "trafik_pruckner",
     "shop": "kiosk",
     "latitude": 48.0473534,
-    "longitude": 15.7419145
+    "longitude": 15.7419145,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

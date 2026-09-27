@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 48.2405004,
     "longitude": 14.5305192,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lila Fundgrube",
     "retailer": "lila_fundgrube",
     "shop": "variety_store",
     "latitude": 48.2457023,
-    "longitude": 14.5359356
+    "longitude": 14.5359356,
+    "postcode": "4310",
+    "city": "Mauthausen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny",
@@ -20,6 +26,8 @@
     "shop": "supermarket",
     "latitude": 48.2404967,
     "longitude": 14.5352167,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

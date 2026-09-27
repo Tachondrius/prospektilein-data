@@ -4,20 +4,30 @@
     "retailer": "backshop",
     "shop": "bakery",
     "latitude": 48.2330847,
-    "longitude": 13.7737234
+    "longitude": 13.7737234,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Derendinger",
     "retailer": "derendinger",
     "shop": "car_parts",
     "latitude": 48.2336474,
-    "longitude": 13.7774099
+    "longitude": 13.7774099,
+    "postcode": "4710",
+    "city": "St. Georgen bei Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nebel",
     "retailer": "nebel",
     "shop": "garden_centre",
     "latitude": 48.2337768,
-    "longitude": 13.7769025
+    "longitude": 13.7769025,
+    "postcode": "4710",
+    "city": "St. Georgen bei Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

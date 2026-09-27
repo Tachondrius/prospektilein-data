@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.5989317,
     "longitude": 16.8228197,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "2181",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Frisör Brigitte",
     "retailer": "frisor_brigitte",
     "shop": "hairdresser",
     "latitude": 48.5968004,
-    "longitude": 16.8243576
+    "longitude": 16.8243576,
+    "postcode": "2181",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

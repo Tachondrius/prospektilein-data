@@ -4,28 +4,40 @@
     "retailer": "boutique_grandoris",
     "shop": "clothes",
     "latitude": 48.3399569,
-    "longitude": 16.7273544
+    "longitude": 16.7273544,
+    "postcode": "2230",
+    "city": "Gänserndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.3382173,
-    "longitude": 16.7252921
+    "longitude": 16.7252921,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Geier",
     "retailer": "geier",
     "shop": "bakery",
     "latitude": 48.3397175,
-    "longitude": 16.7273827
+    "longitude": 16.7273827,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Optik Jurka",
     "retailer": "optik_jurka",
     "shop": "optician",
     "latitude": 48.3399959,
-    "longitude": 16.7271392
+    "longitude": 16.7271392,
+    "postcode": "2230",
+    "city": "Gänserndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny Markt",
@@ -33,13 +45,19 @@
     "shop": "supermarket",
     "latitude": 48.3398384,
     "longitude": 16.727898,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weltladen Gänserndorf",
     "retailer": "weltladen_ganserndorf",
     "shop": "fairtrade",
     "latitude": 48.3399273,
-    "longitude": 16.7274368
+    "longitude": 16.7274368,
+    "postcode": "2230",
+    "city": "Gänserndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

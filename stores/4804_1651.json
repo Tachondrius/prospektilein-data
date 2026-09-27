@@ -4,7 +4,9 @@
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.045639,
-    "longitude": 16.5191569
+    "longitude": 16.5191569,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 48.0434597,
     "longitude": 16.5121986,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2435",
+    "city": "Ebergassing",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

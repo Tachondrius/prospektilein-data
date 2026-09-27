@@ -4,7 +4,9 @@
     "retailer": "autoagent",
     "shop": "car_repair",
     "latitude": 47.1557792,
-    "longitude": 13.1092282
+    "longitude": 13.1092282,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Autohaus Schober",
@@ -12,7 +14,11 @@
     "shop": "car",
     "latitude": 47.1570421,
     "longitude": 13.1072174,
-    "brand": "Alfa Romeo;Fiat;Iveco;Lancia;Toyota"
+    "brand": "Alfa Romeo;Fiat;Iveco;Lancia;Toyota",
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -20,14 +26,20 @@
     "shop": "supermarket",
     "latitude": 47.1579848,
     "longitude": 13.1061466,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Brennerei Durzbauer",
     "retailer": "brennerei_durzbauer",
     "shop": "alcohol",
     "latitude": 47.150226,
-    "longitude": 13.1071615
+    "longitude": 13.1071615,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -35,7 +47,11 @@
     "shop": "chemist",
     "latitude": 47.1571663,
     "longitude": 13.106764,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport",
@@ -43,14 +59,20 @@
     "shop": "sports",
     "latitude": 47.1565252,
     "longitude": 13.1082398,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "J u A Frischeis GmbH",
     "retailer": "j_u_a_frischeis_gmbh",
     "shop": "doityourself",
     "latitude": 47.159277,
-    "longitude": 13.1054781
+    "longitude": 13.1054781,
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MPREIS",
@@ -58,13 +80,17 @@
     "shop": "supermarket",
     "latitude": 47.1583566,
     "longitude": 13.1077664,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Räucherlachs Gastein",
     "retailer": "raucherlachs_gastein",
     "shop": "seafood",
     "latitude": 47.1526905,
-    "longitude": 13.1097676
+    "longitude": 13.1097676,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

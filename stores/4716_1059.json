@@ -4,28 +4,42 @@
     "retailer": "auto_haid",
     "shop": "car_repair",
     "latitude": 47.165731,
-    "longitude": 10.5906639
+    "longitude": 10.5906639,
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Das Futterhaus",
     "retailer": "das_futterhaus",
     "shop": "pet",
     "latitude": 47.1671821,
-    "longitude": 10.5907667
+    "longitude": 10.5907667,
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Grissemann",
     "retailer": "grissemann",
     "shop": "department_store",
     "latitude": 47.167005,
-    "longitude": 10.5909049
+    "longitude": 10.5909049,
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haarmagie",
     "retailer": "haarmagie",
     "shop": "hairdresser",
     "latitude": 47.1620629,
-    "longitude": 10.5931505
+    "longitude": 10.5931505,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hagebaumarkt",
@@ -33,21 +47,31 @@
     "shop": "doityourself",
     "latitude": 47.16737,
     "longitude": 10.5909902,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Valentini OG",
     "retailer": "kfz_valentini_og",
     "shop": "car_repair",
     "latitude": 47.1686667,
-    "longitude": 10.5927772
+    "longitude": 10.5927772,
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reifenservice Zams",
     "retailer": "reifenservice_zams",
     "shop": "tyres",
     "latitude": 47.1688834,
-    "longitude": 10.5931096
+    "longitude": 10.5931096,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -55,6 +79,10 @@
     "shop": "trade",
     "latitude": 47.1685229,
     "longitude": 10.5926677,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "6511",
+    "city": "Zams",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

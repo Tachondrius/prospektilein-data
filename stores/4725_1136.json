@@ -5,14 +5,22 @@
     "shop": "bakery",
     "latitude": 47.2571415,
     "longitude": 11.3683298,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bubblepoint",
     "retailer": "bubblepoint",
     "shop": "laundry",
     "latitude": 47.257765,
-    "longitude": 11.3691124
+    "longitude": 11.3691124,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dm",
@@ -20,21 +28,31 @@
     "shop": "chemist",
     "latitude": 47.2571852,
     "longitude": 11.3688333,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gustl",
     "retailer": "gustl",
     "shop": "farm",
     "latitude": 47.2524666,
-    "longitude": 11.3644002
+    "longitude": 11.3644002,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gärtnerei Jägerbauer",
     "retailer": "gartnerei_jagerbauer",
     "shop": "garden_centre",
     "latitude": 47.2543666,
-    "longitude": 11.3672712
+    "longitude": 11.3672712,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -42,13 +60,19 @@
     "shop": "supermarket",
     "latitude": 47.2570293,
     "longitude": 11.3683765,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rahmenstudio Propst",
     "retailer": "rahmenstudio_propst",
     "shop": "frame",
     "latitude": 47.2598586,
-    "longitude": 11.3633381
+    "longitude": 11.3633381,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

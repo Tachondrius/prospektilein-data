@@ -4,14 +4,20 @@
     "retailer": "bodylounge_am_see",
     "shop": "massage",
     "latitude": 47.9855463,
-    "longitude": 16.3164792
+    "longitude": 16.3164792,
+    "postcode": "2522",
+    "city": "Oberwaltersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Inge",
     "retailer": "inge",
     "shop": "hairdresser",
     "latitude": 47.9801653,
-    "longitude": 16.3193053
+    "longitude": 16.3193053,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -19,13 +25,19 @@
     "shop": "supermarket",
     "latitude": 47.9805771,
     "longitude": 16.3191201,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2522",
+    "city": "Oberwaltersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.9801033,
-    "longitude": 16.3192771
+    "longitude": 16.3192771,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

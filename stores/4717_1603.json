@@ -4,13 +4,19 @@
     "retailer": "kfz_kapper",
     "shop": "car_repair",
     "latitude": 47.176307,
-    "longitude": 16.0303946
+    "longitude": 16.0303946,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Weingut Glatz",
     "retailer": "weingut_glatz",
     "shop": "wine",
     "latitude": 47.1709362,
-    "longitude": 16.0323977
+    "longitude": 16.0323977,
+    "postcode": "8271",
+    "city": "Bad Waltersdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

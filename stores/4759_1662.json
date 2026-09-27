@@ -5,20 +5,31 @@
     "shop": "yes",
     "latitude": 47.5976194,
     "longitude": 16.6277976,
-    "brand": "Socar"
+    "brand": "Socar",
+    "postcode": "7301",
+    "city": "Deutschkreutz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weingut K+K Kirnbauer",
     "retailer": "weingut_k_plus_k_kirnbauer",
     "shop": "wine",
     "latitude": 47.594629,
-    "longitude": 16.6224641
+    "longitude": 16.6224641,
+    "postcode": "7301",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weingut Pfneisl",
     "retailer": "weingut_pfneisl",
     "shop": "wine",
     "latitude": 47.5994463,
-    "longitude": 16.6215985
+    "longitude": 16.6215985,
+    "postcode": "7301",
+    "city": "Deutschkreutz",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

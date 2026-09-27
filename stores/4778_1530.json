@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 47.7823519,
     "longitude": 15.3099152,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8630",
+    "city": "Sankt Sebastian",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Landforst Lagerhaus",
     "retailer": "landforst_lagerhaus",
     "shop": "doityourself",
     "latitude": 47.7851013,
-    "longitude": 15.3006902
+    "longitude": 15.3006902,
+    "postcode": "8630",
+    "city": "Mariazell",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -20,6 +28,8 @@
     "shop": "clothes",
     "latitude": 47.7817486,
     "longitude": 15.3096819,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

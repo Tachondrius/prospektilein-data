@@ -4,14 +4,18 @@
     "retailer": "fleischerei_karl_rupert_anderl",
     "shop": "butcher",
     "latitude": 48.7242512,
-    "longitude": 15.4014153
+    "longitude": 15.4014153,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Martin Schuh, Kfz",
     "retailer": "martin_schuh_kfz",
     "shop": "car_repair",
     "latitude": 48.7293074,
-    "longitude": 15.4014868
+    "longitude": 15.4014868,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -19,20 +23,28 @@
     "shop": "supermarket",
     "latitude": 48.7245064,
     "longitude": 15.4005436,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Orfandl GmbH",
     "retailer": "orfandl_gmbh",
     "shop": "agrarian",
     "latitude": 48.7248272,
-    "longitude": 15.4067212
+    "longitude": 15.4067212,
+    "postcode": "3800",
+    "city": "Göpfritz an der Wild",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Otto Berger e.U.",
     "retailer": "otto_berger_e_u",
     "shop": "car_parts",
     "latitude": 48.7241861,
-    "longitude": 15.4095863
+    "longitude": 15.4095863,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

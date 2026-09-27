@@ -4,20 +4,30 @@
     "retailer": "fleischerei_gro",
     "shop": "butcher",
     "latitude": 47.1960803,
-    "longitude": 15.8380225
+    "longitude": 15.8380225,
+    "postcode": "8221",
+    "city": "Feistritztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Groß Genuss SB Shop",
     "retailer": "gro_genuss_sb_shop",
     "shop": "convenience",
     "latitude": 47.1960639,
-    "longitude": 15.8379978
+    "longitude": 15.8379978,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spielwaren Mauerhofer",
     "retailer": "spielwaren_mauerhofer",
     "shop": "toys",
     "latitude": 47.1981222,
-    "longitude": 15.8368676
+    "longitude": 15.8368676,
+    "postcode": "8221",
+    "city": "Feistritztal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

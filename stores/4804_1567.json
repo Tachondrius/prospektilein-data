@@ -4,7 +4,9 @@
     "retailer": "backerei_kappl",
     "shop": "bakery",
     "latitude": 48.0428512,
-    "longitude": 15.671747
+    "longitude": 15.671747,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Citroën",
@@ -12,20 +14,28 @@
     "shop": "car_repair",
     "latitude": 48.0428877,
     "longitude": 15.6758643,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gölsentaler Bauernladen",
     "retailer": "golsentaler_bauernladen",
     "shop": "supermarket",
     "latitude": 48.0427806,
-    "longitude": 15.672017
+    "longitude": 15.672017,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Möbel Pommer",
     "retailer": "mobel_pommer",
     "shop": "furniture",
     "latitude": 48.0438308,
-    "longitude": 15.6789158
+    "longitude": 15.6789158,
+    "postcode": "3161",
+    "city": "St. Veit an der Gölsen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

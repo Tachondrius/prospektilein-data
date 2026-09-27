@@ -5,21 +5,29 @@
     "shop": "supermarket",
     "latitude": 47.2348262,
     "longitude": 11.2960868,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6092",
+    "city": "Birgitz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Damenmode La Mia Moda",
     "retailer": "damenmode_la_mia_moda",
     "shop": "clothes",
     "latitude": 47.2347127,
-    "longitude": 11.2967227
+    "longitude": 11.2967227,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fair Rescue",
     "retailer": "fair_rescue",
     "shop": "medical_supply",
     "latitude": 47.2346297,
-    "longitude": 11.2976656
+    "longitude": 11.2976656,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Falbesoner",
@@ -27,13 +35,19 @@
     "shop": "car",
     "latitude": 47.234019,
     "longitude": 11.2919561,
-    "brand": "Toyota;Opel"
+    "brand": "Toyota;Opel",
+    "postcode": "6092",
+    "city": "Birgitz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T&G mit Hermes PaketShop",
     "retailer": "t_und_g_mit_hermes_paketshop",
     "shop": "supermarket",
     "latitude": 47.2352367,
-    "longitude": 11.2981322
+    "longitude": 11.2981322,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,14 +4,19 @@
     "retailer": "autohaus_leibetseder",
     "shop": "car_repair",
     "latitude": 48.4536926,
-    "longitude": 14.0862331
+    "longitude": 14.0862331,
+    "postcode": "4174",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "figarouno",
     "retailer": "figarouno",
     "shop": "hairdresser",
     "latitude": 48.4521989,
-    "longitude": 14.0845739
+    "longitude": 14.0845739,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -19,6 +24,8 @@
     "shop": "supermarket",
     "latitude": 48.4519966,
     "longitude": 14.0843472,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

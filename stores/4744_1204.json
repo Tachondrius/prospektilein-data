@@ -4,7 +4,11 @@
     "retailer": "sandbichler",
     "shop": "outdoor",
     "latitude": 47.4442582,
-    "longitude": 12.0489978
+    "longitude": 12.0489978,
+    "postcode": "6311",
+    "city": "Wildschönau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -12,13 +16,19 @@
     "shop": "supermarket",
     "latitude": 47.4427505,
     "longitude": 12.0480386,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6311",
+    "city": "Wildschönau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wildschönauer Backstube",
     "retailer": "wildschonauer_backstube",
     "shop": "bakery",
     "latitude": 47.4438993,
-    "longitude": 12.0486862
+    "longitude": 12.0486862,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

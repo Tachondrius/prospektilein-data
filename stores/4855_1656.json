@@ -4,7 +4,11 @@
     "retailer": "astro",
     "shop": "clothes",
     "latitude": 48.5588945,
-    "longitude": 16.5605125
+    "longitude": 16.5605125,
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Kornek",
@@ -12,7 +16,11 @@
     "shop": "car",
     "latitude": 48.5584764,
     "longitude": 16.5626657,
-    "brand": "Hyundai;Citroën;Jeep;Lancia"
+    "brand": "Hyundai;Citroën;Jeep;Lancia",
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Wiesinger",
@@ -20,7 +28,11 @@
     "shop": "car",
     "latitude": 48.5583594,
     "longitude": 16.5618148,
-    "brand": "Audi;Seat;Škoda;Volkswagen"
+    "brand": "Audi;Seat;Škoda;Volkswagen",
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Das Futterhaus",
@@ -28,7 +40,11 @@
     "shop": "pet",
     "latitude": 48.5594671,
     "longitude": 16.5612384,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Matratzen Concord",
@@ -36,13 +52,19 @@
     "shop": "bed",
     "latitude": 48.5593594,
     "longitude": 16.5605585,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Porsche Austria IBS Niederösterreich Nord",
     "retailer": "porsche_austria_ibs_niederosterreich_nord",
     "shop": "car_repair",
     "latitude": 48.5584572,
-    "longitude": 16.561745
+    "longitude": 16.561745,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

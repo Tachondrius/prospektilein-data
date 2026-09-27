@@ -4,14 +4,20 @@
     "retailer": "auto_hauptmann_gmbh",
     "shop": "car",
     "latitude": 47.1143988,
-    "longitude": 16.0583009
+    "longitude": 16.0583009,
+    "postcode": "8283",
+    "city": "Bad Blumau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Ruck",
     "retailer": "friseur_ruck",
     "shop": "hairdresser",
     "latitude": 47.115377,
-    "longitude": 16.0525678
+    "longitude": 16.0525678,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 47.1144888,
     "longitude": 16.0588903,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "8283",
+    "city": "Bad Blumau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

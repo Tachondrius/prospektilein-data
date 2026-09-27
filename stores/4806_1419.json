@@ -4,20 +4,28 @@
     "retailer": "autohaus_schneider",
     "shop": "car",
     "latitude": 48.0677873,
-    "longitude": 14.1921357
+    "longitude": 14.1921357,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Brot-Ecke Greifmühle",
     "retailer": "brot_ecke_greifmuhle",
     "shop": "bakery",
     "latitude": 48.066426,
-    "longitude": 14.1920779
+    "longitude": 14.1920779,
+    "postcode": "4532",
+    "city": "Rohr im Kremstal",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Opel, Kia",
     "retailer": "opel_kia",
     "shop": "car",
     "latitude": 48.065394,
-    "longitude": 14.1924308
+    "longitude": 14.1924308,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

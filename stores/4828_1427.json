@@ -4,28 +4,44 @@
     "retailer": "brunett",
     "shop": "hairdresser",
     "latitude": 48.2815932,
-    "longitude": 14.2798902
+    "longitude": 14.2798902,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Doleschal",
     "retailer": "doleschal",
     "shop": "hardware",
     "latitude": 48.2805403,
-    "longitude": 14.2798665
+    "longitude": 14.2798665,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "emoc Fahrrad & E-Bike",
     "retailer": "emoc_fahrrad_und_e_bike",
     "shop": "bicycle",
     "latitude": 48.2803873,
-    "longitude": 14.2796567
+    "longitude": 14.2796567,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiesl Massage",
     "retailer": "kiesl_massage",
     "shop": "security",
     "latitude": 48.2812976,
-    "longitude": 14.2791089
+    "longitude": 14.2791089,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -33,6 +49,8 @@
     "shop": "supermarket",
     "latitude": 48.2867779,
     "longitude": 14.2766794,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

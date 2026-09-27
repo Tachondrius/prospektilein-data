@@ -5,48 +5,74 @@
     "shop": "supermarket",
     "latitude": 47.7742717,
     "longitude": 17.0346332,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "7163",
+    "city": "Andau",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bäckerei - Cafe Locsmandy",
     "retailer": "backerei_cafe_locsmandy",
     "shop": "bakery",
     "latitude": 47.7759621,
-    "longitude": 17.0328455
+    "longitude": 17.0328455,
+    "postcode": "7163",
+    "city": "Andau",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Elektro Pitzl",
     "retailer": "elektro_pitzl",
     "shop": "electronics",
     "latitude": 47.7766334,
-    "longitude": 17.0380077
+    "longitude": 17.0380077,
+    "postcode": "7163",
+    "city": "Andau",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Frisiersalon Schrammel",
     "retailer": "frisiersalon_schrammel",
     "shop": "hairdresser",
     "latitude": 47.7744651,
-    "longitude": 17.0335418
+    "longitude": 17.0335418,
+    "postcode": "7163",
+    "city": "Andau",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Trafik Holzapfel",
     "retailer": "trafik_holzapfel",
     "shop": "kiosk",
     "latitude": 47.7757998,
-    "longitude": 17.0328455
+    "longitude": 17.0328455,
+    "postcode": "7163",
+    "city": "Andau",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weingut Scheiblhofer",
     "retailer": "weingut_scheiblhofer",
     "shop": "wine",
     "latitude": 47.7797458,
-    "longitude": 17.0325169
+    "longitude": 17.0325169,
+    "postcode": "7163",
+    "city": "Andau",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Winzer Johann Schwarz",
     "retailer": "winzer_johann_schwarz",
     "shop": "beverages",
     "latitude": 47.7749658,
-    "longitude": 17.0338583
+    "longitude": 17.0338583,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

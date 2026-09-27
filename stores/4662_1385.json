@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 46.6207426,
     "longitude": 13.85417,
-    "brand": "Alfa Romeo;Jeep;Abarth;Fiat;Hyundai"
+    "brand": "Alfa Romeo;Jeep;Abarth;Fiat;Hyundai",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -13,6 +17,10 @@
     "shop": "supermarket",
     "latitude": 46.6211759,
     "longitude": 13.8516435,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

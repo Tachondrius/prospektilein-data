@@ -5,28 +5,40 @@
     "shop": "car_repair",
     "latitude": 47.2722093,
     "longitude": 11.4696141,
-    "brand": "Volvo;Renault"
+    "brand": "Volvo;Renault",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bio Pilz Tirol",
     "retailer": "bio_pilz_tirol",
     "shop": "deli",
     "latitude": 47.2733126,
-    "longitude": 11.4697611
+    "longitude": 11.4697611,
+    "postcode": "6065",
+    "city": "Thaur",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gärtnerei Jäger",
     "retailer": "gartnerei_jager",
     "shop": "garden_centre",
     "latitude": 47.2765339,
-    "longitude": 11.4676503
+    "longitude": 11.4676503,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Köllensperger Stahl",
     "retailer": "kollensperger_stahl",
     "shop": "hardware",
     "latitude": 47.2755797,
-    "longitude": 11.4696743
+    "longitude": 11.4696743,
+    "postcode": "6065",
+    "city": "Thaur",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tesla Innsbruck",
@@ -34,6 +46,8 @@
     "shop": "car",
     "latitude": 47.276692,
     "longitude": 11.4698584,
-    "brand": "Tesla"
+    "brand": "Tesla",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.0789921,
     "longitude": 9.9201447,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6780",
+    "city": "Schruns",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sport Shop",
     "retailer": "sport_shop",
     "shop": "sports",
     "latitude": 47.0795619,
-    "longitude": 9.9207744
+    "longitude": 9.9207744,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

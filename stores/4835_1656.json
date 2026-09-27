@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 48.3578789,
     "longitude": 16.5699811,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "2212",
+    "city": "Großengersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Steiner",
     "retailer": "steiner",
     "shop": "car_repair",
     "latitude": 48.3561408,
-    "longitude": 16.5676419
+    "longitude": 16.5676419,
+    "postcode": "2212",
+    "city": "Großengersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

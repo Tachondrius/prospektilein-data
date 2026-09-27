@@ -4,34 +4,48 @@
     "retailer": "backstube_wunderkind",
     "shop": "bakery",
     "latitude": 47.507291,
-    "longitude": 9.7510099
+    "longitude": 9.7510099,
+    "postcode": "6900",
+    "city": "Bregenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hanftopia",
     "retailer": "hanftopia",
     "shop": "cannabis",
     "latitude": 47.506448,
-    "longitude": 9.7510576
+    "longitude": 9.7510576,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.5048202,
-    "longitude": 9.7520832
+    "longitude": 9.7520832,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Regali",
     "retailer": "regali",
     "shop": "cosmetics",
     "latitude": 47.5032086,
-    "longitude": 9.7502551
+    "longitude": 9.7502551,
+    "postcode": "6900",
+    "city": "Bregenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "SK 1 - Strandkiosk",
     "retailer": "sk_1_strandkiosk",
     "shop": "kiosk",
     "latitude": 47.5099995,
-    "longitude": 9.7522309
+    "longitude": 9.7522309,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

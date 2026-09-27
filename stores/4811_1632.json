@@ -5,21 +5,29 @@
     "shop": "variety_store",
     "latitude": 48.1148716,
     "longitude": 16.3201134,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Grill Heaven",
     "retailer": "grill_heaven",
     "shop": "tools",
     "latitude": 48.1171319,
-    "longitude": 16.3212837
+    "longitude": 16.3212837,
+    "postcode": "2334",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kare",
     "retailer": "kare",
     "shop": "furniture",
     "latitude": 48.1167234,
-    "longitude": 16.320211
+    "longitude": 16.320211,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mömax",
@@ -27,20 +35,28 @@
     "shop": "furniture",
     "latitude": 48.1185636,
     "longitude": 16.3201227,
-    "brand": "Mömax"
+    "brand": "Mömax",
+    "postcode": "2334",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pittarello",
     "retailer": "pittarello",
     "shop": "shoes",
     "latitude": 48.1151348,
-    "longitude": 16.3203494
+    "longitude": 16.3203494,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wein & Co SCS Megastore",
     "retailer": "wein_und_co_scs_megastore",
     "shop": "wine",
     "latitude": 48.1159703,
-    "longitude": 16.3200012
+    "longitude": 16.3200012,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

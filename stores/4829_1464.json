@@ -4,20 +4,28 @@
     "retailer": "autohaus_ambros",
     "shop": "car_repair",
     "latitude": 48.2997103,
-    "longitude": 14.641036
+    "longitude": 14.641036,
+    "postcode": "4320",
+    "city": "Allerheiligen im Mühlkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.2995619,
-    "longitude": 14.6401071
+    "longitude": 14.6401071,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fiat Ambros Allerheiligen",
     "retailer": "fiat_ambros_allerheiligen",
     "shop": "car",
     "latitude": 48.2995923,
-    "longitude": 14.6405477
+    "longitude": 14.6405477,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

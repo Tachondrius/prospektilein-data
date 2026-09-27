@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 47.9691657,
     "longitude": 13.2768175,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mercedes Lugstein",
@@ -13,20 +15,30 @@
     "shop": "car_repair",
     "latitude": 47.9690189,
     "longitude": 13.276179,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "5204",
+    "city": "Straßwalchen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Saat und Korn Handels GmbH",
     "retailer": "saat_und_korn_handels_gmbh",
     "shop": "agrarian",
     "latitude": 47.9674066,
-    "longitude": 13.2769942
+    "longitude": 13.2769942,
+    "postcode": "5204",
+    "city": "Straßwalchen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Thaler",
     "retailer": "thaler",
     "shop": "car_repair",
     "latitude": 47.9694698,
-    "longitude": 13.276204
+    "longitude": 13.276204,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

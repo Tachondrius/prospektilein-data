@@ -4,14 +4,20 @@
     "retailer": "autohandel_aigner",
     "shop": "car",
     "latitude": 47.1478628,
-    "longitude": 9.8192555
+    "longitude": 9.8192555,
+    "postcode": "6706",
+    "city": "Bürs",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bellona Möbelhaus",
     "retailer": "bellona_mobelhaus",
     "shop": "furniture",
     "latitude": 47.149755,
-    "longitude": 9.816739
+    "longitude": 9.816739,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "JYSK",
@@ -19,7 +25,9 @@
     "shop": "furniture",
     "latitude": 47.149588,
     "longitude": 9.814114,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Müller",
@@ -27,14 +35,20 @@
     "shop": "chemist",
     "latitude": 47.1494593,
     "longitude": 9.8138338,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schmidt's",
     "retailer": "schmidt_s",
     "shop": "doityourself",
     "latitude": 47.1491923,
-    "longitude": 9.8135749
+    "longitude": 9.8135749,
+    "postcode": "6706",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Toyota Ellensohn GmbH",
@@ -42,13 +56,19 @@
     "shop": "car",
     "latitude": 47.1485445,
     "longitude": 9.8185537,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Wachter",
     "retailer": "wachter",
     "shop": "furniture",
     "latitude": 47.1488766,
-    "longitude": 9.8149964
+    "longitude": 9.8149964,
+    "postcode": "6706",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

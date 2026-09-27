@@ -4,7 +4,11 @@
     "retailer": "backerei_braun",
     "shop": "bakery",
     "latitude": 48.4443904,
-    "longitude": 15.739751
+    "longitude": 15.739751,
+    "postcode": "3492",
+    "city": "Etsdorf am Kamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 48.4473306,
     "longitude": 15.7374013,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3492",
+    "city": "Etsdorf am Kamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

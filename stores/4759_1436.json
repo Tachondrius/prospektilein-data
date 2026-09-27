@@ -4,27 +4,38 @@
     "retailer": "backerei_gruber",
     "shop": "bakery",
     "latitude": 47.5906342,
-    "longitude": 14.3661602
+    "longitude": 14.3661602,
+    "postcode": "8904",
+    "city": "Ardning",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.5916503,
-    "longitude": 14.3640536
+    "longitude": 14.3640536,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haarschmiede",
     "retailer": "haarschmiede",
     "shop": "hairdresser",
     "latitude": 47.5913192,
-    "longitude": 14.3642106
+    "longitude": 14.3642106,
+    "postcode": "8904",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Regional Regal",
     "retailer": "regional_regal",
     "shop": "supermarket",
     "latitude": 47.5910913,
-    "longitude": 14.3637847
+    "longitude": 14.3637847,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

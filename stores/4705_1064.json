@@ -4,27 +4,39 @@
     "retailer": "getranke_hafele",
     "shop": "beverages",
     "latitude": 47.0517909,
-    "longitude": 10.6440882
+    "longitude": 10.6440882,
+    "postcode": "6531",
+    "city": "Ried im Oberinntal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Landtechnik Rietzler",
     "retailer": "landtechnik_rietzler",
     "shop": "trade",
     "latitude": 47.0523542,
-    "longitude": 10.6443808
+    "longitude": 10.6443808,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Perfect Car",
     "retailer": "perfect_car",
     "shop": "car_repair",
     "latitude": 47.0504535,
-    "longitude": 10.6432562
+    "longitude": 10.6432562,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Station 276",
     "retailer": "station_276",
     "shop": "car_repair",
     "latitude": 47.052054,
-    "longitude": 10.6433896
+    "longitude": 10.6433896,
+    "postcode": "6531",
+    "city": "Ried im Oberinntal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,21 +4,29 @@
     "retailer": "blutenreich",
     "shop": "florist",
     "latitude": 47.1862642,
-    "longitude": 15.9899512
+    "longitude": 15.9899512,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haarosphair",
     "retailer": "haarosphair",
     "shop": "hairdresser",
     "latitude": 47.1861651,
-    "longitude": 15.9894896
+    "longitude": 15.9894896,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ Erhardt",
     "retailer": "kfz_erhardt",
     "shop": "car_repair",
     "latitude": 47.1856226,
-    "longitude": 15.9897185
+    "longitude": 15.9897185,
+    "postcode": "8272",
+    "city": "Bad Waltersdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -26,13 +34,19 @@
     "shop": "supermarket",
     "latitude": 47.1862845,
     "longitude": 15.9896011,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8272",
+    "city": "Bad Waltersdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 47.1861213,
-    "longitude": 15.9893511
+    "longitude": 15.9893511,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

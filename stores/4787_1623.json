@@ -5,20 +5,28 @@
     "shop": "supermarket",
     "latitude": 47.8775467,
     "longitude": 16.2349489,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "K-Autoteile",
     "retailer": "k_autoteile",
     "shop": "car_parts",
     "latitude": 47.8752676,
-    "longitude": 16.2323476
+    "longitude": 16.2323476,
+    "postcode": "2603",
+    "city": "Felixdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lorenz Cars",
     "retailer": "lorenz_cars",
     "shop": "car_repair",
     "latitude": 47.8765524,
-    "longitude": 16.2344383
+    "longitude": 16.2344383,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

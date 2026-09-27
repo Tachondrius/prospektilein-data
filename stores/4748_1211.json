@@ -4,20 +4,28 @@
     "retailer": "backerei_schipflinger",
     "shop": "bakery",
     "latitude": 47.4852371,
-    "longitude": 12.1194352
+    "longitude": 12.1194352,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Getränkegroßhandel Fuchs",
     "retailer": "getrankegrohandel_fuchs",
     "shop": "beverages",
     "latitude": 47.48551,
-    "longitude": 12.1128191
+    "longitude": 12.1128191,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Kecht",
     "retailer": "sport_kecht",
     "shop": "sports",
     "latitude": 47.4850255,
-    "longitude": 12.1127882
+    "longitude": 12.1127882,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

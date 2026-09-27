@@ -5,7 +5,10 @@
     "shop": "car",
     "latitude": 48.2383492,
     "longitude": 14.2827036,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "4030",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mercedes Pappas Gruppe GmbH",
@@ -13,13 +16,18 @@
     "shop": "car",
     "latitude": 48.2385039,
     "longitude": 14.2826113,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "4030",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pappas Linz",
     "retailer": "pappas_linz",
     "shop": "car",
     "latitude": 48.2385653,
-    "longitude": 14.2832296
+    "longitude": 14.2832296,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

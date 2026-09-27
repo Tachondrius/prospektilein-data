@@ -4,7 +4,11 @@
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.3981115,
-    "longitude": 15.1668619
+    "longitude": 15.1668619,
+    "postcode": "8712",
+    "city": "Niklasdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Penny",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.3961966,
     "longitude": 15.1614222,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8712",
+    "city": "Niklasdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

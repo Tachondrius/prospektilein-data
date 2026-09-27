@@ -4,20 +4,28 @@
     "retailer": "moebelix",
     "shop": "furniture",
     "latitude": 48.4830219,
-    "longitude": 14.4981512
+    "longitude": 14.4981512,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Möbelix Kefermarkt/Freistadt",
     "retailer": "moebelix",
     "shop": "furniture",
     "latitude": 48.4828404,
-    "longitude": 14.4980951
+    "longitude": 14.4980951,
+    "postcode": "4240",
+    "city": "Kefermarkt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stahlgruber",
     "retailer": "stahlgruber",
     "shop": "car_parts",
     "latitude": 48.482593,
-    "longitude": 14.4966865
+    "longitude": 14.4966865,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

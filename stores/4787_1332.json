@@ -5,14 +5,20 @@
     "shop": "car",
     "latitude": 47.8780753,
     "longitude": 13.3213754,
-    "brand": "Audi;Seat;Volkswagen"
+    "brand": "Audi;Seat;Volkswagen",
+    "postcode": "5310",
+    "city": "Tiefgraben",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Garden Centre",
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 47.8724593,
-    "longitude": 13.3233448
+    "longitude": 13.3233448,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -20,6 +26,10 @@
     "shop": "doityourself",
     "latitude": 47.8726997,
     "longitude": 13.3229725,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "5310",
+    "city": "Tiefgraben",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

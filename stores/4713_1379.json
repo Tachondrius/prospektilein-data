@@ -4,7 +4,11 @@
     "retailer": "amw_pausch",
     "shop": "car_parts",
     "latitude": 47.1315015,
-    "longitude": 13.7927098
+    "longitude": 13.7927098,
+    "postcode": "5580",
+    "city": "Tamsweg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Ford Mazda Schmidt",
@@ -12,20 +16,32 @@
     "shop": "car_repair",
     "latitude": 47.1325282,
     "longitude": 13.79578,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "5580",
+    "city": "Mörtelsdorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kendlbacher",
     "retailer": "kendlbacher",
     "shop": "car_repair",
     "latitude": 47.1326163,
-    "longitude": 13.7926226
+    "longitude": 13.7926226,
+    "postcode": "5580",
+    "city": "Mörtelsdorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "WEGA Flora",
     "retailer": "wega_flora",
     "shop": "garden_centre",
     "latitude": 47.1342408,
-    "longitude": 13.7934413
+    "longitude": 13.7934413,
+    "postcode": "5580",
+    "city": "Mörtelsdorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

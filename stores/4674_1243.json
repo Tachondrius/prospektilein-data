@@ -4,35 +4,47 @@
     "retailer": "aichner",
     "shop": "paint",
     "latitude": 46.749314,
-    "longitude": 12.4355527
+    "longitude": 12.4355527,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 46.7488512,
-    "longitude": 12.4354274
+    "longitude": 12.4354274,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Einrichtungshaus Aichner",
     "retailer": "einrichtungshaus_aichner",
     "shop": "furniture",
     "latitude": 46.7494619,
-    "longitude": 12.4355643
+    "longitude": 12.4355643,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Jeans Dieter",
     "retailer": "jeans_dieter",
     "shop": "clothes",
     "latitude": 46.7486252,
-    "longitude": 12.4353925
+    "longitude": 12.4353925,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuhe Oberthaler",
     "retailer": "schuhe_oberthaler",
     "shop": "shoes",
     "latitude": 46.7498395,
-    "longitude": 12.435069
+    "longitude": 12.435069,
+    "postcode": "9920",
+    "city": "Sillian",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -40,20 +52,26 @@
     "shop": "supermarket",
     "latitude": 46.7490755,
     "longitude": 12.435523,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Sunny 2000",
     "retailer": "sport_sunny_2000",
     "shop": "sports",
     "latitude": 46.7487669,
-    "longitude": 12.4354246
+    "longitude": 12.4354246,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trend Setter",
     "retailer": "trend_setter",
     "shop": "hairdresser",
     "latitude": 46.7485223,
-    "longitude": 12.4353651
+    "longitude": 12.4353651,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

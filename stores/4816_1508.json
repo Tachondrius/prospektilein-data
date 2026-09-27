@@ -5,28 +5,42 @@
     "shop": "car_repair",
     "latitude": 48.1681033,
     "longitude": 15.0859304,
-    "brand": "Alfa Romeo"
+    "brand": "Alfa Romeo",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Farben Morscher",
     "retailer": "farben_morscher",
     "shop": "paint",
     "latitude": 48.1688771,
-    "longitude": 15.0861993
+    "longitude": 15.0861993,
+    "postcode": "3370",
+    "city": "Ybbs an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gamsjäger",
     "retailer": "gamsjager",
     "shop": "electronics",
     "latitude": 48.1684924,
-    "longitude": 15.0819641
+    "longitude": 15.0819641,
+    "postcode": "3370",
+    "city": "Ybbs an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Heidelberger Holzlacksysteme GmbH",
     "retailer": "heidelberger_holzlacksysteme_gmbh",
     "shop": "paint",
     "latitude": 48.1697153,
-    "longitude": 15.0832818
+    "longitude": 15.0832818,
+    "postcode": "3370",
+    "city": "Ybbs an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -34,14 +48,18 @@
     "shop": "supermarket",
     "latitude": 48.1679299,
     "longitude": 15.0865241,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Saftladen",
     "retailer": "saftladen",
     "shop": "beverages",
     "latitude": 48.167128,
-    "longitude": 15.0874852
+    "longitude": 15.0874852,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "VW Senker",
@@ -49,6 +67,10 @@
     "shop": "car",
     "latitude": 48.1697643,
     "longitude": 15.0852555,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "3370",
+    "city": "Ybbs an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

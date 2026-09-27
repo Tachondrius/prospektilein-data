@@ -4,21 +4,31 @@
     "retailer": "akkubox",
     "shop": "electrical",
     "latitude": 47.0586317,
-    "longitude": 15.3954087
+    "longitude": 15.3954087,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "BioShop",
     "retailer": "bioshop",
     "shop": "convenience",
     "latitude": 47.0578011,
-    "longitude": 15.3957291
+    "longitude": 15.3957291,
+    "postcode": "8052",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Cornelia Rom",
     "retailer": "cornelia_rom",
     "shop": "hairdresser",
     "latitude": 47.0596421,
-    "longitude": 15.3915495
+    "longitude": 15.3915495,
+    "postcode": "8052",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -26,7 +36,11 @@
     "shop": "chemist",
     "latitude": 47.0508806,
     "longitude": 15.3945276,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8052",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Forstinger",
@@ -34,21 +48,33 @@
     "shop": "car_repair",
     "latitude": 47.0578757,
     "longitude": 15.3946995,
-    "brand": "Forstinger"
+    "brand": "Forstinger",
+    "postcode": "8052",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Go West",
     "retailer": "go_west",
     "shop": "hairdresser",
     "latitude": 47.0503499,
-    "longitude": 15.3950223
+    "longitude": 15.3950223,
+    "postcode": "8052",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kern",
     "retailer": "kern",
     "shop": "bakery",
     "latitude": 47.0505175,
-    "longitude": 15.3950582
+    "longitude": 15.3950582,
+    "postcode": "8052",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -56,14 +82,20 @@
     "shop": "supermarket",
     "latitude": 47.059269,
     "longitude": 15.3952238,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8052",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.0500406,
-    "longitude": 15.3950527
+    "longitude": 15.3950527,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -71,14 +103,20 @@
     "shop": "supermarket",
     "latitude": 47.0564081,
     "longitude": 15.3963403,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "8052",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Räder Nais",
     "retailer": "rader_nais",
     "shop": "tyres",
     "latitude": 47.0592255,
-    "longitude": 15.3962426
+    "longitude": 15.3962426,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -86,6 +124,10 @@
     "shop": "supermarket",
     "latitude": 47.0596929,
     "longitude": 15.3966154,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8052",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

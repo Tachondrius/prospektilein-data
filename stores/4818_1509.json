@@ -4,7 +4,11 @@
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 48.1897812,
-    "longitude": 15.0921937
+    "longitude": 15.0921937,
+    "postcode": "3680",
+    "city": "Persenbeug",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BP",
@@ -12,20 +16,30 @@
     "shop": "convenience",
     "latitude": 48.1898614,
     "longitude": 15.0962417,
-    "brand": "BP"
+    "brand": "BP",
+    "postcode": "3680",
+    "city": "Persenbeug",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Die Frauenwirtschaft",
     "retailer": "die_frauenwirtschaft",
     "shop": "convenience",
     "latitude": 48.1881726,
-    "longitude": 15.0910225
+    "longitude": 15.0910225,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Raumausstatter Brandstetter",
     "retailer": "raumausstatter_brandstetter",
     "shop": "curtain",
     "latitude": 48.1889265,
-    "longitude": 15.0927077
+    "longitude": 15.0927077,
+    "postcode": "3680",
+    "city": "Persenbeug",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 48.1178393,
     "longitude": 16.3967197,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2333",
+    "city": "Leopoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "steli",
     "retailer": "steli",
     "shop": "car_parts",
     "latitude": 48.1116868,
-    "longitude": 16.3979193
+    "longitude": 16.3979193,
+    "postcode": "2333",
+    "city": "Leopoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Turmöl",
@@ -20,6 +28,10 @@
     "shop": "yes",
     "latitude": 48.1150345,
     "longitude": 16.3973714,
-    "brand": "Turmöl"
+    "brand": "Turmöl",
+    "postcode": "2333",
+    "city": "Leopoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

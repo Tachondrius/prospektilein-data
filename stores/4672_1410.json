@@ -4,7 +4,9 @@
     "retailer": "2_rad_mehsner",
     "shop": "bicycle",
     "latitude": 46.7223043,
-    "longitude": 14.1011059
+    "longitude": 14.1011059,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -12,14 +14,20 @@
     "shop": "supermarket",
     "latitude": 46.7223386,
     "longitude": 14.1007482,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 46.7200126,
-    "longitude": 14.1060953
+    "longitude": 14.1060953,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ford Stranig",
@@ -27,21 +35,29 @@
     "shop": "car_repair",
     "latitude": 46.7201523,
     "longitude": 14.1022963,
-    "brand": "Ford"
+    "brand": "Ford",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Getränkemarkt Kandut",
     "retailer": "getrankemarkt_kandut",
     "shop": "beverages",
     "latitude": 46.7201287,
-    "longitude": 14.1056606
+    "longitude": 14.1056606,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Getränkemarkt Kanduth",
     "retailer": "getrankemarkt_kanduth",
     "shop": "beverages",
     "latitude": 46.7201016,
-    "longitude": 14.1056811
+    "longitude": 14.1056811,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -49,14 +65,20 @@
     "shop": "supermarket",
     "latitude": 46.7254867,
     "longitude": 14.1045461,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Holzmeister Schurian",
     "retailer": "holzmeister_schurian",
     "shop": "yes",
     "latitude": 46.7228554,
-    "longitude": 14.1019557
+    "longitude": 14.1019557,
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagerhaus",
@@ -64,13 +86,19 @@
     "shop": "doityourself",
     "latitude": 46.7229548,
     "longitude": 14.1022831,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "9560",
+    "city": "Feldkirchen in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Landwirtschaftliche Genossenschaft",
     "retailer": "landwirtschaftliche_genossenschaft",
     "shop": "trade",
     "latitude": 46.7214089,
-    "longitude": 14.102227
+    "longitude": 14.102227,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

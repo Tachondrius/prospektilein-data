@@ -4,13 +4,19 @@
     "retailer": "adam_und_eva",
     "shop": "greengrocer",
     "latitude": 47.310862,
-    "longitude": 9.6323852
+    "longitude": 9.6323852,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "wein:gut",
     "retailer": "wein_gut",
     "shop": "wine",
     "latitude": 47.3106258,
-    "longitude": 9.6383526
+    "longitude": 9.6383526,
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

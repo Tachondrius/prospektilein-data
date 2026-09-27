@@ -4,7 +4,9 @@
     "retailer": "beauty_by_kg",
     "shop": "beauty",
     "latitude": 47.7987139,
-    "longitude": 13.0196607
+    "longitude": 13.0196607,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Denzel",
@@ -12,28 +14,40 @@
     "shop": "car",
     "latitude": 47.799084,
     "longitude": 13.0111159,
-    "brand": "BMW;Alpha Romeo;Fiat;Hyundai;Mitsubishi"
+    "brand": "BMW;Alpha Romeo;Fiat;Hyundai;Mitsubishi",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "easykauf24kauftIhrenPKW.at",
     "retailer": "easykauf24kauftihrenpkw_at",
     "shop": "car",
     "latitude": 47.7998738,
-    "longitude": 13.0121822
+    "longitude": 13.0121822,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "olina Küchen Sandra Perrotta Salzburg e.U.",
     "retailer": "olina_kuchen_sandra_perrotta_salzburg_e_u",
     "shop": "kitchen",
     "latitude": 47.7988843,
-    "longitude": 13.019075
+    "longitude": 13.019075,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schneiderei Yüksel",
     "retailer": "schneiderei_yuksel",
     "shop": "tailor",
     "latitude": 47.7993832,
-    "longitude": 13.0182986
+    "longitude": 13.0182986,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -41,7 +55,9 @@
     "shop": "supermarket",
     "latitude": 47.7911284,
     "longitude": 13.0191437,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -49,14 +65,18 @@
     "shop": "supermarket",
     "latitude": 47.792959,
     "longitude": 13.0151821,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Stiegl Getränke Shop",
     "retailer": "stiegl_getranke_shop",
     "shop": "beverages",
     "latitude": 47.7949372,
-    "longitude": 13.017731
+    "longitude": 13.017731,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Storebox",
@@ -64,6 +84,10 @@
     "shop": "storage_rental",
     "latitude": 47.7980886,
     "longitude": 13.0113899,
-    "brand": "Storebox"
+    "brand": "Storebox",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

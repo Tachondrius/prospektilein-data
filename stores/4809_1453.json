@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 48.0951352,
     "longitude": 14.5367175,
-    "brand": "Opel"
+    "brand": "Opel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Öllinger Gesellschaft m.b.H. & Co. KG",
@@ -13,6 +15,10 @@
     "shop": "car_repair",
     "latitude": 48.095013,
     "longitude": 14.5361886,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "3350",
+    "city": "Haag",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

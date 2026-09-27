@@ -4,14 +4,22 @@
     "retailer": "amphora_exclusiv_geschenkartikel",
     "shop": "gift",
     "latitude": 47.3323712,
-    "longitude": 16.2296415
+    "longitude": 16.2296415,
+    "postcode": "7431",
+    "city": "Bad Tatzmannsdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "BücherTraum - Christliche",
     "retailer": "buchertraum_christliche",
     "shop": "books",
     "latitude": 47.3315493,
-    "longitude": 16.2292806
+    "longitude": 16.2292806,
+    "postcode": "7431",
+    "city": "Bad Tatzmannsdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Eurospar",
@@ -19,27 +27,41 @@
     "shop": "supermarket",
     "latitude": 47.3352781,
     "longitude": 16.2204635,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7432",
+    "city": "Oberschützen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Milan Otto Varga",
     "retailer": "milan_otto_varga",
     "shop": "bakery",
     "latitude": 47.3314929,
-    "longitude": 16.2292233
+    "longitude": 16.2292233,
+    "postcode": "7431",
+    "city": "Bad Tatzmannsdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spiegel Pralinen Manufaktur",
     "retailer": "spiegel_pralinen_manufaktur",
     "shop": "confectionery",
     "latitude": 47.3352729,
-    "longitude": 16.2225794
+    "longitude": 16.2225794,
+    "postcode": "7431",
+    "city": "Bad Tatzmannsdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weinberger",
     "retailer": "weinberger",
     "shop": "clothes",
     "latitude": 47.3315791,
-    "longitude": 16.2295166
+    "longitude": 16.2295166,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

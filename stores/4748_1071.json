@@ -4,7 +4,11 @@
     "retailer": "aus_und_raus",
     "shop": "convenience",
     "latitude": 47.4899004,
-    "longitude": 10.7184294
+    "longitude": 10.7184294,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -12,28 +16,42 @@
     "shop": "chemist",
     "latitude": 47.4878511,
     "longitude": 10.7116127,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Lehne",
     "retailer": "blumen_lehne",
     "shop": "florist",
     "latitude": 47.4863729,
-    "longitude": 10.7199861
+    "longitude": 10.7199861,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Holzmayr",
     "retailer": "backerei_holzmayr",
     "shop": "bakery",
     "latitude": 47.4866507,
-    "longitude": 10.7198463
+    "longitude": 10.7198463,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Knittel",
     "retailer": "backerei_knittel",
     "shop": "bakery",
     "latitude": 47.4882756,
-    "longitude": 10.7193583
+    "longitude": 10.7193583,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Deichmann",
@@ -41,56 +59,72 @@
     "shop": "shoes",
     "latitude": 47.4881513,
     "longitude": 10.7118838,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dieters Reisewelt",
     "retailer": "dieters_reisewelt",
     "shop": "travel_agency",
     "latitude": 47.4885091,
-    "longitude": 10.7116509
+    "longitude": 10.7116509,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "El Vino Weinbar & Vinothek",
     "retailer": "el_vino_weinbar_und_vinothek",
     "shop": "wine",
     "latitude": 47.4882063,
-    "longitude": 10.7194363
+    "longitude": 10.7194363,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Feucht",
     "retailer": "feucht",
     "shop": "clothes",
     "latitude": 47.4871977,
-    "longitude": 10.7196464
+    "longitude": 10.7196464,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Flowers and more",
     "retailer": "flowers_und_more",
     "shop": "florist",
     "latitude": 47.4880278,
-    "longitude": 10.7196428
+    "longitude": 10.7196428,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseursalon Goldene Schere",
     "retailer": "friseursalon_goldene_schere",
     "shop": "hairdresser",
     "latitude": 47.4881895,
-    "longitude": 10.7147726
+    "longitude": 10.7147726,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Glücksmomente",
     "retailer": "glucksmomente",
     "shop": "clothes",
     "latitude": 47.48788,
-    "longitude": 10.7194939
+    "longitude": 10.7194939,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hairlights",
     "retailer": "hairlights",
     "shop": "hairdresser",
     "latitude": 47.4872888,
-    "longitude": 10.7171372
+    "longitude": 10.7171372,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hartlauer",
@@ -98,21 +132,27 @@
     "shop": "electronics",
     "latitude": 47.4896383,
     "longitude": 10.7179207,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haushaltswaren Regauer",
     "retailer": "haushaltswaren_regauer",
     "shop": "houseware",
     "latitude": 47.4886986,
-    "longitude": 10.7190084
+    "longitude": 10.7190084,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Herrenfriseur Mehmet Sari",
     "retailer": "herrenfriseur_mehmet_sari",
     "shop": "hairdresser",
     "latitude": 47.4882525,
-    "longitude": 10.7152493
+    "longitude": 10.7152493,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -120,7 +160,11 @@
     "shop": "supermarket",
     "latitude": 47.4881857,
     "longitude": 10.7110051,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -128,21 +172,29 @@
     "shop": "sports",
     "latitude": 47.4880194,
     "longitude": 10.713208,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Juwelier Seitz",
     "retailer": "juwelier_seitz",
     "shop": "jewelry",
     "latitude": 47.4872346,
-    "longitude": 10.7190414
+    "longitude": 10.7190414,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kastner",
     "retailer": "kastner",
     "shop": "butcher",
     "latitude": 47.4883117,
-    "longitude": 10.7157434
+    "longitude": 10.7157434,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KiK",
@@ -150,35 +202,45 @@
     "shop": "clothes",
     "latitude": 47.4880192,
     "longitude": 10.7116201,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Küchen- und Wohnstudio Zitt",
     "retailer": "kuchen_und_wohnstudio_zitt",
     "shop": "kitchen",
     "latitude": 47.4884745,
-    "longitude": 10.7155913
+    "longitude": 10.7155913,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lechleitner",
     "retailer": "lechleitner",
     "shop": "leather",
     "latitude": 47.4877853,
-    "longitude": 10.7192411
+    "longitude": 10.7192411,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Michlbauer Harmonikawelt",
     "retailer": "michlbauer_harmonikawelt",
     "shop": "musical_instrument",
     "latitude": 47.4883948,
-    "longitude": 10.7150643
+    "longitude": 10.7150643,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Orthopädie Leitnerschuh",
     "retailer": "orthopadie_leitnerschuh",
     "shop": "shoes",
     "latitude": 47.4898059,
-    "longitude": 10.7176199
+    "longitude": 10.7176199,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Quick Schuh",
@@ -186,14 +248,18 @@
     "shop": "shoes",
     "latitude": 47.4881662,
     "longitude": 10.7116729,
-    "brand": "Quick Schuh"
+    "brand": "Quick Schuh",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabaktraffik",
     "retailer": "tabaktraffik",
     "shop": "kiosk",
     "latitude": 47.4872195,
-    "longitude": 10.7192615
+    "longitude": 10.7192615,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Takko Fashion",
@@ -201,7 +267,9 @@
     "shop": "clothes",
     "latitude": 47.4883621,
     "longitude": 10.7118772,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TEDi",
@@ -209,21 +277,31 @@
     "shop": "variety_store",
     "latitude": 47.4882941,
     "longitude": 10.7116578,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tyrolia",
     "retailer": "tyrolia",
     "shop": "books",
     "latitude": 47.486747,
-    "longitude": 10.7193756
+    "longitude": 10.7193756,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Weltladen Reutte",
     "retailer": "weltladen_reutte",
     "shop": "convenience",
     "latitude": 47.4896408,
-    "longitude": 10.7173129
+    "longitude": 10.7173129,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth Shop",
@@ -231,20 +309,26 @@
     "shop": "hardware",
     "latitude": 47.4880934,
     "longitude": 10.7117629,
-    "brand": "Würth"
+    "brand": "Würth",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zangerl",
     "retailer": "zangerl",
     "shop": "leather",
     "latitude": 47.4878669,
-    "longitude": 10.719217
+    "longitude": 10.719217,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zengin",
     "retailer": "zengin",
     "shop": "supermarket",
     "latitude": 47.4863891,
-    "longitude": 10.7192971
+    "longitude": 10.7192971,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

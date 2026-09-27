@@ -5,7 +5,9 @@
     "shop": "chemist",
     "latitude": 47.647645,
     "longitude": 13.6153771,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "BMW Oberhauser",
@@ -13,28 +15,36 @@
     "shop": "car",
     "latitude": 47.6481784,
     "longitude": 13.6128563,
-    "brand": "BMW"
+    "brand": "BMW",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Maislinger",
     "retailer": "backerei_maislinger",
     "shop": "bakery",
     "latitude": 47.6412244,
-    "longitude": 13.6166538
+    "longitude": 13.6166538,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.6419925,
-    "longitude": 13.6160401
+    "longitude": 13.6160401,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "der Goiserer",
     "retailer": "der_goiserer",
     "shop": "shoes",
     "latitude": 47.6417216,
-    "longitude": 13.6158508
+    "longitude": 13.6158508,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -42,42 +52,58 @@
     "shop": "supermarket",
     "latitude": 47.6461337,
     "longitude": 13.6151398,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4822",
+    "city": "Bad Goisern am Hallstättersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hickl",
     "retailer": "hickl",
     "shop": "hunting",
     "latitude": 47.6475348,
-    "longitude": 13.6154448
+    "longitude": 13.6154448,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Jablonski",
     "retailer": "jablonski",
     "shop": "musical_instrument",
     "latitude": 47.6428442,
-    "longitude": 13.6161989
+    "longitude": 13.6161989,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Landmaschinen Grundbichler",
     "retailer": "landmaschinen_grundbichler",
     "shop": "agrarian",
     "latitude": 47.6465129,
-    "longitude": 13.6149895
+    "longitude": 13.6149895,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Leitner",
     "retailer": "leitner",
     "shop": "bakery",
     "latitude": 47.6435202,
-    "longitude": 13.6157757
+    "longitude": 13.6157757,
+    "postcode": "4822",
+    "city": "Bad Goisern am Hallstättersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Musikhaus Höllwert",
     "retailer": "musikhaus_hollwert",
     "shop": "music",
     "latitude": 47.6417514,
-    "longitude": 13.6160792
+    "longitude": 13.6160792,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "PENNY",
@@ -85,41 +111,59 @@
     "shop": "supermarket",
     "latitude": 47.6481213,
     "longitude": 13.6149285,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "4822",
+    "city": "Bad Goisern am Hallstättersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pickup",
     "retailer": "pickup",
     "shop": "car_parts",
     "latitude": 47.6466862,
-    "longitude": 13.6158272
+    "longitude": 13.6158272,
+    "postcode": "4822",
+    "city": "Bad Goisern am Hallstättersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sport Lichtenegger",
     "retailer": "sport_lichtenegger",
     "shop": "sports",
     "latitude": 47.647103,
-    "longitude": 13.6148273
+    "longitude": 13.6148273,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.6424403,
-    "longitude": 13.6160523
+    "longitude": 13.6160523,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zauner",
     "retailer": "zauner",
     "shop": "butcher",
     "latitude": 47.6430338,
-    "longitude": 13.6162185
+    "longitude": 13.6162185,
+    "postcode": "4822",
+    "city": "Bad Goisern am Hallstättersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zopf",
     "retailer": "zopf",
     "shop": "sports",
     "latitude": 47.6400057,
-    "longitude": 13.6174275
+    "longitude": 13.6174275,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

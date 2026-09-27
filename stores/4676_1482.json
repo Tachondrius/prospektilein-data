@@ -4,7 +4,10 @@
     "retailer": "autohaus_maier",
     "shop": "car",
     "latitude": 46.7641876,
-    "longitude": 14.8211442
+    "longitude": 14.8211442,
+    "postcode": "9433",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -12,28 +15,38 @@
     "shop": "supermarket",
     "latitude": 46.7605284,
     "longitude": 14.8223714,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen Christian",
     "retailer": "blumen_christian",
     "shop": "florist",
     "latitude": 46.7681232,
-    "longitude": 14.8223096
+    "longitude": 14.8223096,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Café-Konditorei Andreasplatz",
     "retailer": "cafe_konditorei_andreasplatz",
     "shop": "pastry",
     "latitude": 46.7652843,
-    "longitude": 14.8220748
+    "longitude": 14.8220748,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 46.7618192,
-    "longitude": 14.8210907
+    "longitude": 14.8210907,
+    "postcode": "9433",
+    "city": "St. Andrä",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "dm",
@@ -41,28 +54,40 @@
     "shop": "chemist",
     "latitude": 46.7614452,
     "longitude": 14.8221453,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "9433",
+    "city": "St. Andrä",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fleischerei Adolf Kriegl",
     "retailer": "fleischerei_adolf_kriegl",
     "shop": "butcher",
     "latitude": 46.7659801,
-    "longitude": 14.8247546
+    "longitude": 14.8247546,
+    "postcode": "9433",
+    "city": "Sankt Andrä",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Friseur Eichkitz Wagner",
     "retailer": "friseur_eichkitz_wagner",
     "shop": "hairdresser",
     "latitude": 46.7658843,
-    "longitude": 14.8226362
+    "longitude": 14.8226362,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Graf's Markt",
     "retailer": "graf_s_markt",
     "shop": "convenience",
     "latitude": 46.7685895,
-    "longitude": 14.8216526
+    "longitude": 14.8216526,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -70,14 +95,20 @@
     "shop": "supermarket",
     "latitude": 46.7608115,
     "longitude": 14.8228429,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9433",
+    "city": "St. Andrä",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "J. Kehraus",
     "retailer": "j_kehraus",
     "shop": "butcher",
     "latitude": 46.7683747,
-    "longitude": 14.8216918
+    "longitude": 14.8216918,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -85,7 +116,9 @@
     "shop": "clothes",
     "latitude": 46.7614127,
     "longitude": 14.8223217,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "PENNY",
@@ -93,13 +126,19 @@
     "shop": "supermarket",
     "latitude": 46.7618921,
     "longitude": 14.8222396,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "9433",
+    "city": "St. Andrä",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 46.7682031,
-    "longitude": 14.822296
+    "longitude": 14.822296,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

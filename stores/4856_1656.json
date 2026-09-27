@@ -5,7 +5,11 @@
     "shop": "car_repair",
     "latitude": 48.5603858,
     "longitude": 16.5620195,
-    "brand": "Mercedes-Benz;Alfa Romeo;Fiat"
+    "brand": "Mercedes-Benz;Alfa Romeo;Fiat",
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 48.5631333,
     "longitude": 16.5638458,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa stop & shop",
@@ -21,21 +29,31 @@
     "shop": "convenience",
     "latitude": 48.5608746,
     "longitude": 16.5618529,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cellsan Institut Löscher",
     "retailer": "cellsan_institut_loscher",
     "shop": "beauty",
     "latitude": 48.5667679,
-    "longitude": 16.5692463
+    "longitude": 16.5692463,
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Freestyle",
     "retailer": "freestyle",
     "shop": "hairdresser",
     "latitude": 48.5667224,
-    "longitude": 16.5699719
+    "longitude": 16.5699719,
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -43,14 +61,22 @@
     "shop": "supermarket",
     "latitude": 48.5610369,
     "longitude": 16.5600533,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hüte Pernold",
     "retailer": "hute_pernold",
     "shop": "clothes",
     "latitude": 48.5667104,
-    "longitude": 16.5690321
+    "longitude": 16.5690321,
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -58,48 +84,76 @@
     "shop": "doityourself",
     "latitude": 48.5645111,
     "longitude": 16.5623329,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "lieber bio",
     "retailer": "lieber_bio",
     "shop": "convenience",
     "latitude": 48.5665453,
-    "longitude": 16.5691748
+    "longitude": 16.5691748,
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "M.D.-KFZ OG",
     "retailer": "m_d_kfz_og",
     "shop": "tyres",
     "latitude": 48.5612953,
-    "longitude": 16.5618515
+    "longitude": 16.5618515,
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schnittstelle",
     "retailer": "schnittstelle",
     "shop": "hairdresser",
     "latitude": 48.5666652,
-    "longitude": 16.5688027
+    "longitude": 16.5688027,
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Turbo Sun",
     "retailer": "turbo_sun",
     "shop": "beauty",
     "latitude": 48.5672129,
-    "longitude": 16.5694417
+    "longitude": 16.5694417,
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Werbetechnik Hugl",
     "retailer": "werbetechnik_hugl",
     "shop": "copyshop",
     "latitude": 48.5672747,
-    "longitude": 16.5694399
+    "longitude": 16.5694399,
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zimmermann",
     "retailer": "zimmermann",
     "shop": "weapons",
     "latitude": 48.5652123,
-    "longitude": 16.5652788
+    "longitude": 16.5652788,
+    "postcode": "2130",
+    "city": "Mistelbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

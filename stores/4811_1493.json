@@ -4,20 +4,30 @@
     "retailer": "ligier_store",
     "shop": "car",
     "latitude": 48.1146545,
-    "longitude": 14.9336352
+    "longitude": 14.9336352,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sala Kfz-Teile",
     "retailer": "sala_kfz_teile",
     "shop": "car_parts",
     "latitude": 48.114265,
-    "longitude": 14.9336443
+    "longitude": 14.9336443,
+    "postcode": "3304",
+    "city": "Hart",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Würth Shop Amstetten",
     "retailer": "wurth_shop_amstetten",
     "shop": "hardware",
     "latitude": 48.1140233,
-    "longitude": 14.9334276
+    "longitude": 14.9334276,
+    "postcode": "3304",
+    "city": "Hart",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

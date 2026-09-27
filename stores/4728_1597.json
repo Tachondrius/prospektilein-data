@@ -5,35 +5,49 @@
     "shop": "telecommunication",
     "latitude": 47.2835306,
     "longitude": 15.9728372,
-    "brand": "A1"
+    "brand": "A1",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ABEX Hartberg",
     "retailer": "abex_hartberg",
     "shop": "bathroom_furnishing",
     "latitude": 47.2899044,
-    "longitude": 15.9789956
+    "longitude": 15.9789956,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Admiral",
     "retailer": "admiral",
     "shop": "lottery",
     "latitude": 47.2828334,
-    "longitude": 15.975999
+    "longitude": 15.975999,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Almandin Edle Steine",
     "retailer": "almandin_edle_steine",
     "shop": "jewelry",
     "latitude": 47.2823734,
-    "longitude": 15.9721706
+    "longitude": 15.9721706,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Babyland Hartberg",
     "retailer": "babyland_hartberg",
     "shop": "baby_goods",
     "latitude": 47.2899126,
-    "longitude": 15.9787165
+    "longitude": 15.9787165,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa stop & shop",
@@ -41,28 +55,38 @@
     "shop": "convenience",
     "latitude": 47.2825591,
     "longitude": 15.9744923,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Andrea",
     "retailer": "blumen_andrea",
     "shop": "florist",
     "latitude": 47.2878481,
-    "longitude": 15.978951
+    "longitude": 15.978951,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bodenholz",
     "retailer": "bodenholz",
     "shop": "furniture",
     "latitude": 47.2818243,
-    "longitude": 15.9739845
+    "longitude": 15.9739845,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Carla",
     "retailer": "carla",
     "shop": "charity",
     "latitude": 47.2811957,
-    "longitude": 15.9715743
+    "longitude": 15.9715743,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Cecil",
@@ -70,7 +94,11 @@
     "shop": "clothes",
     "latitude": 47.281456,
     "longitude": 15.9703999,
-    "brand": "Cecil"
+    "brand": "Cecil",
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "comma",
@@ -78,28 +106,38 @@
     "shop": "clothes",
     "latitude": 47.2816075,
     "longitude": 15.9711202,
-    "brand": "comma"
+    "brand": "comma",
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "CSH Copy Shop",
     "retailer": "csh_copy_shop",
     "shop": "copyshop",
     "latitude": 47.2830391,
-    "longitude": 15.9727409
+    "longitude": 15.9727409,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Druckpunkt",
     "retailer": "druckpunkt",
     "shop": "copyshop",
     "latitude": 47.2805059,
-    "longitude": 15.9701795
+    "longitude": 15.9701795,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektro Gaschler",
     "retailer": "elektro_gaschler",
     "shop": "electronics",
     "latitude": 47.2825278,
-    "longitude": 15.9780041
+    "longitude": 15.9780041,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eurospar",
@@ -107,112 +145,156 @@
     "shop": "supermarket",
     "latitude": 47.2827983,
     "longitude": 15.9765944,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Foto Toth",
     "retailer": "foto_toth",
     "shop": "photo",
     "latitude": 47.2810401,
-    "longitude": 15.9710918
+    "longitude": 15.9710918,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Garten Bayer",
     "retailer": "garten_bayer",
     "shop": "garden_centre",
     "latitude": 47.2876686,
-    "longitude": 15.9788591
+    "longitude": 15.9788591,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gruber",
     "retailer": "gruber",
     "shop": "travel_agency",
     "latitude": 47.2824444,
-    "longitude": 15.9720614
+    "longitude": 15.9720614,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "IdeenReich",
     "retailer": "ideenreich",
     "shop": "gift",
     "latitude": 47.282481,
-    "longitude": 15.9778351
+    "longitude": 15.9778351,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Igler",
     "retailer": "igler",
     "shop": "jewelry",
     "latitude": 47.2820207,
-    "longitude": 15.9717796
+    "longitude": 15.9717796,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Infoworx",
     "retailer": "infoworx",
     "shop": "computer",
     "latitude": 47.2811265,
-    "longitude": 15.9728239
+    "longitude": 15.9728239,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "instyle-studio",
     "retailer": "instyle_studio",
     "shop": "hairdresser",
     "latitude": 47.2826444,
-    "longitude": 15.9782519
+    "longitude": 15.9782519,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Jägerstüberl",
     "retailer": "jagerstuberl",
     "shop": "bookmaker",
     "latitude": 47.2827586,
-    "longitude": 15.9758371
+    "longitude": 15.9758371,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klampfl",
     "retailer": "klampfl",
     "shop": "clothes",
     "latitude": 47.2813809,
-    "longitude": 15.970795
+    "longitude": 15.970795,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Konditorei Ulreich",
     "retailer": "konditorei_ulreich",
     "shop": "pastry",
     "latitude": 47.2829563,
-    "longitude": 15.9784243
+    "longitude": 15.9784243,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kremser",
     "retailer": "kremser",
     "shop": "jewelry",
     "latitude": 47.2808565,
-    "longitude": 15.9721322
+    "longitude": 15.9721322,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "LaForma",
     "retailer": "laforma",
     "shop": "furniture",
     "latitude": 47.2818695,
-    "longitude": 15.9740714
+    "longitude": 15.9740714,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lederhaas Bandagist",
     "retailer": "lederhaas_bandagist",
     "shop": "sanitary",
     "latitude": 47.280955,
-    "longitude": 15.9723523
+    "longitude": 15.9723523,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "LET'S DOIT",
     "retailer": "let_s_doit",
     "shop": "hardware",
     "latitude": 47.2824272,
-    "longitude": 15.9775888
+    "longitude": 15.9775888,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lottery",
     "retailer": "shop_lottery",
     "shop": "lottery",
     "latitude": 47.282593,
-    "longitude": 15.9744527
+    "longitude": 15.9744527,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mercedes-Benz Kröpfl",
@@ -220,14 +302,22 @@
     "shop": "car",
     "latitude": 47.2858984,
     "longitude": 15.9777779,
-    "brand": "Chrysler;Dodge;Jeep;Mercedes-Benz;Smart"
+    "brand": "Chrysler;Dodge;Jeep;Mercedes-Benz;Smart",
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Musikhaus Fleck",
     "retailer": "musikhaus_fleck",
     "shop": "musical_instrument",
     "latitude": 47.2812121,
-    "longitude": 15.9736161
+    "longitude": 15.9736161,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Möbelix",
@@ -235,14 +325,20 @@
     "shop": "furniture",
     "latitude": 47.2891339,
     "longitude": 15.9799192,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ofenstudio",
     "retailer": "ofenstudio",
     "shop": "furniture",
     "latitude": 47.2820552,
-    "longitude": 15.9744116
+    "longitude": 15.9744116,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Palmers",
@@ -250,28 +346,40 @@
     "shop": "clothes",
     "latitude": 47.2817052,
     "longitude": 15.9713841,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Parwan Market",
     "retailer": "parwan_market",
     "shop": "supermarket",
     "latitude": 47.2814978,
-    "longitude": 15.9713401
+    "longitude": 15.9713401,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Peinsipp Orthopädie",
     "retailer": "peinsipp_orthopadie",
     "shop": "shoes",
     "latitude": 47.2807728,
-    "longitude": 15.9719703
+    "longitude": 15.9719703,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Petra Klement",
     "retailer": "petra_klement",
     "shop": "clothes",
     "latitude": 47.281675,
-    "longitude": 15.971303
+    "longitude": 15.971303,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Point S",
@@ -279,28 +387,40 @@
     "shop": "car_repair",
     "latitude": 47.2836586,
     "longitude": 15.9774221,
-    "brand": "Point S"
+    "brand": "Point S",
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Posch Optik",
     "retailer": "posch_optik",
     "shop": "optician",
     "latitude": 47.281362,
-    "longitude": 15.9706614
+    "longitude": 15.9706614,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Radl",
     "retailer": "radl",
     "shop": "bakery",
     "latitude": 47.2813496,
-    "longitude": 15.970505
+    "longitude": 15.970505,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rindler",
     "retailer": "rindler",
     "shop": "jewelry",
     "latitude": 47.2814743,
-    "longitude": 15.9702176
+    "longitude": 15.9702176,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "s.Oliver",
@@ -308,7 +428,11 @@
     "shop": "clothes",
     "latitude": 47.2816456,
     "longitude": 15.971143,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar Express",
@@ -316,7 +440,11 @@
     "shop": "convenience",
     "latitude": 47.2825528,
     "longitude": 15.9753562,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Street One",
@@ -324,63 +452,85 @@
     "shop": "clothes",
     "latitude": 47.2814914,
     "longitude": 15.9700042,
-    "brand": "Street One"
+    "brand": "Street One",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 47.2819787,
-    "longitude": 15.971738
+    "longitude": 15.971738,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 47.2825952,
-    "longitude": 15.9782015
+    "longitude": 15.9782015,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Teestadl",
     "retailer": "teestadl",
     "shop": "deli",
     "latitude": 47.2812483,
-    "longitude": 15.9716929
+    "longitude": 15.9716929,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tele & Home Shop",
     "retailer": "tele_und_home_shop",
     "shop": "mobile_phone",
     "latitude": 47.2819364,
-    "longitude": 15.9741961
+    "longitude": 15.9741961,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tropenzentrum",
     "retailer": "tropenzentrum",
     "shop": "pet",
     "latitude": 47.2819768,
-    "longitude": 15.9716318
+    "longitude": 15.9716318,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wilfinger",
     "retailer": "wilfinger",
     "shop": "doityourself",
     "latitude": 47.2817319,
-    "longitude": 15.9738165
+    "longitude": 15.9738165,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "WOGI",
     "retailer": "wogi",
     "shop": "hairdresser",
     "latitude": 47.28268,
-    "longitude": 15.9725021
+    "longitude": 15.9725021,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wohnstudio Kolb",
     "retailer": "wohnstudio_kolb",
     "shop": "furniture",
     "latitude": 47.2831047,
-    "longitude": 15.9785526
+    "longitude": 15.9785526,
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Woolworth",
@@ -388,6 +538,10 @@
     "shop": "department_store",
     "latitude": 47.2830204,
     "longitude": 15.9782898,
-    "brand": "Woolworth"
+    "brand": "Woolworth",
+    "postcode": "8230",
+    "city": "Hartberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

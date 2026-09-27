@@ -4,7 +4,9 @@
     "retailer": "dan_kuchen_studio",
     "shop": "kitchen",
     "latitude": 48.3180488,
-    "longitude": 16.0172076
+    "longitude": 16.0172076,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -12,7 +14,11 @@
     "shop": "chemist",
     "latitude": 48.3181863,
     "longitude": 16.0173523,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "3442",
+    "city": "Langenrohr",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ernsting's family",
@@ -20,7 +26,9 @@
     "shop": "clothes",
     "latitude": 48.318423,
     "longitude": 16.0176219,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fressnapf",
@@ -28,7 +36,9 @@
     "shop": "pet",
     "latitude": 48.317719,
     "longitude": 16.0168769,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Intersport",
@@ -36,7 +46,11 @@
     "shop": "sports",
     "latitude": 48.3195579,
     "longitude": 16.0186727,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "3442",
+    "city": "Langenrohr",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -44,14 +58,20 @@
     "shop": "books",
     "latitude": 48.3176296,
     "longitude": 16.0168031,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.3179192,
-    "longitude": 16.0171955
+    "longitude": 16.0171955,
+    "postcode": "3442",
+    "city": "Langenrohr",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "mister*lady",
@@ -59,7 +79,9 @@
     "shop": "clothes",
     "latitude": 48.3183564,
     "longitude": 16.0175502,
-    "brand": "mister*lady"
+    "brand": "mister*lady",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Möbelix",
@@ -67,7 +89,11 @@
     "shop": "furniture",
     "latitude": 48.317009,
     "longitude": 16.0163164,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "3442",
+    "city": "Langenrohr",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -75,7 +101,9 @@
     "shop": "clothes",
     "latitude": 48.3178113,
     "longitude": 16.0169778,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "OBI",
@@ -83,14 +111,20 @@
     "shop": "doityourself",
     "latitude": 48.3179728,
     "longitude": 16.019061,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "3442",
+    "city": "Langenrohr",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Shoe 4 You",
     "retailer": "shoe_4_you",
     "shop": "shoes",
     "latitude": 48.3184894,
-    "longitude": 16.0176991
+    "longitude": 16.0176991,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Takko",
@@ -98,7 +132,9 @@
     "shop": "clothes",
     "latitude": 48.3175196,
     "longitude": 16.0166966,
-    "brand": "Takko"
+    "brand": "Takko",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -106,14 +142,18 @@
     "shop": "variety_store",
     "latitude": 48.3182783,
     "longitude": 16.0174595,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "vedes",
     "retailer": "vedes",
     "shop": "toys",
     "latitude": 48.3173824,
-    "longitude": 16.0165674
+    "longitude": 16.0165674,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "XXXLutz",
@@ -121,6 +161,10 @@
     "shop": "furniture",
     "latitude": 48.3169014,
     "longitude": 16.017432,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "3442",
+    "city": "Langenrohr",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

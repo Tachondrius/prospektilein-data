@@ -4,7 +4,9 @@
     "retailer": "fanningberg",
     "shop": "ticket",
     "latitude": 47.1693752,
-    "longitude": 13.6936438
+    "longitude": 13.6936438,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Pichler",
@@ -12,13 +14,21 @@
     "shop": "sports",
     "latitude": 47.1691863,
     "longitude": 13.693932,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "5573",
+    "city": "Weißpriach",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport:Shop Funny",
     "retailer": "sport_shop_funny",
     "shop": "sports",
     "latitude": 47.1696621,
-    "longitude": 13.6936855
+    "longitude": 13.6936855,
+    "postcode": "5573",
+    "city": "Weißpriach",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

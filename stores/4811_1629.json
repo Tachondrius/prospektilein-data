@@ -4,21 +4,31 @@
     "retailer": "apc_business_gmbh",
     "shop": "car_parts",
     "latitude": 48.1142251,
-    "longitude": 16.295447
+    "longitude": 16.295447,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Förch",
     "retailer": "forch",
     "shop": "yes",
     "latitude": 48.1194285,
-    "longitude": 16.2931414
+    "longitude": 16.2931414,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Service City Süd KG",
     "retailer": "kfz_service_city_sud_kg",
     "shop": "car_repair",
     "latitude": 48.1118278,
-    "longitude": 16.2977592
+    "longitude": 16.2977592,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -26,7 +36,11 @@
     "shop": "supermarket",
     "latitude": 48.1118381,
     "longitude": 16.2992439,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -34,20 +48,28 @@
     "shop": "supermarket",
     "latitude": 48.1125999,
     "longitude": 16.2985187,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Vinothek Feine Weine",
     "retailer": "vinothek_feine_weine",
     "shop": "wine",
     "latitude": 48.1116041,
-    "longitude": 16.2931457
+    "longitude": 16.2931457,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zeilinger",
     "retailer": "zeilinger",
     "shop": "newsagent",
     "latitude": 48.1115895,
-    "longitude": 16.2967254
+    "longitude": 16.2967254,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

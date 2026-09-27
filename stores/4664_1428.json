@@ -4,35 +4,47 @@
     "retailer": "areum",
     "shop": "beauty",
     "latitude": 46.6485433,
-    "longitude": 14.2848553
+    "longitude": 14.2848553,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "BogenSportWelt",
     "retailer": "bogensportwelt",
     "shop": "sports",
     "latitude": 46.6419791,
-    "longitude": 14.2891803
+    "longitude": 14.2891803,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Danesh Teppiche",
     "retailer": "danesh_teppiche",
     "shop": "carpet",
     "latitude": 46.6423277,
-    "longitude": 14.2891239
+    "longitude": 14.2891239,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "HotSpring",
     "retailer": "hotspring",
     "shop": "swimming_pool",
     "latitude": 46.6416371,
-    "longitude": 14.288254
+    "longitude": 14.288254,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Keune",
     "retailer": "keune",
     "shop": "hairdresser",
     "latitude": 46.6408677,
-    "longitude": 14.2896901
+    "longitude": 14.2896901,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KiK",
@@ -40,7 +52,11 @@
     "shop": "clothes",
     "latitude": 46.6488395,
     "longitude": 14.2845735,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mail Boxes Etc. Klagenfurt - Versand, Verpackung, Grafik & Druck",
@@ -48,35 +64,49 @@
     "shop": "copyshop",
     "latitude": 46.6407928,
     "longitude": 14.2893585,
-    "brand": "Mail Boxes Etc."
+    "brand": "Mail Boxes Etc.",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pebutech",
     "retailer": "pebutech",
     "shop": "appliance",
     "latitude": 46.6412797,
-    "longitude": 14.2899199
+    "longitude": 14.2899199,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Skinfit Shop",
     "retailer": "skinfit_shop",
     "shop": "clothes",
     "latitude": 46.6411825,
-    "longitude": 14.2875929
+    "longitude": 14.2875929,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wasserbetten Kogler",
     "retailer": "wasserbetten_kogler",
     "shop": "bed",
     "latitude": 46.6411854,
-    "longitude": 14.2898917
+    "longitude": 14.2898917,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "wohnemotion",
     "retailer": "wohnemotion",
     "shop": "flooring",
     "latitude": 46.6417282,
-    "longitude": 14.2883097
+    "longitude": 14.2883097,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Würth",
@@ -84,13 +114,17 @@
     "shop": "hardware",
     "latitude": 46.6414533,
     "longitude": 14.2881855,
-    "brand": "Würth"
+    "brand": "Würth",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Zumtobel",
     "retailer": "zumtobel",
     "shop": "interior_decoration",
     "latitude": 46.6406403,
-    "longitude": 14.2879801
+    "longitude": 14.2879801,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

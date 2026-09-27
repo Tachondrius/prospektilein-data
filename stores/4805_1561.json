@@ -5,7 +5,9 @@
     "shop": "chemist",
     "latitude": 48.050334,
     "longitude": 15.6114639,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ernsting's family",
@@ -13,7 +15,9 @@
     "shop": "clothes",
     "latitude": 48.0504329,
     "longitude": 15.6115829,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fussl",
@@ -21,7 +25,9 @@
     "shop": "clothes",
     "latitude": 48.0509732,
     "longitude": 15.6120461,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -29,7 +35,9 @@
     "shop": "books",
     "latitude": 48.0508568,
     "longitude": 15.6123025,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -37,6 +45,8 @@
     "shop": "supermarket",
     "latitude": 48.0507262,
     "longitude": 15.6118341,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "koch",
     "shop": "bakery",
     "latitude": 47.3370261,
-    "longitude": 16.0769678
+    "longitude": 16.0769678,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Nah & Frisch",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.3375196,
     "longitude": 16.0772688,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "7410",
+    "city": "Loipersdorf-Kitzladen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

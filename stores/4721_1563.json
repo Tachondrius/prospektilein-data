@@ -4,7 +4,11 @@
     "retailer": "bahnhofstrafik_kristandl",
     "shop": "tobacco",
     "latitude": 47.2144649,
-    "longitude": 15.6304665
+    "longitude": 15.6304665,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 47.211807,
     "longitude": 15.6315931,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -20,28 +28,44 @@
     "shop": "supermarket",
     "latitude": 47.2190416,
     "longitude": 15.6326625,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Buchgraber",
     "retailer": "backerei_buchgraber",
     "shop": "bakery",
     "latitude": 47.2194338,
-    "longitude": 15.6328602
+    "longitude": 15.6328602,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischerei Buchberger",
     "retailer": "fleischerei_buchberger",
     "shop": "butcher",
     "latitude": 47.2193072,
-    "longitude": 15.6325266
+    "longitude": 15.6325266,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lieb Markt GmbH - Hagebaumarkt",
     "retailer": "lieb_markt_gmbh_hagebaumarkt",
     "shop": "doityourself",
     "latitude": 47.2184057,
-    "longitude": 15.6324872
+    "longitude": 15.6324872,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sport 2000",
@@ -49,13 +73,19 @@
     "shop": "sports",
     "latitude": 47.2190999,
     "longitude": 15.6327966,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wutscher",
     "retailer": "wutscher",
     "shop": "optician",
     "latitude": 47.2193252,
-    "longitude": 15.6324167
+    "longitude": 15.6324167,
+    "postcode": "8160",
+    "city": "Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

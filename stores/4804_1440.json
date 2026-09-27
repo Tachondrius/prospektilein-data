@@ -4,49 +4,73 @@
     "retailer": "autohaus_pichler",
     "shop": "car",
     "latitude": 48.048886,
-    "longitude": 14.4026787
+    "longitude": 14.4026787,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autoklinik Tockner",
     "retailer": "autoklinik_tockner",
     "shop": "car_repair",
     "latitude": 48.0469222,
-    "longitude": 14.4085586
+    "longitude": 14.4085586,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bad und Energie",
     "retailer": "bad_und_energie",
     "shop": "bathroom_furnishing",
     "latitude": 48.0478636,
-    "longitude": 14.4056618
+    "longitude": 14.4056618,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "BTAB",
     "retailer": "btab",
     "shop": "stationery",
     "latitude": 48.0499606,
-    "longitude": 14.4013475
+    "longitude": 14.4013475,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fahrzeugsattlerei Bilweis",
     "retailer": "fahrzeugsattlerei_bilweis",
     "shop": "car_repair",
     "latitude": 48.046884,
-    "longitude": 14.4088806
+    "longitude": 14.4088806,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "HIT-KFZ Kerbl GmbH",
     "retailer": "hit_kfz_kerbl_gmbh",
     "shop": "car",
     "latitude": 48.0485092,
-    "longitude": 14.4049924
+    "longitude": 14.4049924,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KFZ Daniel Feichtl",
     "retailer": "kfz_daniel_feichtl",
     "shop": "car_repair",
     "latitude": 48.0479676,
-    "longitude": 14.4052649
+    "longitude": 14.4052649,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lietz",
@@ -54,21 +78,33 @@
     "shop": "car",
     "latitude": 48.0495242,
     "longitude": 14.403235,
-    "brand": "Mazda;Suzuki;Hyundai;Fiat"
+    "brand": "Mazda;Suzuki;Hyundai;Fiat",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ratzinger",
     "retailer": "ratzinger",
     "shop": "trade",
     "latitude": 48.0476718,
-    "longitude": 14.4084915
+    "longitude": 14.4084915,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Rowa",
     "retailer": "rowa",
     "shop": "car_repair",
     "latitude": 48.0480555,
-    "longitude": 14.405061
+    "longitude": 14.405061,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -76,13 +112,21 @@
     "shop": "supermarket",
     "latitude": 48.0425971,
     "longitude": 14.4066375,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trotronic",
     "retailer": "trotronic",
     "shop": "electronics",
     "latitude": 48.0481967,
-    "longitude": 14.4034042
+    "longitude": 14.4034042,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

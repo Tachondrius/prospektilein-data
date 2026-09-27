@@ -4,20 +4,30 @@
     "retailer": "alpinsport_steindl",
     "shop": "sports",
     "latitude": 47.6514441,
-    "longitude": 12.3187373
+    "longitude": 12.3187373,
+    "postcode": "6344",
+    "city": "Walchsee",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Loferer",
     "retailer": "loferer",
     "shop": "car_repair",
     "latitude": 47.651587,
-    "longitude": 12.3151718
+    "longitude": 12.3151718,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tirolerladen",
     "retailer": "tirolerladen",
     "shop": "convenience",
     "latitude": 47.6508192,
-    "longitude": 12.318485
+    "longitude": 12.318485,
+    "postcode": "6344",
+    "city": "Walchsee",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

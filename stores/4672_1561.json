@@ -5,7 +5,9 @@
     "shop": "yes",
     "latitude": 46.729489,
     "longitude": 15.6160015,
-    "brand": "Eni"
+    "brand": "Eni",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Unimarkt",
@@ -13,6 +15,10 @@
     "shop": "supermarket",
     "latitude": 46.728963,
     "longitude": 15.615555,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "8472",
+    "city": "Straß in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

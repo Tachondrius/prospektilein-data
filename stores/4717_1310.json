@@ -4,21 +4,27 @@
     "retailer": "beim_krauth",
     "shop": "stationery",
     "latitude": 47.1717142,
-    "longitude": 13.1068826
+    "longitude": 13.1068826,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Alpinsport Gastein",
     "retailer": "alpinsport_gastein",
     "shop": "sports",
     "latitude": 47.1712449,
-    "longitude": 13.1053963
+    "longitude": 13.1053963,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Angerer Coiffeur",
     "retailer": "angerer_coiffeur",
     "shop": "hairdresser",
     "latitude": 47.170958,
-    "longitude": 13.1045074
+    "longitude": 13.1045074,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Baguette",
@@ -26,14 +32,18 @@
     "shop": "bakery",
     "latitude": 47.1710882,
     "longitude": 13.1042645,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bestattung Wimmer",
     "retailer": "bestattung_wimmer",
     "shop": "funeral_directors",
     "latitude": 47.1703572,
-    "longitude": 13.1009227
+    "longitude": 13.1009227,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -41,126 +51,168 @@
     "shop": "supermarket",
     "latitude": 47.1712918,
     "longitude": 13.1051411,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Black-C-2",
     "retailer": "black_c_2",
     "shop": "hairdresser",
     "latitude": 47.1704552,
-    "longitude": 13.1018789
+    "longitude": 13.1018789,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Blumen Botani",
     "retailer": "blumen_botani",
     "shop": "florist",
     "latitude": 47.1710685,
-    "longitude": 13.1045107
+    "longitude": 13.1045107,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Boutique Glücksmoment",
     "retailer": "boutique_glucksmoment",
     "shop": "clothes",
     "latitude": 47.1707243,
-    "longitude": 13.1034467
+    "longitude": 13.1034467,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Bauer",
     "retailer": "backerei_bauer",
     "shop": "bakery",
     "latitude": 47.1702498,
-    "longitude": 13.1083332
+    "longitude": 13.1083332,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Domino Moden",
     "retailer": "domino_moden",
     "shop": "clothes",
     "latitude": 47.1711904,
-    "longitude": 13.1047534
+    "longitude": 13.1047534,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Egger",
     "retailer": "egger",
     "shop": "clothes",
     "latitude": 47.1706939,
-    "longitude": 13.1032546
+    "longitude": 13.1032546,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Elektro Neumayer",
     "retailer": "elektro_neumayer",
     "shop": "electronics",
     "latitude": 47.1723083,
-    "longitude": 13.1048827
+    "longitude": 13.1048827,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fashion & Shoes Christine",
     "retailer": "fashion_und_shoes_christine",
     "shop": "clothes",
     "latitude": 47.170653,
-    "longitude": 13.1077996
+    "longitude": 13.1077996,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "fashion Rainer",
     "retailer": "fashion_rainer",
     "shop": "clothes",
     "latitude": 47.1710309,
-    "longitude": 13.107641
+    "longitude": 13.107641,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fetzig",
     "retailer": "fetzig",
     "shop": "clothes",
     "latitude": 47.1702779,
-    "longitude": 13.1080085
+    "longitude": 13.1080085,
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Galerie im Zentrum",
     "retailer": "galerie_im_zentrum",
     "shop": "mall",
     "latitude": 47.171432,
-    "longitude": 13.1065652
+    "longitude": 13.1065652,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Galerie Winkler",
     "retailer": "galerie_winkler",
     "shop": "art",
     "latitude": 47.1706029,
-    "longitude": 13.1064105
+    "longitude": 13.1064105,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gastein Optik",
     "retailer": "gastein_optik",
     "shop": "optician",
     "latitude": 47.1714253,
-    "longitude": 13.1064891
+    "longitude": 13.1064891,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Goldschmied Gassner",
     "retailer": "goldschmied_gassner",
     "shop": "jewelry",
     "latitude": 47.1720921,
-    "longitude": 13.1048984
+    "longitude": 13.1048984,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gössl",
     "retailer": "gossl",
     "shop": "clothes",
     "latitude": 47.1709748,
-    "longitude": 13.1067752
+    "longitude": 13.1067752,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "hairstyle Studio",
     "retailer": "hairstyle_studio",
     "shop": "hairdresser",
     "latitude": 47.1719825,
-    "longitude": 13.1074584
+    "longitude": 13.1074584,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hartlauer",
     "retailer": "hartlauer",
     "shop": "photo",
     "latitude": 47.1722863,
-    "longitude": 13.1047007
+    "longitude": 13.1047007,
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -168,42 +220,58 @@
     "shop": "supermarket",
     "latitude": 47.1790745,
     "longitude": 13.1027641,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Interhome Gasteinertal - Ferienwohnungen und Ferienhäuser",
     "retailer": "interhome_gasteinertal_ferienwohnungen_und_ferienhauser",
     "shop": "travel_agency",
     "latitude": 47.1716536,
-    "longitude": 13.1035412
+    "longitude": 13.1035412,
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Interior Decoration",
     "retailer": "shop_interior_decoration",
     "shop": "interior_decoration",
     "latitude": 47.1714132,
-    "longitude": 13.1066866
+    "longitude": 13.1066866,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Interport Fleiss",
     "retailer": "interport_fleiss",
     "shop": "sports",
     "latitude": 47.1712057,
-    "longitude": 13.1066441
+    "longitude": 13.1066441,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Jones",
     "retailer": "jones",
     "shop": "jewelry",
     "latitude": 47.1713103,
-    "longitude": 13.105502
+    "longitude": 13.105502,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kräuter & Reformhaus",
     "retailer": "krauter_und_reformhaus",
     "shop": "nutrition_supplements",
     "latitude": 47.171334,
-    "longitude": 13.1055556
+    "longitude": 13.1055556,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Libro",
@@ -211,21 +279,29 @@
     "shop": "books",
     "latitude": 47.1708935,
     "longitude": 13.1067528,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lindenthaler",
     "retailer": "lindenthaler",
     "shop": "sports",
     "latitude": 47.1716673,
-    "longitude": 13.1053582
+    "longitude": 13.1053582,
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Moda piccola",
     "retailer": "moda_piccola",
     "shop": "clothes",
     "latitude": 47.1705271,
-    "longitude": 13.1022746
+    "longitude": 13.1022746,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MPREIS",
@@ -233,84 +309,114 @@
     "shop": "supermarket",
     "latitude": 47.171086,
     "longitude": 13.1040904,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Nagina Mineralien",
     "retailer": "nagina_mineralien",
     "shop": "jewelry",
     "latitude": 47.170883,
-    "longitude": 13.1078212
+    "longitude": 13.1078212,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Nigl Nagl Neie Nägl",
     "retailer": "nigl_nagl_neie_nagl",
     "shop": "beauty",
     "latitude": 47.1719431,
-    "longitude": 13.1074837
+    "longitude": 13.1074837,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Optik Perendi",
     "retailer": "optik_perendi",
     "shop": "optician",
     "latitude": 47.1708353,
-    "longitude": 13.107073
+    "longitude": 13.107073,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "PAP-Laden",
     "retailer": "pap_laden",
     "shop": "clothes",
     "latitude": 47.1728965,
-    "longitude": 13.1045522
+    "longitude": 13.1045522,
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Parfümerie Brigitte",
     "retailer": "parfumerie_brigitte",
     "shop": "perfumery",
     "latitude": 47.1711978,
-    "longitude": 13.106442
+    "longitude": 13.106442,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pondorfer",
     "retailer": "pondorfer",
     "shop": "shoes",
     "latitude": 47.1707662,
-    "longitude": 13.1076299
+    "longitude": 13.1076299,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Radsport Eckschlager",
     "retailer": "radsport_eckschlager",
     "shop": "bicycle",
     "latitude": 47.1766601,
-    "longitude": 13.1042796
+    "longitude": 13.1042796,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Reformhaus naturgeladen",
     "retailer": "reformhaus_naturgeladen",
     "shop": "convenience",
     "latitude": 47.1709531,
-    "longitude": 13.1048126
+    "longitude": 13.1048126,
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Russ",
     "retailer": "russ",
     "shop": "hairdresser",
     "latitude": 47.1707319,
-    "longitude": 13.1014967
+    "longitude": 13.1014967,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Silvia's Creation",
     "retailer": "silvia_s_creation",
     "shop": "jewelry",
     "latitude": 47.1706125,
-    "longitude": 13.1078532
+    "longitude": 13.1078532,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Souvenir Geschenk",
     "retailer": "souvenir_geschenk",
     "shop": "gift",
     "latitude": 47.170967,
-    "longitude": 13.1047214
+    "longitude": 13.1047214,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -318,7 +424,11 @@
     "shop": "supermarket",
     "latitude": 47.1783023,
     "longitude": 13.1024297,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000",
@@ -326,63 +436,87 @@
     "shop": "sports",
     "latitude": 47.1713648,
     "longitude": 13.105342,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Steira-Shop",
     "retailer": "steira_shop",
     "shop": "deli",
     "latitude": 47.1715069,
-    "longitude": 13.1066469
+    "longitude": 13.1066469,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sultan Market",
     "retailer": "sultan_market",
     "shop": "convenience",
     "latitude": 47.1725216,
-    "longitude": 13.1047949
+    "longitude": 13.1047949,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak-Trafik Rainer",
     "retailer": "tabak_trafik_rainer",
     "shop": "tobacco",
     "latitude": 47.1703203,
-    "longitude": 13.1069837
+    "longitude": 13.1069837,
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Therapie Gastuna",
     "retailer": "therapie_gastuna",
     "shop": "massage",
     "latitude": 47.1723237,
-    "longitude": 13.1079608
+    "longitude": 13.1079608,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Traumbild",
     "retailer": "traumbild",
     "shop": "photo",
     "latitude": 47.170973,
-    "longitude": 13.1035861
+    "longitude": 13.1035861,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Unterkofler",
     "retailer": "unterkofler",
     "shop": "bakery",
     "latitude": 47.171036,
-    "longitude": 13.1038459
+    "longitude": 13.1038459,
+    "postcode": "5630",
+    "city": "Bad Hofgastein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Warnecke",
     "retailer": "warnecke",
     "shop": "interior_decoration",
     "latitude": 47.1713749,
-    "longitude": 13.1065192
+    "longitude": 13.1065192,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Warnecke",
     "retailer": "warnecke",
     "shop": "interior_decoration",
     "latitude": 47.1720817,
-    "longitude": 13.1070489
+    "longitude": 13.1070489,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Wutscher",
@@ -390,6 +524,8 @@
     "shop": "optician",
     "latitude": 47.1715114,
     "longitude": 13.1056689,
-    "brand": "sehen!wutscher"
+    "brand": "sehen!wutscher",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

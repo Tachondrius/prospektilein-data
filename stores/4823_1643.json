@@ -4,35 +4,53 @@
     "retailer": "bikestore_servicecenter",
     "shop": "bicycle",
     "latitude": 48.2379994,
-    "longitude": 16.4327176
+    "longitude": 16.4327176,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Der Wurstmann",
     "retailer": "der_wurstmann",
     "shop": "convenience",
     "latitude": 48.2377468,
-    "longitude": 16.439408
+    "longitude": 16.439408,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hundesalon Sweety",
     "retailer": "hundesalon_sweety",
     "shop": "pet_grooming",
     "latitude": 48.2376881,
-    "longitude": 16.4393789
+    "longitude": 16.4393789,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Karosseriefachbetrieb Schmidt",
     "retailer": "karosseriefachbetrieb_schmidt",
     "shop": "car_repair",
     "latitude": 48.2385743,
-    "longitude": 16.4312108
+    "longitude": 16.4312108,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Salon Ana",
     "retailer": "salon_ana",
     "shop": "hairdresser",
     "latitude": 48.2362357,
-    "longitude": 16.4383189
+    "longitude": 16.4383189,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Seat",
@@ -40,20 +58,32 @@
     "shop": "car",
     "latitude": 48.2372002,
     "longitude": 16.4360078,
-    "brand": "Seat"
+    "brand": "Seat",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Seidl",
     "retailer": "seidl",
     "shop": "car_repair",
     "latitude": 48.2381908,
-    "longitude": 16.4336035
+    "longitude": 16.4336035,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Sie und Er",
     "retailer": "sie_und_er",
     "shop": "hairdresser",
     "latitude": 48.2377826,
-    "longitude": 16.4394375
+    "longitude": 16.4394375,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

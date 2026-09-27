@@ -4,13 +4,19 @@
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.4153154,
-    "longitude": 9.6578103
+    "longitude": 9.6578103,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schlierenzauer",
     "retailer": "schlierenzauer",
     "shop": "butcher",
     "latitude": 47.4167969,
-    "longitude": 9.6577539
+    "longitude": 9.6577539,
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

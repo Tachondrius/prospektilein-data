@@ -5,21 +5,30 @@
     "shop": "truck",
     "latitude": 46.9736655,
     "longitude": 15.4247738,
-    "brand": "Iveco"
+    "brand": "Iveco",
+    "postcode": "8141",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rauch & Wagner",
     "retailer": "rauch_und_wagner",
     "shop": "car_repair",
     "latitude": 46.9731823,
-    "longitude": 15.4250104
+    "longitude": 15.4250104,
+    "postcode": "8141",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Volvo Austria GmbH - Werkstätte Unterpremstätten",
     "retailer": "volvo_austria_gmbh_werkstatte_unterpremstatten",
     "shop": "car_repair",
     "latitude": 46.9721647,
-    "longitude": 15.4272844
+    "longitude": 15.4272844,
+    "postcode": "8141",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Volvo Renault Austria GmbH",
@@ -27,6 +36,9 @@
     "shop": "car",
     "latitude": 46.9718939,
     "longitude": 15.4274238,
-    "brand": "Volvo Trucks"
+    "brand": "Volvo Trucks",
+    "postcode": "8141",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

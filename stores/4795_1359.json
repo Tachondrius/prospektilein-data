@@ -5,14 +5,21 @@
     "shop": "chemist",
     "latitude": 47.9502803,
     "longitude": 13.5976955,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4863",
+    "city": "Seewalchen am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Buch Weidinger",
     "retailer": "buch_weidinger",
     "shop": "books",
     "latitude": 47.9507729,
-    "longitude": 13.5921379
+    "longitude": 13.5921379,
+    "postcode": "4863",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "EUROSPAR Seewalchen",
@@ -20,7 +27,11 @@
     "shop": "supermarket",
     "latitude": 47.9502488,
     "longitude": 13.5984898,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4863",
+    "city": "Seewalchen am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hervis Seewalchen",
@@ -28,13 +39,21 @@
     "shop": "sports",
     "latitude": 47.9503699,
     "longitude": 13.5979819,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "postcode": "4863",
+    "city": "Seewalchen am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Teufelberger & Friedl United Optics",
     "retailer": "teufelberger_und_friedl_united_optics",
     "shop": "optician",
     "latitude": 47.9501363,
-    "longitude": 13.5975432
+    "longitude": 13.5975432,
+    "postcode": "4863",
+    "city": "Seewalchen am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

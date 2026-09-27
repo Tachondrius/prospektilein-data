@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 48.253357,
     "longitude": 14.2903472,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klotzner Sonnenschutz",
     "retailer": "klotzner_sonnenschutz",
     "shop": "window_blind",
     "latitude": 48.2579178,
-    "longitude": 14.2931839
+    "longitude": 14.2931839,
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,28 +4,42 @@
     "retailer": "ekz_repolusk",
     "shop": "mall",
     "latitude": 46.6619929,
-    "longitude": 15.4703029
+    "longitude": 15.4703029,
+    "postcode": "8463",
+    "city": "Leutschach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "EP:Posod",
     "retailer": "ep_posod",
     "shop": "electronics",
     "latitude": 46.6641702,
-    "longitude": 15.4702326
+    "longitude": 15.4702326,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gardencenter",
     "retailer": "gardencenter",
     "shop": "garden_centre",
     "latitude": 46.6623565,
-    "longitude": 15.4702463
+    "longitude": 15.4702463,
+    "postcode": "8463",
+    "city": "Leutschach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haarstudio Anita",
     "retailer": "haarstudio_anita",
     "shop": "hairdresser",
     "latitude": 46.6618576,
-    "longitude": 15.4701624
+    "longitude": 15.4701624,
+    "postcode": "8463",
+    "city": "Leutschach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -33,7 +47,9 @@
     "shop": "clothes",
     "latitude": 46.6619262,
     "longitude": 15.4701698,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Repolusk",
@@ -41,14 +57,22 @@
     "shop": "doityourself",
     "latitude": 46.6614572,
     "longitude": 15.4701236,
-    "brand": "Let's Doit"
+    "brand": "Let's Doit",
+    "postcode": "8463",
+    "city": "Leutschach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Skotschnigg",
     "retailer": "skotschnigg",
     "shop": "car_repair",
     "latitude": 46.6636073,
-    "longitude": 15.4706718
+    "longitude": 15.4706718,
+    "postcode": "8463",
+    "city": "Leutschach an der Weinstraße",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -56,27 +80,41 @@
     "shop": "supermarket",
     "latitude": 46.6625039,
     "longitude": 15.4704051,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8463",
+    "city": "Leutschach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spielwaren",
     "retailer": "spielwaren",
     "shop": "toys",
     "latitude": 46.6622561,
-    "longitude": 15.4701939
+    "longitude": 15.4701939,
+    "postcode": "8463",
+    "city": "Leutschach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Herischko",
     "retailer": "trafik_herischko",
     "shop": "tobacco",
     "latitude": 46.6643019,
-    "longitude": 15.4707708
+    "longitude": 15.4707708,
+    "postcode": "8463",
+    "city": "Leutschach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vinoinfothek",
     "retailer": "vinoinfothek",
     "shop": "wine",
     "latitude": 46.6642151,
-    "longitude": 15.4707236
+    "longitude": 15.4707236,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

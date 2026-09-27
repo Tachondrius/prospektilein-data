@@ -4,20 +4,28 @@
     "retailer": "frisor_beauty_treff",
     "shop": "hairdresser",
     "latitude": 47.6839177,
-    "longitude": 13.0898214
+    "longitude": 13.0898214,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gerl Karosseriezentrum",
     "retailer": "gerl_karosseriezentrum",
     "shop": "car_repair",
     "latitude": 47.6880001,
-    "longitude": 13.089308
+    "longitude": 13.089308,
+    "postcode": "5400",
+    "city": "Hallein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "OBI",
     "retailer": "obi",
     "shop": "doityourself",
     "latitude": 47.6898443,
-    "longitude": 13.0866841
+    "longitude": 13.0866841,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

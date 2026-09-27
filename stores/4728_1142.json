@@ -4,7 +4,11 @@
     "retailer": "bauernbuffet_maxnhof",
     "shop": "farm",
     "latitude": 47.2881846,
-    "longitude": 11.4278464
+    "longitude": 11.4278464,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -12,13 +16,20 @@
     "shop": "supermarket",
     "latitude": 47.2824314,
     "longitude": 11.4242637,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tino + Sonja",
     "retailer": "tino_plus_sonja",
     "shop": "hairdresser",
     "latitude": 47.2823471,
-    "longitude": 11.4243489
+    "longitude": 11.4243489,
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "autohaus_kisser",
     "shop": "car",
     "latitude": 48.6483849,
-    "longitude": 15.8221462
+    "longitude": 15.8221462,
+    "postcode": "3730",
+    "city": "Eggenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,35 +16,51 @@
     "shop": "supermarket",
     "latitude": 48.6473171,
     "longitude": 15.8231733,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3730",
+    "city": "Eggenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumenhaus Tutschek",
     "retailer": "blumenhaus_tutschek",
     "shop": "florist",
     "latitude": 48.6488631,
-    "longitude": 15.8235568
+    "longitude": 15.8235568,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumenhaus Tutschek",
     "retailer": "blumenhaus_tutschek",
     "shop": "florist",
     "latitude": 48.6489667,
-    "longitude": 15.8229389
+    "longitude": 15.8229389,
+    "postcode": "3730",
+    "city": "Eggenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumenhaus Tutschek",
     "retailer": "blumenhaus_tutschek",
     "shop": "florist",
     "latitude": 48.6491172,
-    "longitude": 15.8235962
+    "longitude": 15.8235962,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bücherbuben",
     "retailer": "bucherbuben",
     "shop": "books",
     "latitude": 48.6469275,
-    "longitude": 15.8215822
+    "longitude": 15.8215822,
+    "postcode": "3730",
+    "city": "Eggenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -48,14 +68,22 @@
     "shop": "supermarket",
     "latitude": 48.6476229,
     "longitude": 15.8232985,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3730",
+    "city": "Eggenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ-Technik Zeller",
     "retailer": "kfz_technik_zeller",
     "shop": "car_repair",
     "latitude": 48.6480268,
-    "longitude": 15.8219285
+    "longitude": 15.8219285,
+    "postcode": "3730",
+    "city": "Eggenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -63,7 +91,11 @@
     "shop": "supermarket",
     "latitude": 48.6442437,
     "longitude": 15.8216567,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3730",
+    "city": "Eggenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Viva",
@@ -71,6 +103,8 @@
     "shop": "convenience",
     "latitude": 48.6436225,
     "longitude": 15.8224796,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

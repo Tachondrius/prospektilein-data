@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 47.0627474,
     "longitude": 15.5927381,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8302",
+    "city": "Nestelbach bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ Winkler",
     "retailer": "kfz_winkler",
     "shop": "car_repair",
     "latitude": 47.062568,
-    "longitude": 15.5938487
+    "longitude": 15.5938487,
+    "postcode": "8302",
+    "city": "Nestelbach bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

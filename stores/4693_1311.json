@@ -5,20 +5,26 @@
     "shop": "supermarket",
     "latitude": 46.9357555,
     "longitude": 13.1106528,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mosaik",
     "retailer": "mosaik",
     "shop": "florist",
     "latitude": 46.9344621,
-    "longitude": 13.1117255
+    "longitude": 13.1117255,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Volinice",
     "retailer": "volinice",
     "shop": "sports",
     "latitude": 46.935746,
-    "longitude": 13.1112028
+    "longitude": 13.1112028,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

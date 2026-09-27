@@ -5,28 +5,38 @@
     "shop": "clothes",
     "latitude": 47.2516261,
     "longitude": 13.5467246,
-    "brand": "Blue Tomato"
+    "brand": "Blue Tomato",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 47.2511581,
-    "longitude": 13.5427518
+    "longitude": 13.5427518,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Obertauern skigebiet",
     "retailer": "obertauern_skigebiet",
     "shop": "ticket",
     "latitude": 47.2510787,
-    "longitude": 13.5441434
+    "longitude": 13.5441434,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Circle",
     "retailer": "sport_circle",
     "shop": "ski",
     "latitude": 47.2518334,
-    "longitude": 13.5458532
+    "longitude": 13.5458532,
+    "postcode": "5562",
+    "city": "Obertauern",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Gefäll",
@@ -34,6 +44,10 @@
     "shop": "sports",
     "latitude": 47.251502,
     "longitude": 13.5430525,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "5562",
+    "city": "Obertauern",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

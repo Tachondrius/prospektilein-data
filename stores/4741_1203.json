@@ -4,20 +4,28 @@
     "retailer": "schrattenthaler",
     "shop": "car_repair",
     "latitude": 47.4146615,
-    "longitude": 12.0343711
+    "longitude": 12.0343711,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Thaler",
     "retailer": "sport_thaler",
     "shop": "sports",
     "latitude": 47.4104282,
-    "longitude": 12.0358757
+    "longitude": 12.0358757,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tiroler Dorfladl",
     "retailer": "tiroler_dorfladl",
     "shop": "yes",
     "latitude": 47.4101517,
-    "longitude": 12.036101
+    "longitude": 12.036101,
+    "postcode": "6313",
+    "city": "Wildschönau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

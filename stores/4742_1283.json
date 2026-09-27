@@ -4,28 +4,40 @@
     "retailer": "blumen_steger",
     "shop": "garden_centre",
     "latitude": 47.4266646,
-    "longitude": 12.836363
+    "longitude": 12.836363,
+    "postcode": "5760",
+    "city": "Saalfelden am Steinernen Meer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bründl Sports",
     "retailer": "brundl_sports",
     "shop": "sports",
     "latitude": 47.4214396,
-    "longitude": 12.8346459
+    "longitude": 12.8346459,
+    "postcode": "5760",
+    "city": "Saalfelden am Steinernen Meer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Büroprofi Foidl",
     "retailer": "buroprofi_foidl",
     "shop": "stationery",
     "latitude": 47.4204696,
-    "longitude": 12.8328569
+    "longitude": 12.8328569,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "CarTec Ellikci",
     "retailer": "cartec_ellikci",
     "shop": "car_repair",
     "latitude": 47.4208221,
-    "longitude": 12.8331455
+    "longitude": 12.8331455,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fiat Machreich",
@@ -33,7 +45,9 @@
     "shop": "car",
     "latitude": 47.4228873,
     "longitude": 12.8355988,
-    "brand": "Fiat"
+    "brand": "Fiat",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fressnapf",
@@ -41,7 +55,9 @@
     "shop": "pet",
     "latitude": 47.4206179,
     "longitude": 12.8357143,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -49,14 +65,20 @@
     "shop": "supermarket",
     "latitude": 47.4247484,
     "longitude": 12.8387046,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5760",
+    "city": "Saalfelden am Steinernen Meer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Irmgard Geiger",
     "retailer": "irmgard_geiger",
     "shop": "bakery",
     "latitude": 47.4258229,
-    "longitude": 12.836387
+    "longitude": 12.836387,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KiK",
@@ -64,7 +86,11 @@
     "shop": "clothes",
     "latitude": 47.4207517,
     "longitude": 12.8357545,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "5760",
+    "city": "Saalfelden am Steinernen Meer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lagerhaus",
@@ -72,21 +98,29 @@
     "shop": "doityourself",
     "latitude": 47.4209555,
     "longitude": 12.8337234,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "5760",
+    "city": "Saalfelden am Steinernen Meer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Oliver Supermarkt",
     "retailer": "oliver_supermarkt",
     "shop": "convenience",
     "latitude": 47.4260746,
-    "longitude": 12.8312189
+    "longitude": 12.8312189,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "ReifenJohn",
     "retailer": "reifenjohn",
     "shop": "tyres",
     "latitude": 47.4215792,
-    "longitude": 12.8357381
+    "longitude": 12.8357381,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Renault",
@@ -94,7 +128,9 @@
     "shop": "car",
     "latitude": 47.4207319,
     "longitude": 12.8333174,
-    "brand": "Renault"
+    "brand": "Renault",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "TEDi",
@@ -102,13 +138,17 @@
     "shop": "variety_store",
     "latitude": 47.4201659,
     "longitude": 12.8329707,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Voordox Saalfelden",
     "retailer": "voordox_saalfelden",
     "shop": "pet",
     "latitude": 47.420053,
-    "longitude": 12.8341319
+    "longitude": 12.8341319,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -4,13 +4,18 @@
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 46.8675094,
-    "longitude": 12.6876621
+    "longitude": 12.6876621,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 46.8659248,
-    "longitude": 12.6876095
+    "longitude": 12.6876095,
+    "city": "Ainet",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "biogemue_hummer_stemberger",
     "shop": "farm",
     "latitude": 48.2730097,
-    "longitude": 14.2292769
+    "longitude": 14.2292769,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Frisch",
@@ -12,34 +16,52 @@
     "shop": "electronics",
     "latitude": 48.2748696,
     "longitude": 14.2217106,
-    "brand": "Panasonic"
+    "brand": "Panasonic",
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gmias - solidarische Landwirtschaft",
     "retailer": "gmias_solidarische_landwirtschaft",
     "shop": "farm",
     "latitude": 48.2733358,
-    "longitude": 14.2287365
+    "longitude": 14.2287365,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Medizinische & Heilmassage Leonding",
     "retailer": "medizinische_und_heilmassage_leonding",
     "shop": "massage",
     "latitude": 48.2742714,
-    "longitude": 14.2203897
+    "longitude": 14.2203897,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schenk",
     "retailer": "schenk",
     "shop": "carpet",
     "latitude": 48.27833,
-    "longitude": 14.2217019
+    "longitude": 14.2217019,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schenk",
     "retailer": "schenk",
     "shop": "carpet",
     "latitude": 48.2786909,
-    "longitude": 14.2210509
+    "longitude": 14.2210509,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

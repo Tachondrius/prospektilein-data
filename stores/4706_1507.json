@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.0602979,
     "longitude": 15.0776859,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "8580",
+    "city": "Köflach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 47.0626457,
     "longitude": 15.0799837,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8580",
+    "city": "Köflach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eurospar",
@@ -21,13 +29,21 @@
     "shop": "supermarket",
     "latitude": 47.06003,
     "longitude": 15.079979,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "8580",
+    "city": "Köflach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Johann Pischler",
     "retailer": "trafik_johann_pischler",
     "shop": "kiosk",
     "latitude": 47.0646033,
-    "longitude": 15.0799932
+    "longitude": 15.0799932,
+    "postcode": "8580",
+    "city": "Köflach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

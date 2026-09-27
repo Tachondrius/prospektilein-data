@@ -5,20 +5,32 @@
     "shop": "chemist",
     "latitude": 48.209958,
     "longitude": 15.2086079,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "3380",
+    "city": "Pöchlarn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fahrrad Pichler",
     "retailer": "fahrrad_pichler",
     "shop": "bicycle",
     "latitude": 48.2095824,
-    "longitude": 15.2012518
+    "longitude": 15.2012518,
+    "postcode": "3380",
+    "city": "Pöchlarn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Prauchner GmbH",
     "retailer": "prauchner_gmbh",
     "shop": "mall",
     "latitude": 48.2098531,
-    "longitude": 15.2088728
+    "longitude": 15.2088728,
+    "postcode": "3380",
+    "city": "Pöchlarn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

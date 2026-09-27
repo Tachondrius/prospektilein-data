@@ -4,21 +4,27 @@
     "retailer": "backerei_kurz",
     "shop": "bakery",
     "latitude": 47.082769,
-    "longitude": 10.4633294
+    "longitude": 10.4633294,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Opposite",
     "retailer": "opposite",
     "shop": "sports",
     "latitude": 47.0827989,
-    "longitude": 10.4634994
+    "longitude": 10.4634994,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Skipass Kassa",
     "retailer": "skipass_kassa",
     "shop": "ticket",
     "latitude": 47.0825079,
-    "longitude": 10.4634932
+    "longitude": 10.4634932,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -26,27 +32,39 @@
     "shop": "supermarket",
     "latitude": 47.0834771,
     "longitude": 10.4647675,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6553",
+    "city": "See",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar Kaufhaus Gstrein",
     "retailer": "spar",
     "shop": "tobacco",
     "latitude": 47.0835223,
-    "longitude": 10.4648262
+    "longitude": 10.4648262,
+    "postcode": "6553",
+    "city": "See",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sporthaus Narr",
     "retailer": "sporthaus_narr",
     "shop": "sports",
     "latitude": 47.0826448,
-    "longitude": 10.4635824
+    "longitude": 10.4635824,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vivaldi",
     "retailer": "vivaldi",
     "shop": "florist",
     "latitude": 47.0807248,
-    "longitude": 10.46038
+    "longitude": 10.46038,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

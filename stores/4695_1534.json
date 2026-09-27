@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 46.9578698,
     "longitude": 15.3452523,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "8501",
+    "city": "Lieboch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -13,7 +17,11 @@
     "shop": "chemist",
     "latitude": 46.9520513,
     "longitude": 15.3401199,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pagro",
@@ -21,7 +29,11 @@
     "shop": "stationery",
     "latitude": 46.9521035,
     "longitude": 15.3402929,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -29,13 +41,21 @@
     "shop": "supermarket",
     "latitude": 46.9527298,
     "longitude": 15.3407019,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "YAASA",
     "retailer": "yaasa",
     "shop": "furniture",
     "latitude": 46.9501105,
-    "longitude": 15.3405148
+    "longitude": 15.3405148,
+    "postcode": "8502",
+    "city": "Lannach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -5,14 +5,20 @@
     "shop": "car",
     "latitude": 47.2705137,
     "longitude": 16.24105,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.2706545,
-    "longitude": 16.2414056
+    "longitude": 16.2414056,
+    "postcode": "7502",
+    "city": "Unterwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lexus Service Unterwart",
@@ -20,6 +26,8 @@
     "shop": "car_repair",
     "latitude": 47.2704404,
     "longitude": 16.2416758,
-    "brand": "Lexus"
+    "brand": "Lexus",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

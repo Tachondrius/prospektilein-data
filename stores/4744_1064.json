@@ -4,49 +4,63 @@
     "retailer": "auto_feneberg",
     "shop": "car",
     "latitude": 47.4405088,
-    "longitude": 10.6436245
+    "longitude": 10.6436245,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Auto Schaller",
     "retailer": "auto_schaller",
     "shop": "car",
     "latitude": 47.4405358,
-    "longitude": 10.643949
+    "longitude": 10.643949,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Autoreperatur Lang",
     "retailer": "autoreperatur_lang",
     "shop": "car_repair",
     "latitude": 47.4403221,
-    "longitude": 10.6436899
+    "longitude": 10.6436899,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
     "retailer": "baguette",
     "shop": "bakery",
     "latitude": 47.4409119,
-    "longitude": 10.6417997
+    "longitude": 10.6417997,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Die Dorfbäckerei WEX",
     "retailer": "die_dorfbackerei_wex",
     "shop": "bakery",
     "latitude": 47.4419069,
-    "longitude": 10.6425367
+    "longitude": 10.6425367,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Getränkevertrieb Knapp",
     "retailer": "getrankevertrieb_knapp",
     "shop": "beverages",
     "latitude": 47.4406111,
-    "longitude": 10.6444393
+    "longitude": 10.6444393,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Moto Sigi",
     "retailer": "moto_sigi",
     "shop": "car_repair",
     "latitude": 47.4430154,
-    "longitude": 10.6414415
+    "longitude": 10.6414415,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -54,6 +68,10 @@
     "shop": "supermarket",
     "latitude": 47.4411519,
     "longitude": 10.6416456,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6671",
+    "city": "Weißenbach am Lech",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "bookmaker",
     "latitude": 48.6036974,
     "longitude": 15.1817562,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus BMW Bauer GmbH",
@@ -13,7 +15,9 @@
     "shop": "car",
     "latitude": 48.6024715,
     "longitude": 15.1850862,
-    "brand": "BMW"
+    "brand": "BMW",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -21,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 48.6010657,
     "longitude": 15.1889129,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3910",
+    "city": "Zwettl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BYD Marty Mobility",
@@ -29,7 +37,9 @@
     "shop": "car",
     "latitude": 48.60378,
     "longitude": 15.1855177,
-    "brand": "BYD"
+    "brand": "BYD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -37,35 +47,49 @@
     "shop": "chemist",
     "latitude": 48.6006871,
     "longitude": 15.186295,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "3910",
+    "city": "Zwettl-Niederösterreich",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm Friseur- und Kosmetikstudio",
     "retailer": "dm",
     "shop": "hairdresser",
     "latitude": 48.6005457,
-    "longitude": 15.1861596
+    "longitude": 15.1861596,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Drechslerei Reiter",
     "retailer": "drechslerei_reiter",
     "shop": "gift",
     "latitude": 48.6012371,
-    "longitude": 15.1844119
+    "longitude": 15.1844119,
+    "postcode": "3910",
+    "city": "Zwettl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Effekta Regeltechnik Ges.m.b.H.",
     "retailer": "effekta_regeltechnik_ges_m_b_h",
     "shop": "electronics",
     "latitude": 48.6010622,
-    "longitude": 15.183504
+    "longitude": 15.183504,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 48.6024754,
-    "longitude": 15.1865194
+    "longitude": 15.1865194,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fussl",
@@ -73,14 +97,20 @@
     "shop": "clothes",
     "latitude": 48.6019656,
     "longitude": 15.1873481,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haarwunderland",
     "retailer": "haarwunderland",
     "shop": "hairdresser",
     "latitude": 48.604404,
-    "longitude": 15.1874012
+    "longitude": 15.1874012,
+    "postcode": "3910",
+    "city": "Zwettl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Intersport-Ruby",
@@ -88,14 +118,18 @@
     "shop": "sports",
     "latitude": 48.6015178,
     "longitude": 15.1880024,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Janda Anton, Actual Zwettl",
     "retailer": "janda_anton_actual_zwettl",
     "shop": "window_blind",
     "latitude": 48.6026841,
-    "longitude": 15.1848443
+    "longitude": 15.1848443,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -103,7 +137,10 @@
     "shop": "clothes",
     "latitude": 48.6007576,
     "longitude": 15.1872355,
-    "brand": "KiK"
+    "brand": "KiK",
+    "city": "Zwettl-Niederösterreich",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klier",
@@ -111,21 +148,29 @@
     "shop": "hairdresser",
     "latitude": 48.6012033,
     "longitude": 15.1876905,
-    "brand": "Klier"
+    "brand": "Klier",
+    "postcode": "3910",
+    "city": "Zwettl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Landlädchen",
     "retailer": "landladchen",
     "shop": "farm",
     "latitude": 48.6029563,
-    "longitude": 15.1848313
+    "longitude": 15.1848313,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lehenbauer Forst- & Gartentechnik",
     "retailer": "lehenbauer_forst_und_gartentechnik",
     "shop": "department_store",
     "latitude": 48.6040126,
-    "longitude": 15.183697
+    "longitude": 15.183697,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -133,7 +178,11 @@
     "shop": "supermarket",
     "latitude": 48.6026104,
     "longitude": 15.1825053,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "3910",
+    "city": "Zwettl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Matratzen Concord",
@@ -141,7 +190,10 @@
     "shop": "bed",
     "latitude": 48.6005724,
     "longitude": 15.1870587,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "city": "Zwettl-Niederösterreich",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mercedes Citroen Wiesenthal",
@@ -149,7 +201,9 @@
     "shop": "car",
     "latitude": 48.6044216,
     "longitude": 15.181297,
-    "brand": "Mercedes-Benz;Citroën;Leapmotor"
+    "brand": "Mercedes-Benz;Citroën;Leapmotor",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "New Yorker",
@@ -157,7 +211,9 @@
     "shop": "clothes",
     "latitude": 48.6016699,
     "longitude": 15.1881569,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -165,7 +221,10 @@
     "shop": "clothes",
     "latitude": 48.600897,
     "longitude": 15.1873489,
-    "brand": "NKD"
+    "brand": "NKD",
+    "city": "Zwettl-Niederösterreich",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "OBI",
@@ -173,7 +232,11 @@
     "shop": "doityourself",
     "latitude": 48.602641,
     "longitude": 15.1813358,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "3910",
+    "city": "Zwettl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Opel Erhart",
@@ -181,7 +244,11 @@
     "shop": "car",
     "latitude": 48.6004393,
     "longitude": 15.1847874,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "3910",
+    "city": "Zwettl-Niederösterreich",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -189,7 +256,10 @@
     "shop": "stationery",
     "latitude": 48.6004138,
     "longitude": 15.1869171,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "city": "Zwettl-Niederösterreich",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pearle",
@@ -197,14 +267,18 @@
     "shop": "optician",
     "latitude": 48.6018133,
     "longitude": 15.1872125,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Putzerei Allram",
     "retailer": "putzerei_allram",
     "shop": "dry_cleaning",
     "latitude": 48.602738,
-    "longitude": 15.1846509
+    "longitude": 15.1846509,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -212,7 +286,11 @@
     "shop": "supermarket",
     "latitude": 48.6009332,
     "longitude": 15.1851322,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3910",
+    "city": "Zwettl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -220,7 +298,9 @@
     "shop": "clothes",
     "latitude": 48.6013349,
     "longitude": 15.1878173,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -228,14 +308,20 @@
     "shop": "variety_store",
     "latitude": 48.600965,
     "longitude": 15.1895651,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Vinothek - HSW",
     "retailer": "vinothek_hsw",
     "shop": "wine",
     "latitude": 48.6029276,
-    "longitude": 15.1879835
+    "longitude": 15.1879835,
+    "postcode": "3910",
+    "city": "Zwettl-Niederösterreich",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Würth",
@@ -243,13 +329,17 @@
     "shop": "hardware",
     "latitude": 48.6036235,
     "longitude": 15.1820361,
-    "brand": "Würth"
+    "brand": "Würth",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zgonc",
     "retailer": "zgonc",
     "shop": "doityourself",
     "latitude": 48.6007208,
-    "longitude": 15.1893233
+    "longitude": 15.1893233,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

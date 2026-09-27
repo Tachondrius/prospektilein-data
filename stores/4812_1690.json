@@ -4,7 +4,11 @@
     "retailer": "bauwelt_koch",
     "shop": "doityourself",
     "latitude": 48.1278549,
-    "longitude": 16.9068464
+    "longitude": 16.9068464,
+    "postcode": "2405",
+    "city": "Bad Deutsch-Altenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,14 +16,22 @@
     "shop": "supermarket",
     "latitude": 48.1270535,
     "longitude": 16.9077191,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2405",
+    "city": "Bad Deutsch-Altenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dürnsteiner",
     "retailer": "durnsteiner",
     "shop": "houseware",
     "latitude": 48.1230987,
-    "longitude": 16.9063778
+    "longitude": 16.9063778,
+    "postcode": "2405",
+    "city": "Bad Deutsch-Altenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "OBI",
@@ -27,6 +39,10 @@
     "shop": "doityourself",
     "latitude": 48.1279729,
     "longitude": 16.9080975,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "2405",
+    "city": "Bad Deutsch-Altenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

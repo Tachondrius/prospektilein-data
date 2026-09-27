@@ -4,14 +4,22 @@
     "retailer": "anker",
     "shop": "bakery",
     "latitude": 48.2696409,
-    "longitude": 16.4239658
+    "longitude": 16.4239658,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen Halser",
     "retailer": "blumen_halser",
     "shop": "florist",
     "latitude": 48.262721,
-    "longitude": 16.4279476
+    "longitude": 16.4279476,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Eurospar",
@@ -19,7 +27,11 @@
     "shop": "supermarket",
     "latitude": 48.2683875,
     "longitude": 16.4293034,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -27,14 +39,22 @@
     "shop": "supermarket",
     "latitude": 48.2678655,
     "longitude": 16.4282018,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kfz-Peter",
     "retailer": "kfz_peter",
     "shop": "car_repair",
     "latitude": 48.2686651,
-    "longitude": 16.4282917
+    "longitude": 16.4282917,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lidl",
@@ -42,7 +62,11 @@
     "shop": "supermarket",
     "latitude": 48.2635618,
     "longitude": 16.4288197,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "MyPlace-SelfStorage",
@@ -50,7 +74,9 @@
     "shop": "storage_rental",
     "latitude": 48.2657598,
     "longitude": 16.4297865,
-    "brand": "MyPlace-SelfStorage"
+    "brand": "MyPlace-SelfStorage",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Opel & Beyschlag",
@@ -58,7 +84,11 @@
     "shop": "car",
     "latitude": 48.2627241,
     "longitude": 16.4242885,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "PENNY",
@@ -66,7 +96,11 @@
     "shop": "supermarket",
     "latitude": 48.2663526,
     "longitude": 16.428371,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Porsche Leopoldauerstraße",
@@ -74,7 +108,11 @@
     "shop": "car",
     "latitude": 48.2614882,
     "longitude": 16.4231773,
-    "brand": "Porsche;VW;Skoda;Seat"
+    "brand": "Porsche;VW;Skoda;Seat",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Porsche Wien-Leopoldauer Straße",
@@ -82,13 +120,19 @@
     "shop": "car_repair",
     "latitude": 48.2614882,
     "longitude": 16.4224337,
-    "brand": "Porsche"
+    "brand": "Porsche",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Shop",
     "retailer": "shop",
     "shop": "convenience",
     "latitude": 48.2671149,
-    "longitude": 16.4291284
+    "longitude": 16.4291284,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

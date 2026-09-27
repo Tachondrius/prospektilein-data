@@ -5,21 +5,30 @@
     "shop": "car",
     "latitude": 47.8330499,
     "longitude": 13.0869026,
-    "brand": "used"
+    "brand": "used",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Autofuchs",
     "retailer": "autofuchs",
     "shop": "car",
     "latitude": 47.831287,
-    "longitude": 13.0836816
+    "longitude": 13.0836816,
+    "postcode": "5300",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "computer service hard+soft",
     "retailer": "computer_service_hard_plus_soft",
     "shop": "computer",
     "latitude": 47.8334261,
-    "longitude": 13.086486
+    "longitude": 13.086486,
+    "postcode": "5300",
+    "city": "Hallwang",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -27,27 +36,39 @@
     "shop": "supermarket",
     "latitude": 47.8301532,
     "longitude": 13.0830749,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5300",
+    "city": "Hallwang",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Metzgerei Auernig",
     "retailer": "metzgerei_auernig",
     "shop": "butcher",
     "latitude": 47.8320776,
-    "longitude": 13.086259
+    "longitude": 13.086259,
+    "postcode": "5300",
+    "city": "Hallwang",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MOTO-Z Motorenteile - Handel",
     "retailer": "moto_z_motorenteile_handel",
     "shop": "car_parts",
     "latitude": 47.8340458,
-    "longitude": 13.0836173
+    "longitude": 13.0836173,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Thomas Wallner",
     "retailer": "thomas_wallner",
     "shop": "car_repair",
     "latitude": 47.8388736,
-    "longitude": 13.089594
+    "longitude": 13.089594,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

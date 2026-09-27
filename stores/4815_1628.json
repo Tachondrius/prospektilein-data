@@ -4,27 +4,41 @@
     "retailer": "bike_fit",
     "shop": "bicycle",
     "latitude": 48.1582499,
-    "longitude": 16.2800328
+    "longitude": 16.2800328,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Feinkost",
     "retailer": "feinkost",
     "shop": "convenience",
     "latitude": 48.1568255,
-    "longitude": 16.2868897
+    "longitude": 16.2868897,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Signore",
     "retailer": "signore",
     "shop": "hairdresser",
     "latitude": 48.1514829,
-    "longitude": 16.2842548
+    "longitude": 16.2842548,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Supermarkt Am Spiegeln",
     "retailer": "supermarkt_am_spiegeln",
     "shop": "convenience",
     "latitude": 48.1526303,
-    "longitude": 16.2818689
+    "longitude": 16.2818689,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "shop_bicycle",
     "shop": "bicycle",
     "latitude": 47.6066311,
-    "longitude": 15.6742834
+    "longitude": 15.6742834,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -12,14 +14,20 @@
     "shop": "chemist",
     "latitude": 47.6057661,
     "longitude": 15.6746364,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "carla",
     "retailer": "carla",
     "shop": "charity",
     "latitude": 47.6060343,
-    "longitude": 15.6752157
+    "longitude": 15.6752157,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -27,63 +35,89 @@
     "shop": "chemist",
     "latitude": 47.6059413,
     "longitude": 15.6731613,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ebner digitalexpress",
     "retailer": "ebner_digitalexpress",
     "shop": "photo",
     "latitude": 47.60601,
-    "longitude": 15.6764932
+    "longitude": 15.6764932,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisiersalon Sonja Lueger",
     "retailer": "frisiersalon_sonja_lueger",
     "shop": "hairdresser",
     "latitude": 47.6057887,
-    "longitude": 15.6727753
+    "longitude": 15.6727753,
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisör Annemarie",
     "retailer": "frisor_annemarie",
     "shop": "hairdresser",
     "latitude": 47.6054375,
-    "longitude": 15.6720951
+    "longitude": 15.6720951,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisör u. Shop RED HAIR",
     "retailer": "frisor_u_shop_red_hair",
     "shop": "hairdresser",
     "latitude": 47.6074189,
-    "longitude": 15.6711795
+    "longitude": 15.6711795,
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fuchs",
     "retailer": "fuchs",
     "shop": "clothes",
     "latitude": 47.606027,
-    "longitude": 15.6725171
+    "longitude": 15.6725171,
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Glas Zottl",
     "retailer": "glas_zottl",
     "shop": "glaziery",
     "latitude": 47.6058912,
-    "longitude": 15.6768717
+    "longitude": 15.6768717,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gutschelhofer",
     "retailer": "gutschelhofer",
     "shop": "butcher",
     "latitude": 47.6060069,
-    "longitude": 15.6745563
+    "longitude": 15.6745563,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.6068669,
-    "longitude": 15.6743371
+    "longitude": 15.6743371,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hartlauer",
@@ -91,63 +125,91 @@
     "shop": "electronics",
     "latitude": 47.6066191,
     "longitude": 15.6736924,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Köck",
     "retailer": "kock",
     "shop": "bakery",
     "latitude": 47.6062638,
-    "longitude": 15.6797022
+    "longitude": 15.6797022,
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Köck",
     "retailer": "kock",
     "shop": "bakery",
     "latitude": 47.6063058,
-    "longitude": 15.6737854
+    "longitude": 15.6737854,
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Köck",
     "retailer": "kock",
     "shop": "bakery",
     "latitude": 47.6076752,
-    "longitude": 15.6769883
+    "longitude": 15.6769883,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Optik Wutscher",
     "retailer": "optik_wutscher",
     "shop": "optician",
     "latitude": 47.6066541,
-    "longitude": 15.6741119
+    "longitude": 15.6741119,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PC plus",
     "retailer": "pc_plus",
     "shop": "computer",
     "latitude": 47.6059962,
-    "longitude": 15.671332
+    "longitude": 15.671332,
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rammer Hüte",
     "retailer": "rammer_hute",
     "shop": "clothes",
     "latitude": 47.6070213,
-    "longitude": 15.674808
+    "longitude": 15.674808,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "red zac Mürz",
     "retailer": "red_zac_murz",
     "shop": "electronics",
     "latitude": 47.6060102,
-    "longitude": 15.6722145
+    "longitude": 15.6722145,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sommer",
     "retailer": "sommer",
     "shop": "shoes",
     "latitude": 47.6059689,
-    "longitude": 15.671874
+    "longitude": 15.671874,
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -155,28 +217,40 @@
     "shop": "supermarket",
     "latitude": 47.6062862,
     "longitude": 15.6730184,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Speiskammerl",
     "retailer": "speiskammerl",
     "shop": "farm",
     "latitude": 47.6067087,
-    "longitude": 15.6728298
+    "longitude": 15.6728298,
+    "postcode": "8680",
+    "city": "Mürzzuschlag",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stolz",
     "retailer": "stolz",
     "shop": "shoes",
     "latitude": 47.6065716,
-    "longitude": 15.6742065
+    "longitude": 15.6742065,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tanja Ratajc - Pölzl",
     "retailer": "tanja_ratajc_polzl",
     "shop": "kiosk",
     "latitude": 47.606639,
-    "longitude": 15.6738631
+    "longitude": 15.6738631,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -184,27 +258,35 @@
     "shop": "variety_store",
     "latitude": 47.6059505,
     "longitude": 15.6738552,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Völkerer",
     "retailer": "volkerer",
     "shop": "interior_decoration",
     "latitude": 47.6060127,
-    "longitude": 15.6750328
+    "longitude": 15.6750328,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ÖBB",
     "retailer": "obb",
     "shop": "ticket",
     "latitude": 47.6077392,
-    "longitude": 15.6771906
+    "longitude": 15.6771906,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Öptik Döllerer",
     "retailer": "optik_dollerer",
     "shop": "optician",
     "latitude": 47.6064189,
-    "longitude": 15.6725606
+    "longitude": 15.6725606,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

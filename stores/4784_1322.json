@@ -4,7 +4,11 @@
     "retailer": "bestattung_schoosleitner",
     "shop": "funeral_directors",
     "latitude": 47.8457564,
-    "longitude": 13.2289394
+    "longitude": 13.2289394,
+    "postcode": "5303",
+    "city": "Thalgau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa stop & shop",
@@ -12,34 +16,52 @@
     "shop": "convenience",
     "latitude": 47.8478689,
     "longitude": 13.2213153,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "postcode": "5303",
+    "city": "Thalgau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Biohofladen Wofalbauer",
     "retailer": "biohofladen_wofalbauer",
     "shop": "farm",
     "latitude": 47.8441116,
-    "longitude": 13.2282771
+    "longitude": 13.2282771,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "L&E Fahrzeugausstatter",
     "retailer": "l_und_e_fahrzeugausstatter",
     "shop": "car_repair",
     "latitude": 47.8470567,
-    "longitude": 13.2243535
+    "longitude": 13.2243535,
+    "postcode": "5303",
+    "city": "Thalgau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Rauscher Tuning",
     "retailer": "rauscher_tuning",
     "shop": "car_repair",
     "latitude": 47.8474971,
-    "longitude": 13.223939
+    "longitude": 13.223939,
+    "postcode": "5303",
+    "city": "Thalgau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Te Ta Re Fundgrube",
     "retailer": "te_ta_re_fundgrube",
     "shop": "second_hand",
     "latitude": 47.8446675,
-    "longitude": 13.2288212
+    "longitude": 13.2288212,
+    "postcode": "5303",
+    "city": "Thalgau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -5,27 +5,41 @@
     "shop": "yes",
     "latitude": 48.642537,
     "longitude": 15.8163399,
-    "brand": "Automaten Maxxx"
+    "brand": "Automaten Maxxx",
+    "postcode": "3730",
+    "city": "Eggenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gilli Mühle - Shop",
     "retailer": "gilli_muhle_shop",
     "shop": "yes",
     "latitude": 48.6454553,
-    "longitude": 15.8139516
+    "longitude": 15.8139516,
+    "postcode": "3730",
+    "city": "Eggenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gilli Optik",
     "retailer": "gilli_optik",
     "shop": "optician",
     "latitude": 48.6413527,
-    "longitude": 15.8176877
+    "longitude": 15.8176877,
+    "postcode": "3730",
+    "city": "Eggenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tutschek",
     "retailer": "tutschek",
     "shop": "florist",
     "latitude": 48.6425907,
-    "longitude": 15.8160823
+    "longitude": 15.8160823,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

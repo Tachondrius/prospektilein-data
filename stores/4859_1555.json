@@ -4,7 +4,9 @@
     "retailer": "raiffeisen_lagerhaus_wolfshoferamt",
     "shop": "car_repair",
     "latitude": 48.5944607,
-    "longitude": 15.5517332
+    "longitude": 15.5517332,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -12,6 +14,8 @@
     "shop": "supermarket",
     "latitude": 48.5943064,
     "longitude": 15.5517171,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

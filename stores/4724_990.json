@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.2472463,
     "longitude": 9.9090079,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "D'Obergrechter Bäck",
     "retailer": "d_obergrechter_back",
     "shop": "bakery",
     "latitude": 47.2472544,
-    "longitude": 9.9090487
+    "longitude": 9.9090487,
+    "postcode": "6733",
+    "city": "Fontanella",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

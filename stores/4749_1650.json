@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 47.4916417,
     "longitude": 16.5039122,
-    "brand": "Mercedes-Benz;Smart;Citroën"
+    "brand": "Mercedes-Benz;Smart;Citroën",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bipa",
@@ -13,21 +15,31 @@
     "shop": "chemist",
     "latitude": 47.4980104,
     "longitude": 16.5076572,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "7350",
+    "city": "Oberpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bäckerei Koll",
     "retailer": "backerei_koll",
     "shop": "bakery",
     "latitude": 47.4959067,
-    "longitude": 16.5095025
+    "longitude": 16.5095025,
+    "postcode": "7350",
+    "city": "Oberpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.4919896,
-    "longitude": 16.5037941
+    "longitude": 16.5037941,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hofer",
@@ -35,7 +47,11 @@
     "shop": "supermarket",
     "latitude": 47.4947879,
     "longitude": 16.5096209,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "7350",
+    "city": "Oberpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Porsche Oberpullendorf",
@@ -43,14 +59,20 @@
     "shop": "car",
     "latitude": 47.491413,
     "longitude": 16.5033172,
-    "brand": "VW;Audi"
+    "brand": "VW;Audi",
+    "postcode": "7350",
+    "city": "Oberpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "RED ZAC",
     "retailer": "red_zac",
     "shop": "electronics",
     "latitude": 47.4974255,
-    "longitude": 16.506869
+    "longitude": 16.506869,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -58,13 +80,19 @@
     "shop": "supermarket",
     "latitude": 47.4940919,
     "longitude": 16.5082466,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7350",
+    "city": "Oberpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Velothek",
     "retailer": "velothek",
     "shop": "bicycle",
     "latitude": 47.4976498,
-    "longitude": 16.5067876
+    "longitude": 16.5067876,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "automatenshop_twenty4seven",
     "shop": "vending_machine",
     "latitude": 47.2613444,
-    "longitude": 11.3674955
+    "longitude": 11.3674955,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,7 +14,11 @@
     "shop": "bakery",
     "latitude": 47.2618005,
     "longitude": 11.3646327,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa Now",
@@ -20,7 +26,9 @@
     "shop": "convenience",
     "latitude": 47.2644767,
     "longitude": 11.3657051,
-    "brand": "Billa Now"
+    "brand": "Billa Now",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa Unterwegs",
@@ -28,21 +36,29 @@
     "shop": "convenience",
     "latitude": 47.2648898,
     "longitude": 11.3688338,
-    "brand": "Billa Unterwegs"
+    "brand": "Billa Unterwegs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "FHE Gastro",
     "retailer": "fhe_gastro",
     "shop": "kitchen",
     "latitude": 47.2649129,
-    "longitude": 11.3676316
+    "longitude": 11.3676316,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fratelli",
     "retailer": "fratelli",
     "shop": "hairdresser",
     "latitude": 47.2616019,
-    "longitude": 11.3674424
+    "longitude": 11.3674424,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -50,20 +66,30 @@
     "shop": "supermarket",
     "latitude": 47.2617976,
     "longitude": 11.364734,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Skinfit",
     "retailer": "skinfit",
     "shop": "sports",
     "latitude": 47.2649576,
-    "longitude": 11.369776
+    "longitude": 11.369776,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tirolsail",
     "retailer": "tirolsail",
     "shop": "sports",
     "latitude": 47.2600033,
-    "longitude": 11.3641307
+    "longitude": 11.3641307,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

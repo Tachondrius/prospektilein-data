@@ -4,7 +4,9 @@
     "retailer": "carla",
     "shop": "clothes",
     "latitude": 47.4385689,
-    "longitude": 15.2874771
+    "longitude": 15.2874771,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -12,27 +14,37 @@
     "shop": "supermarket",
     "latitude": 47.4382779,
     "longitude": 15.2867692,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hollik",
     "retailer": "hollik",
     "shop": "bakery",
     "latitude": 47.4390606,
-    "longitude": 15.2890151
+    "longitude": 15.2890151,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schneidhofer",
     "retailer": "schneidhofer",
     "shop": "kiosk",
     "latitude": 47.4387267,
-    "longitude": 15.2866386
+    "longitude": 15.2866386,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zauberer",
     "retailer": "zauberer",
     "shop": "hairdresser",
     "latitude": 47.4392776,
-    "longitude": 15.2894569
+    "longitude": 15.2894569,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

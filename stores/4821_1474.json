@@ -4,7 +4,9 @@
     "retailer": "autohaus_gmeiner",
     "shop": "car",
     "latitude": 48.2157568,
-    "longitude": 14.7436014
+    "longitude": 14.7436014,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 48.210329,
     "longitude": 14.7417071,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4342",
+    "city": "Baumgartenberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,20 +5,26 @@
     "shop": "kiosk",
     "latitude": 48.1562911,
     "longitude": 15.1138562,
-    "brand": "Shell"
+    "brand": "Shell",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reifen Nemetz GmbH",
     "retailer": "reifen_nemetz_gmbh",
     "shop": "tyres",
     "latitude": 48.1560815,
-    "longitude": 15.1141043
+    "longitude": 15.1141043,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weinberger Bäckerei",
     "retailer": "weinberger_backerei",
     "shop": "bakery",
     "latitude": 48.1569723,
-    "longitude": 15.1127593
+    "longitude": 15.1127593,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

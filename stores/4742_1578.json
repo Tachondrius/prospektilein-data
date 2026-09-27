@@ -4,7 +4,11 @@
     "retailer": "moden_posch",
     "shop": "clothes",
     "latitude": 47.4262172,
-    "longitude": 15.789609
+    "longitude": 15.789609,
+    "postcode": "8254",
+    "city": "Wenigzell",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +16,8 @@
     "shop": "supermarket",
     "latitude": 47.4264505,
     "longitude": 15.7881354,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,20 +4,28 @@
     "retailer": "retzer_delikatessen",
     "shop": "convenience",
     "latitude": 48.7694771,
-    "longitude": 15.9436481
+    "longitude": 15.9436481,
+    "postcode": "2070",
+    "city": "Retz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Donn",
     "retailer": "weingut_donn",
     "shop": "wine",
     "latitude": 48.7681885,
-    "longitude": 15.948688
+    "longitude": 15.948688,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Familie Schnabl",
     "retailer": "weingut_familie_schnabl",
     "shop": "wine",
     "latitude": 48.7672788,
-    "longitude": 15.9495139
+    "longitude": 15.9495139,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,21 +5,31 @@
     "shop": "chemist",
     "latitude": 48.2008046,
     "longitude": 15.402344,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "3382",
+    "city": "Loosdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Schlögl",
     "retailer": "blumen_schlogl",
     "shop": "florist",
     "latitude": 48.2005194,
-    "longitude": 15.4000345
+    "longitude": 15.4000345,
+    "postcode": "3382",
+    "city": "Loosdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Papeterie Loosdorf",
     "retailer": "papeterie_loosdorf",
     "shop": "stationery",
     "latitude": 48.2006504,
-    "longitude": 15.4008414
+    "longitude": 15.4008414,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -27,13 +37,21 @@
     "shop": "supermarket",
     "latitude": 48.2007662,
     "longitude": 15.4025371,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3382",
+    "city": "Loosdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ZIWA Loosdorf",
     "retailer": "ziwa_loosdorf",
     "shop": "mall",
     "latitude": 48.2004935,
-    "longitude": 15.4024485
+    "longitude": 15.4024485,
+    "postcode": "3382",
+    "city": "Loosdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

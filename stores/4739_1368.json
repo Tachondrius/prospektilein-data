@@ -4,28 +4,36 @@
     "retailer": "a_wanke_fleisch_und_wurst",
     "shop": "butcher",
     "latitude": 47.3919061,
-    "longitude": 13.6849652
+    "longitude": 13.6849652,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Angerer",
     "retailer": "angerer",
     "shop": "jewelry",
     "latitude": 47.3918957,
-    "longitude": 13.6899989
+    "longitude": 13.6899989,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ARTiSAN",
     "retailer": "artisan",
     "shop": "gift",
     "latitude": 47.3935177,
-    "longitude": 13.6866904
+    "longitude": 13.6866904,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "b Store",
     "retailer": "b_store",
     "shop": "clothes",
     "latitude": 47.3915265,
-    "longitude": 13.6880509
+    "longitude": 13.6880509,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -33,14 +41,20 @@
     "shop": "supermarket",
     "latitude": 47.3929075,
     "longitude": 13.6831543,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Birgit Seggl",
     "retailer": "birgit_seggl",
     "shop": "florist",
     "latitude": 47.3936067,
-    "longitude": 13.6870591
+    "longitude": 13.6870591,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blue Tomato",
@@ -48,7 +62,9 @@
     "shop": "clothes",
     "latitude": 47.3911854,
     "longitude": 13.6892485,
-    "brand": "Blue Tomato"
+    "brand": "Blue Tomato",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "BONITA",
@@ -56,35 +72,49 @@
     "shop": "clothes",
     "latitude": 47.3916553,
     "longitude": 13.6892622,
-    "brand": "BONITA"
+    "brand": "BONITA",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Boutique Trude",
     "retailer": "boutique_trude",
     "shop": "clothes",
     "latitude": 47.3921133,
-    "longitude": 13.6877644
+    "longitude": 13.6877644,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Lasser",
     "retailer": "backerei_lasser",
     "shop": "bakery",
     "latitude": 47.3939554,
-    "longitude": 13.6872897
+    "longitude": 13.6872897,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Centro Shopping",
     "retailer": "centro_shopping",
     "shop": "mall",
     "latitude": 47.392591,
-    "longitude": 13.6885067
+    "longitude": 13.6885067,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Colour, Cut & Styling",
     "retailer": "colour_cut_und_styling",
     "shop": "hairdresser",
     "latitude": 47.3935618,
-    "longitude": 13.6868819
+    "longitude": 13.6868819,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deichmann",
@@ -92,56 +122,80 @@
     "shop": "shoes",
     "latitude": 47.3941855,
     "longitude": 13.6837729,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Der kleine Laden",
     "retailer": "der_kleine_laden",
     "shop": "convenience",
     "latitude": 47.3922846,
-    "longitude": 13.6849108
+    "longitude": 13.6849108,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "der weinfinder",
     "retailer": "der_weinfinder",
     "shop": "wine",
     "latitude": 47.3917752,
-    "longitude": 13.6894511
+    "longitude": 13.6894511,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Druckerei Rettenbacher",
     "retailer": "druckerei_rettenbacher",
     "shop": "printing",
     "latitude": 47.3929005,
-    "longitude": 13.6821913
+    "longitude": 13.6821913,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "edelfein",
     "retailer": "edelfein",
     "shop": "clothes",
     "latitude": 47.3914492,
-    "longitude": 13.6876668
+    "longitude": 13.6876668,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ennstal IT",
     "retailer": "ennstal_it",
     "shop": "computer",
     "latitude": 47.3967684,
-    "longitude": 13.6843132
+    "longitude": 13.6843132,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eurogast",
     "retailer": "eurogast",
     "shop": "supermarket",
     "latitude": 47.393984,
-    "longitude": 13.681571
+    "longitude": 13.681571,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Renate",
     "retailer": "friseur_renate",
     "shop": "hairdresser",
     "latitude": 47.3911051,
-    "longitude": 13.6848117
+    "longitude": 13.6848117,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fussl",
@@ -149,56 +203,76 @@
     "shop": "clothes",
     "latitude": 47.3930973,
     "longitude": 13.6830967,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gipfellust",
     "retailer": "gipfellust",
     "shop": "outdoor",
     "latitude": 47.3920516,
-    "longitude": 13.6894593
+    "longitude": 13.6894593,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Glaserei Gruber",
     "retailer": "glaserei_gruber",
     "shop": "hairdresser",
     "latitude": 47.3915701,
-    "longitude": 13.6834169
+    "longitude": 13.6834169,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haarkunst",
     "retailer": "haarkunst",
     "shop": "hairdresser",
     "latitude": 47.3927456,
-    "longitude": 13.6847226
+    "longitude": 13.6847226,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofladen",
     "retailer": "hofladen",
     "shop": "butcher",
     "latitude": 47.3925234,
-    "longitude": 13.6880856
+    "longitude": 13.6880856,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Holzernte Royer",
     "retailer": "holzernte_royer",
     "shop": "wood",
     "latitude": 47.3944801,
-    "longitude": 13.6831344
+    "longitude": 13.6831344,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Holzmüller",
     "retailer": "holzmuller",
     "shop": "toys",
     "latitude": 47.3909833,
-    "longitude": 13.685884
+    "longitude": 13.685884,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Huti‘s Schnoppsideen",
     "retailer": "hutis_schnoppsideen",
     "shop": "alcohol",
     "latitude": 47.3913398,
-    "longitude": 13.6877696
+    "longitude": 13.6877696,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intersport",
@@ -206,14 +280,22 @@
     "shop": "sports",
     "latitude": 47.3915927,
     "longitude": 13.6882085,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KA - RO Autoservice",
     "retailer": "ka_ro_autoservice",
     "shop": "car_repair",
     "latitude": 47.3942249,
-    "longitude": 13.6817924
+    "longitude": 13.6817924,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
@@ -221,7 +303,11 @@
     "shop": "hairdresser",
     "latitude": 47.3931951,
     "longitude": 13.6847953,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Libro",
@@ -229,35 +315,45 @@
     "shop": "stationery",
     "latitude": 47.3918176,
     "longitude": 13.6896031,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lieblingsstück",
     "retailer": "lieblingsstuck",
     "shop": "clothes",
     "latitude": 47.3921838,
-    "longitude": 13.6882932
+    "longitude": 13.6882932,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Luis Trenker",
     "retailer": "luis_trenker",
     "shop": "clothes",
     "latitude": 47.3913908,
-    "longitude": 13.6877245
+    "longitude": 13.6877245,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "M & M Friseur",
     "retailer": "m_und_m_friseur",
     "shop": "hairdresser",
     "latitude": 47.3904944,
-    "longitude": 13.6871795
+    "longitude": 13.6871795,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mammiladen",
     "retailer": "mammiladen",
     "shop": "clothes",
     "latitude": 47.3920634,
-    "longitude": 13.689312
+    "longitude": 13.689312,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -265,35 +361,51 @@
     "shop": "clothes",
     "latitude": 47.3921121,
     "longitude": 13.6880835,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Orthofit",
     "retailer": "orthofit",
     "shop": "medical_supply",
     "latitude": 47.390634,
-    "longitude": 13.6883173
+    "longitude": 13.6883173,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Prima Flora",
     "retailer": "prima_flora",
     "shop": "florist",
     "latitude": 47.390867,
-    "longitude": 13.6855281
+    "longitude": 13.6855281,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Radsport Werner",
     "retailer": "radsport_werner",
     "shop": "bicycle",
     "latitude": 47.3913149,
-    "longitude": 13.6853796
+    "longitude": 13.6853796,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Raumdesign Egger",
     "retailer": "raumdesign_egger",
     "shop": "furniture",
     "latitude": 47.3903111,
-    "longitude": 13.68999
+    "longitude": 13.68999,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Red Zac",
@@ -301,28 +413,42 @@
     "shop": "electronics",
     "latitude": 47.391342,
     "longitude": 13.6883336,
-    "brand": "Red Zac"
+    "brand": "Red Zac",
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rohrmoser",
     "retailer": "rohrmoser",
     "shop": "hairdresser",
     "latitude": 47.3925068,
-    "longitude": 13.6884914
+    "longitude": 13.6884914,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schrottshammer Getränkemarkt",
     "retailer": "schrottshammer_getrankemarkt",
     "shop": "beverages",
     "latitude": 47.3930695,
-    "longitude": 13.6805496
+    "longitude": 13.6805496,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schuhe Weitgasser",
     "retailer": "schuhe_weitgasser",
     "shop": "shoes",
     "latitude": 47.3913853,
-    "longitude": 13.6884706
+    "longitude": 13.6884706,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Shell Shop",
@@ -330,14 +456,20 @@
     "shop": "convenience",
     "latitude": 47.3915205,
     "longitude": 13.6822428,
-    "brand": "Shell Shop"
+    "brand": "Shell Shop",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Siegert Jagd",
     "retailer": "siegert_jagd",
     "shop": "hunting",
     "latitude": 47.3908828,
-    "longitude": 13.6853542
+    "longitude": 13.6853542,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -345,28 +477,44 @@
     "shop": "supermarket",
     "latitude": 47.3913717,
     "longitude": 13.6830634,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sports",
     "retailer": "shop_sports",
     "shop": "sports",
     "latitude": 47.3915952,
-    "longitude": 13.6870205
+    "longitude": 13.6870205,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Steiner 1888",
     "retailer": "steiner_1888",
     "shop": "clothes",
     "latitude": 47.3916925,
-    "longitude": 13.6884555
+    "longitude": 13.6884555,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak-Trafik Peter Fritzenwallner",
     "retailer": "tabak_trafik_peter_fritzenwallner",
     "shop": "kiosk",
     "latitude": 47.3919146,
-    "longitude": 13.6894287
+    "longitude": 13.6894287,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Takko Fashion",
@@ -374,14 +522,18 @@
     "shop": "clothes",
     "latitude": 47.3942499,
     "longitude": 13.6838335,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "teresa",
     "retailer": "teresa",
     "shop": "clothes",
     "latitude": 47.392169,
-    "longitude": 13.6879018
+    "longitude": 13.6879018,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tom Tailor",
@@ -389,28 +541,36 @@
     "shop": "clothes",
     "latitude": 47.3919539,
     "longitude": 13.6877708,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trachtenmode",
     "retailer": "trachtenmode",
     "shop": "clothes",
     "latitude": 47.391671,
-    "longitude": 13.6866216
+    "longitude": 13.6866216,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.392586,
-    "longitude": 13.6881144
+    "longitude": 13.6881144,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik und 3 mal Zigarettenautomat",
     "retailer": "trafik_und_3_mal_zigarettenautomat",
     "shop": "kiosk",
     "latitude": 47.3913802,
-    "longitude": 13.6863858
+    "longitude": 13.6863858,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Volkswagen",
@@ -418,41 +578,55 @@
     "shop": "car",
     "latitude": 47.3957322,
     "longitude": 13.6833113,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vronis Gwandl",
     "retailer": "vronis_gwandl",
     "shop": "clothes",
     "latitude": 47.3920789,
-    "longitude": 13.6886218
+    "longitude": 13.6886218,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Weitgasser",
     "retailer": "weitgasser",
     "shop": "shoes",
     "latitude": 47.3931459,
-    "longitude": 13.6848791
+    "longitude": 13.6848791,
+    "postcode": "8970",
+    "city": "Schladming",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wieser",
     "retailer": "wieser",
     "shop": "bakery",
     "latitude": 47.3914134,
-    "longitude": 13.6867013
+    "longitude": 13.6867013,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Worsch-Kuchl",
     "retailer": "worsch_kuchl",
     "shop": "laundry",
     "latitude": 47.393695,
-    "longitude": 13.681044
+    "longitude": 13.681044,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "wutcher",
     "retailer": "wutcher",
     "shop": "optician",
     "latitude": 47.3916184,
-    "longitude": 13.6890823
+    "longitude": 13.6890823,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

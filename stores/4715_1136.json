@@ -5,14 +5,20 @@
     "shop": "sports",
     "latitude": 47.158537,
     "longitude": 11.3684623,
-    "brand": "Kohla"
+    "brand": "Kohla",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lias GmbH",
     "retailer": "lias_gmbh",
     "shop": "car_repair",
     "latitude": 47.1591419,
-    "longitude": 11.3623162
+    "longitude": 11.3623162,
+    "postcode": "6142",
+    "city": "Mieders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -20,6 +26,8 @@
     "shop": "supermarket",
     "latitude": 47.1598641,
     "longitude": 11.3681101,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

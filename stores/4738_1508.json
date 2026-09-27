@@ -4,14 +4,18 @@
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.3862885,
-    "longitude": 15.0897633
+    "longitude": 15.0897633,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reisebüro am Bahnhof",
     "retailer": "reiseburo_am_bahnhof",
     "shop": "travel_agency",
     "latitude": 47.3863697,
-    "longitude": 15.0898202
+    "longitude": 15.0898202,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -19,13 +23,19 @@
     "shop": "supermarket",
     "latitude": 47.3861214,
     "longitude": 15.0896963,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Turbo Sun",
     "retailer": "turbo_sun",
     "shop": "beauty",
     "latitude": 47.380447,
-    "longitude": 15.0869618
+    "longitude": 15.0869618,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

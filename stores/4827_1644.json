@@ -4,7 +4,9 @@
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 48.2716785,
-    "longitude": 16.4474559
+    "longitude": 16.4474559,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 48.2728065,
     "longitude": 16.4462412,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -20,21 +26,31 @@
     "shop": "chemist",
     "latitude": 48.2721591,
     "longitude": 16.4463239,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Confiserie Heindl",
     "retailer": "confiserie_heindl",
     "shop": "confectionery",
     "latitude": 48.2716071,
-    "longitude": 16.4465084
+    "longitude": 16.4465084,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Desim Supermarkt",
     "retailer": "desim_supermarkt",
     "shop": "supermarket",
     "latitude": 48.2713885,
-    "longitude": 16.4466023
+    "longitude": 16.4466023,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ernsting's family",
@@ -42,56 +58,83 @@
     "shop": "clothes",
     "latitude": 48.271792,
     "longitude": 16.4465014,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Eurospar",
     "retailer": "eurospar",
     "shop": "supermarket",
     "latitude": 48.2715432,
-    "longitude": 16.445925
+    "longitude": 16.445925,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fischerhütte 21",
     "retailer": "fischerhutte_21",
     "shop": "seafood",
     "latitude": 48.2719169,
-    "longitude": 16.4460976
+    "longitude": 16.4460976,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Frisör Hollywood",
     "retailer": "frisor_hollywood",
     "shop": "hairdresser",
     "latitude": 48.2749715,
-    "longitude": 16.4453937
+    "longitude": 16.4453937,
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Großfeldzentrum",
     "retailer": "grofeldzentrum",
     "shop": "mall",
     "latitude": 48.2719815,
-    "longitude": 16.4459444
+    "longitude": 16.4459444,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Heilsarmee Österreich, FahrradFreundeFloridsdorf",
     "retailer": "heilsarmee_osterreich_fahrradfreundefloridsdorf",
     "shop": "bicycle",
     "latitude": 48.2737454,
-    "longitude": 16.4418777
+    "longitude": 16.4418777,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Honig & Co ImkereiMeisterBetrieb",
     "retailer": "honig_und_co_imkereimeisterbetrieb",
     "shop": "honey",
     "latitude": 48.2726413,
-    "longitude": 16.4460771
+    "longitude": 16.4460771,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.2725485,
-    "longitude": 16.4458135
+    "longitude": 16.4458135,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -99,14 +142,20 @@
     "shop": "supermarket",
     "latitude": 48.2720359,
     "longitude": 16.4463657,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Rosy's",
     "retailer": "rosy_s",
     "shop": "outpost",
     "latitude": 48.2740626,
-    "longitude": 16.4456835
+    "longitude": 16.4456835,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ströck",
@@ -114,27 +163,42 @@
     "shop": "bakery",
     "latitude": 48.271799,
     "longitude": 16.4461381,
-    "brand": "Ströck"
+    "brand": "Ströck",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.2728212,
-    "longitude": 16.4466811
+    "longitude": 16.4466811,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.2733782,
-    "longitude": 16.4465094
+    "longitude": 16.4465094,
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trend Hair",
     "retailer": "trend_hair",
     "shop": "hairdresser",
     "latitude": 48.2726454,
-    "longitude": 16.445928
+    "longitude": 16.445928,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

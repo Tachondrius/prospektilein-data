@@ -4,28 +4,36 @@
     "retailer": "bestattung_taucher",
     "shop": "funeral_directors",
     "latitude": 47.0863848,
-    "longitude": 15.9267922
+    "longitude": 15.9267922,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.0873146,
-    "longitude": 15.9207719
+    "longitude": 15.9207719,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gabriela's Team",
     "retailer": "gabriela_s_team",
     "shop": "hairdresser",
     "latitude": 47.086525,
-    "longitude": 15.9256702
+    "longitude": 15.9256702,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gertrud Grosnik",
     "retailer": "gertrud_grosnik",
     "shop": "hairdresser",
     "latitude": 47.0864588,
-    "longitude": 15.9275067
+    "longitude": 15.9275067,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -33,35 +41,47 @@
     "shop": "clothes",
     "latitude": 47.0856278,
     "longitude": 15.9254072,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8262",
+    "city": "Ilz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kiosk",
     "retailer": "kiosk",
     "shop": "convenience",
     "latitude": 47.0864077,
-    "longitude": 15.9249466
+    "longitude": 15.9249466,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lutterschmied",
     "retailer": "lutterschmied",
     "shop": "doityourself",
     "latitude": 47.0834037,
-    "longitude": 15.9229014
+    "longitude": 15.9229014,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Magye Friseur- und Nagelstudio",
     "retailer": "magye_friseur_und_nagelstudio",
     "shop": "hairdresser",
     "latitude": 47.0862351,
-    "longitude": 15.9297918
+    "longitude": 15.9297918,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mild",
     "retailer": "mild",
     "shop": "bakery",
     "latitude": 47.0865763,
-    "longitude": 15.9242115
+    "longitude": 15.9242115,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch",
@@ -69,28 +89,38 @@
     "shop": "supermarket",
     "latitude": 47.0871567,
     "longitude": 15.9255034,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "8262",
+    "city": "Ilz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Peritsch",
     "retailer": "peritsch",
     "shop": "laundry",
     "latitude": 47.0864104,
-    "longitude": 15.9265679
+    "longitude": 15.9265679,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Probst Werbetechnik",
     "retailer": "probst_werbetechnik",
     "shop": "copyshop",
     "latitude": 47.0878765,
-    "longitude": 15.9229703
+    "longitude": 15.9229703,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Red Zac Stranzl",
     "retailer": "red_zac_stranzl",
     "shop": "electronics",
     "latitude": 47.0868161,
-    "longitude": 15.9231619
+    "longitude": 15.9231619,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -98,28 +128,42 @@
     "shop": "supermarket",
     "latitude": 47.0861313,
     "longitude": 15.9248253,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8262",
+    "city": "Ilz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sunlife",
     "retailer": "sunlife",
     "shop": "travel_agency",
     "latitude": 47.0864406,
-    "longitude": 15.9248375
+    "longitude": 15.9248375,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Szutiak",
     "retailer": "szutiak",
     "shop": "bakery",
     "latitude": 47.0862382,
-    "longitude": 15.926265
+    "longitude": 15.926265,
+    "postcode": "8262",
+    "city": "Ilz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Turza",
     "retailer": "turza",
     "shop": "butcher",
     "latitude": 47.0864935,
-    "longitude": 15.9246288
+    "longitude": 15.9246288,
+    "postcode": "8262",
+    "city": "Ilz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "VW Mager",
@@ -127,6 +171,8 @@
     "shop": "car",
     "latitude": 47.0868064,
     "longitude": 15.9225961,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

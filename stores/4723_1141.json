@@ -4,14 +4,20 @@
     "retailer": "atelier_arakelian",
     "shop": "jewelry",
     "latitude": 47.2307089,
-    "longitude": 11.4106088
+    "longitude": 11.4106088,
+    "postcode": "6080",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 47.2307384,
-    "longitude": 11.4102693
+    "longitude": 11.4102693,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabaktrafik",
@@ -19,13 +25,19 @@
     "shop": "tobacco",
     "latitude": 47.2307426,
     "longitude": 11.4101125,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "6080",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Thai Massage",
     "retailer": "thai_massage",
     "shop": "beauty",
     "latitude": 47.2305852,
-    "longitude": 11.4120515
+    "longitude": 11.4120515,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

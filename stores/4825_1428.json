@@ -4,35 +4,47 @@
     "retailer": "action",
     "shop": "houseware",
     "latitude": 48.253606,
-    "longitude": 14.2802053
+    "longitude": 14.2802053,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Baar",
     "retailer": "baar",
     "shop": "beauty",
     "latitude": 48.2518925,
-    "longitude": 14.2859383
+    "longitude": 14.2859383,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "BestDrive by Continental",
     "retailer": "bestdrive_by_continental",
     "shop": "car_repair",
     "latitude": 48.2561605,
-    "longitude": 14.2879183
+    "longitude": 14.2879183,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
     "retailer": "billa",
     "shop": "supermarket",
     "latitude": 48.2536232,
-    "longitude": 14.2840174
+    "longitude": 14.2840174,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
     "retailer": "bipa",
     "shop": "chemist",
     "latitude": 48.2540087,
-    "longitude": 14.2805153
+    "longitude": 14.2805153,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen B&B",
@@ -40,21 +52,29 @@
     "shop": "florist",
     "latitude": 48.2532346,
     "longitude": 14.2897844,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Buchvertrieb Klinger",
     "retailer": "buchvertrieb_klinger",
     "shop": "books",
     "latitude": 48.258923,
-    "longitude": 14.2892097
+    "longitude": 14.2892097,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "DanKüchen",
     "retailer": "dankuchen",
     "shop": "kitchen",
     "latitude": 48.2548021,
-    "longitude": 14.2852168
+    "longitude": 14.2852168,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Deichmann",
@@ -62,7 +82,9 @@
     "shop": "shoes",
     "latitude": 48.2563378,
     "longitude": 14.2868373,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -70,70 +92,101 @@
     "shop": "chemist",
     "latitude": 48.2562336,
     "longitude": 14.2864898,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dr. Phone",
     "retailer": "dr_phone",
     "shop": "mobile_phone",
     "latitude": 48.2561354,
-    "longitude": 14.2862151
+    "longitude": 14.2862151,
+    "postcode": "4020",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "eBike City",
     "retailer": "ebike_city",
     "shop": "bicycle",
     "latitude": 48.2552133,
-    "longitude": 14.2827327
+    "longitude": 14.2827327,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ernsting’s family",
     "retailer": "ernstings_family",
     "shop": "clothes",
     "latitude": 48.2540338,
-    "longitude": 14.2806177
+    "longitude": 14.2806177,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Felgen Wimmer",
     "retailer": "felgen_wimmer",
     "shop": "car_repair",
     "latitude": 48.2547154,
-    "longitude": 14.2800507
+    "longitude": 14.2800507,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fressnapf",
     "retailer": "fressnapf",
     "shop": "pet",
     "latitude": 48.2537407,
-    "longitude": 14.2807541
+    "longitude": 14.2807541,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseur Volker",
     "retailer": "friseur_volker",
     "shop": "hairdresser",
     "latitude": 48.2509695,
-    "longitude": 14.2882832
+    "longitude": 14.2882832,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Günther Buck",
     "retailer": "gunther_buck",
     "shop": "jewelry",
     "latitude": 48.2537503,
-    "longitude": 14.2803671
+    "longitude": 14.2803671,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haubis Backstube & Café",
     "retailer": "haubis_backstube_und_cafe",
     "shop": "bakery",
     "latitude": 48.2520454,
-    "longitude": 14.2864611
+    "longitude": 14.2864611,
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Infra Center",
     "retailer": "infra_center",
     "shop": "mall",
     "latitude": 48.2538847,
-    "longitude": 14.2802956
+    "longitude": 14.2802956,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Interspar",
@@ -141,14 +194,18 @@
     "shop": "supermarket",
     "latitude": 48.2560188,
     "longitude": 14.2855328,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Interspar-Einkaufszentrum Linz-Wegscheid",
     "retailer": "interspar",
     "shop": "mall",
     "latitude": 48.2558916,
-    "longitude": 14.2863855
+    "longitude": 14.2863855,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KiK",
@@ -156,28 +213,36 @@
     "shop": "clothes",
     "latitude": 48.2563922,
     "longitude": 14.2870022,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klipp",
     "retailer": "klipp",
     "shop": "hairdresser",
     "latitude": 48.256528,
-    "longitude": 14.2860429
+    "longitude": 14.2860429,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Libro",
     "retailer": "libro",
     "shop": "books;stationery",
     "latitude": 48.2538947,
-    "longitude": 14.2800506
+    "longitude": 14.2800506,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Licht Lumenform",
     "retailer": "licht_lumenform",
     "shop": "lighting",
     "latitude": 48.258917,
-    "longitude": 14.2895395
+    "longitude": 14.2895395,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -185,7 +250,11 @@
     "shop": "supermarket",
     "latitude": 48.2544905,
     "longitude": 14.2833095,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Matratzen Concord",
@@ -193,49 +262,63 @@
     "shop": "bed",
     "latitude": 48.2534833,
     "longitude": 14.2882258,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mistlbacher",
     "retailer": "mistlbacher",
     "shop": "kiosk",
     "latitude": 48.2559828,
-    "longitude": 14.2860608
+    "longitude": 14.2860608,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mode Italia",
     "retailer": "mode_italia",
     "shop": "clothes",
     "latitude": 48.256441,
-    "longitude": 14.2863338
+    "longitude": 14.2863338,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "My Flowers",
     "retailer": "my_flowers",
     "shop": "florist",
     "latitude": 48.2540778,
-    "longitude": 14.2807969
+    "longitude": 14.2807969,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "OROS Delikatessen",
     "retailer": "oros_delikatessen",
     "shop": "supermarket",
     "latitude": 48.2539771,
-    "longitude": 14.2803863
+    "longitude": 14.2803863,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "sabtours",
     "retailer": "sabtours",
     "shop": "travel_agency",
     "latitude": 48.2563583,
-    "longitude": 14.2860449
+    "longitude": 14.2860449,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 48.2521364,
-    "longitude": 14.2869063
+    "longitude": 14.2869063,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -243,7 +326,9 @@
     "shop": "tobacco",
     "latitude": 48.2537824,
     "longitude": 14.2804981,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -251,14 +336,18 @@
     "shop": "tobacco",
     "latitude": 48.2562164,
     "longitude": 14.2860587,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TEDi",
     "retailer": "tedi",
     "shop": "houseware",
     "latitude": 48.2537065,
-    "longitude": 14.2806149
+    "longitude": 14.2806149,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TEDi",
@@ -266,27 +355,37 @@
     "shop": "variety_store",
     "latitude": 48.2562842,
     "longitude": 14.286675,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TopStuck",
     "retailer": "topstuck",
     "shop": "interior_decoration",
     "latitude": 48.2542491,
-    "longitude": 14.2850263
+    "longitude": 14.2850263,
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Walter Aichlseder",
     "retailer": "walter_aichlseder",
     "shop": "bicycle",
     "latitude": 48.2544224,
-    "longitude": 14.2802194
+    "longitude": 14.2802194,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zellinger",
     "retailer": "zellinger",
     "shop": "deli",
     "latitude": 48.253829,
-    "longitude": 14.280688
+    "longitude": 14.280688,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

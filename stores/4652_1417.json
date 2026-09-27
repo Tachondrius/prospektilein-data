@@ -5,7 +5,10 @@
     "shop": "supermarket",
     "latitude": 46.5215631,
     "longitude": 14.1755225,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9181",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Penny",
@@ -13,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 46.5211681,
     "longitude": 14.1750669,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "9181",
+    "city": "Feistritz/Rosental",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

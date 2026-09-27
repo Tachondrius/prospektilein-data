@@ -4,7 +4,10 @@
     "retailer": "anita",
     "shop": "hairdresser",
     "latitude": 47.465163,
-    "longitude": 15.3281199
+    "longitude": 15.3281199,
+    "postcode": "8605",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,48 +15,70 @@
     "shop": "supermarket",
     "latitude": 47.4646533,
     "longitude": 15.3283036,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Knauß",
     "retailer": "blumen_knau",
     "shop": "florist",
     "latitude": 47.4651497,
-    "longitude": 15.3280365
+    "longitude": 15.3280365,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eier",
     "retailer": "eier",
     "shop": "farm",
     "latitude": 47.4649522,
-    "longitude": 15.3204263
+    "longitude": 15.3204263,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fuchs",
     "retailer": "fuchs",
     "shop": "bakery",
     "latitude": 47.4645324,
-    "longitude": 15.328945
+    "longitude": 15.328945,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hair desing",
     "retailer": "hair_desing",
     "shop": "hairdresser",
     "latitude": 47.4635352,
-    "longitude": 15.3297772
+    "longitude": 15.3297772,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Milchautomat",
     "retailer": "milchautomat",
     "shop": "farm",
     "latitude": 47.4660828,
-    "longitude": 15.3219893
+    "longitude": 15.3219893,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Michaela Folk",
     "retailer": "trafik_michaela_folk",
     "shop": "tobacco",
     "latitude": 47.4639074,
-    "longitude": 15.3293724
+    "longitude": 15.3293724,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

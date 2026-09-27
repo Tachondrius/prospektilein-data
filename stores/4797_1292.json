@@ -4,20 +4,28 @@
     "retailer": "biohofmetzgerei_hainz_gmbh",
     "shop": "butcher",
     "latitude": 47.9741534,
-    "longitude": 12.9213008
+    "longitude": 12.9213008,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Reidl",
     "retailer": "reidl",
     "shop": "car_repair",
     "latitude": 47.9798538,
-    "longitude": 12.9229691
+    "longitude": 12.9229691,
+    "postcode": "5111",
+    "city": "Bürmoos",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schnittpunkt",
     "retailer": "schnittpunkt",
     "shop": "hairdresser",
     "latitude": 47.9798824,
-    "longitude": 12.922802
+    "longitude": 12.922802,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

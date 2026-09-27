@@ -4,7 +4,11 @@
     "retailer": "felsliebe",
     "shop": "sports",
     "latitude": 48.0128916,
-    "longitude": 15.5886685
+    "longitude": 15.5886685,
+    "postcode": "3180",
+    "city": "Lilienfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mazda",
@@ -12,13 +16,21 @@
     "shop": "car",
     "latitude": 48.0124419,
     "longitude": 15.5880323,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "postcode": "3180",
+    "city": "Lilienfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wachter-Reisen",
     "retailer": "wachter_reisen",
     "shop": "travel_agency",
     "latitude": 48.0111869,
-    "longitude": 15.5826426
+    "longitude": 15.5826426,
+    "postcode": "3180",
+    "city": "Lilienfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

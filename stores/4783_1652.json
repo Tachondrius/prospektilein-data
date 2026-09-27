@@ -4,7 +4,9 @@
     "retailer": "autobedarf_schmutzer",
     "shop": "car_parts",
     "latitude": 47.8343211,
-    "longitude": 16.5272556
+    "longitude": 16.5272556,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Autohaus Erich Horvath",
@@ -12,7 +14,11 @@
     "shop": "car",
     "latitude": 47.8343448,
     "longitude": 16.5243768,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Autohaus Kamper",
@@ -20,7 +26,11 @@
     "shop": "car",
     "latitude": 47.8331015,
     "longitude": 16.5295003,
-    "brand": "Volkswagen;Audi;Seat;Skoda"
+    "brand": "Volkswagen;Audi;Seat;Skoda",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "AV Ott",
@@ -28,28 +38,42 @@
     "shop": "car",
     "latitude": 47.8334217,
     "longitude": 16.5243901,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "BauWelt Koch",
     "retailer": "bauwelt_koch",
     "shop": "doityourself",
     "latitude": 47.8304012,
-    "longitude": 16.5241466
+    "longitude": 16.5241466,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bauwelt Koch",
     "retailer": "bauwelt_koch",
     "shop": "doityourself",
     "latitude": 47.8311145,
-    "longitude": 16.5252802
+    "longitude": 16.5252802,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "BestDrive",
     "retailer": "bestdrive",
     "shop": "tyres",
     "latitude": 47.8324539,
-    "longitude": 16.5238506
+    "longitude": 16.5238506,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Billa",
@@ -57,7 +81,11 @@
     "shop": "supermarket",
     "latitude": 47.8377937,
     "longitude": 16.5277669,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Billa Plus",
@@ -65,7 +93,11 @@
     "shop": "supermarket",
     "latitude": 47.835361,
     "longitude": 16.5281425,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bipa",
@@ -73,7 +105,11 @@
     "shop": "chemist",
     "latitude": 47.8352114,
     "longitude": 16.5277505,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bipa",
@@ -81,35 +117,53 @@
     "shop": "chemist",
     "latitude": 47.839215,
     "longitude": 16.5272753,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Cafe-Bäckerei - Wagner",
     "retailer": "cafe_backerei_wagner",
     "shop": "bakery",
     "latitude": 47.8308203,
-    "longitude": 16.5223982
+    "longitude": 16.5223982,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Denzel Eisenstadt",
     "retailer": "denzel_eisenstadt",
     "shop": "car",
     "latitude": 47.8306966,
-    "longitude": 16.5234896
+    "longitude": 16.5234896,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "EZE",
     "retailer": "eze",
     "shop": "mall",
     "latitude": 47.8347108,
-    "longitude": 16.5273134
+    "longitude": 16.5273134,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_parts",
     "latitude": 47.8348953,
-    "longitude": 16.5234346
+    "longitude": 16.5234346,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fussl",
@@ -117,21 +171,29 @@
     "shop": "clothes",
     "latitude": 47.8348895,
     "longitude": 16.5265302,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Horvath",
     "retailer": "horvath",
     "shop": "car_repair",
     "latitude": 47.8345358,
-    "longitude": 16.5244899
+    "longitude": 16.5244899,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hutchison Drei Austria",
     "retailer": "hutchison_drei_austria",
     "shop": "mobile_phone",
     "latitude": 47.8348049,
-    "longitude": 16.5273302
+    "longitude": 16.5273302,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "JYSK",
@@ -139,7 +201,11 @@
     "shop": "furniture",
     "latitude": 47.8309465,
     "longitude": 16.522057,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Klipp",
@@ -147,14 +213,20 @@
     "shop": "hairdresser",
     "latitude": 47.8349929,
     "longitude": 16.5274021,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Koch Fachgeschäft",
     "retailer": "koch_fachgeschaft",
     "shop": "interior_decoration",
     "latitude": 47.8349287,
-    "longitude": 16.5267827
+    "longitude": 16.5267827,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Koinegg",
@@ -162,14 +234,21 @@
     "shop": "car",
     "latitude": 47.834452,
     "longitude": 16.5288904,
-    "brand": "Renault;Nissan;Dacia;Lada"
+    "brand": "Renault;Nissan;Dacia;Lada",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lucky car - Lack & Karosserie, Kfz-Service, Autoglas",
     "retailer": "lucky_car_lack_und_karosserie_kfz_service_autoglas",
     "shop": "car_repair",
     "latitude": 47.8349844,
-    "longitude": 16.5247978
+    "longitude": 16.5247978,
+    "postcode": "7000",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "MediaMarkt",
@@ -177,7 +256,9 @@
     "shop": "electronics",
     "latitude": 47.8341545,
     "longitude": 16.5266816,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Mercedes",
@@ -185,7 +266,10 @@
     "shop": "car_repair",
     "latitude": 47.8336,
     "longitude": 16.5248511,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "7000",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "OBI",
@@ -193,7 +277,11 @@
     "shop": "doityourself",
     "latitude": 47.8319226,
     "longitude": 16.5249403,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "PENNY",
@@ -201,14 +289,22 @@
     "shop": "supermarket",
     "latitude": 47.8391053,
     "longitude": 16.5273623,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "PS-Autoservice",
     "retailer": "ps_autoservice",
     "shop": "car_repair",
     "latitude": 47.8362337,
-    "longitude": 16.5245108
+    "longitude": 16.5245108,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "ROMA",
@@ -216,7 +312,11 @@
     "shop": "hairdresser_supply",
     "latitude": 47.8348825,
     "longitude": 16.5276072,
-    "brand": "ROMA"
+    "brand": "ROMA",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "TOYOTA Buchreiter",
@@ -224,20 +324,32 @@
     "shop": "car",
     "latitude": 47.8311434,
     "longitude": 16.5287885,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Willnauer Holz- und Fenster-Handel",
     "retailer": "willnauer_holz_und_fenster_handel",
     "shop": "doityourself",
     "latitude": 47.8343827,
-    "longitude": 16.5255681
+    "longitude": 16.5255681,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "ZGONC",
     "retailer": "zgonc",
     "shop": "doityourself",
     "latitude": 47.8312258,
-    "longitude": 16.5216289
+    "longitude": 16.5216289,
+    "postcode": "7000",
+    "city": "Eisenstadt",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

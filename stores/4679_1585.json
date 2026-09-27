@@ -4,14 +4,20 @@
     "retailer": "blumen_blattwerk",
     "shop": "florist",
     "latitude": 46.7901385,
-    "longitude": 15.8531776
+    "longitude": 15.8531776,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Landkauf Bund",
     "retailer": "landkauf_bund",
     "shop": "supermarket",
     "latitude": 46.7900394,
-    "longitude": 15.8521152
+    "longitude": 15.8521152,
+    "postcode": "8345",
+    "city": "Straden",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -19,6 +25,8 @@
     "shop": "supermarket",
     "latitude": 46.7900814,
     "longitude": 15.8529814,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

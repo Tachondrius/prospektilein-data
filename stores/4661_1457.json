@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 46.612619,
     "longitude": 14.5769861,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9122",
+    "city": "St. Kanzian am Klopeiner See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Penny Markt",
@@ -13,7 +17,10 @@
     "shop": "supermarket",
     "latitude": 46.6138178,
     "longitude": 14.5760601,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "9122",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -21,6 +28,10 @@
     "shop": "supermarket",
     "latitude": 46.614838,
     "longitude": 14.5745369,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9122",
+    "city": "St. Kanzian am Klopeiner See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

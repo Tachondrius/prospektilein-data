@@ -4,7 +4,11 @@
     "retailer": "bmw_geyrhofer",
     "shop": "car",
     "latitude": 48.1716776,
-    "longitude": 14.0490883
+    "longitude": 14.0490883,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Royal Motors",
@@ -12,13 +16,21 @@
     "shop": "car",
     "latitude": 48.170759,
     "longitude": 14.0472745,
-    "brand": "Jeep"
+    "brand": "Jeep",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Seifried United Auto",
     "retailer": "seifried_united_auto",
     "shop": "car",
     "latitude": 48.1703577,
-    "longitude": 14.0479841
+    "longitude": 14.0479841,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

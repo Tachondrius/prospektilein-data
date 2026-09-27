@@ -4,7 +4,11 @@
     "retailer": "autohaus_begrer",
     "shop": "car",
     "latitude": 47.5084408,
-    "longitude": 15.4489503
+    "longitude": 15.4489503,
+    "postcode": "8650",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 47.503272,
     "longitude": 15.4402855,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8650",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -20,49 +28,71 @@
     "shop": "chemist",
     "latitude": 47.5050772,
     "longitude": 15.4490136,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8650",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Pesl",
     "retailer": "backerei_pesl",
     "shop": "bakery",
     "latitude": 47.5051168,
-    "longitude": 15.4495122
+    "longitude": 15.4495122,
+    "postcode": "8650",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Der Heimwerker",
     "retailer": "der_heimwerker",
     "shop": "power_tools",
     "latitude": 47.5022368,
-    "longitude": 15.4474358
+    "longitude": 15.4474358,
+    "postcode": "8650",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Felber",
     "retailer": "felber",
     "shop": "bakery",
     "latitude": 47.5021317,
-    "longitude": 15.4451546
+    "longitude": 15.4451546,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisiersalon Harmonie",
     "retailer": "frisiersalon_harmonie",
     "shop": "hairdresser",
     "latitude": 47.5040586,
-    "longitude": 15.4466851
+    "longitude": 15.4466851,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisör Weis",
     "retailer": "frisor_weis",
     "shop": "hairdresser",
     "latitude": 47.5051235,
-    "longitude": 15.4491228
+    "longitude": 15.4491228,
+    "postcode": "8650",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fuchs",
     "retailer": "fuchs",
     "shop": "toys",
     "latitude": 47.5060679,
-    "longitude": 15.4495278
+    "longitude": 15.4495278,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hartlauer",
@@ -70,21 +100,31 @@
     "shop": "electronics",
     "latitude": 47.504245,
     "longitude": 15.4471487,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "8650",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Herrenmode Schöffmann",
     "retailer": "herrenmode_schoffmann",
     "shop": "clothes",
     "latitude": 47.5037504,
-    "longitude": 15.4468257
+    "longitude": 15.4468257,
+    "postcode": "8650",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Herrenmoden Schöffman",
     "retailer": "herrenmoden_schoffman",
     "shop": "clothes",
     "latitude": 47.503873,
-    "longitude": 15.44688
+    "longitude": 15.44688,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intersport",
@@ -92,14 +132,20 @@
     "shop": "sports",
     "latitude": 47.5034462,
     "longitude": 15.4458575,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "8650",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kindermoden Schöffmann",
     "retailer": "kindermoden_schoffmann",
     "shop": "clothes",
     "latitude": 47.5040596,
-    "longitude": 15.4473391
+    "longitude": 15.4473391,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
@@ -107,7 +153,9 @@
     "shop": "hairdresser",
     "latitude": 47.5058673,
     "longitude": 15.4496619,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Libro",
@@ -115,21 +163,27 @@
     "shop": "books",
     "latitude": 47.5023011,
     "longitude": 15.4456738,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "loony bin",
     "retailer": "loony_bin",
     "shop": "clothes",
     "latitude": 47.5049399,
-    "longitude": 15.4481791
+    "longitude": 15.4481791,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Optik Köpfelsberger",
     "retailer": "optik_kopfelsberger",
     "shop": "optician",
     "latitude": 47.5038784,
-    "longitude": 15.4463986
+    "longitude": 15.4463986,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Penny Markt",
@@ -137,14 +191,22 @@
     "shop": "supermarket",
     "latitude": 47.5025909,
     "longitude": 15.4458516,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8650",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ringfoto Puntigam",
     "retailer": "ringfoto_puntigam",
     "shop": "photo",
     "latitude": 47.5047831,
-    "longitude": 15.4486285
+    "longitude": 15.4486285,
+    "postcode": "8650",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TUI",
@@ -152,13 +214,19 @@
     "shop": "travel_agency",
     "latitude": 47.5047144,
     "longitude": 15.4485595,
-    "brand": "TUI"
+    "brand": "TUI",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zweirad Windbacher",
     "retailer": "zweirad_windbacher",
     "shop": "bicycle",
     "latitude": 47.5067239,
-    "longitude": 15.4490076
+    "longitude": 15.4490076,
+    "postcode": "8650",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

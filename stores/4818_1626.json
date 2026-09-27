@@ -4,21 +4,29 @@
     "retailer": "bioladen_hietzing",
     "shop": "supermarket",
     "latitude": 48.1879803,
-    "longitude": 16.2671079
+    "longitude": 16.2671079,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bäckerei Schwarz",
     "retailer": "backerei_schwarz",
     "shop": "bakery",
     "latitude": 48.1878078,
-    "longitude": 16.2679752
+    "longitude": 16.2679752,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bücher & Geschenkeladen",
     "retailer": "bucher_und_geschenkeladen",
     "shop": "books",
     "latitude": 48.1877497,
-    "longitude": 16.2676159
+    "longitude": 16.2676159,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "dm",
@@ -26,28 +34,42 @@
     "shop": "chemist",
     "latitude": 48.1877586,
     "longitude": 16.2688047,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Felber",
     "retailer": "felber",
     "shop": "bakery",
     "latitude": 48.1881333,
-    "longitude": 16.2670772
+    "longitude": 16.2670772,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Heilmasseur Florian Huber",
     "retailer": "heilmasseur_florian_huber",
     "shop": "massage",
     "latitude": 48.1875047,
-    "longitude": 16.2676476
+    "longitude": 16.2676476,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Jewelry",
     "retailer": "shop_jewelry",
     "shop": "jewelry",
     "latitude": 48.1878328,
-    "longitude": 16.2673463
+    "longitude": 16.2673463,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Pagro",
@@ -55,14 +77,20 @@
     "shop": "stationery",
     "latitude": 48.1876808,
     "longitude": 16.2697461,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Schlosserei A.S.S.",
     "retailer": "schlosserei_a_s_s",
     "shop": "shoemaker;locksmith",
     "latitude": 48.1880058,
-    "longitude": 16.2675003
+    "longitude": 16.2675003,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar Gourmet",
@@ -70,13 +98,21 @@
     "shop": "supermarket",
     "latitude": 48.187797,
     "longitude": 16.2677571,
-    "brand": "Spar Gourmet"
+    "brand": "Spar Gourmet",
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Wannapha Beauty & Spa",
     "retailer": "wannapha_beauty_und_spa",
     "shop": "massage",
     "latitude": 48.1880921,
-    "longitude": 16.267417
+    "longitude": 16.267417,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

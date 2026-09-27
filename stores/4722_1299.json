@@ -4,7 +4,9 @@
     "retailer": "bei_martina",
     "shop": "hairdresser",
     "latitude": 47.2278325,
-    "longitude": 12.9944583
+    "longitude": 12.9944583,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -12,63 +14,87 @@
     "shop": "supermarket",
     "latitude": 47.2268082,
     "longitude": 12.9945642,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5661",
+    "city": "Rauris",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "CARMEN",
     "retailer": "carmen",
     "shop": "beauty",
     "latitude": 47.2257972,
-    "longitude": 12.9944263
+    "longitude": 12.9944263,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Convenience",
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 47.2297513,
-    "longitude": 12.9940231
+    "longitude": 12.9940231,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dogs & friends",
     "retailer": "dogs_und_friends",
     "shop": "pet",
     "latitude": 47.2276755,
-    "longitude": 12.9941853
+    "longitude": 12.9941853,
+    "postcode": "5661",
+    "city": "Rauris",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Energietechnik Winkler",
     "retailer": "energietechnik_winkler",
     "shop": "electrical",
     "latitude": 47.2277481,
-    "longitude": 12.9944114
+    "longitude": 12.9944114,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "G'Schenkerei",
     "retailer": "g_schenkerei",
     "shop": "gift",
     "latitude": 47.2271317,
-    "longitude": 12.9944408
+    "longitude": 12.9944408,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Heustadlhof",
     "retailer": "heustadlhof",
     "shop": "farm",
     "latitude": 47.2275476,
-    "longitude": 12.9983725
+    "longitude": 12.9983725,
+    "postcode": "5661",
+    "city": "Rauris",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hoamatladen",
     "retailer": "hoamatladen",
     "shop": "general",
     "latitude": 47.2285321,
-    "longitude": 12.994498
+    "longitude": 12.994498,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport Pirchner",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 47.2233581,
-    "longitude": 12.9909991
+    "longitude": 12.9909991,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport Pirchner",
@@ -76,55 +102,73 @@
     "shop": "sports",
     "latitude": 47.2266648,
     "longitude": 12.9941694,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport Pirchner Rent",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 47.2269228,
-    "longitude": 12.9944309
+    "longitude": 12.9944309,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "hardware",
     "latitude": 47.2213132,
-    "longitude": 12.9917512
+    "longitude": 12.9917512,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Skischule Adventure Rauris",
     "retailer": "skischule_adventure_rauris",
     "shop": "sports",
     "latitude": 47.2235801,
-    "longitude": 12.991097
+    "longitude": 12.991097,
+    "postcode": "5661",
+    "city": "Rauris",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Skischule Adventure Rauris",
     "retailer": "skischule_adventure_rauris",
     "shop": "sports",
     "latitude": 47.2290749,
-    "longitude": 12.9948343
+    "longitude": 12.9948343,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Egger",
     "retailer": "sport_egger",
     "shop": "sports",
     "latitude": 47.225079,
-    "longitude": 12.9937403
+    "longitude": 12.9937403,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Stadler Elektro",
     "retailer": "stadler_elektro",
     "shop": "electrical;houseware;",
     "latitude": 47.2272664,
-    "longitude": 12.9943376
+    "longitude": 12.9943376,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "T&M Tabaco and More",
     "retailer": "t_und_m_tabaco_und_more",
     "shop": "tobacco",
     "latitude": 47.2291803,
-    "longitude": 12.9944243
+    "longitude": 12.9944243,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

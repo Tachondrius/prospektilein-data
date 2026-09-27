@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.3020265,
     "longitude": 11.516364,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6067",
+    "city": "Absam",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Trafik Patric Fuchs",
     "retailer": "tabak_trafik_patric_fuchs",
     "shop": "kiosk",
     "latitude": 47.3044312,
-    "longitude": 11.517327
+    "longitude": 11.517327,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,21 +5,33 @@
     "shop": "supermarket",
     "latitude": 48.3230402,
     "longitude": 16.2012079,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "3423",
+    "city": "St. Andrä-Wördern",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ALLKAR e.U.",
     "retailer": "allkar_e_u",
     "shop": "car_repair",
     "latitude": 48.3226703,
-    "longitude": 16.2032268
+    "longitude": 16.2032268,
+    "postcode": "3423",
+    "city": "St. Andrä-Wördern",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bestattung Dussmann",
     "retailer": "bestattung_dussmann",
     "shop": "funeral_directors",
     "latitude": 48.3217517,
-    "longitude": 16.2084624
+    "longitude": 16.2084624,
+    "postcode": "3423",
+    "city": "St. Andrä-Wördern",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -27,55 +39,77 @@
     "shop": "supermarket",
     "latitude": 48.3210097,
     "longitude": 16.2053974,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3423",
+    "city": "St. Andrä-Wördern",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.3219196,
-    "longitude": 16.2059165
+    "longitude": 16.2059165,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Holzmann Optik",
     "retailer": "holzmann_optik",
     "shop": "optician",
     "latitude": 48.3213913,
-    "longitude": 16.207489
+    "longitude": 16.207489,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Ullrich",
     "retailer": "kfz_ullrich",
     "shop": "car_repair",
     "latitude": 48.3219928,
-    "longitude": 16.2057251
+    "longitude": 16.2057251,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MCS - Robert Mayer",
     "retailer": "mcs_robert_mayer",
     "shop": "motorcycle_repair",
     "latitude": 48.3223674,
-    "longitude": 16.2091373
+    "longitude": 16.2091373,
+    "postcode": "3423",
+    "city": "St. Andrä-Wördern",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spenglerei - Kraft",
     "retailer": "spenglerei_kraft",
     "shop": "car_repair",
     "latitude": 48.3225139,
-    "longitude": 16.20366
+    "longitude": 16.20366,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabaktrafik - Sattmann",
     "retailer": "tabaktrafik_sattmann",
     "shop": "kiosk",
     "latitude": 48.3213981,
-    "longitude": 16.2072465
+    "longitude": 16.2072465,
+    "postcode": "3423",
+    "city": "St. Andrä-Wördern",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wiesbauer Bistro & Shop",
     "retailer": "wiesbauer_bistro_und_shop",
     "shop": "butcher",
     "latitude": 48.3217364,
-    "longitude": 16.2071962
+    "longitude": 16.2071962,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

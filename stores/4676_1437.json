@@ -4,21 +4,27 @@
     "retailer": "shop_dry_cleaning",
     "shop": "dry_cleaning",
     "latitude": 46.7654145,
-    "longitude": 14.3708178
+    "longitude": 14.3708178,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.7654381,
-    "longitude": 14.3710238
+    "longitude": 14.3710238,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "HandyShop St. Veit",
     "retailer": "handyshop_st_veit",
     "shop": "mobile_phone",
     "latitude": 46.7650255,
-    "longitude": 14.3714527
+    "longitude": 14.3714527,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hervis",
@@ -26,7 +32,9 @@
     "shop": "sports",
     "latitude": 46.7649329,
     "longitude": 14.3707118,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -34,7 +42,11 @@
     "shop": "supermarket",
     "latitude": 46.7668233,
     "longitude": 14.3740484,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Interspar",
@@ -42,14 +54,20 @@
     "shop": "supermarket",
     "latitude": 46.7653851,
     "longitude": 14.3705946,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Interspar Wayerfeld",
     "retailer": "interspar",
     "shop": "mall",
     "latitude": 46.7652532,
-    "longitude": 14.3712821
+    "longitude": 14.3712821,
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar Express",
@@ -57,7 +75,11 @@
     "shop": "convenience",
     "latitude": 46.7661764,
     "longitude": 14.377038,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9300",
+    "city": "St. Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Toyota Friessnegger",
@@ -65,6 +87,10 @@
     "shop": "car",
     "latitude": 46.7662847,
     "longitude": 14.371584,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

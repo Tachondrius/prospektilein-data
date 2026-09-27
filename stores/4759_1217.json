@@ -5,7 +5,11 @@
     "shop": "convenience",
     "latitude": 47.5937758,
     "longitude": 12.1773406,
-    "brand": "Billa Now"
+    "brand": "Billa Now",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Deichmann",
@@ -13,7 +17,9 @@
     "shop": "shoes",
     "latitude": 47.5945854,
     "longitude": 12.1748453,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eurospar",
@@ -21,28 +27,38 @@
     "shop": "supermarket",
     "latitude": 47.5910998,
     "longitude": 12.1747278,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_repair",
     "latitude": 47.5922156,
-    "longitude": 12.1730361
+    "longitude": 12.1730361,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Franz Achleitner Fahrzeugbau und Reifenzentrum GmbH",
     "retailer": "franz_achleitner_fahrzeugbau_und_reifenzentrum_gmbh",
     "shop": "car_parts",
     "latitude": 47.591456,
-    "longitude": 12.1735145
+    "longitude": 12.1735145,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gartenbau Mayrhofer",
     "retailer": "gartenbau_mayrhofer",
     "shop": "garden_centre",
     "latitude": 47.5930173,
-    "longitude": 12.1756918
+    "longitude": 12.1756918,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hagebaumarkt",
@@ -50,7 +66,11 @@
     "shop": "doityourself",
     "latitude": 47.5946311,
     "longitude": 12.1756324,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -58,7 +78,11 @@
     "shop": "supermarket",
     "latitude": 47.5925393,
     "longitude": 12.1721225,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lidl",
@@ -66,7 +90,11 @@
     "shop": "supermarket",
     "latitude": 47.5943368,
     "longitude": 12.1758001,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pagro",
@@ -74,14 +102,20 @@
     "shop": "stationery",
     "latitude": 47.5946234,
     "longitude": 12.175025,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pflanzen Mair",
     "retailer": "pflanzen_mair",
     "shop": "garden_centre",
     "latitude": 47.5927549,
-    "longitude": 12.1731338
+    "longitude": 12.1731338,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Porsche Kufstein",
@@ -89,14 +123,20 @@
     "shop": "car",
     "latitude": 47.5944422,
     "longitude": 12.1764887,
-    "brand": "Audi;Porsche;Škoda;Volkswagen"
+    "brand": "Audi;Porsche;Škoda;Volkswagen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "RaumColor - Raumaustattung",
     "retailer": "raumcolor_raumaustattung",
     "shop": "paint",
     "latitude": 47.59223,
-    "longitude": 12.1706164
+    "longitude": 12.1706164,
+    "postcode": "6330",
+    "city": "Kufstein",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Takko Fashion",
@@ -104,7 +144,9 @@
     "shop": "clothes",
     "latitude": 47.5946415,
     "longitude": 12.1751484,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Unterberger Automobile GmbH und Co KG",
@@ -112,13 +154,18 @@
     "shop": "car",
     "latitude": 47.5950586,
     "longitude": 12.1777668,
-    "brand": "Alfa Romeo, Jaguar, Maxda, Volvo"
+    "brand": "Alfa Romeo, Jaguar, Maxda, Volvo",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Variety Store",
     "retailer": "shop_variety_store",
     "shop": "variety_store",
     "latitude": 47.5939895,
-    "longitude": 12.1760269
+    "longitude": 12.1760269,
+    "postcode": "6330",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

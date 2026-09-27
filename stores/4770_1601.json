@@ -4,14 +4,22 @@
     "retailer": "elektro_gruber",
     "shop": "electronics",
     "latitude": 47.702592,
-    "longitude": 16.0147994
+    "longitude": 16.0147994,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Fischer",
     "retailer": "friseur_fischer",
     "shop": "hairdresser",
     "latitude": 47.7009749,
-    "longitude": 16.0170746
+    "longitude": 16.0170746,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -19,7 +27,11 @@
     "shop": "supermarket",
     "latitude": 47.7002531,
     "longitude": 16.011712,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -27,6 +39,10 @@
     "shop": "variety_store",
     "latitude": 47.7013889,
     "longitude": 16.0120071,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

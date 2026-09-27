@@ -4,20 +4,28 @@
     "retailer": "erlas_galerie",
     "shop": "art",
     "latitude": 47.8451916,
-    "longitude": 13.7916325
+    "longitude": 13.7916325,
+    "postcode": "4801",
+    "city": "Traunkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.8451712,
-    "longitude": 13.7909535
+    "longitude": 13.7909535,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.8453863,
-    "longitude": 13.790963
+    "longitude": 13.790963,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

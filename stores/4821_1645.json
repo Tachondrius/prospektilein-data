@@ -5,13 +5,17 @@
     "shop": "supermarket",
     "latitude": 48.2174535,
     "longitude": 16.4567993,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "SerialCart",
     "retailer": "serialcart",
     "shop": "computer",
     "latitude": 48.2184882,
-    "longitude": 16.4512422
+    "longitude": 16.4512422,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

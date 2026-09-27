@@ -4,21 +4,33 @@
     "retailer": "backerei_mangold",
     "shop": "bakery",
     "latitude": 47.5530606,
-    "longitude": 9.7505769
+    "longitude": 9.7505769,
+    "postcode": "6912",
+    "city": "Hörbranz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Feinbrennerei Prinz",
     "retailer": "feinbrennerei_prinz",
     "shop": "alcohol",
     "latitude": 47.5540369,
-    "longitude": 9.7506754
+    "longitude": 9.7506754,
+    "postcode": "6912",
+    "city": "Hörbranz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Naturbäckerei Zeh",
     "retailer": "naturbackerei_zeh",
     "shop": "bakery",
     "latitude": 47.5559091,
-    "longitude": 9.7529921
+    "longitude": 9.7529921,
+    "postcode": "6912",
+    "city": "Hörbranz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -26,6 +38,10 @@
     "shop": "supermarket",
     "latitude": 47.554254,
     "longitude": 9.7500207,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6912",
+    "city": "Hörbranz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

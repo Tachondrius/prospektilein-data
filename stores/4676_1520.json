@@ -5,20 +5,30 @@
     "shop": "car",
     "latitude": 46.762363,
     "longitude": 15.2088164,
-    "brand": "Opel;Isuzu"
+    "brand": "Opel;Isuzu",
+    "postcode": "8541",
+    "city": "Bad Schwanberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fachhandel Peter Koch",
     "retailer": "fachhandel_peter_koch",
     "shop": "hardware",
     "latitude": 46.7606686,
-    "longitude": 15.2072417
+    "longitude": 15.2072417,
+    "postcode": "8541",
+    "city": "Schwanberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 46.7636566,
-    "longitude": 15.2059932
+    "longitude": 15.2059932,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

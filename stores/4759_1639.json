@@ -4,13 +4,20 @@
     "retailer": "cafe_konditorei_backerei_kern",
     "shop": "bakery",
     "latitude": 47.5960035,
-    "longitude": 16.3919398
+    "longitude": 16.3919398,
+    "postcode": "7332",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.5945302,
-    "longitude": 16.3934708
+    "longitude": 16.3934708,
+    "postcode": "7332",
+    "city": "Kobersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

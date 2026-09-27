@@ -5,7 +5,9 @@
     "shop": "variety_store",
     "latitude": 47.0356798,
     "longitude": 15.4840663,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bellaflora",
@@ -13,21 +15,29 @@
     "shop": "garden_centre",
     "latitude": 47.0369194,
     "longitude": 15.4836407,
-    "brand": "Bellaflora"
+    "brand": "Bellaflora",
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bürotechnik Buchgraber",
     "retailer": "burotechnik_buchgraber",
     "shop": "stationery",
     "latitude": 47.0333959,
-    "longitude": 15.4870006
+    "longitude": 15.4870006,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Center Ost",
     "retailer": "center_ost",
     "shop": "mall",
     "latitude": 47.0353404,
-    "longitude": 15.4835864
+    "longitude": 15.4835864,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -35,7 +45,11 @@
     "shop": "chemist",
     "latitude": 47.0355558,
     "longitude": 15.4837367,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fressnapf",
@@ -43,21 +57,31 @@
     "shop": "pet",
     "latitude": 47.0354318,
     "longitude": 15.4834679,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friedrichs Futterscheune",
     "retailer": "friedrichs_futterscheune",
     "shop": "pet",
     "latitude": 47.0389506,
-    "longitude": 15.4884719
+    "longitude": 15.4884719,
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ-ENWI e.U.",
     "retailer": "kfz_enwi_e_u",
     "shop": "car_repair",
     "latitude": 47.039675,
-    "longitude": 15.4877886
+    "longitude": 15.4877886,
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Martin Auer",
@@ -65,7 +89,11 @@
     "shop": "bakery",
     "latitude": 47.0357171,
     "longitude": 15.481809,
-    "brand": "Martin Auer"
+    "brand": "Martin Auer",
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Martin Auer",
@@ -73,7 +101,11 @@
     "shop": "bakery",
     "latitude": 47.0358869,
     "longitude": 15.4819074,
-    "brand": "Martin Auer"
+    "brand": "Martin Auer",
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MyPlace-SelfStorage",
@@ -81,7 +113,11 @@
     "shop": "storage_rental",
     "latitude": 47.0383702,
     "longitude": 15.486296,
-    "brand": "MyPlace-SelfStorage"
+    "brand": "MyPlace-SelfStorage",
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -89,7 +125,9 @@
     "shop": "clothes",
     "latitude": 47.0356266,
     "longitude": 15.4839126,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "OBI",
@@ -97,14 +135,22 @@
     "shop": "doityourself",
     "latitude": 47.0362654,
     "longitude": 15.4856089,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Roth",
     "retailer": "roth",
     "shop": "bathroom_furnishing",
     "latitude": 47.0358875,
-    "longitude": 15.4846676
+    "longitude": 15.4846676,
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Würth Shop",
@@ -112,6 +158,10 @@
     "shop": "hardware",
     "latitude": 47.0382838,
     "longitude": 15.4860878,
-    "brand": "Würth"
+    "brand": "Würth",
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

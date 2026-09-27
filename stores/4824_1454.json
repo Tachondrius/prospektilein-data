@@ -4,7 +4,11 @@
     "retailer": "alya_supermarket",
     "shop": "supermarket",
     "latitude": 48.2434793,
-    "longitude": 14.5492388
+    "longitude": 14.5492388,
+    "postcode": "4310",
+    "city": "Mauthausen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Leibetseder GmbH",
@@ -12,14 +16,22 @@
     "shop": "car",
     "latitude": 48.2446069,
     "longitude": 14.5498808,
-    "brand": "Nissan, Peugeot, Microcar"
+    "brand": "Nissan, Peugeot, Microcar",
+    "postcode": "4310",
+    "city": "Mauthausen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Wipplinger",
     "retailer": "autohaus_wipplinger",
     "shop": "car",
     "latitude": 48.2417804,
-    "longitude": 14.5463909
+    "longitude": 14.5463909,
+    "postcode": "4310",
+    "city": "Mauthausen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Günter Braher GmbH",
@@ -27,14 +39,22 @@
     "shop": "car",
     "latitude": 48.2436867,
     "longitude": 14.5478687,
-    "brand": "Mercedes-Benz, Smart, Renault, Dacia, Mitsubishi"
+    "brand": "Mercedes-Benz, Smart, Renault, Dacia, Mitsubishi",
+    "postcode": "4310",
+    "city": "Mauthausen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "olina Küchen Helmut Wenigwieser",
     "retailer": "olina_kuchen_helmut_wenigwieser",
     "shop": "kitchen",
     "latitude": 48.2438471,
-    "longitude": 14.549776
+    "longitude": 14.549776,
+    "postcode": "4310",
+    "city": "Mauthausen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Opel Wipplinger",
@@ -42,7 +62,9 @@
     "shop": "car_repair",
     "latitude": 48.241984,
     "longitude": 14.5468096,
-    "brand": "Opel;KIA"
+    "brand": "Opel;KIA",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Volvo, Suzuki",
@@ -50,6 +72,10 @@
     "shop": "car",
     "latitude": 48.246214,
     "longitude": 14.5480579,
-    "brand": "Volvo, Suzuki"
+    "brand": "Volvo, Suzuki",
+    "postcode": "4310",
+    "city": "Mauthausen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,35 +4,51 @@
     "retailer": "shop_equestrian",
     "shop": "equestrian",
     "latitude": 47.0305672,
-    "longitude": 15.4702016
+    "longitude": 15.4702016,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Farben Toyfl",
     "retailer": "farben_toyfl",
     "shop": "paint",
     "latitude": 47.0367036,
-    "longitude": 15.4790666
+    "longitude": 15.4790666,
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "For4You Handels GmbH",
     "retailer": "for4you_handels_gmbh",
     "shop": "wholesale",
     "latitude": 47.0331186,
-    "longitude": 15.4786586
+    "longitude": 15.4786586,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Garden Centre",
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 47.031897,
-    "longitude": 15.4728089
+    "longitude": 15.4728089,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Himmelblau Bestattungen",
     "retailer": "himmelblau_bestattungen",
     "shop": "funeral_directors",
     "latitude": 47.0346821,
-    "longitude": 15.4789787
+    "longitude": 15.4789787,
+    "postcode": "8042",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hornbach",
@@ -40,20 +56,30 @@
     "shop": "doityourself",
     "latitude": 47.0324234,
     "longitude": 15.4738658,
-    "brand": "HORNBACH"
+    "brand": "HORNBACH",
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "K.E.M. Montage GmbH",
     "retailer": "k_e_m_montage_gmbh",
     "shop": "wholesale",
     "latitude": 47.033237,
-    "longitude": 15.4789777
+    "longitude": 15.4789777,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trade",
     "retailer": "shop_trade",
     "shop": "trade",
     "latitude": 47.0330025,
-    "longitude": 15.4754802
+    "longitude": 15.4754802,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

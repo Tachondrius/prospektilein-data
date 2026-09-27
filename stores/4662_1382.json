@@ -5,35 +5,47 @@
     "shop": "supermarket",
     "latitude": 46.6299001,
     "longitude": 13.8261557,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumen Skofitsch",
     "retailer": "blumen_skofitsch",
     "shop": "florist",
     "latitude": 46.629857,
-    "longitude": 13.8253743
+    "longitude": 13.8253743,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Cafebäckerei Franz Pacher",
     "retailer": "cafebackerei_franz_pacher",
     "shop": "bakery",
     "latitude": 46.6295701,
-    "longitude": 13.8255256
+    "longitude": 13.8255256,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Die Geschenk IDEE",
     "retailer": "die_geschenk_idee",
     "shop": "gift",
     "latitude": 46.6294236,
-    "longitude": 13.8259733
+    "longitude": 13.8259733,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Friseur Ressmann",
     "retailer": "friseur_ressmann",
     "shop": "hairdresser",
     "latitude": 46.6293401,
-    "longitude": 13.8265743
+    "longitude": 13.8265743,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KiK",
@@ -41,7 +53,9 @@
     "shop": "clothes",
     "latitude": 46.6295227,
     "longitude": 13.8269771,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Libro",
@@ -49,14 +63,20 @@
     "shop": "books",
     "latitude": 46.6294441,
     "longitude": 13.8258514,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Perro",
     "retailer": "perro",
     "shop": "pet",
     "latitude": 46.6293493,
-    "longitude": 13.8264485
+    "longitude": 13.8264485,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "T-Mobile",
@@ -64,7 +84,9 @@
     "shop": "mobile_phone",
     "latitude": 46.6293179,
     "longitude": 13.8267357,
-    "brand": "Magenta"
+    "brand": "Magenta",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "TEDi",
@@ -72,20 +94,26 @@
     "shop": "variety_store",
     "latitude": 46.629302,
     "longitude": 13.8269187,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trafik Auer",
     "retailer": "trafik_auer",
     "shop": "kiosk",
     "latitude": 46.6297624,
-    "longitude": 13.8256221
+    "longitude": 13.8256221,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "VEZ",
     "retailer": "vez",
     "shop": "mall",
     "latitude": 46.6296924,
-    "longitude": 13.8258345
+    "longitude": 13.8258345,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

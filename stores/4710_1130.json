@@ -4,35 +4,49 @@
     "retailer": "blumen_mayer",
     "shop": "florist",
     "latitude": 47.1083774,
-    "longitude": 11.3010853
+    "longitude": 11.3010853,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseursaloon Mirella",
     "retailer": "friseursaloon_mirella",
     "shop": "hairdresser",
     "latitude": 47.1087851,
-    "longitude": 11.3028277
+    "longitude": 11.3028277,
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Johann Gumpold Weine und Spirituosen",
     "retailer": "johann_gumpold_weine_und_spirituosen",
     "shop": "alcohol",
     "latitude": 47.1094371,
-    "longitude": 11.3045734
+    "longitude": 11.3045734,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kantenwerk - Ski & Snowboard Service",
     "retailer": "kantenwerk_ski_und_snowboard_service",
     "shop": "sports",
     "latitude": 47.1084234,
-    "longitude": 11.3002479
+    "longitude": 11.3002479,
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mode Stadl",
     "retailer": "mode_stadl",
     "shop": "clothes",
     "latitude": 47.1099023,
-    "longitude": 11.3055909
+    "longitude": 11.3055909,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -40,20 +54,30 @@
     "shop": "clothes",
     "latitude": 47.1095655,
     "longitude": 11.3062349,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pardeller",
     "retailer": "pardeller",
     "shop": "bakery",
     "latitude": 47.1094137,
-    "longitude": 11.3047074
+    "longitude": 11.3047074,
+    "postcode": "6167",
+    "city": "Neustift im Stubaital",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "newsagent",
     "latitude": 47.1098202,
-    "longitude": 11.3061933
+    "longitude": 11.3061933,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

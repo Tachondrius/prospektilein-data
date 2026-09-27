@@ -4,13 +4,19 @@
     "retailer": "biohof_holzmuller",
     "shop": "farm",
     "latitude": 48.6998134,
-    "longitude": 15.1192897
+    "longitude": 15.1192897,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ WANDL",
     "retailer": "kfz_wandl",
     "shop": "car_repair",
     "latitude": 48.6995978,
-    "longitude": 15.1173715
+    "longitude": 15.1173715,
+    "postcode": "3932",
+    "city": "Schweiggers",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

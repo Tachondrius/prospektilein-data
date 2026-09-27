@@ -4,21 +4,28 @@
     "retailer": "backstuba_gstrein",
     "shop": "bakery",
     "latitude": 46.9582578,
-    "longitude": 11.0100733
+    "longitude": 11.0100733,
+    "city": "Sölden",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 46.957489,
-    "longitude": 11.0104767
+    "longitude": 11.0104767,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofmetzgerei Wilhelm",
     "retailer": "hofmetzgerei_wilhelm",
     "shop": "butcher",
     "latitude": 46.9556752,
-    "longitude": 11.0108918
+    "longitude": 11.0108918,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -26,6 +33,10 @@
     "shop": "supermarket",
     "latitude": 46.9543494,
     "longitude": 11.0128355,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6450",
+    "city": "Sölden",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

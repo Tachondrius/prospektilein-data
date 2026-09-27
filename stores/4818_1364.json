@@ -5,35 +5,53 @@
     "shop": "supermarket",
     "latitude": 48.1839594,
     "longitude": 13.6417889,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "4680",
+    "city": "Haag am Hausruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Beauty by Sani",
     "retailer": "beauty_by_sani",
     "shop": "beauty",
     "latitude": 48.1804602,
-    "longitude": 13.6480209
+    "longitude": 13.6480209,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bertl´s Basar",
     "retailer": "bertl_s_basar",
     "shop": "kiosk",
     "latitude": 48.1834497,
-    "longitude": 13.6427486
+    "longitude": 13.6427486,
+    "postcode": "4680",
+    "city": "Haag am Hausruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bestattungen Dallinger",
     "retailer": "bestattungen_dallinger",
     "shop": "funeral_directors",
     "latitude": 48.1860269,
-    "longitude": 13.6409976
+    "longitude": 13.6409976,
+    "postcode": "4680",
+    "city": "Haag am Hausruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eisen Pauli",
     "retailer": "eisen_pauli",
     "shop": "convenience",
     "latitude": 48.1837791,
-    "longitude": 13.6422193
+    "longitude": 13.6422193,
+    "postcode": "4680",
+    "city": "Haag am Hausruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -41,20 +59,32 @@
     "shop": "supermarket",
     "latitude": 48.181634,
     "longitude": 13.6471458,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4680",
+    "city": "Haag am Hausruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Leuchtenmüller",
     "retailer": "leuchtenmuller",
     "shop": "electronics",
     "latitude": 48.1837434,
-    "longitude": 13.6428345
+    "longitude": 13.6428345,
+    "postcode": "4680",
+    "city": "Haag am Hausruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "SANDBERGER's Haarstudio Haag",
     "retailer": "sandberger_s_haarstudio_haag",
     "shop": "hairdresser",
     "latitude": 48.1819426,
-    "longitude": 13.6442125
+    "longitude": 13.6442125,
+    "postcode": "4680",
+    "city": "Haag am Hausruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

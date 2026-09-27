@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 48.1158867,
     "longitude": 15.5349952,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "3205",
+    "city": "Weinburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Stachelberger",
     "retailer": "kfz_stachelberger",
     "shop": "car_repair",
     "latitude": 48.1153182,
-    "longitude": 15.5352305
+    "longitude": 15.5352305,
+    "postcode": "3205",
+    "city": "Weinburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

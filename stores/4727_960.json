@@ -4,21 +4,31 @@
     "retailer": "auto_palm",
     "shop": "car_repair",
     "latitude": 47.2777251,
-    "longitude": 9.6068582
+    "longitude": 9.6068582,
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Create-Sports",
     "retailer": "create_sports",
     "shop": "sports",
     "latitude": 47.2702408,
-    "longitude": 9.6062871
+    "longitude": 9.6062871,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Der Bücherbasar",
     "retailer": "der_bucherbasar",
     "shop": "books",
     "latitude": 47.277606,
-    "longitude": 9.6072744
+    "longitude": 9.6072744,
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "DM",
@@ -26,14 +36,22 @@
     "shop": "chemist",
     "latitude": 47.273378,
     "longitude": 9.6077,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Haarteam Tschütscher",
     "retailer": "haarteam_tschutscher",
     "shop": "hairdresser",
     "latitude": 47.2780446,
-    "longitude": 9.6094612
+    "longitude": 9.6094612,
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hofer",
@@ -41,7 +59,11 @@
     "shop": "supermarket",
     "latitude": 47.2727916,
     "longitude": 9.6080559,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Intersport",
@@ -49,6 +71,10 @@
     "shop": "sports",
     "latitude": 47.2738931,
     "longitude": 9.6075486,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6830",
+    "city": "Rankweil",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

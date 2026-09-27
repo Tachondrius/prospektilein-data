@@ -4,21 +4,31 @@
     "retailer": "boutique_courage",
     "shop": "clothes",
     "latitude": 47.4571923,
-    "longitude": 9.9626392
+    "longitude": 9.9626392,
+    "postcode": "6952",
+    "city": "Hittisau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Gotthard Sport",
     "retailer": "gotthard_sport",
     "shop": "sports",
     "latitude": 47.4568182,
-    "longitude": 9.9610002
+    "longitude": 9.9610002,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Intersport Spettel",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 47.4570772,
-    "longitude": 9.9629356
+    "longitude": 9.9629356,
+    "postcode": "6952",
+    "city": "Hittisau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lagerhaus",
@@ -26,21 +36,31 @@
     "shop": "doityourself",
     "latitude": 47.4567593,
     "longitude": 9.961085,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "6952",
+    "city": "Hittisau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "RiGel Reisen",
     "retailer": "rigel_reisen",
     "shop": "travel_agency",
     "latitude": 47.4582989,
-    "longitude": 9.9608377
+    "longitude": 9.9608377,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sennerei Hittisau",
     "retailer": "sennerei_hittisau",
     "shop": "cheese",
     "latitude": 47.4572717,
-    "longitude": 9.9611516
+    "longitude": 9.9611516,
+    "postcode": "6952",
+    "city": "Hittisau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -48,6 +68,9 @@
     "shop": "supermarket",
     "latitude": 47.4579626,
     "longitude": 9.9609868,
-    "brand": "Spar"
+    "brand": "Spar",
+    "city": "Hittisau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

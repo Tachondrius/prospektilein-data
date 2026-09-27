@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.3859011,
     "longitude": 13.4574133,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "PENNY",
@@ -13,20 +17,32 @@
     "shop": "supermarket",
     "latitude": 47.3847672,
     "longitude": 13.4584222,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tri Alpin",
     "retailer": "tri_alpin",
     "shop": "sports",
     "latitude": 47.3850442,
-    "longitude": 13.457957
+    "longitude": 13.457957,
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "VW Werkstätte",
     "retailer": "vw_werkstatte",
     "shop": "car_repair",
     "latitude": 47.3862114,
-    "longitude": 13.4533638
+    "longitude": 13.4533638,
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

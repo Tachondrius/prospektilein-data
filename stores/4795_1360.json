@@ -4,20 +4,28 @@
     "retailer": "autohaus_lenzenweger",
     "shop": "car_repair",
     "latitude": 47.9537881,
-    "longitude": 13.6027757
+    "longitude": 13.6027757,
+    "postcode": "4863",
+    "city": "Seewalchen am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autoverwertung Legat",
     "retailer": "autoverwertung_legat",
     "shop": "car_parts",
     "latitude": 47.9545561,
-    "longitude": 13.6061632
+    "longitude": 13.6061632,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Legat Autohaus Seewalchen GmbH",
     "retailer": "legat_autohaus_seewalchen_gmbh",
     "shop": "car",
     "latitude": 47.9552541,
-    "longitude": 13.6065936
+    "longitude": 13.6065936,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 46.7204909,
     "longitude": 15.2531848,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8551",
+    "city": "Wies",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Re-use Shop Sulmtal-Koralm",
     "retailer": "re_use_shop_sulmtal_koralm",
     "shop": "second_hand",
     "latitude": 46.7270617,
-    "longitude": 15.2511625
+    "longitude": 15.2511625,
+    "postcode": "8551",
+    "city": "Wies",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

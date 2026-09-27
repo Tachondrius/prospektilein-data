@@ -4,7 +4,11 @@
     "retailer": "auto_graber",
     "shop": "car_repair",
     "latitude": 47.0977327,
-    "longitude": 11.4649472
+    "longitude": 11.4649472,
+    "postcode": "6150",
+    "city": "Steinach am Brenner",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,35 +16,45 @@
     "shop": "bakery",
     "latitude": 47.0991076,
     "longitude": 11.4639682,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Pardeller",
     "retailer": "backerei_pardeller",
     "shop": "bakery",
     "latitude": 47.0910216,
-    "longitude": 11.467035
+    "longitude": 11.467035,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Steiner",
     "retailer": "friseur_steiner",
     "shop": "hairdresser",
     "latitude": 47.090944,
-    "longitude": 11.4666474
+    "longitude": 11.4666474,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "LEA - Schmuck und Uhren",
     "retailer": "lea_schmuck_und_uhren",
     "shop": "jewelry",
     "latitude": 47.0912024,
-    "longitude": 11.4669009
+    "longitude": 11.4669009,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Holzmann",
     "retailer": "metzgerei_holzmann",
     "shop": "butcher",
     "latitude": 47.0905952,
-    "longitude": 11.4667627
+    "longitude": 11.4667627,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -48,28 +62,38 @@
     "shop": "supermarket",
     "latitude": 47.098925,
     "longitude": 11.4641293,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6150",
+    "city": "Steinach am Brenner",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Optik Geir",
     "retailer": "optik_geir",
     "shop": "optician",
     "latitude": 47.091264,
-    "longitude": 11.4668895
+    "longitude": 11.4668895,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Gerti",
     "retailer": "salon_gerti",
     "shop": "hairdresser",
     "latitude": 47.0915521,
-    "longitude": 11.4664449
+    "longitude": 11.4664449,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sannis Frisurenwerkstatt",
     "retailer": "sannis_frisurenwerkstatt",
     "shop": "hairdresser",
     "latitude": 47.0922113,
-    "longitude": 11.4669532
+    "longitude": 11.4669532,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -77,27 +101,37 @@
     "shop": "supermarket",
     "latitude": 47.0950245,
     "longitude": 11.4658352,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6150",
+    "city": "Steinach am Brenner",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Resch",
     "retailer": "sport_resch",
     "shop": "bicycle",
     "latitude": 47.0909764,
-    "longitude": 11.4660667
+    "longitude": 11.4660667,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tyrolia",
     "retailer": "tyrolia",
     "shop": "books",
     "latitude": 47.0908682,
-    "longitude": 11.4670698
+    "longitude": 11.4670698,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vinothek Nagele",
     "retailer": "vinothek_nagele",
     "shop": "wine",
     "latitude": 47.090749,
-    "longitude": 11.4690587
+    "longitude": 11.4690587,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

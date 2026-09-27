@@ -5,69 +5,99 @@
     "shop": "supermarket",
     "latitude": 48.2381309,
     "longitude": 16.3186286,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Cafe Mayer",
     "retailer": "cafe_mayer",
     "shop": "bakery",
     "latitude": 48.2333744,
-    "longitude": 16.317335
+    "longitude": 16.317335,
+    "postcode": "1180",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "DAS FLORarium",
     "retailer": "das_florarium",
     "shop": "florist",
     "latitude": 48.2322947,
-    "longitude": 16.3176819
+    "longitude": 16.3176819,
+    "postcode": "1180",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Direkt Vom Bauer",
     "retailer": "direkt_vom_bauer",
     "shop": "farm",
     "latitude": 48.2397605,
-    "longitude": 16.3148958
+    "longitude": 16.3148958,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Frisör Konsel",
     "retailer": "frisor_konsel",
     "shop": "hairdresser",
     "latitude": 48.2361123,
-    "longitude": 16.3152278
+    "longitude": 16.3152278,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Linsbichler",
     "retailer": "linsbichler",
     "shop": "bakery",
     "latitude": 48.2386618,
-    "longitude": 16.318303
+    "longitude": 16.318303,
+    "postcode": "1180",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Miachel Götz",
     "retailer": "miachel_gotz",
     "shop": "car_repair",
     "latitude": 48.2365305,
-    "longitude": 16.315318
+    "longitude": 16.315318,
+    "postcode": "1180",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Polpetti",
     "retailer": "polpetti",
     "shop": "deli",
     "latitude": 48.2384488,
-    "longitude": 16.3197197
+    "longitude": 16.3197197,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tailor",
     "retailer": "shop_tailor",
     "shop": "tailor",
     "latitude": 48.2322254,
-    "longitude": 16.3180153
+    "longitude": 16.3180153,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik Schreiner",
     "retailer": "trafik_schreiner",
     "shop": "tobacco",
     "latitude": 48.2395869,
-    "longitude": 16.3161489
+    "longitude": 16.3161489,
+    "postcode": "1180",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

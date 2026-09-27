@@ -4,7 +4,11 @@
     "retailer": "bestattung_peinhopf",
     "shop": "funeral_directors",
     "latitude": 46.7568479,
-    "longitude": 15.201499
+    "longitude": 15.201499,
+    "postcode": "8541",
+    "city": "Schwanberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,20 +16,30 @@
     "shop": "supermarket",
     "latitude": 46.7586902,
     "longitude": 15.2069645,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8541",
+    "city": "Schwanberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kamplstub'n",
     "retailer": "kamplstub_n",
     "shop": "hairdresser",
     "latitude": 46.7558556,
-    "longitude": 15.2002479
+    "longitude": 15.2002479,
+    "postcode": "8541",
+    "city": "Schwanberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mauthner",
     "retailer": "mauthner",
     "shop": "butcher",
     "latitude": 46.757067,
-    "longitude": 15.2007647
+    "longitude": 15.2007647,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

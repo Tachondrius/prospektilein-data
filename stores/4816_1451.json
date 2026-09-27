@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1610667,
     "longitude": 14.5144436,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,14 +17,22 @@
     "shop": "chemist",
     "latitude": 48.1690418,
     "longitude": 14.5145264,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blackbeard's Scoot'n Skate Parts",
     "retailer": "blackbeard_s_scoot_n_skate_parts",
     "shop": "sports",
     "latitude": 48.169583,
-    "longitude": 14.5135059
+    "longitude": 14.5135059,
+    "postcode": "4300",
+    "city": "Sankt Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -28,7 +40,11 @@
     "shop": "supermarket",
     "latitude": 48.1670301,
     "longitude": 14.5145916,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4300",
+    "city": "Sankt Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Expert",
@@ -36,14 +52,18 @@
     "shop": "electronics",
     "latitude": 48.1684279,
     "longitude": 14.5140944,
-    "brand": "Expert"
+    "brand": "Expert",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kleestorfer",
     "retailer": "kleestorfer",
     "shop": "bakery",
     "latitude": 48.1696661,
-    "longitude": 14.5134497
+    "longitude": 14.5134497,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -51,7 +71,11 @@
     "shop": "houseware",
     "latitude": 48.1694436,
     "longitude": 14.5193588,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "OBI",
@@ -59,7 +83,11 @@
     "shop": "doityourself",
     "latitude": 48.1671087,
     "longitude": 14.5136151,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "4300",
+    "city": "Sankt Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -67,20 +95,32 @@
     "shop": "supermarket",
     "latitude": 48.1691366,
     "longitude": 14.5144191,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "4300",
+    "city": "Sankt Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sonnleitner",
     "retailer": "sonnleitner",
     "shop": "car",
     "latitude": 48.165699,
-    "longitude": 14.5156166
+    "longitude": 14.5156166,
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak-Trafik Weichselbaum",
     "retailer": "tabak_trafik_weichselbaum",
     "shop": "kiosk",
     "latitude": 48.1613237,
-    "longitude": 14.5152542
+    "longitude": 14.5152542,
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

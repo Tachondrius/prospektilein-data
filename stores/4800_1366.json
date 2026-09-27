@@ -5,14 +5,22 @@
     "shop": "car",
     "latitude": 48.0035476,
     "longitude": 13.6652751,
-    "brand": "Audi"
+    "brand": "Audi",
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Derendinger Handels GmbH - Derendinger Handels GmbH - Autoteile vom Experten",
     "retailer": "derendinger_handels_gmbh_derendinger_handels_gmbh_autoteile_vom_experten",
     "shop": "car_repair",
     "latitude": 48.0065784,
-    "longitude": 13.6618259
+    "longitude": 13.6618259,
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -20,21 +28,32 @@
     "shop": "chemist",
     "latitude": 48.0030437,
     "longitude": 13.6693596,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Getränkemarkt Otmar Lux",
     "retailer": "getrankemarkt_otmar_lux",
     "shop": "wine",
     "latitude": 48.003463,
-    "longitude": 13.6637263
+    "longitude": 13.6637263,
+    "postcode": "4810",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Glaserei Kröll OG",
     "retailer": "glaserei_kroll_og",
     "shop": "interior_decoration",
     "latitude": 48.0069371,
-    "longitude": 13.6625338
+    "longitude": 13.6625338,
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "MediaMarkt Vöcklabruck",
@@ -42,7 +61,11 @@
     "shop": "electronics",
     "latitude": 48.0025652,
     "longitude": 13.6698132,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mercedes-Benz",
@@ -50,35 +73,53 @@
     "shop": "car",
     "latitude": 48.0031661,
     "longitude": 13.6609863,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Okay- Shop",
     "retailer": "okay_shop",
     "shop": "second_hand",
     "latitude": 48.0058855,
-    "longitude": 13.6635488
+    "longitude": 13.6635488,
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Profi Reifen",
     "retailer": "profi_reifen",
     "shop": "tyres",
     "latitude": 48.003157,
-    "longitude": 13.6616301
+    "longitude": 13.6616301,
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.0096475,
-    "longitude": 13.6634486
+    "longitude": 13.6634486,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Varena",
     "retailer": "varena",
     "shop": "mall",
     "latitude": 48.0028402,
-    "longitude": 13.6688112
+    "longitude": 13.6688112,
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Volkswagen",
@@ -86,20 +127,30 @@
     "shop": "car",
     "latitude": 48.0040721,
     "longitude": 13.6653079,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wandl's Gwandl",
     "retailer": "wandl_s_gwandl",
     "shop": "clothes",
     "latitude": 48.0010928,
-    "longitude": 13.6616128
+    "longitude": 13.6616128,
+    "postcode": "4840",
+    "city": "Vöcklabruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "ÖBB Reisezentrum",
     "retailer": "obb_reisezentrum",
     "shop": "ticket",
     "latitude": 48.0098391,
-    "longitude": 13.6638033
+    "longitude": 13.6638033,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

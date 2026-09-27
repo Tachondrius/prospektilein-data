@@ -4,7 +4,11 @@
     "retailer": "konsumsaal",
     "shop": "kiosk",
     "latitude": 47.2358142,
-    "longitude": 9.6317768
+    "longitude": 9.6317768,
+    "postcode": "6811",
+    "city": "Göfis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.2358054,
     "longitude": 9.6301763,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6811",
+    "city": "Göfis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

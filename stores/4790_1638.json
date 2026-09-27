@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 47.9086582,
     "longitude": 16.3853775,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Huber",
     "retailer": "backerei_huber",
     "shop": "bakery",
     "latitude": 47.9098363,
-    "longitude": 16.3885483
+    "longitude": 16.3885483,
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -20,42 +28,64 @@
     "shop": "supermarket",
     "latitude": 47.9082577,
     "longitude": 16.3882044,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleisch Wurst Raditsch",
     "retailer": "fleisch_wurst_raditsch",
     "shop": "butcher",
     "latitude": 47.9095943,
-    "longitude": 16.3881994
+    "longitude": 16.3881994,
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Georg's Autocenter",
     "retailer": "georg_s_autocenter",
     "shop": "car",
     "latitude": 47.9024759,
-    "longitude": 16.3803935
+    "longitude": 16.3803935,
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Harrys Werkstatt",
     "retailer": "harrys_werkstatt",
     "shop": "car_repair",
     "latitude": 47.9030281,
-    "longitude": 16.3808655
+    "longitude": 16.3808655,
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pottendorfer Kebap-Pizza & Markt",
     "retailer": "pottendorfer_kebap_pizza_und_markt",
     "shop": "convenience",
     "latitude": 47.9091676,
-    "longitude": 16.3872322
+    "longitude": 16.3872322,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Statzinger Brot GmbH",
     "retailer": "statzinger_brot_gmbh",
     "shop": "bakery",
     "latitude": 47.909924,
-    "longitude": 16.3899091
+    "longitude": 16.3899091,
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik Tschida",
@@ -63,6 +93,10 @@
     "shop": "tobacco",
     "latitude": 47.9088449,
     "longitude": 16.3871255,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

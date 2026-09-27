@@ -5,13 +5,19 @@
     "shop": "doityourself",
     "latitude": 47.5181408,
     "longitude": 16.1953391,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2851",
+    "city": "Krumbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.5166508,
-    "longitude": 16.1949254
+    "longitude": 16.1949254,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

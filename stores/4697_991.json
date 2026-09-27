@@ -4,7 +4,9 @@
     "retailer": "rent_ski_madrisa",
     "shop": "rental",
     "latitude": 46.9708322,
-    "longitude": 9.9175095
+    "longitude": 9.9175095,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -12,6 +14,9 @@
     "shop": "convenience",
     "latitude": 46.9715686,
     "longitude": 9.9184307,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6787",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

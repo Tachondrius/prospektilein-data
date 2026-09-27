@@ -4,14 +4,20 @@
     "retailer": "arbo_prufzentrum_gmunden",
     "shop": "car_repair",
     "latitude": 47.9319443,
-    "longitude": 13.7820376
+    "longitude": 13.7820376,
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autec",
     "retailer": "autec",
     "shop": "car_parts",
     "latitude": 47.931929,
-    "longitude": 13.7810987
+    "longitude": 13.7810987,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa stop & shop",
@@ -19,7 +25,9 @@
     "shop": "convenience",
     "latitude": 47.9342426,
     "longitude": 13.7861783,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -27,21 +35,33 @@
     "shop": "chemist",
     "latitude": 47.9339215,
     "longitude": 13.7876434,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Reingruber",
     "retailer": "backerei_reingruber",
     "shop": "bakery",
     "latitude": 47.930175,
-    "longitude": 13.7852109
+    "longitude": 13.7852109,
+    "postcode": "4812",
+    "city": "Pinsdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Edthofer Großhandel",
     "retailer": "edthofer_grohandel",
     "shop": "greengrocer",
     "latitude": 47.9319577,
-    "longitude": 13.7816325
+    "longitude": 13.7816325,
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -49,7 +69,9 @@
     "shop": "supermarket",
     "latitude": 47.9332583,
     "longitude": 13.7869967,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fressnapf",
@@ -57,14 +79,22 @@
     "shop": "pet",
     "latitude": 47.9305468,
     "longitude": 13.7872387,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hervis",
     "retailer": "hervis",
     "shop": "sports",
     "latitude": 47.933632,
-    "longitude": 13.7873197
+    "longitude": 13.7873197,
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -72,7 +102,11 @@
     "shop": "supermarket",
     "latitude": 47.9348128,
     "longitude": 13.7894332,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "JYSK",
@@ -80,7 +114,11 @@
     "shop": "furniture",
     "latitude": 47.930829,
     "longitude": 13.7863505,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KiK",
@@ -88,7 +126,9 @@
     "shop": "clothes",
     "latitude": 47.9311831,
     "longitude": 13.786062,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Libro",
@@ -96,7 +136,9 @@
     "shop": "books",
     "latitude": 47.9339838,
     "longitude": 13.7877131,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "OBI",
@@ -104,21 +146,33 @@
     "shop": "doityourself",
     "latitude": 47.9322687,
     "longitude": 13.7866555,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pagro Diskont",
     "retailer": "pagro",
     "shop": "stationery",
     "latitude": 47.9304568,
-    "longitude": 13.7870624
+    "longitude": 13.7870624,
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reifenteam point S",
     "retailer": "reifenteam_point_s",
     "shop": "tyres",
     "latitude": 47.9319344,
-    "longitude": 13.7807795
+    "longitude": 13.7807795,
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Takko",
@@ -126,7 +180,9 @@
     "shop": "clothes",
     "latitude": 47.9308988,
     "longitude": 13.7858461,
-    "brand": "Takko"
+    "brand": "Takko",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TEDi",
@@ -134,6 +190,10 @@
     "shop": "variety_store",
     "latitude": 47.9308303,
     "longitude": 13.7866757,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "4810",
+    "city": "Gmunden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

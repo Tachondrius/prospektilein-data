@@ -4,14 +4,18 @@
     "retailer": "andrea_schmuck",
     "shop": "jewelry",
     "latitude": 48.140236,
-    "longitude": 13.7360585
+    "longitude": 13.7360585,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Auto Haiser",
     "retailer": "auto_haiser",
     "shop": "car",
     "latitude": 48.1423009,
-    "longitude": 13.7357882
+    "longitude": 13.7357882,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Friedwagner",
@@ -19,7 +23,11 @@
     "shop": "car",
     "latitude": 48.1488728,
     "longitude": 13.7336605,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "4673",
+    "city": "Gaspoltshofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "EP Schrattenecker",
@@ -27,21 +35,29 @@
     "shop": "electronics",
     "latitude": 48.1409336,
     "longitude": 13.7366505,
-    "brand": "EP:"
+    "brand": "EP:",
+    "postcode": "4673",
+    "city": "Gaspoltshofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Humer",
     "retailer": "humer",
     "shop": "butcher",
     "latitude": 48.1424546,
-    "longitude": 13.7366029
+    "longitude": 13.7366029,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mein Fiseur",
     "retailer": "mein_fiseur",
     "shop": "hairdresser",
     "latitude": 48.1431779,
-    "longitude": 13.7360962
+    "longitude": 13.7360962,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Profi Baumarkt",
@@ -49,7 +65,11 @@
     "shop": "doityourself",
     "latitude": 48.1404419,
     "longitude": 13.7351948,
-    "brand": "Bau Profi"
+    "brand": "Bau Profi",
+    "postcode": "4673",
+    "city": "Gaspoltshofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -57,6 +77,8 @@
     "shop": "supermarket",
     "latitude": 48.1427396,
     "longitude": 13.7358429,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

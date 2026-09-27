@@ -4,35 +4,49 @@
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 48.3318137,
-    "longitude": 16.0611292
+    "longitude": 16.0611292,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ford Grühbaum",
     "retailer": "ford_gruhbaum",
     "shop": "car_repair",
     "latitude": 48.3307325,
-    "longitude": 16.0654278
+    "longitude": 16.0654278,
+    "postcode": "3430",
+    "city": "Tulln",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.3304351,
-    "longitude": 16.0673605
+    "longitude": 16.0673605,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch punkt",
     "retailer": "nah_und_frisch",
     "shop": "convenience",
     "latitude": 48.3315393,
-    "longitude": 16.064467
+    "longitude": 16.064467,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Shop Marine Power",
     "retailer": "shop_marine_power",
     "shop": "department_store",
     "latitude": 48.333578,
-    "longitude": 16.067018
+    "longitude": 16.067018,
+    "postcode": "3430",
+    "city": "Tulln",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -40,6 +54,8 @@
     "shop": "supermarket",
     "latitude": 48.3305389,
     "longitude": 16.0670885,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

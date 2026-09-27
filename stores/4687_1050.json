@@ -4,13 +4,19 @@
     "retailer": "auto_hutter",
     "shop": "car_repair",
     "latitude": 46.8736079,
-    "longitude": 10.5093727
+    "longitude": 10.5093727,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sportshop Seilbahncenter Nauders",
     "retailer": "sportshop_seilbahncenter_nauders",
     "shop": "sports",
     "latitude": 46.8753141,
-    "longitude": 10.5089041
+    "longitude": 10.5089041,
+    "postcode": "6543",
+    "city": "Nauders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

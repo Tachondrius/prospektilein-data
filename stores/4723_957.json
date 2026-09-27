@@ -4,28 +4,37 @@
     "retailer": "happy_market",
     "shop": "convenience",
     "latitude": 47.2375764,
-    "longitude": 9.5768553
+    "longitude": 9.5768553,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hoch",
     "retailer": "hoch",
     "shop": "florist",
     "latitude": 47.2376104,
-    "longitude": 9.5767591
+    "longitude": 9.5767591,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "MG Hair Salon",
     "retailer": "mg_hair_salon",
     "shop": "hairdresser",
     "latitude": 47.2375511,
-    "longitude": 9.5768999
+    "longitude": 9.5768999,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schneideraum",
     "retailer": "schneideraum",
     "shop": "hairdresser",
     "latitude": 47.2365323,
-    "longitude": 9.5779139
+    "longitude": 9.5779139,
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sutterlüty",
@@ -33,6 +42,10 @@
     "shop": "supermarket",
     "latitude": 47.2382139,
     "longitude": 9.5763418,
-    "brand": "Sutterlüty"
+    "brand": "Sutterlüty",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

@@ -4,42 +4,60 @@
     "retailer": "backerei_horschlager",
     "shop": "bakery",
     "latitude": 48.4677009,
-    "longitude": 14.163513
+    "longitude": 14.163513,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Elektro Füreder",
     "retailer": "elektro_fureder",
     "shop": "electronics",
     "latitude": 48.4681454,
-    "longitude": 14.1644733
+    "longitude": 14.1644733,
+    "postcode": "4173",
+    "city": "St. Veit im Mühlkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 48.467553,
-    "longitude": 14.1625019
+    "longitude": 14.1625019,
+    "postcode": "4173",
+    "city": "St. Veit im Mühlkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Krauck",
     "retailer": "krauck",
     "shop": "car_repair",
     "latitude": 48.4675042,
-    "longitude": 14.16295
+    "longitude": 14.16295,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Neundlinger",
     "retailer": "neundlinger",
     "shop": "shoes",
     "latitude": 48.4678809,
-    "longitude": 14.1633826
+    "longitude": 14.1633826,
+    "postcode": "4173",
+    "city": "St. Veit im Mühlkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schuhmoden Neundlinger",
     "retailer": "schuhmoden_neundlinger",
     "shop": "clothes",
     "latitude": 48.4678368,
-    "longitude": 14.1633067
+    "longitude": 14.1633067,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -47,13 +65,19 @@
     "shop": "supermarket",
     "latitude": 48.4674228,
     "longitude": 14.1619302,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4173",
+    "city": "St. Veit im Mühlkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Vinothek Hörschläger",
     "retailer": "vinothek_horschlager",
     "shop": "alcohol",
     "latitude": 48.467666,
-    "longitude": 14.1634756
+    "longitude": 14.1634756,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,14 +5,20 @@
     "shop": "chemist",
     "latitude": 47.5575473,
     "longitude": 16.0932064,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2870",
+    "city": "Aspang-Markt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Elektro Nagl",
     "retailer": "elektro_nagl",
     "shop": "electronics",
     "latitude": 47.5589973,
-    "longitude": 16.0933394
+    "longitude": 16.0933394,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -20,56 +26,78 @@
     "shop": "supermarket",
     "latitude": 47.5573328,
     "longitude": 16.0935729,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "2870",
+    "city": "Aspang-Markt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Greengrocer",
     "retailer": "shop_greengrocer",
     "shop": "greengrocer",
     "latitude": 47.5564811,
-    "longitude": 16.091619
+    "longitude": 16.091619,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gugerell",
     "retailer": "gugerell",
     "shop": "butcher",
     "latitude": 47.5541796,
-    "longitude": 16.0906121
+    "longitude": 16.0906121,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Seehofer",
     "retailer": "gartnerei_seehofer",
     "shop": "garden_centre",
     "latitude": 47.5543713,
-    "longitude": 16.0938491
+    "longitude": 16.0938491,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Huber Glas",
     "retailer": "huber_glas",
     "shop": "department_store",
     "latitude": 47.555083,
-    "longitude": 16.0907852
+    "longitude": 16.0907852,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Karin's Second Hand Shop",
     "retailer": "karin_s_second_hand_shop",
     "shop": "clothes",
     "latitude": 47.5539397,
-    "longitude": 16.0900234
+    "longitude": 16.0900234,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Koll",
     "retailer": "koll",
     "shop": "bakery",
     "latitude": 47.5540708,
-    "longitude": 16.0904583
+    "longitude": 16.0904583,
+    "postcode": "2870",
+    "city": "Aspang Markt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Marien Drogerie",
     "retailer": "marien_drogerie",
     "shop": "chemist",
     "latitude": 47.5554245,
-    "longitude": 16.0901434
+    "longitude": 16.0901434,
+    "postcode": "2870",
+    "city": "Aspang Markt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "s.Oliver",
@@ -77,6 +105,8 @@
     "shop": "clothes",
     "latitude": 47.5544519,
     "longitude": 16.0900787,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

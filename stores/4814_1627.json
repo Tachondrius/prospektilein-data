@@ -4,7 +4,11 @@
     "retailer": "mahemden_spulak",
     "shop": "tailor",
     "latitude": 48.1480221,
-    "longitude": 16.2741631
+    "longitude": 16.2741631,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "SPAR express",
@@ -12,6 +16,10 @@
     "shop": "convenience",
     "latitude": 48.1486812,
     "longitude": 16.2775339,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

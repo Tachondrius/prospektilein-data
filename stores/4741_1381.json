@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.4173033,
     "longitude": 13.8123876,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8966",
+    "city": "Aich-Assach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mein Zefferer",
     "retailer": "mein_zefferer",
     "shop": "butcher",
     "latitude": 47.4188834,
-    "longitude": 13.8188858
+    "longitude": 13.8188858,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "blumen_hofer_sabine",
     "shop": "florist",
     "latitude": 48.4169626,
-    "longitude": 14.0607495
+    "longitude": 14.0607495,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -12,20 +14,32 @@
     "shop": "doityourself",
     "latitude": 48.4177567,
     "longitude": 14.0620903,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "4113",
+    "city": "St. Martin im Mühlkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus St.Martin",
     "retailer": "lagerhaus_st_martin",
     "shop": "car_repair",
     "latitude": 48.4180664,
-    "longitude": 14.0615381
+    "longitude": 14.0615381,
+    "postcode": "4113",
+    "city": "St. Martin im Mühlkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sport Haderer",
     "retailer": "sport_haderer",
     "shop": "sports",
     "latitude": 48.4166605,
-    "longitude": 14.0626952
+    "longitude": 14.0626952,
+    "postcode": "4113",
+    "city": "St. Martin im Mühlkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

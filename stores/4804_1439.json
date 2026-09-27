@@ -4,27 +4,39 @@
     "retailer": "backerei_riess",
     "shop": "bakery",
     "latitude": 48.0431416,
-    "longitude": 14.39836
+    "longitude": 14.39836,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Der Hoffalter",
     "retailer": "der_hoffalter",
     "shop": "farm",
     "latitude": 48.0483728,
-    "longitude": 14.3976527
+    "longitude": 14.3976527,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.0442579,
-    "longitude": 14.3916459
+    "longitude": 14.3916459,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak-Trafik Bramauer",
     "retailer": "tabak_trafik_bramauer",
     "shop": "kiosk",
     "latitude": 48.0432318,
-    "longitude": 14.3985231
+    "longitude": 14.3985231,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

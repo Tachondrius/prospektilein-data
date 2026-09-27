@@ -4,7 +4,9 @@
     "retailer": "3dglas",
     "shop": "gift",
     "latitude": 47.0606945,
-    "longitude": 15.4267036
+    "longitude": 15.4267036,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "A1",
@@ -12,42 +14,62 @@
     "shop": "telecommunication",
     "latitude": 47.0600698,
     "longitude": 15.427715,
-    "brand": "A1"
+    "brand": "A1",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Agnello Obst-Gemüse-Südfrüchte Großhandels Gesmbh",
     "retailer": "agnello_obst_gemuse_sudfruchte_grohandels_gesmbh",
     "shop": "wholesale",
     "latitude": 47.0655316,
-    "longitude": 15.4226263
+    "longitude": 15.4226263,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "AKA Chukwu Afro Shop",
     "retailer": "aka_chukwu_afro_shop",
     "shop": "convenience",
     "latitude": 47.0663191,
-    "longitude": 15.4272161
+    "longitude": 15.4272161,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Akdag Lebensmittel",
     "retailer": "akdag_lebensmittel",
     "shop": "supermarket",
     "latitude": 47.065952,
-    "longitude": 15.428071
+    "longitude": 15.428071,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "AKDAG SHOP",
     "retailer": "akdag_shop",
     "shop": "supermarket",
     "latitude": 47.0672616,
-    "longitude": 15.4275076
+    "longitude": 15.4275076,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Akpolat Juwelier",
     "retailer": "akpolat_juwelier",
     "shop": "jewelry",
     "latitude": 47.0672525,
-    "longitude": 15.4263078
+    "longitude": 15.4263078,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ara",
@@ -55,56 +77,81 @@
     "shop": "shoes",
     "latitude": 47.0601933,
     "longitude": 15.4280243,
-    "brand": "ara"
+    "brand": "ara",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Asmira Mode",
     "retailer": "asmira_mode",
     "shop": "clothes",
     "latitude": 47.067608,
-    "longitude": 15.426814
+    "longitude": 15.426814,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Auto Akriv",
     "retailer": "auto_akriv",
     "shop": "car_parts",
     "latitude": 47.0663591,
-    "longitude": 15.4235142
+    "longitude": 15.4235142,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Auto Profi Kracher",
     "retailer": "auto_profi_kracher",
     "shop": "car_parts",
     "latitude": 47.0647817,
-    "longitude": 15.4241394
+    "longitude": 15.4241394,
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Robinson Kia",
     "retailer": "autohaus_robinson_kia",
     "shop": "car_repair",
     "latitude": 47.0615596,
-    "longitude": 15.4204166
+    "longitude": 15.4204166,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autosattlerei Wechtitsch",
     "retailer": "autosattlerei_wechtitsch",
     "shop": "car_repair",
     "latitude": 47.0662925,
-    "longitude": 15.4291987
+    "longitude": 15.4291987,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 47.0698584,
-    "longitude": 15.4211859
+    "longitude": 15.4211859,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bergmann",
     "retailer": "bergmann",
     "shop": "frame",
     "latitude": 47.0693595,
-    "longitude": 15.4287051
+    "longitude": 15.4287051,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -112,35 +159,49 @@
     "shop": "supermarket",
     "latitude": 47.0668704,
     "longitude": 15.4298955,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blue jeans & more",
     "retailer": "blue_jeans_und_more",
     "shop": "clothes",
     "latitude": 47.0610061,
-    "longitude": 15.426476
+    "longitude": 15.426476,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Botanic Matters",
     "retailer": "botanic_matters",
     "shop": "cannabis",
     "latitude": 47.0673067,
-    "longitude": 15.4216787
+    "longitude": 15.4216787,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bottega del gusto",
     "retailer": "bottega_del_gusto",
     "shop": "deli",
     "latitude": 47.0608025,
-    "longitude": 15.426327
+    "longitude": 15.426327,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Boutique Folger",
     "retailer": "boutique_folger",
     "shop": "clothes",
     "latitude": 47.0605047,
-    "longitude": 15.4271184
+    "longitude": 15.4271184,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Calzedonia",
@@ -148,21 +209,29 @@
     "shop": "clothes",
     "latitude": 47.060217,
     "longitude": 15.4277392,
-    "brand": "Calzedonia"
+    "brand": "Calzedonia",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "City Blumen",
     "retailer": "city_blumen",
     "shop": "florist",
     "latitude": 47.0600199,
-    "longitude": 15.4283884
+    "longitude": 15.4283884,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Citypark",
     "retailer": "citypark",
     "shop": "mall",
     "latitude": 47.0604087,
-    "longitude": 15.4271604
+    "longitude": 15.4271604,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Claire's",
@@ -170,14 +239,18 @@
     "shop": "fashion_accessories",
     "latitude": 47.0604604,
     "longitude": 15.427451,
-    "brand": "Claire's"
+    "brand": "Claire's",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Cocuni",
     "retailer": "cocuni",
     "shop": "clothes",
     "latitude": 47.0603048,
-    "longitude": 15.4268841
+    "longitude": 15.4268841,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deichmann",
@@ -185,7 +258,9 @@
     "shop": "shoes",
     "latitude": 47.0600964,
     "longitude": 15.428261,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Depot",
@@ -193,14 +268,20 @@
     "shop": "interior_decoration",
     "latitude": 47.0601227,
     "longitude": 15.4278161,
-    "brand": "Depot"
+    "brand": "Depot",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Der KOPIER Laden - Roswitha Wilfling KEG",
     "retailer": "der_kopier_laden_roswitha_wilfling_keg",
     "shop": "copyshop",
     "latitude": 47.0666683,
-    "longitude": 15.4275019
+    "longitude": 15.4275019,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -208,35 +289,53 @@
     "shop": "chemist",
     "latitude": 47.0605394,
     "longitude": 15.426255,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "DM Frisör",
     "retailer": "dm",
     "shop": "hairdresser",
     "latitude": 47.0605092,
-    "longitude": 15.426085
+    "longitude": 15.426085,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "FastBox",
     "retailer": "fastbox",
     "shop": "car_repair",
     "latitude": 47.0616876,
-    "longitude": 15.422993
+    "longitude": 15.422993,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fight & Fitness Sportsworld",
     "retailer": "fight_und_fitness_sportsworld",
     "shop": "sports",
     "latitude": 47.0678846,
-    "longitude": 15.4267421
+    "longitude": 15.4267421,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fishing",
     "retailer": "shop_fishing",
     "shop": "fishing",
     "latitude": 47.0638709,
-    "longitude": 15.4239625
+    "longitude": 15.4239625,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Franz Wölfl GesmbH & Co KG",
@@ -244,21 +343,27 @@
     "shop": "car_repair",
     "latitude": 47.0649918,
     "longitude": 15.4203873,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "freiberger+stiger",
     "retailer": "freiberger_plus_stiger",
     "shop": "garden_centre",
     "latitude": 47.0666658,
-    "longitude": 15.4289322
+    "longitude": 15.4289322,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisör Käfer",
     "retailer": "frisor_kafer",
     "shop": "hairdresser",
     "latitude": 47.0685017,
-    "longitude": 15.4231738
+    "longitude": 15.4231738,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fussl",
@@ -266,7 +371,9 @@
     "shop": "clothes",
     "latitude": 47.0605401,
     "longitude": 15.4274259,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "H&M",
@@ -274,21 +381,29 @@
     "shop": "clothes",
     "latitude": 47.0600279,
     "longitude": 15.4278349,
-    "brand": "H&M"
+    "brand": "H&M",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haarlekin",
     "retailer": "haarlekin",
     "shop": "hairdresser",
     "latitude": 47.0693919,
-    "longitude": 15.4236547
+    "longitude": 15.4236547,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haarstudio Nevlana",
     "retailer": "haarstudio_nevlana",
     "shop": "hairdresser",
     "latitude": 47.0682712,
-    "longitude": 15.4266525
+    "longitude": 15.4266525,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hartlauer",
@@ -296,7 +411,9 @@
     "shop": "electronics",
     "latitude": 47.0602484,
     "longitude": 15.4279515,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hervis",
@@ -304,21 +421,29 @@
     "shop": "sports",
     "latitude": 47.060553,
     "longitude": 15.4263349,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Holiday Sun",
     "retailer": "holiday_sun",
     "shop": "beauty",
     "latitude": 47.0694926,
-    "longitude": 15.4237185
+    "longitude": 15.4237185,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hubert Auer",
     "retailer": "hubert_auer",
     "shop": "bakery",
     "latitude": 47.0600343,
-    "longitude": 15.4282848
+    "longitude": 15.4282848,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Humanic",
@@ -326,21 +451,27 @@
     "shop": "shoes",
     "latitude": 47.0609355,
     "longitude": 15.4261755,
-    "brand": "Humanic"
+    "brand": "Humanic",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ingrid's Exclusive",
     "retailer": "ingrid_s_exclusive",
     "shop": "clothes",
     "latitude": 47.0602981,
-    "longitude": 15.4273378
+    "longitude": 15.4273378,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intercoiffeur Mayer",
     "retailer": "intercoiffeur_mayer",
     "shop": "hairdresser",
     "latitude": 47.0601549,
-    "longitude": 15.4280651
+    "longitude": 15.4280651,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Interspar",
@@ -348,7 +479,11 @@
     "shop": "supermarket",
     "latitude": 47.0607948,
     "longitude": 15.4262521,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intimissimi",
@@ -356,42 +491,60 @@
     "shop": "clothes",
     "latitude": 47.0601858,
     "longitude": 15.4277995,
-    "brand": "Intimissimi"
+    "brand": "Intimissimi",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "K + K Modellbahnen",
     "retailer": "k_plus_k_modellbahnen",
     "shop": "model",
     "latitude": 47.0649825,
-    "longitude": 15.4254255
+    "longitude": 15.4254255,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kara Bâckerei",
     "retailer": "kara_backerei",
     "shop": "bakery",
     "latitude": 47.0663088,
-    "longitude": 15.4237449
+    "longitude": 15.4237449,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kedem",
     "retailer": "kedem",
     "shop": "yes",
     "latitude": 47.0605243,
-    "longitude": 15.4270275
+    "longitude": 15.4270275,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kern",
     "retailer": "kern",
     "shop": "bakery",
     "latitude": 47.06024,
-    "longitude": 15.4277786
+    "longitude": 15.4277786,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kfz-Meisterbetrieb David Bagola",
     "retailer": "kfz_meisterbetrieb_david_bagola",
     "shop": "car_repair",
     "latitude": 47.0695274,
-    "longitude": 15.420502
+    "longitude": 15.420502,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -399,42 +552,60 @@
     "shop": "clothes",
     "latitude": 47.0602616,
     "longitude": 15.427568,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "La Figora",
     "retailer": "la_figora",
     "shop": "hairdresser",
     "latitude": 47.0668354,
-    "longitude": 15.4284959
+    "longitude": 15.4284959,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Le Clou",
     "retailer": "le_clou",
     "shop": "gift",
     "latitude": 47.0604768,
-    "longitude": 15.4272549
+    "longitude": 15.4272549,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lemur Bike",
     "retailer": "lemur_bike",
     "shop": "bicycle",
     "latitude": 47.0680062,
-    "longitude": 15.4259407
+    "longitude": 15.4259407,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lipowec Sonnen- und Wetterschutz",
     "retailer": "lipowec_sonnen_und_wetterschutz",
     "shop": "yes",
     "latitude": 47.0672971,
-    "longitude": 15.4208433
+    "longitude": 15.4208433,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "LS Jeans",
     "retailer": "ls_jeans",
     "shop": "clothes",
     "latitude": 47.0608329,
-    "longitude": 15.426763
+    "longitude": 15.426763,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Magenta",
@@ -442,28 +613,40 @@
     "shop": "telecommunication",
     "latitude": 47.0603155,
     "longitude": 15.4270167,
-    "brand": "Magenta"
+    "brand": "Magenta",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Martin reformstark",
     "retailer": "martin_reformstark",
     "shop": "convenience",
     "latitude": 47.0603143,
-    "longitude": 15.4267861
+    "longitude": 15.4267861,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Merlin Handy Shop",
     "retailer": "merlin_handy_shop",
     "shop": "mobile_phone",
     "latitude": 47.0670941,
-    "longitude": 15.4258853
+    "longitude": 15.4258853,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mister Minit",
     "retailer": "mister_minit",
     "shop": "shoe_repair",
     "latitude": 47.06076,
-    "longitude": 15.4266844
+    "longitude": 15.4266844,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Morawa",
@@ -471,35 +654,49 @@
     "shop": "books",
     "latitude": 47.0602318,
     "longitude": 15.4280067,
-    "brand": "Morawa"
+    "brand": "Morawa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah&Frisch punkt",
     "retailer": "nah_und_frisch",
     "shop": "convenience",
     "latitude": 47.0656928,
-    "longitude": 15.4203669
+    "longitude": 15.4203669,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.0687983,
-    "longitude": 15.4232246
+    "longitude": 15.4232246,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Opio",
     "retailer": "opio",
     "shop": "clothes",
     "latitude": 47.0601359,
-    "longitude": 15.4278559
+    "longitude": 15.4278559,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Orthopädie Pammer",
     "retailer": "orthopadie_pammer",
     "shop": "orthopaedics",
     "latitude": 47.0698916,
-    "longitude": 15.4238458
+    "longitude": 15.4238458,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Peek & Cloppenburg",
@@ -507,42 +704,58 @@
     "shop": "clothes",
     "latitude": 47.0610212,
     "longitude": 15.4262086,
-    "brand": "Peek & Cloppenburg"
+    "brand": "Peek & Cloppenburg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Perfect Nails",
     "retailer": "perfect_nails",
     "shop": "beauty",
     "latitude": 47.0695916,
-    "longitude": 15.4237407
+    "longitude": 15.4237407,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "perludi - Kindermöbel",
     "retailer": "perludi_kindermobel",
     "shop": "furniture",
     "latitude": 47.0698032,
-    "longitude": 15.4282296
+    "longitude": 15.4282296,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pfandleihhaus",
     "retailer": "pfandleihhaus",
     "shop": "pawnbroker",
     "latitude": 47.0638175,
-    "longitude": 15.4245443
+    "longitude": 15.4245443,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pingouin Wolle",
     "retailer": "pingouin_wolle",
     "shop": "fabric",
     "latitude": 47.0608157,
-    "longitude": 15.4266627
+    "longitude": 15.4266627,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pittarello",
     "retailer": "pittarello",
     "shop": "shoes",
     "latitude": 47.061017,
-    "longitude": 15.4204841
+    "longitude": 15.4204841,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Porsche Austria IBS Stützpunkt Graz 1",
@@ -550,63 +763,87 @@
     "shop": "car_repair",
     "latitude": 47.0625161,
     "longitude": 15.4217023,
-    "brand": "Porsche"
+    "brand": "Porsche",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Prestij Herren Friseur",
     "retailer": "prestij_herren_friseur",
     "shop": "hairdresser",
     "latitude": 47.066675,
-    "longitude": 15.4293306
+    "longitude": 15.4293306,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Putzerei Sauberland",
     "retailer": "putzerei_sauberland",
     "shop": "dry_cleaning",
     "latitude": 47.0603237,
-    "longitude": 15.4266881
+    "longitude": 15.4266881,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reparaturwerkstatt Estiria",
     "retailer": "reparaturwerkstatt_estiria",
     "shop": "repair",
     "latitude": 47.0667649,
-    "longitude": 15.4279842
+    "longitude": 15.4279842,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Restplatzbörse",
     "retailer": "restplatzborse",
     "shop": "travel_agency",
     "latitude": 47.0605294,
-    "longitude": 15.4269747
+    "longitude": 15.4269747,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rich African Shop",
     "retailer": "rich_african_shop",
     "shop": "yes",
     "latitude": 47.0683396,
-    "longitude": 15.4200136
+    "longitude": 15.4200136,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sabine",
     "retailer": "sabine",
     "shop": "hairdresser",
     "latitude": 47.0602282,
-    "longitude": 15.4264918
+    "longitude": 15.4264918,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Salon Dora",
     "retailer": "salon_dora",
     "shop": "hairdresser",
     "latitude": 47.0698616,
-    "longitude": 15.4285778
+    "longitude": 15.4285778,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Shoeextra",
     "retailer": "shoeextra",
     "shop": "shoes",
     "latitude": 47.0602954,
-    "longitude": 15.4269818
+    "longitude": 15.4269818,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -614,7 +851,11 @@
     "shop": "supermarket",
     "latitude": 47.0686805,
     "longitude": 15.4227263,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spes Automobile",
@@ -622,21 +863,31 @@
     "shop": "car",
     "latitude": 47.0664203,
     "longitude": 15.4211008,
-    "brand": "Nissan, Suzuki"
+    "brand": "Nissan, Suzuki",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Steinvisionen",
     "retailer": "steinvisionen",
     "shop": "gift",
     "latitude": 47.0602277,
-    "longitude": 15.4276764
+    "longitude": 15.4276764,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabakfachgeschäft Lutz Pratter",
     "retailer": "tabakfachgeschaft_lutz_pratter",
     "shop": "kiosk",
     "latitude": 47.0661303,
-    "longitude": 15.4264132
+    "longitude": 15.4264132,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tally Weijl",
@@ -644,7 +895,9 @@
     "shop": "clothes",
     "latitude": 47.0602859,
     "longitude": 15.4270794,
-    "brand": "Tally Weijl"
+    "brand": "Tally Weijl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tchibo",
@@ -652,7 +905,11 @@
     "shop": "coffee",
     "latitude": 47.0606502,
     "longitude": 15.4267444,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tom Tailor",
@@ -660,41 +917,59 @@
     "shop": "clothes",
     "latitude": 47.0601106,
     "longitude": 15.428234,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.0607831,
-    "longitude": 15.4266487
+    "longitude": 15.4266487,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Weltladen",
     "retailer": "weltladen",
     "shop": "fairtrade",
     "latitude": 47.0602821,
-    "longitude": 15.4279908
+    "longitude": 15.4279908,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wolf",
     "retailer": "wolf",
     "shop": "massage",
     "latitude": 47.0639543,
-    "longitude": 15.424666
+    "longitude": 15.424666,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Woodpecker’s Farm",
     "retailer": "woodpeckers_farm",
     "shop": "growshop",
     "latitude": 47.0677054,
-    "longitude": 15.4285847
+    "longitude": 15.4285847,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "´s Fachl",
     "retailer": "s_fachl",
     "shop": "convenience",
     "latitude": 47.0601828,
-    "longitude": 15.4276264
+    "longitude": 15.4276264,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

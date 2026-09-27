@@ -5,20 +5,32 @@
     "shop": "bakery",
     "latitude": 47.8155838,
     "longitude": 16.2555745,
-    "brand": "Anker"
+    "brand": "Anker",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Die Schmidls Blumenvertreiberei",
     "retailer": "die_schmidls_blumenvertreiberei",
     "shop": "florist",
     "latitude": 47.8100277,
-    "longitude": 16.2595689
+    "longitude": 16.2595689,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pölzgutter",
     "retailer": "polzgutter",
     "shop": "fireplace",
     "latitude": 47.8115381,
-    "longitude": 16.2517425
+    "longitude": 16.2517425,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

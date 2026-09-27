@@ -5,49 +5,71 @@
     "shop": "supermarket",
     "latitude": 47.9513395,
     "longitude": 16.2280499,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Aubora Vacation",
     "retailer": "aubora_vacation",
     "shop": "travel_agency",
     "latitude": 47.9507863,
-    "longitude": 16.2280619
+    "longitude": 16.2280619,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autoreinigung Haas",
     "retailer": "autoreinigung_haas",
     "shop": "car_repair",
     "latitude": 47.9517193,
-    "longitude": 16.2279447
+    "longitude": 16.2279447,
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autoservicepoint",
     "retailer": "autoservicepoint",
     "shop": "car_repair",
     "latitude": 47.9515354,
-    "longitude": 16.2222281
+    "longitude": 16.2222281,
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Grand Style",
     "retailer": "friseur_grand_style",
     "shop": "hairdresser",
     "latitude": 47.951652,
-    "longitude": 16.228575
+    "longitude": 16.228575,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Keepersport",
     "retailer": "keepersport",
     "shop": "sports",
     "latitude": 47.9564699,
-    "longitude": 16.2239176
+    "longitude": 16.2239176,
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Haas",
     "retailer": "kfz_haas",
     "shop": "car_repair",
     "latitude": 47.9511676,
-    "longitude": 16.2271003
+    "longitude": 16.2271003,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klipp",
@@ -55,20 +77,28 @@
     "shop": "hairdresser",
     "latitude": 47.9502172,
     "longitude": 16.2273651,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "garden_centre",
     "latitude": 47.9558457,
-    "longitude": 16.220289
+    "longitude": 16.220289,
+    "postcode": "2542",
+    "city": "Kottingbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.9503054,
-    "longitude": 16.2261707
+    "longitude": 16.2261707,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

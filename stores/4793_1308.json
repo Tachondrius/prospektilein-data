@@ -4,14 +4,18 @@
     "retailer": "alzner_baumaschinen",
     "shop": "hardware",
     "latitude": 47.9389105,
-    "longitude": 13.080769
+    "longitude": 13.080769,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Autohaus Reichl GmbH & CoKG",
     "retailer": "autohaus_reichl_gmbh_und_cokg",
     "shop": "car",
     "latitude": 47.9355998,
-    "longitude": 13.0830772
+    "longitude": 13.0830772,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -19,7 +23,11 @@
     "shop": "supermarket",
     "latitude": 47.9386888,
     "longitude": 13.0810236,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5162",
+    "city": "Obertrum am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bipa",
@@ -27,21 +35,27 @@
     "shop": "chemist",
     "latitude": 47.9330298,
     "longitude": 13.0803603,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Rößlhuber",
     "retailer": "backerei_rolhuber",
     "shop": "bakery",
     "latitude": 47.9373741,
-    "longitude": 13.0823751
+    "longitude": 13.0823751,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Das Blumenatelier",
     "retailer": "das_blumenatelier",
     "shop": "florist",
     "latitude": 47.9350664,
-    "longitude": 13.0810418
+    "longitude": 13.0810418,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -49,7 +63,9 @@
     "shop": "chemist",
     "latitude": 47.9335035,
     "longitude": 13.0803025,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Expert",
@@ -57,14 +73,18 @@
     "shop": "electronics",
     "latitude": 47.9372343,
     "longitude": 13.0821701,
-    "brand": "Expert"
+    "brand": "Expert",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Friseur Graf-Fischinger",
     "retailer": "friseur_graf_fischinger",
     "shop": "hairdresser",
     "latitude": 47.9361647,
-    "longitude": 13.0809175
+    "longitude": 13.0809175,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -72,7 +92,11 @@
     "shop": "supermarket",
     "latitude": 47.9359783,
     "longitude": 13.0828342,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5162",
+    "city": "Obertrum am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Penny Markt",
@@ -80,42 +104,56 @@
     "shop": "supermarket",
     "latitude": 47.9328986,
     "longitude": 13.0803707,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Raiffeisen Lagerhaus",
     "retailer": "raiffeisen_lagerhaus",
     "shop": "doityourself",
     "latitude": 47.9365399,
-    "longitude": 13.0843641
+    "longitude": 13.0843641,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Reibersdorfer",
     "retailer": "reibersdorfer",
     "shop": "car",
     "latitude": 47.9359509,
-    "longitude": 13.0809959
+    "longitude": 13.0809959,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Relax Natürlich Wohnen GmbH",
     "retailer": "relax_naturlich_wohnen_gmbh",
     "shop": "bed",
     "latitude": 47.9369459,
-    "longitude": 13.087778
+    "longitude": 13.087778,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schwab Reifen- und Kfz Handel",
     "retailer": "schwab_reifen_und_kfz_handel",
     "shop": "tyres",
     "latitude": 47.9348498,
-    "longitude": 13.0847706
+    "longitude": 13.0847706,
+    "postcode": "5162",
+    "city": "Obertrum am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Siegis Blumenparadies",
     "retailer": "siegis_blumenparadies",
     "shop": "florist",
     "latitude": 47.9364309,
-    "longitude": 13.0809495
+    "longitude": 13.0809495,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -123,7 +161,11 @@
     "shop": "supermarket",
     "latitude": 47.9318906,
     "longitude": 13.08038,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5162",
+    "city": "Obertrum am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "VW Audi Reiberstorfer",
@@ -131,13 +173,19 @@
     "shop": "car",
     "latitude": 47.9356655,
     "longitude": 13.0814235,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "5162",
+    "city": "Obertrum",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Wood Store GmbH",
     "retailer": "wood_store_gmbh",
     "shop": "interior_decoration",
     "latitude": 47.9341304,
-    "longitude": 13.0800162
+    "longitude": 13.0800162,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

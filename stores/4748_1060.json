@@ -4,13 +4,19 @@
     "retailer": "sport_rief",
     "shop": "sports",
     "latitude": 47.4854887,
-    "longitude": 10.6011124
+    "longitude": 10.6011124,
+    "postcode": "6672",
+    "city": "Nesselwängle",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.4854146,
-    "longitude": 10.6017535
+    "longitude": 10.6017535,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

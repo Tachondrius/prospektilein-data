@@ -4,7 +4,11 @@
     "retailer": "hairfashion",
     "shop": "hairdresser",
     "latitude": 47.1542982,
-    "longitude": 14.7400005
+    "longitude": 14.7400005,
+    "postcode": "8741",
+    "city": "Weißkirchen in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,13 +16,21 @@
     "shop": "supermarket",
     "latitude": 47.154935,
     "longitude": 14.7412245,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8741",
+    "city": "Weißkirchen in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ur-Natur Familie Steinberger",
     "retailer": "ur_natur_familie_steinberger",
     "shop": "health_food",
     "latitude": 47.1563885,
-    "longitude": 14.7419528
+    "longitude": 14.7419528,
+    "postcode": "8741",
+    "city": "Weißkirchen in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

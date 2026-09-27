@@ -4,63 +4,95 @@
     "retailer": "best4forst",
     "shop": "agrarian",
     "latitude": 48.1545807,
-    "longitude": 15.6139428
+    "longitude": 15.6139428,
+    "postcode": "3151",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Center Süd",
     "retailer": "car_center_sud",
     "shop": "car",
     "latitude": 48.1551744,
-    "longitude": 15.6141573
+    "longitude": 15.6141573,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Einzigartig Creativshop",
     "retailer": "einzigartig_creativshop",
     "shop": "craft",
     "latitude": 48.156236,
-    "longitude": 15.6136185
+    "longitude": 15.6136185,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fireland Foods",
     "retailer": "fireland_foods",
     "shop": "spices",
     "latitude": 48.1575013,
-    "longitude": 15.6119357
+    "longitude": 15.6119357,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Förch",
     "retailer": "forch",
     "shop": "trade",
     "latitude": 48.1570474,
-    "longitude": 15.6142132
+    "longitude": 15.6142132,
+    "postcode": "3151",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hager",
     "retailer": "hager",
     "shop": "bakery",
     "latitude": 48.1560794,
-    "longitude": 15.6136895
+    "longitude": 15.6136895,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Rubin",
     "retailer": "kfz_rubin",
     "shop": "car_repair",
     "latitude": 48.157977,
-    "longitude": 15.6139262
+    "longitude": 15.6139262,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klein Autoteile",
     "retailer": "klein_autoteile",
     "shop": "car_parts",
     "latitude": 48.1567296,
-    "longitude": 15.6132239
+    "longitude": 15.6132239,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Salesianer Miettex",
     "retailer": "salesianer_miettex",
     "shop": "laundry",
     "latitude": 48.159801,
-    "longitude": 15.6181979
+    "longitude": 15.6181979,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tesla",
@@ -68,6 +100,10 @@
     "shop": "car",
     "latitude": 48.1566243,
     "longitude": 15.6139181,
-    "brand": "Tesla"
+    "brand": "Tesla",
+    "postcode": "3151",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

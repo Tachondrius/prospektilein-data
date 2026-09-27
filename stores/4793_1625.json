@@ -4,20 +4,27 @@
     "retailer": "backerei_bruckner",
     "shop": "bakery",
     "latitude": 47.9346659,
-    "longitude": 16.2543637
+    "longitude": 16.2543637,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Frisiersalon Marion",
     "retailer": "frisiersalon_marion",
     "shop": "hairdresser",
     "latitude": 47.9329782,
-    "longitude": 16.2532145
+    "longitude": 16.2532145,
+    "city": "Schönau an der Triesting",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.9342246,
-    "longitude": 16.2545897
+    "longitude": 16.2545897,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "av_medienstelle_der_diozese_innsbruck",
     "shop": "video",
     "latitude": 47.2723802,
-    "longitude": 11.3875272
+    "longitude": 11.3875272,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,14 +16,20 @@
     "shop": "bakery",
     "latitude": 47.2713201,
     "longitude": 11.3858339,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Widmann",
     "retailer": "backerei_widmann",
     "shop": "bakery",
     "latitude": 47.2712561,
-    "longitude": 11.3873972
+    "longitude": 11.3873972,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -27,27 +37,39 @@
     "shop": "supermarket",
     "latitude": 47.2713423,
     "longitude": 11.3860415,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "s'Ladele",
     "retailer": "s_ladele",
     "shop": "deli",
     "latitude": 47.2712716,
-    "longitude": 11.387541
+    "longitude": 11.387541,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Anny",
     "retailer": "salon_anny",
     "shop": "hairdresser",
     "latitude": 47.2712778,
-    "longitude": 11.3848258
+    "longitude": 11.3848258,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Gabi",
     "retailer": "salon_gabi",
     "shop": "hairdresser",
     "latitude": 47.2711937,
-    "longitude": 11.3857428
+    "longitude": 11.3857428,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

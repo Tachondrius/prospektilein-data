@@ -4,14 +4,19 @@
     "retailer": "24_stunden_laden",
     "shop": "convenience",
     "latitude": 47.4269812,
-    "longitude": 10.0364581
+    "longitude": 10.0364581,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Dorfsennerei",
     "retailer": "dorfsennerei",
     "shop": "dairy",
     "latitude": 47.4283382,
-    "longitude": 10.0360902
+    "longitude": 10.0360902,
+    "postcode": "6952",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Gustls Mittel zum leben.Mitten im Dorf",
@@ -19,6 +24,8 @@
     "shop": "convenience",
     "latitude": 47.4273261,
     "longitude": 10.0361751,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

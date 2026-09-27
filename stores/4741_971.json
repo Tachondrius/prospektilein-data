@@ -4,28 +4,38 @@
     "retailer": "3_store",
     "shop": "mobile_phone",
     "latitude": 47.4126469,
-    "longitude": 9.7114609
+    "longitude": 9.7114609,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "A1 Shop",
     "retailer": "a1_shop",
     "shop": "mobile_phone",
     "latitude": 47.4125231,
-    "longitude": 9.7111941
+    "longitude": 9.7111941,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Billa now",
     "retailer": "billa",
     "shop": "convenience",
     "latitude": 47.4126055,
-    "longitude": 9.714201
+    "longitude": 9.714201,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Blumentreff Karg",
     "retailer": "blumentreff_karg",
     "shop": "florist",
     "latitude": 47.4117565,
-    "longitude": 9.7114636
+    "longitude": 9.7114636,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Calzedonia",
@@ -33,7 +43,9 @@
     "shop": "clothes",
     "latitude": 47.4119286,
     "longitude": 9.7110861,
-    "brand": "Calzedonia"
+    "brand": "Calzedonia",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Deichmann",
@@ -41,7 +53,9 @@
     "shop": "shoes",
     "latitude": 47.4124727,
     "longitude": 9.7110545,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "dm",
@@ -49,7 +63,9 @@
     "shop": "chemist",
     "latitude": 47.4117638,
     "longitude": 9.7114056,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Douglas",
@@ -57,21 +73,27 @@
     "shop": "perfumery",
     "latitude": 47.4118356,
     "longitude": 9.7109265,
-    "brand": "Douglas"
+    "brand": "Douglas",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Emberger",
     "retailer": "emberger",
     "shop": "watches",
     "latitude": 47.4123925,
-    "longitude": 9.7114593
+    "longitude": 9.7114593,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Epos",
     "retailer": "epos",
     "shop": "electronics",
     "latitude": 47.4119303,
-    "longitude": 9.7111908
+    "longitude": 9.7111908,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Esprit",
@@ -79,14 +101,20 @@
     "shop": "clothes",
     "latitude": 47.4119527,
     "longitude": 9.7115284,
-    "brand": "Esprit"
+    "brand": "Esprit",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Farben Morscher",
     "retailer": "farben_morscher",
     "shop": "paint",
     "latitude": 47.410653,
-    "longitude": 9.7183548
+    "longitude": 9.7183548,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fielmann",
@@ -94,7 +122,9 @@
     "shop": "optician",
     "latitude": 47.4118426,
     "longitude": 9.7106839,
-    "brand": "Fielmann"
+    "brand": "Fielmann",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fruchtpunkt",
@@ -102,7 +132,9 @@
     "shop": "beverages",
     "latitude": 47.412458,
     "longitude": 9.7113393,
-    "brand": "21 Zeitgenuss"
+    "brand": "21 Zeitgenuss",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "H&M",
@@ -110,7 +142,9 @@
     "shop": "clothes",
     "latitude": 47.4118904,
     "longitude": 9.7113786,
-    "brand": "H&M"
+    "brand": "H&M",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hervis",
@@ -118,7 +152,11 @@
     "shop": "sports",
     "latitude": 47.4126033,
     "longitude": 9.711363,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Humanic",
@@ -126,14 +164,18 @@
     "shop": "shoes",
     "latitude": 47.4118177,
     "longitude": 9.7110244,
-    "brand": "Humanic"
+    "brand": "Humanic",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "IKEA Planungsstudio",
     "retailer": "ikea",
     "shop": "furniture",
     "latitude": 47.4126855,
-    "longitude": 9.7112267
+    "longitude": 9.7112267,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Interspar",
@@ -141,7 +183,9 @@
     "shop": "supermarket",
     "latitude": 47.4114236,
     "longitude": 9.7122871,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Intimissimi",
@@ -149,7 +193,9 @@
     "shop": "clothes",
     "latitude": 47.4119172,
     "longitude": 9.7111496,
-    "brand": "Intimissimi"
+    "brand": "Intimissimi",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Levi's",
@@ -157,14 +203,20 @@
     "shop": "clothes",
     "latitude": 47.412501,
     "longitude": 9.7115875,
-    "brand": "Levi's"
+    "brand": "Levi's",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Magenta",
     "retailer": "magenta",
     "shop": "mobile_phone",
     "latitude": 47.4124189,
-    "longitude": 9.7117482
+    "longitude": 9.7117482,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "MediaMarkt",
@@ -172,14 +224,22 @@
     "shop": "electronics",
     "latitude": 47.4115473,
     "longitude": 9.7109341,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Messepark",
     "retailer": "messepark",
     "shop": "mall",
     "latitude": 47.4120542,
-    "longitude": 9.711357
+    "longitude": 9.711357,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "METRO",
@@ -187,7 +247,11 @@
     "shop": "wholesale",
     "latitude": 47.4150522,
     "longitude": 9.7130102,
-    "brand": "METRO"
+    "brand": "METRO",
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Nanu-Nana",
@@ -195,14 +259,20 @@
     "shop": "gift",
     "latitude": 47.4119401,
     "longitude": 9.7109729,
-    "brand": "Nanu-Nana"
+    "brand": "Nanu-Nana",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Natter-Hof",
     "retailer": "natter_hof",
     "shop": "farm",
     "latitude": 47.4117577,
-    "longitude": 9.7191255
+    "longitude": 9.7191255,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Nespresso",
@@ -210,7 +280,9 @@
     "shop": "coffee",
     "latitude": 47.4118723,
     "longitude": 9.7116956,
-    "brand": "Nespresso"
+    "brand": "Nespresso",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Palmers",
@@ -218,7 +290,9 @@
     "shop": "clothes",
     "latitude": 47.411886,
     "longitude": 9.7115411,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Peek & Cloppenburg",
@@ -226,28 +300,38 @@
     "shop": "clothes",
     "latitude": 47.4126356,
     "longitude": 9.7113964,
-    "brand": "Peek & Cloppenburg"
+    "brand": "Peek & Cloppenburg",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Rädler Baustoffe Dornbirn",
     "retailer": "radler_baustoffe_dornbirn",
     "shop": "trade",
     "latitude": 47.4123175,
-    "longitude": 9.7150715
+    "longitude": 9.7150715,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Schnell",
     "retailer": "schnell",
     "shop": "bakery",
     "latitude": 47.4123744,
-    "longitude": 9.7111436
+    "longitude": 9.7111436,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ströhle",
     "retailer": "strohle",
     "shop": "bag",
     "latitude": 47.4119221,
-    "longitude": 9.7118253
+    "longitude": 9.7118253,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Swarovski",
@@ -255,14 +339,18 @@
     "shop": "jewelry",
     "latitude": 47.4119674,
     "longitude": 9.711803,
-    "brand": "Swarovski"
+    "brand": "Swarovski",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trafik Interspar",
     "retailer": "trafik_interspar",
     "shop": "kiosk",
     "latitude": 47.4117198,
-    "longitude": 9.7115655
+    "longitude": 9.7115655,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "WMF",
@@ -270,6 +358,8 @@
     "shop": "houseware",
     "latitude": 47.4121776,
     "longitude": 9.7115862,
-    "brand": "WMF"
+    "brand": "WMF",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "garden_centre",
     "latitude": 47.4034428,
     "longitude": 15.2238227,
-    "brand": "Bellaflora"
+    "brand": "Bellaflora",
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mömax",
@@ -13,13 +17,19 @@
     "shop": "furniture",
     "latitude": 47.4013913,
     "longitude": 15.2293963,
-    "brand": "Mömax"
+    "brand": "Mömax",
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pongraz",
     "retailer": "pongraz",
     "shop": "doityourself",
     "latitude": 47.4044097,
-    "longitude": 15.2206377
+    "longitude": 15.2206377,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

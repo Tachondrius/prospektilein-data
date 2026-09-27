@@ -5,7 +5,11 @@
     "shop": "variety_store",
     "latitude": 48.1476047,
     "longitude": 16.3832956,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -13,21 +17,29 @@
     "shop": "supermarket",
     "latitude": 48.1417932,
     "longitude": 16.3825511,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Das Rad",
     "retailer": "das_rad",
     "shop": "bicycle",
     "latitude": 48.1422123,
-    "longitude": 16.3852604
+    "longitude": 16.3852604,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Friseur Aigner Ernst",
     "retailer": "friseur_aigner_ernst",
     "shop": "hairdresser",
     "latitude": 48.1443706,
-    "longitude": 16.3824025
+    "longitude": 16.3824025,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hans Sverak Kfz. Rep. u. Handel Ges.m.b.H",
@@ -35,7 +47,9 @@
     "shop": "car_repair",
     "latitude": 48.1427129,
     "longitude": 16.3829224,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -43,21 +57,29 @@
     "shop": "supermarket",
     "latitude": 48.1413503,
     "longitude": 16.3896079,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Liegestudio Sonnleitner",
     "retailer": "liegestudio_sonnleitner",
     "shop": "bed",
     "latitude": 48.1435257,
-    "longitude": 16.3824499
+    "longitude": 16.3824499,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Pane Autohandel",
     "retailer": "pane_autohandel",
     "shop": "car",
     "latitude": 48.1443004,
-    "longitude": 16.3828149
+    "longitude": 16.3828149,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Porsche Wien-Oberlaa",
@@ -65,6 +87,10 @@
     "shop": "car",
     "latitude": 48.1443789,
     "longitude": 16.3804369,
-    "brand": "Porsche"
+    "brand": "Porsche",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

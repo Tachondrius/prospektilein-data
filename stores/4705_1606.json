@@ -4,7 +4,11 @@
     "retailer": "birner",
     "shop": "car_parts",
     "latitude": 47.0580137,
-    "longitude": 16.0687327
+    "longitude": 16.0687327,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "C&A",
@@ -12,7 +16,9 @@
     "shop": "clothes",
     "latitude": 47.0594041,
     "longitude": 16.0683559,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deichmann",
@@ -20,7 +26,9 @@
     "shop": "shoes",
     "latitude": 47.0592872,
     "longitude": 16.0684578,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -28,14 +36,22 @@
     "shop": "chemist",
     "latitude": 47.0598997,
     "longitude": 16.0660276,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fachmarktzentum Fürstenfeld",
     "retailer": "fachmarktzentum_furstenfeld",
     "shop": "mall",
     "latitude": 47.0596381,
-    "longitude": 16.0679708
+    "longitude": 16.0679708,
+    "postcode": "8280",
+    "city": "Altenmarkt bei Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fussl",
@@ -43,7 +59,9 @@
     "shop": "clothes",
     "latitude": 47.059945,
     "longitude": 16.0674439,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intersport",
@@ -51,7 +69,9 @@
     "shop": "sports",
     "latitude": 47.0596472,
     "longitude": 16.0679696,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mercedes Himmler",
@@ -59,7 +79,9 @@
     "shop": "car",
     "latitude": 47.0588916,
     "longitude": 16.0661702,
-    "brand": "Mercedes-Benz;RENAULT;Dacia;BYD"
+    "brand": "Mercedes-Benz;RENAULT;Dacia;BYD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "mister*lady",
@@ -67,14 +89,18 @@
     "shop": "clothes",
     "latitude": 47.0591081,
     "longitude": 16.0685624,
-    "brand": "mister*lady"
+    "brand": "mister*lady",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mobile Phone",
     "retailer": "shop_mobile_phone",
     "shop": "mobile_phone",
     "latitude": 47.0598144,
-    "longitude": 16.0667249
+    "longitude": 16.0667249,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "New Yorker",
@@ -82,7 +108,9 @@
     "shop": "clothes",
     "latitude": 47.0595353,
     "longitude": 16.0681869,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pearle",
@@ -90,7 +118,9 @@
     "shop": "optician",
     "latitude": 47.0589268,
     "longitude": 16.0687113,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -98,14 +128,22 @@
     "shop": "supermarket",
     "latitude": 47.0580911,
     "longitude": 16.0680285,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pflanzenwelt Langer",
     "retailer": "pflanzenwelt_langer",
     "shop": "garden_centre",
     "latitude": 47.0513099,
-    "longitude": 16.0675216
+    "longitude": 16.0675216,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Takko",
@@ -113,7 +151,9 @@
     "shop": "clothes",
     "latitude": 47.0599094,
     "longitude": 16.0668215,
-    "brand": "Takko"
+    "brand": "Takko",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tchibo",
@@ -121,14 +161,18 @@
     "shop": "coffee",
     "latitude": 47.0590021,
     "longitude": 16.0686375,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.0567033,
-    "longitude": 16.0690294
+    "longitude": 16.0690294,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tom Tailor",
@@ -136,7 +180,9 @@
     "shop": "clothes",
     "latitude": 47.0598915,
     "longitude": 16.0675472,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Triumph",
@@ -144,13 +190,19 @@
     "shop": "clothes",
     "latitude": 47.0588098,
     "longitude": 16.0688132,
-    "brand": "Triumph"
+    "brand": "Triumph",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Woolworth",
     "retailer": "woolworth",
     "shop": "household",
     "latitude": 47.0598299,
-    "longitude": 16.0676558
+    "longitude": 16.0676558,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

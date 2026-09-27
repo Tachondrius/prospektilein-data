@@ -4,28 +4,41 @@
     "retailer": "cakmak_turkische_lebensmittel",
     "shop": "convenience",
     "latitude": 48.2399822,
-    "longitude": 14.2609907
+    "longitude": 14.2609907,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Coiffeur Hartl",
     "retailer": "coiffeur_hartl",
     "shop": "hairdresser",
     "latitude": 48.2372935,
-    "longitude": 14.2640794
+    "longitude": 14.2640794,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Frisch Bäckerei und Konditorei",
     "retailer": "frisch_backerei_und_konditorei",
     "shop": "bakery",
     "latitude": 48.2396882,
-    "longitude": 14.2611119
+    "longitude": 14.2611119,
+    "postcode": "4050",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Helmut Baireder",
     "retailer": "helmut_baireder",
     "shop": "car",
     "latitude": 48.2391627,
-    "longitude": 14.2605971
+    "longitude": 14.2605971,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -33,7 +46,9 @@
     "shop": "supermarket",
     "latitude": 48.2390909,
     "longitude": 14.2614134,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -41,13 +56,17 @@
     "shop": "tobacco",
     "latitude": 48.2393872,
     "longitude": 14.2610794,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wais",
     "retailer": "wais",
     "shop": "bakery",
     "latitude": 48.2306215,
-    "longitude": 14.269155
+    "longitude": 14.269155,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

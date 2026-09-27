@@ -4,7 +4,9 @@
     "retailer": "greiner",
     "shop": "department_store",
     "latitude": 46.7256595,
-    "longitude": 15.7724827
+    "longitude": 15.7724827,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 46.7253257,
     "longitude": 15.7722696,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8480",
+    "city": "Eichfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 46.7092675,
     "longitude": 12.6132782,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "9942",
+    "city": "Obertilliach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Obererlacher",
     "retailer": "obererlacher",
     "shop": "bakery",
     "latitude": 46.7090812,
-    "longitude": 12.6167071
+    "longitude": 12.6167071,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -20,13 +26,21 @@
     "shop": "supermarket",
     "latitude": 46.7095873,
     "longitude": 12.6164703,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9942",
+    "city": "Obertilliach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Auer",
     "retailer": "sport_auer",
     "shop": "sports",
     "latitude": 46.7085656,
-    "longitude": 12.6128282
+    "longitude": 12.6128282,
+    "postcode": "9942",
+    "city": "Obertilliach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

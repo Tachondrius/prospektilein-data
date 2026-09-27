@@ -4,35 +4,51 @@
     "retailer": "christian_s_brot_lod_n",
     "shop": "bakery",
     "latitude": 46.7239618,
-    "longitude": 15.5849175
+    "longitude": 15.5849175,
+    "postcode": "8461",
+    "city": "Ehrenhausen an der Weinstraße",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektro Sturm",
     "retailer": "elektro_sturm",
     "shop": "electronics",
     "latitude": 46.7240008,
-    "longitude": 15.5841737
+    "longitude": 15.5841737,
+    "postcode": "8461",
+    "city": "Ehrenhausen an der Weinstraße",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Erzherzog Johann Weinkellerei",
     "retailer": "erzherzog_johann_weinkellerei",
     "shop": "wine",
     "latitude": 46.720922,
-    "longitude": 15.5866125
+    "longitude": 15.5866125,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fliesen Outlet Gudenus",
     "retailer": "fliesen_outlet_gudenus",
     "shop": "tiles",
     "latitude": 46.7234028,
-    "longitude": 15.5858686
+    "longitude": 15.5858686,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Genussregal Vinofaktur Südsteiermark",
     "retailer": "genussregal_vinofaktur_sudsteiermark",
     "shop": "wine",
     "latitude": 46.7295368,
-    "longitude": 15.5888194
+    "longitude": 15.5888194,
+    "postcode": "8472",
+    "city": "Straß in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch",
@@ -40,13 +56,19 @@
     "shop": "supermarket",
     "latitude": 46.725107,
     "longitude": 15.5842659,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ohne TamTam",
     "retailer": "ohne_tamtam",
     "shop": "convenience",
     "latitude": 46.7294708,
-    "longitude": 15.5852994
+    "longitude": 15.5852994,
+    "postcode": "8472",
+    "city": "Straß in Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "chemist",
     "latitude": 48.0877411,
     "longitude": 17.0522371,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fressnapf",
@@ -13,7 +17,11 @@
     "shop": "pet",
     "latitude": 48.0870385,
     "longitude": 17.0504615,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hofer",
@@ -21,7 +29,11 @@
     "shop": "supermarket",
     "latitude": 48.0874848,
     "longitude": 17.0512108,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hyundai-Partner Christian Windisch",
@@ -29,14 +41,20 @@
     "shop": "car",
     "latitude": 48.0882798,
     "longitude": 17.0511718,
-    "brand": "Hyundai"
+    "brand": "Hyundai",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "KFZ",
     "retailer": "kfz",
     "shop": "car_repair",
     "latitude": 48.0885914,
-    "longitude": 17.0505845
+    "longitude": 17.0505845,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "KiK",
@@ -44,14 +62,22 @@
     "shop": "clothes",
     "latitude": 48.0871131,
     "longitude": 17.0505932,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Martin Rudolf Arnhold",
     "retailer": "martin_rudolf_arnhold",
     "shop": "car_repair",
     "latitude": 48.0865636,
-    "longitude": 17.0513609
+    "longitude": 17.0513609,
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "NKD",
@@ -59,7 +85,11 @@
     "shop": "clothes",
     "latitude": 48.0869777,
     "longitude": 17.0503541,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "PENNY",
@@ -67,14 +97,22 @@
     "shop": "supermarket",
     "latitude": 48.0878442,
     "longitude": 17.0523257,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Radatz Markt",
     "retailer": "radatz_markt",
     "shop": "butcher",
     "latitude": 48.0869131,
-    "longitude": 17.05024
+    "longitude": 17.05024,
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Takko Fashion",
@@ -82,6 +120,10 @@
     "shop": "clothes",
     "latitude": 48.0868378,
     "longitude": 17.0501069,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "postcode": "2421",
+    "city": "Kittsee",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

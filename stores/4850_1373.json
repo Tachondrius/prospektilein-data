@@ -4,28 +4,40 @@
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 48.5013837,
-    "longitude": 13.7339817
+    "longitude": 13.7339817,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.5062387,
-    "longitude": 13.7327994
+    "longitude": 13.7327994,
+    "postcode": "4090",
+    "city": "Engelhartszell",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klosterladen Stift Engelszell",
     "retailer": "klosterladen_stift_engelszell",
     "shop": "gift",
     "latitude": 48.5002011,
-    "longitude": 13.7341746
+    "longitude": 13.7341746,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Metzger Moser",
     "retailer": "metzger_moser",
     "shop": "butcher",
     "latitude": 48.5066595,
-    "longitude": 13.7320403
+    "longitude": 13.7320403,
+    "postcode": "4090",
+    "city": "Engelhartszell",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Red Zac",
@@ -33,7 +45,11 @@
     "shop": "electronics",
     "latitude": 48.5077592,
     "longitude": 13.7311174,
-    "brand": "Red Zac"
+    "brand": "Red Zac",
+    "postcode": "4090",
+    "city": "Engelhartszell",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -41,6 +57,8 @@
     "shop": "supermarket",
     "latitude": 48.5058288,
     "longitude": 13.732609,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,35 +4,47 @@
     "retailer": "cafe_zum_kommerzialrat",
     "shop": "bakery",
     "latitude": 47.4368221,
-    "longitude": 11.6957323
+    "longitude": 11.6957323,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Helga",
     "retailer": "friseur_helga",
     "shop": "hairdresser",
     "latitude": 47.4389899,
-    "longitude": 11.6969437
+    "longitude": 11.6969437,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pfandler Laden",
     "retailer": "pfandler_laden",
     "shop": "convenience",
     "latitude": 47.4373679,
-    "longitude": 11.6978233
+    "longitude": 11.6978233,
+    "postcode": "6213",
+    "city": "Eben am Achensee",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Leithner",
     "retailer": "sport_leithner",
     "shop": "sports",
     "latitude": 47.4371739,
-    "longitude": 11.6969074
+    "longitude": 11.6969074,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Wöll",
     "retailer": "sport_woll",
     "shop": "outdoor",
     "latitude": 47.4370115,
-    "longitude": 11.6957151
+    "longitude": 11.6957151,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zillertaler Trachtenwelt",
@@ -40,6 +52,8 @@
     "shop": "clothes",
     "latitude": 47.4391179,
     "longitude": 11.6963169,
-    "brand": "Zillertaler Trachtenwelt"
+    "brand": "Zillertaler Trachtenwelt",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

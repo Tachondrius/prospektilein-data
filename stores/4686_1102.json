@@ -4,21 +4,27 @@
     "retailer": "riml_sports",
     "shop": "sports",
     "latitude": 46.869251,
-    "longitude": 11.025219
+    "longitude": 11.025219,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Scheiber S1 Roßkarbahn - Hohe Mut Bahn",
     "retailer": "scheiber_s1_rokarbahn_hohe_mut_bahn",
     "shop": "sports",
     "latitude": 46.8695044,
-    "longitude": 11.0265908
+    "longitude": 11.0265908,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Scheiber S2 Dorfplatz",
     "retailer": "scheiber_s2_dorfplatz",
     "shop": "sports",
     "latitude": 46.8699331,
-    "longitude": 11.025819
+    "longitude": 11.025819,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -26,6 +32,10 @@
     "shop": "supermarket",
     "latitude": 46.8693819,
     "longitude": 11.0261279,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6456",
+    "city": "Sölden",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

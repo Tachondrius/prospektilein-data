@@ -4,14 +4,18 @@
     "retailer": "friedrich_gerold",
     "shop": "electrical",
     "latitude": 48.7898788,
-    "longitude": 15.3945955
+    "longitude": 15.3945955,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lebersorger Martin",
     "retailer": "lebersorger_martin",
     "shop": "car_repair",
     "latitude": 48.7894181,
-    "longitude": 15.3961373
+    "longitude": 15.3961373,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lebersorger Martin",
@@ -19,6 +23,10 @@
     "shop": "car",
     "latitude": 48.7896416,
     "longitude": 15.3960692,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "3812",
+    "city": "Groß-Siegharts",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

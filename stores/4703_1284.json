@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 47.0399172,
     "longitude": 12.8429184,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "9844",
+    "city": "Heiligenblut am Großglockner",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ernst Pichler",
     "retailer": "ernst_pichler",
     "shop": "tobacco",
     "latitude": 47.0399428,
-    "longitude": 12.8428638
+    "longitude": 12.8428638,
+    "postcode": "9844",
+    "city": "Heiligenblut am Großglockner",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Intersport Grossglockner",
@@ -20,7 +28,9 @@
     "shop": "sports",
     "latitude": 47.0398596,
     "longitude": 12.8413842,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Intersport Rent",
@@ -28,6 +38,8 @@
     "shop": "sports",
     "latitude": 47.0397615,
     "longitude": 12.8410387,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

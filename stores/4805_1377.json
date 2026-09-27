@@ -5,28 +5,38 @@
     "shop": "supermarket",
     "latitude": 48.0546423,
     "longitude": 13.7733403,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "GEA Schwanenstadt",
     "retailer": "gea_schwanenstadt",
     "shop": "shoes;furniture;bed;bag",
     "latitude": 48.0550591,
-    "longitude": 13.7749398
+    "longitude": 13.7749398,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Helga Storz",
     "retailer": "helga_storz",
     "shop": "butcher",
     "latitude": 48.0545326,
-    "longitude": 13.7721643
+    "longitude": 13.7721643,
+    "postcode": "4690",
+    "city": "Schwanenstadt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.0552214,
-    "longitude": 13.7746531
+    "longitude": 13.7746531,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -34,13 +44,17 @@
     "shop": "clothes",
     "latitude": 48.0555885,
     "longitude": 13.7754279,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Prinz Barbershop",
     "retailer": "prinz_barbershop",
     "shop": "hairdresser",
     "latitude": 48.0551589,
-    "longitude": 13.774357
+    "longitude": 13.774357,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

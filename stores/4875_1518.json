@@ -4,7 +4,9 @@
     "retailer": "alois_trinko",
     "shop": "bakery",
     "latitude": 48.7586601,
-    "longitude": 15.183256
+    "longitude": 15.183256,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,56 +14,74 @@
     "shop": "supermarket",
     "latitude": 48.7560378,
     "longitude": 15.1841251,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3902",
+    "city": "Vitis",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Biobäckerei Brotocnik",
     "retailer": "biobackerei_brotocnik",
     "shop": "bakery",
     "latitude": 48.7554716,
-    "longitude": 15.1846728
+    "longitude": 15.1846728,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumenstube Nigischer",
     "retailer": "blumenstube_nigischer",
     "shop": "florist",
     "latitude": 48.7585949,
-    "longitude": 15.1845933
+    "longitude": 15.1845933,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseursalon REGENBOGENSTUDIO - Astrid Rauchecker",
     "retailer": "friseursalon_regenbogenstudio_astrid_rauchecker",
     "shop": "hairdresser",
     "latitude": 48.7568844,
-    "longitude": 15.1803409
+    "longitude": 15.1803409,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseursalon Sandra Fandl",
     "retailer": "friseursalon_sandra_fandl",
     "shop": "hairdresser",
     "latitude": 48.7588165,
-    "longitude": 15.1823145
+    "longitude": 15.1823145,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "HERZOG Gottfried - Fleischhauerei",
     "retailer": "herzog_gottfried_fleischhauerei",
     "shop": "butcher",
     "latitude": 48.7587669,
-    "longitude": 15.1812679
+    "longitude": 15.1812679,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Red Zac Ramharter",
     "retailer": "red_zac_ramharter",
     "shop": "electrical",
     "latitude": 48.7553226,
-    "longitude": 15.185432
+    "longitude": 15.185432,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "WALLNER Markus - Tabak Trafik",
     "retailer": "wallner_markus_tabak_trafik",
     "shop": "tobacco",
     "latitude": 48.7587788,
-    "longitude": 15.1823237
+    "longitude": 15.1823237,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -69,6 +89,10 @@
     "shop": "trade",
     "latitude": 48.7549937,
     "longitude": 15.1866351,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "3902",
+    "city": "Vitis",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

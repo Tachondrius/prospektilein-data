@@ -5,14 +5,20 @@
     "shop": "chemist",
     "latitude": 48.11807,
     "longitude": 16.2655517,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2380",
+    "city": "Perchtoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Christine Schuhe",
     "retailer": "christine_schuhe",
     "shop": "shoes",
     "latitude": 48.1198185,
-    "longitude": 16.2655676
+    "longitude": 16.2655676,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "denn's Biomarkt",
@@ -20,35 +26,51 @@
     "shop": "supermarket",
     "latitude": 48.1175954,
     "longitude": 16.2674192,
-    "brand": "denn's Biomarkt"
+    "brand": "denn's Biomarkt",
+    "postcode": "2380",
+    "city": "Perchtoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Die Distel",
     "retailer": "die_distel",
     "shop": "florist",
     "latitude": 48.1184234,
-    "longitude": 16.2655256
+    "longitude": 16.2655256,
+    "postcode": "2380",
+    "city": "Perchtoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Enoteca Amici Miei Volta",
     "retailer": "enoteca_amici_miei_volta",
     "shop": "wine",
     "latitude": 48.1183667,
-    "longitude": 16.2654892
+    "longitude": 16.2654892,
+    "postcode": "2380",
+    "city": "Perchtoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "EOS",
     "retailer": "eos",
     "shop": "dry_cleaning",
     "latitude": 48.1197872,
-    "longitude": 16.265756
+    "longitude": 16.265756,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ma’ani Teppiche",
     "retailer": "maani_teppiche",
     "shop": "carpet",
     "latitude": 48.1198955,
-    "longitude": 16.2655247
+    "longitude": 16.2655247,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -56,7 +78,9 @@
     "shop": "clothes",
     "latitude": 48.1198512,
     "longitude": 16.2673295,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SPAR Gourmet",
@@ -64,20 +88,30 @@
     "shop": "supermarket",
     "latitude": 48.1183588,
     "longitude": 16.265983,
-    "brand": "SPAR Gourmet"
+    "brand": "SPAR Gourmet",
+    "postcode": "2380",
+    "city": "Perchtoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Szihn",
     "retailer": "szihn",
     "shop": "bakery",
     "latitude": 48.1181803,
-    "longitude": 16.2655747
+    "longitude": 16.2655747,
+    "postcode": "2380",
+    "city": "Perchtoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.1185056,
-    "longitude": 16.2658274
+    "longitude": 16.2658274,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

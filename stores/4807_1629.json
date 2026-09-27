@@ -4,20 +4,30 @@
     "retailer": "autoteile_modling",
     "shop": "car_parts",
     "latitude": 48.0748751,
-    "longitude": 16.2954543
+    "longitude": 16.2954543,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Schonsky",
     "retailer": "blumen_schonsky",
     "shop": "garden_centre",
     "latitude": 48.0726133,
-    "longitude": 16.2969832
+    "longitude": 16.2969832,
+    "postcode": "2340",
+    "city": "Mödling",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ökogarten Mödling",
     "retailer": "okogarten_modling",
     "shop": "greengrocer",
     "latitude": 48.0726026,
-    "longitude": 16.2947313
+    "longitude": 16.2947313,
+    "postcode": "2340",
+    "city": "Mödling",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

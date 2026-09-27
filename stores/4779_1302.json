@@ -4,70 +4,98 @@
     "retailer": "220_grad_rosthaus",
     "shop": "coffee",
     "latitude": 47.7970754,
-    "longitude": 13.0223766
+    "longitude": 13.0223766,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "ABC-Optik Mang",
     "retailer": "abc_optik_mang",
     "shop": "optician",
     "latitude": 47.7964066,
-    "longitude": 13.0253889
+    "longitude": 13.0253889,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Aigner",
     "retailer": "aigner",
     "shop": "hairdresser",
     "latitude": 47.7981293,
-    "longitude": 13.029317
+    "longitude": 13.029317,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Antiquitäten Rath",
     "retailer": "antiquitaten_rath",
     "shop": "antiques",
     "latitude": 47.7963893,
-    "longitude": 13.0276711
+    "longitude": 13.0276711,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Asia Food Long Long",
     "retailer": "asia_food_long_long",
     "shop": "supermarket",
     "latitude": 47.7963726,
-    "longitude": 13.024195
+    "longitude": 13.024195,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Augenoptik Kebsak",
     "retailer": "augenoptik_kebsak",
     "shop": "optician",
     "latitude": 47.7967638,
-    "longitude": 13.0232084
+    "longitude": 13.0232084,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Ballettboutique Arabesque",
     "retailer": "ballettboutique_arabesque",
     "shop": "clothes",
     "latitude": 47.7978486,
-    "longitude": 13.0206546
+    "longitude": 13.0206546,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "BASTLERECKE",
     "retailer": "bastlerecke",
     "shop": "craft",
     "latitude": 47.7966862,
-    "longitude": 13.0224031
+    "longitude": 13.0224031,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Beauty in Perfection",
     "retailer": "beauty_in_perfection",
     "shop": "beauty",
     "latitude": 47.7996594,
-    "longitude": 13.0264592
+    "longitude": 13.0264592,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Beauty Platzerl",
     "retailer": "beauty_platzerl",
     "shop": "beauty",
     "latitude": 47.7961453,
-    "longitude": 13.02053
+    "longitude": 13.02053,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -75,7 +103,11 @@
     "shop": "supermarket",
     "latitude": 47.7912928,
     "longitude": 13.0287865,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -83,7 +115,9 @@
     "shop": "supermarket",
     "latitude": 47.7965746,
     "longitude": 13.0232464,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "bulthaup",
@@ -91,42 +125,58 @@
     "shop": "kitchen",
     "latitude": 47.7970297,
     "longitude": 13.0224916,
-    "brand": "bulthaup"
+    "brand": "bulthaup",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Buongustaio",
     "retailer": "buongustaio",
     "shop": "convenience",
     "latitude": 47.796648,
-    "longitude": 13.0229817
+    "longitude": 13.0229817,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Ursprunger",
     "retailer": "backerei_ursprunger",
     "shop": "bakery",
     "latitude": 47.7967616,
-    "longitude": 13.0287986
+    "longitude": 13.0287986,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Care for hair",
     "retailer": "care_for_hair",
     "shop": "beauty",
     "latitude": 47.7960651,
-    "longitude": 13.0279163
+    "longitude": 13.0279163,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Coiffeur Pavillon",
     "retailer": "coiffeur_pavillon",
     "shop": "hairdresser",
     "latitude": 47.7939495,
-    "longitude": 13.0241949
+    "longitude": 13.0241949,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Darwish Friseur",
     "retailer": "darwish_friseur",
     "shop": "hairdresser",
     "latitude": 47.7977697,
-    "longitude": 13.0209285
+    "longitude": 13.0209285,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -134,21 +184,31 @@
     "shop": "chemist",
     "latitude": 47.7967271,
     "longitude": 13.0234576,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Dornauer Autoausstattung",
     "retailer": "dornauer_autoausstattung",
     "shop": "car_parts",
     "latitude": 47.7967797,
-    "longitude": 13.021205
+    "longitude": 13.021205,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Eisl Lederbekleidung",
     "retailer": "eisl_lederbekleidung",
     "shop": "leather",
     "latitude": 47.7963623,
-    "longitude": 13.027535
+    "longitude": 13.027535,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Eni Wash",
@@ -156,42 +216,60 @@
     "shop": "convenience",
     "latitude": 47.7936075,
     "longitude": 13.0289696,
-    "brand": "Eni"
+    "brand": "Eni",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Essl",
     "retailer": "essl",
     "shop": "bakery",
     "latitude": 47.7972424,
-    "longitude": 13.022017
+    "longitude": 13.022017,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fliesen Ambiente",
     "retailer": "fliesen_ambiente",
     "shop": "tiles",
     "latitude": 47.7963448,
-    "longitude": 13.028349
+    "longitude": 13.028349,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Friseur Eder",
     "retailer": "friseur_eder",
     "shop": "hairdresser",
     "latitude": 47.7947771,
-    "longitude": 13.0295863
+    "longitude": 13.0295863,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Friseursalon Anton",
     "retailer": "friseursalon_anton",
     "shop": "hairdresser",
     "latitude": 47.796151,
-    "longitude": 13.0280471
+    "longitude": 13.0280471,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gamer's Finest - Card Arena",
     "retailer": "gamer_s_finest_card_arena",
     "shop": "games",
     "latitude": 47.7974415,
-    "longitude": 13.0210478
+    "longitude": 13.0210478,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gamers Finest",
@@ -199,28 +277,40 @@
     "shop": "games",
     "latitude": 47.7976066,
     "longitude": 13.0211499,
-    "brand": "Magic - The Gathering, Games Workshop"
+    "brand": "Magic - The Gathering, Games Workshop",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Günther's Friseur in der Villa",
     "retailer": "gunther_s_friseur_in_der_villa",
     "shop": "hairdresser",
     "latitude": 47.7962179,
-    "longitude": 13.025341
+    "longitude": 13.025341,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Haaremacher Loft",
     "retailer": "haaremacher_loft",
     "shop": "hairdresser",
     "latitude": 47.796962,
-    "longitude": 13.0216465
+    "longitude": 13.0216465,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hair Lounge",
     "retailer": "hair_lounge",
     "shop": "hairdresser",
     "latitude": 47.797416,
-    "longitude": 13.0211318
+    "longitude": 13.0211318,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Klipp",
@@ -228,42 +318,58 @@
     "shop": "hairdresser",
     "latitude": 47.7968117,
     "longitude": 13.0230999,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lebensladen",
     "retailer": "lebensladen",
     "shop": "second_hand",
     "latitude": 47.7939578,
-    "longitude": 13.0295998
+    "longitude": 13.0295998,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mahmoud bar-bar shop",
     "retailer": "mahmoud_bar_bar_shop",
     "shop": "hairdresser",
     "latitude": 47.79745,
-    "longitude": 13.0214786
+    "longitude": 13.0214786,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Massage Raum",
     "retailer": "massage_raum",
     "shop": "massage",
     "latitude": 47.7976311,
-    "longitude": 13.0206414
+    "longitude": 13.0206414,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Metzgerei Wimmer",
     "retailer": "metzgerei_wimmer",
     "shop": "butcher",
     "latitude": 47.7964732,
-    "longitude": 13.0238194
+    "longitude": 13.0238194,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Nelly's Frisiersalon",
     "retailer": "nelly_s_frisiersalon",
     "shop": "hairdresser",
     "latitude": 47.7961347,
-    "longitude": 13.0257829
+    "longitude": 13.0257829,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Penny",
@@ -271,35 +377,51 @@
     "shop": "supermarket",
     "latitude": 47.7958386,
     "longitude": 13.0268322,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pichler Sicherheits- und Systemtechnik",
     "retailer": "pichler_sicherheits_und_systemtechnik",
     "shop": "security",
     "latitude": 47.7961316,
-    "longitude": 13.0265999
+    "longitude": 13.0265999,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Seestern",
     "retailer": "seestern",
     "shop": "seafood",
     "latitude": 47.7965906,
-    "longitude": 13.0287072
+    "longitude": 13.0287072,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 47.7912179,
-    "longitude": 13.0287777
+    "longitude": 13.0287777,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak Trafik Rieder",
     "retailer": "tabak_trafik_rieder",
     "shop": "tobacco",
     "latitude": 47.7969751,
-    "longitude": 13.0222058
+    "longitude": 13.0222058,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabaktrafik",
@@ -307,69 +429,95 @@
     "shop": "tobacco",
     "latitude": 47.7961262,
     "longitude": 13.0266678,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Taudes",
     "retailer": "taudes",
     "shop": "clothes",
     "latitude": 47.7961711,
-    "longitude": 13.0264041
+    "longitude": 13.0264041,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Teppich Weinstein",
     "retailer": "teppich_weinstein",
     "shop": "kitchen",
     "latitude": 47.7964415,
-    "longitude": 13.0249874
+    "longitude": 13.0249874,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "the most beautiful",
     "retailer": "the_most_beautiful",
     "shop": "beauty",
     "latitude": 47.7962758,
-    "longitude": 13.0273308
+    "longitude": 13.0273308,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Thurner",
     "retailer": "thurner",
     "shop": "toys",
     "latitude": 47.7966811,
-    "longitude": 13.0236126
+    "longitude": 13.0236126,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "tuttist wheel services",
     "retailer": "tuttist_wheel_services",
     "shop": "bicycle",
     "latitude": 47.7974525,
-    "longitude": 13.0235356
+    "longitude": 13.0235356,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Wein & Kunst",
     "retailer": "wein_und_kunst",
     "shop": "art",
     "latitude": 47.7962085,
-    "longitude": 13.0281529
+    "longitude": 13.0281529,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Wimmer",
     "retailer": "wimmer",
     "shop": "butcher",
     "latitude": 47.7963214,
-    "longitude": 13.0238653
+    "longitude": 13.0238653,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Wimmer schneidert",
     "retailer": "wimmer_schneidert",
     "shop": "clothes",
     "latitude": 47.7961958,
-    "longitude": 13.0205616
+    "longitude": 13.0205616,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Änderungs Schneiderei",
     "retailer": "anderungs_schneiderei",
     "shop": "tailor",
     "latitude": 47.7968453,
-    "longitude": 13.022342
+    "longitude": 13.022342,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

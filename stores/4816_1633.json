@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.16971,
     "longitude": 16.338671,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -13,6 +17,10 @@
     "shop": "supermarket",
     "latitude": 48.1644564,
     "longitude": 16.3349625,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

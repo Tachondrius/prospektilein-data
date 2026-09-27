@@ -4,20 +4,28 @@
     "retailer": "derntl",
     "shop": "butcher",
     "latitude": 48.2801409,
-    "longitude": 14.2480197
+    "longitude": 14.2480197,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fenzl",
     "retailer": "fenzl",
     "shop": "bakery",
     "latitude": 48.2801272,
-    "longitude": 14.248554
+    "longitude": 14.248554,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ursula Helmhart",
     "retailer": "ursula_helmhart",
     "shop": "hairdresser",
     "latitude": 48.282254,
-    "longitude": 14.2487928
+    "longitude": 14.2487928,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

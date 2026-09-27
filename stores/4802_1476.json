@@ -4,14 +4,20 @@
     "retailer": "asia_mini_markt",
     "shop": "convenience",
     "latitude": 48.0267133,
-    "longitude": 14.7677875
+    "longitude": 14.7677875,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Pallinger",
     "retailer": "backerei_pallinger",
     "shop": "bakery",
     "latitude": 48.02623,
-    "longitude": 14.7661393
+    "longitude": 14.7661393,
+    "postcode": "3331",
+    "city": "Kematen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Expert",
@@ -19,62 +25,90 @@
     "shop": "electronics",
     "latitude": 48.0268965,
     "longitude": 14.7681629,
-    "brand": "Expert"
+    "brand": "Expert",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei Steinmetz",
     "retailer": "fleischerei_steinmetz",
     "shop": "butcher",
     "latitude": 48.0275497,
-    "longitude": 14.7690401
+    "longitude": 14.7690401,
+    "postcode": "3331",
+    "city": "Kematen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fr. Birgit Gleiss",
     "retailer": "fr_birgit_gleiss",
     "shop": "kiosk",
     "latitude": 48.0261883,
-    "longitude": 14.7660525
+    "longitude": 14.7660525,
+    "postcode": "3331",
+    "city": "Kematen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fürst Brot",
     "retailer": "furst_brot",
     "shop": "bakery",
     "latitude": 48.0259147,
-    "longitude": 14.7659867
+    "longitude": 14.7659867,
+    "postcode": "3331",
+    "city": "Kematen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Krejcarek Dagmar",
     "retailer": "krejcarek_dagmar",
     "shop": "hairdresser",
     "latitude": 48.0281034,
-    "longitude": 14.7665357
+    "longitude": 14.7665357,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Moden Schanzer",
     "retailer": "moden_schanzer",
     "shop": "clothes",
     "latitude": 48.0262046,
-    "longitude": 14.7665924
+    "longitude": 14.7665924,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reparaturhaus",
     "retailer": "reparaturhaus",
     "shop": "electronics",
     "latitude": 48.0259335,
-    "longitude": 14.765364
+    "longitude": 14.765364,
+    "postcode": "3331",
+    "city": "Kematen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schnittwerk by Mirjam Pletzer",
     "retailer": "schnittwerk_by_mirjam_pletzer",
     "shop": "hairdresser",
     "latitude": 48.0257326,
-    "longitude": 14.7655778
+    "longitude": 14.7655778,
+    "postcode": "3331",
+    "city": "Kematen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "zwergenmafia",
     "retailer": "zwergenmafia",
     "shop": "gift",
     "latitude": 48.0261154,
-    "longitude": 14.7658102
+    "longitude": 14.7658102,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

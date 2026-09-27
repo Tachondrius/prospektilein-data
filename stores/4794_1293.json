@@ -4,7 +4,9 @@
     "retailer": "anpassbar",
     "shop": "tailor",
     "latitude": 47.9412292,
-    "longitude": 12.9370426
+    "longitude": 12.9370426,
+    "postcode": "83410",
+    "city": "Laufen"
   },
   {
     "name": "Antik und Deko",
@@ -18,7 +20,9 @@
     "retailer": "atelier_josefine_frauenschuh",
     "shop": "art",
     "latitude": 47.9455417,
-    "longitude": 12.938985
+    "longitude": 12.938985,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Der Laden im Blauen Haus",
@@ -32,14 +36,20 @@
     "retailer": "johann_buchner_gmbh",
     "shop": "hvac",
     "latitude": 47.9471874,
-    "longitude": 12.9351139
+    "longitude": 12.9351139,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KunstStückerl",
     "retailer": "kunststuckerl",
     "shop": "gift",
     "latitude": 47.9456105,
-    "longitude": 12.9380748
+    "longitude": 12.9380748,
+    "postcode": "5110",
+    "city": "Oberndorf bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Newsagent",
@@ -53,7 +63,9 @@
     "retailer": "pilz_bar",
     "shop": "health_food",
     "latitude": 47.9462455,
-    "longitude": 12.9368184
+    "longitude": 12.9368184,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Trödelbasar",
@@ -67,13 +79,17 @@
     "retailer": "weltladen_laufen",
     "shop": "convenience",
     "latitude": 47.9411152,
-    "longitude": 12.9365883
+    "longitude": 12.9365883,
+    "postcode": "83410",
+    "city": "Laufen"
   },
   {
     "name": "Wohnideen Karl",
     "retailer": "wohnideen_karl",
     "shop": "interior_decoration",
     "latitude": 47.9453104,
-    "longitude": 12.9386035
+    "longitude": 12.9386035,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

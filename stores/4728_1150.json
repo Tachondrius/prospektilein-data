@@ -5,56 +5,80 @@
     "shop": "mobile_phone",
     "latitude": 47.2827291,
     "longitude": 11.5082522,
-    "brand": "A1"
+    "brand": "A1",
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Aigner Andrea",
     "retailer": "aigner_andrea",
     "shop": "electronics",
     "latitude": 47.2818231,
-    "longitude": 11.5085694
+    "longitude": 11.5085694,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Alpen EDV",
     "retailer": "alpen_edv",
     "shop": "computer",
     "latitude": 47.2825895,
-    "longitude": 11.5084826
+    "longitude": 11.5084826,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Arnold Posch Geigenbau",
     "retailer": "arnold_posch_geigenbau",
     "shop": "musical_instrument",
     "latitude": 47.2821582,
-    "longitude": 11.5088335
+    "longitude": 11.5088335,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "B-CONNECT",
     "retailer": "b_connect",
     "shop": "telecommunication",
     "latitude": 47.2810658,
-    "longitude": 11.507432
+    "longitude": 11.507432,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Balsam",
     "retailer": "balsam",
     "shop": "cosmetics",
     "latitude": 47.2818106,
-    "longitude": 11.5090206
+    "longitude": 11.5090206,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Barbara Vonmetz",
     "retailer": "barbara_vonmetz",
     "shop": "clothes",
     "latitude": 47.2828474,
-    "longitude": 11.5079741
+    "longitude": 11.5079741,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bikebox",
     "retailer": "bikebox",
     "shop": "bicycle",
     "latitude": 47.2806051,
-    "longitude": 11.5082404
+    "longitude": 11.5082404,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -62,63 +86,91 @@
     "shop": "chemist",
     "latitude": 47.2805241,
     "longitude": 11.505583,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Hausmeier",
     "retailer": "blumen_hausmeier",
     "shop": "florist",
     "latitude": 47.2818363,
-    "longitude": 11.5078675
+    "longitude": 11.5078675,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Neuner",
     "retailer": "blumen_neuner",
     "shop": "florist",
     "latitude": 47.282737,
-    "longitude": 11.5064685
+    "longitude": 11.5064685,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Boutique Andrea",
     "retailer": "boutique_andrea",
     "shop": "clothes",
     "latitude": 47.2818233,
-    "longitude": 11.5087542
+    "longitude": 11.5087542,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Bucher",
     "retailer": "backerei_bucher",
     "shop": "bakery",
     "latitude": 47.2813644,
-    "longitude": 11.5072817
+    "longitude": 11.5072817,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Liebe Sonne",
     "retailer": "backerei_liebe_sonne",
     "shop": "bakery",
     "latitude": 47.2826359,
-    "longitude": 11.5096679
+    "longitude": 11.5096679,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Locher- Segafredo",
     "retailer": "backerei_locher_segafredo",
     "shop": "bakery",
     "latitude": 47.2808259,
-    "longitude": 11.5047149
+    "longitude": 11.5047149,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Charly Obst und Gemüse",
     "retailer": "charly_obst_und_gemuse",
     "shop": "greengrocer",
     "latitude": 47.2821164,
-    "longitude": 11.5074187
+    "longitude": 11.5074187,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Da Vinci",
     "retailer": "da_vinci",
     "shop": "clothes",
     "latitude": 47.2827539,
-    "longitude": 11.5081464
+    "longitude": 11.5081464,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Der Bäcker Ruetz",
@@ -126,105 +178,149 @@
     "shop": "bakery",
     "latitude": 47.2818628,
     "longitude": 11.5074382,
-    "brand": "Der Bäcker Ruetz"
+    "brand": "Der Bäcker Ruetz",
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Drei Shop Hall",
     "retailer": "drei_shop_hall",
     "shop": "mobile_phone",
     "latitude": 47.2824987,
-    "longitude": 11.5088461
+    "longitude": 11.5088461,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dworak Lederwaren",
     "retailer": "dworak_lederwaren",
     "shop": "leather",
     "latitude": 47.2811843,
-    "longitude": 11.5044844
+    "longitude": 11.5044844,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ebenbichler",
     "retailer": "ebenbichler",
     "shop": "optician",
     "latitude": 47.2816055,
-    "longitude": 11.5039634
+    "longitude": 11.5039634,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "ELUSIVE CHEMISTRY Patrick Egger e.U.",
     "retailer": "elusive_chemistry_patrick_egger_e_u",
     "shop": "e-cigarette",
     "latitude": 47.2809701,
-    "longitude": 11.5064845
+    "longitude": 11.5064845,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elviro",
     "retailer": "elviro",
     "shop": "clothes",
     "latitude": 47.2812044,
-    "longitude": 11.5072266
+    "longitude": 11.5072266,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Evelyn's Geschenkestüberl",
     "retailer": "evelyn_s_geschenkestuberl",
     "shop": "gift",
     "latitude": 47.2820699,
-    "longitude": 11.5077084
+    "longitude": 11.5077084,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Florida",
     "retailer": "friseur_florida",
     "shop": "hairdresser",
     "latitude": 47.2810404,
-    "longitude": 11.5045571
+    "longitude": 11.5045571,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Stylezeit",
     "retailer": "friseur_stylezeit",
     "shop": "hairdresser",
     "latitude": 47.2810302,
-    "longitude": 11.5057191
+    "longitude": 11.5057191,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fußpflege Neuner",
     "retailer": "fupflege_neuner",
     "shop": "cosmetics",
     "latitude": 47.2829846,
-    "longitude": 11.5059665
+    "longitude": 11.5059665,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Garber",
     "retailer": "garber",
     "shop": "deli",
     "latitude": 47.2818343,
-    "longitude": 11.5094174
+    "longitude": 11.5094174,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hairby",
     "retailer": "hairby",
     "shop": "hairdresser",
     "latitude": 47.2827282,
-    "longitude": 11.506607
+    "longitude": 11.506607,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.2816215,
-    "longitude": 11.5054324
+    "longitude": 11.5054324,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Halbedel",
     "retailer": "halbedel",
     "shop": "leather",
     "latitude": 47.2824909,
-    "longitude": 11.5078863
+    "longitude": 11.5078863,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Halblang",
     "retailer": "halblang",
     "shop": "hairdresser",
     "latitude": 47.2823774,
-    "longitude": 11.5082724
+    "longitude": 11.5082724,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hansaton",
@@ -232,14 +328,20 @@
     "shop": "hearing_aids",
     "latitude": 47.2827225,
     "longitude": 11.506669,
-    "brand": "Hansaton"
+    "brand": "Hansaton",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Happ",
     "retailer": "happ",
     "shop": "hairdresser",
     "latitude": 47.2824688,
-    "longitude": 11.5084654
+    "longitude": 11.5084654,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hartlauer",
@@ -247,140 +349,204 @@
     "shop": "electronics",
     "latitude": 47.2827665,
     "longitude": 11.5078125,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haus der Geschenke",
     "retailer": "haus_der_geschenke",
     "shop": "gift",
     "latitude": 47.2818371,
-    "longitude": 11.5083276
+    "longitude": 11.5083276,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hemage",
     "retailer": "hemage",
     "shop": "musical_instrument",
     "latitude": 47.2816451,
-    "longitude": 11.5054113
+    "longitude": 11.5054113,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Herrenfriseur Birbey",
     "retailer": "herrenfriseur_birbey",
     "shop": "hairdresser",
     "latitude": 47.2803008,
-    "longitude": 11.5078475
+    "longitude": 11.5078475,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Herrenmode von Feucht",
     "retailer": "herrenmode_von_feucht",
     "shop": "clothes",
     "latitude": 47.2824106,
-    "longitude": 11.5076202
+    "longitude": 11.5076202,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hörtnagl",
     "retailer": "hortnagl",
     "shop": "butcher",
     "latitude": 47.2827649,
-    "longitude": 11.5079716
+    "longitude": 11.5079716,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Interior for Kids",
     "retailer": "interior_for_kids",
     "shop": "interior_decoration",
     "latitude": 47.2812186,
-    "longitude": 11.5090814
+    "longitude": 11.5090814,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Jaqueline Graf",
     "retailer": "jaqueline_graf",
     "shop": "sewing",
     "latitude": 47.2824992,
-    "longitude": 11.5091814
+    "longitude": 11.5091814,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Jewelry",
     "retailer": "shop_jewelry",
     "shop": "jewelry",
     "latitude": 47.28195,
-    "longitude": 11.5096283
+    "longitude": 11.5096283,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kaier's",
     "retailer": "kaier_s",
     "shop": "clothes",
     "latitude": 47.2818493,
-    "longitude": 11.5078035
+    "longitude": 11.5078035,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kaminsky",
     "retailer": "kaminsky",
     "shop": "jewelry",
     "latitude": 47.282128,
-    "longitude": 11.5094263
+    "longitude": 11.5094263,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kathrin",
     "retailer": "kathrin",
     "shop": "jewelry",
     "latitude": 47.2817862,
-    "longitude": 11.5068916
+    "longitude": 11.5068916,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kinderzug",
     "retailer": "kinderzug",
     "shop": "clothes",
     "latitude": 47.282137,
-    "longitude": 11.5086251
+    "longitude": 11.5086251,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Konditorei Weiler",
     "retailer": "konditorei_weiler",
     "shop": "pastry",
     "latitude": 47.2819033,
-    "longitude": 11.5071453
+    "longitude": 11.5071453,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kosmetik R. Neuner",
     "retailer": "kosmetik_r_neuner",
     "shop": "cosmetics",
     "latitude": 47.2820476,
-    "longitude": 11.5093123
+    "longitude": 11.5093123,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "L'Armonie",
     "retailer": "l_armonie",
     "shop": "beauty",
     "latitude": 47.2813919,
-    "longitude": 11.5046883
+    "longitude": 11.5046883,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "La Scarpa",
     "retailer": "la_scarpa",
     "shop": "shoes",
     "latitude": 47.2818413,
-    "longitude": 11.5095272
+    "longitude": 11.5095272,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lampe Reisen",
     "retailer": "lampe_reisen",
     "shop": "travel_agency",
     "latitude": 47.2819021,
-    "longitude": 11.507307
+    "longitude": 11.507307,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lamprecht",
     "retailer": "lamprecht",
     "shop": "hairdresser",
     "latitude": 47.282575,
-    "longitude": 11.5094388
+    "longitude": 11.5094388,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lebensart",
     "retailer": "lebensart",
     "shop": "gift",
     "latitude": 47.2811927,
-    "longitude": 11.5075393
+    "longitude": 11.5075393,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Libro",
@@ -388,63 +554,87 @@
     "shop": "books",
     "latitude": 47.2806527,
     "longitude": 11.5069861,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Madersbacher Optik",
     "retailer": "madersbacher_optik",
     "shop": "optician",
     "latitude": 47.2821591,
-    "longitude": 11.5076223
+    "longitude": 11.5076223,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Magenta Shop Hall",
     "retailer": "magenta_shop_hall",
     "shop": "mobile_phone",
     "latitude": 47.282552,
-    "longitude": 11.5088605
+    "longitude": 11.5088605,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MANOLA`S",
     "retailer": "manola_s",
     "shop": "beauty",
     "latitude": 47.2816389,
-    "longitude": 11.5055093
+    "longitude": 11.5055093,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Martin my drogery",
     "retailer": "martin_my_drogery",
     "shop": "chemist",
     "latitude": 47.2826324,
-    "longitude": 11.5079511
+    "longitude": 11.5079511,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Martin Schönauer",
     "retailer": "martin_schonauer",
     "shop": "tobacco",
     "latitude": 47.2825331,
-    "longitude": 11.507909
+    "longitude": 11.507909,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Massimiliano",
     "retailer": "massimiliano",
     "shop": "deli",
     "latitude": 47.2827546,
-    "longitude": 11.5063623
+    "longitude": 11.5063623,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Matthias Tilzer Gitarrenbau",
     "retailer": "matthias_tilzer_gitarrenbau",
     "shop": "musical_instrument",
     "latitude": 47.2816788,
-    "longitude": 11.5047916
+    "longitude": 11.5047916,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Meisterhafte Getränke & Mehr....",
     "retailer": "meisterhafte_getranke_und_mehr",
     "shop": "alcohol",
     "latitude": 47.2814637,
-    "longitude": 11.5072734
+    "longitude": 11.5072734,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Miller United Optics",
@@ -452,35 +642,47 @@
     "shop": "optician",
     "latitude": 47.2822435,
     "longitude": 11.5077876,
-    "brand": "United Optics"
+    "brand": "United Optics",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mischu's Handyshop",
     "retailer": "mischu_s_handyshop",
     "shop": "mobile_phone",
     "latitude": 47.2810831,
-    "longitude": 11.5072543
+    "longitude": 11.5072543,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mode von Feucht",
     "retailer": "mode_von_feucht",
     "shop": "clothes",
     "latitude": 47.280703,
-    "longitude": 11.5072684
+    "longitude": 11.5072684,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mode von Feucht",
     "retailer": "mode_von_feucht",
     "shop": "clothes",
     "latitude": 47.2810341,
-    "longitude": 11.5069803
+    "longitude": 11.5069803,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mode von Feucht",
     "retailer": "mode_von_feucht",
     "shop": "clothes",
     "latitude": 47.2814852,
-    "longitude": 11.5073914
+    "longitude": 11.5073914,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -488,14 +690,22 @@
     "shop": "supermarket",
     "latitude": 47.2812024,
     "longitude": 11.5039493,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NAHtur & Nackig",
     "retailer": "nahtur_und_nackig",
     "shop": "convenience",
     "latitude": 47.2828637,
-    "longitude": 11.507881
+    "longitude": 11.507881,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Neuroth",
@@ -503,28 +713,38 @@
     "shop": "hearing_aids",
     "latitude": 47.28263,
     "longitude": 11.5082195,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nina",
     "retailer": "nina",
     "shop": "clothes",
     "latitude": 47.2821222,
-    "longitude": 11.5085164
+    "longitude": 11.5085164,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Norbert Wacker",
     "retailer": "norbert_wacker",
     "shop": "tobacco",
     "latitude": 47.2805099,
-    "longitude": 11.5060402
+    "longitude": 11.5060402,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Otilia",
     "retailer": "otilia",
     "shop": "beauty",
     "latitude": 47.2827246,
-    "longitude": 11.506539
+    "longitude": 11.506539,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Palmers",
@@ -532,77 +752,105 @@
     "shop": "clothes",
     "latitude": 47.2816229,
     "longitude": 11.5072994,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pfister",
     "retailer": "pfister",
     "shop": "pastry",
     "latitude": 47.281198,
-    "longitude": 11.5007501
+    "longitude": 11.5007501,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Riepenhausen Buchhandlung",
     "retailer": "riepenhausen_buchhandlung",
     "shop": "books",
     "latitude": 47.2809805,
-    "longitude": 11.5071985
+    "longitude": 11.5071985,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Riepenhausen Papierfachhandlung",
     "retailer": "riepenhausen_papierfachhandlung",
     "shop": "stationery",
     "latitude": 47.2815872,
-    "longitude": 11.5072818
+    "longitude": 11.5072818,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sanitätshaus Heindl",
     "retailer": "sanitatshaus_heindl",
     "shop": "medical_supply",
     "latitude": 47.2805404,
-    "longitude": 11.5057933
+    "longitude": 11.5057933,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schier",
     "retailer": "schier",
     "shop": "jewelry",
     "latitude": 47.2825649,
-    "longitude": 11.5077118
+    "longitude": 11.5077118,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Seewald",
     "retailer": "seewald",
     "shop": "clothes",
     "latitude": 47.2818375,
-    "longitude": 11.5082411
+    "longitude": 11.5082411,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Seiwald Haar- und Nagelstudio",
     "retailer": "seiwald_haar_und_nagelstudio",
     "shop": "cosmetics",
     "latitude": 47.2809381,
-    "longitude": 11.5067267
+    "longitude": 11.5067267,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sister's",
     "retailer": "sister_s",
     "shop": "clothes",
     "latitude": 47.2820525,
-    "longitude": 11.5075895
+    "longitude": 11.5075895,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Skribo Moser",
     "retailer": "skribo_moser",
     "shop": "stationery",
     "latitude": 47.2818962,
-    "longitude": 11.5076711
+    "longitude": 11.5076711,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spanring",
     "retailer": "spanring",
     "shop": "optician",
     "latitude": 47.2820856,
-    "longitude": 11.5081175
+    "longitude": 11.5081175,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Street One",
@@ -610,83 +858,115 @@
     "shop": "clothes",
     "latitude": 47.2813541,
     "longitude": 11.5073716,
-    "brand": "Street One"
+    "brand": "Street One",
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tee & Kräuter Drogerie",
     "retailer": "tee_und_krauter_drogerie",
     "shop": "chemist",
     "latitude": 47.2823886,
-    "longitude": 11.5078458
+    "longitude": 11.5078458,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Teegießerei",
     "retailer": "teegieerei",
     "shop": "tea",
     "latitude": 47.2819741,
-    "longitude": 11.5080808
+    "longitude": 11.5080808,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tiroloptik",
     "retailer": "tiroloptik",
     "shop": "optician",
     "latitude": 47.2814787,
-    "longitude": 11.5086707
+    "longitude": 11.5086707,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tortenmädchen",
     "retailer": "tortenmadchen",
     "shop": "pastry",
     "latitude": 47.2829425,
-    "longitude": 11.5080032
+    "longitude": 11.5080032,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 47.2815894,
-    "longitude": 11.507418
+    "longitude": 11.507418,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ully",
     "retailer": "ully",
     "shop": "gift",
     "latitude": 47.282533,
-    "longitude": 11.5077033
+    "longitude": 11.5077033,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vettori",
     "retailer": "vettori",
     "shop": "clothes",
     "latitude": 47.2815671,
-    "longitude": 11.5077631
+    "longitude": 11.5077631,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "WAMS",
     "retailer": "wams",
     "shop": "second_hand",
     "latitude": 47.2814468,
-    "longitude": 11.5045513
+    "longitude": 11.5045513,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Watzek",
     "retailer": "watzek",
     "shop": "photo",
     "latitude": 47.2811759,
-    "longitude": 11.5055503
+    "longitude": 11.5055503,
+    "postcode": "6060",
+    "city": "Hall in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Weltladen",
     "retailer": "weltladen",
     "shop": "convenience",
     "latitude": 47.2817557,
-    "longitude": 11.5061806
+    "longitude": 11.5061806,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ölmez Market",
     "retailer": "olmez_market",
     "shop": "supermarket",
     "latitude": 47.2802963,
-    "longitude": 11.5079061
+    "longitude": 11.5079061,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

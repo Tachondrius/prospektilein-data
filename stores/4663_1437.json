@@ -4,7 +4,11 @@
     "retailer": "hausmann",
     "shop": "supermarket",
     "latitude": 46.6344146,
-    "longitude": 14.3713622
+    "longitude": 14.3713622,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Metro",
@@ -12,7 +16,11 @@
     "shop": "wholesale",
     "latitude": 46.6373796,
     "longitude": 14.3722935,
-    "brand": "METRO"
+    "brand": "METRO",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Transgourmet",
@@ -20,6 +28,10 @@
     "shop": "wholesale",
     "latitude": 46.6337418,
     "longitude": 14.3703631,
-    "brand": "Transgourmet"
+    "brand": "Transgourmet",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

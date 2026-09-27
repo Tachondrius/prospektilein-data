@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.0287254,
     "longitude": 15.4373261,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3204",
+    "city": "Kirchberg an der Pielach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,42 +17,60 @@
     "shop": "chemist",
     "latitude": 48.0272663,
     "longitude": 15.4353249,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "3204",
+    "city": "Kirchberg an der Pielach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Alfred Leb",
     "retailer": "backerei_alfred_leb",
     "shop": "bakery",
     "latitude": 48.0255797,
-    "longitude": 15.4318086
+    "longitude": 15.4318086,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Elektro König GmbH",
     "retailer": "elektro_konig_gmbh",
     "shop": "electronics",
     "latitude": 48.0257493,
-    "longitude": 15.4311009
+    "longitude": 15.4311009,
+    "postcode": "3204",
+    "city": "Kirchberg an der Pielach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fink-Sveiger",
     "retailer": "fink_sveiger",
     "shop": "hardware",
     "latitude": 48.0271825,
-    "longitude": 15.4307501
+    "longitude": 15.4307501,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "GÖDEL EDV",
     "retailer": "godel_edv",
     "shop": "computer",
     "latitude": 48.0257614,
-    "longitude": 15.4308319
+    "longitude": 15.4308319,
+    "postcode": "3204",
+    "city": "Kirchberg an der Pielach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kerschner",
     "retailer": "kerschner",
     "shop": "travel_agency",
     "latitude": 48.0254914,
-    "longitude": 15.4321603
+    "longitude": 15.4321603,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -56,28 +78,40 @@
     "shop": "doityourself",
     "latitude": 48.0243674,
     "longitude": 15.4315131,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3204",
+    "city": "Kirchberg an der Pielach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penzenauer",
     "retailer": "penzenauer",
     "shop": "bakery",
     "latitude": 48.025392,
-    "longitude": 15.4332981
+    "longitude": 15.4332981,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PURER wohnen & schlafen",
     "retailer": "purer_wohnen_und_schlafen",
     "shop": "bed",
     "latitude": 48.0254732,
-    "longitude": 15.4322192
+    "longitude": 15.4322192,
+    "postcode": "3204",
+    "city": "Kirchberg an der Pielach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schindlegger",
     "retailer": "schindlegger",
     "shop": "shoes",
     "latitude": 48.025368,
-    "longitude": 15.4320053
+    "longitude": 15.4320053,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -85,21 +119,33 @@
     "shop": "supermarket",
     "latitude": 48.0269876,
     "longitude": 15.4306939,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3204",
+    "city": "Kirchberg an der Pielach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sveiger",
     "retailer": "sveiger",
     "shop": "hairdresser",
     "latitude": 48.0256196,
-    "longitude": 15.4315895
+    "longitude": 15.4315895,
+    "postcode": "3204",
+    "city": "Kirchberg an der Pielach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik Eppensteiner",
     "retailer": "tabak_trafik_eppensteiner",
     "shop": "kiosk",
     "latitude": 48.0257314,
-    "longitude": 15.4312729
+    "longitude": 15.4312729,
+    "postcode": "3204",
+    "city": "Kirchberg an der Pielach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Turmöl",
@@ -107,6 +153,10 @@
     "shop": "kiosk",
     "latitude": 48.0265892,
     "longitude": 15.4349147,
-    "brand": "Turmöl"
+    "brand": "Turmöl",
+    "postcode": "3204",
+    "city": "Kirchberg an der Pielach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

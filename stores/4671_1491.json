@@ -5,14 +5,18 @@
     "shop": "supermarket",
     "latitude": 46.7168811,
     "longitude": 14.9156736,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fleischerei Libiseller",
     "retailer": "fleischerei_libiseller",
     "shop": "butcher",
     "latitude": 46.7195865,
-    "longitude": 14.9134468
+    "longitude": 14.9134468,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -20,6 +24,8 @@
     "shop": "supermarket",
     "latitude": 46.7183157,
     "longitude": 14.9165082,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

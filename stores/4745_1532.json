@@ -4,13 +4,19 @@
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 47.45244,
-    "longitude": 15.3220725
+    "longitude": 15.3220725,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PM Motors",
     "retailer": "pm_motors",
     "shop": "motorcycle",
     "latitude": 47.4571912,
-    "longitude": 15.320113
+    "longitude": 15.320113,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

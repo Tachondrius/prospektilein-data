@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 46.8145389,
     "longitude": 15.2341522,
-    "brand": "Mitsubishi;CFMOTO"
+    "brand": "Mitsubishi;CFMOTO",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Resch",
@@ -13,7 +17,11 @@
     "shop": "car",
     "latitude": 46.8164647,
     "longitude": 15.2343693,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -21,28 +29,44 @@
     "shop": "supermarket",
     "latitude": 46.8157507,
     "longitude": 15.2360876,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "EP:Theussl",
     "retailer": "ep_theussl",
     "shop": "electronics",
     "latitude": 46.8151679,
-    "longitude": 15.2329001
+    "longitude": 15.2329001,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "FitFactory",
     "retailer": "fitfactory",
     "shop": "convenience",
     "latitude": 46.8147194,
-    "longitude": 15.232527
+    "longitude": 15.232527,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Florathek Boutique",
     "retailer": "florathek_boutique",
     "shop": "florist",
     "latitude": 46.8198609,
-    "longitude": 15.230022
+    "longitude": 15.230022,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Interspar",
@@ -50,7 +74,10 @@
     "shop": "supermarket",
     "latitude": 46.8196343,
     "longitude": 15.2302346,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "postcode": "8530",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Junge Sterne Mercedes-Stelzer",
@@ -58,28 +85,44 @@
     "shop": "car",
     "latitude": 46.8164549,
     "longitude": 15.2363543,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pinter Bestattung",
     "retailer": "pinter_bestattung",
     "shop": "funeral_directors",
     "latitude": 46.8155145,
-    "longitude": 15.2323253
+    "longitude": 15.2323253,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pinter Blumen",
     "retailer": "pinter_blumen",
     "shop": "florist",
     "latitude": 46.815521,
-    "longitude": 15.2324316
+    "longitude": 15.2324316,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Seiner Wohnen",
     "retailer": "seiner_wohnen",
     "shop": "furniture",
     "latitude": 46.8171077,
-    "longitude": 15.2366632
+    "longitude": 15.2366632,
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Toyota Gady Deutschlandsberg",
@@ -87,7 +130,11 @@
     "shop": "car",
     "latitude": 46.8154012,
     "longitude": 15.2336657,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "8530",
+    "city": "Deutschlandsberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Viva",
@@ -95,13 +142,17 @@
     "shop": "convenience",
     "latitude": 46.8159427,
     "longitude": 15.2346938,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ölmühle Pronnegg",
     "retailer": "olmuhle_pronnegg",
     "shop": "yes",
     "latitude": 46.8198983,
-    "longitude": 15.2362118
+    "longitude": 15.2362118,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

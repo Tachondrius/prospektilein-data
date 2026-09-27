@@ -4,49 +4,73 @@
     "retailer": "auto_suss",
     "shop": "car_repair",
     "latitude": 47.0957813,
-    "longitude": 13.6350849
+    "longitude": 13.6350849,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Autohaus Holleis",
     "retailer": "autohaus_holleis",
     "shop": "car_repair",
     "latitude": 47.09485,
-    "longitude": 13.6358788
+    "longitude": 13.6358788,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bacher-Reisen",
     "retailer": "bacher_reisen",
     "shop": "travel_agency",
     "latitude": 47.0989576,
-    "longitude": 13.637943
+    "longitude": 13.637943,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Backladen",
     "retailer": "backladen",
     "shop": "bakery",
     "latitude": 47.0994343,
-    "longitude": 13.634251
+    "longitude": 13.634251,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Barbershop",
     "retailer": "barbershop",
     "shop": "hairdresser",
     "latitude": 47.0952902,
-    "longitude": 13.6376619
+    "longitude": 13.6376619,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bauernladen",
     "retailer": "bauernladen",
     "shop": "farm",
     "latitude": 47.0985874,
-    "longitude": 13.6371472
+    "longitude": 13.6371472,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Beauty Ink Saskia",
     "retailer": "beauty_ink_saskia",
     "shop": "beauty",
     "latitude": 47.0953162,
-    "longitude": 13.6375538
+    "longitude": 13.6375538,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -54,7 +78,11 @@
     "shop": "supermarket",
     "latitude": 47.096054,
     "longitude": 13.6328516,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bipa",
@@ -62,56 +90,85 @@
     "shop": "chemist",
     "latitude": 47.0962439,
     "longitude": 13.632339,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Blumenvinothek",
     "retailer": "blumenvinothek",
     "shop": "florist",
     "latitude": 47.0982051,
-    "longitude": 13.6377397
+    "longitude": 13.6377397,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Café Mandl",
     "retailer": "cafe_mandl",
     "shop": "confectionery",
     "latitude": 47.0982758,
-    "longitude": 13.6376238
+    "longitude": 13.6376238,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "deko.creative4u",
     "retailer": "deko_creative4u",
     "shop": "gift",
     "latitude": 47.0984763,
-    "longitude": 13.6375502
+    "longitude": 13.6375502,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Die Friseurin",
     "retailer": "die_friseurin",
     "shop": "hairdresser",
     "latitude": 47.0985946,
-    "longitude": 13.637801
+    "longitude": 13.637801,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Die Ladnerei",
     "retailer": "die_ladnerei",
     "shop": "butcher",
     "latitude": 47.0957197,
-    "longitude": 13.6336111
+    "longitude": 13.6336111,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Eisen Hutegger",
     "retailer": "eisen_hutegger",
     "shop": "doityourself",
     "latitude": 47.0958606,
-    "longitude": 13.6333197
+    "longitude": 13.6333197,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Elektro Schlick",
     "retailer": "elektro_schlick",
     "shop": "electronics",
     "latitude": 47.0968625,
-    "longitude": 13.6383846
+    "longitude": 13.6383846,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Expert",
@@ -119,14 +176,21 @@
     "shop": "electronics",
     "latitude": 47.0947672,
     "longitude": 13.6377713,
-    "brand": "Expert"
+    "brand": "Expert",
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Feistmantel",
     "retailer": "feistmantel",
     "shop": "hairdresser",
     "latitude": 47.0990489,
-    "longitude": 13.6388161
+    "longitude": 13.6388161,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -134,7 +198,11 @@
     "shop": "supermarket",
     "latitude": 47.0948752,
     "longitude": 13.6396351,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kfz Fötschl",
@@ -142,7 +210,11 @@
     "shop": "car",
     "latitude": 47.0967183,
     "longitude": 13.6315479,
-    "brand": "HYUNDAY"
+    "brand": "HYUNDAY",
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KiK",
@@ -150,7 +222,9 @@
     "shop": "clothes",
     "latitude": 47.0957557,
     "longitude": 13.6334366,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Klipp",
@@ -158,70 +232,101 @@
     "shop": "hairdresser",
     "latitude": 47.0958951,
     "longitude": 13.6332625,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kollis Schuhwerk",
     "retailer": "kollis_schuhwerk",
     "shop": "shoes",
     "latitude": 47.0961957,
-    "longitude": 13.6324963
+    "longitude": 13.6324963,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kollmann",
     "retailer": "kollmann",
     "shop": "shoes",
     "latitude": 47.0992062,
-    "longitude": 13.6389714
+    "longitude": 13.6389714,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kosmetik, Fußpflege, Massage Judith Bayr",
     "retailer": "kosmetik_fupflege_massage_judith_bayr",
     "shop": "massage",
     "latitude": 47.093957,
-    "longitude": 13.6362782
+    "longitude": 13.6362782,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Look good",
     "retailer": "look_good",
     "shop": "clothes",
     "latitude": 47.0988708,
-    "longitude": 13.6381769
+    "longitude": 13.6381769,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Löcker",
     "retailer": "locker",
     "shop": "bakery",
     "latitude": 47.0970847,
-    "longitude": 13.6376974
+    "longitude": 13.6376974,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Maler Wieland",
     "retailer": "maler_wieland",
     "shop": "paint",
     "latitude": 47.0959381,
-    "longitude": 13.6344172
+    "longitude": 13.6344172,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "NKD",
     "retailer": "nkd",
     "shop": "clothes",
     "latitude": 47.0961191,
-    "longitude": 13.6326694
+    "longitude": 13.6326694,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "No Limits",
     "retailer": "no_limits",
     "shop": "hairdresser",
     "latitude": 47.0979925,
-    "longitude": 13.6374225
+    "longitude": 13.6374225,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Nora Wieland",
     "retailer": "nora_wieland",
     "shop": "hairdresser",
     "latitude": 47.0985259,
-    "longitude": 13.6373166
+    "longitude": 13.6373166,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pagro",
@@ -229,28 +334,41 @@
     "shop": "stationery",
     "latitude": 47.0962897,
     "longitude": 13.6321943,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Peter Fötschl",
     "retailer": "peter_fotschl",
     "shop": "car_repair",
     "latitude": 47.0965497,
-    "longitude": 13.6317839
+    "longitude": 13.6317839,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Radsport Friedrich",
     "retailer": "radsport_friedrich",
     "shop": "sports",
     "latitude": 47.0982985,
-    "longitude": 13.6362039
+    "longitude": 13.6362039,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Resch Wohnen",
     "retailer": "resch_wohnen",
     "shop": "furniture",
     "latitude": 47.095859,
-    "longitude": 13.6347414
+    "longitude": 13.6347414,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -258,35 +376,53 @@
     "shop": "supermarket",
     "latitude": 47.0973461,
     "longitude": 13.6370402,
-    "brand": "Spar"
+    "brand": "Spar",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Friedrich",
     "retailer": "sport_friedrich",
     "shop": "sports",
     "latitude": 47.0983454,
-    "longitude": 13.6373978
+    "longitude": 13.6373978,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Rest",
     "retailer": "sport_rest",
     "shop": "sports",
     "latitude": 47.0978199,
-    "longitude": 13.6374132
+    "longitude": 13.6374132,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sportfex",
     "retailer": "sportfex",
     "shop": "sports",
     "latitude": 47.0949705,
-    "longitude": 13.6389744
+    "longitude": 13.6389744,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "T & G",
     "retailer": "t_und_g",
     "shop": "supermarket",
     "latitude": 47.0950218,
-    "longitude": 13.6386886
+    "longitude": 13.6386886,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Takko",
@@ -294,20 +430,31 @@
     "shop": "clothes",
     "latitude": 47.0963604,
     "longitude": 13.6320619,
-    "brand": "Takko"
+    "brand": "Takko",
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tempur",
     "retailer": "tempur",
     "shop": "bed",
     "latitude": 47.0952223,
-    "longitude": 13.6380587
+    "longitude": 13.6380587,
+    "postcode": "5582",
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Trafik Olschützer",
     "retailer": "trafik_olschutzer",
     "shop": "kiosk",
     "latitude": 47.0969102,
-    "longitude": 13.6376556
+    "longitude": 13.6376556,
+    "city": "Sankt Michael im Lungau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

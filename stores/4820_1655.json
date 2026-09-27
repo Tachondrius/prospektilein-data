@@ -4,7 +4,11 @@
     "retailer": "alexowsky",
     "shop": "books",
     "latitude": 48.2021522,
-    "longitude": 16.550445
+    "longitude": 16.550445,
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -12,14 +16,18 @@
     "shop": "chemist",
     "latitude": 48.2005592,
     "longitude": 16.5519196,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eteschnik",
     "retailer": "eteschnik",
     "shop": "jewelry",
     "latitude": 48.2000557,
-    "longitude": 16.5501492
+    "longitude": 16.5501492,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -27,28 +35,38 @@
     "shop": "supermarket",
     "latitude": 48.2060454,
     "longitude": 16.5502135,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Freestyle",
     "retailer": "freestyle",
     "shop": "hairdresser",
     "latitude": 48.2006434,
-    "longitude": 16.5503727
+    "longitude": 16.5503727,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Geier",
     "retailer": "geier",
     "shop": "bakery",
     "latitude": 48.2006913,
-    "longitude": 16.5507318
+    "longitude": 16.5507318,
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Henry Laden",
     "retailer": "henry_laden",
     "shop": "clothes",
     "latitude": 48.2014199,
-    "longitude": 16.5508062
+    "longitude": 16.5508062,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -56,41 +74,63 @@
     "shop": "supermarket",
     "latitude": 48.2015847,
     "longitude": 16.5532544,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Olivia´s Tierwelt",
     "retailer": "olivia_s_tierwelt",
     "shop": "pet",
     "latitude": 48.2025224,
-    "longitude": 16.5537135
+    "longitude": 16.5537135,
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Optiker Kronister",
     "retailer": "optiker_kronister",
     "shop": "optician",
     "latitude": 48.2020669,
-    "longitude": 16.5500452
+    "longitude": 16.5500452,
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Remax",
     "retailer": "remax",
     "shop": "estate_agent",
     "latitude": 48.2002493,
-    "longitude": 16.5502294
+    "longitude": 16.5502294,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 48.2009253,
-    "longitude": 16.5507482
+    "longitude": 16.5507482,
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Alexowsky",
     "retailer": "trafik_alexowsky",
     "shop": "tobacco",
     "latitude": 48.2020901,
-    "longitude": 16.5504157
+    "longitude": 16.5504157,
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

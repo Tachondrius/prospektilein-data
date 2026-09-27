@@ -4,7 +4,9 @@
     "retailer": "backshop_sollenau",
     "shop": "bakery",
     "latitude": 47.8912464,
-    "longitude": 16.2508518
+    "longitude": 16.2508518,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,14 +14,20 @@
     "shop": "supermarket",
     "latitude": 47.8952024,
     "longitude": 16.2518403,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2601",
+    "city": "Sollenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.8937397,
-    "longitude": 16.2519121
+    "longitude": 16.2519121,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reisner",
@@ -27,27 +35,41 @@
     "shop": "doors;furniture;window_blind",
     "latitude": 47.8930101,
     "longitude": 16.2540584,
-    "brand": "Internorm"
+    "brand": "Internorm",
+    "postcode": "2601",
+    "city": "Sollenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schroll Seifen",
     "retailer": "schroll_seifen",
     "shop": "gift",
     "latitude": 47.8929878,
-    "longitude": 16.2518135
+    "longitude": 16.2518135,
+    "postcode": "2601",
+    "city": "Sollenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Steiner",
     "retailer": "steiner",
     "shop": "butcher",
     "latitude": 47.8966884,
-    "longitude": 16.2505008
+    "longitude": 16.2505008,
+    "postcode": "2601",
+    "city": "Sollenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Toms Brillenladen",
     "retailer": "toms_brillenladen",
     "shop": "optician",
     "latitude": 47.8959949,
-    "longitude": 16.2503403
+    "longitude": 16.2503403,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,14 +4,18 @@
     "retailer": "granat_bike",
     "shop": "bicycle",
     "latitude": 46.7827085,
-    "longitude": 13.6508878
+    "longitude": 13.6508878,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pertl",
     "retailer": "pertl",
     "shop": "shoes",
     "latitude": 46.7818813,
-    "longitude": 13.6579809
+    "longitude": 13.6579809,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -19,7 +23,11 @@
     "shop": "supermarket",
     "latitude": 46.7814899,
     "longitude": 13.6515646,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9873",
+    "city": "Radenthein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sport 2000",
@@ -27,13 +35,18 @@
     "shop": "sports",
     "latitude": 46.7825947,
     "longitude": 13.6582968,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "9873",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.78236,
-    "longitude": 13.6571926
+    "longitude": 13.6571926,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

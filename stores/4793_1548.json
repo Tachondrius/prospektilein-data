@@ -4,7 +4,9 @@
     "retailer": "atf_schadlingsbekampfung",
     "shop": "yes",
     "latitude": 47.9304117,
-    "longitude": 15.4897956
+    "longitude": 15.4897956,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.9306972,
     "longitude": 15.4893923,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3184",
+    "city": "Türnitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

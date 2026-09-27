@@ -4,28 +4,41 @@
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 46.7445495,
-    "longitude": 14.3888918
+    "longitude": 14.3888918,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kfz Truppe",
     "retailer": "kfz_truppe",
     "shop": "car",
     "latitude": 46.7429347,
-    "longitude": 14.3880469
+    "longitude": 14.3880469,
+    "postcode": "9300",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Motorwelt Spindelböck",
     "retailer": "motorwelt_spindelbock",
     "shop": "car",
     "latitude": 46.744055,
-    "longitude": 14.3881121
+    "longitude": 14.3881121,
+    "postcode": "9300",
+    "city": "St. Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Radauer",
     "retailer": "radauer",
     "shop": "car",
     "latitude": 46.744538,
-    "longitude": 14.3882818
+    "longitude": 14.3882818,
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -33,6 +46,10 @@
     "shop": "trade",
     "latitude": 46.7472755,
     "longitude": 14.3849725,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "9300",
+    "city": "Sankt Veit an der Glan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

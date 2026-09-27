@@ -5,21 +5,31 @@
     "shop": "supermarket",
     "latitude": 48.2230629,
     "longitude": 16.6890674,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2285",
+    "city": "Leopoldsdorf im Marchfeld",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Elfriede Ondrovcik",
     "retailer": "elfriede_ondrovcik",
     "shop": "hairdresser",
     "latitude": 48.22205,
-    "longitude": 16.687152
+    "longitude": 16.687152,
+    "postcode": "2285",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Renate Cvrkal",
     "retailer": "renate_cvrkal",
     "shop": "kiosk",
     "latitude": 48.2230422,
-    "longitude": 16.6878874
+    "longitude": 16.6878874,
+    "postcode": "2285",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -27,6 +37,9 @@
     "shop": "supermarket",
     "latitude": 48.225102,
     "longitude": 16.689141,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2285",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

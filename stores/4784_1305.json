@@ -5,20 +5,26 @@
     "shop": "convenience",
     "latitude": 47.8441367,
     "longitude": 13.0506038,
-    "brand": "BP"
+    "brand": "BP",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hausmann",
     "retailer": "hausmann",
     "shop": "hardware",
     "latitude": 47.8410692,
-    "longitude": 13.0535422
+    "longitude": 13.0535422,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hollaus & Grömer",
     "retailer": "hollaus_und_gromer",
     "shop": "car",
     "latitude": 47.8435721,
-    "longitude": 13.0515484
+    "longitude": 13.0515484,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

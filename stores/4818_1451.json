@@ -5,13 +5,19 @@
     "shop": "car",
     "latitude": 48.186551,
     "longitude": 14.5192493,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fenstercenter Adami GmbH",
     "retailer": "fenstercenter_adami_gmbh",
     "shop": "window_blind",
     "latitude": 48.1888838,
-    "longitude": 14.5133285
+    "longitude": 14.5133285,
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

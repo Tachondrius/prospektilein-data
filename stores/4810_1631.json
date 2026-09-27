@@ -5,7 +5,9 @@
     "shop": "bookmaker",
     "latitude": 48.1043224,
     "longitude": 16.3170033,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Backwerk",
@@ -13,7 +15,9 @@
     "shop": "bakery",
     "latitude": 48.1087415,
     "longitude": 16.3184612,
-    "brand": "BackWerk"
+    "brand": "BackWerk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -21,7 +25,9 @@
     "shop": "supermarket",
     "latitude": 48.1078997,
     "longitude": 16.3177692,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Plus",
@@ -29,7 +35,11 @@
     "shop": "supermarket",
     "latitude": 48.1081364,
     "longitude": 16.3118827,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -37,14 +47,18 @@
     "shop": "chemist",
     "latitude": 48.1075196,
     "longitude": 16.3182888,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blaue Lagune",
     "retailer": "blaue_lagune",
     "shop": "estate_agent",
     "latitude": 48.1014724,
-    "longitude": 16.3166912
+    "longitude": 16.3166912,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blue Tomato",
@@ -52,14 +66,18 @@
     "shop": "clothes",
     "latitude": 48.1070116,
     "longitude": 16.3174897,
-    "brand": "Blue Tomato"
+    "brand": "Blue Tomato",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bushdoctor",
     "retailer": "bushdoctor",
     "shop": "tobacco",
     "latitude": 48.107262,
-    "longitude": 16.318212
+    "longitude": 16.318212,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BYD",
@@ -67,7 +85,9 @@
     "shop": "car",
     "latitude": 48.1074689,
     "longitude": 16.3186125,
-    "brand": "BYD"
+    "brand": "BYD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "C&A",
@@ -75,7 +95,9 @@
     "shop": "clothes",
     "latitude": 48.1074878,
     "longitude": 16.3176136,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Calvin Klein",
@@ -83,7 +105,9 @@
     "shop": "clothes",
     "latitude": 48.1089289,
     "longitude": 16.3177961,
-    "brand": "Calvin Klein"
+    "brand": "Calvin Klein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "comma",
@@ -91,14 +115,18 @@
     "shop": "clothes",
     "latitude": 48.10908,
     "longitude": 16.3173263,
-    "brand": "comma"
+    "brand": "comma",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DanKüchen",
     "retailer": "dankuchen",
     "shop": "kitchen",
     "latitude": 48.106366,
-    "longitude": 16.3137686
+    "longitude": 16.3137686,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichmann",
@@ -106,28 +134,38 @@
     "shop": "shoes",
     "latitude": 48.1085373,
     "longitude": 16.3170825,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Demmers Teehaus",
     "retailer": "demmers_teehaus",
     "shop": "tea",
     "latitude": 48.1080749,
-    "longitude": 16.3179986
+    "longitude": 16.3179986,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DEXIS Austria",
     "retailer": "dexis_austria",
     "shop": "hardware",
     "latitude": 48.1098298,
-    "longitude": 16.3100499
+    "longitude": 16.3100499,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dji",
     "retailer": "dji",
     "shop": "electrical",
     "latitude": 48.1099795,
-    "longitude": 16.3181622
+    "longitude": 16.3181622,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -135,14 +173,20 @@
     "shop": "chemist",
     "latitude": 48.1067971,
     "longitude": 16.3135681,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dorotheum",
     "retailer": "dorotheum",
     "shop": "jewelry",
     "latitude": 48.1079997,
-    "longitude": 16.3179746
+    "longitude": 16.3179746,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Douglas",
@@ -150,21 +194,27 @@
     "shop": "perfumery",
     "latitude": 48.1099519,
     "longitude": 16.3177133,
-    "brand": "Douglas"
+    "brand": "Douglas",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dyson",
     "retailer": "dyson",
     "shop": "vacuum_cleaner",
     "latitude": 48.109714,
-    "longitude": 16.3180903
+    "longitude": 16.3180903,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Easy Nails",
     "retailer": "easy_nails",
     "shop": "beauty",
     "latitude": 48.1071134,
-    "longitude": 16.3175586
+    "longitude": 16.3175586,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Elbenwald",
@@ -172,21 +222,27 @@
     "shop": "gift",
     "latitude": 48.1072238,
     "longitude": 16.3181224,
-    "brand": "Elbenwald"
+    "brand": "Elbenwald",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ellert",
     "retailer": "ellert",
     "shop": "jewelry",
     "latitude": 48.1080268,
-    "longitude": 16.3184399
+    "longitude": 16.3184399,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "English Home",
     "retailer": "english_home",
     "shop": "interior_decoration",
     "latitude": 48.1076921,
-    "longitude": 16.3182643
+    "longitude": 16.3182643,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ernsting's family",
@@ -194,7 +250,9 @@
     "shop": "clothes",
     "latitude": 48.1067641,
     "longitude": 16.3144987,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Esprit",
@@ -202,7 +260,9 @@
     "shop": "clothes",
     "latitude": 48.1093848,
     "longitude": 16.317297,
-    "brand": "Esprit"
+    "brand": "Esprit",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "eyes and more",
@@ -210,21 +270,29 @@
     "shop": "optician",
     "latitude": 48.1084318,
     "longitude": 16.3180313,
-    "brand": "eyes and more"
+    "brand": "eyes and more",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "eZig Store",
     "retailer": "ezig_store",
     "shop": "tobacco",
     "latitude": 48.1088339,
-    "longitude": 16.3177289
+    "longitude": 16.3177289,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "FAMILYPOINT",
     "retailer": "familypoint",
     "shop": "mall",
     "latitude": 48.1065702,
-    "longitude": 16.313794
+    "longitude": 16.313794,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fielmann",
@@ -232,7 +300,9 @@
     "shop": "optician",
     "latitude": 48.1077853,
     "longitude": 16.3182748,
-    "brand": "Fielmann"
+    "brand": "Fielmann",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fressnapf",
@@ -240,14 +310,18 @@
     "shop": "pet",
     "latitude": 48.1067779,
     "longitude": 16.31411,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fun Art",
     "retailer": "fun_art",
     "shop": "gift",
     "latitude": 48.1046105,
-    "longitude": 16.3180865
+    "longitude": 16.3180865,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Geox",
@@ -255,7 +329,9 @@
     "shop": "shoes",
     "latitude": 48.1090232,
     "longitude": 16.3181184,
-    "brand": "Geox"
+    "brand": "Geox",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gigasport",
@@ -263,7 +339,11 @@
     "shop": "sports",
     "latitude": 48.1051746,
     "longitude": 16.3114934,
-    "brand": "Gigasport"
+    "brand": "Gigasport",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Guess",
@@ -271,7 +351,9 @@
     "shop": "clothes",
     "latitude": 48.1093013,
     "longitude": 16.3179589,
-    "brand": "Guess"
+    "brand": "Guess",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hartlauer",
@@ -279,7 +361,9 @@
     "shop": "electronics",
     "latitude": 48.1096478,
     "longitude": 16.3180729,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "HEMA",
@@ -287,7 +371,9 @@
     "shop": "department_store",
     "latitude": 48.1074721,
     "longitude": 16.3182061,
-    "brand": "HEMA"
+    "brand": "HEMA",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hollister",
@@ -295,7 +381,9 @@
     "shop": "clothes",
     "latitude": 48.1095608,
     "longitude": 16.317526,
-    "brand": "Hollister"
+    "brand": "Hollister",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hornbach",
@@ -303,7 +391,11 @@
     "shop": "doityourself",
     "latitude": 48.1079922,
     "longitude": 16.3128591,
-    "brand": "Hornbach"
+    "brand": "Hornbach",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hornbach Drive In",
@@ -311,7 +403,11 @@
     "shop": "doityourself",
     "latitude": 48.1082648,
     "longitude": 16.3147345,
-    "brand": "Hornbach"
+    "brand": "Hornbach",
+    "postcode": "2334",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Huber Shop",
@@ -319,7 +415,9 @@
     "shop": "clothes",
     "latitude": 48.1085234,
     "longitude": 16.318067,
-    "brand": "Huber Shop"
+    "brand": "Huber Shop",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hugo Boss",
@@ -327,7 +425,9 @@
     "shop": "clothes",
     "latitude": 48.1099176,
     "longitude": 16.3181298,
-    "brand": "Hugo Boss"
+    "brand": "Hugo Boss",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Humanic",
@@ -335,7 +435,9 @@
     "shop": "shoes",
     "latitude": 48.1084534,
     "longitude": 16.3172399,
-    "brand": "Humanic"
+    "brand": "Humanic",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Humanic Outlet",
@@ -343,14 +445,18 @@
     "shop": "shoes",
     "latitude": 48.1063326,
     "longitude": 16.3144502,
-    "brand": "Humanic"
+    "brand": "Humanic",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Iconic Mails & Beauty",
     "retailer": "iconic_mails_und_beauty",
     "shop": "beauty",
     "latitude": 48.1084103,
-    "longitude": 16.3180398
+    "longitude": 16.3180398,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "IKEA",
@@ -358,21 +464,29 @@
     "shop": "furniture",
     "latitude": 48.1062362,
     "longitude": 16.318269,
-    "brand": "IKEA"
+    "brand": "IKEA",
+    "postcode": "2334",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Inter-optic",
     "retailer": "inter_optic",
     "shop": "optician",
     "latitude": 48.1098961,
-    "longitude": 16.3176893
+    "longitude": 16.3176893,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Interio",
     "retailer": "interio",
     "shop": "furniture",
     "latitude": 48.1034769,
-    "longitude": 16.3159142
+    "longitude": 16.3159142,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Intersport",
@@ -380,7 +494,9 @@
     "shop": "sports",
     "latitude": 48.1034814,
     "longitude": 16.3167242,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Jack Wolfskin",
@@ -388,14 +504,18 @@
     "shop": "outdoor",
     "latitude": 48.1070357,
     "longitude": 16.3181212,
-    "brand": "Jack Wolfskin"
+    "brand": "Jack Wolfskin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Jacques Lemans",
     "retailer": "jacques_lemans",
     "shop": "watches",
     "latitude": 48.1086187,
-    "longitude": 16.3181291
+    "longitude": 16.3181291,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "JYSK",
@@ -403,21 +523,29 @@
     "shop": "furniture",
     "latitude": 48.1065992,
     "longitude": 16.3129801,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Karaca",
     "retailer": "karaca",
     "shop": "interior_decoration",
     "latitude": 48.1080895,
-    "longitude": 16.3178174
+    "longitude": 16.3178174,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kettner",
     "retailer": "kettner",
     "shop": "hunting",
     "latitude": 48.1046702,
-    "longitude": 16.3170588
+    "longitude": 16.3170588,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -425,14 +553,18 @@
     "shop": "clothes",
     "latitude": 48.1067587,
     "longitude": 16.3146517,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.1069736,
-    "longitude": 16.3180594
+    "longitude": 16.3180594,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kleider Bauer",
@@ -440,7 +572,9 @@
     "shop": "clothes",
     "latitude": 48.1099822,
     "longitude": 16.3177292,
-    "brand": "Kleider Bauer"
+    "brand": "Kleider Bauer",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klipp",
@@ -448,21 +582,27 @@
     "shop": "hairdresser",
     "latitude": 48.1067712,
     "longitude": 16.3142977,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kult",
     "retailer": "kult",
     "shop": "clothes",
     "latitude": 48.1082566,
-    "longitude": 16.3184474
+    "longitude": 16.3184474,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kölle Zoo",
     "retailer": "kolle_zoo",
     "shop": "pet",
     "latitude": 48.1065775,
-    "longitude": 16.313377
+    "longitude": 16.313377,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lacoste",
@@ -470,14 +610,18 @@
     "shop": "clothes",
     "latitude": 48.1094885,
     "longitude": 16.3177917,
-    "brand": "Lacoste"
+    "brand": "Lacoste",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "leafs",
     "retailer": "leafs",
     "shop": "tobacco",
     "latitude": 48.1087866,
-    "longitude": 16.3179315
+    "longitude": 16.3179315,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Longchamp",
@@ -485,35 +629,45 @@
     "shop": "fashion_accessories",
     "latitude": 48.1097681,
     "longitude": 16.3176107,
-    "brand": "Longchamp"
+    "brand": "Longchamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Loris Parfum",
     "retailer": "loris_parfum",
     "shop": "perfumery",
     "latitude": 48.1088089,
-    "longitude": 16.3178662
+    "longitude": 16.3178662,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ltur",
     "retailer": "ltur",
     "shop": "travel_agency",
     "latitude": 48.1099043,
-    "longitude": 16.3176938
+    "longitude": 16.3176938,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Maison du Monde",
     "retailer": "maison_du_monde",
     "shop": "interior_decoration",
     "latitude": 48.1079286,
-    "longitude": 16.3184219
+    "longitude": 16.3184219,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Massi Milano",
     "retailer": "massi_milano",
     "shop": "clothes",
     "latitude": 48.1093325,
-    "longitude": 16.316984
+    "longitude": 16.316984,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MediaMarkt",
@@ -521,7 +675,9 @@
     "shop": "electronics",
     "latitude": 48.1074627,
     "longitude": 16.3182991,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Michael Kors",
@@ -529,28 +685,36 @@
     "shop": "clothes",
     "latitude": 48.1095049,
     "longitude": 16.3180194,
-    "brand": "Michael Kors"
+    "brand": "Michael Kors",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MobiNil",
     "retailer": "mobinil",
     "shop": "mobile_phone",
     "latitude": 48.1087461,
-    "longitude": 16.3179866
+    "longitude": 16.3179866,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Modern Asia Market",
     "retailer": "modern_asia_market",
     "shop": "convenience",
     "latitude": 48.1068357,
-    "longitude": 16.3180743
+    "longitude": 16.3180743,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Moreboards",
     "retailer": "moreboards",
     "shop": "sports",
     "latitude": 48.1070647,
-    "longitude": 16.3180793
+    "longitude": 16.3180793,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Möbelix",
@@ -558,7 +722,9 @@
     "shop": "furniture",
     "latitude": 48.1053354,
     "longitude": 16.3142887,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Müller",
@@ -566,7 +732,9 @@
     "shop": "chemist",
     "latitude": 48.108437,
     "longitude": 16.31837,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nespresso",
@@ -574,14 +742,18 @@
     "shop": "coffee",
     "latitude": 48.1094814,
     "longitude": 16.3173332,
-    "brand": "Nespresso"
+    "brand": "Nespresso",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nähmaschinen Center",
     "retailer": "nahmaschinen_center",
     "shop": "sewing",
     "latitude": 48.1070387,
-    "longitude": 16.3175708
+    "longitude": 16.3175708,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Oil & Vinegar",
@@ -589,7 +761,9 @@
     "shop": "deli",
     "latitude": 48.1089651,
     "longitude": 16.3182927,
-    "brand": "Oil & Vinegar"
+    "brand": "Oil & Vinegar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "OLYMP",
@@ -597,7 +771,9 @@
     "shop": "clothes",
     "latitude": 48.1090248,
     "longitude": 16.3178485,
-    "brand": "OLYMP"
+    "brand": "OLYMP",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ONLY",
@@ -605,14 +781,20 @@
     "shop": "clothes",
     "latitude": 48.1097721,
     "longitude": 16.3180904,
-    "brand": "ONLY"
+    "brand": "ONLY",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "P. MAX",
     "retailer": "p_max",
     "shop": "furniture",
     "latitude": 48.1063577,
-    "longitude": 16.3139781
+    "longitude": 16.3139781,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -620,7 +802,9 @@
     "shop": "stationery",
     "latitude": 48.1063446,
     "longitude": 16.3142275,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pandora",
@@ -628,21 +812,29 @@
     "shop": "jewelry",
     "latitude": 48.1095536,
     "longitude": 16.3175689,
-    "brand": "Pandora"
+    "brand": "Pandora",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Parkettshop",
     "retailer": "parkettshop",
     "shop": "flooring",
     "latitude": 48.1099709,
-    "longitude": 16.3104368
+    "longitude": 16.3104368,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Party Fiesta",
     "retailer": "party_fiesta",
     "shop": "party",
     "latitude": 48.1079279,
-    "longitude": 16.3186061
+    "longitude": 16.3186061,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pearle",
@@ -650,7 +842,9 @@
     "shop": "optician",
     "latitude": 48.1075637,
     "longitude": 16.3183776,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Peek & Cloppenburg",
@@ -658,14 +852,18 @@
     "shop": "clothes",
     "latitude": 48.1092814,
     "longitude": 16.3166248,
-    "brand": "Peek & Cloppenburg"
+    "brand": "Peek & Cloppenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Polleo Sport",
     "retailer": "polleo_sport",
     "shop": "nutrition_supplements",
     "latitude": 48.1088225,
-    "longitude": 16.3177986
+    "longitude": 16.3177986,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pull & Bear",
@@ -673,7 +871,9 @@
     "shop": "clothes",
     "latitude": 48.1094525,
     "longitude": 16.3174685,
-    "brand": "Pull & Bear"
+    "brand": "Pull & Bear",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Radatz",
@@ -681,28 +881,38 @@
     "shop": "butcher",
     "latitude": 48.1088994,
     "longitude": 16.3170439,
-    "brand": "Radatz"
+    "brand": "Radatz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ravensburger",
     "retailer": "ravensburger",
     "shop": "games",
     "latitude": 48.1082961,
-    "longitude": 16.3180179
+    "longitude": 16.3180179,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reise & Tasche",
     "retailer": "reise_und_tasche",
     "shop": "bag",
     "latitude": 48.1069692,
-    "longitude": 16.3175303
+    "longitude": 16.3175303,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rothmund",
     "retailer": "rothmund",
     "shop": "car_parts",
     "latitude": 48.1095808,
-    "longitude": 16.3116325
+    "longitude": 16.3116325,
+    "postcode": "2334",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SCS Hauptgebäude",
@@ -710,14 +920,22 @@
     "shop": "mall",
     "latitude": 48.1092495,
     "longitude": 16.3177978,
-    "brand": "Westfield"
+    "brand": "Westfield",
+    "postcode": "2334",
+    "city": "Vösendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "SCS Multiplex",
     "retailer": "scs_multiplex",
     "shop": "mall",
     "latitude": 48.104382,
-    "longitude": 16.3182176
+    "longitude": 16.3182176,
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "shoe4you",
@@ -725,21 +943,29 @@
     "shop": "shoes",
     "latitude": 48.1067488,
     "longitude": 16.3149307,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Snack Shop",
     "retailer": "snack_shop",
     "shop": "convenience",
     "latitude": 48.1073552,
-    "longitude": 16.3181459
+    "longitude": 16.3181459,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sportnahrung.at/Atombody",
     "retailer": "sportnahrung_at_atombody",
     "shop": "nutrition_supplements",
     "latitude": 48.1044265,
-    "longitude": 16.3176243
+    "longitude": 16.3176243,
+    "postcode": "2351",
+    "city": "Wiener Neudorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Swarovski",
@@ -747,7 +973,9 @@
     "shop": "jewelry",
     "latitude": 48.1096982,
     "longitude": 16.3176466,
-    "brand": "Swarovski"
+    "brand": "Swarovski",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Swatch",
@@ -755,7 +983,9 @@
     "shop": "watches",
     "latitude": 48.1087685,
     "longitude": 16.3184008,
-    "brand": "Swatch"
+    "brand": "Swatch",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "T-Mobile",
@@ -763,7 +993,9 @@
     "shop": "mobile_phone",
     "latitude": 48.10733,
     "longitude": 16.3176139,
-    "brand": "T-Mobile"
+    "brand": "T-Mobile",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -771,7 +1003,9 @@
     "shop": "clothes",
     "latitude": 48.1067871,
     "longitude": 16.3138512,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tally Weijl",
@@ -779,7 +1013,9 @@
     "shop": "clothes",
     "latitude": 48.1085974,
     "longitude": 16.3180913,
-    "brand": "Tally Weijl"
+    "brand": "Tally Weijl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TEDi",
@@ -787,14 +1023,18 @@
     "shop": "variety_store",
     "latitude": 48.1046048,
     "longitude": 16.3179487,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tennis-Point",
     "retailer": "tennis_point",
     "shop": "sports",
     "latitude": 48.106792,
-    "longitude": 16.3137135
+    "longitude": 16.3137135,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Thalia",
@@ -802,7 +1042,9 @@
     "shop": "books",
     "latitude": 48.1080523,
     "longitude": 16.3186568,
-    "brand": "Thalia"
+    "brand": "Thalia",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "The Body Shop",
@@ -810,21 +1052,27 @@
     "shop": "cosmetics",
     "latitude": 48.1085508,
     "longitude": 16.3184157,
-    "brand": "The Body Shop"
+    "brand": "The Body Shop",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "The Crazy Cheese Manufacture",
     "retailer": "the_crazy_cheese_manufacture",
     "shop": "deli",
     "latitude": 48.1089067,
-    "longitude": 16.318268
+    "longitude": 16.318268,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "The Studio",
     "retailer": "the_studio",
     "shop": "beauty",
     "latitude": 48.107164,
-    "longitude": 16.3176124
+    "longitude": 16.3176124,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Thomas Sabo",
@@ -832,7 +1080,9 @@
     "shop": "jewelry",
     "latitude": 48.109134,
     "longitude": 16.317883,
-    "brand": "Thomas Sabo"
+    "brand": "Thomas Sabo",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tom Tailor",
@@ -840,14 +1090,20 @@
     "shop": "clothes",
     "latitude": 48.1086608,
     "longitude": 16.3183928,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TOMAX 4x4",
     "retailer": "tomax_4x4",
     "shop": "car_repair",
     "latitude": 48.1091443,
-    "longitude": 16.310633
+    "longitude": 16.310633,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tommy Hilfiger",
@@ -855,14 +1111,20 @@
     "shop": "clothes",
     "latitude": 48.1098341,
     "longitude": 16.3180794,
-    "brand": "Tommy Hilfiger"
+    "brand": "Tommy Hilfiger",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Transgourmet",
     "retailer": "transgourmet",
     "shop": "supermarket",
     "latitude": 48.1063538,
-    "longitude": 16.3117012
+    "longitude": 16.3117012,
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Triumph",
@@ -870,7 +1132,9 @@
     "shop": "clothes",
     "latitude": 48.1086657,
     "longitude": 16.3180742,
-    "brand": "Triumph"
+    "brand": "Triumph",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ulla Popken",
@@ -878,7 +1142,9 @@
     "shop": "clothes",
     "latitude": 48.1078755,
     "longitude": 16.317829,
-    "brand": "Ulla Popken"
+    "brand": "Ulla Popken",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "United Colors of Benetton",
@@ -886,14 +1152,18 @@
     "shop": "clothes",
     "latitude": 48.1084272,
     "longitude": 16.3184621,
-    "brand": "United Colors of Benetton"
+    "brand": "United Colors of Benetton",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Video Game Store",
     "retailer": "video_game_store",
     "shop": "video_games",
     "latitude": 48.1075928,
-    "longitude": 16.3186434
+    "longitude": 16.3186434,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Villeroy & Boch",
@@ -901,7 +1171,9 @@
     "shop": "houseware",
     "latitude": 48.1084687,
     "longitude": 16.3180539,
-    "brand": "Villeroy & Boch"
+    "brand": "Villeroy & Boch",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Vorwerk",
@@ -909,7 +1181,9 @@
     "shop": "vacuum_cleaner",
     "latitude": 48.1071818,
     "longitude": 16.3181746,
-    "brand": "Vorwerk"
+    "brand": "Vorwerk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "WMF",
@@ -917,7 +1191,9 @@
     "shop": "houseware",
     "latitude": 48.1077713,
     "longitude": 16.317763,
-    "brand": "WMF"
+    "brand": "WMF",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "XXXLutz",
@@ -925,7 +1201,11 @@
     "shop": "furniture",
     "latitude": 48.1049865,
     "longitude": 16.3137951,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "2345",
+    "city": "Brunn am Gebirge",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Yoyoso",
@@ -933,6 +1213,8 @@
     "shop": "variety_store",
     "latitude": 48.107702,
     "longitude": 16.3184724,
-    "brand": "Butlers"
+    "brand": "Butlers",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -12,21 +12,29 @@
     "shop": "supermarket",
     "latitude": 48.768766,
     "longitude": 14.9797429,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumencenter Roland",
     "retailer": "blumencenter_roland",
     "shop": "florist",
     "latitude": 48.7622778,
-    "longitude": 14.9761349
+    "longitude": 14.9761349,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "City Outlet",
     "retailer": "city_outlet",
     "shop": "clothes",
     "latitude": 48.7653099,
-    "longitude": 14.9794079
+    "longitude": 14.9794079,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichmann",
@@ -34,14 +42,18 @@
     "shop": "shoes",
     "latitude": 48.7653245,
     "longitude": 14.9791095,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dexinger",
     "retailer": "dexinger",
     "shop": "car_parts",
     "latitude": 48.7618685,
-    "longitude": 14.9700254
+    "longitude": 14.9700254,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -49,7 +61,9 @@
     "shop": "chemist",
     "latitude": 48.7653448,
     "longitude": 14.9786953,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ernsting's family",
@@ -57,7 +71,9 @@
     "shop": "clothes",
     "latitude": 48.7655013,
     "longitude": 14.9762445,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fressnapf",
@@ -65,7 +81,9 @@
     "shop": "pet",
     "latitude": 48.7654923,
     "longitude": 14.9764248,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fussl",
@@ -73,21 +91,29 @@
     "shop": "clothes",
     "latitude": 48.7653538,
     "longitude": 14.9785108,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.7606962,
-    "longitude": 14.9724531
+    "longitude": 14.9724531,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Helnwein",
     "retailer": "helnwein",
     "shop": "medical_supply",
     "latitude": 48.7614793,
-    "longitude": 14.9739073
+    "longitude": 14.9739073,
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -95,7 +121,9 @@
     "shop": "clothes",
     "latitude": 48.7653824,
     "longitude": 14.9779265,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -103,14 +131,22 @@
     "shop": "doityourself",
     "latitude": 48.7637022,
     "longitude": 14.9782987,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "lebmit & bunttex",
     "retailer": "lebmit_und_bunttex",
     "shop": "convenience",
     "latitude": 48.7612647,
-    "longitude": 14.9726363
+    "longitude": 14.9726363,
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -118,7 +154,11 @@
     "shop": "books",
     "latitude": 48.7655078,
     "longitude": 14.9761133,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -126,7 +166,9 @@
     "shop": "supermarket",
     "latitude": 48.7653936,
     "longitude": 14.9776971,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Matratzen Concord",
@@ -134,7 +176,9 @@
     "shop": "bed",
     "latitude": 48.7653628,
     "longitude": 14.9783263,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "New Yorker",
@@ -142,14 +186,18 @@
     "shop": "clothes",
     "latitude": 48.7654599,
     "longitude": 14.9770725,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Näherei",
     "retailer": "naherei",
     "shop": "tailor",
     "latitude": 48.7612378,
-    "longitude": 14.9726888
+    "longitude": 14.9726888,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pearle",
@@ -157,21 +205,29 @@
     "shop": "optician",
     "latitude": 48.7654695,
     "longitude": 14.9768812,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pilz",
     "retailer": "pilz",
     "shop": "bakery",
     "latitude": 48.7610181,
-    "longitude": 14.9722121
+    "longitude": 14.9722121,
+    "postcode": "3950",
+    "city": "Gmünd",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Second Hand Shop",
     "retailer": "second_hand_shop",
     "shop": "clothes",
     "latitude": 48.761035,
-    "longitude": 14.9729542
+    "longitude": 14.9729542,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -179,13 +235,17 @@
     "shop": "clothes",
     "latitude": 48.7654819,
     "longitude": 14.9766322,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.7613644,
-    "longitude": 14.9741541
+    "longitude": 14.9741541,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

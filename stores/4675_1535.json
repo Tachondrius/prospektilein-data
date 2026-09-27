@@ -5,27 +5,43 @@
     "shop": "supermarket",
     "latitude": 46.7517933,
     "longitude": 15.3573309,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8443",
+    "city": "Gleinstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Camper Haring Erich",
     "retailer": "camper_haring_erich",
     "shop": "caravan",
     "latitude": 46.7554538,
-    "longitude": 15.3587562
+    "longitude": 15.3587562,
+    "postcode": "8443",
+    "city": "Gleinstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Feuerwerkshandel Roth",
     "retailer": "feuerwerkshandel_roth",
     "shop": "pyrotechnics",
     "latitude": 46.7565194,
-    "longitude": 15.3573538
+    "longitude": 15.3573538,
+    "postcode": "8443",
+    "city": "Gleinstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Getränkemarkt Purkart",
     "retailer": "getrankemarkt_purkart",
     "shop": "beverages",
     "latitude": 46.7516796,
-    "longitude": 15.3560599
+    "longitude": 15.3560599,
+    "postcode": "8443",
+    "city": "Gleinstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

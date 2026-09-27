@@ -5,14 +5,21 @@
     "shop": "convenience",
     "latitude": 47.0813601,
     "longitude": 15.7392984,
-    "brand": "BP"
+    "brand": "BP",
+    "postcode": "8200",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "DAN Küchen",
     "retailer": "dan_kuchen",
     "shop": "kitchen",
     "latitude": 47.0874618,
-    "longitude": 15.7337376
+    "longitude": 15.7337376,
+    "postcode": "8200",
+    "city": "Hofstätten an der Raab",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "JYSK",
@@ -20,7 +27,11 @@
     "shop": "furniture",
     "latitude": 47.0878037,
     "longitude": 15.7333449,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "8200",
+    "city": "Hofstätten an der Raab",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -28,13 +39,21 @@
     "shop": "doityourself",
     "latitude": 47.0886562,
     "longitude": 15.7327545,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8200",
+    "city": "Hofstätten an der Raab",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ROTH Handel & Bauhandwerkservice",
     "retailer": "roth_handel_und_bauhandwerkservice",
     "shop": "bathroom_furnishing",
     "latitude": 47.0872408,
-    "longitude": 15.7341775
+    "longitude": 15.7341775,
+    "postcode": "8200",
+    "city": "Hofstätten an der Raab",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

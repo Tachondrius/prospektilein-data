@@ -4,7 +4,9 @@
     "retailer": "3_shop",
     "shop": "mobile_phone",
     "latitude": 46.7979349,
-    "longitude": 13.4909834
+    "longitude": 13.4909834,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "A1",
@@ -12,14 +14,18 @@
     "shop": "mobile_phone",
     "latitude": 46.7976389,
     "longitude": 13.4906234,
-    "brand": "A1"
+    "brand": "A1",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ackerbox (Selbstbedienung)",
     "retailer": "ackerbox_selbstbedienung",
     "shop": "department_store",
     "latitude": 46.7932886,
-    "longitude": 13.4967891
+    "longitude": 13.4967891,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Action",
@@ -27,14 +33,18 @@
     "shop": "variety_store",
     "latitude": 46.7984381,
     "longitude": 13.4905409,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Admiral",
     "retailer": "admiral",
     "shop": "bookmaker",
     "latitude": 46.7986087,
-    "longitude": 13.4963062
+    "longitude": 13.4963062,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bijou Brigitte",
@@ -42,7 +52,9 @@
     "shop": "jewelry",
     "latitude": 46.798332,
     "longitude": 13.4902334,
-    "brand": "Bijou Brigitte"
+    "brand": "Bijou Brigitte",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -50,49 +62,67 @@
     "shop": "chemist",
     "latitude": 46.7980872,
     "longitude": 13.4908684,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Brenter",
     "retailer": "brenter",
     "shop": "toys",
     "latitude": 46.7987194,
-    "longitude": 13.4924375
+    "longitude": 13.4924375,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Brigola",
     "retailer": "brigola",
     "shop": "jewelry",
     "latitude": 46.7974514,
-    "longitude": 13.4986887
+    "longitude": 13.4986887,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Brunner Naturprodukte",
     "retailer": "brunner_naturprodukte",
     "shop": "department_store",
     "latitude": 46.7972664,
-    "longitude": 13.4927433
+    "longitude": 13.4927433,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Kniesek",
     "retailer": "backerei_kniesek",
     "shop": "bakery",
     "latitude": 46.7970702,
-    "longitude": 13.4956822
+    "longitude": 13.4956822,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Kniesek",
     "retailer": "backerei_kniesek",
     "shop": "bakery",
     "latitude": 46.7981418,
-    "longitude": 13.4916933
+    "longitude": 13.4916933,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Chisu",
     "retailer": "chisu",
     "shop": "clothes",
     "latitude": 46.7978511,
-    "longitude": 13.4907159
+    "longitude": 13.4907159,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Desigual",
@@ -100,7 +130,9 @@
     "shop": "clothes",
     "latitude": 46.7976988,
     "longitude": 13.4906734,
-    "brand": "Desigual"
+    "brand": "Desigual",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eurospar",
@@ -108,35 +140,47 @@
     "shop": "supermarket",
     "latitude": 46.7980701,
     "longitude": 13.4902634,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fleischerei Koch",
     "retailer": "fleischerei_koch",
     "shop": "butcher",
     "latitude": 46.7990615,
-    "longitude": 13.4960949
+    "longitude": 13.4960949,
+    "postcode": "9800",
+    "city": "Spittal/Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Friseur Koschitz",
     "retailer": "friseur_koschitz",
     "shop": "hairdresser",
     "latitude": 46.7987166,
-    "longitude": 13.4957335
+    "longitude": 13.4957335,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Glanznig",
     "retailer": "glanznig",
     "shop": "photo",
     "latitude": 46.7996528,
-    "longitude": 13.4935561
+    "longitude": 13.4935561,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gloriette",
     "retailer": "gloriette",
     "shop": "clothes",
     "latitude": 46.7984571,
-    "longitude": 13.4957215
+    "longitude": 13.4957215,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "H&M",
@@ -144,7 +188,9 @@
     "shop": "clothes",
     "latitude": 46.7982669,
     "longitude": 13.4908909,
-    "brand": "H&M"
+    "brand": "H&M",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hartlauer",
@@ -152,21 +198,29 @@
     "shop": "electronics",
     "latitude": 46.7975958,
     "longitude": 13.4917471,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hattenberger",
     "retailer": "hattenberger",
     "shop": "bakery",
     "latitude": 46.7976393,
-    "longitude": 13.4968127
+    "longitude": 13.4968127,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Haus der Jäger",
     "retailer": "haus_der_jager",
     "shop": "hunting",
     "latitude": 46.7984826,
-    "longitude": 13.4921539
+    "longitude": 13.4921539,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KiK",
@@ -174,7 +228,9 @@
     "shop": "clothes",
     "latitude": 46.7975773,
     "longitude": 13.4908284,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Klipp",
@@ -182,14 +238,18 @@
     "shop": "hairdresser",
     "latitude": 46.7981403,
     "longitude": 13.4909634,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kreiner",
     "retailer": "kreiner",
     "shop": "kiosk",
     "latitude": 46.797899,
-    "longitude": 13.4908709
+    "longitude": 13.4908709,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagler",
@@ -197,7 +257,9 @@
     "shop": "bakery",
     "latitude": 46.798279,
     "longitude": 13.4903407,
-    "brand": "Lagler"
+    "brand": "Lagler",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Libro",
@@ -205,7 +267,9 @@
     "shop": "books",
     "latitude": 46.7976526,
     "longitude": 13.4908734,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -213,21 +277,33 @@
     "shop": "supermarket",
     "latitude": 46.7942113,
     "longitude": 13.4961621,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "LOTUS Friseursalon & Barbershop",
     "retailer": "lotus_friseursalon_und_barbershop",
     "shop": "hairdresser",
     "latitude": 46.7969387,
-    "longitude": 13.490382
+    "longitude": 13.490382,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Maison Mila Café & Mehr",
     "retailer": "maison_mila_cafe_und_mehr",
     "shop": "bakery",
     "latitude": 46.7996062,
-    "longitude": 13.4932891
+    "longitude": 13.4932891,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "mister*lady",
@@ -235,35 +311,50 @@
     "shop": "clothes",
     "latitude": 46.7975944,
     "longitude": 13.4910534,
-    "brand": "mister*lady"
+    "brand": "mister*lady",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "more",
     "retailer": "more",
     "shop": "houseware",
     "latitude": 46.7966045,
-    "longitude": 13.4905854
+    "longitude": 13.4905854,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "more / Cube Store",
     "retailer": "more_cube_store",
     "shop": "bicycle",
     "latitude": 46.7971768,
-    "longitude": 13.4906161
+    "longitude": 13.4906161,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Naturkostladen Chili",
     "retailer": "naturkostladen_chili",
     "shop": "convenience",
     "latitude": 46.7987264,
-    "longitude": 13.4951519
+    "longitude": 13.4951519,
+    "postcode": "9800",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Nest",
     "retailer": "nest",
     "shop": "books",
     "latitude": 46.7979078,
-    "longitude": 13.4966254
+    "longitude": 13.4966254,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "New Yorker",
@@ -271,21 +362,27 @@
     "shop": "clothes",
     "latitude": 46.7982464,
     "longitude": 13.4901159,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Nitsch",
     "retailer": "nitsch",
     "shop": "optician",
     "latitude": 46.7984619,
-    "longitude": 13.4961926
+    "longitude": 13.4961926,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Nitsch",
     "retailer": "nitsch",
     "shop": "optician",
     "latitude": 46.7988068,
-    "longitude": 13.4925475
+    "longitude": 13.4925475,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "orsay",
@@ -293,7 +390,9 @@
     "shop": "clothes",
     "latitude": 46.7977535,
     "longitude": 13.4909984,
-    "brand": "orsay"
+    "brand": "orsay",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Palmers",
@@ -301,14 +400,18 @@
     "shop": "clothes",
     "latitude": 46.7978407,
     "longitude": 13.4968548,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pasano by Schützelhoffer",
     "retailer": "pasano_by_schutzelhoffer",
     "shop": "jewelry",
     "latitude": 46.7978956,
-    "longitude": 13.4910559
+    "longitude": 13.4910559,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pearle",
@@ -316,42 +419,58 @@
     "shop": "optician",
     "latitude": 46.7978562,
     "longitude": 13.4910984,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Porcia Center",
     "retailer": "porcia_center",
     "shop": "mall",
     "latitude": 46.7990399,
-    "longitude": 13.495652
+    "longitude": 13.495652,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Rathgeber",
     "retailer": "rathgeber",
     "shop": "florist",
     "latitude": 46.7978425,
-    "longitude": 13.4908234
+    "longitude": 13.4908234,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Regions-Körberl",
     "retailer": "regions_korberl",
     "shop": "department_store",
     "latitude": 46.7973721,
-    "longitude": 13.4993188
+    "longitude": 13.4993188,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Rieder",
     "retailer": "rieder",
     "shop": "shoes",
     "latitude": 46.7977248,
-    "longitude": 13.4964156
+    "longitude": 13.4964156,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Roma",
     "retailer": "roma",
     "shop": "beauty",
     "latitude": 46.7980273,
-    "longitude": 13.4908559
+    "longitude": 13.4908559,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "s.Oliver",
@@ -359,35 +478,51 @@
     "shop": "clothes",
     "latitude": 46.7977758,
     "longitude": 13.4911884,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schiffer",
     "retailer": "schiffer",
     "shop": "optician",
     "latitude": 46.7990796,
-    "longitude": 13.4943921
+    "longitude": 13.4943921,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schluga",
     "retailer": "schluga",
     "shop": "bag",
     "latitude": 46.7977125,
-    "longitude": 13.4912084
+    "longitude": 13.4912084,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Stadtbuchhandlung",
     "retailer": "stadtbuchhandlung",
     "shop": "books",
     "latitude": 46.7988929,
-    "longitude": 13.4948969
+    "longitude": 13.4948969,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Stadtparkcenter",
     "retailer": "stadtparkcenter",
     "shop": "mall",
     "latitude": 46.7980326,
-    "longitude": 13.490782
+    "longitude": 13.490782,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tchibo",
@@ -395,14 +530,18 @@
     "shop": "coffee",
     "latitude": 46.7977587,
     "longitude": 13.4907409,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trafik Berger",
     "retailer": "trafik_berger",
     "shop": "tobacco",
     "latitude": 46.7976966,
-    "longitude": 13.4966429
+    "longitude": 13.4966429,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trek",
@@ -410,7 +549,9 @@
     "shop": "bicycle",
     "latitude": 46.798795,
     "longitude": 13.4975213,
-    "brand": "Trek"
+    "brand": "Trek",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "TUI",
@@ -418,14 +559,18 @@
     "shop": "travel_agency",
     "latitude": 46.7979726,
     "longitude": 13.4909159,
-    "brand": "TUI"
+    "brand": "TUI",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Vif-Zack",
     "retailer": "vif_zack",
     "shop": "hobby",
     "latitude": 46.7972904,
-    "longitude": 13.4962666
+    "longitude": 13.4962666,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Vögele Shoes",
@@ -433,20 +578,27 @@
     "shop": "shoes",
     "latitude": 46.7981899,
     "longitude": 13.4910034,
-    "brand": "Vögele Shoes"
+    "brand": "Vögele Shoes",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Weltladen",
     "retailer": "weltladen",
     "shop": "department_store",
     "latitude": 46.797343,
-    "longitude": 13.4914366
+    "longitude": 13.4914366,
+    "postcode": "9800",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wendt",
     "retailer": "wendt",
     "shop": "bakery",
     "latitude": 46.7975549,
-    "longitude": 13.497123
+    "longitude": 13.497123,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "bellaflora_gartencenter",
     "shop": "garden_centre",
     "latitude": 48.2399493,
-    "longitude": 14.5292407
+    "longitude": 14.5292407,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -12,14 +14,18 @@
     "shop": "supermarket",
     "latitude": 48.2399066,
     "longitude": 14.5265131,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ernsting's family",
     "retailer": "ernsting_s_family",
     "shop": "clothes",
     "latitude": 48.2399865,
-    "longitude": 14.5275179
+    "longitude": 14.5275179,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fussl",
@@ -27,42 +33,54 @@
     "shop": "clothes",
     "latitude": 48.2399217,
     "longitude": 14.5267126,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Goldbox",
     "retailer": "goldbox",
     "shop": "jewelry",
     "latitude": 48.2399209,
-    "longitude": 14.5279588
+    "longitude": 14.5279588,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Manner Shop",
     "retailer": "manner_shop",
     "shop": "confectionery",
     "latitude": 48.2398343,
-    "longitude": 14.5258702
+    "longitude": 14.5258702,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "my shoes",
     "retailer": "my_shoes",
     "shop": "shoes",
     "latitude": 48.2399655,
-    "longitude": 14.5272785
+    "longitude": 14.5272785,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
     "retailer": "nkd",
     "shop": "clothes",
     "latitude": 48.2399583,
-    "longitude": 14.5282864
+    "longitude": 14.5282864,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "shoe4you",
     "retailer": "shoe4you",
     "shop": "shoes",
     "latitude": 48.2399405,
-    "longitude": 14.5269312
+    "longitude": 14.5269312,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Turmöl",
@@ -70,20 +88,26 @@
     "shop": "convenience",
     "latitude": 48.2395891,
     "longitude": 14.5282875,
-    "brand": "Turmöl"
+    "brand": "Turmöl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Veritas",
     "retailer": "veritas",
     "shop": "books",
     "latitude": 48.2398405,
-    "longitude": 14.5261054
+    "longitude": 14.5261054,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Winkler",
     "retailer": "winkler",
     "shop": "bakery",
     "latitude": 48.2396395,
-    "longitude": 14.5258979
+    "longitude": 14.5258979,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

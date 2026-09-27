@@ -4,28 +4,44 @@
     "retailer": "bader_center_bad_und_energie",
     "shop": "bathroom_furnishing",
     "latitude": 47.3490969,
-    "longitude": 9.6381589
+    "longitude": 9.6381589,
+    "postcode": "6844",
+    "city": "Altach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Conceptlicht",
     "retailer": "conceptlicht",
     "shop": "lighting",
     "latitude": 47.3433721,
-    "longitude": 9.6372014
+    "longitude": 9.6372014,
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "DELANA Naturbetten",
     "retailer": "delana_naturbetten",
     "shop": "bed",
     "latitude": 47.3488406,
-    "longitude": 9.6384752
+    "longitude": 9.6384752,
+    "postcode": "6844",
+    "city": "Altach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "HILTI",
     "retailer": "hilti",
     "shop": "tools",
     "latitude": 47.3401799,
-    "longitude": 9.6355113
+    "longitude": 9.6355113,
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mercedes Schneider",
@@ -33,7 +49,11 @@
     "shop": "car",
     "latitude": 47.3468348,
     "longitude": 9.6370146,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Scania",
@@ -41,7 +61,11 @@
     "shop": "truck_repair",
     "latitude": 47.3435252,
     "longitude": 9.6357912,
-    "brand": "Scania"
+    "brand": "Scania",
+    "postcode": "6840",
+    "city": "Götzis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -49,7 +73,11 @@
     "shop": "supermarket",
     "latitude": 47.3484466,
     "longitude": 9.6390254,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6844",
+    "city": "Altach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Toyota",
@@ -57,6 +85,10 @@
     "shop": "car_repair",
     "latitude": 47.3479048,
     "longitude": 9.637968,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "6844",
+    "city": "Altach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

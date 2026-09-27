@@ -4,7 +4,9 @@
     "retailer": "bachmann",
     "shop": "hairdresser",
     "latitude": 47.9723485,
-    "longitude": 13.604805
+    "longitude": 13.604805,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -12,35 +14,51 @@
     "shop": "chemist",
     "latitude": 47.9711669,
     "longitude": 13.6073747,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumenhaus & Gartengestaltung Buttinger",
     "retailer": "blumenhaus_und_gartengestaltung_buttinger",
     "shop": "florist",
     "latitude": 47.9741303,
-    "longitude": 13.6096572
+    "longitude": 13.6096572,
+    "postcode": "4860",
+    "city": "Lenzing",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Trückl",
     "retailer": "backerei_truckl",
     "shop": "bakery",
     "latitude": 47.9723871,
-    "longitude": 13.6046987
+    "longitude": 13.6046987,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Elektro Kroissl",
     "retailer": "elektro_kroissl",
     "shop": "electronics",
     "latitude": 47.9734984,
-    "longitude": 13.6047301
+    "longitude": 13.6047301,
+    "postcode": "4860",
+    "city": "Lenzing",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.9744566,
-    "longitude": 13.6088583
+    "longitude": 13.6088583,
+    "postcode": "4860",
+    "city": "Lenzing",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klipp",
@@ -48,7 +66,9 @@
     "shop": "hairdresser",
     "latitude": 47.9711093,
     "longitude": 13.6072339,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -56,7 +76,11 @@
     "shop": "supermarket",
     "latitude": 47.9712894,
     "longitude": 13.6076664,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "4860",
+    "city": "Lenzing",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "MPREIS",
@@ -64,7 +88,11 @@
     "shop": "supermarket",
     "latitude": 47.9719549,
     "longitude": 13.6016201,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "4860",
+    "city": "Lenzing",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Opel",
@@ -72,20 +100,31 @@
     "shop": "car_repair",
     "latitude": 47.9718802,
     "longitude": 13.6091597,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "4860",
+    "city": "Lenzing",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Retail",
     "retailer": "shop_retail",
     "shop": "retail",
     "latitude": 47.9725246,
-    "longitude": 13.6098439
+    "longitude": 13.6098439,
+    "postcode": "4860",
+    "city": "Lenzing",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trixi Hochrainer Kosmetik & Fußpflege",
     "retailer": "trixi_hochrainer_kosmetik_und_fupflege",
     "shop": "cosmetics",
     "latitude": 47.9723433,
-    "longitude": 13.6047201
+    "longitude": 13.6047201,
+    "postcode": "4860",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "variety_store",
     "latitude": 48.2066231,
     "longitude": 16.308805,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 48.2006303,
     "longitude": 16.3028325,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -21,7 +29,9 @@
     "shop": "supermarket",
     "latitude": 48.2013457,
     "longitude": 16.3082268,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -29,7 +39,11 @@
     "shop": "supermarket",
     "latitude": 48.2041353,
     "longitude": 16.3083122,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -37,7 +51,11 @@
     "shop": "supermarket",
     "latitude": 48.2085026,
     "longitude": 16.3051803,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -45,28 +63,42 @@
     "shop": "chemist",
     "latitude": 48.2022348,
     "longitude": 16.3082761,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen Breitensee",
     "retailer": "blumen_breitensee",
     "shop": "florist",
     "latitude": 48.2012812,
-    "longitude": 16.3090615
+    "longitude": 16.3090615,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Der Salon",
     "retailer": "der_salon",
     "shop": "hairdresser",
     "latitude": 48.2038851,
-    "longitude": 16.3077915
+    "longitude": 16.3077915,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Friseur",
     "retailer": "friseur",
     "shop": "hairdresser",
     "latitude": 48.201325,
-    "longitude": 16.309042
+    "longitude": 16.309042,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -74,28 +106,42 @@
     "shop": "supermarket",
     "latitude": 48.20308,
     "longitude": 16.3026558,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kooperative Werkstatt",
     "retailer": "kooperative_werkstatt",
     "shop": "hairdresser",
     "latitude": 48.2005642,
-    "longitude": 16.3087514
+    "longitude": 16.3087514,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "netzwerkshop.at",
     "retailer": "netzwerkshop_at",
     "shop": "computer",
     "latitude": 48.2050125,
-    "longitude": 16.3089635
+    "longitude": 16.3089635,
+    "postcode": "1160",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Pet",
     "retailer": "shop_pet",
     "shop": "pet",
     "latitude": 48.2021401,
-    "longitude": 16.304772
+    "longitude": 16.304772,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -103,13 +149,20 @@
     "shop": "supermarket",
     "latitude": 48.2024155,
     "longitude": 16.304214,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1140",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Änderungsschneiderei Aydogan Seza",
     "retailer": "anderungsschneiderei_aydogan_seza",
     "shop": "tailor",
     "latitude": 48.2014071,
-    "longitude": 16.3088262
+    "longitude": 16.3088262,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

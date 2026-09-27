@@ -4,14 +4,18 @@
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 46.618698,
-    "longitude": 14.2563645
+    "longitude": 14.2563645,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fahrradverleih Probst Metnitzstrand",
     "retailer": "fahrradverleih_probst_metnitzstrand",
     "shop": "rental",
     "latitude": 46.6192172,
-    "longitude": 14.2562593
+    "longitude": 14.2562593,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagler",
@@ -19,7 +23,9 @@
     "shop": "bakery",
     "latitude": 46.617427,
     "longitude": 14.2545898,
-    "brand": "Lagler"
+    "brand": "Lagler",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagler",
@@ -27,6 +33,8 @@
     "shop": "bakery",
     "latitude": 46.6191749,
     "longitude": 14.2555518,
-    "brand": "Lagler"
+    "brand": "Lagler",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

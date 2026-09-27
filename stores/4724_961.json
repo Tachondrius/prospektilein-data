@@ -5,14 +5,20 @@
     "shop": "convenience",
     "latitude": 47.2474348,
     "longitude": 9.6105567,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Colourbox Tattoos Piercing",
     "retailer": "colourbox_tattoos_piercing",
     "shop": "tattoo",
     "latitude": 47.2483291,
-    "longitude": 9.6117054
+    "longitude": 9.6117054,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Deichmann",
@@ -20,7 +26,9 @@
     "shop": "shoes",
     "latitude": 47.2488128,
     "longitude": 9.610681,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "dm",
@@ -28,21 +36,29 @@
     "shop": "chemist",
     "latitude": 47.2486794,
     "longitude": 9.6100318,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Express Cut&Style",
     "retailer": "express_cut_und_style",
     "shop": "hairdresser",
     "latitude": 47.2489187,
-    "longitude": 9.6113901
+    "longitude": 9.6113901,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fahr.Werk",
     "retailer": "fahr_werk",
     "shop": "motorcycle",
     "latitude": 47.2484389,
-    "longitude": 9.6116978
+    "longitude": 9.6116978,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Fussl",
@@ -50,7 +66,9 @@
     "shop": "clothes",
     "latitude": 47.2483986,
     "longitude": 9.6104912,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Jet",
@@ -58,41 +76,61 @@
     "shop": "convenience",
     "latitude": 47.2473547,
     "longitude": 9.610402,
-    "brand": "Jet"
+    "brand": "Jet",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kings & Queens",
     "retailer": "kings_und_queens",
     "shop": "hairdresser",
     "latitude": 47.2486832,
-    "longitude": 9.6109653
+    "longitude": 9.6109653,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mangold",
     "retailer": "mangold",
     "shop": "bakery",
     "latitude": 47.2485848,
-    "longitude": 9.6102087
+    "longitude": 9.6102087,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sedaqat Supermarket",
     "retailer": "sedaqat_supermarket",
     "shop": "convenience",
     "latitude": 47.248994,
-    "longitude": 9.611454
+    "longitude": 9.611454,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Strom.Werk",
     "retailer": "strom_werk",
     "shop": "bicycle",
     "latitude": 47.2486061,
-    "longitude": 9.6114308
+    "longitude": 9.6114308,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 47.2489012,
-    "longitude": 9.6104578
+    "longitude": 9.6104578,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

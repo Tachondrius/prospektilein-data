@@ -5,20 +5,32 @@
     "shop": "supermarket",
     "latitude": 47.6512345,
     "longitude": 12.3205326,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6344",
+    "city": "Walchsee",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Frisör Rauth",
     "retailer": "frisor_rauth",
     "shop": "hairdresser",
     "latitude": 47.6506774,
-    "longitude": 12.3216944
+    "longitude": 12.3216944,
+    "postcode": "6344",
+    "city": "Walchsee",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tirolerladen",
     "retailer": "tirolerladen",
     "shop": "convenience",
     "latitude": 47.6506722,
-    "longitude": 12.322177
+    "longitude": 12.322177,
+    "postcode": "6344",
+    "city": "Walchsee",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

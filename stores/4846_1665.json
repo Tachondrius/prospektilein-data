@@ -4,7 +4,11 @@
     "retailer": "lackner_gerald_und_heidemarie",
     "shop": "farm",
     "latitude": 48.4655966,
-    "longitude": 16.6501401
+    "longitude": 16.6501401,
+    "postcode": "2223",
+    "city": "Hohenruppersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah&Frisch  Familie Ludl",
@@ -12,13 +16,19 @@
     "shop": "supermarket",
     "latitude": 48.4633402,
     "longitude": 16.6512294,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik FRIEDL Sabine",
     "retailer": "trafik_friedl_sabine",
     "shop": "kiosk",
     "latitude": 48.4638112,
-    "longitude": 16.6526606
+    "longitude": 16.6526606,
+    "postcode": "2223",
+    "city": "Hohenruppersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

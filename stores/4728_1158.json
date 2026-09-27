@@ -4,7 +4,11 @@
     "retailer": "bikepalast_tirol",
     "shop": "bicycle",
     "latitude": 47.2895144,
-    "longitude": 11.5811382
+    "longitude": 11.5811382,
+    "postcode": "6111",
+    "city": "Volders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -12,27 +16,43 @@
     "shop": "supermarket",
     "latitude": 47.2892149,
     "longitude": 11.5828826,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Global Cars",
     "retailer": "global_cars",
     "shop": "car",
     "latitude": 47.2894522,
-    "longitude": 11.5817481
+    "longitude": 11.5817481,
+    "postcode": "6111",
+    "city": "Volders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Mayr",
     "retailer": "kfz_mayr",
     "shop": "car",
     "latitude": 47.2882559,
-    "longitude": 11.5848312
+    "longitude": 11.5848312,
+    "postcode": "6112",
+    "city": "Wattens",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Möbel Moriel",
     "retailer": "mobel_moriel",
     "shop": "furniture",
     "latitude": 47.2884043,
-    "longitude": 11.5838608
+    "longitude": 11.5838608,
+    "postcode": "6111",
+    "city": "Volders",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

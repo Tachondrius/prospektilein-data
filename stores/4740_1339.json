@@ -4,28 +4,40 @@
     "retailer": "backerei_cafe_eder",
     "shop": "bakery",
     "latitude": 47.409117,
-    "longitude": 13.394135
+    "longitude": 13.394135,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Creativ Wohnen",
     "retailer": "creativ_wohnen",
     "shop": "interior_decoration",
     "latitude": 47.4087081,
-    "longitude": 13.3940399
+    "longitude": 13.3940399,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fliesenhandel",
     "retailer": "fliesenhandel",
     "shop": "tiles",
     "latitude": 47.408795,
-    "longitude": 13.39469
+    "longitude": 13.39469,
+    "postcode": "5531",
+    "city": "Eben im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "olina Küchen Eben im Pongau Anton Mühlthaler",
     "retailer": "olina_kuchen_eben_im_pongau_anton_muhlthaler",
     "shop": "kitchen",
     "latitude": 47.408775,
-    "longitude": 13.394093
+    "longitude": 13.394093,
+    "postcode": "5531",
+    "city": "Eben im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -33,7 +45,9 @@
     "shop": "supermarket",
     "latitude": 47.4086101,
     "longitude": 13.3947719,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Würth Hochenburger Baumarkt",
@@ -41,7 +55,11 @@
     "shop": "doityourself",
     "latitude": 47.4088193,
     "longitude": 13.3945346,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "5531",
+    "city": "Eben im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -49,6 +67,10 @@
     "shop": "trade",
     "latitude": 47.4087633,
     "longitude": 13.3946631,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "5531",
+    "city": "Eben im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

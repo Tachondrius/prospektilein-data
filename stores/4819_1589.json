@@ -5,21 +5,29 @@
     "shop": "supermarket",
     "latitude": 48.1918911,
     "longitude": 15.8939834,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3040",
+    "city": "Neulengbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eigner Druck",
     "retailer": "eigner_druck",
     "shop": "copyshop",
     "latitude": 48.1965415,
-    "longitude": 15.8989723
+    "longitude": 15.8989723,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.1968643,
-    "longitude": 15.8996478
+    "longitude": 15.8996478,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Peugeot Figl",
@@ -27,6 +35,10 @@
     "shop": "car",
     "latitude": 48.1953599,
     "longitude": 15.8968116,
-    "brand": "Hyundai;Peugeot;Nissan;Citroën"
+    "brand": "Hyundai;Peugeot;Nissan;Citroën",
+    "postcode": "3040",
+    "city": "Neulengbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

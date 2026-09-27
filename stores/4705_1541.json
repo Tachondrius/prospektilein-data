@@ -5,21 +5,33 @@
     "shop": "car",
     "latitude": 47.0543429,
     "longitude": 15.4160961,
-    "brand": "Honda"
+    "brand": "Honda",
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "automobilcenter",
     "retailer": "automobilcenter",
     "shop": "car",
     "latitude": 47.0589649,
-    "longitude": 15.4147963
+    "longitude": 15.4147963,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autospenglerei Sirk",
     "retailer": "autospenglerei_sirk",
     "shop": "car_repair",
     "latitude": 47.0592405,
-    "longitude": 15.4178142
+    "longitude": 15.4178142,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -27,7 +39,11 @@
     "shop": "supermarket",
     "latitude": 47.0547934,
     "longitude": 15.4113415,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Börni Moped- und Rollerhandel GmbH",
@@ -35,7 +51,11 @@
     "shop": "motorcycle_repair",
     "latitude": 47.0531969,
     "longitude": 15.4150739,
-    "brand": "Vespa"
+    "brand": "Vespa",
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Citroën E. Fior",
@@ -43,14 +63,22 @@
     "shop": "car",
     "latitude": 47.0554173,
     "longitude": 15.4173132,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Convenience",
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 47.0546042,
-    "longitude": 15.4163393
+    "longitude": 15.4163393,
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Denzel",
@@ -58,14 +86,20 @@
     "shop": "car",
     "latitude": 47.0582399,
     "longitude": 15.4120299,
-    "brand": "BMW, Fiat, Ferrari, Hyundai, Mini, BYD"
+    "brand": "BMW, Fiat, Ferrari, Hyundai, Mini, BYD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Dorrong Offsetdruckerei",
     "retailer": "dorrong_offsetdruckerei",
     "shop": "wholesale",
     "latitude": 47.0540157,
-    "longitude": 15.4160187
+    "longitude": 15.4160187,
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Euro Motors Graz",
@@ -73,28 +107,44 @@
     "shop": "motorcycle",
     "latitude": 47.0511179,
     "longitude": 15.4123311,
-    "brand": "Kawasaki;BMW;KTM"
+    "brand": "Kawasaki;BMW;KTM",
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Euromaster",
     "retailer": "euromaster",
     "shop": "car_parts",
     "latitude": 47.0526134,
-    "longitude": 15.4133722
+    "longitude": 15.4133722,
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Josef Magdalenz",
     "retailer": "josef_magdalenz",
     "shop": "car_parts",
     "latitude": 47.0530734,
-    "longitude": 15.4140599
+    "longitude": 15.4140599,
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Photo Studio 27",
     "retailer": "photo_studio_27",
     "shop": "photo_studio",
     "latitude": 47.0527871,
-    "longitude": 15.414758
+    "longitude": 15.414758,
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vespa",
@@ -102,6 +152,10 @@
     "shop": "motorcycle",
     "latitude": 47.0591267,
     "longitude": 15.4173195,
-    "brand": "Vespa"
+    "brand": "Vespa",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

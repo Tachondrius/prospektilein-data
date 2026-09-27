@@ -4,14 +4,20 @@
     "retailer": "backerei_maier",
     "shop": "bakery",
     "latitude": 47.6813145,
-    "longitude": 12.1804653
+    "longitude": 12.1804653,
+    "postcode": "6343",
+    "city": "Erl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Werkstatt Kronthaler",
     "retailer": "kfz_werkstatt_kronthaler",
     "shop": "car_repair",
     "latitude": 47.6810152,
-    "longitude": 12.1826694
+    "longitude": 12.1826694,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -19,20 +25,28 @@
     "shop": "convenience",
     "latitude": 47.6804984,
     "longitude": 12.1813619,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "postcode": "6343",
+    "city": "Erl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tiroler Pasta Manufaktur",
     "retailer": "tiroler_pasta_manufaktur",
     "shop": "deli",
     "latitude": 47.6819425,
-    "longitude": 12.1807833
+    "longitude": 12.1807833,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Viehhandel Rainer",
     "retailer": "viehhandel_rainer",
     "shop": "pet",
     "latitude": 47.6828525,
-    "longitude": 12.1803937
+    "longitude": 12.1803937,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "fliesen_tschiderer",
     "shop": "tiles",
     "latitude": 47.1358669,
-    "longitude": 10.5217556
+    "longitude": 10.5217556,
+    "postcode": "6551",
+    "city": "Pians",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Maschler",
@@ -12,6 +16,10 @@
     "shop": "car",
     "latitude": 47.1362771,
     "longitude": 10.5231717,
-    "brand": "Fiat;Mitsubishi;Seat"
+    "brand": "Fiat;Mitsubishi;Seat",
+    "postcode": "6500",
+    "city": "Grins",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

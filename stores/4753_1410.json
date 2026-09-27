@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 47.5320412,
     "longitude": 14.105561,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8950",
+    "city": "Stainach-Pürgg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Atelier Rosa",
     "retailer": "blumen_atelier_rosa",
     "shop": "florist",
     "latitude": 47.5336357,
-    "longitude": 14.1078307
+    "longitude": 14.1078307,
+    "postcode": "8950",
+    "city": "Stainach-Pürgg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -20,21 +28,31 @@
     "shop": "supermarket",
     "latitude": 47.5305465,
     "longitude": 14.1010361,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8950",
+    "city": "Stainach-Pürgg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Köll",
     "retailer": "koll",
     "shop": "butcher",
     "latitude": 47.5333335,
-    "longitude": 14.108009
+    "longitude": 14.108009,
+    "postcode": "8950",
+    "city": "Stainach-Pürgg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Maschal",
     "retailer": "maschal",
     "shop": "clothes",
     "latitude": 47.5333756,
-    "longitude": 14.1089532
+    "longitude": 14.1089532,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -42,14 +60,22 @@
     "shop": "supermarket",
     "latitude": 47.5317837,
     "longitude": 14.1044441,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8950",
+    "city": "Stainach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Salon Hinterleitner",
     "retailer": "salon_hinterleitner",
     "shop": "hairdresser",
     "latitude": 47.533291,
-    "longitude": 14.1078783
+    "longitude": 14.1078783,
+    "postcode": "8950",
+    "city": "Stainach-Pürgg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Toyota/Peugeot Baumann",
@@ -57,6 +83,10 @@
     "shop": "car",
     "latitude": 47.5313521,
     "longitude": 14.1004248,
-    "brand": "Peugeot;Toyota"
+    "brand": "Peugeot;Toyota",
+    "postcode": "8950",
+    "city": "Stainach-Pürgg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

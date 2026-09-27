@@ -4,14 +4,18 @@
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 47.5203934,
-    "longitude": 14.1427977
+    "longitude": 14.1427977,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.5207499,
-    "longitude": 14.1437583
+    "longitude": 14.1437583,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -19,13 +23,21 @@
     "shop": "supermarket",
     "latitude": 47.5248296,
     "longitude": 14.1474075,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8943",
+    "city": "Aigen im Ennstal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 47.5207909,
-    "longitude": 14.1437025
+    "longitude": 14.1437025,
+    "postcode": "8943",
+    "city": "Aigen im Ennstal",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

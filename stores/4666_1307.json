@@ -4,14 +4,21 @@
     "retailer": "fupflege_und_kosmetik_maier",
     "shop": "beauty",
     "latitude": 46.662387,
-    "longitude": 13.0783067
+    "longitude": 13.0783067,
+    "postcode": "9635",
+    "city": "Dellach im Gailtal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Janschitz",
     "retailer": "janschitz",
     "shop": "bakery",
     "latitude": 46.6620502,
-    "longitude": 13.0790748
+    "longitude": 13.0790748,
+    "postcode": "9635",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -19,6 +26,10 @@
     "shop": "supermarket",
     "latitude": 46.6620216,
     "longitude": 13.0785233,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9635",
+    "city": "Dellach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

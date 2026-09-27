@@ -5,14 +5,18 @@
     "shop": "chemist",
     "latitude": 48.0800049,
     "longitude": 14.8125877,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Grabmaier",
     "retailer": "blumen_grabmaier",
     "shop": "florist",
     "latitude": 48.0801959,
-    "longitude": 14.8122957
+    "longitude": 14.8122957,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -20,14 +24,19 @@
     "shop": "supermarket",
     "latitude": 48.0805444,
     "longitude": 14.8117662,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mostviertler Einkaufszentrum",
     "retailer": "mostviertler_einkaufszentrum",
     "shop": "mall",
     "latitude": 48.0804644,
-    "longitude": 14.8119188
+    "longitude": 14.8119188,
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -35,27 +44,35 @@
     "shop": "clothes",
     "latitude": 48.0800759,
     "longitude": 14.8124792,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Riesenhuber",
     "retailer": "riesenhuber",
     "shop": "bakery",
     "latitude": 48.0802954,
-    "longitude": 14.8121435
+    "longitude": 14.8121435,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik Lueger",
     "retailer": "tabak_trafik_lueger",
     "shop": "kiosk",
     "latitude": 48.0802455,
-    "longitude": 14.8122199
+    "longitude": 14.8122199,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Waldviertel Optik und Akustik",
     "retailer": "waldviertel_optik_und_akustik",
     "shop": "optician",
     "latitude": 48.0801497,
-    "longitude": 14.8123663
+    "longitude": 14.8123663,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

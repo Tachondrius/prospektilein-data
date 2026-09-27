@@ -5,21 +5,29 @@
     "shop": "car",
     "latitude": 47.4772634,
     "longitude": 9.6653068,
-    "brand": "Citroën;Peugeot"
+    "brand": "Citroën;Peugeot",
+    "postcode": "6972",
+    "city": "Fußach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Baumschule Decker",
     "retailer": "baumschule_decker",
     "shop": "garden_centre",
     "latitude": 47.4718085,
-    "longitude": 9.6601805
+    "longitude": 9.6601805,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "HAARSTUDIO Plank Michaela",
     "retailer": "haarstudio_plank_michaela",
     "shop": "hairdresser",
     "latitude": 47.4779164,
-    "longitude": 9.6658432
+    "longitude": 9.6658432,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -27,13 +35,21 @@
     "shop": "supermarket",
     "latitude": 47.4761032,
     "longitude": 9.6618682,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6972",
+    "city": "Fußach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Velo Novo",
     "retailer": "velo_novo",
     "shop": "bicycle",
     "latitude": 47.478185,
-    "longitude": 9.6638053
+    "longitude": 9.6638053,
+    "postcode": "6972",
+    "city": "Fußach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

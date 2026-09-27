@@ -4,27 +4,39 @@
     "retailer": "shop_butcher",
     "shop": "butcher",
     "latitude": 47.8745439,
-    "longitude": 13.7092747
+    "longitude": 13.7092747,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Hinterwirth",
     "retailer": "backerei_hinterwirth",
     "shop": "bakery",
     "latitude": 47.8738502,
-    "longitude": 13.7089402
+    "longitude": 13.7089402,
+    "postcode": "4814",
+    "city": "Altmünster",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dorffriseur Gabi",
     "retailer": "dorffriseur_gabi",
     "shop": "hairdresser",
     "latitude": 47.8744853,
-    "longitude": 13.7089376
+    "longitude": 13.7089376,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 47.8740877,
-    "longitude": 13.7088276
+    "longitude": 13.7088276,
+    "postcode": "4814",
+    "city": "Neukirchen bei Altmünster",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

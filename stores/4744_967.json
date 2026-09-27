@@ -4,27 +4,37 @@
     "retailer": "ernex",
     "shop": "fabric",
     "latitude": 47.4453203,
-    "longitude": 9.670828
+    "longitude": 9.670828,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Futtermax",
     "retailer": "futtermax",
     "shop": "pet",
     "latitude": 47.4458416,
-    "longitude": 9.6702812
+    "longitude": 9.6702812,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trinkfest",
     "retailer": "trinkfest",
     "shop": "beverages",
     "latitude": 47.4450117,
-    "longitude": 9.6710835
+    "longitude": 9.6710835,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Troll",
     "retailer": "troll",
     "shop": "cosmetics",
     "latitude": 47.4409791,
-    "longitude": 9.6720968
+    "longitude": 9.6720968,
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

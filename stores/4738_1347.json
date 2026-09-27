@@ -4,14 +4,20 @@
     "retailer": "forstinger",
     "shop": "car_parts",
     "latitude": 47.385525,
-    "longitude": 13.4748329
+    "longitude": 13.4748329,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kfz.Werkstätte",
     "retailer": "kfz_werkstatte",
     "shop": "car_repair",
     "latitude": 47.3801266,
-    "longitude": 13.4727379
+    "longitude": 13.4727379,
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lagerhaus",
@@ -19,6 +25,10 @@
     "shop": "doityourself",
     "latitude": 47.385301,
     "longitude": 13.4703494,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

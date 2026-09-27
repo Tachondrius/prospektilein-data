@@ -4,20 +4,30 @@
     "retailer": "gogg",
     "shop": "convenience",
     "latitude": 47.2251744,
-    "longitude": 15.7259185
+    "longitude": 15.7259185,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kaufhaus Gogg",
     "retailer": "kaufhaus_gogg",
     "shop": "convenience",
     "latitude": 47.2251522,
-    "longitude": 15.7259043
+    "longitude": 15.7259043,
+    "postcode": "8182",
+    "city": "Puch bei Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kaufhaus Voit",
     "retailer": "kaufhaus_voit",
     "shop": "convenience",
     "latitude": 47.2265,
-    "longitude": 15.7281
+    "longitude": 15.7281,
+    "postcode": "8182",
+    "city": "Puch bei Weiz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

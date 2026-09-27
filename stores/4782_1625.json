@@ -4,21 +4,32 @@
     "retailer": "asia_food_super_store",
     "shop": "supermarket",
     "latitude": 47.8257858,
-    "longitude": 16.2502698
+    "longitude": 16.2502698,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Astro",
     "retailer": "astro",
     "shop": "clothes",
     "latitude": 47.8256926,
-    "longitude": 16.2501462
+    "longitude": 16.2501462,
+    "postcode": "2700",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "autoteile wr. neustadt",
     "retailer": "autoteile_wr_neustadt",
     "shop": "department_store",
     "latitude": 47.8276825,
-    "longitude": 16.2501794
+    "longitude": 16.2501794,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Plus",
@@ -26,7 +37,9 @@
     "shop": "supermarket",
     "latitude": 47.8243357,
     "longitude": 16.2571423,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -34,14 +47,22 @@
     "shop": "chemist",
     "latitude": 47.8241805,
     "longitude": 16.2573624,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Cafe Koll",
     "retailer": "backerei_cafe_koll",
     "shop": "bakery",
     "latitude": 47.8245821,
-    "longitude": 16.2503665
+    "longitude": 16.2503665,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "C&A",
@@ -49,21 +70,29 @@
     "shop": "clothes",
     "latitude": 47.8234359,
     "longitude": 16.2572545,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cavansever",
     "retailer": "cavansever",
     "shop": "supermarket",
     "latitude": 47.8272134,
-    "longitude": 16.2529356
+    "longitude": 16.2529356,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "CJ Hairstyle",
     "retailer": "cj_hairstyle",
     "shop": "hairdresser",
     "latitude": 47.8269509,
-    "longitude": 16.2539035
+    "longitude": 16.2539035,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -71,7 +100,11 @@
     "shop": "chemist",
     "latitude": 47.8263387,
     "longitude": 16.2511791,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Drei",
@@ -79,7 +112,9 @@
     "shop": "telecommunication",
     "latitude": 47.8237225,
     "longitude": 16.2567359,
-    "brand": "Drei"
+    "brand": "Drei",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ETSAN",
@@ -87,7 +122,11 @@
     "shop": "supermarket",
     "latitude": 47.8244928,
     "longitude": 16.2537046,
-    "brand": "ETSAN"
+    "brand": "ETSAN",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -95,7 +134,11 @@
     "shop": "supermarket",
     "latitude": 47.8262371,
     "longitude": 16.2503299,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fussl",
@@ -103,7 +146,9 @@
     "shop": "clothes",
     "latitude": 47.8238613,
     "longitude": 16.2573871,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "H&M",
@@ -111,35 +156,51 @@
     "shop": "clothes",
     "latitude": 47.8230441,
     "longitude": 16.2571758,
-    "brand": "H&M"
+    "brand": "H&M",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "H.C.Hutterer",
     "retailer": "h_c_hutterer",
     "shop": "computer",
     "latitude": 47.821408,
-    "longitude": 16.2561171
+    "longitude": 16.2561171,
+    "postcode": "2700",
+    "city": "Wr. Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haarmonisch Damen Beauty Salon",
     "retailer": "haarmonisch_damen_beauty_salon",
     "shop": "hairdresser",
     "latitude": 47.8241094,
-    "longitude": 16.2536822
+    "longitude": 16.2536822,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haarmonisch Herren Pflegesalon",
     "retailer": "haarmonisch_herren_pflegesalon",
     "shop": "hairdresser",
     "latitude": 47.8240795,
-    "longitude": 16.253658
+    "longitude": 16.253658,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Handy Digital",
     "retailer": "handy_digital",
     "shop": "electronics",
     "latitude": 47.8240791,
-    "longitude": 16.2568338
+    "longitude": 16.2568338,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hervis",
@@ -147,7 +208,11 @@
     "shop": "sports",
     "latitude": 47.8261658,
     "longitude": 16.2511979,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -155,7 +220,11 @@
     "shop": "supermarket",
     "latitude": 47.828313,
     "longitude": 16.2502616,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -163,7 +232,9 @@
     "shop": "clothes",
     "latitude": 47.8239341,
     "longitude": 16.2574762,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klipp",
@@ -171,21 +242,29 @@
     "shop": "hairdresser",
     "latitude": 47.8233497,
     "longitude": 16.2572309,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Koc Mobil",
     "retailer": "koc_mobil",
     "shop": "mobile_phone",
     "latitude": 47.8241767,
-    "longitude": 16.2537565
+    "longitude": 16.2537565,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Leclou",
     "retailer": "leclou",
     "shop": "jewelry",
     "latitude": 47.8240376,
-    "longitude": 16.2573936
+    "longitude": 16.2573936,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -193,21 +272,31 @@
     "shop": "books",
     "latitude": 47.824233,
     "longitude": 16.2573716,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Maccas",
     "retailer": "maccas",
     "shop": "hairdresser",
     "latitude": 47.8214087,
-    "longitude": 16.2570753
+    "longitude": 16.2570753,
+    "postcode": "2700",
+    "city": "Wr. Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mario Auto Service",
     "retailer": "mario_auto_service",
     "shop": "car_repair",
     "latitude": 47.8237951,
-    "longitude": 16.2537955
+    "longitude": 16.2537955,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Marionnaud",
@@ -215,14 +304,20 @@
     "shop": "perfumery",
     "latitude": 47.8239989,
     "longitude": 16.2569901,
-    "brand": "Marionnaud"
+    "brand": "Marionnaud",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Merkur City",
     "retailer": "merkur_city",
     "shop": "mall",
     "latitude": 47.8240285,
-    "longitude": 16.2573931
+    "longitude": 16.2573931,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Modepark Röther",
@@ -230,7 +325,9 @@
     "shop": "clothes",
     "latitude": 47.8242954,
     "longitude": 16.2572461,
-    "brand": "Modepark Röther"
+    "brand": "Modepark Röther",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Müller",
@@ -238,7 +335,9 @@
     "shop": "chemist",
     "latitude": 47.8231852,
     "longitude": 16.2571706,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "New Yorker",
@@ -246,14 +345,18 @@
     "shop": "clothes",
     "latitude": 47.8235927,
     "longitude": 16.2570013,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Optiker Kikovitz",
     "retailer": "optiker_kikovitz",
     "shop": "optician",
     "latitude": 47.823658,
-    "longitude": 16.2573333
+    "longitude": 16.2573333,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Palmers",
@@ -261,7 +364,9 @@
     "shop": "clothes",
     "latitude": 47.8241197,
     "longitude": 16.2573763,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "s.Oliver",
@@ -269,21 +374,29 @@
     "shop": "clothes",
     "latitude": 47.8237707,
     "longitude": 16.257012,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik Sturm",
     "retailer": "tabak_trafik_sturm",
     "shop": "kiosk",
     "latitude": 47.8240171,
-    "longitude": 16.2567643
+    "longitude": 16.2567643,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabakfachgeschäft Oles-Ruiner",
     "retailer": "tabakfachgeschaft_oles_ruiner",
     "shop": "tobacco",
     "latitude": 47.8258215,
-    "longitude": 16.2511879
+    "longitude": 16.2511879,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tipico",
@@ -291,20 +404,30 @@
     "shop": "bookmaker",
     "latitude": 47.8251363,
     "longitude": 16.2501114,
-    "brand": "Tipico"
+    "brand": "Tipico",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "XXL Sports & Outdoor",
     "retailer": "xxl_sports_und_outdoor",
     "shop": "sports",
     "latitude": 47.8242991,
-    "longitude": 16.2569984
+    "longitude": 16.2569984,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Zgonc",
     "retailer": "zgonc",
     "shop": "doityourself",
     "latitude": 47.8268676,
-    "longitude": 16.2522094
+    "longitude": 16.2522094,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

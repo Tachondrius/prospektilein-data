@@ -4,27 +4,41 @@
     "retailer": "bipa",
     "shop": "chemist",
     "latitude": 48.8591014,
-    "longitude": 15.1198105
+    "longitude": 15.1198105,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
     "retailer": "hofer",
     "shop": "supermarket",
     "latitude": 48.857545,
-    "longitude": 15.1102139
+    "longitude": 15.1102139,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
     "retailer": "penny",
     "shop": "supermarket",
     "latitude": 48.858984,
-    "longitude": 15.1196267
+    "longitude": 15.1196267,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TALKNER Gesellschaft m.b.H.",
     "retailer": "talkner_gesellschaft_m_b_h",
     "shop": "doityourself",
     "latitude": 48.8574607,
-    "longitude": 15.1114618
+    "longitude": 15.1114618,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

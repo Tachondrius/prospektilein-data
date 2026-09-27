@@ -5,27 +5,37 @@
     "shop": "supermarket",
     "latitude": 48.1273459,
     "longitude": 16.4638055,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2320",
+    "city": "Schwechat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseursalon Inge",
     "retailer": "friseursalon_inge",
     "shop": "hairdresser",
     "latitude": 48.1286378,
-    "longitude": 16.4654837
+    "longitude": 16.4654837,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 48.1252445,
-    "longitude": 16.4618365
+    "longitude": 16.4618365,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 48.1292049,
-    "longitude": 16.4656993
+    "longitude": 16.4656993,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

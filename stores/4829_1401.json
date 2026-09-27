@@ -4,28 +4,40 @@
     "retailer": "biohof_achleitner",
     "shop": "supermarket",
     "latitude": 48.2959408,
-    "longitude": 14.0116738
+    "longitude": 14.0116738,
+    "postcode": "4070",
+    "city": "Eferding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Doors",
     "retailer": "shop_doors",
     "shop": "doors",
     "latitude": 48.2978978,
-    "longitude": 14.0147421
+    "longitude": 14.0147421,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "IPoR",
     "retailer": "ipor",
     "shop": "swimming_pool",
     "latitude": 48.2976852,
-    "longitude": 14.0158903
+    "longitude": 14.0158903,
+    "postcode": "4070",
+    "city": "Eferding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mercedes",
     "retailer": "mercedes",
     "shop": "car",
     "latitude": 48.297459,
-    "longitude": 14.0121503
+    "longitude": 14.0121503,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Renault, Nissan, Dacia",
@@ -33,7 +45,9 @@
     "shop": "car_repair",
     "latitude": 48.2994157,
     "longitude": 14.0148019,
-    "brand": "Renault;Nissan;Dacia"
+    "brand": "Renault;Nissan;Dacia",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Renault, Nissan, Dacia",
@@ -41,14 +55,20 @@
     "shop": "car",
     "latitude": 48.2996149,
     "longitude": 14.0145335,
-    "brand": "Renault;Nissan;Dacia"
+    "brand": "Renault;Nissan;Dacia",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Richter Bürosysteme",
     "retailer": "richter_burosysteme",
     "shop": "computer",
     "latitude": 48.2994962,
-    "longitude": 14.0121521
+    "longitude": 14.0121521,
+    "postcode": "4070",
+    "city": "Hinzenbach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Seat Kneidinger",
@@ -56,7 +76,9 @@
     "shop": "car",
     "latitude": 48.2964375,
     "longitude": 14.0105188,
-    "brand": "Seat"
+    "brand": "Seat",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Seat Kneidinger",
@@ -64,7 +86,9 @@
     "shop": "car_repair",
     "latitude": 48.2965402,
     "longitude": 14.0101316,
-    "brand": "Seat"
+    "brand": "Seat",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "VW & Audi Toferer",
@@ -72,6 +96,10 @@
     "shop": "car",
     "latitude": 48.2990735,
     "longitude": 14.0136087,
-    "brand": "Volkswagen;Audi;Škoda"
+    "brand": "Volkswagen;Audi;Škoda",
+    "postcode": "4070",
+    "city": "Eferding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

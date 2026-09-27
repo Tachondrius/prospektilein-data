@@ -5,42 +5,59 @@
     "shop": "bookmaker",
     "latitude": 46.613366,
     "longitude": 14.3398491,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Birner",
     "retailer": "birner",
     "shop": "car_parts",
     "latitude": 46.6102698,
-    "longitude": 14.3335891
+    "longitude": 14.3335891,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Edelstahl-Technik Zechner GmbH",
     "retailer": "edelstahl_technik_zechner_gmbh",
     "shop": "hardware",
     "latitude": 46.6112195,
-    "longitude": 14.3318308
+    "longitude": 14.3318308,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Farben Gunzer",
     "retailer": "farben_gunzer",
     "shop": "paint",
     "latitude": 46.6157444,
-    "longitude": 14.3326414
+    "longitude": 14.3326414,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "FEMA",
     "retailer": "fema",
     "shop": "doors",
     "latitude": 46.6159632,
-    "longitude": 14.3340858
+    "longitude": 14.3340858,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KFZ Andreas Krainer",
     "retailer": "kfz_andreas_krainer",
     "shop": "car_repair",
     "latitude": 46.6158368,
-    "longitude": 14.3310045
+    "longitude": 14.3310045,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KiK",
@@ -48,7 +65,11 @@
     "shop": "clothes",
     "latitude": 46.6134477,
     "longitude": 14.3395556,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -56,21 +77,32 @@
     "shop": "supermarket",
     "latitude": 46.613543,
     "longitude": 14.3393283,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Map Select",
     "retailer": "map_select",
     "shop": "tiles",
     "latitude": 46.617569,
-    "longitude": 14.3321785
+    "longitude": 14.3321785,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Odörfer Haustechnik",
     "retailer": "odorfer_haustechnik",
     "shop": "bathroom_furnishing",
     "latitude": 46.6110386,
-    "longitude": 14.3380325
+    "longitude": 14.3380325,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -78,27 +110,39 @@
     "shop": "supermarket",
     "latitude": 46.6197604,
     "longitude": 14.3309825,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Studio Gold",
     "retailer": "studio_gold",
     "shop": "paint",
     "latitude": 46.6160048,
-    "longitude": 14.3340976
+    "longitude": 14.3340976,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Studio Petra",
     "retailer": "studio_petra",
     "shop": "beauty",
     "latitude": 46.6133878,
-    "longitude": 14.3331761
+    "longitude": 14.3331761,
+    "postcode": "9020",
+    "city": "Klagenfurt am WÃ¶rthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Willi's Getränkedienst",
     "retailer": "willi_s_getrankedienst",
     "shop": "beverages",
     "latitude": 46.6171929,
-    "longitude": 14.3323045
+    "longitude": 14.3323045,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

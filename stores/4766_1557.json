@@ -4,7 +4,11 @@
     "retailer": "ep_elektro_neuberg",
     "shop": "electronics",
     "latitude": 47.6670703,
-    "longitude": 15.5747517
+    "longitude": 15.5747517,
+    "postcode": "8692",
+    "city": "Neuberg an der Mürz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,13 +16,21 @@
     "shop": "supermarket",
     "latitude": 47.6639837,
     "longitude": 15.5759121,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8692",
+    "city": "Neuberg an der Mürz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Speiskammerl",
     "retailer": "speiskammerl",
     "shop": "farm",
     "latitude": 47.6644179,
-    "longitude": 15.5756639
+    "longitude": 15.5756639,
+    "postcode": "8692",
+    "city": "Neuberg an der Mürz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

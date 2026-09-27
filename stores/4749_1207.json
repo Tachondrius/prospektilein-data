@@ -5,21 +5,27 @@
     "shop": "supermarket",
     "latitude": 47.4905136,
     "longitude": 12.074082,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Die Küche",
     "retailer": "die_kuche",
     "shop": "kitchen",
     "latitude": 47.4932234,
-    "longitude": 12.070715
+    "longitude": 12.070715,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "IKEA Abholstation Wörgl",
     "retailer": "ikea",
     "shop": "furniture",
     "latitude": 47.4996862,
-    "longitude": 12.0767292
+    "longitude": 12.0767292,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "JYSK",
@@ -27,27 +33,39 @@
     "shop": "furniture",
     "latitude": 47.4914246,
     "longitude": 12.0743252,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pappas Tirol GmbH",
     "retailer": "pappas_tirol_gmbh",
     "shop": "car",
     "latitude": 47.499065,
-    "longitude": 12.0774595
+    "longitude": 12.0774595,
+    "postcode": "6322",
+    "city": "Kirchbichl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Stadler",
     "retailer": "stadler",
     "shop": "shoes",
     "latitude": 47.4900826,
-    "longitude": 12.0739687
+    "longitude": 12.0739687,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Viva",
     "retailer": "viva",
     "shop": "convenience",
     "latitude": 47.4902099,
-    "longitude": 12.0737158
+    "longitude": 12.0737158,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

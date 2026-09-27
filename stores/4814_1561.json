@@ -4,27 +4,39 @@
     "retailer": "andis_sportshop",
     "shop": "sports",
     "latitude": 48.1441615,
-    "longitude": 15.613191
+    "longitude": 15.613191,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Das Dirndl",
     "retailer": "das_dirndl",
     "shop": "deli",
     "latitude": 48.1413909,
-    "longitude": 15.613659
+    "longitude": 15.613659,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Scharfmüller",
     "retailer": "scharfmuller",
     "shop": "furniture",
     "latitude": 48.1456115,
-    "longitude": 15.6133283
+    "longitude": 15.6133283,
+    "postcode": "3151",
+    "city": "St. Georgen am Steinfelde",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Falkensteiner",
     "retailer": "trafik_falkensteiner",
     "shop": "kiosk",
     "latitude": 48.1400385,
-    "longitude": 15.6136022
+    "longitude": 15.6136022,
+    "postcode": "3151",
+    "city": "St. Georgen am Steinfelde",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

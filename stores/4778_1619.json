@@ -4,7 +4,9 @@
     "retailer": "autohaus_kale",
     "shop": "car",
     "latitude": 47.7826885,
-    "longitude": 16.1940294
+    "longitude": 16.1940294,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "METRO",
@@ -12,6 +14,10 @@
     "shop": "wholesale",
     "latitude": 47.782114,
     "longitude": 16.1924516,
-    "brand": "METRO"
+    "brand": "METRO",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

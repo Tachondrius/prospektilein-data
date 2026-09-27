@@ -4,7 +4,11 @@
     "retailer": "backerei_jechard",
     "shop": "bakery",
     "latitude": 47.0220716,
-    "longitude": 15.0525161
+    "longitude": 15.0525161,
+    "postcode": "8583",
+    "city": "Edelschrott",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch Dreyer",
@@ -12,13 +16,20 @@
     "shop": "supermarket",
     "latitude": 47.0213872,
     "longitude": 15.050815,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "8583",
+    "city": "Edelschrott",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik Stiboller",
     "retailer": "tabak_trafik_stiboller",
     "shop": "newsagent",
     "latitude": 47.0222695,
-    "longitude": 15.0524222
+    "longitude": 15.0524222,
+    "postcode": "8583",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

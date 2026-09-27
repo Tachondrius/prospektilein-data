@@ -4,13 +4,19 @@
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 46.729352,
-    "longitude": 15.4324044
+    "longitude": 15.4324044,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gastro Haring GmbH",
     "retailer": "gastro_haring_gmbh",
     "shop": "wholesale",
     "latitude": 46.7289236,
-    "longitude": 15.4302265
+    "longitude": 15.4302265,
+    "postcode": "8452",
+    "city": "Groß-Klein",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

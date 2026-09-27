@@ -4,7 +4,11 @@
     "retailer": "hilti",
     "shop": "tools",
     "latitude": 46.6311119,
-    "longitude": 14.3673511
+    "longitude": 14.3673511,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "IKEA",
@@ -12,6 +16,10 @@
     "shop": "furniture",
     "latitude": 46.6398742,
     "longitude": 14.3688394,
-    "brand": "IKEA"
+    "brand": "IKEA",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

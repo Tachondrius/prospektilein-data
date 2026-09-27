@@ -4,7 +4,9 @@
     "retailer": "manuell",
     "shop": "bakery",
     "latitude": 48.4648886,
-    "longitude": 14.2275775
+    "longitude": 14.2275775,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 48.4645758,
     "longitude": 14.2239424,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4181",
+    "city": "Oberneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

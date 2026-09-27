@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 47.9836587,
     "longitude": 16.3025764,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "2512",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "R/G KFZ Werkstatt",
     "retailer": "r_g_kfz_werkstatt",
     "shop": "car_repair",
     "latitude": 47.9850393,
-    "longitude": 16.3007685
+    "longitude": 16.3007685,
+    "postcode": "2512",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

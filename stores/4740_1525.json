@@ -4,21 +4,29 @@
     "retailer": "bestdrive",
     "shop": "car_repair",
     "latitude": 47.4044526,
-    "longitude": 15.2532098
+    "longitude": 15.2532098,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gerold - Badsanierung",
     "retailer": "gerold_badsanierung",
     "shop": "tiles",
     "latitude": 47.4037567,
-    "longitude": 15.2528855
+    "longitude": 15.2528855,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Grebien",
     "retailer": "grebien",
     "shop": "doityourself",
     "latitude": 47.4048932,
-    "longitude": 15.2553276
+    "longitude": 15.2553276,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -26,14 +34,22 @@
     "shop": "supermarket",
     "latitude": 47.4044058,
     "longitude": 15.2524269,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Jet",
     "retailer": "jet",
     "shop": "convenience",
     "latitude": 47.4051586,
-    "longitude": 15.2564462
+    "longitude": 15.2564462,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -41,14 +57,18 @@
     "shop": "clothes",
     "latitude": 47.403705,
     "longitude": 15.2514921,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.4097931,
-    "longitude": 15.2539981
+    "longitude": 15.2539981,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Scheikl",
@@ -56,7 +76,9 @@
     "shop": "car",
     "latitude": 47.4032222,
     "longitude": 15.250646,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -64,7 +86,11 @@
     "shop": "supermarket",
     "latitude": 47.4099726,
     "longitude": 15.2533421,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Toyota",
@@ -72,7 +98,9 @@
     "shop": "car_repair",
     "latitude": 47.4034087,
     "longitude": 15.2507125,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Würth Shop",
@@ -80,6 +108,8 @@
     "shop": "hardware",
     "latitude": 47.4038505,
     "longitude": 15.2513605,
-    "brand": "Würth"
+    "brand": "Würth",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

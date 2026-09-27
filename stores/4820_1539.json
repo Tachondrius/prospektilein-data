@@ -4,7 +4,11 @@
     "retailer": "auto_toni",
     "shop": "car",
     "latitude": 48.2037337,
-    "longitude": 15.390404
+    "longitude": 15.390404,
+    "postcode": "3382",
+    "city": "Loosdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,7 +16,9 @@
     "shop": "supermarket",
     "latitude": 48.2004387,
     "longitude": 15.3996834,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -20,6 +26,10 @@
     "shop": "supermarket",
     "latitude": 48.2026522,
     "longitude": 15.3922909,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3382",
+    "city": "Loosdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "chemist",
     "latitude": 46.7979431,
     "longitude": 13.6963724,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -13,7 +15,11 @@
     "shop": "supermarket",
     "latitude": 46.7991767,
     "longitude": 13.6985952,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9545",
+    "city": "Radenthein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KiK",
@@ -21,7 +27,9 @@
     "shop": "clothes",
     "latitude": 46.7981561,
     "longitude": 13.6959754,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -29,7 +37,9 @@
     "shop": "clothes",
     "latitude": 46.7979652,
     "longitude": 13.6959969,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Penny Markt",
@@ -37,27 +47,37 @@
     "shop": "supermarket",
     "latitude": 46.7978917,
     "longitude": 13.6966728,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 46.7984302,
-    "longitude": 13.6979919
+    "longitude": 13.6979919,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Weissensteiner",
     "retailer": "weissensteiner",
     "shop": "bakery",
     "latitude": 46.7979542,
-    "longitude": 13.6961632
+    "longitude": 13.6961632,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Werkskaufhaus Radenthein",
     "retailer": "werkskaufhaus_radenthein",
     "shop": "supermarket",
     "latitude": 46.7984592,
-    "longitude": 13.6977186
+    "longitude": 13.6977186,
+    "postcode": "9545",
+    "city": "Radenthein",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -5,56 +5,80 @@
     "shop": "agrarian",
     "latitude": 47.475405,
     "longitude": 11.979589,
-    "brand": "Fendt;Valtra;Kramer"
+    "brand": "Fendt;Valtra;Kramer",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "ATM Autohandel & Reparatur",
     "retailer": "atm_autohandel_und_reparatur",
     "shop": "car_repair",
     "latitude": 47.4743254,
-    "longitude": 11.9772837
+    "longitude": 11.9772837,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baustoffcenter Kundl",
     "retailer": "baustoffcenter_kundl",
     "shop": "hardware",
     "latitude": 47.475067,
-    "longitude": 11.978258
+    "longitude": 11.978258,
+    "postcode": "6250",
+    "city": "Kundl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Margreiter",
     "retailer": "backerei_margreiter",
     "shop": "bakery",
     "latitude": 47.4791025,
-    "longitude": 11.9733051
+    "longitude": 11.9733051,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Huber Reifen",
     "retailer": "huber_reifen",
     "shop": "tyres",
     "latitude": 47.4755532,
-    "longitude": 11.9796145
+    "longitude": 11.9796145,
+    "postcode": "6250",
+    "city": "Kundl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "INNFriseur",
     "retailer": "innfriseur",
     "shop": "hairdresser",
     "latitude": 47.476914,
-    "longitude": 11.9714415
+    "longitude": 11.9714415,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kern",
     "retailer": "kern",
     "shop": "car",
     "latitude": 47.4733414,
-    "longitude": 11.9790402
+    "longitude": 11.9790402,
+    "postcode": "6250",
+    "city": "Kundl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kern",
     "retailer": "kern",
     "shop": "car_repair",
     "latitude": 47.4734609,
-    "longitude": 11.9796083
+    "longitude": 11.9796083,
+    "postcode": "6250",
+    "city": "Kundl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -62,13 +86,19 @@
     "shop": "supermarket",
     "latitude": 47.4764326,
     "longitude": 11.9720265,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6252",
+    "city": "Breitenbach am Inn",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 47.4773166,
-    "longitude": 11.9730403
+    "longitude": 11.9730403,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

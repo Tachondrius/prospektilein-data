@@ -4,14 +4,22 @@
     "retailer": "blumen_brigitte",
     "shop": "florist",
     "latitude": 48.1605184,
-    "longitude": 16.4694537
+    "longitude": 16.4694537,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hürpaş Supermarkt",
     "retailer": "hurpas_supermarkt",
     "shop": "supermarket",
     "latitude": 48.1602466,
-    "longitude": 16.4695076
+    "longitude": 16.4695076,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Metro",
@@ -19,6 +27,10 @@
     "shop": "wholesale",
     "latitude": 48.1678869,
     "longitude": 16.4627272,
-    "brand": "Metro"
+    "brand": "Metro",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

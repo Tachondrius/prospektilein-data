@@ -5,7 +5,9 @@
     "shop": "bakery",
     "latitude": 47.3043507,
     "longitude": 10.964397,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -13,13 +15,21 @@
     "shop": "supermarket",
     "latitude": 47.3043312,
     "longitude": 10.9646315,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6414",
+    "city": "Mieming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuhhaus Ruech",
     "retailer": "schuhhaus_ruech",
     "shop": "shoes",
     "latitude": 47.3051686,
-    "longitude": 10.9671826
+    "longitude": 10.9671826,
+    "postcode": "6414",
+    "city": "Mieming",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

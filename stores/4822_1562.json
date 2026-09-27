@@ -4,7 +4,11 @@
     "retailer": "bad_und_energie",
     "shop": "bathroom_furnishing",
     "latitude": 48.2212756,
-    "longitude": 15.6298645
+    "longitude": 15.6298645,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 48.2204453,
     "longitude": 15.6270545,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mercedes-Benz",
@@ -20,6 +28,10 @@
     "shop": "car",
     "latitude": 48.2201475,
     "longitude": 15.6280111,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 48.014634,
     "longitude": 16.983865,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "2474",
+    "city": "Gattendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.0154173,
-    "longitude": 16.9835607
+    "longitude": 16.9835607,
+    "postcode": "2474",
+    "city": "Gattendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

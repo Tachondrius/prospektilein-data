@@ -4,20 +4,28 @@
     "retailer": "markus_fallenecker",
     "shop": "fuel",
     "latitude": 48.1596642,
-    "longitude": 16.0593699
+    "longitude": 16.0593699,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Markus Leopold Stefan",
     "retailer": "markus_leopold_stefan",
     "shop": "fuel",
     "latitude": 48.1565536,
-    "longitude": 16.0538396
+    "longitude": 16.0538396,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "RS Motors",
     "retailer": "rs_motors",
     "shop": "car_repair",
     "latitude": 48.1551886,
-    "longitude": 16.0506139
+    "longitude": 16.0506139,
+    "postcode": "3021",
+    "city": "Pressbaum",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

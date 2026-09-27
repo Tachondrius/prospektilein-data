@@ -5,27 +5,41 @@
     "shop": "car",
     "latitude": 46.7225405,
     "longitude": 15.9474237,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "8492",
+    "city": "Halbenrain",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Lang",
     "retailer": "backerei_lang",
     "shop": "bakery",
     "latitude": 46.7220479,
-    "longitude": 15.9467444
+    "longitude": 15.9467444,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischerei Augustin",
     "retailer": "fleischerei_augustin",
     "shop": "butcher",
     "latitude": 46.7216516,
-    "longitude": 15.9472045
+    "longitude": 15.9472045,
+    "postcode": "8492",
+    "city": "Halbenrain",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kaufhaus Wallner",
     "retailer": "kaufhaus_wallner",
     "shop": "supermarket",
     "latitude": 46.7219602,
-    "longitude": 15.9472336
+    "longitude": 15.9472336,
+    "postcode": "8492",
+    "city": "Halbenrain",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

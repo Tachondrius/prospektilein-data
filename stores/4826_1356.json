@@ -4,7 +4,11 @@
     "retailer": "eisen_wagner",
     "shop": "hardware",
     "latitude": 48.2684187,
-    "longitude": 13.5687932
+    "longitude": 13.5687932,
+    "postcode": "4753",
+    "city": "Taiskirchen im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -12,14 +16,22 @@
     "shop": "doityourself",
     "latitude": 48.2666217,
     "longitude": 13.5650979,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "4753",
+    "city": "Taiskirchen im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Otti’s Werkstatt",
     "retailer": "ottis_werkstatt",
     "shop": "car_repair",
     "latitude": 48.268006,
-    "longitude": 13.563878
+    "longitude": 13.563878,
+    "postcode": "4753",
+    "city": "Taiskirchen im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -27,6 +39,10 @@
     "shop": "supermarket",
     "latitude": 48.2666376,
     "longitude": 13.5666546,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4753",
+    "city": "Taiskirchen im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

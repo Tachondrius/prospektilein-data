@@ -4,7 +4,9 @@
     "retailer": "hof_gemacht",
     "shop": "convenience",
     "latitude": 46.6093727,
-    "longitude": 14.3184546
+    "longitude": 14.3184546,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lidl",
@@ -12,20 +14,31 @@
     "shop": "supermarket",
     "latitude": 46.6079111,
     "longitude": 14.3115883,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Murauer-Bier-Depot Klagenfurt",
     "retailer": "murauer_bier_depot_klagenfurt",
     "shop": "beverages",
     "latitude": 46.6010892,
-    "longitude": 14.3122627
+    "longitude": 14.3122627,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Teppichweberei Noswitz",
     "retailer": "teppichweberei_noswitz",
     "shop": "clothes",
     "latitude": 46.6049181,
-    "longitude": 14.3107756
+    "longitude": 14.3107756,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

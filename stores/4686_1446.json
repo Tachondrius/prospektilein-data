@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 46.8634249,
     "longitude": 14.4699808,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9330",
+    "city": "Althofen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa Plus",
@@ -13,14 +17,22 @@
     "shop": "supermarket",
     "latitude": 46.869913,
     "longitude": 14.4671728,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "9330",
+    "city": "Althofen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 46.866143,
-    "longitude": 14.4691754
+    "longitude": 14.4691754,
+    "postcode": "9330",
+    "city": "Althofen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagerhaus",
@@ -28,13 +40,21 @@
     "shop": "doityourself",
     "latitude": 46.8610302,
     "longitude": 14.4699385,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "9330",
+    "city": "Althofen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "T&G",
     "retailer": "t_und_g",
     "shop": "supermarket",
     "latitude": 46.866902,
-    "longitude": 14.468749
+    "longitude": 14.468749,
+    "postcode": "9330",
+    "city": "Althofen",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

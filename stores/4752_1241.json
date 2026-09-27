@@ -4,35 +4,55 @@
     "retailer": "analog_audio_pro",
     "shop": "music",
     "latitude": 47.5266443,
-    "longitude": 12.415642
+    "longitude": 12.415642,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Berger",
     "retailer": "berger",
     "shop": "confectionery",
     "latitude": 47.5238155,
-    "longitude": 12.4178769
+    "longitude": 12.4178769,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Krepper",
     "retailer": "elektro_krepper",
     "shop": "vacuum_cleaner",
     "latitude": 47.5203161,
-    "longitude": 12.416661
+    "longitude": 12.416661,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Glaserei Fabbris Thomas",
     "retailer": "glaserei_fabbris_thomas",
     "shop": "gift",
     "latitude": 47.5234238,
-    "longitude": 12.4189064
+    "longitude": 12.4189064,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Innenleben",
     "retailer": "innenleben",
     "shop": "florist",
     "latitude": 47.5231954,
-    "longitude": 12.4186167
+    "longitude": 12.4186167,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Opel Sparer",
@@ -40,13 +60,17 @@
     "shop": "car",
     "latitude": 47.523281,
     "longitude": 12.4152872,
-    "brand": "Opel;Hyundai;Mitsubishi;Saab;Chrysler;Dotsch"
+    "brand": "Opel;Hyundai;Mitsubishi;Saab;Chrysler;Dotsch",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Prader",
     "retailer": "prader",
     "shop": "interior_decoration",
     "latitude": 47.5240217,
-    "longitude": 12.4170501
+    "longitude": 12.4170501,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

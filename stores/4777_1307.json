@@ -4,7 +4,9 @@
     "retailer": "all_4_hair",
     "shop": "hairdresser",
     "latitude": 47.7731595,
-    "longitude": 13.0704504
+    "longitude": 13.0704504,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 47.7736402,
     "longitude": 13.0709511,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bipa",
@@ -20,7 +26,11 @@
     "shop": "chemist",
     "latitude": 47.773616,
     "longitude": 13.071383,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -28,14 +38,22 @@
     "shop": "chemist",
     "latitude": 47.7749892,
     "longitude": 13.0701153,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.7736727,
-    "longitude": 13.0701214
+    "longitude": 13.0701214,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -43,7 +61,11 @@
     "shop": "supermarket",
     "latitude": 47.7744351,
     "longitude": 13.0701371,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "JYSK",
@@ -51,21 +73,31 @@
     "shop": "furniture",
     "latitude": 47.773065,
     "longitude": 13.0706706,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Karin Kreativ",
     "retailer": "karin_kreativ",
     "shop": "hairdresser",
     "latitude": 47.7759344,
-    "longitude": 13.0718271
+    "longitude": 13.0718271,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lucky Car",
     "retailer": "lucky_car",
     "shop": "car_repair",
     "latitude": 47.7712315,
-    "longitude": 13.0702642
+    "longitude": 13.0702642,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MediaMarkt",
@@ -73,34 +105,52 @@
     "shop": "electronics",
     "latitude": 47.7747701,
     "longitude": 13.0700794,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Old Stars Oldtimerservice",
     "retailer": "old_stars_oldtimerservice",
     "shop": "car_repair",
     "latitude": 47.7751004,
-    "longitude": 13.0709503
+    "longitude": 13.0709503,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Perro",
     "retailer": "perro",
     "shop": "pet",
     "latitude": 47.7713294,
-    "longitude": 13.0758951
+    "longitude": 13.0758951,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Soundfactory",
     "retailer": "soundfactory",
     "shop": "electronics",
     "latitude": 47.7753937,
-    "longitude": 13.070983
+    "longitude": 13.070983,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Trafik Bernardi",
     "retailer": "trafik_bernardi",
     "shop": "tobacco",
     "latitude": 47.7736538,
-    "longitude": 13.0706888
+    "longitude": 13.0706888,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

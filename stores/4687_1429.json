@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 46.8745138,
     "longitude": 14.2909166,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "9342",
+    "city": "Gurk",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Stocklauser",
     "retailer": "backerei_stocklauser",
     "shop": "bakery",
     "latitude": 46.8737083,
-    "longitude": 14.2911892
+    "longitude": 14.2911892,
+    "postcode": "9342",
+    "city": "Gurk",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Domladen",
     "retailer": "domladen",
     "shop": "yes",
     "latitude": 46.8752293,
-    "longitude": 14.292393
+    "longitude": 14.292393,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

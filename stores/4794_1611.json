@@ -4,7 +4,11 @@
     "retailer": "autohaus_sames",
     "shop": "car",
     "latitude": 47.944703,
-    "longitude": 16.1112697
+    "longitude": 16.1112697,
+    "postcode": "2560",
+    "city": "Berndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Now",
@@ -12,14 +16,20 @@
     "shop": "convenience",
     "latitude": 47.9435778,
     "longitude": 16.1117902,
-    "brand": "Billa Now"
+    "brand": "Billa Now",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Gazi Berndorf",
     "retailer": "backerei_gazi_berndorf",
     "shop": "bakery",
     "latitude": 47.946456,
-    "longitude": 16.1104113
+    "longitude": 16.1104113,
+    "postcode": "2560",
+    "city": "Berndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Der Mann",
@@ -27,14 +37,18 @@
     "shop": "bakery",
     "latitude": 47.9456604,
     "longitude": 16.1103895,
-    "brand": "Der Mann"
+    "brand": "Der Mann",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.944294,
-    "longitude": 16.1103321
+    "longitude": 16.1103321,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -42,20 +56,32 @@
     "shop": "supermarket",
     "latitude": 47.9423531,
     "longitude": 16.1169535,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2560",
+    "city": "Berndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Josef Hoppel",
     "retailer": "josef_hoppel",
     "shop": "butcher",
     "latitude": 47.9457499,
-    "longitude": 16.110731
+    "longitude": 16.110731,
+    "postcode": "2560",
+    "city": "Berndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Speed Mobile",
     "retailer": "speed_mobile",
     "shop": "mobile_phone",
     "latitude": 47.9456198,
-    "longitude": 16.1108032
+    "longitude": 16.1108032,
+    "postcode": "2560",
+    "city": "Berndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

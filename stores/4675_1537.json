@@ -4,7 +4,11 @@
     "retailer": "modern_hairstyle",
     "shop": "hairdresser",
     "latitude": 46.7574246,
-    "longitude": 15.3740795
+    "longitude": 15.3740795,
+    "postcode": "8443",
+    "city": "Gleinstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -12,21 +16,29 @@
     "shop": "clothes",
     "latitude": 46.7573081,
     "longitude": 15.3736022,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8443",
+    "city": "Gleinstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pinter",
     "retailer": "pinter",
     "shop": "florist",
     "latitude": 46.7574286,
-    "longitude": 15.3742501
+    "longitude": 15.3742501,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "SKF Küchen Gmbh",
     "retailer": "skf_kuchen_gmbh",
     "shop": "kitchen",
     "latitude": 46.7573602,
-    "longitude": 15.3737114
+    "longitude": 15.3737114,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -34,21 +46,32 @@
     "shop": "supermarket",
     "latitude": 46.7572648,
     "longitude": 15.3722364,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8443",
+    "city": "Gleinstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tooly",
     "retailer": "tooly",
     "shop": "doityourself",
     "latitude": 46.7575232,
-    "longitude": 15.3743833
+    "longitude": 15.3743833,
+    "postcode": "8443",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Uhren Laber",
     "retailer": "uhren_laber",
     "shop": "jewelry",
     "latitude": 46.7573372,
-    "longitude": 15.3738324
+    "longitude": 15.3738324,
+    "postcode": "8443",
+    "city": "Gleinstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Škoda Temmel",
@@ -56,6 +79,10 @@
     "shop": "car",
     "latitude": 46.7578995,
     "longitude": 15.3752386,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "postcode": "8443",
+    "city": "Gleinstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

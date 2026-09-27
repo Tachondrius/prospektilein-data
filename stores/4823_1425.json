@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.2331189,
     "longitude": 14.2509394,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -13,28 +17,40 @@
     "shop": "chemist",
     "latitude": 48.2333384,
     "longitude": 14.250727,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen & mehr",
     "retailer": "blumen_und_mehr",
     "shop": "florist",
     "latitude": 48.2374353,
-    "longitude": 14.2542318
+    "longitude": 14.2542318,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen Schürer",
     "retailer": "blumen_schurer",
     "shop": "florist",
     "latitude": 48.2334653,
-    "longitude": 14.2506038
+    "longitude": 14.2506038,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haircutters",
     "retailer": "haircutters",
     "shop": "hairdresser",
     "latitude": 48.2326201,
-    "longitude": 14.2506066
+    "longitude": 14.2506066,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -42,7 +58,9 @@
     "shop": "clothes",
     "latitude": 48.232819,
     "longitude": 14.2504209,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "PENNY",
@@ -50,6 +68,8 @@
     "shop": "supermarket",
     "latitude": 48.2330832,
     "longitude": 14.2501509,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

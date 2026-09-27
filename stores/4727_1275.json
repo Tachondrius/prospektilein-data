@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 47.2731092,
     "longitude": 12.7576208,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "BMW Unterberger",
@@ -13,63 +15,89 @@
     "shop": "car",
     "latitude": 47.2766329,
     "longitude": 12.7570823,
-    "brand": "BMW"
+    "brand": "BMW",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bründl Sports",
     "retailer": "brundl_sports",
     "shop": "sports",
     "latitude": 47.2735828,
-    "longitude": 12.7570502
+    "longitude": 12.7570502,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bründl Sports Bikeworld",
     "retailer": "brundl_sports_bikeworld",
     "shop": "bicycle",
     "latitude": 47.270662,
-    "longitude": 12.7572955
+    "longitude": 12.7572955,
+    "postcode": "5710",
+    "city": "Kaprun",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bründl Sports Flagshipstore",
     "retailer": "brundl_sports_flagshipstore",
     "shop": "sports",
     "latitude": 47.2707715,
-    "longitude": 12.7568007
+    "longitude": 12.7568007,
+    "postcode": "5710",
+    "city": "Kaprun",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bründl Sports Kaprun Outlet",
     "retailer": "brundl_sports_kaprun_outlet",
     "shop": "sports",
     "latitude": 47.2730983,
-    "longitude": 12.7592366
+    "longitude": 12.7592366,
+    "postcode": "5710",
+    "city": "Kaprun",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bründl Sports Outdoor",
     "retailer": "brundl_sports_outdoor",
     "shop": "outdoor",
     "latitude": 47.2704499,
-    "longitude": 12.7570173
+    "longitude": 12.7570173,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 47.2731915,
-    "longitude": 12.7577693
+    "longitude": 12.7577693,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gugglberger",
     "retailer": "gugglberger",
     "shop": "bakery",
     "latitude": 47.2706038,
-    "longitude": 12.7580502
+    "longitude": 12.7580502,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gugglberger",
     "retailer": "gugglberger",
     "shop": "bakery",
     "latitude": 47.2731386,
-    "longitude": 12.7584219
+    "longitude": 12.7584219,
+    "postcode": "5710",
+    "city": "Kaprun",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hervis",
@@ -77,35 +105,45 @@
     "shop": "sports",
     "latitude": 47.2731363,
     "longitude": 12.7580217,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Moreau",
     "retailer": "moreau",
     "shop": "sports",
     "latitude": 47.2719355,
-    "longitude": 12.7586098
+    "longitude": 12.7586098,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Neumair",
     "retailer": "neumair",
     "shop": "doityourself",
     "latitude": 47.2730663,
-    "longitude": 12.7579392
+    "longitude": 12.7579392,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Outlet by Moreau",
     "retailer": "outlet_by_moreau",
     "shop": "clothes",
     "latitude": 47.2727044,
-    "longitude": 12.7594829
+    "longitude": 12.7594829,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pure Style",
     "retailer": "pure_style",
     "shop": "hairdresser",
     "latitude": 47.2731606,
-    "longitude": 12.757893
+    "longitude": 12.757893,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "sehen!wutscher",
@@ -113,14 +151,22 @@
     "shop": "optician",
     "latitude": 47.2707442,
     "longitude": 12.7581819,
-    "brand": "sehen!wutscher"
+    "brand": "sehen!wutscher",
+    "postcode": "5710",
+    "city": "Kaprun",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spitzensache",
     "retailer": "spitzensache",
     "shop": "clothes",
     "latitude": 47.2718216,
-    "longitude": 12.758794
+    "longitude": 12.758794,
+    "postcode": "5710",
+    "city": "Kaprun",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000",
@@ -128,6 +174,10 @@
     "shop": "sports",
     "latitude": 47.273299,
     "longitude": 12.7586568,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "5710",
+    "city": "Kaprun",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

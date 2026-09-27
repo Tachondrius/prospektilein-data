@@ -4,27 +4,38 @@
     "retailer": "autohaus_pfisterer",
     "shop": "car_repair",
     "latitude": 47.5559712,
-    "longitude": 12.155333
+    "longitude": 12.155333,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Radsport Schuler",
     "retailer": "radsport_schuler",
     "shop": "bicycle",
     "latitude": 47.5557773,
-    "longitude": 12.1547846
+    "longitude": 12.1547846,
+    "postcode": "6334",
+    "city": "Schwoich",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Variety Store",
     "retailer": "shop_variety_store",
     "shop": "variety_store",
     "latitude": 47.556276,
-    "longitude": 12.1554821
+    "longitude": 12.1554821,
+    "city": "Schwoich",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Variety Store",
     "retailer": "shop_variety_store",
     "shop": "variety_store",
     "latitude": 47.5563101,
-    "longitude": 12.1562905
+    "longitude": 12.1562905,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

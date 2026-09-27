@@ -4,7 +4,9 @@
     "retailer": "adesso",
     "shop": "clothes",
     "latitude": 47.3914784,
-    "longitude": 11.773569
+    "longitude": 11.773569,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,28 +14,40 @@
     "shop": "bakery",
     "latitude": 47.3917795,
     "longitude": 11.7773996,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bastelecke Brigitte",
     "retailer": "bastelecke_brigitte",
     "shop": "doityourself",
     "latitude": 47.3908639,
-    "longitude": 11.7734335
+    "longitude": 11.7734335,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bestattung Dander",
     "retailer": "bestattung_dander",
     "shop": "funeral_directors",
     "latitude": 47.3909626,
-    "longitude": 11.7762814
+    "longitude": 11.7762814,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bio Bauernladen Jenbach",
     "retailer": "bio_bauernladen_jenbach",
     "shop": "convenience",
     "latitude": 47.3908977,
-    "longitude": 11.7731952
+    "longitude": 11.7731952,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -41,98 +55,138 @@
     "shop": "chemist",
     "latitude": 47.3905967,
     "longitude": 11.7718131,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Romih",
     "retailer": "blumen_romih",
     "shop": "florist",
     "latitude": 47.3929352,
-    "longitude": 11.7756815
+    "longitude": 11.7756815,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumenladen Fliri",
     "retailer": "blumenladen_fliri",
     "shop": "florist",
     "latitude": 47.3913361,
-    "longitude": 11.7729747
+    "longitude": 11.7729747,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Boutique Traudi",
     "retailer": "boutique_traudi",
     "shop": "clothes",
     "latitude": 47.3917648,
-    "longitude": 11.7735117
+    "longitude": 11.7735117,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Buchhandlung Schreibwaren Scheller",
     "retailer": "buchhandlung_schreibwaren_scheller",
     "shop": "books",
     "latitude": 47.3904888,
-    "longitude": 11.77351
+    "longitude": 11.77351,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Kapeller",
     "retailer": "backerei_kapeller",
     "shop": "bakery",
     "latitude": 47.3904021,
-    "longitude": 11.7739852
+    "longitude": 11.7739852,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Coiffeur Team Hohenauer",
     "retailer": "coiffeur_team_hohenauer",
     "shop": "hairdresser",
     "latitude": 47.3909529,
-    "longitude": 11.7731706
+    "longitude": 11.7731706,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Diadoro",
     "retailer": "diadoro",
     "shop": "jewelry",
     "latitude": 47.3915725,
-    "longitude": 11.7737263
+    "longitude": 11.7737263,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro-TV-Computer Schwaiger",
     "retailer": "elektro_tv_computer_schwaiger",
     "shop": "radiotechnics",
     "latitude": 47.3928382,
-    "longitude": 11.7721697
+    "longitude": 11.7721697,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.3929324,
-    "longitude": 11.7795482
+    "longitude": 11.7795482,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseur Treidl",
     "retailer": "friseur_treidl",
     "shop": "hairdresser",
     "latitude": 47.3919769,
-    "longitude": 11.7724963
+    "longitude": 11.7724963,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Golden Style",
     "retailer": "golden_style",
     "shop": "hairdresser",
     "latitude": 47.3915973,
-    "longitude": 11.7731795
+    "longitude": 11.7731795,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Handytime",
     "retailer": "handytime",
     "shop": "mobile_phone",
     "latitude": 47.3908308,
-    "longitude": 11.7732161
+    "longitude": 11.7732161,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Herrnfrisör Perfler",
     "retailer": "herrnfrisor_perfler",
     "shop": "hairdresser",
     "latitude": 47.3910274,
-    "longitude": 11.7733798
+    "longitude": 11.7733798,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Libro",
@@ -140,28 +194,40 @@
     "shop": "books",
     "latitude": 47.3907223,
     "longitude": 11.7732591,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Magdy's Tobacco Shop",
     "retailer": "magdy_s_tobacco_shop",
     "shop": "tobacco",
     "latitude": 47.3905082,
-    "longitude": 11.773318
+    "longitude": 11.773318,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Maßmoden Mauracher",
     "retailer": "mamoden_mauracher",
     "shop": "tailor",
     "latitude": 47.3981616,
-    "longitude": 11.7726264
+    "longitude": 11.7726264,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mobile Lines",
     "retailer": "mobile_lines",
     "shop": "mobile_phone",
     "latitude": 47.3909911,
-    "longitude": 11.7720585
+    "longitude": 11.7720585,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -169,14 +235,18 @@
     "shop": "supermarket",
     "latitude": 47.3917929,
     "longitude": 11.7776129,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Naturheilpraxis Komploier",
     "retailer": "naturheilpraxis_komploier",
     "shop": "massage",
     "latitude": 47.3978572,
-    "longitude": 11.7764687
+    "longitude": 11.7764687,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -184,28 +254,42 @@
     "shop": "clothes",
     "latitude": 47.3905779,
     "longitude": 11.7725694,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Obholzer",
     "retailer": "obholzer",
     "shop": "electrical",
     "latitude": 47.3919953,
-    "longitude": 11.773058
+    "longitude": 11.773058,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Optik Kreutner",
     "retailer": "optik_kreutner",
     "shop": "optician",
     "latitude": 47.3904033,
-    "longitude": 11.7732694
+    "longitude": 11.7732694,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sonnenstudio",
     "retailer": "sonnenstudio",
     "shop": "beauty",
     "latitude": 47.3920672,
-    "longitude": 11.7724761
+    "longitude": 11.7724761,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -213,55 +297,81 @@
     "shop": "supermarket",
     "latitude": 47.3904296,
     "longitude": 11.7721832,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Special Style",
     "retailer": "special_style",
     "shop": "hairdresser",
     "latitude": 47.3913017,
-    "longitude": 11.7732588
+    "longitude": 11.7732588,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "SpielRadl",
     "retailer": "spielradl",
     "shop": "bicycle",
     "latitude": 47.3956195,
-    "longitude": 11.7745418
+    "longitude": 11.7745418,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Stoff & Wollboutique Götz",
     "retailer": "stoff_und_wollboutique_gotz",
     "shop": "clothes",
     "latitude": 47.3922024,
-    "longitude": 11.7727555
+    "longitude": 11.7727555,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T&G",
     "retailer": "t_und_g",
     "shop": "beverages",
     "latitude": 47.3951891,
-    "longitude": 11.7717151
+    "longitude": 11.7717151,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tauber Optik Jenbach GmbH",
     "retailer": "tauber_optik_jenbach_gmbh",
     "shop": "optician",
     "latitude": 47.3916725,
-    "longitude": 11.7745731
+    "longitude": 11.7745731,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Celik / GLS Paketshop",
     "retailer": "trafik_celik_gls_paketshop",
     "shop": "kiosk",
     "latitude": 47.3919558,
-    "longitude": 11.7758814
+    "longitude": 11.7758814,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wams - second hand first class",
     "retailer": "wams_second_hand_first_class",
     "shop": "second_hand",
     "latitude": 47.3916985,
-    "longitude": 11.773628
+    "longitude": 11.773628,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

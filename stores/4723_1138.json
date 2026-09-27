@@ -5,14 +5,18 @@
     "shop": "bakery",
     "latitude": 47.2302415,
     "longitude": 11.3816174,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fleisch Mayr",
     "retailer": "fleisch_mayr",
     "shop": "butcher",
     "latitude": 47.2391799,
-    "longitude": 11.3895673
+    "longitude": 11.3895673,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -20,6 +24,10 @@
     "shop": "supermarket",
     "latitude": 47.2301775,
     "longitude": 11.3813532,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6162",
+    "city": "Mutters",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

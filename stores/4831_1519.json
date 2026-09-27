@@ -4,27 +4,41 @@
     "retailer": "pfeiffer_edeltraud",
     "shop": "stationery",
     "latitude": 48.3170567,
-    "longitude": 15.198805
+    "longitude": 15.198805,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Raiffeisen Lagerhaus",
     "retailer": "raiffeisen_lagerhaus",
     "shop": "mall",
     "latitude": 48.3145315,
-    "longitude": 15.1993682
+    "longitude": 15.1993682,
+    "postcode": "3650",
+    "city": "Pöggstall",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Siedl Harald",
     "retailer": "siedl_harald",
     "shop": "hardware",
     "latitude": 48.3161045,
-    "longitude": 15.1999644
+    "longitude": 15.1999644,
+    "postcode": "3650",
+    "city": "Pöggstall",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stationery",
     "retailer": "shop_stationery",
     "shop": "stationery",
     "latitude": 48.3163565,
-    "longitude": 15.1954404
+    "longitude": 15.1954404,
+    "postcode": "3650",
+    "city": "Pöggstall",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

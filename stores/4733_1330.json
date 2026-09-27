@@ -4,14 +4,22 @@
     "retailer": "autohaus_emberger",
     "shop": "car_repair",
     "latitude": 47.3346174,
-    "longitude": 13.3097259
+    "longitude": 13.3097259,
+    "postcode": "5602",
+    "city": "Wagrain",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "JJ Biking",
     "retailer": "jj_biking",
     "shop": "rental",
     "latitude": 47.3344779,
-    "longitude": 13.3082409
+    "longitude": 13.3082409,
+    "postcode": "5602",
+    "city": "Wagrain",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lagerhaus",
@@ -19,21 +27,31 @@
     "shop": "houseware",
     "latitude": 47.3356455,
     "longitude": 13.3016899,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "5602",
+    "city": "Wagrain",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Rent Ski's",
     "retailer": "rent_ski_s",
     "shop": "sports",
     "latitude": 47.3317189,
-    "longitude": 13.3071153
+    "longitude": 13.3071153,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Ski- und Snowboardverleih Wagrain",
     "retailer": "ski_und_snowboardverleih_wagrain",
     "shop": "ski",
     "latitude": 47.3337881,
-    "longitude": 13.3078822
+    "longitude": 13.3078822,
+    "postcode": "5602",
+    "city": "Wagrain",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -41,6 +59,10 @@
     "shop": "supermarket",
     "latitude": 47.3329539,
     "longitude": 13.3001924,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5602",
+    "city": "Wagrain",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

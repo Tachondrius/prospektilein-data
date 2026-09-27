@@ -4,7 +4,11 @@
     "retailer": "ago_einrichtung_gmbh",
     "shop": "furniture",
     "latitude": 47.1112149,
-    "longitude": 15.7051398
+    "longitude": 15.7051398,
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Gleisdorf",
@@ -12,7 +16,11 @@
     "shop": "car",
     "latitude": 47.1115481,
     "longitude": 15.7058791,
-    "brand": "Volkswagen;Skoda"
+    "brand": "Volkswagen;Skoda",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa stop & shop",
@@ -20,7 +28,11 @@
     "shop": "convenience",
     "latitude": 47.1118302,
     "longitude": 15.7042277,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Forstinger",
@@ -28,14 +40,20 @@
     "shop": "car_repair",
     "latitude": 47.1118885,
     "longitude": 15.7071299,
-    "brand": "Forstinger"
+    "brand": "Forstinger",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ-Technik Gerhard Lechner",
     "retailer": "kfz_technik_gerhard_lechner",
     "shop": "car_repair",
     "latitude": 47.1110354,
-    "longitude": 15.7043915
+    "longitude": 15.7043915,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -43,7 +61,11 @@
     "shop": "supermarket",
     "latitude": 47.112124,
     "longitude": 15.7082858,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "XXXLutz",
@@ -51,6 +73,10 @@
     "shop": "furniture",
     "latitude": 47.1109475,
     "longitude": 15.7066953,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "8200",
+    "city": "Gleisdorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

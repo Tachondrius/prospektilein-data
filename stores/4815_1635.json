@@ -5,20 +5,32 @@
     "shop": "bakery",
     "latitude": 48.1558577,
     "longitude": 16.3556951,
-    "brand": "Anker"
+    "brand": "Anker",
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Dekowien.at",
     "retailer": "dekowien_at",
     "shop": "wedding",
     "latitude": 48.1561358,
-    "longitude": 16.3547463
+    "longitude": 16.3547463,
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik Kerrutt e.U.",
     "retailer": "trafik_kerrutt_e_u",
     "shop": "tobacco",
     "latitude": 48.1559098,
-    "longitude": 16.3552881
+    "longitude": 16.3552881,
+    "postcode": "1100",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

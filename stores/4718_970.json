@@ -5,28 +5,38 @@
     "shop": "supermarket",
     "latitude": 47.1867452,
     "longitude": 9.7095644,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "6710",
+    "city": "Nenzing",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Alles Billig",
     "retailer": "alles_billig",
     "shop": "variety_store",
     "latitude": 47.18415,
-    "longitude": 9.703639
+    "longitude": 9.703639,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Anton Gantner Lebensmittel",
     "retailer": "anton_gantner_lebensmittel",
     "shop": "convenience",
     "latitude": 47.1838722,
-    "longitude": 9.7046144
+    "longitude": 9.7046144,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Autohaus Unterberger",
     "retailer": "autohaus_unterberger",
     "shop": "car",
     "latitude": 47.187812,
-    "longitude": 9.7066216
+    "longitude": 9.7066216,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Autohaus Unterberger",
@@ -34,28 +44,42 @@
     "shop": "car",
     "latitude": 47.1881672,
     "longitude": 9.706655,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "6710",
+    "city": "Nenzing",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Bäckerei Münsch",
     "retailer": "backerei_munsch",
     "shop": "bakery",
     "latitude": 47.1842606,
-    "longitude": 9.7027408
+    "longitude": 9.7027408,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Feinbäckerei/Konditorei Hosp",
     "retailer": "feinbackerei_konditorei_hosp",
     "shop": "bakery",
     "latitude": 47.1882457,
-    "longitude": 9.7061004
+    "longitude": 9.7061004,
+    "postcode": "6710",
+    "city": "Nenzing",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Gänseblume",
     "retailer": "ganseblume",
     "shop": "florist",
     "latitude": 47.1844454,
-    "longitude": 9.7050688
+    "longitude": 9.7050688,
+    "postcode": "6710",
+    "city": "Nenzing",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "KiK",
@@ -63,14 +87,20 @@
     "shop": "clothes",
     "latitude": 47.1870456,
     "longitude": 9.7084632,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mangold",
     "retailer": "mangold",
     "shop": "bakery",
     "latitude": 47.1872474,
-    "longitude": 9.7087882
+    "longitude": 9.7087882,
+    "postcode": "6710",
+    "city": "Nenzing",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "OMV Tankstelle",
@@ -78,7 +108,11 @@
     "shop": "convenience",
     "latitude": 47.1890575,
     "longitude": 9.7017359,
-    "brand": "OMV"
+    "brand": "OMV",
+    "postcode": "6710",
+    "city": "Nenzing",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -86,13 +120,21 @@
     "shop": "supermarket",
     "latitude": 47.187673,
     "longitude": 9.7096023,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6710",
+    "city": "Nenzing",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Weine Oskar Ammann",
     "retailer": "weine_oskar_ammann",
     "shop": "alcohol",
     "latitude": 47.1878641,
-    "longitude": 9.7080292
+    "longitude": 9.7080292,
+    "postcode": "6710",
+    "city": "Nenzing",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

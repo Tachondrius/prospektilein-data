@@ -4,7 +4,11 @@
     "retailer": "autohaus_sieger",
     "shop": "car",
     "latitude": 48.1603662,
-    "longitude": 16.4323123
+    "longitude": 16.4323123,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,14 +16,18 @@
     "shop": "supermarket",
     "latitude": 48.1659623,
     "longitude": 16.4309855,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 48.1641752,
-    "longitude": 16.437625
+    "longitude": 16.437625,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -27,14 +35,22 @@
     "shop": "supermarket",
     "latitude": 48.1670834,
     "longitude": 16.4309737,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kilim&Stilev Möbel",
     "retailer": "kilim_und_stilev_mobel",
     "shop": "furniture",
     "latitude": 48.1613052,
-    "longitude": 16.4313209
+    "longitude": 16.4313209,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lidl",
@@ -42,7 +58,9 @@
     "shop": "supermarket",
     "latitude": 48.1663784,
     "longitude": 16.4300481,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "MCV Motors",
@@ -50,13 +68,19 @@
     "shop": "car",
     "latitude": 48.1617818,
     "longitude": 16.4305776,
-    "brand": "Ford;Nissan"
+    "brand": "Ford;Nissan",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik Graf",
     "retailer": "tabak_trafik_graf",
     "shop": "kiosk",
     "latitude": 48.1648423,
-    "longitude": 16.431947
+    "longitude": 16.431947,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

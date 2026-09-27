@@ -5,20 +5,32 @@
     "shop": "supermarket",
     "latitude": 48.5038366,
     "longitude": 16.674293,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "2224",
+    "city": "Sulz im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Anger Marion - Friseur",
     "retailer": "anger_marion_friseur",
     "shop": "hairdresser",
     "latitude": 48.5029109,
-    "longitude": 16.675349
+    "longitude": 16.675349,
+    "postcode": "2224",
+    "city": "Sulz im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Boyerei - René Boyer",
     "retailer": "boyerei_rene_boyer",
     "shop": "farm",
     "latitude": 48.5028912,
-    "longitude": 16.6714119
+    "longitude": 16.6714119,
+    "postcode": "2224",
+    "city": "Sulz im Weinviertel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

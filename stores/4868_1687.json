@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.6885851,
     "longitude": 16.874055,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "2275",
+    "city": "Bernhardsthal",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -13,6 +17,10 @@
     "shop": "doityourself",
     "latitude": 48.688275,
     "longitude": 16.8744974,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2275",
+    "city": "Bernhardsthal",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

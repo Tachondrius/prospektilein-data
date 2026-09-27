@@ -5,14 +5,20 @@
     "shop": "bakery",
     "latitude": 47.1507203,
     "longitude": 11.3536649,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6166",
+    "city": "Fulpmes",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bienenliebe Honigbox",
     "retailer": "bienenliebe_honigbox",
     "shop": "convenience",
     "latitude": 47.159245,
-    "longitude": 11.3568116
+    "longitude": 11.3568116,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -20,21 +26,33 @@
     "shop": "chemist",
     "latitude": 47.1508533,
     "longitude": 11.3532882,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6166",
+    "city": "Fulpmes",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bäckerei Premm",
     "retailer": "backerei_premm",
     "shop": "bakery",
     "latitude": 47.153125,
-    "longitude": 11.3505841
+    "longitude": 11.3505841,
+    "postcode": "6166",
+    "city": "Fulpmes",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Imkerei Bauer",
     "retailer": "imkerei_bauer",
     "shop": "supermarket",
     "latitude": 47.1517616,
-    "longitude": 11.350493
+    "longitude": 11.350493,
+    "postcode": "6166",
+    "city": "Fulpmes",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -42,13 +60,21 @@
     "shop": "supermarket",
     "latitude": 47.1507634,
     "longitude": 11.3535642,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6166",
+    "city": "Fulpmes",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Stubai",
     "retailer": "stubai",
     "shop": "hardware",
     "latitude": 47.1534748,
-    "longitude": 11.3514971
+    "longitude": 11.3514971,
+    "postcode": "6166",
+    "city": "Fulpmes",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.348055,
     "longitude": 15.6909647,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "8190",
+    "city": "Birkfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -13,7 +17,11 @@
     "shop": "chemist",
     "latitude": 47.3479553,
     "longitude": 15.6920511,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8190",
+    "city": "Birkfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hagebaumarkt",
@@ -21,20 +29,31 @@
     "shop": "doityourself",
     "latitude": 47.3488198,
     "longitude": 15.6903683,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "postcode": "8190",
+    "city": "Birkfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Joglereck Birkfeld",
     "retailer": "joglereck_birkfeld",
     "shop": "convenience",
     "latitude": 47.3478127,
-    "longitude": 15.6921383
+    "longitude": 15.6921383,
+    "postcode": "8190",
+    "city": "Birkfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Technik Center Rosel",
     "retailer": "technik_center_rosel",
     "shop": "electrical",
     "latitude": 47.3473602,
-    "longitude": 15.6921103
+    "longitude": 15.6921103,
+    "postcode": "8190",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,28 +4,38 @@
     "retailer": "alois_ebenberger",
     "shop": "jewelry",
     "latitude": 46.7141064,
-    "longitude": 13.2943763
+    "longitude": 13.2943763,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Alpensports",
     "retailer": "alpensports",
     "shop": "bicycle",
     "latitude": 46.7166711,
-    "longitude": 13.2948539
+    "longitude": 13.2948539,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "an der Brücke",
     "retailer": "an_der_brucke",
     "shop": "clothes",
     "latitude": 46.7141051,
-    "longitude": 13.2944709
+    "longitude": 13.2944709,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "berg.frisur | Natur | Friseur | Weißensee |",
     "retailer": "berg_frisur_natur_friseur_weiensee",
     "shop": "hairdresser",
     "latitude": 46.7169524,
-    "longitude": 13.2955923
+    "longitude": 13.2955923,
+    "postcode": "9762",
+    "city": "Techendorf Weißensee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Intersport",
@@ -33,14 +43,18 @@
     "shop": "sports",
     "latitude": 46.7172405,
     "longitude": 13.294309,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Monis Eck",
     "retailer": "monis_eck",
     "shop": "kiosk",
     "latitude": 46.7147034,
-    "longitude": 13.2942167
+    "longitude": 13.2942167,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -48,13 +62,19 @@
     "shop": "supermarket",
     "latitude": 46.7171887,
     "longitude": 13.2946717,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9762",
+    "city": "Weissensee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 46.7178012,
-    "longitude": 13.2915483
+    "longitude": 13.2915483,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

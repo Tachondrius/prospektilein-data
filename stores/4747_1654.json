@@ -4,27 +4,37 @@
     "retailer": "adeg",
     "shop": "supermarket",
     "latitude": 47.4747062,
-    "longitude": 16.542516
+    "longitude": 16.542516,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Direktvermarktung Zoncsich",
     "retailer": "direktvermarktung_zoncsich",
     "shop": "butcher",
     "latitude": 47.4741384,
-    "longitude": 16.5435494
+    "longitude": 16.5435494,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Fußpflegepraxis Unterpullendorf",
     "retailer": "fupflegepraxis_unterpullendorf",
     "shop": "beauty",
     "latitude": 47.4799774,
-    "longitude": 16.5437613
+    "longitude": 16.5437613,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Kosmetikstudio Alexandra",
     "retailer": "kosmetikstudio_alexandra",
     "shop": "beauty",
     "latitude": 47.4758026,
-    "longitude": 16.5407129
+    "longitude": 16.5407129,
+    "postcode": "7452",
+    "city": "Frankenau-Unterpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

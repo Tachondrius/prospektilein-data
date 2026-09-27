@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 47.8334747,
     "longitude": 16.4614105,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7052",
+    "city": "Müllendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 47.8362917,
-    "longitude": 16.4656091
+    "longitude": 16.4656091,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Eurospar",
@@ -20,6 +26,10 @@
     "shop": "supermarket",
     "latitude": 47.835093,
     "longitude": 16.4692009,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7051",
+    "city": "Großhöflein",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

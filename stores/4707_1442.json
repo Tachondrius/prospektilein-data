@@ -4,21 +4,31 @@
     "retailer": "arbo",
     "shop": "car_repair",
     "latitude": 47.070649,
-    "longitude": 14.42801
+    "longitude": 14.42801,
+    "postcode": "8820",
+    "city": "Neumarkt in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Radauer",
     "retailer": "autohaus_radauer",
     "shop": "car",
     "latitude": 47.0794601,
-    "longitude": 14.4241503
+    "longitude": 14.4241503,
+    "postcode": "8820",
+    "city": "Neumarkt in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Barbershop",
     "retailer": "barbershop",
     "shop": "beauty",
     "latitude": 47.0740686,
-    "longitude": 14.4258917
+    "longitude": 14.4258917,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -26,91 +36,128 @@
     "shop": "supermarket",
     "latitude": 47.0791654,
     "longitude": 14.4253943,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8820",
+    "city": "Neumarkt in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Chic Mode+Tracht",
     "retailer": "chic_mode_plus_tracht",
     "shop": "clothes",
     "latitude": 47.0723649,
-    "longitude": 14.4260624
+    "longitude": 14.4260624,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Coiffeur Roman Wagner",
     "retailer": "coiffeur_roman_wagner",
     "shop": "hairdresser",
     "latitude": 47.0742154,
-    "longitude": 14.4258557
+    "longitude": 14.4258557,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Einrichtungsagentur Edlinger",
     "retailer": "einrichtungsagentur_edlinger",
     "shop": "interior_decoration",
     "latitude": 47.0770823,
-    "longitude": 14.4249869
+    "longitude": 14.4249869,
+    "postcode": "8820",
+    "city": "Neumarkt in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Foto Weiss",
     "retailer": "foto_weiss",
     "shop": "photo",
     "latitude": 47.0733008,
-    "longitude": 14.4248686
+    "longitude": 14.4248686,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisuren Kuss",
     "retailer": "frisuren_kuss",
     "shop": "hairdresser",
     "latitude": 47.0728972,
-    "longitude": 14.4271533
+    "longitude": 14.4271533,
+    "postcode": "8820",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frisör Strubbelpetra",
     "retailer": "frisor_strubbelpetra",
     "shop": "hairdresser",
     "latitude": 47.0723979,
-    "longitude": 14.4268688
+    "longitude": 14.4268688,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hoamat-Laden",
     "retailer": "hoamat_laden",
     "shop": "gift",
     "latitude": 47.0740405,
-    "longitude": 14.4254714
+    "longitude": 14.4254714,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofstätter Touristik",
     "retailer": "hofstatter_touristik",
     "shop": "travel_agency",
     "latitude": 47.0734046,
-    "longitude": 14.4261796
+    "longitude": 14.4261796,
+    "postcode": "8820",
+    "city": "Neumarkt in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Holler",
     "retailer": "holler",
     "shop": "mobile_phone",
     "latitude": 47.0734561,
-    "longitude": 14.4261755
+    "longitude": 14.4261755,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kreativ Oase",
     "retailer": "kreativ_oase",
     "shop": "gift",
     "latitude": 47.0732694,
-    "longitude": 14.4262303
+    "longitude": 14.4262303,
+    "postcode": "8820",
+    "city": "Neumarkt in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lieskonig",
     "retailer": "lieskonig",
     "shop": "car_repair",
     "latitude": 47.0746312,
-    "longitude": 14.4252084
+    "longitude": 14.4252084,
+    "postcode": "8820",
+    "city": "Neumarkt in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Neumarkter Blumenecke",
     "retailer": "neumarkter_blumenecke",
     "shop": "florist",
     "latitude": 47.072457,
-    "longitude": 14.4259535
+    "longitude": 14.4259535,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -118,35 +165,49 @@
     "shop": "clothes",
     "latitude": 47.0721117,
     "longitude": 14.4269863,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Red Zac",
     "retailer": "red_zac",
     "shop": "electronics",
     "latitude": 47.0721836,
-    "longitude": 14.4269521
+    "longitude": 14.4269521,
+    "postcode": "8820",
+    "city": "Neumarkt in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schloss Hosen",
     "retailer": "schloss_hosen",
     "shop": "clothes",
     "latitude": 47.0723156,
-    "longitude": 14.4260892
+    "longitude": 14.4260892,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Silke's Beautysalon",
     "retailer": "silke_s_beautysalon",
     "shop": "beauty",
     "latitude": 47.0749144,
-    "longitude": 14.4255947
+    "longitude": 14.4255947,
+    "postcode": "8820",
+    "city": "Neumarkt in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sitzmann GesmbH",
     "retailer": "sitzmann_gesmbh",
     "shop": "jewelry",
     "latitude": 47.0722654,
-    "longitude": 14.4261174
+    "longitude": 14.4261174,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -154,62 +215,84 @@
     "shop": "supermarket",
     "latitude": 47.0787292,
     "longitude": 14.4239373,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8820",
+    "city": "Neumarkt in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sport und Spiel Schöffmann",
     "retailer": "sport_und_spiel_schoffmann",
     "shop": "toys;sports",
     "latitude": 47.0735988,
-    "longitude": 14.4261053
+    "longitude": 14.4261053,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sports",
     "retailer": "shop_sports",
     "shop": "sports",
     "latitude": 47.078669,
-    "longitude": 14.4255482
+    "longitude": 14.4255482,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Karner",
     "retailer": "trafik_karner",
     "shop": "kiosk",
     "latitude": 47.0718078,
-    "longitude": 14.4265421
+    "longitude": 14.4265421,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik Suppan",
     "retailer": "trafik_suppan",
     "shop": "kiosk",
     "latitude": 47.0733308,
-    "longitude": 14.4262113
+    "longitude": 14.4262113,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vinzenz Zwick GesmbH",
     "retailer": "vinzenz_zwick_gesmbh",
     "shop": "hardware",
     "latitude": 47.0731496,
-    "longitude": 14.4257288
+    "longitude": 14.4257288,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "VMEG",
     "retailer": "vmeg",
     "shop": "copyshop",
     "latitude": 47.0743146,
-    "longitude": 14.4258465
+    "longitude": 14.4258465,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wohnstudio Krenn",
     "retailer": "wohnstudio_krenn",
     "shop": "furniture",
     "latitude": 47.0712207,
-    "longitude": 14.4271061
+    "longitude": 14.4271061,
+    "postcode": "8820",
+    "city": "Neumarkt in der Steiermark",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zechner Schuhe & Taschen",
     "retailer": "zechner_schuhe_und_taschen",
     "shop": "shoes",
     "latitude": 47.0742367,
-    "longitude": 14.4254285
+    "longitude": 14.4254285,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

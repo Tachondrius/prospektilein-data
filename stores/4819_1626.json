@@ -5,7 +5,9 @@
     "shop": "bakery",
     "latitude": 48.1977388,
     "longitude": 16.2611468,
-    "brand": "Anker"
+    "brand": "Anker",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -13,63 +15,85 @@
     "shop": "supermarket",
     "latitude": 48.1965856,
     "longitude": 16.2665315,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bäckerei Schwarz",
     "retailer": "backerei_schwarz",
     "shop": "bakery",
     "latitude": 48.194787,
-    "longitude": 16.260756
+    "longitude": 16.260756,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Digles",
     "retailer": "digles",
     "shop": "farm",
     "latitude": 48.1977462,
-    "longitude": 16.2611947
+    "longitude": 16.2611947,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Elekto Zeillinger",
     "retailer": "elekto_zeillinger",
     "shop": "electronics",
     "latitude": 48.1949359,
-    "longitude": 16.2619024
+    "longitude": 16.2619024,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Elsana Cosmetis",
     "retailer": "elsana_cosmetis",
     "shop": "cosmetics",
     "latitude": 48.1916061,
-    "longitude": 16.2690042
+    "longitude": 16.2690042,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fanshop",
     "retailer": "fanshop",
     "shop": "ticket",
     "latitude": 48.1970063,
-    "longitude": 16.2665067
+    "longitude": 16.2665067,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Fanshop SK Rapid",
     "retailer": "fanshop_sk_rapid",
     "shop": "clothes",
     "latitude": 48.1975927,
-    "longitude": 16.2647569
+    "longitude": 16.2647569,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Friseursalon Tina",
     "retailer": "friseursalon_tina",
     "shop": "hairdresser",
     "latitude": 48.19432,
-    "longitude": 16.2656735
+    "longitude": 16.2656735,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "KFZ Forstner",
     "retailer": "kfz_forstner",
     "shop": "car_repair",
     "latitude": 48.1910919,
-    "longitude": 16.2691938
+    "longitude": 16.2691938,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "KiK",
@@ -77,14 +101,20 @@
     "shop": "clothes",
     "latitude": 48.1969494,
     "longitude": 16.2653201,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.1976779,
-    "longitude": 16.2613675
+    "longitude": 16.2613675,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -92,7 +122,11 @@
     "shop": "supermarket",
     "latitude": 48.195102,
     "longitude": 16.261083,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ströck",
@@ -100,55 +134,71 @@
     "shop": "bakery",
     "latitude": 48.1968377,
     "longitude": 16.2611172,
-    "brand": "Ströck"
+    "brand": "Ströck",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Studio13",
     "retailer": "studio13",
     "shop": "hairdresser",
     "latitude": 48.1947821,
-    "longitude": 16.2624302
+    "longitude": 16.2624302,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tattoo",
     "retailer": "shop_tattoo",
     "shop": "tattoo",
     "latitude": 48.1977512,
-    "longitude": 16.2610641
+    "longitude": 16.2610641,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 48.1974356,
-    "longitude": 16.2648416
+    "longitude": 16.2648416,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 48.19856,
-    "longitude": 16.2673171
+    "longitude": 16.2673171,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 48.1994797,
-    "longitude": 16.2662516
+    "longitude": 16.2662516,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.1969281,
-    "longitude": 16.2606701
+    "longitude": 16.2606701,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "VIP-Tickets",
     "retailer": "vip_tickets",
     "shop": "ticket",
     "latitude": 48.1974946,
-    "longitude": 16.2645896
+    "longitude": 16.2645896,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

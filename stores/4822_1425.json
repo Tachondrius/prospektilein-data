@@ -4,20 +4,26 @@
     "retailer": "kfz_pum",
     "shop": "car",
     "latitude": 48.222587,
-    "longitude": 14.2503214
+    "longitude": 14.2503214,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.2265303,
-    "longitude": 14.2541894
+    "longitude": 14.2541894,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Raumausstattung Pohl",
     "retailer": "raumausstattung_pohl",
     "shop": "interior_decoration",
     "latitude": 48.2274762,
-    "longitude": 14.2550665
+    "longitude": 14.2550665,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

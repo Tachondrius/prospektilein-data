@@ -4,21 +4,31 @@
     "retailer": "schrollback",
     "shop": "bakery",
     "latitude": 47.2213893,
-    "longitude": 12.174805
+    "longitude": 12.174805,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schuhe und Sport Lachmayer",
     "retailer": "schuhe_und_sport_lachmayer",
     "shop": "shoes",
     "latitude": 47.221904,
-    "longitude": 12.1742728
+    "longitude": 12.1742728,
+    "postcode": "5743",
+    "city": "Krimml",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "garden_centre",
     "latitude": 47.2213304,
-    "longitude": 12.1752279
+    "longitude": 12.1752279,
+    "postcode": "5743",
+    "city": "Krimml",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000",
@@ -26,6 +36,8 @@
     "shop": "sports",
     "latitude": 47.2216157,
     "longitude": 12.174485,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

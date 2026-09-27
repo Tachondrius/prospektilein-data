@@ -4,7 +4,9 @@
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.1209637,
-    "longitude": 15.3342895
+    "longitude": 15.3342895,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.1227454,
     "longitude": 15.3301737,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8111",
+    "city": "Gratwein-Straßengel",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.359667,
     "longitude": 15.098614,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "s'Gösser Depot",
     "retailer": "s_gosser_depot",
     "shop": "beverages",
     "latitude": 47.3594795,
-    "longitude": 15.0930485
+    "longitude": 15.0930485,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,14 +4,22 @@
     "retailer": "balkan_backerei",
     "shop": "bakery",
     "latitude": 47.821326,
-    "longitude": 13.0154573
+    "longitude": 13.0154573,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hagentaler",
     "retailer": "hagentaler",
     "shop": "paint",
     "latitude": 47.8201055,
-    "longitude": 13.0164459
+    "longitude": 13.0164459,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Honda Obermair",
@@ -19,34 +27,50 @@
     "shop": "car",
     "latitude": 47.8215304,
     "longitude": 13.0150211,
-    "brand": "Honda"
+    "brand": "Honda",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KAINAUDIO",
     "retailer": "kainaudio",
     "shop": "hifi",
     "latitude": 47.8211687,
-    "longitude": 13.0160583
+    "longitude": 13.0160583,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mayer",
     "retailer": "mayer",
     "shop": "garden_centre",
     "latitude": 47.8216809,
-    "longitude": 13.0141764
+    "longitude": 13.0141764,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sanitär Heinze",
     "retailer": "sanitar_heinze",
     "shop": "bathroom_furnishing",
     "latitude": 47.8202833,
-    "longitude": 13.0162004
+    "longitude": 13.0162004,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Solus Sonnenschutztechnik",
     "retailer": "solus_sonnenschutztechnik",
     "shop": "window_blind",
     "latitude": 47.8212369,
-    "longitude": 13.0155299
+    "longitude": 13.0155299,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

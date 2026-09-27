@@ -4,7 +4,11 @@
     "retailer": "asm_auto_service_mariatrost",
     "shop": "car_repair",
     "latitude": 47.0953877,
-    "longitude": 15.4646355
+    "longitude": 15.4646355,
+    "postcode": "8043",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,20 +16,30 @@
     "shop": "supermarket",
     "latitude": 47.092188,
     "longitude": 15.46014,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8043",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kamaritsch Gartenbau Blumen",
     "retailer": "kamaritsch_gartenbau_blumen",
     "shop": "florist",
     "latitude": 47.0926141,
-    "longitude": 15.4622162
+    "longitude": 15.4622162,
+    "postcode": "8043",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.0954294,
-    "longitude": 15.4655736
+    "longitude": 15.4655736,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

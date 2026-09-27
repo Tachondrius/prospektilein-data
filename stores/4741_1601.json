@@ -5,20 +5,29 @@
     "shop": "supermarket",
     "latitude": 47.4154747,
     "longitude": 16.0196123,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "8241",
+    "city": "Dechantskirchen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur – Salon Kamm in",
     "retailer": "friseur_salon_kamm_in",
     "shop": "hairdresser",
     "latitude": 47.4159312,
-    "longitude": 16.0188106
+    "longitude": 16.0188106,
+    "postcode": "8241",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Szambor",
     "retailer": "szambor",
     "shop": "bakery",
     "latitude": 47.416845,
-    "longitude": 16.019731
+    "longitude": 16.019731,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

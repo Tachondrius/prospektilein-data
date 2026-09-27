@@ -4,14 +4,20 @@
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.7145648,
-    "longitude": 16.3759866
+    "longitude": 16.3759866,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Denner GmbH",
     "retailer": "denner_gmbh",
     "shop": "computer",
     "latitude": 48.7140437,
-    "longitude": 16.3738233
+    "longitude": 16.3738233,
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -19,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 48.7134733,
     "longitude": 16.3740722,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -27,7 +37,11 @@
     "shop": "supermarket",
     "latitude": 48.7130329,
     "longitude": 16.3710717,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ing. Christian und Georg Kraft GmbH",
@@ -35,7 +49,11 @@
     "shop": "car",
     "latitude": 48.714835,
     "longitude": 16.3796505,
-    "brand": "VW, Audi, Seat, Skoda"
+    "brand": "VW, Audi, Seat, Skoda",
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -43,7 +61,11 @@
     "shop": "clothes",
     "latitude": 48.7122623,
     "longitude": 16.3717009,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -51,14 +73,22 @@
     "shop": "supermarket",
     "latitude": 48.7125413,
     "longitude": 16.3725922,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Meat&Eat Fleisch Öller",
     "retailer": "meat_und_eat_fleisch_oller",
     "shop": "butcher",
     "latitude": 48.7114221,
-    "longitude": 16.3705788
+    "longitude": 16.3705788,
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -66,20 +96,32 @@
     "shop": "supermarket",
     "latitude": 48.7121421,
     "longitude": 16.3710291,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Raiffeisen Lagerhaus",
     "retailer": "raiffeisen_lagerhaus",
     "shop": "doityourself",
     "latitude": 48.7147443,
-    "longitude": 16.3786803
+    "longitude": 16.3786803,
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stoiber",
     "retailer": "stoiber",
     "shop": "bakery",
     "latitude": 48.7114914,
-    "longitude": 16.370711
+    "longitude": 16.370711,
+    "postcode": "2136",
+    "city": "Laa an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

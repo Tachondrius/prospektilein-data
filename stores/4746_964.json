@@ -4,7 +4,9 @@
     "retailer": "nagel",
     "shop": "hairdresser",
     "latitude": 47.4630097,
-    "longitude": 9.6444421
+    "longitude": 9.6444421,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.4602657,
     "longitude": 9.6458467,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6973",
+    "city": "Fußach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

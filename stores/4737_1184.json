@@ -5,7 +5,11 @@
     "shop": "shoes",
     "latitude": 47.3748513,
     "longitude": 11.8436866,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "6262",
+    "city": "Schlitters",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dm",
@@ -13,7 +17,10 @@
     "shop": "chemist",
     "latitude": 47.3750125,
     "longitude": 11.8436138,
-    "brand": "dm"
+    "brand": "dm",
+    "city": "Schlitters",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fussl",
@@ -21,21 +28,31 @@
     "shop": "clothes",
     "latitude": 47.37469,
     "longitude": 11.8437595,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "6262",
+    "city": "Schlitters",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hervis",
     "retailer": "hervis",
     "shop": "sports",
     "latitude": 47.3755935,
-    "longitude": 11.8434387
+    "longitude": 11.8434387,
+    "postcode": "6262",
+    "city": "Schlitters",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Souvenir Linda",
     "retailer": "souvenir_linda",
     "shop": "convenience",
     "latitude": 47.3764236,
-    "longitude": 11.8431731
+    "longitude": 11.8431731,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -43,27 +60,40 @@
     "shop": "supermarket",
     "latitude": 47.3745081,
     "longitude": 11.8442045,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6262",
+    "city": "Schlitters",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tappeiner Brot",
     "retailer": "tappeiner_brot",
     "shop": "bakery",
     "latitude": 47.3768874,
-    "longitude": 11.8401199
+    "longitude": 11.8401199,
+    "city": "Schlitters",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Weidlinger-Soft",
     "retailer": "weidlinger_soft",
     "shop": "computer",
     "latitude": 47.3769419,
-    "longitude": 11.8405601
+    "longitude": 11.8405601,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zillertal Trachten Center",
     "retailer": "zillertal_trachten_center",
     "shop": "clothes",
     "latitude": 47.3775268,
-    "longitude": 11.8430814
+    "longitude": 11.8430814,
+    "postcode": "6262",
+    "city": "Schlitters",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.1285088,
     "longitude": 15.3467883,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MONIS Manufaktur",
     "retailer": "monis_manufaktur",
     "shop": "food",
     "latitude": 47.1281919,
-    "longitude": 15.3451088
+    "longitude": 15.3451088,
+    "postcode": "8101",
+    "city": "Gratkorn",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

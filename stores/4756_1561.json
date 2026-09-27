@@ -5,21 +5,29 @@
     "shop": "supermarket",
     "latitude": 47.5686492,
     "longitude": 15.6193486,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8665",
+    "city": "Langenwang",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Robert Köck",
     "retailer": "robert_kock",
     "shop": "bakery",
     "latitude": 47.5682295,
-    "longitude": 15.6198671
+    "longitude": 15.6198671,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stefans Torten",
     "retailer": "stefans_torten",
     "shop": "convenience",
     "latitude": 47.5677541,
-    "longitude": 15.6198311
+    "longitude": 15.6198311,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "VW Diepold Langenwang",
@@ -27,6 +35,10 @@
     "shop": "car",
     "latitude": 47.5613574,
     "longitude": 15.6122218,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "8665",
+    "city": "Langenwang",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

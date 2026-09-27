@@ -4,14 +4,21 @@
     "retailer": "blumen_und_gartnerei_hollermann",
     "shop": "florist",
     "latitude": 47.8042087,
-    "longitude": 13.4890901
+    "longitude": 13.4890901,
+    "postcode": "4866",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Auinger",
     "retailer": "backerei_auinger",
     "shop": "bakery",
     "latitude": 47.8041623,
-    "longitude": 13.489233
+    "longitude": 13.489233,
+    "postcode": "4866",
+    "city": "Unterach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -19,13 +26,19 @@
     "shop": "supermarket",
     "latitude": 47.8045493,
     "longitude": 13.4888814,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4866",
+    "city": "Unterach am Attersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.8042216,
-    "longitude": 13.4890619
+    "longitude": 13.4890619,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

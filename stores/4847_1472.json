@@ -4,28 +4,38 @@
     "retailer": "bio_backerei_honeder",
     "shop": "bakery",
     "latitude": 48.4773057,
-    "longitude": 14.728422
+    "longitude": 14.728422,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen Hager",
     "retailer": "blumen_hager",
     "shop": "florist",
     "latitude": 48.4769257,
-    "longitude": 14.7276281
+    "longitude": 14.7276281,
+    "postcode": "4272",
+    "city": "Weitersfelden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fleischerei Pilshofer",
     "retailer": "fleischerei_pilshofer",
     "shop": "butcher",
     "latitude": 48.4774389,
-    "longitude": 14.7271309
+    "longitude": 14.7271309,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 48.4772264,
-    "longitude": 14.727649
+    "longitude": 14.727649,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -33,13 +43,17 @@
     "shop": "doityourself",
     "latitude": 48.4778213,
     "longitude": 14.7216901,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch",
     "retailer": "nah_und_frisch",
     "shop": "supermarket",
     "latitude": 48.4773251,
-    "longitude": 14.7218214
+    "longitude": 14.7218214,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

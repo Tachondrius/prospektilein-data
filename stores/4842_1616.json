@@ -4,27 +4,37 @@
     "retailer": "cafe_backerei_angenbauer",
     "shop": "bakery",
     "latitude": 48.4287197,
-    "longitude": 16.167527
+    "longitude": 16.167527,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei Eckerl",
     "retailer": "fleischerei_eckerl",
     "shop": "butcher",
     "latitude": 48.428531,
-    "longitude": 16.1675592
+    "longitude": 16.1675592,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kastner",
     "retailer": "kastner",
     "shop": "supermarket",
     "latitude": 48.4293552,
-    "longitude": 16.1677741
+    "longitude": 16.1677741,
+    "postcode": "2011",
+    "city": "Sierndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pool Center",
     "retailer": "pool_center",
     "shop": "swimming_pool",
     "latitude": 48.4286658,
-    "longitude": 16.1683491
+    "longitude": 16.1683491,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

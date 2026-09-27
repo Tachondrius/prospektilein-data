@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.2081141,
     "longitude": 16.2315008,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lidl",
@@ -13,14 +17,22 @@
     "shop": "supermarket",
     "latitude": 48.2034235,
     "longitude": 16.2398733,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Opel Hnolik",
     "retailer": "opel_hnolik",
     "shop": "car",
     "latitude": 48.203797,
-    "longitude": 16.2387829
+    "longitude": 16.2387829,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Viva",
@@ -28,6 +40,8 @@
     "shop": "convenience",
     "latitude": 48.2019041,
     "longitude": 16.2361738,
-    "brand": "Viva"
+    "brand": "Viva",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "asima_keramik",
     "shop": "pottery",
     "latitude": 47.3431753,
-    "longitude": 11.6900659
+    "longitude": 11.6900659,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -12,42 +14,58 @@
     "shop": "chemist",
     "latitude": 47.3492468,
     "longitude": 11.6965658,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bloomest by Miele Vomp",
     "retailer": "bloomest_by_miele_vomp",
     "shop": "supermarket",
     "latitude": 47.3494293,
-    "longitude": 11.6967475
+    "longitude": 11.6967475,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Cafe Konditorei Shivani",
     "retailer": "cafe_konditorei_shivani",
     "shop": "pastry",
     "latitude": 47.3462018,
-    "longitude": 11.6949195
+    "longitude": 11.6949195,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Claudias Blumenzauber",
     "retailer": "claudias_blumenzauber",
     "shop": "florist",
     "latitude": 47.3496247,
-    "longitude": 11.696105
+    "longitude": 11.696105,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Convenience",
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 47.3470513,
-    "longitude": 11.6905561
+    "longitude": 11.6905561,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ezeb",
     "retailer": "ezeb",
     "shop": "bakery",
     "latitude": 47.3474194,
-    "longitude": 11.6996723
+    "longitude": 11.6996723,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fressnapf",
@@ -55,21 +73,31 @@
     "shop": "pet",
     "latitude": 47.3492376,
     "longitude": 11.6967382,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gärtnerei Reinold",
     "retailer": "gartnerei_reinold",
     "shop": "florist",
     "latitude": 47.3494348,
-    "longitude": 11.695537
+    "longitude": 11.695537,
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gärtnerei Widauer",
     "retailer": "gartnerei_widauer",
     "shop": "florist",
     "latitude": 47.3462418,
-    "longitude": 11.6949607
+    "longitude": 11.6949607,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Klipp",
@@ -77,7 +105,11 @@
     "shop": "hairdresser",
     "latitude": 47.3499635,
     "longitude": 11.6972864,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lidl",
@@ -85,28 +117,38 @@
     "shop": "supermarket",
     "latitude": 47.3489481,
     "longitude": 11.6966752,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.3491148,
-    "longitude": 11.6965455
+    "longitude": 11.6965455,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.3498392,
-    "longitude": 11.696907
+    "longitude": 11.696907,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mofatec",
     "retailer": "mofatec",
     "shop": "motorcycle",
     "latitude": 47.3449455,
-    "longitude": 11.6906004
+    "longitude": 11.6906004,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -114,7 +156,9 @@
     "shop": "clothes",
     "latitude": 47.3493384,
     "longitude": 11.6968304,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pagro",
@@ -122,7 +166,11 @@
     "shop": "stationery",
     "latitude": 47.3498835,
     "longitude": 11.697222,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pearle Optik",
@@ -130,13 +178,19 @@
     "shop": "optician",
     "latitude": 47.3497454,
     "longitude": 11.6971312,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "postcode": "6134",
+    "city": "Vomp",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Prantl Schuhhaus",
     "retailer": "prantl_schuhhaus",
     "shop": "shoes",
     "latitude": 47.3452712,
-    "longitude": 11.6941171
+    "longitude": 11.6941171,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

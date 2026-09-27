@@ -4,27 +4,39 @@
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.3104447,
-    "longitude": 11.0623638
+    "longitude": 11.0623638,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Meislbauer",
     "retailer": "meislbauer",
     "shop": "farm",
     "latitude": 47.3104319,
-    "longitude": 11.0647264
+    "longitude": 11.0647264,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Waldhart",
     "retailer": "waldhart",
     "shop": "bakery",
     "latitude": 47.3109412,
-    "longitude": 11.0651542
+    "longitude": 11.0651542,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zweiradtechnik Telfs",
     "retailer": "zweiradtechnik_telfs",
     "shop": "motorcycle",
     "latitude": 47.3104029,
-    "longitude": 11.0623678
+    "longitude": 11.0623678,
+    "postcode": "6410",
+    "city": "Telfs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

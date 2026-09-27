@@ -4,21 +4,29 @@
     "retailer": "backerei_fuchs",
     "shop": "bakery",
     "latitude": 47.4556615,
-    "longitude": 15.3198266
+    "longitude": 15.3198266,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "E-Arms",
     "retailer": "e_arms",
     "shop": "weapons",
     "latitude": 47.4567922,
-    "longitude": 15.3199231
+    "longitude": 15.3199231,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "J. Fuchs Bäckerei",
     "retailer": "j_fuchs_backerei",
     "shop": "bakery",
     "latitude": 47.4554667,
-    "longitude": 15.3194531
+    "longitude": 15.3194531,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -26,21 +34,29 @@
     "shop": "supermarket",
     "latitude": 47.4528174,
     "longitude": 15.315202,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mussger",
     "retailer": "mussger",
     "shop": "car",
     "latitude": 47.4543148,
-    "longitude": 15.3156959
+    "longitude": 15.3156959,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 47.4557414,
-    "longitude": 15.3192614
+    "longitude": 15.3192614,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "VOGL + CO Kapfenberg",
@@ -48,13 +64,21 @@
     "shop": "car",
     "latitude": 47.4503037,
     "longitude": 15.3194035,
-    "brand": "Nissan;Jeep;Fiat"
+    "brand": "Nissan;Jeep;Fiat",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zerry Computers",
     "retailer": "zerry_computers",
     "shop": "computer",
     "latitude": 47.450135,
-    "longitude": 15.312974
+    "longitude": 15.312974,
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

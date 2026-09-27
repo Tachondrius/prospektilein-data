@@ -4,14 +4,19 @@
     "retailer": "alfred_schnellnberger_gesmbh",
     "shop": "tiles",
     "latitude": 47.9895841,
-    "longitude": 14.1273124
+    "longitude": 14.1273124,
+    "city": "Wartberg an der Krems",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Alpakahof Kremstal",
     "retailer": "alpakahof_kremstal",
     "shop": "clothes",
     "latitude": 47.986652,
-    "longitude": 14.1276033
+    "longitude": 14.1276033,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -19,21 +24,31 @@
     "shop": "supermarket",
     "latitude": 47.9882529,
     "longitude": 14.1239712,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4552",
+    "city": "Wartberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "figarouno",
     "retailer": "figarouno",
     "shop": "hairdresser",
     "latitude": 47.9869279,
-    "longitude": 14.1211777
+    "longitude": 14.1211777,
+    "postcode": "4552",
+    "city": "Wartberg an der Krems",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.987491,
-    "longitude": 14.1207901
+    "longitude": 14.1207901,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -41,13 +56,17 @@
     "shop": "doityourself",
     "latitude": 47.989063,
     "longitude": 14.1206045,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus Technik Center",
     "retailer": "lagerhaus_technik_center",
     "shop": "car_repair",
     "latitude": 47.9886059,
-    "longitude": 14.1207083
+    "longitude": 14.1207083,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

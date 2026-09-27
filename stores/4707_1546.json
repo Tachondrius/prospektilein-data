@@ -5,14 +5,22 @@
     "shop": "supermarket",
     "latitude": 47.0795736,
     "longitude": 15.4672239,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Biofeld",
     "retailer": "biofeld",
     "shop": "supermarket",
     "latitude": 47.077802,
-    "longitude": 15.4627924
+    "longitude": 15.4627924,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -20,49 +28,71 @@
     "shop": "chemist",
     "latitude": 47.0794931,
     "longitude": 15.4670224,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Rauch",
     "retailer": "blumen_rauch",
     "shop": "florist",
     "latitude": 47.0782241,
-    "longitude": 15.4639589
+    "longitude": 15.4639589,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen St. Leonhard",
     "retailer": "blumen_st_leonhard",
     "shop": "florist",
     "latitude": 47.0785922,
-    "longitude": 15.4673844
+    "longitude": 15.4673844,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Steiner",
     "retailer": "blumen_steiner",
     "shop": "florist",
     "latitude": 47.0793461,
-    "longitude": 15.4672611
+    "longitude": 15.4672611,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fenster Welt Pfeifer",
     "retailer": "fenster_welt_pfeifer",
     "shop": "window_construction",
     "latitude": 47.078762,
-    "longitude": 15.4678662
+    "longitude": 15.4678662,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "GRUBER Reisen",
     "retailer": "gruber_reisen",
     "shop": "travel_agency",
     "latitude": 47.0794824,
-    "longitude": 15.4665889
+    "longitude": 15.4665889,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haarmode Gabi",
     "retailer": "haarmode_gabi",
     "shop": "hairdresser",
     "latitude": 47.0743393,
-    "longitude": 15.4603182
+    "longitude": 15.4603182,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hansaton",
@@ -70,35 +100,53 @@
     "shop": "hearing_aids",
     "latitude": 47.0796215,
     "longitude": 15.4669363,
-    "brand": "Hansaton"
+    "brand": "Hansaton",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Home Gartner",
     "retailer": "home_gartner",
     "shop": "interior_decoration",
     "latitude": 47.0790063,
-    "longitude": 15.4640627
+    "longitude": 15.4640627,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "intercoiffeur mayer",
     "retailer": "intercoiffeur_mayer",
     "shop": "hairdresser",
     "latitude": 47.0795919,
-    "longitude": 15.4674112
+    "longitude": 15.4674112,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kern",
     "retailer": "kern",
     "shop": "bakery",
     "latitude": 47.0797529,
-    "longitude": 15.464046
+    "longitude": 15.464046,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.0789538,
-    "longitude": 15.4674948
+    "longitude": 15.4674948,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Martin Auer",
@@ -106,42 +154,64 @@
     "shop": "bakery",
     "latitude": 47.0795411,
     "longitude": 15.4673535,
-    "brand": "Martin Auer"
+    "brand": "Martin Auer",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mobile Phone",
     "retailer": "shop_mobile_phone",
     "shop": "mobile_phone",
     "latitude": 47.0792827,
-    "longitude": 15.4672708
+    "longitude": 15.4672708,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Odilien-Shop",
     "retailer": "odilien_shop",
     "shop": "gift",
     "latitude": 47.0778925,
-    "longitude": 15.4643209
+    "longitude": 15.4643209,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ortho-Aktiv",
     "retailer": "ortho_aktiv",
     "shop": "medical_supply",
     "latitude": 47.0794855,
-    "longitude": 15.466703
+    "longitude": 15.466703,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pölzl Gemüse & Friends",
     "retailer": "polzl_gemuse_und_friends",
     "shop": "convenience",
     "latitude": 47.0786895,
-    "longitude": 15.4645148
+    "longitude": 15.4645148,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schnittfritz",
     "retailer": "schnittfritz",
     "shop": "hairdresser",
     "latitude": 47.0789044,
-    "longitude": 15.4686406
+    "longitude": 15.4686406,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -149,6 +219,10 @@
     "shop": "supermarket",
     "latitude": 47.077506,
     "longitude": 15.4622777,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

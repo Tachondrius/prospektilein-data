@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 47.3463922,
     "longitude": 16.2252009,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7431",
+    "city": "Bad Tatzmannsdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 47.3476137,
-    "longitude": 16.2231281
+    "longitude": 16.2231281,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Walis",
     "retailer": "walis",
     "shop": "florist",
     "latitude": 47.3467246,
-    "longitude": 16.2249774
+    "longitude": 16.2249774,
+    "postcode": "7431",
+    "city": "Bad Tatzmannsdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

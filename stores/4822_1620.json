@@ -4,13 +4,19 @@
     "retailer": "bike_shop_hohe_wand_wiese",
     "shop": "bicycle",
     "latitude": 48.2293471,
-    "longitude": 16.2025016
+    "longitude": 16.2025016,
+    "postcode": "1140",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 48.2248314,
-    "longitude": 16.2087928
+    "longitude": 16.2087928,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

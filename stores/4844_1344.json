@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 48.4419668,
     "longitude": 13.4465465,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "4782",
+    "city": "St. Florian am Inn",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Jung",
     "retailer": "backerei_jung",
     "shop": "bakery",
     "latitude": 48.4414436,
-    "longitude": 13.4428363
+    "longitude": 13.4428363,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "C&A",
@@ -20,7 +26,9 @@
     "shop": "clothes",
     "latitude": 48.4470406,
     "longitude": 13.4410757,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Deichmann",
@@ -28,14 +36,18 @@
     "shop": "shoes",
     "latitude": 48.4467943,
     "longitude": 13.4412664,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Die Blume Monika Schubert",
     "retailer": "die_blume_monika_schubert",
     "shop": "florist",
     "latitude": 48.4461304,
-    "longitude": 13.4412703
+    "longitude": 13.4412703,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -43,21 +55,27 @@
     "shop": "chemist",
     "latitude": 48.4465997,
     "longitude": 13.4413727,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Erich Dickl",
     "retailer": "erich_dickl",
     "shop": "interior_decoration",
     "latitude": 48.4450746,
-    "longitude": 13.4457716
+    "longitude": 13.4457716,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "HairStyle Gabi Wohlmuth",
     "retailer": "hairstyle_gabi_wohlmuth",
     "shop": "hairdresser",
     "latitude": 48.4461799,
-    "longitude": 13.4414665
+    "longitude": 13.4414665,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -65,28 +83,38 @@
     "shop": "supermarket",
     "latitude": 48.4467766,
     "longitude": 13.4401735,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4780",
+    "city": "Schärding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Oberndorfer Raimund Kleiderfabrik",
     "retailer": "oberndorfer_raimund_kleiderfabrik",
     "shop": "tailor",
     "latitude": 48.4464699,
-    "longitude": 13.4418878
+    "longitude": 13.4418878,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pagro",
     "retailer": "pagro",
     "shop": "stationery",
     "latitude": 48.4426096,
-    "longitude": 13.4472822
+    "longitude": 13.4472822,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spielemax Druckermax",
     "retailer": "spielemax_druckermax",
     "shop": "toys",
     "latitude": 48.4426838,
-    "longitude": 13.4479421
+    "longitude": 13.4479421,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Takko",
@@ -94,13 +122,17 @@
     "shop": "clothes",
     "latitude": 48.4468864,
     "longitude": 13.4411924,
-    "brand": "Takko"
+    "brand": "Takko",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tanja Duft Fußpflege",
     "retailer": "tanja_duft_fupflege",
     "shop": "beauty",
     "latitude": 48.4493633,
-    "longitude": 13.446552
+    "longitude": 13.446552,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

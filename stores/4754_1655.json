@@ -4,7 +4,9 @@
     "retailer": "backerei_varga",
     "shop": "bakery",
     "latitude": 47.5413532,
-    "longitude": 16.552472
+    "longitude": 16.552472,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "nah und frisch",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.5403379,
     "longitude": 16.5522929,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "7304",
+    "city": "Großwarasdorf/Veliki Borištof",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

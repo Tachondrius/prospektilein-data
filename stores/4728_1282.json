@@ -5,27 +5,37 @@
     "shop": "supermarket",
     "latitude": 47.2814992,
     "longitude": 12.8249554,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Grieserbäck",
     "retailer": "grieserback",
     "shop": "bakery",
     "latitude": 47.2865801,
-    "longitude": 12.8242272
+    "longitude": 12.8242272,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kerzenwelt",
     "retailer": "kerzenwelt",
     "shop": "gift",
     "latitude": 47.2812834,
-    "longitude": 12.8236601
+    "longitude": 12.8236601,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pinzgau Bräu",
     "retailer": "pinzgau_brau",
     "shop": "beverages",
     "latitude": 47.2813947,
-    "longitude": 12.8236636
+    "longitude": 12.8236636,
+    "postcode": "5671",
+    "city": "Bruck",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

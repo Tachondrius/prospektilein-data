@@ -4,7 +4,11 @@
     "retailer": "alpaka_laden",
     "shop": "clothes",
     "latitude": 47.2692926,
-    "longitude": 15.3224496
+    "longitude": 15.3224496,
+    "postcode": "8130",
+    "city": "Frohnleiten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,28 +16,44 @@
     "shop": "supermarket",
     "latitude": 47.2688311,
     "longitude": 15.3276857,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8130",
+    "city": "Frohnleiten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "blatt & blüte e.U.",
     "retailer": "blatt_und_blute_e_u",
     "shop": "florist",
     "latitude": 47.2616146,
-    "longitude": 15.3216419
+    "longitude": 15.3216419,
+    "postcode": "8130",
+    "city": "Frohnleiten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektro Jöller",
     "retailer": "elektro_joller",
     "shop": "electronics",
     "latitude": 47.2680877,
-    "longitude": 15.3254101
+    "longitude": 15.3254101,
+    "postcode": "8130",
+    "city": "Frohnleiten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haarstudio Dagmar Jantscher",
     "retailer": "haarstudio_dagmar_jantscher",
     "shop": "hairdresser",
     "latitude": 47.2693329,
-    "longitude": 15.3214378
+    "longitude": 15.3214378,
+    "postcode": "8130",
+    "city": "Frohnleiten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -41,7 +61,9 @@
     "shop": "doityourself",
     "latitude": 47.2672502,
     "longitude": 15.3252506,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -49,20 +71,28 @@
     "shop": "supermarket",
     "latitude": 47.2667881,
     "longitude": 15.3256469,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8130",
+    "city": "Frohnleiten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Studio Serfuss",
     "retailer": "studio_serfuss",
     "shop": "beauty",
     "latitude": 47.2693017,
-    "longitude": 15.3211299
+    "longitude": 15.3211299,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik Müller",
     "retailer": "tabak_trafik_muller",
     "shop": "tobacco",
     "latitude": 47.2666807,
-    "longitude": 15.3258805
+    "longitude": 15.3258805,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

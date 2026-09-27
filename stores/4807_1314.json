@@ -4,20 +4,28 @@
     "retailer": "franz_holzner_gmbh_frischfleisch",
     "shop": "butcher",
     "latitude": 48.0757943,
-    "longitude": 13.1409598
+    "longitude": 13.1409598,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hermann Andorfer",
     "retailer": "hermann_andorfer",
     "shop": "trade",
     "latitude": 48.0784759,
-    "longitude": 13.1458859
+    "longitude": 13.1458859,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sieberer Manfred Wurstspezialitäten",
     "retailer": "sieberer_manfred_wurstspezialitaten",
     "shop": "butcher",
     "latitude": 48.0772743,
-    "longitude": 13.145967
+    "longitude": 13.145967,
+    "postcode": "5223",
+    "city": "Pfaffstätt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

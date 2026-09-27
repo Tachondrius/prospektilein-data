@@ -4,27 +4,39 @@
     "retailer": "autoteile_froschl",
     "shop": "car_parts",
     "latitude": 46.5391558,
-    "longitude": 14.2584106
+    "longitude": 14.2584106,
+    "postcode": "9162",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Cafe-Jause-Bioprodukte Ibounig",
     "retailer": "cafe_jause_bioprodukte_ibounig",
     "shop": "convenience",
     "latitude": 46.5391526,
-    "longitude": 14.2585132
+    "longitude": 14.2585132,
+    "postcode": "9162",
+    "city": "Ferlach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "CARNICA-Lebensraum Rosental, Bereich Land- und Forstwirtschaft",
     "retailer": "carnica_lebensraum_rosental_bereich_land_und_forstwirtschaft",
     "shop": "yes",
     "latitude": 46.5391667,
-    "longitude": 14.2586046
+    "longitude": 14.2586046,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sparovec",
     "retailer": "sparovec",
     "shop": "convenience",
     "latitude": 46.5393106,
-    "longitude": 14.2585161
+    "longitude": 14.2585161,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

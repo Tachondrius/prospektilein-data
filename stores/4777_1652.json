@@ -5,7 +5,10 @@
     "shop": "supermarket",
     "latitude": 47.7743765,
     "longitude": 16.5294655,
-    "brand": "Billa"
+    "brand": "Billa",
+    "city": "Siegendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Billa Unterwegs",
@@ -13,7 +16,9 @@
     "shop": "convenience",
     "latitude": 47.7777764,
     "longitude": 16.526057,
-    "brand": "Billa Unterwegs"
+    "brand": "Billa Unterwegs",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "dm",
@@ -21,7 +26,11 @@
     "shop": "chemist",
     "latitude": 47.775887,
     "longitude": 16.5285471,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "7011",
+    "city": "Siegendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ernsting's family",
@@ -29,7 +38,9 @@
     "shop": "clothes",
     "latitude": 47.7755635,
     "longitude": 16.5288623,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Eurospar",
@@ -37,7 +48,9 @@
     "shop": "supermarket",
     "latitude": 47.7751128,
     "longitude": 16.5293249,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hofer",
@@ -45,14 +58,20 @@
     "shop": "supermarket",
     "latitude": 47.7760706,
     "longitude": 16.527793,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Intro-Shopping",
     "retailer": "intro_shopping",
     "shop": "mall",
     "latitude": 47.775851,
-    "longitude": 16.5284897
+    "longitude": 16.5284897,
+    "postcode": "7011",
+    "city": "Siegendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "KiK",
@@ -60,21 +79,27 @@
     "shop": "clothes",
     "latitude": 47.7752246,
     "longitude": 16.5292042,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Libro",
     "retailer": "libro",
     "shop": "stationery",
     "latitude": 47.7753985,
-    "longitude": 16.5290339
+    "longitude": 16.5290339,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Nara",
     "retailer": "nara",
     "shop": "beauty",
     "latitude": 47.7758266,
-    "longitude": 16.5286088
+    "longitude": 16.5286088,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "NKD",
@@ -82,7 +107,9 @@
     "shop": "clothes",
     "latitude": 47.7753201,
     "longitude": 16.5291023,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Quick Schuh",
@@ -90,7 +117,9 @@
     "shop": "shoes",
     "latitude": 47.7754851,
     "longitude": 16.5289468,
-    "brand": "Quick Schuh"
+    "brand": "Quick Schuh",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Takko",
@@ -98,7 +127,9 @@
     "shop": "clothes",
     "latitude": 47.7757401,
     "longitude": 16.5287,
-    "brand": "Takko"
+    "brand": "Takko",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Tom Tailor",
@@ -106,6 +137,8 @@
     "shop": "clothes",
     "latitude": 47.7759826,
     "longitude": 16.5284573,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

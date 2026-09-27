@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.2593576,
     "longitude": 10.182597,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6767",
+    "city": "Warth",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Wälder Metzge",
     "retailer": "walder_metzge",
     "shop": "butcher",
     "latitude": 47.2571161,
-    "longitude": 10.1837983
+    "longitude": 10.1837983,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

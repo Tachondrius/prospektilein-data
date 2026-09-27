@@ -5,7 +5,10 @@
     "shop": "doityourself",
     "latitude": 47.9407972,
     "longitude": 16.1368682,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "postcode": "2560",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -13,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.941191,
     "longitude": 16.1359604,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2560",
+    "city": "Berndorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

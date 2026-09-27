@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 48.2548168,
     "longitude": 16.4973027,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofladen Schottenobst",
     "retailer": "hofladen_schottenobst",
     "shop": "farm",
     "latitude": 48.2519468,
-    "longitude": 16.4965022
+    "longitude": 16.4965022,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ströck",
@@ -20,6 +26,10 @@
     "shop": "bakery",
     "latitude": 48.2511449,
     "longitude": 16.4984832,
-    "brand": "Ströck"
+    "brand": "Ströck",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

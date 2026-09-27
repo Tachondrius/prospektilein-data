@@ -5,13 +5,19 @@
     "shop": "car_repair",
     "latitude": 48.0890147,
     "longitude": 13.9598093,
-    "brand": "Alle"
+    "brand": "Alle",
+    "postcode": "4652",
+    "city": "Fischlham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 48.0802573,
-    "longitude": 13.9567274
+    "longitude": 13.9567274,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,20 +5,28 @@
     "shop": "car",
     "latitude": 47.398257,
     "longitude": 9.853737,
-    "brand": "Audi,Volkswagen"
+    "brand": "Audi,Volkswagen",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mangold",
     "retailer": "mangold",
     "shop": "bakery",
     "latitude": 47.3990354,
-    "longitude": 9.8533139
+    "longitude": 9.8533139,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Metzgerei Natter",
     "retailer": "metzgerei_natter",
     "shop": "butcher",
     "latitude": 47.3992279,
-    "longitude": 9.8553136
+    "longitude": 9.8553136,
+    "postcode": "6866",
+    "city": "Andelsbuch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

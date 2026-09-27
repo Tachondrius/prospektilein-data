@@ -5,56 +5,82 @@
     "shop": "car",
     "latitude": 48.4814089,
     "longitude": 13.5542964,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "postcode": "4792",
+    "city": "Münzkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Mauthner Karosseriezentrum",
     "retailer": "autohaus_mauthner_karosseriezentrum",
     "shop": "car_repair",
     "latitude": 48.4821376,
-    "longitude": 13.5505771
+    "longitude": 13.5505771,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Baumeister Stern",
     "retailer": "baumeister_stern",
     "shop": "building_materials",
     "latitude": 48.4814003,
-    "longitude": 13.5592506
+    "longitude": 13.5592506,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Baumeister Stern",
     "retailer": "baumeister_stern",
     "shop": "building_materials",
     "latitude": 48.4821062,
-    "longitude": 13.5579269
+    "longitude": 13.5579269,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Baushop Baumeister Stern",
     "retailer": "baushop_baumeister_stern",
     "shop": "trade",
     "latitude": 48.4815892,
-    "longitude": 13.5592805
+    "longitude": 13.5592805,
+    "postcode": "4792",
+    "city": "Münzkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Cafe Bäckerei Krenn",
     "retailer": "cafe_backerei_krenn",
     "shop": "bakery",
     "latitude": 48.4805732,
-    "longitude": 13.5552655
+    "longitude": 13.5552655,
+    "postcode": "4792",
+    "city": "Münzkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Glas Bauer",
     "retailer": "glas_bauer",
     "shop": "yes",
     "latitude": 48.4823034,
-    "longitude": 13.5523213
+    "longitude": 13.5523213,
+    "postcode": "4792",
+    "city": "Münzkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KFZ Maurer",
     "retailer": "kfz_maurer",
     "shop": "car_repair",
     "latitude": 48.4808931,
-    "longitude": 13.5566369
+    "longitude": 13.5566369,
+    "postcode": "4792",
+    "city": "Münzkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -62,7 +88,11 @@
     "shop": "doityourself",
     "latitude": 48.4826901,
     "longitude": 13.5586296,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "4792",
+    "city": "Münzkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -70,27 +100,41 @@
     "shop": "supermarket",
     "latitude": 48.4805045,
     "longitude": 13.556674,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4792",
+    "city": "Münzkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Steinmetz Bischof",
     "retailer": "steinmetz_bischof",
     "shop": "yes",
     "latitude": 48.481836,
-    "longitude": 13.553451
+    "longitude": 13.553451,
+    "postcode": "4792",
+    "city": "Münzkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Trafik Michael Schnur",
     "retailer": "tabak_trafik_michael_schnur",
     "shop": "tobacco",
     "latitude": 48.4806291,
-    "longitude": 13.5568823
+    "longitude": 13.5568823,
+    "postcode": "4792",
+    "city": "Münzkirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Warenhandel Estermann",
     "retailer": "warenhandel_estermann",
     "shop": "doityourself",
     "latitude": 48.4801242,
-    "longitude": 13.5572179
+    "longitude": 13.5572179,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

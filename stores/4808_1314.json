@@ -5,7 +5,11 @@
     "shop": "car_repair",
     "latitude": 48.0899426,
     "longitude": 13.1478835,
-    "brand": "Nissan;Ford"
+    "brand": "Nissan;Ford",
+    "postcode": "5230",
+    "city": "Mattighofen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gamperer",
@@ -13,13 +17,21 @@
     "shop": "car_repair",
     "latitude": 48.0822381,
     "longitude": 13.1462906,
-    "brand": "Honda"
+    "brand": "Honda",
+    "postcode": "5223",
+    "city": "Pfaffstätt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hea-Tischlerei Hehenberger GmbH & Co KG",
     "retailer": "hea_tischlerei_hehenberger_gmbh_und_co_kg",
     "shop": "craft",
     "latitude": 48.0817789,
-    "longitude": 13.1451122
+    "longitude": 13.1451122,
+    "postcode": "5223",
+    "city": "Pfaffstätt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

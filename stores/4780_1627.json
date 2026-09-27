@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 47.8004699,
     "longitude": 16.2758013,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bipa",
@@ -13,7 +15,9 @@
     "shop": "chemist",
     "latitude": 47.8006894,
     "longitude": 16.2759834,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Eurospar",
@@ -21,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 47.8020505,
     "longitude": 16.277544,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "7201",
+    "city": "Neudörfl",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Penny",
@@ -29,6 +37,8 @@
     "shop": "supermarket",
     "latitude": 47.8008871,
     "longitude": 16.2760581,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

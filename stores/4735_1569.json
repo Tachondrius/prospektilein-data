@@ -5,48 +5,68 @@
     "shop": "supermarket",
     "latitude": 47.3547666,
     "longitude": 15.6993599,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8190",
+    "city": "Birkfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friesi's Bikery",
     "retailer": "friesi_s_bikery",
     "shop": "bicycle",
     "latitude": 47.3570555,
-    "longitude": 15.6980944
+    "longitude": 15.6980944,
+    "postcode": "8190",
+    "city": "Birkfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseusalon Felber",
     "retailer": "friseusalon_felber",
     "shop": "hairdresser",
     "latitude": 47.3546768,
-    "longitude": 15.6934624
+    "longitude": 15.6934624,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "department_store",
     "latitude": 47.3535983,
-    "longitude": 15.6980897
+    "longitude": 15.6980897,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Landring",
     "retailer": "landring",
     "shop": "car_repair",
     "latitude": 47.3529168,
-    "longitude": 15.6974431
+    "longitude": 15.6974431,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Landring",
     "retailer": "landring",
     "shop": "supermarket",
     "latitude": 47.3531788,
-    "longitude": 15.6976629
+    "longitude": 15.6976629,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Möbel Hutter",
     "retailer": "mobel_hutter",
     "shop": "furniture",
     "latitude": 47.3526687,
-    "longitude": 15.6952365
+    "longitude": 15.6952365,
+    "postcode": "8190",
+    "city": "Birkfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,28 +4,36 @@
     "retailer": "ewa",
     "shop": "tailor",
     "latitude": 48.0069133,
-    "longitude": 16.2288563
+    "longitude": 16.2288563,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Heilsmassage Therapie",
     "retailer": "heilsmassage_therapie",
     "shop": "massage",
     "latitude": 48.0070345,
-    "longitude": 16.2292873
+    "longitude": 16.2292873,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Inkas Kunsthandwerk",
     "retailer": "inkas_kunsthandwerk",
     "shop": "gift",
     "latitude": 48.0070489,
-    "longitude": 16.2271116
+    "longitude": 16.2271116,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kunst im Bogen",
     "retailer": "kunst_im_bogen",
     "shop": "art",
     "latitude": 48.0070574,
-    "longitude": 16.2282778
+    "longitude": 16.2282778,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -33,21 +41,29 @@
     "shop": "supermarket",
     "latitude": 48.0001805,
     "longitude": 16.2286244,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2500",
+    "city": "Baden bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schnittpunkt",
     "retailer": "schnittpunkt",
     "shop": "hairdresser",
     "latitude": 48.0070315,
-    "longitude": 16.2294473
+    "longitude": 16.2294473,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sosauber.at",
     "retailer": "sosauber_at",
     "shop": "dry_cleaning",
     "latitude": 48.006795,
-    "longitude": 16.2298487
+    "longitude": 16.2298487,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -55,6 +71,10 @@
     "shop": "supermarket",
     "latitude": 48.0015006,
     "longitude": 16.229279,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2500",
+    "city": "Baden bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

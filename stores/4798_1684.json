@@ -5,14 +5,20 @@
     "shop": "bookmaker",
     "latitude": 47.981712,
     "longitude": 16.8486344,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "postcode": "7111",
+    "city": "Parndorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Amicis",
     "retailer": "amicis",
     "shop": "clothes",
     "latitude": 47.9800434,
-    "longitude": 16.8492523
+    "longitude": 16.8492523,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Billa stop & shop",
@@ -20,13 +26,17 @@
     "shop": "convenience",
     "latitude": 47.9810133,
     "longitude": 16.8486059,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.980264,
-    "longitude": 16.8499664
+    "longitude": 16.8499664,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

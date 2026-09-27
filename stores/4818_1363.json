@@ -4,27 +4,39 @@
     "retailer": "backerei_scharinger",
     "shop": "bakery",
     "latitude": 48.1847596,
-    "longitude": 13.6387497
+    "longitude": 13.6387497,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sport Schwarzgruber",
     "retailer": "sport_schwarzgruber",
     "shop": "sports",
     "latitude": 48.1848849,
-    "longitude": 13.6319008
+    "longitude": 13.6319008,
+    "postcode": "4680",
+    "city": "Haag am Hausruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tintenshop Haag",
     "retailer": "tintenshop_haag",
     "shop": "stationery",
     "latitude": 48.1847453,
-    "longitude": 13.6385688
+    "longitude": 13.6385688,
+    "postcode": "4680",
+    "city": "Haag am Hausruck",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 48.1846971,
-    "longitude": 13.6386564
+    "longitude": 13.6386564,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

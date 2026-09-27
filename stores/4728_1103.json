@@ -4,14 +4,20 @@
     "retailer": "friseursalon_christine",
     "shop": "hairdresser",
     "latitude": 47.2877826,
-    "longitude": 11.0356942
+    "longitude": 11.0356942,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Feistmantel",
     "retailer": "metzgerei_feistmantel",
     "shop": "butcher",
     "latitude": 47.2872176,
-    "longitude": 11.0364491
+    "longitude": 11.0364491,
+    "postcode": "6421",
+    "city": "Rietz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -19,6 +25,10 @@
     "shop": "convenience",
     "latitude": 47.2872402,
     "longitude": 11.036296,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "postcode": "6421",
+    "city": "Rietz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

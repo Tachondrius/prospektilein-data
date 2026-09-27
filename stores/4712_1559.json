@@ -4,27 +4,39 @@
     "retailer": "blumenstube_schiffer",
     "shop": "florist",
     "latitude": 47.1241927,
-    "longitude": 15.5989684
+    "longitude": 15.5989684,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Franz Seidl GmbH",
     "retailer": "franz_seidl_gmbh",
     "shop": "car",
     "latitude": 47.1230521,
-    "longitude": 15.5932941
+    "longitude": 15.5932941,
+    "postcode": "8063",
+    "city": "Eggersdorf bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kaufhaus Loder",
     "retailer": "kaufhaus_loder",
     "shop": "supermarket",
     "latitude": 47.1232082,
-    "longitude": 15.5978708
+    "longitude": 15.5978708,
+    "postcode": "8063",
+    "city": "Eggersdorf bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rosenberger Schöckllandbäckerei",
     "retailer": "rosenberger_schockllandbackerei",
     "shop": "bakery",
     "latitude": 47.1240346,
-    "longitude": 15.5956386
+    "longitude": 15.5956386,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

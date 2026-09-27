@@ -4,7 +4,9 @@
     "retailer": "autoersatzteile_nake",
     "shop": "car_parts",
     "latitude": 48.4826974,
-    "longitude": 16.5924983
+    "longitude": 16.5924983,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 48.4850465,
     "longitude": 16.5925932,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2191",
+    "city": "Gaweinstal",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bosch Car Service Gullner",
@@ -20,13 +26,18 @@
     "shop": "car_repair",
     "latitude": 48.4825372,
     "longitude": 16.5926613,
-    "brand": "Bosch Car Service"
+    "brand": "Bosch Car Service",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Shukris",
     "retailer": "shukris",
     "shop": "car_repair",
     "latitude": 48.4851084,
-    "longitude": 16.5919595
+    "longitude": 16.5919595,
+    "postcode": "2191",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

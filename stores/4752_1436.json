@@ -4,7 +4,9 @@
     "retailer": "blumengartnerei_peter_schoberegger",
     "shop": "florist",
     "latitude": 47.5265361,
-    "longitude": 14.3621541
+    "longitude": 14.3621541,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 47.5261036,
     "longitude": 14.3638178,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8786",
+    "city": "Rottenmann",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "wutscher",
@@ -20,6 +26,8 @@
     "shop": "optician",
     "latitude": 47.5259613,
     "longitude": 14.3614717,
-    "brand": "sehen!wutscher"
+    "brand": "sehen!wutscher",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

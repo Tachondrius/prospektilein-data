@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 47.3176704,
     "longitude": 10.8318589,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "6465",
+    "city": "Nassereith",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gurgltalbrot",
     "retailer": "gurgltalbrot",
     "shop": "bakery",
     "latitude": 47.3176038,
-    "longitude": 10.8319034
+    "longitude": 10.8319034,
+    "postcode": "6465",
+    "city": "Nassereith",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lashes & Hairlounge",
     "retailer": "lashes_und_hairlounge",
     "shop": "hairdresser",
     "latitude": 47.3123524,
-    "longitude": 10.839725
+    "longitude": 10.839725,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

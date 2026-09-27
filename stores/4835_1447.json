@@ -4,14 +4,22 @@
     "retailer": "a7_center",
     "shop": "car_repair",
     "latitude": 48.3579351,
-    "longitude": 14.472092
+    "longitude": 14.472092,
+    "postcode": "4213",
+    "city": "Unterweitersdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm Drogerie Markt",
     "retailer": "dm",
     "shop": "chemist",
     "latitude": 48.3573927,
-    "longitude": 14.4751493
+    "longitude": 14.4751493,
+    "postcode": "4213",
+    "city": "Unterweitersdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Himmelbauer KFZ",
@@ -19,7 +27,11 @@
     "shop": "car",
     "latitude": 48.3579097,
     "longitude": 14.4738362,
-    "brand": "Mitsubishi;Hyundai"
+    "brand": "Mitsubishi;Hyundai",
+    "postcode": "4213",
+    "city": "Unterweitersdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -27,28 +39,42 @@
     "shop": "supermarket",
     "latitude": 48.3583456,
     "longitude": 14.4790055,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4213",
+    "city": "Unterweitersdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kfz Hennebichler",
     "retailer": "kfz_hennebichler",
     "shop": "car_repair",
     "latitude": 48.3579436,
-    "longitude": 14.4753539
+    "longitude": 14.4753539,
+    "postcode": "4213",
+    "city": "Unterweitersdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "kik Textilien",
     "retailer": "kik",
     "shop": "clothes",
     "latitude": 48.3574119,
-    "longitude": 14.4753999
+    "longitude": 14.4753999,
+    "postcode": "4213",
+    "city": "Unterweitersdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lang",
     "retailer": "lang",
     "shop": "shoes",
     "latitude": 48.3574405,
-    "longitude": 14.4758542
+    "longitude": 14.4758542,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TEDi",
@@ -56,6 +82,8 @@
     "shop": "variety_store",
     "latitude": 48.357459,
     "longitude": 14.4760683,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

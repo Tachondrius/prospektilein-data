@@ -5,14 +5,22 @@
     "shop": "car_repair",
     "latitude": 48.0579723,
     "longitude": 14.4213174,
-    "brand": "A.T.U"
+    "brand": "A.T.U",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bergwerk",
     "retailer": "bergwerk",
     "shop": "outdoor",
     "latitude": 48.0545751,
-    "longitude": 14.4201896
+    "longitude": 14.4201896,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Deichmann",
@@ -20,14 +28,22 @@
     "shop": "shoes",
     "latitude": 48.0543753,
     "longitude": 14.4229149,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Die Hoflieferanten",
     "retailer": "die_hoflieferanten",
     "shop": "supermarket",
     "latitude": 48.0547447,
-    "longitude": 14.4201877
+    "longitude": 14.4201877,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -35,14 +51,20 @@
     "shop": "chemist",
     "latitude": 48.0542774,
     "longitude": 14.422773,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Greisinger",
     "retailer": "greisinger",
     "shop": "butcher",
     "latitude": 48.0560593,
-    "longitude": 14.4201762
+    "longitude": 14.4201762,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hartlauer",
@@ -50,7 +72,11 @@
     "shop": "electronics",
     "latitude": 48.051269,
     "longitude": 14.4204016,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -58,7 +84,11 @@
     "shop": "supermarket",
     "latitude": 48.0540599,
     "longitude": 14.4228441,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "JYSK",
@@ -66,7 +96,11 @@
     "shop": "furniture",
     "latitude": 48.0546166,
     "longitude": 14.4228316,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KiK",
@@ -74,7 +108,9 @@
     "shop": "clothes",
     "latitude": 48.05422,
     "longitude": 14.4201634,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klipp",
@@ -82,7 +118,11 @@
     "shop": "hairdresser",
     "latitude": 48.0544611,
     "longitude": 14.4201914,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -90,14 +130,20 @@
     "shop": "supermarket",
     "latitude": 48.0555702,
     "longitude": 14.4213947,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reifen Stummer",
     "retailer": "reifen_stummer",
     "shop": "tyres",
     "latitude": 48.0551718,
-    "longitude": 14.4238296
+    "longitude": 14.4238296,
+    "postcode": "4400",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -105,13 +151,17 @@
     "shop": "clothes",
     "latitude": 48.0543934,
     "longitude": 14.4201598,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TEDi",
     "retailer": "tedi",
     "shop": "variety_store",
     "latitude": 48.0543123,
-    "longitude": 14.4201692
+    "longitude": 14.4201692,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "bakery",
     "latitude": 47.4395051,
     "longitude": 12.399721,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "C&A",
@@ -13,28 +17,42 @@
     "shop": "clothes",
     "latitude": 47.4392613,
     "longitude": 12.3997057,
-    "brand": "C&A"
+    "brand": "C&A",
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Department Store",
     "retailer": "shop_department_store",
     "shop": "department_store",
     "latitude": 47.4395169,
-    "longitude": 12.399515
+    "longitude": 12.399515,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kitz Grillhendl",
     "retailer": "kitz_grillhendl",
     "shop": "kiosk",
     "latitude": 47.4380693,
-    "longitude": 12.3998586
+    "longitude": 12.3998586,
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kitzbüheler Bestattung WV",
     "retailer": "kitzbuheler_bestattung_wv",
     "shop": "funeral_directors",
     "latitude": 47.4389145,
-    "longitude": 12.3999649
+    "longitude": 12.3999649,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -42,7 +60,11 @@
     "shop": "supermarket",
     "latitude": 47.4396723,
     "longitude": 12.399745,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TEDi",
@@ -50,7 +72,11 @@
     "shop": "variety_store",
     "latitude": 47.4389791,
     "longitude": 12.3999351,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Woolworth",
@@ -58,6 +84,10 @@
     "shop": "department_store",
     "latitude": 47.4394379,
     "longitude": 12.3993953,
-    "brand": "Woolworth"
+    "brand": "Woolworth",
+    "postcode": "6370",
+    "city": "Kitzbühel",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

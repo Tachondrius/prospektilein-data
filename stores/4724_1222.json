@@ -5,27 +5,37 @@
     "shop": "supermarket",
     "latitude": 47.2454033,
     "longitude": 12.2297993,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schroll",
     "retailer": "schroll",
     "shop": "bakery",
     "latitude": 47.2445592,
-    "longitude": 12.2292098
+    "longitude": 12.2292098,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schroll Back",
     "retailer": "schroll_back",
     "shop": "pastry",
     "latitude": 47.2444344,
-    "longitude": 12.2285235
+    "longitude": 12.2285235,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Unterwurzacher",
     "retailer": "unterwurzacher",
     "shop": "rental",
     "latitude": 47.2470881,
-    "longitude": 12.2244826
+    "longitude": 12.2244826,
+    "postcode": "5742",
+    "city": "Wald im Pinzgau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

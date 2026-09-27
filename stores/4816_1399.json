@@ -5,21 +5,31 @@
     "shop": "supermarket",
     "latitude": 48.1620651,
     "longitude": 13.9994488,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Orex",
     "retailer": "backerei_orex",
     "shop": "supermarket",
     "latitude": 48.1605521,
-    "longitude": 13.9956638
+    "longitude": 13.9956638,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Futterwerkstatt",
     "retailer": "futterwerkstatt",
     "shop": "pet",
     "latitude": 48.1682142,
-    "longitude": 13.9905524
+    "longitude": 13.9905524,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Liebesbrot Cafe",
@@ -27,6 +37,8 @@
     "shop": "bakery",
     "latitude": 48.1617694,
     "longitude": 13.9986252,
-    "brand": "Resch und Frisch"
+    "brand": "Resch und Frisch",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

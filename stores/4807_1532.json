@@ -4,14 +4,18 @@
     "retailer": "bestattung_horhan",
     "shop": "funeral_directors",
     "latitude": 48.0716066,
-    "longitude": 15.3205915
+    "longitude": 15.3205915,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gerhard Bischof",
     "retailer": "gerhard_bischof",
     "shop": "car",
     "latitude": 48.0735933,
-    "longitude": 15.322693
+    "longitude": 15.322693,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -19,6 +23,10 @@
     "shop": "supermarket",
     "latitude": 48.0716102,
     "longitude": 15.3251378,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "3241",
+    "city": "Kirnberg an der Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

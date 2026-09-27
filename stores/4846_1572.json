@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.4615217,
     "longitude": 15.7213614,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "3493",
+    "city": "Hadersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BIPA",
@@ -13,21 +17,31 @@
     "shop": "chemist",
     "latitude": 48.4616374,
     "longitude": 15.7210976,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "derBartl",
     "retailer": "derbartl",
     "shop": "bakery",
     "latitude": 48.4626545,
-    "longitude": 15.7225782
+    "longitude": 15.7225782,
+    "postcode": "3493",
+    "city": "Hadersdorf am Kamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "EP Zierlinger",
     "retailer": "ep_zierlinger",
     "shop": "electrical",
     "latitude": 48.4631952,
-    "longitude": 15.7208548
+    "longitude": 15.7208548,
+    "postcode": "3493",
+    "city": "Hadersdorf am Kamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -35,14 +49,20 @@
     "shop": "supermarket",
     "latitude": 48.4615805,
     "longitude": 15.7242241,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3493",
+    "city": "Hadersdorf am Kamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Szing",
     "retailer": "gartnerei_szing",
     "shop": "florist",
     "latitude": 48.4613351,
-    "longitude": 15.7239522
+    "longitude": 15.7239522,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "TOP",
@@ -50,13 +70,21 @@
     "shop": "yes",
     "latitude": 48.4632839,
     "longitude": 15.7229645,
-    "brand": "TOP"
+    "brand": "TOP",
+    "postcode": "3493",
+    "city": "Hadersdorf am Kamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wicki's KFZ Reinigung & Reifenservice",
     "retailer": "wicki_s_kfz_reinigung_und_reifenservice",
     "shop": "car_repair",
     "latitude": 48.4631098,
-    "longitude": 15.7220967
+    "longitude": 15.7220967,
+    "postcode": "3493",
+    "city": "Hadersdorf am Kamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

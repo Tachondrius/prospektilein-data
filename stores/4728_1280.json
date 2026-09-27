@@ -5,7 +5,9 @@
     "shop": "sports",
     "latitude": 47.2894686,
     "longitude": 12.8097124,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -13,7 +15,11 @@
     "shop": "supermarket",
     "latitude": 47.2892743,
     "longitude": 12.8084496,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5671",
+    "city": "Bruck an der Großglocknerstraße",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lagerhaus",
@@ -21,6 +27,10 @@
     "shop": "doityourself",
     "latitude": 47.2872609,
     "longitude": 12.8086275,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "5671",
+    "city": "Bruck an der Großglocknerstraße",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

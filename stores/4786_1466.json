@@ -5,7 +5,11 @@
     "shop": "chemist",
     "latitude": 47.8606213,
     "longitude": 14.6688057,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "3335",
+    "city": "Weyer Markt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus Weyer",
@@ -13,7 +17,11 @@
     "shop": "doityourself",
     "latitude": 47.8619819,
     "longitude": 14.6684227,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3335",
+    "city": "Weyer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -21,7 +29,9 @@
     "shop": "clothes",
     "latitude": 47.860342,
     "longitude": 14.6673022,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny",
@@ -29,6 +39,10 @@
     "shop": "supermarket",
     "latitude": 47.8606492,
     "longitude": 14.668426,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "3335",
+    "city": "Weyer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,13 +5,17 @@
     "shop": "supermarket",
     "latitude": 47.4682113,
     "longitude": 9.8970744,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Dorfsennerei",
     "retailer": "dorfsennerei",
     "shop": "farm",
     "latitude": 47.467341,
-    "longitude": 9.8974
+    "longitude": 9.8974,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

@@ -5,7 +5,9 @@
     "shop": "variety_store",
     "latitude": 48.1917338,
     "longitude": 14.5193067,
-    "brand": "Action"
+    "brand": "Action",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -13,7 +15,11 @@
     "shop": "clothes",
     "latitude": 48.1914645,
     "longitude": 14.5193777,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klipp",
@@ -21,13 +27,19 @@
     "shop": "hairdresser",
     "latitude": 48.1918469,
     "longitude": 14.5195892,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reifen Kneidinger",
     "retailer": "reifen_kneidinger",
     "shop": "tyres",
     "latitude": 48.1919594,
-    "longitude": 14.5172536
+    "longitude": 14.5172536,
+    "postcode": "4300",
+    "city": "St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

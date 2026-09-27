@@ -4,21 +4,31 @@
     "retailer": "backerei_hock",
     "shop": "bakery",
     "latitude": 47.2309969,
-    "longitude": 11.4074423
+    "longitude": 11.4074423,
+    "postcode": "6080",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farm",
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.2349994,
-    "longitude": 11.4022701
+    "longitude": 11.4022701,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kunstwerkstall",
     "retailer": "kunstwerkstall",
     "shop": "gift",
     "latitude": 47.2311898,
-    "longitude": 11.4091285
+    "longitude": 11.4091285,
+    "postcode": "6080",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -26,27 +36,43 @@
     "shop": "supermarket",
     "latitude": 47.2309744,
     "longitude": 11.4070527,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6080",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "s´Bliaml",
     "retailer": "s_bliaml",
     "shop": "florist",
     "latitude": 47.2306252,
-    "longitude": 11.4096468
+    "longitude": 11.4096468,
+    "postcode": "6080",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tauber",
     "retailer": "tauber",
     "shop": "florist",
     "latitude": 47.230352,
-    "longitude": 11.4083627
+    "longitude": 11.4083627,
+    "postcode": "6080",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Verlag Defner",
     "retailer": "verlag_defner",
     "shop": "gift",
     "latitude": 47.2318475,
-    "longitude": 11.4086574
+    "longitude": 11.4086574,
+    "postcode": "6080",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

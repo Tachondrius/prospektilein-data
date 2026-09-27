@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 48.3277561,
     "longitude": 14.3245894,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa stop & shop",
@@ -13,7 +15,11 @@
     "shop": "convenience",
     "latitude": 48.3284498,
     "longitude": 14.3216428,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -21,28 +27,38 @@
     "shop": "chemist",
     "latitude": 48.327679,
     "longitude": 14.3251881,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Cats & Dogs Tiernahrungs Boutique",
     "retailer": "cats_und_dogs_tiernahrungs_boutique",
     "shop": "pet",
     "latitude": 48.3292948,
-    "longitude": 14.3202031
+    "longitude": 14.3202031,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurowheels",
     "retailer": "eurowheels",
     "shop": "tyres",
     "latitude": 48.3279469,
-    "longitude": 14.3277903
+    "longitude": 14.3277903,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fenzl",
     "retailer": "fenzl",
     "shop": "bakery",
     "latitude": 48.3278875,
-    "longitude": 14.3288622
+    "longitude": 14.3288622,
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -50,34 +66,48 @@
     "shop": "supermarket",
     "latitude": 48.3287173,
     "longitude": 14.3251472,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "olina Küchen Ing. Matthias Aumayr",
     "retailer": "olina_kuchen_ing_matthias_aumayr",
     "shop": "kitchen",
     "latitude": 48.3276,
-    "longitude": 14.3259601
+    "longitude": 14.3259601,
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.3278897,
-    "longitude": 14.329522
+    "longitude": 14.329522,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Traudi Greil",
     "retailer": "traudi_greil",
     "shop": "hairdresser",
     "latitude": 48.3278948,
-    "longitude": 14.3289821
+    "longitude": 14.3289821,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wanggo",
     "retailer": "wanggo",
     "shop": "tyres",
     "latitude": 48.3281536,
-    "longitude": 14.3257511
+    "longitude": 14.3257511,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

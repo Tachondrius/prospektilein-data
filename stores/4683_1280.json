@@ -5,7 +5,9 @@
     "shop": "clothes",
     "latitude": 46.8312834,
     "longitude": 12.800423,
-    "brand": "BONITA"
+    "brand": "BONITA",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "C&A",
@@ -13,7 +15,9 @@
     "shop": "clothes",
     "latitude": 46.8312893,
     "longitude": 12.8002228,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Deichmann",
@@ -21,21 +25,29 @@
     "shop": "shoes",
     "latitude": 46.8310995,
     "longitude": 12.8000112,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Deli",
     "retailer": "shop_deli",
     "shop": "deli",
     "latitude": 46.8301523,
-    "longitude": 12.8077158
+    "longitude": 12.8077158,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Getränkewelt Handels GmbH",
     "retailer": "getrankewelt_handels_gmbh",
     "shop": "beverages",
     "latitude": 46.8301268,
-    "longitude": 12.8091791
+    "longitude": 12.8091791,
+    "postcode": "9990",
+    "city": "Nußdorf-Debant",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Interspar",
@@ -43,14 +55,18 @@
     "shop": "supermarket",
     "latitude": 46.8308395,
     "longitude": 12.8025299,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Northland",
     "retailer": "northland",
     "shop": "outdoor",
     "latitude": 46.8312834,
-    "longitude": 12.8005917
+    "longitude": 12.8005917,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pearle",
@@ -58,20 +74,26 @@
     "shop": "optician",
     "latitude": 46.8312775,
     "longitude": 12.8007861,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Klier",
     "retailer": "salon_klier",
     "shop": "hairdresser",
     "latitude": 46.8307061,
-    "longitude": 12.8022034
+    "longitude": 12.8022034,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 46.8308676,
-    "longitude": 12.802182
+    "longitude": 12.802182,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

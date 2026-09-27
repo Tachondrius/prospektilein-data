@@ -4,7 +4,11 @@
     "retailer": "das_gartenhauschen",
     "shop": "second_hand",
     "latitude": 47.2562508,
-    "longitude": 11.3170236
+    "longitude": 11.3170236,
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.2557039,
     "longitude": 11.3146325,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6176",
+    "city": "Völs",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

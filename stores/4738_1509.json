@@ -4,14 +4,20 @@
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 47.3824499,
-    "longitude": 15.0955154
+    "longitude": 15.0955154,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Baumann Copy",
     "retailer": "baumann_copy",
     "shop": "copyshop",
     "latitude": 47.3835936,
-    "longitude": 15.0943021
+    "longitude": 15.0943021,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -19,7 +25,10 @@
     "shop": "supermarket",
     "latitude": 47.3834231,
     "longitude": 15.0989491,
-    "brand": "Billa"
+    "brand": "Billa",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -27,7 +36,9 @@
     "shop": "chemist",
     "latitude": 47.3824954,
     "longitude": 15.0954645,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blue Tomato",
@@ -35,28 +46,44 @@
     "shop": "clothes",
     "latitude": 47.380461,
     "longitude": 15.0938262,
-    "brand": "Blue Tomato"
+    "brand": "Blue Tomato",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Schacherl",
     "retailer": "blumen_schacherl",
     "shop": "florist",
     "latitude": 47.3810687,
-    "longitude": 15.0943706
+    "longitude": 15.0943706,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Buchi`s",
     "retailer": "buchi_s",
     "shop": "butcher",
     "latitude": 47.3825707,
-    "longitude": 15.0955238
+    "longitude": 15.0955238,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Cafe Martini",
     "retailer": "cafe_martini",
     "shop": "bakery",
     "latitude": 47.3806021,
-    "longitude": 15.0943567
+    "longitude": 15.0943567,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "CCC",
@@ -64,56 +91,76 @@
     "shop": "shoes",
     "latitude": 47.3821742,
     "longitude": 15.0948261,
-    "brand": "CCC"
+    "brand": "CCC",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "City Friseur",
     "retailer": "city_friseur",
     "shop": "hairdresser",
     "latitude": 47.3805361,
-    "longitude": 15.0932832
+    "longitude": 15.0932832,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Cityfriseur Elke",
     "retailer": "cityfriseur_elke",
     "shop": "hairdresser",
     "latitude": 47.3818598,
-    "longitude": 15.0935218
+    "longitude": 15.0935218,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.3803263,
-    "longitude": 15.0940396
+    "longitude": 15.0940396,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.3804245,
-    "longitude": 15.0951499
+    "longitude": 15.0951499,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.381167,
-    "longitude": 15.0933718
+    "longitude": 15.0933718,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.3815586,
-    "longitude": 15.0948001
+    "longitude": 15.0948001,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.3817083,
-    "longitude": 15.094323
+    "longitude": 15.094323,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deichmann",
@@ -121,7 +168,9 @@
     "shop": "shoes",
     "latitude": 47.3821901,
     "longitude": 15.0948787,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -129,21 +178,33 @@
     "shop": "chemist",
     "latitude": 47.3822586,
     "longitude": 15.0954361,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "druckplatz.online",
     "retailer": "druckplatz_online",
     "shop": "copyshop",
     "latitude": 47.3894938,
-    "longitude": 15.0967512
+    "longitude": 15.0967512,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "EDV Pfingstl",
     "retailer": "edv_pfingstl",
     "shop": "computer",
     "latitude": 47.3839073,
-    "longitude": 15.0928482
+    "longitude": 15.0928482,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Eurospar",
@@ -151,7 +212,11 @@
     "shop": "supermarket",
     "latitude": 47.3825518,
     "longitude": 15.0959716,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fielmann",
@@ -159,42 +224,62 @@
     "shop": "optician",
     "latitude": 47.3814412,
     "longitude": 15.0944437,
-    "brand": "Fielmann"
+    "brand": "Fielmann",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fitness+Plus",
     "retailer": "fitness_plus_plus",
     "shop": "yes",
     "latitude": 47.3839907,
-    "longitude": 15.0928328
+    "longitude": 15.0928328,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Arno",
     "retailer": "friseur_arno",
     "shop": "hairdresser",
     "latitude": 47.3800927,
-    "longitude": 15.0953872
+    "longitude": 15.0953872,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "GeeksWelt",
     "retailer": "geekswelt",
     "shop": "mobile_phone",
     "latitude": 47.3809799,
-    "longitude": 15.09345
+    "longitude": 15.09345,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Genuß-Drogerie",
     "retailer": "genu_drogerie",
     "shop": "chemist",
     "latitude": 47.3809171,
-    "longitude": 15.0948966
+    "longitude": 15.0948966,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Goldschmiede Wieser",
     "retailer": "goldschmiede_wieser",
     "shop": "jewelry",
     "latitude": 47.3810945,
-    "longitude": 15.0938888
+    "longitude": 15.0938888,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "H&M",
@@ -202,35 +287,49 @@
     "shop": "clothes",
     "latitude": 47.3812886,
     "longitude": 15.0948557,
-    "brand": "H&M"
+    "brand": "H&M",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haarstudio Heidi",
     "retailer": "haarstudio_heidi",
     "shop": "hairdresser",
     "latitude": 47.3814844,
-    "longitude": 15.0931434
+    "longitude": 15.0931434,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairgott",
     "retailer": "hairgott",
     "shop": "hairdresser",
     "latitude": 47.3811412,
-    "longitude": 15.0929734
+    "longitude": 15.0929734,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HANDY GOLD SHOP",
     "retailer": "handy_gold_shop",
     "shop": "mobile_phone",
     "latitude": 47.3806419,
-    "longitude": 15.093219
+    "longitude": 15.093219,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HandyShop Leoben",
     "retailer": "handyshop_leoben",
     "shop": "mobile_phone",
     "latitude": 47.380869,
-    "longitude": 15.0949221
+    "longitude": 15.0949221,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hansaton",
@@ -238,63 +337,91 @@
     "shop": "hearing_aids",
     "latitude": 47.3811723,
     "longitude": 15.0935082,
-    "brand": "Hansaton"
+    "brand": "Hansaton",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hartlauer",
     "retailer": "hartlauer",
     "shop": "electronics;optician",
     "latitude": 47.3812337,
-    "longitude": 15.0938807
+    "longitude": 15.0938807,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haus der Region",
     "retailer": "haus_der_region",
     "shop": "yes",
     "latitude": 47.3803431,
-    "longitude": 15.0933816
+    "longitude": 15.0933816,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Heumann",
     "retailer": "heumann",
     "shop": "optician",
     "latitude": 47.3810263,
-    "longitude": 15.0930275
+    "longitude": 15.0930275,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intercoiffeur Mayer",
     "retailer": "intercoiffeur_mayer",
     "shop": "hairdresser",
     "latitude": 47.3841831,
-    "longitude": 15.0932349
+    "longitude": 15.0932349,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Irina's Käseeck",
     "retailer": "irina_s_kaseeck",
     "shop": "cheese",
     "latitude": 47.3811771,
-    "longitude": 15.0943248
+    "longitude": 15.0943248,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Jahrbacher",
     "retailer": "jahrbacher",
     "shop": "antiques",
     "latitude": 47.3800115,
-    "longitude": 15.0925218
+    "longitude": 15.0925218,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Juwelier Heike Payer",
     "retailer": "juwelier_heike_payer",
     "shop": "jewelry",
     "latitude": 47.3819099,
-    "longitude": 15.0949208
+    "longitude": 15.0949208,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kerzen & Geschenke Shop",
     "retailer": "kerzen_und_geschenke_shop",
     "shop": "gift",
     "latitude": 47.3804648,
-    "longitude": 15.0932968
+    "longitude": 15.0932968,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
@@ -302,35 +429,53 @@
     "shop": "hairdresser",
     "latitude": 47.3825184,
     "longitude": 15.0955746,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lausecker",
     "retailer": "lausecker",
     "shop": "locksmith",
     "latitude": 47.3810391,
-    "longitude": 15.0937007
+    "longitude": 15.0937007,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "LCS",
     "retailer": "lcs",
     "shop": "mall",
     "latitude": 47.3816567,
-    "longitude": 15.0954479
+    "longitude": 15.0954479,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lottery",
     "retailer": "shop_lottery",
     "shop": "lottery",
     "latitude": 47.3807938,
-    "longitude": 15.0952682
+    "longitude": 15.0952682,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Magart",
     "retailer": "magart",
     "shop": "tobacco",
     "latitude": 47.382269,
-    "longitude": 15.0976946
+    "longitude": 15.0976946,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Martin Auer",
@@ -338,7 +483,9 @@
     "shop": "bakery",
     "latitude": 47.3810609,
     "longitude": 15.0942078,
-    "brand": "Martin Auer"
+    "brand": "Martin Auer",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MediaMarkt",
@@ -346,14 +493,22 @@
     "shop": "electronics",
     "latitude": 47.3827438,
     "longitude": 15.0959955,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Modehaus Marchler",
     "retailer": "modehaus_marchler",
     "shop": "clothes",
     "latitude": 47.3805319,
-    "longitude": 15.0941105
+    "longitude": 15.0941105,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Morawa",
@@ -361,21 +516,31 @@
     "shop": "books",
     "latitude": 47.3808062,
     "longitude": 15.0943181,
-    "brand": "Morawa"
+    "brand": "Morawa",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Musikhaus Pilat",
     "retailer": "musikhaus_pilat",
     "shop": "musical_instrument",
     "latitude": 47.3800388,
-    "longitude": 15.0952976
+    "longitude": 15.0952976,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Müller",
     "retailer": "mueller",
     "shop": "department_store",
     "latitude": 47.3813294,
-    "longitude": 15.094107
+    "longitude": 15.094107,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Neuroth",
@@ -383,14 +548,20 @@
     "shop": "hearing_aids",
     "latitude": 47.3809068,
     "longitude": 15.0931132,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.3818542,
-    "longitude": 15.0938021
+    "longitude": 15.0938021,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pearle",
@@ -398,77 +569,115 @@
     "shop": "optician",
     "latitude": 47.3811916,
     "longitude": 15.0936324,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PRISMA MODE",
     "retailer": "prisma_mode",
     "shop": "clothes",
     "latitude": 47.3807226,
-    "longitude": 15.093193
+    "longitude": 15.093193,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rattenegger",
     "retailer": "rattenegger",
     "shop": "shoes",
     "latitude": 47.3804313,
-    "longitude": 15.0936804
+    "longitude": 15.0936804,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Romeo & Giulietta",
     "retailer": "romeo_und_giulietta",
     "shop": "clothes",
     "latitude": 47.3822831,
-    "longitude": 15.0952718
+    "longitude": 15.0952718,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Salon Ka-Ma",
     "retailer": "salon_ka_ma",
     "shop": "hairdresser",
     "latitude": 47.3840324,
-    "longitude": 15.0925063
+    "longitude": 15.0925063,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schacherl",
     "retailer": "schacherl",
     "shop": "florist",
     "latitude": 47.3834142,
-    "longitude": 15.0984058
+    "longitude": 15.0984058,
+    "postcode": "8700",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schokoria Elisabeth",
     "retailer": "schokoria_elisabeth",
     "shop": "confectionery",
     "latitude": 47.3802769,
-    "longitude": 15.0931608
+    "longitude": 15.0931608,
+    "postcode": "8700",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "SilStore",
     "retailer": "silstore",
     "shop": "clothes",
     "latitude": 47.380839,
-    "longitude": 15.0949395
+    "longitude": 15.0949395,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sorger",
     "retailer": "sorger",
     "shop": "bakery",
     "latitude": 47.3814921,
-    "longitude": 15.0946269
+    "longitude": 15.0946269,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "tera.sys",
     "retailer": "tera_sys",
     "shop": "computer",
     "latitude": 47.3848633,
-    "longitude": 15.0923886
+    "longitude": 15.0923886,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trend Herrenmode",
     "retailer": "trend_herrenmode",
     "shop": "clothes",
     "latitude": 47.3800418,
-    "longitude": 15.0967635
+    "longitude": 15.0967635,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Triumph",
@@ -476,21 +685,31 @@
     "shop": "clothes",
     "latitude": 47.3811559,
     "longitude": 15.0941583,
-    "brand": "Triumph"
+    "brand": "Triumph",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Uhrenfachgeschäft Amberger",
     "retailer": "uhrenfachgeschaft_amberger",
     "shop": "jewelry",
     "latitude": 47.3804451,
-    "longitude": 15.0944677
+    "longitude": 15.0944677,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Valentina",
     "retailer": "valentina",
     "shop": "clothes",
     "latitude": 47.3821357,
-    "longitude": 15.0957198
+    "longitude": 15.0957198,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wutscher Optik",
@@ -498,13 +717,21 @@
     "shop": "optician",
     "latitude": 47.3824917,
     "longitude": 15.0935449,
-    "brand": "sehen!wutscher"
+    "brand": "sehen!wutscher",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zierstich",
     "retailer": "zierstich",
     "shop": "tattoo",
     "latitude": 47.3837818,
-    "longitude": 15.0929075
+    "longitude": 15.0929075,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

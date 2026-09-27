@@ -5,20 +5,28 @@
     "shop": "motorcycle",
     "latitude": 47.5772387,
     "longitude": 12.6983908,
-    "brand": "Honda"
+    "brand": "Honda",
+    "postcode": "5092",
+    "city": "Sankt Martin bei Lofer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Plattner",
     "retailer": "plattner",
     "shop": "florist",
     "latitude": 47.5772096,
-    "longitude": 12.6992794
+    "longitude": 12.6992794,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Plattner Blütenflair & Gartenlust",
     "retailer": "plattner_blutenflair_und_gartenlust",
     "shop": "garden_centre",
     "latitude": 47.577172,
-    "longitude": 12.6993965
+    "longitude": 12.6993965,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

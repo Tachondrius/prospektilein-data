@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 48.2927509,
     "longitude": 15.9329703,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3451",
+    "city": "Michelhausen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Michelhausen",
     "retailer": "lagerhaus_michelhausen",
     "shop": "garden_centre",
     "latitude": 48.2928919,
-    "longitude": 15.9321472
+    "longitude": 15.9321472,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.2906519,
-    "longitude": 15.9380223
+    "longitude": 15.9380223,
+    "postcode": "3451",
+    "city": "Michelhausen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

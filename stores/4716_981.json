@@ -4,7 +4,10 @@
     "retailer": "druckerei_schuricht",
     "shop": "copyshop",
     "latitude": 47.1612813,
-    "longitude": 9.8137577
+    "longitude": 9.8137577,
+    "postcode": "6700",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -12,13 +15,21 @@
     "shop": "supermarket",
     "latitude": 47.1635365,
     "longitude": 9.8107228,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Uhren Atelier Friesenecker",
     "retailer": "uhren_atelier_friesenecker",
     "shop": "watches",
     "latitude": 47.1627804,
-    "longitude": 9.8113255
+    "longitude": 9.8113255,
+    "postcode": "6700",
+    "city": "Bludenz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

@@ -5,28 +5,44 @@
     "shop": "supermarket",
     "latitude": 47.0473117,
     "longitude": 15.3944305,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8052",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ekromed Bandagist",
     "retailer": "ekromed_bandagist",
     "shop": "medical_supply",
     "latitude": 47.0441918,
-    "longitude": 15.3956778
+    "longitude": 15.3956778,
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.0471327,
-    "longitude": 15.395095
+    "longitude": 15.395095,
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairmaster",
     "retailer": "hairmaster",
     "shop": "hairdresser",
     "latitude": 47.046799,
-    "longitude": 15.3950552
+    "longitude": 15.3950552,
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Jet",
@@ -34,21 +50,31 @@
     "shop": "convenience",
     "latitude": 47.0460916,
     "longitude": 15.3951988,
-    "brand": "JET"
+    "brand": "JET",
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Massage Ausbildungszentrum Bergler",
     "retailer": "massage_ausbildungszentrum_bergler",
     "shop": "massage",
     "latitude": 47.0471516,
-    "longitude": 15.3944278
+    "longitude": 15.3944278,
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schuh- und Schlüsseldienst PESKOLLER",
     "retailer": "schuh_und_schlusseldienst_peskoller",
     "shop": "locksmith",
     "latitude": 47.0491577,
-    "longitude": 15.3950362
+    "longitude": 15.3950362,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -56,20 +82,32 @@
     "shop": "supermarket",
     "latitude": 47.0477139,
     "longitude": 15.3955377,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8052",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik Scheiber",
     "retailer": "tabak_trafik_scheiber",
     "shop": "tobacco",
     "latitude": 47.0465933,
-    "longitude": 15.3975701
+    "longitude": 15.3975701,
+    "postcode": "8053",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Waschen & Putzen",
     "retailer": "waschen_und_putzen",
     "shop": "laundry",
     "latitude": 47.0498919,
-    "longitude": 15.3943683
+    "longitude": 15.3943683,
+    "postcode": "8052",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,27 +4,40 @@
     "retailer": "shop_bicycle",
     "shop": "bicycle",
     "latitude": 47.7423089,
-    "longitude": 16.8306596
+    "longitude": 16.8306596,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Gemüse Tyrner",
     "retailer": "gemuse_tyrner",
     "shop": "greengrocer",
     "latitude": 47.7459842,
-    "longitude": 16.8314678
+    "longitude": 16.8314678,
+    "postcode": "7143",
+    "city": "Apetlon",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.7410438,
-    "longitude": 16.833461
+    "longitude": 16.833461,
+    "postcode": "7143",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.7424162,
-    "longitude": 16.8348007
+    "longitude": 16.8348007,
+    "postcode": "7143",
+    "city": "Apetlon",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

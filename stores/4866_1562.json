@@ -4,7 +4,11 @@
     "retailer": "autohaus_kammerhofer",
     "shop": "car",
     "latitude": 48.6660677,
-    "longitude": 15.628862
+    "longitude": 15.628862,
+    "postcode": "3580",
+    "city": "St. Bernhard-Frauenhofen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BMW Dalamassl",
@@ -12,20 +16,28 @@
     "shop": "car",
     "latitude": 48.6673728,
     "longitude": 15.6288656,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "3580",
+    "city": "St. Bernhard-Frauenhofen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.6661678,
-    "longitude": 15.6288834
+    "longitude": 15.6288834,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.6675212,
-    "longitude": 15.6289263
+    "longitude": 15.6289263,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

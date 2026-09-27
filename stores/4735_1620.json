@@ -4,41 +4,58 @@
     "retailer": "shop_books",
     "shop": "books",
     "latitude": 47.350623,
-    "longitude": 16.2077991
+    "longitude": 16.2077991,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "General",
     "retailer": "shop_general",
     "shop": "general",
     "latitude": 47.3503542,
-    "longitude": 16.2072148
+    "longitude": 16.2072148,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Kaufhaus Murlasits",
     "retailer": "kaufhaus_murlasits",
     "shop": "supermarket",
     "latitude": 47.3503948,
-    "longitude": 16.2072531
+    "longitude": 16.2072531,
+    "postcode": "7432",
+    "city": "Oberschützen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "KRAHU Strong Cider",
     "retailer": "krahu_strong_cider",
     "shop": "convenience",
     "latitude": 47.3544222,
-    "longitude": 16.2074163
+    "longitude": 16.2074163,
+    "postcode": "7432",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Murlasits",
     "retailer": "murlasits",
     "shop": "general",
     "latitude": 47.3503531,
-    "longitude": 16.2071726
+    "longitude": 16.2071726,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Sauladen Biohof Unger",
     "retailer": "sauladen_biohof_unger",
     "shop": "farm",
     "latitude": 47.3564767,
-    "longitude": 16.2080101
+    "longitude": 16.2080101,
+    "postcode": "7432",
+    "city": "Oberschützen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

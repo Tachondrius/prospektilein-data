@@ -5,42 +5,64 @@
     "shop": "supermarket",
     "latitude": 47.9772203,
     "longitude": 16.3208954,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Roschmann",
     "retailer": "blumen_roschmann",
     "shop": "florist",
     "latitude": 47.9777802,
-    "longitude": 16.3234137
+    "longitude": 16.3234137,
+    "postcode": "2522",
+    "city": "Oberwaltersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Graf",
     "retailer": "backerei_graf",
     "shop": "bakery",
     "latitude": 47.9784588,
-    "longitude": 16.3226668
+    "longitude": 16.3226668,
+    "postcode": "2522",
+    "city": "Oberwaltersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DECKER Karosserie und Lackierzentrum GmbH",
     "retailer": "decker_karosserie_und_lackierzentrum_gmbh",
     "shop": "car_repair",
     "latitude": 47.9765782,
-    "longitude": 16.3210008
+    "longitude": 16.3210008,
+    "postcode": "2522",
+    "city": "Oberwaltersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei Imbiss Schneidhofer",
     "retailer": "fleischerei_imbiss_schneidhofer",
     "shop": "butcher",
     "latitude": 47.977515,
-    "longitude": 16.3209797
+    "longitude": 16.3209797,
+    "postcode": "2522",
+    "city": "Oberwaltersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ-Karasek",
     "retailer": "kfz_karasek",
     "shop": "car_repair",
     "latitude": 47.9731834,
-    "longitude": 16.3286246
+    "longitude": 16.3286246,
+    "postcode": "2522",
+    "city": "Oberwaltersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik Buratti",
@@ -48,6 +70,10 @@
     "shop": "tobacco",
     "latitude": 47.9773852,
     "longitude": 16.3228887,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "2522",
+    "city": "Oberwaltersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

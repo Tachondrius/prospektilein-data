@@ -4,7 +4,9 @@
     "retailer": "augl_fahrzeugtechnik",
     "shop": "car",
     "latitude": 48.235633,
-    "longitude": 14.2344185
+    "longitude": 14.2344185,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Auto Eder",
@@ -12,84 +14,114 @@
     "shop": "car",
     "latitude": 48.236928,
     "longitude": 14.2341741,
-    "brand": "Mazda;Kia"
+    "brand": "Mazda;Kia",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Cbdnol",
     "retailer": "cbdnol",
     "shop": "herbalist",
     "latitude": 48.2308061,
-    "longitude": 14.2335371
+    "longitude": 14.2335371,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "DEICHMANN",
     "retailer": "deichmann",
     "shop": "shoes",
     "latitude": 48.2346409,
-    "longitude": 14.2366549
+    "longitude": 14.2366549,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "DM",
     "retailer": "dm",
     "shop": "chemist",
     "latitude": 48.2347621,
-    "longitude": 14.2370395
+    "longitude": 14.2370395,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dorotheum",
     "retailer": "dorotheum",
     "shop": "auction_house",
     "latitude": 48.2366011,
-    "longitude": 14.2397857
+    "longitude": 14.2397857,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ernsting's Family",
     "retailer": "ernsting_s_family",
     "shop": "clothes",
     "latitude": 48.234584,
-    "longitude": 14.2364743
+    "longitude": 14.2364743,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fliesenparadies Steffel",
     "retailer": "fliesenparadies_steffel",
     "shop": "doityourself",
     "latitude": 48.238621,
-    "longitude": 14.2325279
+    "longitude": 14.2325279,
+    "postcode": "4061",
+    "city": "Pasching",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fressnapf",
     "retailer": "fressnapf",
     "shop": "pet",
     "latitude": 48.2348254,
-    "longitude": 14.2372403
+    "longitude": 14.2372403,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "FUSSL Modestraße",
     "retailer": "fussl_modestrae",
     "shop": "clothes",
     "latitude": 48.2347032,
-    "longitude": 14.2368525
+    "longitude": 14.2368525,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Grötzmeier",
     "retailer": "grotzmeier",
     "shop": "motorcycle",
     "latitude": 48.23803,
-    "longitude": 14.2328535
+    "longitude": 14.2328535,
+    "postcode": "4061",
+    "city": "Pasching",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haubis Backstube",
     "retailer": "haubis_backstube",
     "shop": "bakery",
     "latitude": 48.2346047,
-    "longitude": 14.2347762
+    "longitude": 14.2347762,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
     "retailer": "hofer",
     "shop": "supermarket",
     "latitude": 48.2354916,
-    "longitude": 14.2370294
+    "longitude": 14.2370294,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Honda Magnum",
@@ -97,21 +129,31 @@
     "shop": "motorcycle",
     "latitude": 48.2312007,
     "longitude": 14.2331946,
-    "brand": "Honda"
+    "brand": "Honda",
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Intersport",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 48.234463,
-    "longitude": 14.2360902
+    "longitude": 14.2360902,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "kik",
     "retailer": "kik",
     "shop": "clothes",
     "latitude": 48.2349085,
-    "longitude": 14.2375042
+    "longitude": 14.2375042,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Louis Traun",
@@ -119,27 +161,37 @@
     "shop": "motorcycle",
     "latitude": 48.2360326,
     "longitude": 14.2382424,
-    "brand": "Louis Motorrad"
+    "brand": "Louis Motorrad",
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mayer & Kunz vita-med",
     "retailer": "mayer_und_kunz_vita_med",
     "shop": "bed",
     "latitude": 48.2358352,
-    "longitude": 14.2385602
+    "longitude": 14.2385602,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Orion",
     "retailer": "orion",
     "shop": "erotic",
     "latitude": 48.2373185,
-    "longitude": 14.235268
+    "longitude": 14.235268,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "THK",
     "retailer": "thk",
     "shop": "hardware",
     "latitude": 48.2364899,
-    "longitude": 14.2347698
+    "longitude": 14.2347698,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

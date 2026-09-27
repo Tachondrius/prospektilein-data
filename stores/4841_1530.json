@@ -4,49 +4,65 @@
     "retailer": "artner_gmbh",
     "shop": "car",
     "latitude": 48.4180311,
-    "longitude": 15.30762
+    "longitude": 15.30762,
+    "postcode": "3623",
+    "city": "Kottes-Purk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Böhm Lydia - Friseur",
     "retailer": "bohm_lydia_friseur",
     "shop": "hairdresser",
     "latitude": 48.4183658,
-    "longitude": 15.30829
+    "longitude": 15.30829,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Grabner Alfred - Fleischerei",
     "retailer": "grabner_alfred_fleischerei",
     "shop": "butcher",
     "latitude": 48.415438,
-    "longitude": 15.3043958
+    "longitude": 15.3043958,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei, Gartengestaltung Christian Dornhackl",
     "retailer": "gartnerei_gartengestaltung_christian_dornhackl",
     "shop": "garden_centre",
     "latitude": 48.4185788,
-    "longitude": 15.3088306
+    "longitude": 15.3088306,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Kottes",
     "retailer": "lagerhaus_kottes",
     "shop": "doityourself",
     "latitude": 48.4176114,
-    "longitude": 15.3053789
+    "longitude": 15.3053789,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Kottes - Werkstätte PKW",
     "retailer": "lagerhaus_kottes_werkstatte_pkw",
     "shop": "car_repair",
     "latitude": 48.4172984,
-    "longitude": 15.3055674
+    "longitude": 15.3055674,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schönhofer Renate",
     "retailer": "schonhofer_renate",
     "shop": "shoes",
     "latitude": 48.415632,
-    "longitude": 15.3032921
+    "longitude": 15.3032921,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -54,6 +70,10 @@
     "shop": "supermarket",
     "latitude": 48.4180343,
     "longitude": 15.3060993,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3623",
+    "city": "Kottes-Purk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

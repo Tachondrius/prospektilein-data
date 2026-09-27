@@ -4,7 +4,9 @@
     "retailer": "depot",
     "shop": "furniture",
     "latitude": 46.8307004,
-    "longitude": 12.7999626
+    "longitude": 12.7999626,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dm",
@@ -12,21 +14,29 @@
     "shop": "chemist",
     "latitude": 46.8308902,
     "longitude": 12.7999798,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Garden Centre",
     "retailer": "shop_garden_centre",
     "shop": "garden_centre",
     "latitude": 46.8306199,
-    "longitude": 12.7958122
+    "longitude": 12.7958122,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gärtnerei Seeber",
     "retailer": "gartnerei_seeber",
     "shop": "garden_centre",
     "latitude": 46.8300827,
-    "longitude": 12.7928813
+    "longitude": 12.7928813,
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hervis",
@@ -34,7 +44,9 @@
     "shop": "sports",
     "latitude": 46.8303541,
     "longitude": 12.7999254,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Libro",
@@ -42,6 +54,8 @@
     "shop": "books",
     "latitude": 46.8305302,
     "longitude": 12.7999483,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

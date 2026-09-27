@@ -4,21 +4,31 @@
     "retailer": "bioflora_nahrungserganzungsmittel_und_kosmetikproduktion",
     "shop": "cosmetics",
     "latitude": 47.8275281,
-    "longitude": 13.0588278
+    "longitude": 13.0588278,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "BlickFang",
     "retailer": "blickfang",
     "shop": "hairdresser",
     "latitude": 47.822448,
-    "longitude": 13.0501768
+    "longitude": 13.0501768,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "CarTech OG",
     "retailer": "cartech_og",
     "shop": "car_repair",
     "latitude": 47.8239599,
-    "longitude": 13.0591258
+    "longitude": 13.0591258,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Forstinger",
@@ -26,35 +36,53 @@
     "shop": "car_repair",
     "latitude": 47.8201015,
     "longitude": 13.0568113,
-    "brand": "Forstinger"
+    "brand": "Forstinger",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Glaserei Holzer",
     "retailer": "glaserei_holzer",
     "shop": "glaziery",
     "latitude": 47.8255244,
-    "longitude": 13.0513944
+    "longitude": 13.0513944,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hairshine",
     "retailer": "hairshine",
     "shop": "hairdresser",
     "latitude": 47.824329,
-    "longitude": 13.0510847
+    "longitude": 13.0510847,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Henelit",
     "retailer": "henelit",
     "shop": "paint",
     "latitude": 47.8201798,
-    "longitude": 13.0561331
+    "longitude": 13.0561331,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hilti",
     "retailer": "hilti",
     "shop": "tools",
     "latitude": 47.8295288,
-    "longitude": 13.0573261
+    "longitude": 13.0573261,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lidl",
@@ -62,21 +90,30 @@
     "shop": "supermarket",
     "latitude": 47.8231545,
     "longitude": 13.0515276,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "5020",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Michi's Radladen",
     "retailer": "michi_s_radladen",
     "shop": "bicycle",
     "latitude": 47.8247911,
-    "longitude": 13.0550807
+    "longitude": 13.0550807,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mister Gin",
     "retailer": "mister_gin",
     "shop": "alcohol",
     "latitude": 47.8248288,
-    "longitude": 13.0503181
+    "longitude": 13.0503181,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mix Markt",
@@ -84,21 +121,33 @@
     "shop": "supermarket",
     "latitude": 47.8225309,
     "longitude": 13.0506063,
-    "brand": "Mix Markt"
+    "brand": "Mix Markt",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "plants4friends Growshop",
     "retailer": "plants4friends_growshop",
     "shop": "garden_centre",
     "latitude": 47.8251302,
-    "longitude": 13.0582161
+    "longitude": 13.0582161,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schraubwerk",
     "retailer": "schraubwerk",
     "shop": "car_repair",
     "latitude": 47.8239943,
-    "longitude": 13.0594728
+    "longitude": 13.0594728,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Shell",
@@ -106,7 +155,9 @@
     "shop": "convenience",
     "latitude": 47.8201362,
     "longitude": 13.0533495,
-    "brand": "Shell"
+    "brand": "Shell",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sonnleitner Salzburg",
@@ -114,7 +165,11 @@
     "shop": "car",
     "latitude": 47.8259715,
     "longitude": 13.0555505,
-    "brand": "Renault"
+    "brand": "Renault",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabaktrafik",
@@ -122,6 +177,10 @@
     "shop": "tobacco",
     "latitude": 47.8246092,
     "longitude": 13.0508722,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -4,20 +4,30 @@
     "retailer": "bayer_backerei_und_cafe",
     "shop": "supermarket",
     "latitude": 47.3652432,
-    "longitude": 16.2309994
+    "longitude": 16.2309994,
+    "postcode": "7433",
+    "city": "Mariasdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Kappl",
     "retailer": "kappl",
     "shop": "car_repair",
     "latitude": 47.3629875,
-    "longitude": 16.2398629
+    "longitude": 16.2398629,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Otto Kern",
     "retailer": "otto_kern",
     "shop": "clothes",
     "latitude": 47.3654333,
-    "longitude": 16.2303306
+    "longitude": 16.2303306,
+    "postcode": "7433",
+    "city": "Mariasdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

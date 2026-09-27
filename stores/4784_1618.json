@@ -5,27 +5,41 @@
     "shop": "truck_repair",
     "latitude": 47.8427638,
     "longitude": 16.1863222,
-    "brand": "Fiat Professional;Mercedes-Benz;DAF;Daimler"
+    "brand": "Fiat Professional;Mercedes-Benz;DAF;Daimler",
+    "postcode": "2721",
+    "city": "Bad Fischau-Brunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.8484036,
-    "longitude": 16.1830115
+    "longitude": 16.1830115,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MAN Topused",
     "retailer": "man_topused",
     "shop": "car",
     "latitude": 47.8454145,
-    "longitude": 16.1871029
+    "longitude": 16.1871029,
+    "postcode": "2721",
+    "city": "Bad Fischau-Brunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MAN Truck Center",
     "retailer": "man_truck_center",
     "shop": "car",
     "latitude": 47.8448143,
-    "longitude": 16.1876157
+    "longitude": 16.1876157,
+    "postcode": "2721",
+    "city": "Bad Fischau-Brunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

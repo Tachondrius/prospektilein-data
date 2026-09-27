@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.1327622,
     "longitude": 13.6837199,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "5570",
+    "city": "Mauterndorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Autohaus Griessner",
@@ -13,76 +17,114 @@
     "shop": "car",
     "latitude": 47.13247,
     "longitude": 13.6839509,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "postcode": "5570",
+    "city": "Mauterndorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Autohaus Griessner",
     "retailer": "autohaus_griessner",
     "shop": "car",
     "latitude": 47.1334762,
-    "longitude": 13.6838783
+    "longitude": 13.6838783,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Autohaus Griessner",
     "retailer": "autohaus_griessner",
     "shop": "car_repair",
     "latitude": 47.1337984,
-    "longitude": 13.6842687
+    "longitude": 13.6842687,
+    "postcode": "5570",
+    "city": "Mauterndorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Autohaus Griessner",
     "retailer": "autohaus_griessner",
     "shop": "car",
     "latitude": 47.1341789,
-    "longitude": 13.6840944
+    "longitude": 13.6840944,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Blumenstube",
     "retailer": "blumenstube",
     "shop": "florist",
     "latitude": 47.1322566,
-    "longitude": 13.6839112
+    "longitude": 13.6839112,
+    "postcode": "5570",
+    "city": "Mauterndorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Binggl",
     "retailer": "backerei_binggl",
     "shop": "bakery",
     "latitude": 47.1334004,
-    "longitude": 13.6802752
+    "longitude": 13.6802752,
+    "postcode": "5570",
+    "city": "Mauterndorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Headwork",
     "retailer": "headwork",
     "shop": "hairdresser",
     "latitude": 47.1325763,
-    "longitude": 13.6833757
+    "longitude": 13.6833757,
+    "postcode": "5570",
+    "city": "Mauterndorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Huber Wollestube",
     "retailer": "huber_wollestube",
     "shop": "clothes",
     "latitude": 47.1336311,
-    "longitude": 13.6807192
+    "longitude": 13.6807192,
+    "postcode": "5570",
+    "city": "Mauterndorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kosmetik Mauterndorf Waltraud Leitner",
     "retailer": "kosmetik_mauterndorf_waltraud_leitner",
     "shop": "beauty",
     "latitude": 47.133578,
-    "longitude": 13.681899
+    "longitude": 13.681899,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mirabell Plummer",
     "retailer": "mirabell_plummer",
     "shop": "clothes",
     "latitude": 47.1336249,
-    "longitude": 13.681055
+    "longitude": 13.681055,
+    "postcode": "5570",
+    "city": "Mauterndorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Trachtenstube Mauterndorf",
     "retailer": "trachtenstube_mauterndorf",
     "shop": "clothes",
     "latitude": 47.1336146,
-    "longitude": 13.6803736
+    "longitude": 13.6803736,
+    "postcode": "5570",
+    "city": "Mauterndorf",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "forstinger",
     "shop": "car_parts",
     "latitude": 48.0496889,
-    "longitude": 15.6123593
+    "longitude": 15.6123593,
+    "postcode": "3160",
+    "city": "Traisen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -12,7 +16,9 @@
     "shop": "supermarket",
     "latitude": 48.0494404,
     "longitude": 15.6113533,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -20,6 +26,10 @@
     "shop": "clothes",
     "latitude": 48.0496476,
     "longitude": 15.6127623,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "3160",
+    "city": "Traisen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

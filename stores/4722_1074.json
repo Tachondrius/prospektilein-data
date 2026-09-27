@@ -4,7 +4,9 @@
     "retailer": "autoteile_4_more",
     "shop": "car_parts",
     "latitude": 47.2205427,
-    "longitude": 10.7423571
+    "longitude": 10.7423571,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,49 +14,69 @@
     "shop": "bakery",
     "latitude": 47.2292546,
     "longitude": 10.7446584,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baustoffe Canal Imst",
     "retailer": "baustoffe_canal_imst",
     "shop": "trade",
     "latitude": 47.2284681,
-    "longitude": 10.7492646
+    "longitude": 10.7492646,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumenfrau",
     "retailer": "blumenfrau",
     "shop": "florist",
     "latitude": 47.227732,
-    "longitude": 10.7492919
+    "longitude": 10.7492919,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Easy Lift",
     "retailer": "easy_lift",
     "shop": "rental",
     "latitude": 47.2262044,
-    "longitude": 10.7479669
+    "longitude": 10.7479669,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Falkner Feinkost",
     "retailer": "falkner_feinkost",
     "shop": "butcher",
     "latitude": 47.2252038,
-    "longitude": 10.7490952
+    "longitude": 10.7490952,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farben Morscher",
     "retailer": "farben_morscher",
     "shop": "paint",
     "latitude": 47.229859,
-    "longitude": 10.744248
+    "longitude": 10.744248,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fleischhof Oberland",
     "retailer": "fleischhof_oberland",
     "shop": "butcher",
     "latitude": 47.2251544,
-    "longitude": 10.7488467
+    "longitude": 10.7488467,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -62,14 +84,22 @@
     "shop": "supermarket",
     "latitude": 47.222676,
     "longitude": 10.7448989,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Let's DoIt",
     "retailer": "let_s_doit",
     "shop": "doityourself",
     "latitude": 47.2254836,
-    "longitude": 10.7487089
+    "longitude": 10.7487089,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -77,21 +107,29 @@
     "shop": "supermarket",
     "latitude": 47.2292016,
     "longitude": 10.7444672,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Paul's Küchen & Wohndesign",
     "retailer": "paul_s_kuchen_und_wohndesign",
     "shop": "kitchen",
     "latitude": 47.2287616,
-    "longitude": 10.7446825
+    "longitude": 10.7446825,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Reifen Achleitner",
     "retailer": "reifen_achleitner",
     "shop": "car_repair",
     "latitude": 47.2286906,
-    "longitude": 10.7447141
+    "longitude": 10.7447141,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -99,20 +137,30 @@
     "shop": "supermarket",
     "latitude": 47.2283341,
     "longitude": 10.7448703,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Unser Lagerhaus",
     "retailer": "unser_lagerhaus",
     "shop": "yes",
     "latitude": 47.2219112,
-    "longitude": 10.7458563
+    "longitude": 10.7458563,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zorn-Wolf",
     "retailer": "zorn_wolf",
     "shop": "car",
     "latitude": 47.2284215,
-    "longitude": 10.7461036
+    "longitude": 10.7461036,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

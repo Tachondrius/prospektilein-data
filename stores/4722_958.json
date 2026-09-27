@@ -4,14 +4,20 @@
     "retailer": "backerei_steinberg",
     "shop": "bakery",
     "latitude": 47.2287761,
-    "longitude": 9.5805124
+    "longitude": 9.5805124,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kibar Süpermarkt",
     "retailer": "kibar_supermarkt",
     "shop": "supermarket",
     "latitude": 47.2264666,
-    "longitude": 9.5829146
+    "longitude": 9.5829146,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Orion",
@@ -19,13 +25,21 @@
     "shop": "erotic",
     "latitude": 47.2259583,
     "longitude": 9.5831929,
-    "brand": "Orion"
+    "brand": "Orion",
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "SPAR Markt Albrecht",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 47.226911,
-    "longitude": 9.5833173
+    "longitude": 9.5833173,
+    "postcode": "6800",
+    "city": "Feldkirch",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

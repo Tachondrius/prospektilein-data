@@ -4,7 +4,11 @@
     "retailer": "bhg_greenfield_gmbh",
     "shop": "tea",
     "latitude": 47.3546274,
-    "longitude": 15.0730423
+    "longitude": 15.0730423,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HORNBACH",
@@ -12,6 +16,10 @@
     "shop": "doityourself",
     "latitude": 47.3561383,
     "longitude": 15.0735961,
-    "brand": "HORNBACH"
+    "brand": "HORNBACH",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

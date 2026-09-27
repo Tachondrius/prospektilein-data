@@ -4,28 +4,42 @@
     "retailer": "antikes_und_wein",
     "shop": "gift",
     "latitude": 47.8741798,
-    "longitude": 16.9736427
+    "longitude": 16.9736427,
+    "postcode": "7131",
+    "city": "Halbturn",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Biohof Lang",
     "retailer": "biohof_lang",
     "shop": "supermarket",
     "latitude": 47.8704921,
-    "longitude": 16.9741946
+    "longitude": 16.9741946,
+    "postcode": "7131",
+    "city": "Halbturn",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Graf Gemüse",
     "retailer": "graf_gemuse",
     "shop": "greengrocer",
     "latitude": 47.8700178,
-    "longitude": 16.9732404
+    "longitude": 16.9732404,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Haarsalon Zinkl Hans Jürgen",
     "retailer": "haarsalon_zinkl_hans_jurgen",
     "shop": "hairdresser",
     "latitude": 47.8708732,
-    "longitude": 16.9762005
+    "longitude": 16.9762005,
+    "postcode": "7131",
+    "city": "Halbturn",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Nah & Frisch",
@@ -33,13 +47,21 @@
     "shop": "supermarket",
     "latitude": 47.8713852,
     "longitude": 16.9738109,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "7131",
+    "city": "Halbturn",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ortsvinothek",
     "retailer": "ortsvinothek",
     "shop": "wine",
     "latitude": 47.871965,
-    "longitude": 16.9742701
+    "longitude": 16.9742701,
+    "postcode": "7131",
+    "city": "Halbturn",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

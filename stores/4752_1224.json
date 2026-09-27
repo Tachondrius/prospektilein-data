@@ -4,21 +4,29 @@
     "retailer": "gerberei_trenkwalder_trachten_und_leder",
     "shop": "clothes",
     "latitude": 47.5202965,
-    "longitude": 12.2414851
+    "longitude": 12.2414851,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hansis Sport- und Mietcenter GmbH",
     "retailer": "hansis_sport_und_mietcenter_gmbh",
     "shop": "sports",
     "latitude": 47.5200084,
-    "longitude": 12.2498484
+    "longitude": 12.2498484,
+    "postcode": "6351",
+    "city": "Scheffau am Wilden Kaiser",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Jägerwirt‘s Genussladl",
     "retailer": "jagerwirts_genussladl",
     "shop": "convenience",
     "latitude": 47.5289193,
-    "longitude": 12.2494162
+    "longitude": 12.2494162,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Renault Wolf",
@@ -26,6 +34,8 @@
     "shop": "car_repair",
     "latitude": 47.5211432,
     "longitude": 12.2489646,
-    "brand": "Renault"
+    "brand": "Renault",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

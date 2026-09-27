@@ -4,14 +4,20 @@
     "retailer": "aktuell_reinigung",
     "shop": "laundry",
     "latitude": 48.2234821,
-    "longitude": 14.2340897
+    "longitude": 14.2340897,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Berner",
     "retailer": "berner",
     "shop": "doityourself",
     "latitude": 48.2292691,
-    "longitude": 14.2341559
+    "longitude": 14.2341559,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -19,35 +25,54 @@
     "shop": "supermarket",
     "latitude": 48.2229418,
     "longitude": 14.2382019,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4050",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Cashpoint",
     "retailer": "cashpoint",
     "shop": "bookmaker",
     "latitude": 48.221886,
-    "longitude": 14.2368427
+    "longitude": 14.2368427,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Donau Teppich & Möbelhaus",
     "retailer": "donau_teppich_und_mobelhaus",
     "shop": "furniture",
     "latitude": 48.2265273,
-    "longitude": 14.236511
+    "longitude": 14.236511,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Elektro Scharinger",
     "retailer": "elektro_scharinger",
     "shop": "electronics",
     "latitude": 48.2216687,
-    "longitude": 14.2398617
+    "longitude": 14.2398617,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Endam",
     "retailer": "endam",
     "shop": "clothes",
     "latitude": 48.2229759,
-    "longitude": 14.2374888
+    "longitude": 14.2374888,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -55,70 +80,100 @@
     "shop": "supermarket",
     "latitude": 48.2260301,
     "longitude": 14.2361221,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fachhandel für Aquaristik",
     "retailer": "fachhandel_fur_aquaristik",
     "shop": "pet",
     "latitude": 48.2275591,
-    "longitude": 14.2380598
+    "longitude": 14.2380598,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseur Schinkinger",
     "retailer": "friseur_schinkinger",
     "shop": "hairdresser",
     "latitude": 48.2237715,
-    "longitude": 14.2338331
+    "longitude": 14.2338331,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Furniture",
     "retailer": "shop_furniture",
     "shop": "furniture",
     "latitude": 48.2288481,
-    "longitude": 14.2340138
+    "longitude": 14.2340138,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haircutters",
     "retailer": "haircutters",
     "shop": "hairdresser",
     "latitude": 48.2219646,
-    "longitude": 14.2383332
+    "longitude": 14.2383332,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Helgas Happy Hair",
     "retailer": "helgas_happy_hair",
     "shop": "hairdresser",
     "latitude": 48.2214623,
-    "longitude": 14.2363741
+    "longitude": 14.2363741,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Jeans army",
     "retailer": "jeans_army",
     "shop": "boutique",
     "latitude": 48.2213893,
-    "longitude": 14.2364461
+    "longitude": 14.2364461,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.2206776,
-    "longitude": 14.2394323
+    "longitude": 14.2394323,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "L. Baar",
     "retailer": "l_baar",
     "shop": "medical_supply",
     "latitude": 48.2201167,
-    "longitude": 14.2387285
+    "longitude": 14.2387285,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
     "retailer": "lidl",
     "shop": "supermarket",
     "latitude": 48.2298438,
-    "longitude": 14.2346446
+    "longitude": 14.2346446,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Merkur",
@@ -126,56 +181,82 @@
     "shop": "convenience",
     "latitude": 48.227327,
     "longitude": 14.2342311,
-    "brand": "Merkur"
+    "brand": "Merkur",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Musikhaus Kreischer",
     "retailer": "musikhaus_kreischer",
     "shop": "musical_instrument",
     "latitude": 48.2260872,
-    "longitude": 14.2327332
+    "longitude": 14.2327332,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mutter Erde Naturkost",
     "retailer": "mutter_erde_naturkost",
     "shop": "supermarket",
     "latitude": 48.2201707,
-    "longitude": 14.2395866
+    "longitude": 14.2395866,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Oliver's Haarschnitt",
     "retailer": "oliver_s_haarschnitt",
     "shop": "hairdresser",
     "latitude": 48.2260887,
-    "longitude": 14.2316006
+    "longitude": 14.2316006,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pfoser",
     "retailer": "pfoser",
     "shop": "jewelry",
     "latitude": 48.2208078,
-    "longitude": 14.2365867
+    "longitude": 14.2365867,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Resch & Frisch",
     "retailer": "resch_und_frisch",
     "shop": "bakery",
     "latitude": 48.2202184,
-    "longitude": 14.2399278
+    "longitude": 14.2399278,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sport Koch",
     "retailer": "sport_koch",
     "shop": "sports",
     "latitude": 48.2221579,
-    "longitude": 14.2399125
+    "longitude": 14.2399125,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.2214285,
-    "longitude": 14.236405
+    "longitude": 14.236405,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Weltladen",
@@ -183,6 +264,8 @@
     "shop": "convenience",
     "latitude": 48.2201006,
     "longitude": 14.2393759,
-    "brand": "Weltladen"
+    "brand": "Weltladen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

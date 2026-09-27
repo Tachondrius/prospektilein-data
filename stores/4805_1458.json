@@ -4,35 +4,54 @@
     "retailer": "fleischerei_stundner",
     "shop": "butcher",
     "latitude": 48.0553696,
-    "longitude": 14.5845602
+    "longitude": 14.5845602,
+    "postcode": "3351",
+    "city": "Weistrach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "HAARSCHNEIDER Weistrach",
     "retailer": "haarschneider_weistrach",
     "shop": "hairdresser",
     "latitude": 48.0541269,
-    "longitude": 14.5860006
+    "longitude": 14.5860006,
+    "postcode": "3351",
+    "city": "Weistrach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mayr Mobility",
     "retailer": "mayr_mobility",
     "shop": "car_repair",
     "latitude": 48.0569081,
-    "longitude": 14.5831025
+    "longitude": 14.5831025,
+    "city": "Weistrach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Napoleon-BBQ-Ausrüstung",
     "retailer": "napoleon_bbq_ausrustung",
     "shop": "outdoor",
     "latitude": 48.0551295,
-    "longitude": 14.5841743
+    "longitude": 14.5841743,
+    "postcode": "3351",
+    "city": "Weistrach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schimböck",
     "retailer": "schimbock",
     "shop": "funeral_directors",
     "latitude": 48.0552193,
-    "longitude": 14.5853993
+    "longitude": 14.5853993,
+    "postcode": "3351",
+    "city": "Weistrach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -40,13 +59,19 @@
     "shop": "supermarket",
     "latitude": 48.0524337,
     "longitude": 14.582897,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3351",
+    "city": "Weistrach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wagner's Freilandeier",
     "retailer": "wagner_s_freilandeier",
     "shop": "farm",
     "latitude": 48.0589227,
-    "longitude": 14.5849528
+    "longitude": 14.5849528,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

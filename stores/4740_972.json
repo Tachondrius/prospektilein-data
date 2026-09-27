@@ -4,27 +4,38 @@
     "retailer": "elektro_schonbeck",
     "shop": "electrical",
     "latitude": 47.4092665,
-    "longitude": 9.7266217
+    "longitude": 9.7266217,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kainz",
     "retailer": "kainz",
     "shop": "bakery",
     "latitude": 47.4091574,
-    "longitude": 9.727983
+    "longitude": 9.727983,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kamm.In Friseur",
     "retailer": "kamm_in_friseur",
     "shop": "hairdresser",
     "latitude": 47.4095947,
-    "longitude": 9.7253314
+    "longitude": 9.7253314,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "LaModula Dornbirn",
     "retailer": "lamodula_dornbirn",
     "shop": "furniture",
     "latitude": 47.4087031,
-    "longitude": 9.728158
+    "longitude": 9.728158,
+    "postcode": "6850",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

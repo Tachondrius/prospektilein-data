@@ -4,7 +4,10 @@
     "retailer": "koch_kfz_gmbh",
     "shop": "car_repair",
     "latitude": 46.9914743,
-    "longitude": 15.4485983
+    "longitude": 15.4485983,
+    "postcode": "8073",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +15,10 @@
     "shop": "supermarket",
     "latitude": 46.996688,
     "longitude": 15.4440651,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8073",
+    "city": "Feldkirchen bei Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

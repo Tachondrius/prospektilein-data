@@ -4,21 +4,31 @@
     "retailer": "birner",
     "shop": "car_parts",
     "latitude": 48.1596519,
-    "longitude": 14.0174201
+    "longitude": 14.0174201,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "COSHAAR Barbershop Wels",
     "retailer": "coshaar_barbershop_wels",
     "shop": "hairdresser",
     "latitude": 48.1555821,
-    "longitude": 14.0187236
+    "longitude": 14.0187236,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "e-tec",
     "retailer": "e_tec",
     "shop": "computer",
     "latitude": 48.1586944,
-    "longitude": 14.0145539
+    "longitude": 14.0145539,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fiat + Ferrari Pichler",
@@ -26,21 +36,29 @@
     "shop": "car",
     "latitude": 48.1576899,
     "longitude": 14.0135804,
-    "brand": "Fiat;Alfa"
+    "brand": "Fiat;Alfa",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseur Anita",
     "retailer": "friseur_anita",
     "shop": "hairdresser",
     "latitude": 48.1554221,
-    "longitude": 14.0188551
+    "longitude": 14.0188551,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kärcher Store Plotka",
     "retailer": "karcher_store_plotka",
     "shop": "appliance",
     "latitude": 48.1581498,
-    "longitude": 14.0192872
+    "longitude": 14.0192872,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Norma",
@@ -48,34 +66,54 @@
     "shop": "supermarket",
     "latitude": 48.1595113,
     "longitude": 14.0175104,
-    "brand": "Norma"
+    "brand": "Norma",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "s' Kinderwagerl",
     "retailer": "s_kinderwagerl",
     "shop": "baby_goods",
     "latitude": 48.1562165,
-    "longitude": 14.0197141
+    "longitude": 14.0197141,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sandflooo Arr",
     "retailer": "sandflooo_arr",
     "shop": "tattoo",
     "latitude": 48.1593918,
-    "longitude": 14.0199355
+    "longitude": 14.0199355,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.1560484,
-    "longitude": 14.0188521
+    "longitude": 14.0188521,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Vinylton",
     "retailer": "vinylton",
     "shop": "music",
     "latitude": 48.1580512,
-    "longitude": 14.0109351
+    "longitude": 14.0109351,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

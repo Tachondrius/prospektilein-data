@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 48.2077228,
     "longitude": 16.5472323,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,21 +15,33 @@
     "shop": "chemist",
     "latitude": 48.2071113,
     "longitude": 16.5452238,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "CMC Beauty Lounge",
     "retailer": "cmc_beauty_lounge",
     "shop": "cosmetics",
     "latitude": 48.2006844,
-    "longitude": 16.5494675
+    "longitude": 16.5494675,
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "CMC Style GmbH",
     "retailer": "cmc_style_gmbh",
     "shop": "hairdresser",
     "latitude": 48.20114,
-    "longitude": 16.5495586
+    "longitude": 16.5495586,
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichmann",
@@ -35,7 +49,9 @@
     "shop": "shoes",
     "latitude": 48.2071342,
     "longitude": 16.5478965,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -43,7 +59,11 @@
     "shop": "chemist",
     "latitude": 48.2067465,
     "longitude": 16.5476008,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fressnapf",
@@ -51,7 +71,9 @@
     "shop": "pet",
     "latitude": 48.2070328,
     "longitude": 16.5478223,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fussl",
@@ -59,21 +81,31 @@
     "shop": "clothes",
     "latitude": 48.2072832,
     "longitude": 16.5480055,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Genuss-Hex",
     "retailer": "genuss_hex",
     "shop": "deli",
     "latitude": 48.2022855,
-    "longitude": 16.5499773
+    "longitude": 16.5499773,
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "GrowRoom21",
     "retailer": "growroom21",
     "shop": "cannabis",
     "latitude": 48.2076841,
-    "longitude": 16.5450913
+    "longitude": 16.5450913,
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -81,7 +113,9 @@
     "shop": "supermarket",
     "latitude": 48.2063116,
     "longitude": 16.5473126,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -89,7 +123,11 @@
     "shop": "clothes",
     "latitude": 48.2072365,
     "longitude": 16.5448581,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Klipp",
@@ -97,7 +135,11 @@
     "shop": "hairdresser",
     "latitude": 48.2072441,
     "longitude": 16.5447211,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -105,28 +147,38 @@
     "shop": "doityourself",
     "latitude": 48.2059575,
     "longitude": 16.5499607,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
     "retailer": "libro",
     "shop": "books;stationery",
     "latitude": 48.2074998,
-    "longitude": 16.5478079
+    "longitude": 16.5478079,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "LKZ Fritz",
     "retailer": "lkz_fritz",
     "shop": "car_repair",
     "latitude": 48.2078155,
-    "longitude": 16.5448248
+    "longitude": 16.5448248,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Marchfeld Center",
     "retailer": "marchfeld_center",
     "shop": "mall",
     "latitude": 48.2073099,
-    "longitude": 16.5475472
+    "longitude": 16.5475472,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Morman",
@@ -134,7 +186,11 @@
     "shop": "car_repair",
     "latitude": 48.2080531,
     "longitude": 16.5447087,
-    "brand": "Bosch Car Service"
+    "brand": "Bosch Car Service",
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Müller",
@@ -142,14 +198,18 @@
     "shop": "chemist",
     "latitude": 48.207431,
     "longitude": 16.5479809,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "MüllerGartner",
     "retailer": "mullergartner",
     "shop": "bakery",
     "latitude": 48.2065417,
-    "longitude": 16.5474629
+    "longitude": 16.5474629,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "New Yorker",
@@ -157,14 +217,18 @@
     "shop": "clothes",
     "latitude": 48.2069008,
     "longitude": 16.5477257,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pearle",
     "retailer": "pearle",
     "shop": "optician",
     "latitude": 48.2068312,
-    "longitude": 16.5476748
+    "longitude": 16.5476748,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -172,14 +236,20 @@
     "shop": "supermarket",
     "latitude": 48.2071209,
     "longitude": 16.5454344,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2301",
+    "city": "Groß-Enzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Roma Friseurbedarf",
     "retailer": "roma_friseurbedarf",
     "shop": "hairdresser_supply",
     "latitude": 48.2069704,
-    "longitude": 16.5477766
+    "longitude": 16.5477766,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tchibo",
@@ -187,6 +257,8 @@
     "shop": "coffee",
     "latitude": 48.207211,
     "longitude": 16.5479527,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

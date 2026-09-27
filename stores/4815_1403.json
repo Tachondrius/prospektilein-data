@@ -5,14 +5,20 @@
     "shop": "chemist",
     "latitude": 48.1540367,
     "longitude": 14.0353207,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4600",
+    "city": "Thalheim bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "blumen lehner",
     "retailer": "blumen_lehner",
     "shop": "florist",
     "latitude": 48.1589313,
-    "longitude": 14.0345866
+    "longitude": 14.0345866,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -20,14 +26,22 @@
     "shop": "supermarket",
     "latitude": 48.1530324,
     "longitude": 14.0331586,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4600",
+    "city": "Thalheim bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Herndler Kleiderreinigungsgesellschaft m.b.H.",
     "retailer": "herndler_kleiderreinigungsgesellschaft_m_b_h",
     "shop": "laundry",
     "latitude": 48.1534819,
-    "longitude": 14.0314133
+    "longitude": 14.0314133,
+    "postcode": "4600",
+    "city": "Thalheim bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klipp",
@@ -35,7 +49,9 @@
     "shop": "hairdresser",
     "latitude": 48.1530698,
     "longitude": 14.0327142,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny Markt",
@@ -43,21 +59,33 @@
     "shop": "supermarket",
     "latitude": 48.1541413,
     "longitude": 14.035856,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "4600",
+    "city": "Thalheim bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Resch",
     "retailer": "resch",
     "shop": "bakery",
     "latitude": 48.1539704,
-    "longitude": 14.0355102
+    "longitude": 14.0355102,
+    "postcode": "4600",
+    "city": "Thalheim bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik Adlesgruber",
     "retailer": "trafik_adlesgruber",
     "shop": "tobacco",
     "latitude": 48.1534559,
-    "longitude": 14.0399268
+    "longitude": 14.0399268,
+    "postcode": "4600",
+    "city": "Thalheim bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Turmöl",
@@ -65,13 +93,21 @@
     "shop": "convenience",
     "latitude": 48.153783,
     "longitude": 14.0367153,
-    "brand": "Turmöl"
+    "brand": "Turmöl",
+    "postcode": "4600",
+    "city": "Thalheim bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wine",
     "retailer": "shop_wine",
     "shop": "wine",
     "latitude": 48.1537586,
-    "longitude": 14.0390918
+    "longitude": 14.0390918,
+    "postcode": "4600",
+    "city": "Thalheim bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

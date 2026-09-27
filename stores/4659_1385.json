@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 46.5934592,
     "longitude": 13.8539591,
-    "brand": "Jeep;Chrysler;Dodge;Nissan;Kia"
+    "brand": "Jeep;Chrysler;Dodge;Nissan;Kia",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 46.5957783,
     "longitude": 13.8508201,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -21,7 +29,11 @@
     "shop": "supermarket",
     "latitude": 46.5954946,
     "longitude": 13.8502508,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mercedes Moser",
@@ -29,13 +41,21 @@
     "shop": "car",
     "latitude": 46.5973443,
     "longitude": 13.8504538,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sportfachhandel tyl4sports GmbH",
     "retailer": "sportfachhandel_tyl4sports_gmbh",
     "shop": "bicycle",
     "latitude": 46.5966637,
-    "longitude": 13.850179
+    "longitude": 13.850179,
+    "postcode": "9500",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

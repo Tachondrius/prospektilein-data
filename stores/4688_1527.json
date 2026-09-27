@@ -4,28 +4,40 @@
     "retailer": "aqua_line_schlafsysteme",
     "shop": "bed",
     "latitude": 46.8892584,
-    "longitude": 15.2744681
+    "longitude": 15.2744681,
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bio Bäckerei Pacher",
     "retailer": "bio_backerei_pacher",
     "shop": "bakery",
     "latitude": 46.8883385,
-    "longitude": 15.2767864
+    "longitude": 15.2767864,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Draxler",
     "retailer": "draxler",
     "shop": "butcher",
     "latitude": 46.8882095,
-    "longitude": 15.2772353
+    "longitude": 15.2772353,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Druckhaus Stainz GmbH",
     "retailer": "druckhaus_stainz_gmbh",
     "shop": "printing",
     "latitude": 46.8891384,
-    "longitude": 15.2745636
+    "longitude": 15.2745636,
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -33,6 +45,10 @@
     "shop": "doityourself",
     "latitude": 46.8895253,
     "longitude": 15.2703726,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

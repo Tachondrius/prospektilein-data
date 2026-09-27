@@ -4,7 +4,9 @@
     "retailer": "frisorteam_marianne",
     "shop": "hairdresser",
     "latitude": 47.1778606,
-    "longitude": 16.1001025
+    "longitude": 16.1001025,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 47.1726234,
     "longitude": 16.1046485,
-    "brand": "Nah und Frisch"
+    "brand": "Nah und Frisch",
+    "postcode": "8292",
+    "city": "Neudau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "SPAR Wilfinger",
@@ -20,6 +26,10 @@
     "shop": "supermarket",
     "latitude": 47.1764864,
     "longitude": 16.1003146,
-    "brand": "SPAR"
+    "brand": "SPAR",
+    "postcode": "8292",
+    "city": "Neudau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

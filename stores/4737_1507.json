@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 47.3757695,
     "longitude": 15.0735863,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabakware Kern",
     "retailer": "tabakware_kern",
     "shop": "newsagent",
     "latitude": 47.376002,
-    "longitude": 15.0728833
+    "longitude": 15.0728833,
+    "postcode": "8700",
+    "city": "Leoben",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.3767048,
-    "longitude": 15.0776578
+    "longitude": 15.0776578,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

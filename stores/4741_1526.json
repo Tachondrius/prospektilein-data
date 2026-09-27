@@ -4,42 +4,54 @@
     "retailer": "alpaka",
     "shop": "clothes",
     "latitude": 47.4104925,
-    "longitude": 15.2696247
+    "longitude": 15.2696247,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "femina",
     "retailer": "femina",
     "shop": "clothes",
     "latitude": 47.4100948,
-    "longitude": 15.2699597
+    "longitude": 15.2699597,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "haartreff ner",
     "retailer": "haartreff_ner",
     "shop": "hairdresser",
     "latitude": 47.411187,
-    "longitude": 15.2619827
+    "longitude": 15.2619827,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Harger",
     "retailer": "harger",
     "shop": "convenience",
     "latitude": 47.4113153,
-    "longitude": 15.2611509
+    "longitude": 15.2611509,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hartlauer",
     "retailer": "hartlauer",
     "shop": "optician",
     "latitude": 47.4101012,
-    "longitude": 15.269993
+    "longitude": 15.269993,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Holiday Sun",
     "retailer": "holiday_sun",
     "shop": "beauty",
     "latitude": 47.4115038,
-    "longitude": 15.2606907
+    "longitude": 15.2606907,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kleider Bauer",
@@ -47,41 +59,56 @@
     "shop": "clothes",
     "latitude": 47.4108112,
     "longitude": 15.2693421,
-    "brand": "Kleider Bauer"
+    "brand": "Kleider Bauer",
+    "postcode": "8600",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Köck Bäck",
     "retailer": "kock_back",
     "shop": "bakery",
     "latitude": 47.4112175,
-    "longitude": 15.2637531
+    "longitude": 15.2637531,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Neuroth",
     "retailer": "neuroth",
     "shop": "optician",
     "latitude": 47.4103389,
-    "longitude": 15.2699101
+    "longitude": 15.2699101,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Newsagent",
     "retailer": "shop_newsagent",
     "shop": "newsagent",
     "latitude": 47.4111969,
-    "longitude": 15.2641586
+    "longitude": 15.2641586,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wäscherei Putzerei Perfekt",
     "retailer": "wascherei_putzerei_perfekt",
     "shop": "dry_cleaning",
     "latitude": 47.4102251,
-    "longitude": 15.2698856
+    "longitude": 15.2698856,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zuleger",
     "retailer": "zuleger",
     "shop": "electronics",
     "latitude": 47.4128845,
-    "longitude": 15.2613135
+    "longitude": 15.2613135,
+    "postcode": "8600",
+    "city": "Bruck an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,14 +4,18 @@
     "retailer": "dorfbeck",
     "shop": "bakery",
     "latitude": 47.4405054,
-    "longitude": 9.6628527
+    "longitude": 9.6628527,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Heilmassagen Kögl Alfred",
     "retailer": "heilmassagen_kogl_alfred",
     "shop": "massage",
     "latitude": 47.4445771,
-    "longitude": 9.6625099
+    "longitude": 9.6625099,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hofer",
@@ -19,34 +23,48 @@
     "shop": "supermarket",
     "latitude": 47.4454068,
     "longitude": 9.6657089,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Karakoç",
     "retailer": "karakoc",
     "shop": "supermarket",
     "latitude": 47.4439975,
-    "longitude": 9.6604975
+    "longitude": 9.6604975,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Max Moosbrugger",
     "retailer": "max_moosbrugger",
     "shop": "car_repair",
     "latitude": 47.4452792,
-    "longitude": 9.6699258
+    "longitude": 9.6699258,
+    "postcode": "6890",
+    "city": "Lustenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Nagelstudio Samtpfote",
     "retailer": "nagelstudio_samtpfote",
     "shop": "beauty",
     "latitude": 47.4445556,
-    "longitude": 9.6625192
+    "longitude": 9.6625192,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.4444968,
-    "longitude": 9.6610152
+    "longitude": 9.6610152,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

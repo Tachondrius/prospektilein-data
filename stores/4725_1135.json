@@ -4,7 +4,9 @@
     "retailer": "airport_shop",
     "shop": "kiosk",
     "latitude": 47.2574931,
-    "longitude": 11.351184
+    "longitude": 11.351184,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Der Bäcker Ruetz",
@@ -12,6 +14,10 @@
     "shop": "bakery",
     "latitude": 47.2575765,
     "longitude": 11.3510334,
-    "brand": "Der Bäcker Ruetz"
+    "brand": "Der Bäcker Ruetz",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

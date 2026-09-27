@@ -4,20 +4,26 @@
     "retailer": "biosphare",
     "shop": "supermarket",
     "latitude": 47.2589432,
-    "longitude": 15.9726772
+    "longitude": 15.9726772,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "oekopark shop",
     "retailer": "oekopark_shop",
     "shop": "yes",
     "latitude": 47.2593233,
-    "longitude": 15.9714288
+    "longitude": 15.9714288,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wodtke Öfen",
     "retailer": "wodtke_ofen",
     "shop": "furniture",
     "latitude": 47.2587081,
-    "longitude": 15.9728021
+    "longitude": 15.9728021,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

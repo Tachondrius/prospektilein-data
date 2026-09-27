@@ -5,21 +5,31 @@
     "shop": "car",
     "latitude": 48.1194309,
     "longitude": 14.8563041,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.1195945,
-    "longitude": 14.8562219
+    "longitude": 14.8562219,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.1197908,
-    "longitude": 14.8561393
+    "longitude": 14.8561393,
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "OBI",
@@ -27,6 +37,10 @@
     "shop": "doityourself",
     "latitude": 48.1195751,
     "longitude": 14.8527899,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "3300",
+    "city": "Amstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

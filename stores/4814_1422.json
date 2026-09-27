@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1415403,
     "longitude": 14.2289593,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4501",
+    "city": "Neuhofen an der Krems",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -13,7 +17,9 @@
     "shop": "chemist",
     "latitude": 48.1432662,
     "longitude": 14.2298306,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Citroen Pichler",
@@ -21,14 +27,22 @@
     "shop": "car",
     "latitude": 48.1417564,
     "longitude": 14.2282021,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "postcode": "4501",
+    "city": "Neuhofen an der Krems",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KFZ Rene Reiter",
     "retailer": "kfz_rene_reiter",
     "shop": "car_repair",
     "latitude": 48.1420685,
-    "longitude": 14.2272187
+    "longitude": 14.2272187,
+    "postcode": "4501",
+    "city": "Neuhofen an der Krems",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Penny Markt",
@@ -36,13 +50,17 @@
     "shop": "supermarket",
     "latitude": 48.1430872,
     "longitude": 14.2299164,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pölzl",
     "retailer": "polzl",
     "shop": "hardware",
     "latitude": 48.1412118,
-    "longitude": 14.228855
+    "longitude": 14.228855,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

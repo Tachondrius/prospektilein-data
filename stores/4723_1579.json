@@ -5,28 +5,40 @@
     "shop": "supermarket",
     "latitude": 47.238404,
     "longitude": 15.7977547,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "8223",
+    "city": "Stubenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Autohaus Windhaber",
     "retailer": "autohaus_windhaber",
     "shop": "car",
     "latitude": 47.2375918,
-    "longitude": 15.7973181
+    "longitude": 15.7973181,
+    "postcode": "8223",
+    "city": "Stubenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Kubat",
     "retailer": "blumen_kubat",
     "shop": "florist",
     "latitude": 47.2380346,
-    "longitude": 15.7977252
+    "longitude": 15.7977252,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "eBikes & biken",
     "retailer": "ebikes_und_biken",
     "shop": "bicycle",
     "latitude": 47.2380593,
-    "longitude": 15.7978162
+    "longitude": 15.7978162,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus",
@@ -34,6 +46,10 @@
     "shop": "doityourself",
     "latitude": 47.2389263,
     "longitude": 15.797385,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8223",
+    "city": "Stubenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

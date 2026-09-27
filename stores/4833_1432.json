@@ -4,21 +4,29 @@
     "retailer": "ediths_hofladen_fam_wolfsegger",
     "shop": "farm",
     "latitude": 48.3399363,
-    "longitude": 14.3285641
+    "longitude": 14.3285641,
+    "postcode": "4040",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kandur",
     "retailer": "kandur",
     "shop": "bakery",
     "latitude": 48.3348447,
-    "longitude": 14.3210342
+    "longitude": 14.3210342,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Neugebauer",
     "retailer": "neugebauer",
     "shop": "books",
     "latitude": 48.3379256,
-    "longitude": 14.3210961
+    "longitude": 14.3210961,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
@@ -26,6 +34,8 @@
     "shop": "tobacco",
     "latitude": 48.3349283,
     "longitude": 14.3208952,
-    "brand": "Trafik"
+    "brand": "Trafik",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

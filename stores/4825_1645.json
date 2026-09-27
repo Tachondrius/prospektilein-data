@@ -4,7 +4,11 @@
     "retailer": "baustoffe_kagran",
     "shop": "trade",
     "latitude": 48.2500228,
-    "longitude": 16.4528262
+    "longitude": 16.4528262,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,7 +16,9 @@
     "shop": "supermarket",
     "latitude": 48.2500322,
     "longitude": 16.4550207,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -20,7 +26,9 @@
     "shop": "supermarket",
     "latitude": 48.2549877,
     "longitude": 16.4571414,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -28,63 +36,99 @@
     "shop": "chemist",
     "latitude": 48.255886,
     "longitude": 16.452537,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Castro Moden",
     "retailer": "castro_moden",
     "shop": "clothes",
     "latitude": 48.258277,
-    "longitude": 16.4523136
+    "longitude": 16.4523136,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Etsan",
     "retailer": "etsan",
     "shop": "convenience",
     "latitude": 48.2560021,
-    "longitude": 16.4521804
+    "longitude": 16.4521804,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Frisierstube",
     "retailer": "frisierstube",
     "shop": "hairdresser",
     "latitude": 48.2535284,
-    "longitude": 16.4579578
+    "longitude": 16.4579578,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hair Club",
     "retailer": "hair_club",
     "shop": "hairdresser",
     "latitude": 48.2585163,
-    "longitude": 16.4515626
+    "longitude": 16.4515626,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hairteam Michaela",
     "retailer": "hairteam_michaela",
     "shop": "hairdresser",
     "latitude": 48.2547664,
-    "longitude": 16.4562329
+    "longitude": 16.4562329,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hundewerkstatt",
     "retailer": "hundewerkstatt",
     "shop": "pet",
     "latitude": 48.2557664,
-    "longitude": 16.4529124
+    "longitude": 16.4529124,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.2584555,
-    "longitude": 16.4517745
+    "longitude": 16.4517745,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Naturfrisör",
     "retailer": "naturfrisor",
     "shop": "hairdresser",
     "latitude": 48.2542645,
-    "longitude": 16.4576559
+    "longitude": 16.4576559,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -92,7 +136,11 @@
     "shop": "supermarket",
     "latitude": 48.2585546,
     "longitude": 16.4513713,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -100,13 +148,21 @@
     "shop": "supermarket",
     "latitude": 48.2578735,
     "longitude": 16.4524558,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 48.2542797,
-    "longitude": 16.4578128
+    "longitude": 16.4578128,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

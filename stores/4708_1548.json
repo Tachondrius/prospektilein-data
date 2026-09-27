@@ -4,7 +4,11 @@
     "retailer": "cosmeticsalon_nina",
     "shop": "cosmetics",
     "latitude": 47.0875213,
-    "longitude": 15.486058
+    "longitude": 15.486058,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Greimel",
@@ -12,28 +16,44 @@
     "shop": "convenience",
     "latitude": 47.0848624,
     "longitude": 15.4876679,
-    "brand": "Adeg"
+    "brand": "Adeg",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MaFee",
     "retailer": "mafee",
     "shop": "tailor",
     "latitude": 47.0858435,
-    "longitude": 15.4806273
+    "longitude": 15.4806273,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Meranhof",
     "retailer": "meranhof",
     "shop": "farm",
     "latitude": 47.0805878,
-    "longitude": 15.4898715
+    "longitude": 15.4898715,
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Putzereiannahmestelle",
     "retailer": "adeg",
     "shop": "dry_cleaning",
     "latitude": 47.0848703,
-    "longitude": 15.4876089
+    "longitude": 15.4876089,
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -41,6 +61,10 @@
     "shop": "supermarket",
     "latitude": 47.0887104,
     "longitude": 15.4816652,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8010",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

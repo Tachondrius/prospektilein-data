@@ -5,14 +5,22 @@
     "shop": "car",
     "latitude": 47.9984029,
     "longitude": 13.6130573,
-    "brand": "Citroën;Chevrolet"
+    "brand": "Citroën;Chevrolet",
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Foto Fettinger",
     "retailer": "foto_fettinger",
     "shop": "photo",
     "latitude": 47.9998045,
-    "longitude": 13.6132866
+    "longitude": 13.6132866,
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -20,27 +28,41 @@
     "shop": "supermarket",
     "latitude": 47.9979129,
     "longitude": 13.619983,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hudak",
     "retailer": "hudak",
     "shop": "car_repair",
     "latitude": 47.9983041,
-    "longitude": 13.6130597
+    "longitude": 13.6130597,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KMT",
     "retailer": "kmt",
     "shop": "car_repair",
     "latitude": 47.9962623,
-    "longitude": 13.618267
+    "longitude": 13.618267,
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 47.9904063,
-    "longitude": 13.6165085
+    "longitude": 13.6165085,
+    "postcode": "4850",
+    "city": "Timelkam",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

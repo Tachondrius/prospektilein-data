@@ -5,42 +5,60 @@
     "shop": "car_repair",
     "latitude": 48.4907586,
     "longitude": 14.9506754,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Beneder Elektro GmbH",
     "retailer": "beneder_elektro_gmbh",
     "shop": "radiotechnics",
     "latitude": 48.4937233,
-    "longitude": 14.9541468
+    "longitude": 14.9541468,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Einfalt Ilse Trafik",
     "retailer": "einfalt_ilse_trafik",
     "shop": "tobacco",
     "latitude": 48.4939075,
-    "longitude": 14.9559107
+    "longitude": 14.9559107,
+    "postcode": "3925",
+    "city": "Arbesbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eisenhof Lumayr KG",
     "retailer": "eisenhof_lumayr_kg",
     "shop": "hardware",
     "latitude": 48.4952481,
-    "longitude": 14.956107
+    "longitude": 14.956107,
+    "postcode": "3925",
+    "city": "Arbesbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hennerbichler GmbH",
     "retailer": "hennerbichler_gmbh",
     "shop": "car_repair",
     "latitude": 48.4927353,
-    "longitude": 14.9521319
+    "longitude": 14.9521319,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kern Schuhe-Sport GesmbH",
     "retailer": "kern_schuhe_sport_gesmbh",
     "shop": "shoes",
     "latitude": 48.4942433,
-    "longitude": 14.9563153
+    "longitude": 14.9563153,
+    "postcode": "3925",
+    "city": "Arbesbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -48,20 +66,28 @@
     "shop": "supermarket",
     "latitude": 48.4933653,
     "longitude": 14.953034,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Raiffeisen-Lagerhaus Zwettl eGen - Filiale Arbesbach",
     "retailer": "raiffeisen_lagerhaus_zwettl_egen_filiale_arbesbach",
     "shop": "trade",
     "latitude": 48.491887,
-    "longitude": 14.9519708
+    "longitude": 14.9519708,
+    "postcode": "3925",
+    "city": "Arbesbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wallner Thomas Autohandel, Landmaschinen",
     "retailer": "wallner_thomas_autohandel_landmaschinen",
     "shop": "car_repair",
     "latitude": 48.4934593,
-    "longitude": 14.9522684
+    "longitude": 14.9522684,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

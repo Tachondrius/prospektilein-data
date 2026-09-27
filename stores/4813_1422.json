@@ -4,14 +4,19 @@
     "retailer": "andreas_packy",
     "shop": "stationery",
     "latitude": 48.1377289,
-    "longitude": 14.2281675
+    "longitude": 14.2281675,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eibelwimmer",
     "retailer": "eibelwimmer",
     "shop": "kiosk",
     "latitude": 48.136448,
-    "longitude": 14.2273376
+    "longitude": 14.2273376,
+    "postcode": "4501",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -19,7 +24,11 @@
     "shop": "supermarket",
     "latitude": 48.1340242,
     "longitude": 14.2276375,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4501",
+    "city": "Neuhofen an der Krems",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Expert",
@@ -27,42 +36,62 @@
     "shop": "electronics",
     "latitude": 48.1390108,
     "longitude": 14.2298783,
-    "brand": "Expert"
+    "brand": "Expert",
+    "postcode": "4501",
+    "city": "Neuhofen an der Krems",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fairteiler",
     "retailer": "fairteiler",
     "shop": "supermarket",
     "latitude": 48.1390727,
-    "longitude": 14.2297754
+    "longitude": 14.2297754,
+    "postcode": "4501",
+    "city": "Neuhofen an der Krems",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hari's Cut",
     "retailer": "hari_s_cut",
     "shop": "hairdresser",
     "latitude": 48.1381768,
-    "longitude": 14.2285546
+    "longitude": 14.2285546,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kemetmüller Josef",
     "retailer": "kemetmuller_josef",
     "shop": "bakery",
     "latitude": 48.1378833,
-    "longitude": 14.2287399
+    "longitude": 14.2287399,
+    "postcode": "4501",
+    "city": "Neuhofen an der Krems",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Massage-Fachinstitut NEUHAUSER Christian",
     "retailer": "massage_fachinstitut_neuhauser_christian",
     "shop": "massage",
     "latitude": 48.1389774,
-    "longitude": 14.2295707
+    "longitude": 14.2295707,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Moden Stögmüller",
     "retailer": "moden_stogmuller",
     "shop": "clothes",
     "latitude": 48.1385182,
-    "longitude": 14.2286085
+    "longitude": 14.2286085,
+    "postcode": "4501",
+    "city": "Neuhofen an der Krems",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -70,34 +99,46 @@
     "shop": "clothes",
     "latitude": 48.1375259,
     "longitude": 14.2290366,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Oberhub",
     "retailer": "oberhub",
     "shop": "farm",
     "latitude": 48.1393029,
-    "longitude": 14.2292349
+    "longitude": 14.2292349,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Oberhuber Bestattung",
     "retailer": "oberhuber_bestattung",
     "shop": "funeral_directors",
     "latitude": 48.1368275,
-    "longitude": 14.2260442
+    "longitude": 14.2260442,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pet Haus Era",
     "retailer": "pet_haus_era",
     "shop": "pet_grooming",
     "latitude": 48.1391536,
-    "longitude": 14.229666
+    "longitude": 14.229666,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "sport-unlimited",
     "retailer": "sport_unlimited",
     "shop": "sports",
     "latitude": 48.1377061,
-    "longitude": 14.2283853
+    "longitude": 14.2283853,
+    "postcode": "4501",
+    "city": "Neuhofen an der Krems",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

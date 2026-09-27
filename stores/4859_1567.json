@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 48.5984682,
     "longitude": 15.674872,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3571",
+    "city": "Gars am Kamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lavendel und Rosen",
     "retailer": "lavendel_und_rosen",
     "shop": "florist",
     "latitude": 48.596623,
-    "longitude": 15.6717569
+    "longitude": 15.6717569,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

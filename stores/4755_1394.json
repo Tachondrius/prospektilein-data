@@ -5,14 +5,22 @@
     "shop": "doityourself",
     "latitude": 47.5509216,
     "longitude": 13.9436103,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "8983",
+    "city": "Bad Mitterndorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Michaela Podsednik",
     "retailer": "michaela_podsednik",
     "shop": "hairdresser",
     "latitude": 47.5536847,
-    "longitude": 13.9455695
+    "longitude": 13.9455695,
+    "postcode": "8983",
+    "city": "Bad Mitterndorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Opel Subaru Nemetz",
@@ -20,13 +28,19 @@
     "shop": "car",
     "latitude": 47.5512785,
     "longitude": 13.9479435,
-    "brand": "Opel"
+    "brand": "Opel",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TechCenter",
     "retailer": "techcenter",
     "shop": "doityourself",
     "latitude": 47.5514753,
-    "longitude": 13.943584
+    "longitude": 13.943584,
+    "postcode": "8983",
+    "city": "Bad Mitterndorf",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

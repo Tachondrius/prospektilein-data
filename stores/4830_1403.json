@@ -5,7 +5,9 @@
     "shop": "chemist",
     "latitude": 48.3025285,
     "longitude": 14.0317047,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "eni",
@@ -13,7 +15,9 @@
     "shop": "yes",
     "latitude": 48.3018566,
     "longitude": 14.0300956,
-    "brand": "Eni"
+    "brand": "Eni",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ernsting's family",
@@ -21,7 +25,9 @@
     "shop": "clothes",
     "latitude": 48.30271,
     "longitude": 14.0314583,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar Eferding",
@@ -29,7 +35,11 @@
     "shop": "supermarket",
     "latitude": 48.302505,
     "longitude": 14.0311339,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4070",
+    "city": "Pupping",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fressnapf",
@@ -37,7 +47,9 @@
     "shop": "pet",
     "latitude": 48.3012595,
     "longitude": 14.0321277,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fussl",
@@ -45,7 +57,9 @@
     "shop": "clothes",
     "latitude": 48.3024003,
     "longitude": 14.0318786,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -53,7 +67,11 @@
     "shop": "supermarket",
     "latitude": 48.3018197,
     "longitude": 14.0322261,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4070",
+    "city": "Pupping",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KiK",
@@ -61,21 +79,29 @@
     "shop": "clothes",
     "latitude": 48.3013959,
     "longitude": 14.0320291,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.3012581,
-    "longitude": 14.0322601
+    "longitude": 14.0322601,
+    "postcode": "4070",
+    "city": "Pupping",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.3026792,
-    "longitude": 14.0317025
+    "longitude": 14.0317025,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pagro",
@@ -83,21 +109,29 @@
     "shop": "stationery",
     "latitude": 48.300935,
     "longitude": 14.0323622,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "palazzo shoes",
     "retailer": "palazzo_shoes",
     "shop": "shoes",
     "latitude": 48.3026241,
-    "longitude": 14.0315749
+    "longitude": 14.0315749,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stöcker",
     "retailer": "stocker",
     "shop": "clothes",
     "latitude": 48.3000936,
-    "longitude": 14.0307231
+    "longitude": 14.0307231,
+    "postcode": "4070",
+    "city": "Fraham",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -105,6 +139,8 @@
     "shop": "clothes",
     "latitude": 48.3011043,
     "longitude": 14.0322399,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

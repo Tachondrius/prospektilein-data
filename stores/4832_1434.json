@@ -4,13 +4,19 @@
     "retailer": "bauer",
     "shop": "yes",
     "latitude": 48.326979,
-    "longitude": 14.3404738
+    "longitude": 14.3404738,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Fenzl",
     "retailer": "backerei_fenzl",
     "shop": "bakery",
     "latitude": 48.3229238,
-    "longitude": 14.3401182
+    "longitude": 14.3401182,
+    "postcode": "4040",
+    "city": "Steyregg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

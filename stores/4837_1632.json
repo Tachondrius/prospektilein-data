@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 48.3760521,
     "longitude": 16.3206698,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2100",
+    "city": "Leobendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tennisshop Tikale",
     "retailer": "tennisshop_tikale",
     "shop": "sports",
     "latitude": 48.3786745,
-    "longitude": 16.3216232
+    "longitude": 16.3216232,
+    "postcode": "2100",
+    "city": "Leobendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

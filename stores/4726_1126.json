@@ -5,35 +5,51 @@
     "shop": "bakery",
     "latitude": 47.2605864,
     "longitude": 11.2693824,
-    "brand": "Der Bäcker Ruetz"
+    "brand": "Der Bäcker Ruetz",
+    "postcode": "6175",
+    "city": "Kematen in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Karl Pichler Edelhölzer GmbH",
     "retailer": "karl_pichler_edelholzer_gmbh",
     "shop": "trade",
     "latitude": 47.26282,
-    "longitude": 11.2663914
+    "longitude": 11.2663914,
+    "postcode": "6175",
+    "city": "Kematen in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KFZ Ragg",
     "retailer": "kfz_ragg",
     "shop": "car_repair",
     "latitude": 47.2628196,
-    "longitude": 11.2680227
+    "longitude": 11.2680227,
+    "postcode": "6175",
+    "city": "Kematen in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Larcher Jagd",
     "retailer": "larcher_jagd",
     "shop": "hunting",
     "latitude": 47.2641458,
-    "longitude": 11.2679869
+    "longitude": 11.2679869,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Millroth Fahrzeugtechnik und Design",
     "retailer": "millroth_fahrzeugtechnik_und_design",
     "shop": "car_repair",
     "latitude": 47.2638574,
-    "longitude": 11.2682302
+    "longitude": 11.2682302,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "miniM",
@@ -41,20 +57,30 @@
     "shop": "convenience",
     "latitude": 47.2619431,
     "longitude": 11.2644174,
-    "brand": "MPreis"
+    "brand": "MPreis",
+    "postcode": "6175",
+    "city": "Kematen in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Neuner E-Bike Store",
     "retailer": "neuner_e_bike_store",
     "shop": "bicycle",
     "latitude": 47.2641854,
-    "longitude": 11.2693039
+    "longitude": 11.2693039,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Synthesa",
     "retailer": "synthesa",
     "shop": "paint",
     "latitude": 47.2627276,
-    "longitude": 11.266971
+    "longitude": 11.266971,
+    "postcode": "6175",
+    "city": "Kematen in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "blumen_steger",
     "shop": "florist",
     "latitude": 47.4302556,
-    "longitude": 12.8426599
+    "longitude": 12.8426599,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "BONITA",
@@ -12,14 +14,18 @@
     "shop": "clothes",
     "latitude": 47.4306004,
     "longitude": 12.8432279,
-    "brand": "BONITA"
+    "brand": "BONITA",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.4337086,
-    "longitude": 12.84344
+    "longitude": 12.84344,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Depot",
@@ -27,7 +33,9 @@
     "shop": "interior_decoration",
     "latitude": 47.4306566,
     "longitude": 12.8428766,
-    "brand": "Depot"
+    "brand": "Depot",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -35,21 +43,29 @@
     "shop": "chemist",
     "latitude": 47.4300926,
     "longitude": 12.8433394,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Einkaufszentrum Saalfelden",
     "retailer": "einkaufszentrum_saalfelden",
     "shop": "mall",
     "latitude": 47.4305344,
-    "longitude": 12.8430988
+    "longitude": 12.8430988,
+    "postcode": "5760",
+    "city": "Saalfelden am Steinernen Meer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Elektro Stöckl",
     "retailer": "elektro_stockl",
     "shop": "electronics",
     "latitude": 47.4316826,
-    "longitude": 12.8444495
+    "longitude": 12.8444495,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Ernsting's family",
@@ -57,7 +73,9 @@
     "shop": "clothes",
     "latitude": 47.4304352,
     "longitude": 12.8435873,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Forstinger",
@@ -65,7 +83,9 @@
     "shop": "car_repair",
     "latitude": 47.4360085,
     "longitude": 12.8412827,
-    "brand": "Forstinger"
+    "brand": "Forstinger",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hervis",
@@ -73,7 +93,9 @@
     "shop": "sports",
     "latitude": 47.4306802,
     "longitude": 12.8425574,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hunkemöller",
@@ -81,7 +103,9 @@
     "shop": "clothes",
     "latitude": 47.430232,
     "longitude": 12.843523,
-    "brand": "Hunkemöller"
+    "brand": "Hunkemöller",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Interspar",
@@ -89,7 +113,10 @@
     "shop": "supermarket",
     "latitude": 47.4304733,
     "longitude": 12.8426957,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "city": "Saalfelden am Steinernen Meer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Marionnaud",
@@ -97,7 +124,9 @@
     "shop": "perfumery",
     "latitude": 47.4305786,
     "longitude": 12.8423777,
-    "brand": "Marionnaud"
+    "brand": "Marionnaud",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "ONLY",
@@ -105,6 +134,8 @@
     "shop": "clothes",
     "latitude": 47.4302611,
     "longitude": 12.8429114,
-    "brand": "ONLY"
+    "brand": "ONLY",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -4,20 +4,28 @@
     "retailer": "karosserie_und_fahrzeugbau_neuwirther",
     "shop": "car_repair",
     "latitude": 46.7531907,
-    "longitude": 13.2479146
+    "longitude": 13.2479146,
+    "postcode": "9754",
+    "city": "Steinfeld",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 46.7577561,
-    "longitude": 13.2477888
+    "longitude": 13.2477888,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tiles",
     "retailer": "shop_tiles",
     "shop": "tiles",
     "latitude": 46.7521762,
-    "longitude": 13.2476471
+    "longitude": 13.2476471,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -5,28 +5,40 @@
     "shop": "car",
     "latitude": 48.2160778,
     "longitude": 13.4828237,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bakery",
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 48.2133404,
-    "longitude": 13.4844414
+    "longitude": 13.4844414,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Beauty Box",
     "retailer": "beauty_box",
     "shop": "cosmetics",
     "latitude": 48.2111478,
-    "longitude": 13.4875604
+    "longitude": 13.4875604,
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Betten Ammerer",
     "retailer": "betten_ammerer",
     "shop": "bed",
     "latitude": 48.2100257,
-    "longitude": 13.4890996
+    "longitude": 13.4890996,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "BMW Rachbauer",
@@ -34,35 +46,45 @@
     "shop": "car",
     "latitude": 48.2155036,
     "longitude": 13.4824392,
-    "brand": "BMW"
+    "brand": "BMW",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Sailer",
     "retailer": "backerei_sailer",
     "shop": "bakery",
     "latitude": 48.2101007,
-    "longitude": 13.4856852
+    "longitude": 13.4856852,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "chic",
     "retailer": "chic",
     "shop": "fashion_accessories",
     "latitude": 48.2102937,
-    "longitude": 13.4886121
+    "longitude": 13.4886121,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Delikaterie",
     "retailer": "delikaterie",
     "shop": "deli",
     "latitude": 48.2106014,
-    "longitude": 13.4885435
+    "longitude": 13.4885435,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Deniz",
     "retailer": "deniz",
     "shop": "hairdresser",
     "latitude": 48.2104643,
-    "longitude": 13.4891242
+    "longitude": 13.4891242,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -70,42 +92,60 @@
     "shop": "supermarket",
     "latitude": 48.2131671,
     "longitude": 13.4863779,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4931",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Feichtinger",
     "retailer": "feichtinger",
     "shop": "butcher",
     "latitude": 48.2104982,
-    "longitude": 13.4891966
+    "longitude": 13.4891966,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "frech&wild",
     "retailer": "frech_und_wild",
     "shop": "toys",
     "latitude": 48.2100957,
-    "longitude": 13.4892654
+    "longitude": 13.4892654,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Freyer Herrenschuhe",
     "retailer": "freyer_herrenschuhe",
     "shop": "shoes",
     "latitude": 48.2104394,
-    "longitude": 13.4881055
+    "longitude": 13.4881055,
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haarwerkstatt",
     "retailer": "haarwerkstatt",
     "shop": "hairdresser",
     "latitude": 48.2122884,
-    "longitude": 13.4825098
+    "longitude": 13.4825098,
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.2131867,
-    "longitude": 13.4843985
+    "longitude": 13.4843985,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hellweg",
@@ -113,7 +153,11 @@
     "shop": "doityourself",
     "latitude": 48.2136687,
     "longitude": 13.4826873,
-    "brand": "Hellweg"
+    "brand": "Hellweg",
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -121,7 +165,11 @@
     "shop": "supermarket",
     "latitude": 48.2135958,
     "longitude": 13.4850446,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klipp",
@@ -129,28 +177,38 @@
     "shop": "hairdresser",
     "latitude": 48.2168629,
     "longitude": 13.4833729,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Körndl Piano",
     "retailer": "korndl_piano",
     "shop": "yes",
     "latitude": 48.2108892,
-    "longitude": 13.488687
+    "longitude": 13.488687,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Leopold Oppenauer e.U.",
     "retailer": "leopold_oppenauer_e_u",
     "shop": "weapons",
     "latitude": 48.2109883,
-    "longitude": 13.487976
+    "longitude": 13.487976,
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mairinger Lifestyle",
     "retailer": "mairinger_lifestyle",
     "shop": "clothes",
     "latitude": 48.2103037,
-    "longitude": 13.489546
+    "longitude": 13.489546,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Maximarkt",
@@ -158,55 +216,77 @@
     "shop": "supermarket",
     "latitude": 48.2162918,
     "longitude": 13.4834972,
-    "brand": "Maximarkt"
+    "brand": "Maximarkt",
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mayer Bäcker",
     "retailer": "mayer_backer",
     "shop": "bakery",
     "latitude": 48.2124308,
-    "longitude": 13.4825836
+    "longitude": 13.4825836,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Optik Bauer",
     "retailer": "optik_bauer",
     "shop": "optician;hearing_aids",
     "latitude": 48.2113785,
-    "longitude": 13.4887218
+    "longitude": 13.4887218,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Peckerlwerkstatt",
     "retailer": "peckerlwerkstatt",
     "shop": "tattoo",
     "latitude": 48.2103896,
-    "longitude": 13.4865218
+    "longitude": 13.4865218,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pilz&Pilz",
     "retailer": "pilz_und_pilz",
     "shop": "hairdresser",
     "latitude": 48.2108626,
-    "longitude": 13.4891283
+    "longitude": 13.4891283,
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ridia",
     "retailer": "ridia",
     "shop": "toys",
     "latitude": 48.2102006,
-    "longitude": 13.4895822
+    "longitude": 13.4895822,
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schmollgruber",
     "retailer": "schmollgruber",
     "shop": "jewelry",
     "latitude": 48.2103883,
-    "longitude": 13.4881469
+    "longitude": 13.4881469,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik Anna",
     "retailer": "trafik_anna",
     "shop": "tobacco",
     "latitude": 48.2129241,
-    "longitude": 13.4865207
+    "longitude": 13.4865207,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

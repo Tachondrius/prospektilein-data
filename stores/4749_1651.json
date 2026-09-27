@@ -4,7 +4,11 @@
     "retailer": "bike_center_bleier",
     "shop": "motorcycle",
     "latitude": 47.4965566,
-    "longitude": 16.5110576
+    "longitude": 16.5110576,
+    "postcode": "7350",
+    "city": "Oberpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lidl",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 47.4960211,
     "longitude": 16.5105034,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "7350",
+    "city": "Oberpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "SEAT Kneisz",
@@ -20,13 +28,19 @@
     "shop": "car",
     "latitude": 47.4946521,
     "longitude": 16.5110269,
-    "brand": "Seat"
+    "brand": "Seat",
+    "postcode": "7350",
+    "city": "Oberpullendorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Zweirad Rainer",
     "retailer": "zweirad_rainer",
     "shop": "bicycle",
     "latitude": 47.4948421,
-    "longitude": 16.5105867
+    "longitude": 16.5105867,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

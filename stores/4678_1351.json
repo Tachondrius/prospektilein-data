@@ -4,14 +4,20 @@
     "retailer": "arbo_prufzentrum_spittal_drau",
     "shop": "car_repair",
     "latitude": 46.7886636,
-    "longitude": 13.5174651
+    "longitude": 13.5174651,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Autoteile Wieser",
     "retailer": "autoteile_wieser",
     "shop": "car_parts",
     "latitude": 46.7887936,
-    "longitude": 13.5172306
+    "longitude": 13.5172306,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Burgstaller",
@@ -19,28 +25,40 @@
     "shop": "car",
     "latitude": 46.7882843,
     "longitude": 13.5179899,
-    "brand": "Ford"
+    "brand": "Ford",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Dan Küchen",
     "retailer": "dan_kuchen",
     "shop": "kitchen",
     "latitude": 46.7889615,
-    "longitude": 13.5186324
+    "longitude": 13.5186324,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gabor Diskont",
     "retailer": "gabor_diskont",
     "shop": "shoes",
     "latitude": 46.7899795,
-    "longitude": 13.516956
+    "longitude": 13.516956,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Genuss-Meierei Spittal",
     "retailer": "genuss_meierei_spittal",
     "shop": "convenience",
     "latitude": 46.7893765,
-    "longitude": 13.5162033
+    "longitude": 13.5162033,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gruber",
@@ -48,7 +66,11 @@
     "shop": "car",
     "latitude": 46.7894887,
     "longitude": 13.5175659,
-    "brand": "Mercedes-Benz"
+    "brand": "Mercedes-Benz",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -56,7 +78,11 @@
     "shop": "supermarket",
     "latitude": 46.7871642,
     "longitude": 13.5178982,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "JYSK",
@@ -64,41 +90,59 @@
     "shop": "furniture",
     "latitude": 46.7892155,
     "longitude": 13.5189467,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KARNERTA Fleischmarkt im Kärntnermilch-Markt",
     "retailer": "karnerta_fleischmarkt_im_karntnermilch_markt",
     "shop": "butcher",
     "latitude": 46.7894678,
-    "longitude": 13.5161784
+    "longitude": 13.5161784,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KULT",
     "retailer": "kult",
     "shop": "clothes",
     "latitude": 46.7886783,
-    "longitude": 13.5196566
+    "longitude": 13.5196566,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Plankenauer",
     "retailer": "plankenauer",
     "shop": "tyres",
     "latitude": 46.7886151,
-    "longitude": 13.5177316
+    "longitude": 13.5177316,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "PromotionMax®",
     "retailer": "promotionmax",
     "shop": "clothes",
     "latitude": 46.7874392,
-    "longitude": 13.5167766
+    "longitude": 13.5167766,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "SHOE 4 YOU",
     "retailer": "shoe_4_you",
     "shop": "clothes",
     "latitude": 46.7886351,
-    "longitude": 13.5197798
+    "longitude": 13.5197798,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

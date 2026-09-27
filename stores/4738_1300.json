@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 47.3810291,
     "longitude": 13.0015135,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "5652",
+    "city": "Dienten am Hochkönig",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Porti Sport",
     "retailer": "porti_sport",
     "shop": "sports",
     "latitude": 47.3844429,
-    "longitude": 13.0046114
+    "longitude": 13.0046114,
+    "postcode": "5652",
+    "city": "Dienten am Hochkönig",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak-Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 47.3820209,
-    "longitude": 13.0024537
+    "longitude": 13.0024537,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

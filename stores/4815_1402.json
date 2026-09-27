@@ -4,7 +4,11 @@
     "retailer": "a_markt",
     "shop": "interior_decoration",
     "latitude": 48.1567185,
-    "longitude": 14.0219812
+    "longitude": 14.0219812,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "A1",
@@ -12,7 +16,11 @@
     "shop": "telecommunication",
     "latitude": 48.1580573,
     "longitude": 14.0250887,
-    "brand": "A1"
+    "brand": "A1",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Admiral Sportwetten",
@@ -20,70 +28,102 @@
     "shop": "bookmaker",
     "latitude": 48.1588154,
     "longitude": 14.0209634,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Altstadt Weinstube",
     "retailer": "altstadt_weinstube",
     "shop": "wine",
     "latitude": 48.1564577,
-    "longitude": 14.0266013
+    "longitude": 14.0266013,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Anima zieht an",
     "retailer": "anima_zieht_an",
     "shop": "clothes",
     "latitude": 48.1585664,
-    "longitude": 14.0265938
+    "longitude": 14.0265938,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Atelier Jungreithmeier",
     "retailer": "atelier_jungreithmeier",
     "shop": "jewelry",
     "latitude": 48.1591384,
-    "longitude": 14.02602
+    "longitude": 14.02602,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bakery",
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 48.1582078,
-    "longitude": 14.0249445
+    "longitude": 14.0249445,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Balkan Bäckerei",
     "retailer": "balkan_backerei",
     "shop": "bakery",
     "latitude": 48.1594494,
-    "longitude": 14.0274495
+    "longitude": 14.0274495,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "baslerbeauty",
     "retailer": "baslerbeauty",
     "shop": "hairdresser_supply",
     "latitude": 48.1586185,
-    "longitude": 14.0253276
+    "longitude": 14.0253276,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Basteleien Bernadette Hackner",
     "retailer": "basteleien_bernadette_hackner",
     "shop": "craft",
     "latitude": 48.1562717,
-    "longitude": 14.023433
+    "longitude": 14.023433,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bestattung",
     "retailer": "bestattung",
     "shop": "funeral_directors",
     "latitude": 48.157468,
-    "longitude": 14.0271878
+    "longitude": 14.0271878,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bikedoc",
     "retailer": "bikedoc",
     "shop": "bicycle",
     "latitude": 48.1582022,
-    "longitude": 14.0263959
+    "longitude": 14.0263959,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -91,42 +131,56 @@
     "shop": "supermarket",
     "latitude": 48.1520871,
     "longitude": 14.028176,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen Berghammer",
     "retailer": "blumen_berghammer",
     "shop": "florist",
     "latitude": 48.1520314,
-    "longitude": 14.0270661
+    "longitude": 14.0270661,
+    "postcode": "4600",
+    "city": "Thalheim bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen Kraftwerk",
     "retailer": "blumen_kraftwerk",
     "shop": "general",
     "latitude": 48.1579264,
-    "longitude": 14.023333
+    "longitude": 14.023333,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumentraum",
     "retailer": "blumentraum",
     "shop": "florist",
     "latitude": 48.1567165,
-    "longitude": 14.0252135
+    "longitude": 14.0252135,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Brotsüchtig",
     "retailer": "brotsuchtig",
     "shop": "bakery",
     "latitude": 48.1583035,
-    "longitude": 14.0246386
+    "longitude": 14.0246386,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "by Simit",
     "retailer": "by_simit",
     "shop": "bakery",
     "latitude": 48.1562232,
-    "longitude": 14.0240506
+    "longitude": 14.0240506,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Calzedonia",
@@ -134,77 +188,117 @@
     "shop": "clothes",
     "latitude": 48.1594033,
     "longitude": 14.0246329,
-    "brand": "Calzedonia"
+    "brand": "Calzedonia",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Campus by Marc O'Polo",
     "retailer": "campus_by_marc_o_polo",
     "shop": "clothes",
     "latitude": 48.1580061,
-    "longitude": 14.0251505
+    "longitude": 14.0251505,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Cannabis Store Wels",
     "retailer": "cannabis_store_wels",
     "shop": "cannabis",
     "latitude": 48.158272,
-    "longitude": 14.0243256
+    "longitude": 14.0243256,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Carmen",
     "retailer": "carmen",
     "shop": "tailor",
     "latitude": 48.1578132,
-    "longitude": 14.0265057
+    "longitude": 14.0265057,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Cbd-Store",
     "retailer": "cbd_store",
     "shop": "chemist",
     "latitude": 48.1580539,
-    "longitude": 14.0209509
+    "longitude": 14.0209509,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Cioccolateria Marinello",
     "retailer": "cioccolateria_marinello",
     "shop": "convenience",
     "latitude": 48.1585014,
-    "longitude": 14.0240345
+    "longitude": 14.0240345,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Computer Schmied",
     "retailer": "computer_schmied",
     "shop": "computer",
     "latitude": 48.1527968,
-    "longitude": 14.0291957
+    "longitude": 14.0291957,
+    "postcode": "4600",
+    "city": "Thalheim bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Consul Reisen",
     "retailer": "consul_reisen",
     "shop": "travel_agency",
     "latitude": 48.1565265,
-    "longitude": 14.0265316
+    "longitude": 14.0265316,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Delikatessen Springer",
     "retailer": "delikatessen_springer",
     "shop": "convenience",
     "latitude": 48.1576017,
-    "longitude": 14.0254354
+    "longitude": 14.0254354,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dhillon",
     "retailer": "dhillon",
     "shop": "clothes",
     "latitude": 48.1589091,
-    "longitude": 14.024765
+    "longitude": 14.024765,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dilara's Merchandise",
     "retailer": "dilara_s_merchandise",
     "shop": "general",
     "latitude": 48.1583114,
-    "longitude": 14.0244217
+    "longitude": 14.0244217,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -212,14 +306,22 @@
     "shop": "chemist",
     "latitude": 48.1589167,
     "longitude": 14.0245328,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dominic Mitter",
     "retailer": "dominic_mitter",
     "shop": "clothes",
     "latitude": 48.1573897,
-    "longitude": 14.0255985
+    "longitude": 14.0255985,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Drei",
@@ -227,35 +329,53 @@
     "shop": "telecommunication",
     "latitude": 48.1577068,
     "longitude": 14.0253277,
-    "brand": "Drei"
+    "brand": "Drei",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Druckershop",
     "retailer": "druckershop",
     "shop": "printer_ink",
     "latitude": 48.1561189,
-    "longitude": 14.0230528
+    "longitude": 14.0230528,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "egons Bergwöd",
     "retailer": "egons_bergwod",
     "shop": "outdoor",
     "latitude": 48.1561475,
-    "longitude": 14.0231199
+    "longitude": 14.0231199,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Electronic Center",
     "retailer": "electronic_center",
     "shop": "computer",
     "latitude": 48.1595349,
-    "longitude": 14.0274765
+    "longitude": 14.0274765,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "En Vogue",
     "retailer": "en_vogue",
     "shop": "clothes",
     "latitude": 48.1583681,
-    "longitude": 14.0236847
+    "longitude": 14.0236847,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ernsting's family",
@@ -263,28 +383,44 @@
     "shop": "clothes",
     "latitude": 48.1592216,
     "longitude": 14.0247112,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "eva Wäscheboutique",
     "retailer": "eva_wascheboutique",
     "shop": "clothes",
     "latitude": 48.1575423,
-    "longitude": 14.0257169
+    "longitude": 14.0257169,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "fashioncafe",
     "retailer": "fashioncafe",
     "shop": "clothes",
     "latitude": 48.1590783,
-    "longitude": 14.0276122
+    "longitude": 14.0276122,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Feichtinger Schmuckhandel",
     "retailer": "feichtinger_schmuckhandel",
     "shop": "jewelry",
     "latitude": 48.1573544,
-    "longitude": 14.0259022
+    "longitude": 14.0259022,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fielmann",
@@ -292,28 +428,42 @@
     "shop": "optician",
     "latitude": 48.1595794,
     "longitude": 14.024553,
-    "brand": "Fielmann"
+    "brand": "Fielmann",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Flur Seasons",
     "retailer": "flur_seasons",
     "shop": "hairdresser",
     "latitude": 48.1588998,
-    "longitude": 14.0221916
+    "longitude": 14.0221916,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fotohaus Werkgarner",
     "retailer": "fotohaus_werkgarner",
     "shop": "photo",
     "latitude": 48.1592615,
-    "longitude": 14.0232362
+    "longitude": 14.0232362,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseur Umlauf",
     "retailer": "friseur_umlauf",
     "shop": "hairdresser",
     "latitude": 48.1593276,
-    "longitude": 14.0268656
+    "longitude": 14.0268656,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fussl",
@@ -321,28 +471,42 @@
     "shop": "clothes",
     "latitude": 48.1599036,
     "longitude": 14.0234427,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Galerie Forum",
     "retailer": "galerie_forum",
     "shop": "art",
     "latitude": 48.156904,
-    "longitude": 14.0255285
+    "longitude": 14.0255285,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "GANG art",
     "retailer": "gang_art",
     "shop": "clothes",
     "latitude": 48.1588614,
-    "longitude": 14.0260613
+    "longitude": 14.0260613,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gerard Women",
     "retailer": "gerard_women",
     "shop": "clothes",
     "latitude": 48.1567222,
-    "longitude": 14.0242474
+    "longitude": 14.0242474,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gina Laura",
@@ -350,28 +514,40 @@
     "shop": "clothes",
     "latitude": 48.1594029,
     "longitude": 14.0244285,
-    "brand": "Gina Laura"
+    "brand": "Gina Laura",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gloriette",
     "retailer": "gloriette",
     "shop": "clothes",
     "latitude": 48.158707,
-    "longitude": 14.0256026
+    "longitude": 14.0256026,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Glüxmoment",
     "retailer": "gluxmoment",
     "shop": "clothes",
     "latitude": 48.158886,
-    "longitude": 14.0265451
+    "longitude": 14.0265451,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gortana",
     "retailer": "gortana",
     "shop": "clothes",
     "latitude": 48.1575709,
-    "longitude": 14.0243581
+    "longitude": 14.0243581,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "H&M",
@@ -379,35 +555,55 @@
     "shop": "clothes",
     "latitude": 48.1587802,
     "longitude": 14.0248929,
-    "brand": "H&M"
+    "brand": "H&M",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "H&M",
     "retailer": "h_and_m",
     "shop": "clothes",
     "latitude": 48.1589013,
-    "longitude": 14.0251361
+    "longitude": 14.0251361,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haarstyle by N&N",
     "retailer": "haarstyle_by_n_und_n",
     "shop": "hairdresser",
     "latitude": 48.1575184,
-    "longitude": 14.0227821
+    "longitude": 14.0227821,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hair Style",
     "retailer": "hair_style",
     "shop": "hairdresser",
     "latitude": 48.159076,
-    "longitude": 14.0270177
+    "longitude": 14.0270177,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.158166,
-    "longitude": 14.0208419
+    "longitude": 14.0208419,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hansaton",
@@ -415,7 +611,11 @@
     "shop": "hearing_aids",
     "latitude": 48.1587404,
     "longitude": 14.0206865,
-    "brand": "Hansaton"
+    "brand": "Hansaton",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hartlauer",
@@ -423,28 +623,42 @@
     "shop": "electronics",
     "latitude": 48.1593133,
     "longitude": 14.0247127,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hellinger",
     "retailer": "hellinger",
     "shop": "doors",
     "latitude": 48.1579678,
-    "longitude": 14.0285841
+    "longitude": 14.0285841,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Huber",
     "retailer": "huber",
     "shop": "clothes",
     "latitude": 48.1585598,
-    "longitude": 14.0251527
+    "longitude": 14.0251527,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hugo",
     "retailer": "hugo",
     "shop": "second_hand",
     "latitude": 48.159624,
-    "longitude": 14.0274406
+    "longitude": 14.0274406,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Humanic",
@@ -452,126 +666,190 @@
     "shop": "shoes",
     "latitude": 48.1580093,
     "longitude": 14.0248601,
-    "brand": "Humanic"
+    "brand": "Humanic",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hundesalon Wels",
     "retailer": "hundesalon_wels",
     "shop": "pet_grooming",
     "latitude": 48.1562636,
-    "longitude": 14.0268352
+    "longitude": 14.0268352,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hunkemöller",
     "retailer": "hunkemoller",
     "shop": "clothes",
     "latitude": 48.1581136,
-    "longitude": 14.02504
+    "longitude": 14.02504,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Huthaus Hintner",
     "retailer": "huthaus_hintner",
     "shop": "clothes",
     "latitude": 48.1582172,
-    "longitude": 14.0241761
+    "longitude": 14.0241761,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Höller",
     "retailer": "holler",
     "shop": "bag",
     "latitude": 48.1574698,
-    "longitude": 14.0257819
+    "longitude": 14.0257819,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hübner",
     "retailer": "hubner",
     "shop": "watches",
     "latitude": 48.1576047,
-    "longitude": 14.025599
+    "longitude": 14.025599,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Illenberger",
     "retailer": "illenberger",
     "shop": "clothes",
     "latitude": 48.1589042,
-    "longitude": 14.0261928
+    "longitude": 14.0261928,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "IN-Moden",
     "retailer": "in_moden",
     "shop": "clothes",
     "latitude": 48.1587374,
-    "longitude": 14.0257026
+    "longitude": 14.0257026,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Infinity",
     "retailer": "infinity",
     "shop": "hairdresser",
     "latitude": 48.1574125,
-    "longitude": 14.0216773
+    "longitude": 14.0216773,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "intimissimi",
     "retailer": "intimissimi",
     "shop": "clothes",
     "latitude": 48.1593675,
-    "longitude": 14.0246466
+    "longitude": 14.0246466,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Irezumi",
     "retailer": "irezumi",
     "shop": "tattoo",
     "latitude": 48.1575437,
-    "longitude": 14.024942
+    "longitude": 14.024942,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Istambul Gold",
     "retailer": "istambul_gold",
     "shop": "jewelry",
     "latitude": 48.1572672,
-    "longitude": 14.0264965
+    "longitude": 14.0264965,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Joe`s Radwerkstatt",
     "retailer": "joe_s_radwerkstatt",
     "shop": "bicycle",
     "latitude": 48.1591624,
-    "longitude": 14.0201205
+    "longitude": 14.0201205,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Jones Store",
     "retailer": "jones_store",
     "shop": "clothes",
     "latitude": 48.1568401,
-    "longitude": 14.025382
+    "longitude": 14.025382,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kaffeeothek",
     "retailer": "kaffeeothek",
     "shop": "coffee",
     "latitude": 48.1570431,
-    "longitude": 14.0250483
+    "longitude": 14.0250483,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kaltenberger",
     "retailer": "kaltenberger",
     "shop": "shoes",
     "latitude": 48.1591065,
-    "longitude": 14.0258928
+    "longitude": 14.0258928,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kastner",
     "retailer": "kastner",
     "shop": "jewelry",
     "latitude": 48.1593032,
-    "longitude": 14.0264038
+    "longitude": 14.0264038,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klaus Gmeiner Brillen Kontaktlinsen Hörgeräte",
     "retailer": "klaus_gmeiner_brillen_kontaktlinsen_horgerate",
     "shop": "optician",
     "latitude": 48.158533,
-    "longitude": 14.0250668
+    "longitude": 14.0250668,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kleider Bauer",
@@ -579,14 +857,22 @@
     "shop": "clothes",
     "latitude": 48.1590967,
     "longitude": 14.0247774,
-    "brand": "Kleider Bauer"
+    "brand": "Kleider Bauer",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kuchenwelt",
     "retailer": "kuchenwelt",
     "shop": "confectionery",
     "latitude": 48.1527356,
-    "longitude": 14.0292765
+    "longitude": 14.0292765,
+    "postcode": "4600",
+    "city": "Thalheim bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kuoni",
@@ -594,35 +880,49 @@
     "shop": "travel_agency",
     "latitude": 48.1594018,
     "longitude": 14.0235709,
-    "brand": "Kuoni"
+    "brand": "Kuoni",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lebensquelle",
     "retailer": "lebensquelle",
     "shop": "chemist",
     "latitude": 48.1553703,
-    "longitude": 14.026305
+    "longitude": 14.026305,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lederwaren Winklmayr",
     "retailer": "lederwaren_winklmayr",
     "shop": "clothes",
     "latitude": 48.1593597,
-    "longitude": 14.023382
+    "longitude": 14.023382,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lucas",
     "retailer": "lucas",
     "shop": "jewelry",
     "latitude": 48.1576029,
-    "longitude": 14.0265699
+    "longitude": 14.0265699,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Maestro",
     "retailer": "maestro",
     "shop": "hairdresser",
     "latitude": 48.1581283,
-    "longitude": 14.0247606
+    "longitude": 14.0247606,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Marc O'Polo",
@@ -630,7 +930,11 @@
     "shop": "clothes",
     "latitude": 48.1579631,
     "longitude": 14.0252118,
-    "brand": "Marc O'Polo"
+    "brand": "Marc O'Polo",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Marionnaud",
@@ -638,14 +942,20 @@
     "shop": "perfumery",
     "latitude": 48.1584866,
     "longitude": 14.0248962,
-    "brand": "Marionnaud"
+    "brand": "Marionnaud",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Massage Fußpflege",
     "retailer": "massage_fupflege",
     "shop": "massage",
     "latitude": 48.1566308,
-    "longitude": 14.026321
+    "longitude": 14.026321,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "MAX&Co.",
@@ -653,84 +963,114 @@
     "shop": "clothes",
     "latitude": 48.1569955,
     "longitude": 14.0249403,
-    "brand": "MAX&Co."
+    "brand": "MAX&Co.",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mim's",
     "retailer": "mim_s",
     "shop": "clothes",
     "latitude": 48.1592409,
-    "longitude": 14.0244529
+    "longitude": 14.0244529,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mos Mosh",
     "retailer": "mos_mosh",
     "shop": "clothes",
     "latitude": 48.1582234,
-    "longitude": 14.0265946
+    "longitude": 14.0265946,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "MS Optik",
     "retailer": "ms_optik",
     "shop": "optician",
     "latitude": 48.1586947,
-    "longitude": 14.0265732
+    "longitude": 14.0265732,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Musik Moser",
     "retailer": "musik_moser",
     "shop": "musical_instrument",
     "latitude": 48.1566503,
-    "longitude": 14.0242112
+    "longitude": 14.0242112,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Musikschule Wimmer",
     "retailer": "musikschule_wimmer",
     "shop": "musical_instrument",
     "latitude": 48.1578575,
-    "longitude": 14.0279638
+    "longitude": 14.0279638,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Musterteile Verkauf",
     "retailer": "musterteile_verkauf",
     "shop": "clothes",
     "latitude": 48.1595441,
-    "longitude": 14.0238783
+    "longitude": 14.0238783,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mühlberger",
     "retailer": "muhlberger",
     "shop": "clothes",
     "latitude": 48.1589332,
-    "longitude": 14.0253331
+    "longitude": 14.0253331,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Name It",
     "retailer": "name_it",
     "shop": "clothes",
     "latitude": 48.1568905,
-    "longitude": 14.0246275
+    "longitude": 14.0246275,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "naschmarkt",
     "retailer": "naschmarkt",
     "shop": "deli",
     "latitude": 48.1589902,
-    "longitude": 14.0225837
+    "longitude": 14.0225837,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Neugebauer",
     "retailer": "neugebauer",
     "shop": "clothes",
     "latitude": 48.1574327,
-    "longitude": 14.0270767
+    "longitude": 14.0270767,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Neugebauer",
     "retailer": "neugebauer",
     "shop": "clothes",
     "latitude": 48.1585872,
-    "longitude": 14.0263631
+    "longitude": 14.0263631,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Neuroth",
@@ -738,21 +1078,29 @@
     "shop": "hearing_aids",
     "latitude": 48.1595101,
     "longitude": 14.0237367,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nicole Baumberger - Keramik und mehr",
     "retailer": "nicole_baumberger_keramik_und_mehr",
     "shop": "convenience",
     "latitude": 48.1561999,
-    "longitude": 14.023274
+    "longitude": 14.023274,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nuck bikes&gear",
     "retailer": "nuck_bikes_und_gear",
     "shop": "bicycle",
     "latitude": 48.1578726,
-    "longitude": 14.0224368
+    "longitude": 14.0224368,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pagro",
@@ -760,7 +1108,11 @@
     "shop": "stationery",
     "latitude": 48.159627,
     "longitude": 14.0230473,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Palmers",
@@ -768,21 +1120,31 @@
     "shop": "clothes",
     "latitude": 48.1587896,
     "longitude": 14.0258483,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "panna cotta",
     "retailer": "panna_cotta",
     "shop": "clothes",
     "latitude": 48.1578541,
-    "longitude": 14.025134
+    "longitude": 14.025134,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Parfümerie",
     "retailer": "parfumerie",
     "shop": "chemist",
     "latitude": 48.1567605,
-    "longitude": 14.0253158
+    "longitude": 14.0253158,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pearle",
@@ -790,56 +1152,80 @@
     "shop": "optician",
     "latitude": 48.1597745,
     "longitude": 14.0244545,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pelze",
     "retailer": "pelze",
     "shop": "clothes",
     "latitude": 48.1560597,
-    "longitude": 14.0236935
+    "longitude": 14.0236935,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pfandhaus",
     "retailer": "pfandhaus",
     "shop": "pawnbroker",
     "latitude": 48.1589201,
-    "longitude": 14.022275
+    "longitude": 14.022275,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pop Up Store Showroom",
     "retailer": "pop_up_store_showroom",
     "shop": "clothes",
     "latitude": 48.1575632,
-    "longitude": 14.0254745
+    "longitude": 14.0254745,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "RC Immobilien",
     "retailer": "rc_immobilien",
     "shop": "estate_agent",
     "latitude": 48.1576473,
-    "longitude": 14.0220431
+    "longitude": 14.0220431,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reformhaus Martin",
     "retailer": "reformhaus_martin",
     "shop": "convenience",
     "latitude": 48.1572327,
-    "longitude": 14.0263929
+    "longitude": 14.0263929,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Rohrer",
     "retailer": "rohrer",
     "shop": "bakery",
     "latitude": 48.1585112,
-    "longitude": 14.024994
+    "longitude": 14.024994,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Rudolfo",
     "retailer": "rudolfo",
     "shop": "clothes",
     "latitude": 48.1580242,
-    "longitude": 14.0266435
+    "longitude": 14.0266435,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ruefa",
@@ -847,126 +1233,188 @@
     "shop": "travel_agency",
     "latitude": 48.1582434,
     "longitude": 14.0242505,
-    "brand": "Ruefa"
+    "brand": "Ruefa",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "sab reisen",
     "retailer": "sab_reisen",
     "shop": "travel_agency",
     "latitude": 48.1599975,
-    "longitude": 14.0250812
+    "longitude": 14.0250812,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schaper",
     "retailer": "schaper",
     "shop": "medical_supply",
     "latitude": 48.1578171,
-    "longitude": 14.0211812
+    "longitude": 14.0211812,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schmuckatelier Machwerk",
     "retailer": "schmuckatelier_machwerk",
     "shop": "jewelry",
     "latitude": 48.1573046,
-    "longitude": 14.0275718
+    "longitude": 14.0275718,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schmuckwerkstatt Emmerstorfer",
     "retailer": "schmuckwerkstatt_emmerstorfer",
     "shop": "jewelry",
     "latitude": 48.1568374,
-    "longitude": 14.0245005
+    "longitude": 14.0245005,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schuhmacherei Felix Strauss",
     "retailer": "schuhmacherei_felix_strauss",
     "shop": "shoes",
     "latitude": 48.1564265,
-    "longitude": 14.0259628
+    "longitude": 14.0259628,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schwabegger Akustik",
     "retailer": "schwabegger_akustik",
     "shop": "hearing_aids",
     "latitude": 48.1581755,
-    "longitude": 14.0240527
+    "longitude": 14.0240527,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schwabegger Optik",
     "retailer": "schwabegger_optik",
     "shop": "optician",
     "latitude": 48.1580443,
-    "longitude": 14.0236691
+    "longitude": 14.0236691,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Selendi",
     "retailer": "selendi",
     "shop": "clothes",
     "latitude": 48.1588397,
-    "longitude": 14.0259809
+    "longitude": 14.0259809,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sewa",
     "retailer": "sewa",
     "shop": "convenience",
     "latitude": 48.1585475,
-    "longitude": 14.0242749
+    "longitude": 14.0242749,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sholami",
     "retailer": "sholami",
     "shop": "convenience",
     "latitude": 48.1582256,
-    "longitude": 14.0231652
+    "longitude": 14.0231652,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Silber",
     "retailer": "silber",
     "shop": "electronics",
     "latitude": 48.1578534,
-    "longitude": 14.022392
+    "longitude": 14.022392,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Skribo Joh.Haas",
     "retailer": "skribo_joh_haas",
     "shop": "books",
     "latitude": 48.1575083,
-    "longitude": 14.0262781
+    "longitude": 14.0262781,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sonnentor",
     "retailer": "sonnentor",
     "shop": "convenience",
     "latitude": 48.159629,
-    "longitude": 14.0243271
+    "longitude": 14.0243271,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 48.1586978,
-    "longitude": 14.0245995
+    "longitude": 14.0245995,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stockinger United Optics",
     "retailer": "stockinger_united_optics",
     "shop": "optician",
     "latitude": 48.1577551,
-    "longitude": 14.0252722
+    "longitude": 14.0252722,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sugo",
     "retailer": "sugo",
     "shop": "clothes",
     "latitude": 48.1585917,
-    "longitude": 14.0252396
+    "longitude": 14.0252396,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak - Trafik Angelo Radner e.U.",
     "retailer": "tabak_trafik_angelo_radner_e_u",
     "shop": "tobacco",
     "latitude": 48.1594989,
-    "longitude": 14.0245923
+    "longitude": 14.0245923,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -974,42 +1422,60 @@
     "shop": "tobacco",
     "latitude": 48.1558779,
     "longitude": 14.0226451,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tapeten-Polstermöbel Roman Weilguny",
     "retailer": "tapeten_polstermobel_roman_weilguny",
     "shop": "furniture",
     "latitude": 48.1563986,
-    "longitude": 14.026655
+    "longitude": 14.026655,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Teppichhaus Karimi",
     "retailer": "teppichhaus_karimi",
     "shop": "carpet",
     "latitude": 48.1594338,
-    "longitude": 14.0263256
+    "longitude": 14.0263256,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Thalia",
     "retailer": "thalia",
     "shop": "books",
     "latitude": 48.1584496,
-    "longitude": 14.0247766
+    "longitude": 14.0247766,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "The Polo Shop",
     "retailer": "the_polo_shop",
     "shop": "clothes",
     "latitude": 48.1563544,
-    "longitude": 14.0235817
+    "longitude": 14.0235817,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tipwin",
     "retailer": "tipwin",
     "shop": "bookmaker",
     "latitude": 48.1590996,
-    "longitude": 14.0272073
+    "longitude": 14.0272073,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tom Tailor",
@@ -1017,97 +1483,141 @@
     "shop": "clothes",
     "latitude": 48.1588578,
     "longitude": 14.0245505,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trachten Feichtinger",
     "retailer": "trachten_feichtinger",
     "shop": "clothes",
     "latitude": 48.1573931,
-    "longitude": 14.0269527
+    "longitude": 14.0269527,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.1571399,
-    "longitude": 14.0253334
+    "longitude": 14.0253334,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.1583365,
-    "longitude": 14.0244886
+    "longitude": 14.0244886,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.1590337,
-    "longitude": 14.0216558
+    "longitude": 14.0216558,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Triumpf",
     "retailer": "triumpf",
     "shop": "clothes",
     "latitude": 48.1586671,
-    "longitude": 14.0254896
+    "longitude": 14.0254896,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tui",
     "retailer": "tui",
     "shop": "travel_agency",
     "latitude": 48.1576771,
-    "longitude": 14.0255148
+    "longitude": 14.0255148,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Voi Gschmeidig",
     "retailer": "voi_gschmeidig",
     "shop": "massage",
     "latitude": 48.1562447,
-    "longitude": 14.0263981
+    "longitude": 14.0263981,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Vögele Shoes",
     "retailer": "vogele_shoes",
     "shop": "shoes",
     "latitude": 48.1566543,
-    "longitude": 14.0241212
+    "longitude": 14.0241212,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wildwechsel",
     "retailer": "wildwechsel",
     "shop": "hunting",
     "latitude": 48.156597,
-    "longitude": 14.0240336
+    "longitude": 14.0240336,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Xocolat Schokoladenkontor",
     "retailer": "xocolat_schokoladenkontor",
     "shop": "chocolate",
     "latitude": 48.1582939,
-    "longitude": 14.0248815
+    "longitude": 14.0248815,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Yilmaz Reisen",
     "retailer": "yilmaz_reisen",
     "shop": "travel_agency",
     "latitude": 48.1598188,
-    "longitude": 14.0273578
+    "longitude": 14.0273578,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Zellinger",
     "retailer": "zellinger",
     "shop": "butcher",
     "latitude": 48.1583639,
-    "longitude": 14.0245689
+    "longitude": 14.0245689,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Änderungs-Schneiderei STIL",
     "retailer": "anderungs_schneiderei_stil",
     "shop": "tailor",
     "latitude": 48.1581507,
-    "longitude": 14.0231344
+    "longitude": 14.0231344,
+    "postcode": "4600",
+    "city": "Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

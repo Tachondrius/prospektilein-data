@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.9834634,
     "longitude": 16.2892725,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "2512",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 47.9861026,
     "longitude": 16.2893178,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2512",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BILLA stop & shop",
@@ -21,21 +29,31 @@
     "shop": "convenience",
     "latitude": 47.9878765,
     "longitude": 16.2846142,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "DD Auto",
     "retailer": "dd_auto",
     "shop": "car_parts",
     "latitude": 47.986756,
-    "longitude": 16.287875
+    "longitude": 16.287875,
+    "postcode": "2512",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Energietechnik Installationsges.m. b.H",
     "retailer": "energietechnik_installationsges_m_b_h",
     "shop": "yes",
     "latitude": 47.9811718,
-    "longitude": 16.2869722
+    "longitude": 16.2869722,
+    "postcode": "2512",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hyundai Auto Ebner",
@@ -43,14 +61,22 @@
     "shop": "car",
     "latitude": 47.980046,
     "longitude": 16.2861424,
-    "brand": "Hyundai"
+    "brand": "Hyundai",
+    "postcode": "2512",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Pikard",
     "retailer": "kfz_pikard",
     "shop": "car_parts",
     "latitude": 47.9824205,
-    "longitude": 16.2896731
+    "longitude": 16.2896731,
+    "postcode": "2512",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "L.E.B.",
@@ -58,7 +84,11 @@
     "shop": "car",
     "latitude": 47.9815853,
     "longitude": 16.2874319,
-    "brand": "Citroën;Volvo"
+    "brand": "Citroën;Volvo",
+    "postcode": "2512",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Müller",
@@ -66,20 +96,32 @@
     "shop": "chemist",
     "latitude": 47.9842392,
     "longitude": 16.289836,
-    "brand": "Müller"
+    "brand": "Müller",
+    "postcode": "2512",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Teak & Home",
     "retailer": "teak_und_home",
     "shop": "furniture",
     "latitude": 47.9817229,
-    "longitude": 16.287993
+    "longitude": 16.287993,
+    "postcode": "2512",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Xtreme colors",
     "retailer": "xtreme_colors",
     "shop": "car_repair",
     "latitude": 47.9836452,
-    "longitude": 16.2858438
+    "longitude": 16.2858438,
+    "postcode": "2512",
+    "city": "Traiskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

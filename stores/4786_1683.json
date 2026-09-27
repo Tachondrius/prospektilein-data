@@ -4,34 +4,50 @@
     "retailer": "kassa",
     "shop": "ticket",
     "latitude": 47.8651844,
-    "longitude": 16.8355872
+    "longitude": 16.8355872,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.8630728,
-    "longitude": 16.8322692
+    "longitude": 16.8322692,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "kite2fly",
     "retailer": "kite2fly",
     "shop": "sports",
     "latitude": 47.86751,
-    "longitude": 16.8335084
+    "longitude": 16.8335084,
+    "postcode": "7141",
+    "city": "Podersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Kiteshop & Surfshop - Neusiedler See",
     "retailer": "kiteshop_und_surfshop_neusiedler_see",
     "shop": "sports",
     "latitude": 47.8661099,
-    "longitude": 16.8348383
+    "longitude": 16.8348383,
+    "postcode": "7141",
+    "city": "Podersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Upsidedown",
     "retailer": "upsidedown",
     "shop": "sports",
     "latitude": 47.8642019,
-    "longitude": 16.8380702
+    "longitude": 16.8380702,
+    "postcode": "7141",
+    "city": "Podersdorf am See",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

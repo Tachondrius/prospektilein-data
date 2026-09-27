@@ -5,35 +5,51 @@
     "shop": "bookmaker",
     "latitude": 48.3391578,
     "longitude": 16.4637479,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "postcode": "2201",
+    "city": "Seyring",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fliesendorf",
     "retailer": "fliesendorf",
     "shop": "tiles",
     "latitude": 48.3376668,
-    "longitude": 16.4614593
+    "longitude": 16.4614593,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Josko Center Seyring",
     "retailer": "josko_center_seyring",
     "shop": "windows",
     "latitude": 48.338026,
-    "longitude": 16.4624508
+    "longitude": 16.4624508,
+    "postcode": "2201",
+    "city": "Seyring",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ CELIK",
     "retailer": "kfz_celik",
     "shop": "car_repair",
     "latitude": 48.339588,
-    "longitude": 16.4620923
+    "longitude": 16.4620923,
+    "postcode": "2201",
+    "city": "Seyring",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Thomas Philipps",
     "retailer": "thomas_philipps",
     "shop": "variety_store",
     "latitude": 48.3395271,
-    "longitude": 16.463233
+    "longitude": 16.463233,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Viva Billa",
@@ -41,6 +57,8 @@
     "shop": "convenience",
     "latitude": 48.3362704,
     "longitude": 16.4610671,
-    "brand": "Viva Billa"
+    "brand": "Viva Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

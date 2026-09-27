@@ -4,14 +4,20 @@
     "retailer": "autohaus_brandtner",
     "shop": "car",
     "latitude": 47.2178726,
-    "longitude": 15.3981296
+    "longitude": 15.3981296,
+    "postcode": "8102",
+    "city": "Semriach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lagerhaus Semriach",
     "retailer": "lagerhaus_semriach",
     "shop": "doityourself",
     "latitude": 47.2170892,
-    "longitude": 15.3985874
+    "longitude": 15.3985874,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -19,6 +25,10 @@
     "shop": "supermarket",
     "latitude": 47.2131559,
     "longitude": 15.3982276,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8102",
+    "city": "Semriach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

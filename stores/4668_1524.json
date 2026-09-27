@@ -5,14 +5,22 @@
     "shop": "car",
     "latitude": 46.6876291,
     "longitude": 15.2422125,
-    "brand": "Mitsubishi;CFMOTO"
+    "brand": "Mitsubishi;CFMOTO",
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bestattung Peinhopf - Standort Eibiswald",
     "retailer": "bestattung_peinhopf_standort_eibiswald",
     "shop": "funeral_directors",
     "latitude": 46.6877594,
-    "longitude": 15.2425081
+    "longitude": 15.2425081,
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -20,7 +28,11 @@
     "shop": "supermarket",
     "latitude": 46.6864964,
     "longitude": 15.2410481,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -28,56 +40,74 @@
     "shop": "chemist",
     "latitude": 46.6862612,
     "longitude": 15.2443627,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blüten Zauber Pinter Blumen",
     "retailer": "bluten_zauber_pinter_blumen",
     "shop": "florist",
     "latitude": 46.68616,
-    "longitude": 15.2436986
+    "longitude": 15.2436986,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hasewend’s Genussladen",
     "retailer": "hasewends_genussladen",
     "shop": "convenience",
     "latitude": 46.6877507,
-    "longitude": 15.2481469
+    "longitude": 15.2481469,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hubmann",
     "retailer": "hubmann",
     "shop": "clothes",
     "latitude": 46.6877637,
-    "longitude": 15.2492685
+    "longitude": 15.2492685,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 46.6859788,
-    "longitude": 15.2442491
+    "longitude": 15.2442491,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lais",
     "retailer": "lais",
     "shop": "butcher",
     "latitude": 46.687703,
-    "longitude": 15.2484236
+    "longitude": 15.2484236,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Leder Huber",
     "retailer": "leder_huber",
     "shop": "clothes",
     "latitude": 46.6860845,
-    "longitude": 15.2446915
+    "longitude": 15.2446915,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah&Frisch Punkt",
     "retailer": "nah_und_frisch",
     "shop": "convenience",
     "latitude": 46.6897887,
-    "longitude": 15.2488862
+    "longitude": 15.2488862,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -85,21 +115,29 @@
     "shop": "clothes",
     "latitude": 46.6862938,
     "longitude": 15.2445716,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Optik Scala",
     "retailer": "optik_scala",
     "shop": "optician",
     "latitude": 46.6863331,
-    "longitude": 15.2446321
+    "longitude": 15.2446321,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Scharmann-Slabernig",
     "retailer": "scharmann_slabernig",
     "shop": "hairdresser",
     "latitude": 46.6863136,
-    "longitude": 15.246383
+    "longitude": 15.246383,
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Socar",
@@ -107,13 +145,19 @@
     "shop": "convenience",
     "latitude": 46.6897177,
     "longitude": 15.2488309,
-    "brand": "SOCAR"
+    "brand": "SOCAR",
+    "postcode": "8552",
+    "city": "Eibiswald",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Telecom Center",
     "retailer": "telecom_center",
     "shop": "electronics",
     "latitude": 46.6861873,
-    "longitude": 15.2438595
+    "longitude": 15.2438595,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,7 +4,9 @@
     "retailer": "autohaus_brammen",
     "shop": "car",
     "latitude": 47.9946371,
-    "longitude": 16.2267791
+    "longitude": 16.2267791,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Brammen",
@@ -12,7 +14,11 @@
     "shop": "car",
     "latitude": 47.9953343,
     "longitude": 16.2275361,
-    "brand": "Mercedes;Smart;Ssangyong;Subaru"
+    "brand": "Mercedes;Smart;Ssangyong;Subaru",
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -20,7 +26,11 @@
     "shop": "supermarket",
     "latitude": 47.9959528,
     "longitude": 16.2266388,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2500",
+    "city": "Baden bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BMW Bierbaum",
@@ -28,7 +38,11 @@
     "shop": "car",
     "latitude": 47.9974803,
     "longitude": 16.2287975,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "2500",
+    "city": "Baden bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BMW Bierbaum",
@@ -36,14 +50,22 @@
     "shop": "motorcycle",
     "latitude": 47.9981413,
     "longitude": 16.2291517,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "2500",
+    "city": "Baden bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "E. Moritz",
     "retailer": "e_moritz",
     "shop": "electronics",
     "latitude": 47.9943294,
-    "longitude": 16.2269667
+    "longitude": 16.2269667,
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Miele",
@@ -51,20 +73,32 @@
     "shop": "electronics",
     "latitude": 47.995278,
     "longitude": 16.2264673,
-    "brand": "Miele"
+    "brand": "Miele",
+    "postcode": "2500",
+    "city": "Baden bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "rosso:design",
     "retailer": "rosso_design",
     "shop": "kitchen",
     "latitude": 47.994891,
-    "longitude": 16.2272309
+    "longitude": 16.2272309,
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "spusu Shop Baden",
     "retailer": "spusu_shop_baden",
     "shop": "bicycle",
     "latitude": 47.995173,
-    "longitude": 16.2264056
+    "longitude": 16.2264056,
+    "postcode": "2500",
+    "city": "Baden bei Wien",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

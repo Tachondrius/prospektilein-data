@@ -4,21 +4,29 @@
     "retailer": "backerei_hellstern",
     "shop": "bakery",
     "latitude": 48.138442,
-    "longitude": 13.2191973
+    "longitude": 13.2191973,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.1398723,
-    "longitude": 13.2142578
+    "longitude": 13.2142578,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Metzgerei Wührer",
     "retailer": "metzgerei_wuhrer",
     "shop": "butcher",
     "latitude": 48.1382751,
-    "longitude": 13.2185569
+    "longitude": 13.2185569,
+    "postcode": "5241",
+    "city": "Maria Schmolln",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -26,13 +34,19 @@
     "shop": "supermarket",
     "latitude": 48.1388004,
     "longitude": 13.217136,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5241",
+    "city": "Maria Schmolln",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Strickmoden Horlacher",
     "retailer": "strickmoden_horlacher",
     "shop": "clothes",
     "latitude": 48.1392146,
-    "longitude": 13.2166746
+    "longitude": 13.2166746,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

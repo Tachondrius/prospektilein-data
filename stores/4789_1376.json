@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 47.892338,
     "longitude": 13.7659297,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -13,7 +15,11 @@
     "shop": "chemist",
     "latitude": 47.8935677,
     "longitude": 13.7657874,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4813",
+    "city": "Altmünster",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -21,7 +27,11 @@
     "shop": "supermarket",
     "latitude": 47.8936063,
     "longitude": 13.7652615,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4813",
+    "city": "Altmünster",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -29,14 +39,22 @@
     "shop": "supermarket",
     "latitude": 47.8996455,
     "longitude": 13.7647924,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4813",
+    "city": "Altmünster",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabaktrafik Schögl",
     "retailer": "tabaktrafik_schogl",
     "shop": "kiosk",
     "latitude": 47.8993051,
-    "longitude": 13.7647367
+    "longitude": 13.7647367,
+    "postcode": "4813",
+    "city": "Altmünster",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Unimarkt",
@@ -44,13 +62,19 @@
     "shop": "supermarket",
     "latitude": 47.897709,
     "longitude": 13.7601898,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "4813",
+    "city": "Altmünster",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Verkaufskiosk „Steckerlische“ Monika Trawöger",
     "retailer": "verkaufskiosk_steckerlische_monika_trawoger",
     "shop": "seafood",
     "latitude": 47.8986412,
-    "longitude": 13.7648712
+    "longitude": 13.7648712,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

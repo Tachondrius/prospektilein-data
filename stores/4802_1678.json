@@ -5,21 +5,29 @@
     "shop": "supermarket",
     "latitude": 48.0280697,
     "longitude": 16.7814333,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.0219001,
-    "longitude": 16.7825336
+    "longitude": 16.7825336,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Denzel Bruckneudorf",
     "retailer": "denzel_bruckneudorf",
     "shop": "car",
     "latitude": 48.020188,
-    "longitude": 16.7865013
+    "longitude": 16.7865013,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Eni Shop",
@@ -27,13 +35,17 @@
     "shop": "convenience",
     "latitude": 48.0214257,
     "longitude": 16.7832311,
-    "brand": "Eni Shop"
+    "brand": "Eni Shop",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.0212888,
-    "longitude": 16.7833678
+    "longitude": 16.7833678,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

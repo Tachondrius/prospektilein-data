@@ -4,21 +4,31 @@
     "retailer": "banner_batterien",
     "shop": "electronics",
     "latitude": 46.630453,
-    "longitude": 14.3538615
+    "longitude": 14.3538615,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bädercenter Klagenfurt",
     "retailer": "badercenter_klagenfurt",
     "shop": "bathroom_furnishing",
     "latitude": 46.6300623,
-    "longitude": 14.3575742
+    "longitude": 14.3575742,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fliesen Leeb",
     "retailer": "fliesen_leeb",
     "shop": "flooring",
     "latitude": 46.630182,
-    "longitude": 14.3582952
+    "longitude": 14.3582952,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -26,7 +36,11 @@
     "shop": "supermarket",
     "latitude": 46.6308044,
     "longitude": 14.3545608,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9020",
+    "city": "Klagenfurt",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "JYSK",
@@ -34,13 +48,20 @@
     "shop": "furniture",
     "latitude": 46.6305916,
     "longitude": 14.3568129,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "OakDepot",
     "retailer": "oakdepot",
     "shop": "hardware",
     "latitude": 46.630104,
-    "longitude": 14.350933
+    "longitude": 14.350933,
+    "postcode": "9020",
+    "city": "Klagenfurt",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

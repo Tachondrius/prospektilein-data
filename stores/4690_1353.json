@@ -5,28 +5,38 @@
     "shop": "supermarket",
     "latitude": 46.906825,
     "longitude": 13.5357584,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Allerhandwerk",
     "retailer": "allerhandwerk",
     "shop": "gift",
     "latitude": 46.9070905,
-    "longitude": 13.5363331
+    "longitude": 13.5363331,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Baubedarfszentrum Peintner",
     "retailer": "baubedarfszentrum_peintner",
     "shop": "trade",
     "latitude": 46.9036219,
-    "longitude": 13.5361246
+    "longitude": 13.5361246,
+    "postcode": "9853",
+    "city": "Gmünd in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Berni Moden",
     "retailer": "berni_moden",
     "shop": "clothes",
     "latitude": 46.9069169,
-    "longitude": 13.535962
+    "longitude": 13.535962,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -34,7 +44,11 @@
     "shop": "supermarket",
     "latitude": 46.9059244,
     "longitude": 13.5304294,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9853",
+    "city": "Gmünd in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -42,237 +56,317 @@
     "shop": "chemist",
     "latitude": 46.9060524,
     "longitude": 13.5321769,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9853",
+    "city": "Gmünd",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Der Stadtladen",
     "retailer": "der_stadtladen",
     "shop": "gift",
     "latitude": 46.9061579,
-    "longitude": 13.5315018
+    "longitude": 13.5315018,
+    "postcode": "9853",
+    "city": "Gmünd in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Friseur im Burgstadl",
     "retailer": "friseur_im_burgstadl",
     "shop": "hairdresser",
     "latitude": 46.9054884,
-    "longitude": 13.5342899
+    "longitude": 13.5342899,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Galerie Miklautz",
     "retailer": "galerie_miklautz",
     "shop": "antiques",
     "latitude": 46.9071769,
-    "longitude": 13.5350771
+    "longitude": 13.5350771,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Galleria Gmünd",
     "retailer": "galleria_gmund",
     "shop": "gift",
     "latitude": 46.906403,
-    "longitude": 13.5348042
+    "longitude": 13.5348042,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gerdie & Andi",
     "retailer": "gerdie_und_andi",
     "shop": "stationery",
     "latitude": 46.9061241,
-    "longitude": 13.5324369
+    "longitude": 13.5324369,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Goldschmiede Gmünd",
     "retailer": "goldschmiede_gmund",
     "shop": "jewelry",
     "latitude": 46.9054471,
-    "longitude": 13.5326926
+    "longitude": 13.5326926,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Goldschmiedekunst Reichmayr",
     "retailer": "goldschmiedekunst_reichmayr",
     "shop": "jewelry",
     "latitude": 46.9081404,
-    "longitude": 13.5354815
+    "longitude": 13.5354815,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Handarbeitsboutique Ursula",
     "retailer": "handarbeitsboutique_ursula",
     "shop": "craft",
     "latitude": 46.9068143,
-    "longitude": 13.5349785
+    "longitude": 13.5349785,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Haus der Kunst",
     "retailer": "haus_der_kunst",
     "shop": "art",
     "latitude": 46.9058467,
-    "longitude": 13.5324682
+    "longitude": 13.5324682,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Illiasch",
     "retailer": "illiasch",
     "shop": "sports",
     "latitude": 46.9063722,
-    "longitude": 13.5345653
+    "longitude": 13.5345653,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Jury",
     "retailer": "jury",
     "shop": "bakery",
     "latitude": 46.9071799,
-    "longitude": 13.5357215
+    "longitude": 13.5357215,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kamm-In",
     "retailer": "kamm_in",
     "shop": "hairdresser",
     "latitude": 46.9079162,
-    "longitude": 13.5373239
+    "longitude": 13.5373239,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Landladl",
     "retailer": "landladl",
     "shop": "cosmetics",
     "latitude": 46.9081271,
-    "longitude": 13.5354976
+    "longitude": 13.5354976,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Naildesign Gina",
     "retailer": "naildesign_gina",
     "shop": "beauty",
     "latitude": 46.9074975,
-    "longitude": 13.5364611
+    "longitude": 13.5364611,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Optik Schiffer",
     "retailer": "optik_schiffer",
     "shop": "optician",
     "latitude": 46.906834,
-    "longitude": 13.5350138
+    "longitude": 13.5350138,
+    "postcode": "9853",
+    "city": "Gmünd in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pietschnigg",
     "retailer": "pietschnigg",
     "shop": "bakery",
     "latitude": 46.9070311,
-    "longitude": 13.5362265
+    "longitude": 13.5362265,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pirker",
     "retailer": "pirker",
     "shop": "electronics",
     "latitude": 46.9072825,
-    "longitude": 13.5359497
+    "longitude": 13.5359497,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "POPPY Meisterfloristik",
     "retailer": "poppy_meisterfloristik",
     "shop": "florist",
     "latitude": 46.9069856,
-    "longitude": 13.5361364
+    "longitude": 13.5361364,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pschernig",
     "retailer": "pschernig",
     "shop": "clothes",
     "latitude": 46.9066263,
-    "longitude": 13.5345929
+    "longitude": 13.5345929,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Rieder",
     "retailer": "rieder",
     "shop": "shoes",
     "latitude": 46.9065038,
-    "longitude": 13.5350018
+    "longitude": 13.5350018,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "rm DATA",
     "retailer": "rm_data",
     "shop": "computer",
     "latitude": 46.9075139,
-    "longitude": 13.5365139
+    "longitude": 13.5365139,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schmid",
     "retailer": "schmid",
     "shop": "newsagent",
     "latitude": 46.9066405,
-    "longitude": 13.5353218
+    "longitude": 13.5353218,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schmuckwerkstatt Astrid Perauer",
     "retailer": "schmuckwerkstatt_astrid_perauer",
     "shop": "jewelry",
     "latitude": 46.9076635,
-    "longitude": 13.5358959
+    "longitude": 13.5358959,
+    "postcode": "9853",
+    "city": "Gmünd in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schwarzenbacher",
     "retailer": "schwarzenbacher",
     "shop": "lottery",
     "latitude": 46.9060819,
-    "longitude": 13.5323233
+    "longitude": 13.5323233,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Sonnenstudio Birgit",
     "retailer": "sonnenstudio_birgit",
     "shop": "beauty",
     "latitude": 46.9078229,
-    "longitude": 13.5374046
+    "longitude": 13.5374046,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Stadtfriseur",
     "retailer": "stadtfriseur",
     "shop": "hairdresser",
     "latitude": 46.9071144,
-    "longitude": 13.5363975
+    "longitude": 13.5363975,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Steiner Land- & Forsttechnik",
     "retailer": "steiner_land_und_forsttechnik",
     "shop": "car",
     "latitude": 46.9066638,
-    "longitude": 13.5315773
+    "longitude": 13.5315773,
+    "postcode": "9853",
+    "city": "Gmünd in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "StilZone",
     "retailer": "stilzone",
     "shop": "clothes",
     "latitude": 46.9061746,
-    "longitude": 13.5326618
+    "longitude": 13.5326618,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tabaktrafik Krämmer",
     "retailer": "tabaktrafik_krammer",
     "shop": "kiosk",
     "latitude": 46.9057794,
-    "longitude": 13.5330244
+    "longitude": 13.5330244,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Waidbacher",
     "retailer": "waidbacher",
     "shop": "florist",
     "latitude": 46.9073229,
-    "longitude": 13.5360679
+    "longitude": 13.5360679,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wurzeln & Flügel",
     "retailer": "wurzeln_und_flugel",
     "shop": "convenience",
     "latitude": 46.9066159,
-    "longitude": 13.5352469
+    "longitude": 13.5352469,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Zimmerei Preiml",
     "retailer": "zimmerei_preiml",
     "shop": "craft",
     "latitude": 46.9035414,
-    "longitude": 13.5389162
+    "longitude": 13.5389162,
+    "postcode": "9853",
+    "city": "Gmünd in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Zlanabitnig",
     "retailer": "zlanabitnig",
     "shop": "tailor",
     "latitude": 46.9075369,
-    "longitude": 13.5365795
+    "longitude": 13.5365795,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

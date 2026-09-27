@@ -4,7 +4,11 @@
     "retailer": "aufschnaiter",
     "shop": "furniture",
     "latitude": 47.5192,
-    "longitude": 12.4402175
+    "longitude": 12.4402175,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport Patrick",
@@ -12,20 +16,30 @@
     "shop": "sports",
     "latitude": 47.5150359,
     "longitude": 12.4483216,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Josko",
     "retailer": "josko",
     "shop": "doors",
     "latitude": 47.5186348,
-    "longitude": 12.4400199
+    "longitude": 12.4400199,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Koidl AV-Technik",
     "retailer": "koidl_av_technik",
     "shop": "electronics",
     "latitude": 47.5187502,
-    "longitude": 12.4400475
+    "longitude": 12.4400475,
+    "postcode": "6380",
+    "city": "St. Johann in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

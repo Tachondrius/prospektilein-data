@@ -4,7 +4,11 @@
     "retailer": "flightstyle",
     "shop": "trade",
     "latitude": 47.1194347,
-    "longitude": 15.4333987
+    "longitude": 15.4333987,
+    "postcode": "8045",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.1108576,
     "longitude": 15.4303713,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8045",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

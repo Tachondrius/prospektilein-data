@@ -4,7 +4,11 @@
     "retailer": "backstubenverkauf_schweighofer_steiner_backerei_gmbh",
     "shop": "bakery",
     "latitude": 48.320641,
-    "longitude": 16.0824931
+    "longitude": 16.0824931,
+    "postcode": "3430",
+    "city": "Tulln",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Renault Kammerhofer",
@@ -12,6 +16,10 @@
     "shop": "car",
     "latitude": 48.3205044,
     "longitude": 16.0808336,
-    "brand": "Renault"
+    "brand": "Renault",
+    "postcode": "3430",
+    "city": "Tulln an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

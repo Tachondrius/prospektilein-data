@@ -4,49 +4,65 @@
     "retailer": "brandstatter",
     "shop": "butcher",
     "latitude": 47.9369104,
-    "longitude": 13.0775406
+    "longitude": 13.0775406,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "CCS",
     "retailer": "ccs",
     "shop": "car_repair",
     "latitude": 47.9370169,
-    "longitude": 13.0758159
+    "longitude": 13.0758159,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Christina's Living Fashion",
     "retailer": "christina_s_living_fashion",
     "shop": "clothes",
     "latitude": 47.9337582,
-    "longitude": 13.0787946
+    "longitude": 13.0787946,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "CRK",
     "retailer": "crk",
     "shop": "computer",
     "latitude": 47.936423,
-    "longitude": 13.0788025
+    "longitude": 13.0788025,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Dimitrios Spez.",
     "retailer": "dimitrios_spez",
     "shop": "deli",
     "latitude": 47.9365047,
-    "longitude": 13.079158
+    "longitude": 13.079158,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Friseur Eder",
     "retailer": "friseur_eder",
     "shop": "hairdresser",
     "latitude": 47.9340063,
-    "longitude": 13.078727
+    "longitude": 13.078727,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Keramikverksted",
     "retailer": "keramikverksted",
     "shop": "art",
     "latitude": 47.9373813,
-    "longitude": 13.0749821
+    "longitude": 13.0749821,
+    "postcode": "5162",
+    "city": "Obertrum am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Libro",
@@ -54,35 +70,47 @@
     "shop": "books",
     "latitude": 47.9340146,
     "longitude": 13.0791618,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "5162",
+    "city": "Obertrum am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Optik Fröhlich",
     "retailer": "optik_frohlich",
     "shop": "optician",
     "latitude": 47.9339342,
-    "longitude": 13.0787393
+    "longitude": 13.0787393,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Paul Green Factory Outlet",
     "retailer": "paul_green_factory_outlet",
     "shop": "shoes",
     "latitude": 47.9337317,
-    "longitude": 13.0797794
+    "longitude": 13.0797794,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pötzlberger Erdwärme",
     "retailer": "potzlberger_erdwarme",
     "shop": "doityourself",
     "latitude": 47.9369073,
-    "longitude": 13.0701484
+    "longitude": 13.0701484,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schönheitsinsel Mayrhofer",
     "retailer": "schonheitsinsel_mayrhofer",
     "shop": "hairdresser",
     "latitude": 47.9370204,
-    "longitude": 13.0755798
+    "longitude": 13.0755798,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "TEDi",
@@ -90,41 +118,55 @@
     "shop": "variety_store",
     "latitude": 47.9342328,
     "longitude": 13.0794235,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "The Barber & Beauty",
     "retailer": "the_barber_und_beauty",
     "shop": "hairdresser",
     "latitude": 47.9332604,
-    "longitude": 13.0789733
+    "longitude": 13.0789733,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Trafik Triebl",
     "retailer": "trafik_triebl",
     "shop": "tobacco",
     "latitude": 47.936817,
-    "longitude": 13.0772525
+    "longitude": 13.0772525,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Trumer Bier Shop",
     "retailer": "trumer_bier_shop",
     "shop": "alcohol",
     "latitude": 47.9372321,
-    "longitude": 13.0785062
+    "longitude": 13.0785062,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "twinkleXtension GmbH",
     "retailer": "twinklextension_gmbh",
     "shop": "hairdresser",
     "latitude": 47.933366,
-    "longitude": 13.0789352
+    "longitude": 13.0789352,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Unterbäck im Vierhaus",
     "retailer": "unterback_im_vierhaus",
     "shop": "bakery",
     "latitude": 47.937133,
-    "longitude": 13.0772764
+    "longitude": 13.0772764,
+    "postcode": "5162",
+    "city": "Obertrum am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

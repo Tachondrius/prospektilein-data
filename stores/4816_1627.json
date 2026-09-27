@@ -5,14 +5,18 @@
     "shop": "bakery",
     "latitude": 48.162336,
     "longitude": 16.2789724,
-    "brand": "Anker"
+    "brand": "Anker",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Antiquitäten",
     "retailer": "antiquitaten",
     "shop": "antiques",
     "latitude": 48.1637791,
-    "longitude": 16.2797695
+    "longitude": 16.2797695,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa Plus",
@@ -20,28 +24,40 @@
     "shop": "supermarket",
     "latitude": 48.1607531,
     "longitude": 16.2780355,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bäckerei Felber",
     "retailer": "backerei_felber",
     "shop": "bakery",
     "latitude": 48.1694311,
-    "longitude": 16.2760319
+    "longitude": 16.2760319,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Giendl Bandagist-Orthopädie",
     "retailer": "giendl_bandagist_orthopadie",
     "shop": "medical_supply",
     "latitude": 48.1631685,
-    "longitude": 16.2792463
+    "longitude": 16.2792463,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Marion Blumauer",
     "retailer": "marion_blumauer",
     "shop": "tobacco",
     "latitude": 48.16075,
-    "longitude": 16.2786343
+    "longitude": 16.2786343,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -49,27 +65,39 @@
     "shop": "supermarket",
     "latitude": 48.166463,
     "longitude": 16.2721192,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tieroase",
     "retailer": "tieroase",
     "shop": "pet",
     "latitude": 48.1626813,
-    "longitude": 16.2788368
+    "longitude": 16.2788368,
+    "postcode": "1130",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Wien's Puppenparadies",
     "retailer": "wien_s_puppenparadies",
     "shop": "toys",
     "latitude": 48.1636379,
-    "longitude": 16.2796478
+    "longitude": 16.2796478,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Xrem Nitzer",
     "retailer": "xrem_nitzer",
     "shop": "hairdresser",
     "latitude": 48.1653936,
-    "longitude": 16.2721549
+    "longitude": 16.2721549,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

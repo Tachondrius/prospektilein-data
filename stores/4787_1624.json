@@ -5,14 +5,20 @@
     "shop": "car",
     "latitude": 47.8739711,
     "longitude": 16.2488765,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "2603",
+    "city": "Felixdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Auto Ebner",
     "retailer": "auto_ebner",
     "shop": "car_repair",
     "latitude": 47.8741341,
-    "longitude": 16.2485985
+    "longitude": 16.2485985,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -20,14 +26,20 @@
     "shop": "supermarket",
     "latitude": 47.8774905,
     "longitude": 16.2486282,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2603",
+    "city": "Felixdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mayer Trucks",
     "retailer": "mayer_trucks",
     "shop": "truck",
     "latitude": 47.8729381,
-    "longitude": 16.2483387
+    "longitude": 16.2483387,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Opel Ebner",
@@ -35,13 +47,19 @@
     "shop": "car",
     "latitude": 47.8733483,
     "longitude": 16.2488921,
-    "brand": "Opel"
+    "brand": "Opel",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trend's Center",
     "retailer": "trend_s_center",
     "shop": "variety_store",
     "latitude": 47.878229,
-    "longitude": 16.2488601
+    "longitude": 16.2488601,
+    "postcode": "2603",
+    "city": "Felixdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

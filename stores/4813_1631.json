@@ -5,35 +5,53 @@
     "shop": "chemist",
     "latitude": 48.1316386,
     "longitude": 16.3162406,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Creativ Coiffeur Andrea",
     "retailer": "creativ_coiffeur_andrea",
     "shop": "hairdresser",
     "latitude": 48.1373771,
-    "longitude": 16.3163951
+    "longitude": 16.3163951,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Dekor Farben",
     "retailer": "dekor_farben",
     "shop": "paint",
     "latitude": 48.1371416,
-    "longitude": 16.3146789
+    "longitude": 16.3146789,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Druckraum",
     "retailer": "druckraum",
     "shop": "copyshop",
     "latitude": 48.1371225,
-    "longitude": 16.3141454
+    "longitude": 16.3141454,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "HeimkinoWelt",
     "retailer": "heimkinowelt",
     "shop": "hifi",
     "latitude": 48.1360855,
-    "longitude": 16.3118218
+    "longitude": 16.3118218,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -41,7 +59,11 @@
     "shop": "supermarket",
     "latitude": 48.1322419,
     "longitude": 16.315932,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -49,7 +71,11 @@
     "shop": "supermarket",
     "latitude": 48.1300119,
     "longitude": 16.3103545,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Spar",
@@ -57,6 +83,10 @@
     "shop": "supermarket",
     "latitude": 48.1369961,
     "longitude": 16.3175186,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

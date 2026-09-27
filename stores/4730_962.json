@@ -4,14 +4,22 @@
     "retailer": "amw_asphalt_mischwerk_gmbh_und_co_kg",
     "shop": "trade",
     "latitude": 47.3003555,
-    "longitude": 9.6228244
+    "longitude": 9.6228244,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Autopark Klaus KFZ Technik",
     "retailer": "autopark_klaus_kfz_technik",
     "shop": "car",
     "latitude": 47.3093799,
-    "longitude": 9.6205416
+    "longitude": 9.6205416,
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "DanKüchen Straubinger",
@@ -19,49 +27,75 @@
     "shop": "kitchen",
     "latitude": 47.3052436,
     "longitude": 9.6208149,
-    "brand": "DanKüchen"
+    "brand": "DanKüchen",
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "frame",
     "retailer": "frame",
     "shop": "furniture",
     "latitude": 47.3047619,
-    "longitude": 9.6210646
+    "longitude": 9.6210646,
+    "postcode": "6837",
+    "city": "Weiler",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "HaKu Naturstein-Erlebniswelt GmbH",
     "retailer": "haku_naturstein_erlebniswelt_gmbh",
     "shop": "trade",
     "latitude": 47.3005853,
-    "longitude": 9.6219298
+    "longitude": 9.6219298,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Humer Anhänger Verkauf",
     "retailer": "humer_anhanger_verkauf",
     "shop": "trailer",
     "latitude": 47.3010364,
-    "longitude": 9.6214054
+    "longitude": 9.6214054,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kerbleder Schoch Bremsendienst GmbH",
     "retailer": "kerbleder_schoch_bremsendienst_gmbh",
     "shop": "car_repair",
     "latitude": 47.3014981,
-    "longitude": 9.6213626
+    "longitude": 9.6213626,
+    "postcode": "6832",
+    "city": "Sulz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kirchmas Hof",
     "retailer": "kirchmas_hof",
     "shop": "farm",
     "latitude": 47.3045563,
-    "longitude": 9.6250654
+    "longitude": 9.6250654,
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Längle",
     "retailer": "langle",
     "shop": "paint",
     "latitude": 47.3065207,
-    "longitude": 9.6209729
+    "longitude": 9.6209729,
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Nissan Branner",
@@ -69,21 +103,31 @@
     "shop": "car",
     "latitude": 47.3085062,
     "longitude": 9.6261889,
-    "brand": "Nissan"
+    "brand": "Nissan",
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Rund ums Haar - Martina Küng",
     "retailer": "rund_ums_haar_martina_kung",
     "shop": "hairdresser",
     "latitude": 47.3098769,
-    "longitude": 9.625067
+    "longitude": 9.625067,
+    "postcode": "6833",
+    "city": "Klaus",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "wirkaufendeinauto.at Klaus",
     "retailer": "wirkaufendeinauto_at_klaus",
     "shop": "car",
     "latitude": 47.3054461,
-    "longitude": 9.6209436
+    "longitude": 9.6209436,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -91,6 +135,10 @@
     "shop": "trade",
     "latitude": 47.3020498,
     "longitude": 9.6201837,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "6832",
+    "city": "Röthis",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

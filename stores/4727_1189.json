@@ -4,20 +4,30 @@
     "retailer": "fischzucht_moser",
     "shop": "farm",
     "latitude": 47.2706023,
-    "longitude": 11.89511
+    "longitude": 11.89511,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gartenbau Kerschdorfer",
     "retailer": "gartenbau_kerschdorfer",
     "shop": "garden_centre",
     "latitude": 47.2792691,
-    "longitude": 11.896707
+    "longitude": 11.896707,
+    "postcode": "6275",
+    "city": "Stumm",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hagebaucentrum Zillertal",
     "retailer": "hagebaucentrum_zillertal",
     "shop": "doityourself",
     "latitude": 47.2731143,
-    "longitude": 11.8989432
+    "longitude": 11.8989432,
+    "postcode": "6274",
+    "city": "Aschau im Zillertal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

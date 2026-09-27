@@ -5,7 +5,9 @@
     "shop": "chemist",
     "latitude": 47.2101489,
     "longitude": 11.8732155,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Innerbichler",
@@ -13,13 +15,19 @@
     "shop": "car",
     "latitude": 47.2118448,
     "longitude": 11.8734512,
-    "brand": "BMW"
+    "brand": "BMW",
+    "postcode": "6284",
+    "city": "Ramsau im Zillertal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Raiffeisen Lagerhaus",
     "retailer": "raiffeisen_lagerhaus",
     "shop": "trade",
     "latitude": 47.2106031,
-    "longitude": 11.8719452
+    "longitude": 11.8719452,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

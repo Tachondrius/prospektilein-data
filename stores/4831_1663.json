@@ -5,7 +5,11 @@
     "shop": "bookmaker",
     "latitude": 48.3167032,
     "longitude": 16.6344494,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Hold",
@@ -13,7 +17,11 @@
     "shop": "car",
     "latitude": 48.3156365,
     "longitude": 16.6373655,
-    "brand": "Kia;Suzuki;Jeep;Fiat;Abarth;Piaggio;Vespa"
+    "brand": "Kia;Suzuki;Jeep;Fiat;Abarth;Piaggio;Vespa",
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Hold",
@@ -21,7 +29,11 @@
     "shop": "car",
     "latitude": 48.3162378,
     "longitude": 16.6381052,
-    "brand": "Kia;Suzuki;Jeep;Fiat;Abarth;Piaggio;Vespa"
+    "brand": "Kia;Suzuki;Jeep;Fiat;Abarth;Piaggio;Vespa",
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -29,35 +41,49 @@
     "shop": "supermarket",
     "latitude": 48.3159302,
     "longitude": 16.6340936,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.3168929,
-    "longitude": 16.6394744
+    "longitude": 16.6394744,
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Geier. Die Bäckerei",
     "retailer": "geier_die_backerei",
     "shop": "bakery",
     "latitude": 48.3172149,
-    "longitude": 16.6354367
+    "longitude": 16.6354367,
+    "postcode": "2231",
+    "city": "Strasshof an der Nordbahn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ideenbäckerei Geier",
     "retailer": "ideenbackerei_geier",
     "shop": "bakery",
     "latitude": 48.3162913,
-    "longitude": 16.6363064
+    "longitude": 16.6363064,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.3177913,
-    "longitude": 16.6369768
+    "longitude": 16.6369768,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -65,6 +91,8 @@
     "shop": "tobacco",
     "latitude": 48.3168984,
     "longitude": 16.6343478,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

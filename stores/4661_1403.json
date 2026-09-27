@@ -4,7 +4,11 @@
     "retailer": "blumen_b_und_b",
     "shop": "florist",
     "latitude": 46.6129215,
-    "longitude": 14.0329037
+    "longitude": 14.0329037,
+    "postcode": "9220",
+    "city": "Velden am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eni",
@@ -12,14 +16,22 @@
     "shop": "kiosk",
     "latitude": 46.6135404,
     "longitude": 14.0357354,
-    "brand": "Eni"
+    "brand": "Eni",
+    "postcode": "9220",
+    "city": "Velden",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "HAARschneiderei",
     "retailer": "haarschneiderei",
     "shop": "hairdresser",
     "latitude": 46.6114275,
-    "longitude": 14.0398389
+    "longitude": 14.0398389,
+    "postcode": "9220",
+    "city": "Velden am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "MPREIS",
@@ -27,13 +39,19 @@
     "shop": "supermarket",
     "latitude": 46.6133228,
     "longitude": 14.0389701,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "9220",
+    "city": "Velden am Wörther See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Uran Bike Shop",
     "retailer": "uran_bike_shop",
     "shop": "bicycle",
     "latitude": 46.614239,
-    "longitude": 14.038045
+    "longitude": 14.038045,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

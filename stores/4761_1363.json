@@ -4,14 +4,20 @@
     "retailer": "die_speiserei",
     "shop": "deli",
     "latitude": 47.6179905,
-    "longitude": 13.6351128
+    "longitude": 13.6351128,
+    "postcode": "4822",
+    "city": "Bad Goisern am Hallstättersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Maislinger",
     "retailer": "maislinger",
     "shop": "bakery",
     "latitude": 47.6165999,
-    "longitude": 13.6350477
+    "longitude": 13.6350477,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pachler",
@@ -19,13 +25,17 @@
     "shop": "car_repair",
     "latitude": 47.6147715,
     "longitude": 13.6327857,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Vieh Heli Metzger Wirt",
     "retailer": "vieh_heli_metzger_wirt",
     "shop": "butcher",
     "latitude": 47.6162804,
-    "longitude": 13.635069
+    "longitude": 13.635069,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

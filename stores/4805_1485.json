@@ -4,28 +4,42 @@
     "retailer": "amesbichler_reitsport",
     "shop": "sports",
     "latitude": 48.0572683,
-    "longitude": 14.8555934
+    "longitude": 14.8555934,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bestattungsinstitut Beer",
     "retailer": "bestattungsinstitut_beer",
     "shop": "funeral_directors",
     "latitude": 48.0585084,
-    "longitude": 14.8519173
+    "longitude": 14.8519173,
+    "postcode": "3364",
+    "city": "Neuhofen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Da Bäck um's Eck",
     "retailer": "da_back_um_s_eck",
     "shop": "bakery",
     "latitude": 48.0568642,
-    "longitude": 14.8544841
+    "longitude": 14.8544841,
+    "postcode": "3364",
+    "city": "Neuhofen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pfaffeneder",
     "retailer": "pfaffeneder",
     "shop": "electronics",
     "latitude": 48.059094,
-    "longitude": 14.853948
+    "longitude": 14.853948,
+    "postcode": "3364",
+    "city": "Neuhofen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -33,6 +47,10 @@
     "shop": "supermarket",
     "latitude": 48.0577115,
     "longitude": 14.8554231,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3364",
+    "city": "Neuhofen an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

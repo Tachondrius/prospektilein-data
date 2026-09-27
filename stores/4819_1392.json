@@ -4,20 +4,30 @@
     "retailer": "as_superstore",
     "shop": "department_store",
     "latitude": 48.1926759,
-    "longitude": 13.92812
+    "longitude": 13.92812,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Mike Cars",
     "retailer": "mike_cars",
     "shop": "car",
     "latitude": 48.1920608,
-    "longitude": 13.9282388
+    "longitude": 13.9282388,
+    "postcode": "4632",
+    "city": "Pichl bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Party Rent Österreich Emrich GmbH",
     "retailer": "party_rent_osterreich_emrich_gmbh",
     "shop": "interior_decoration",
     "latitude": 48.1921046,
-    "longitude": 13.9266727
+    "longitude": 13.9266727,
+    "postcode": "4632",
+    "city": "Pichl bei Wels",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

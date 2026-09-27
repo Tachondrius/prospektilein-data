@@ -4,35 +4,51 @@
     "retailer": "abc_fliesen",
     "shop": "tiles",
     "latitude": 47.276808,
-    "longitude": 11.4554289
+    "longitude": 11.4554289,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bad Habits",
     "retailer": "bad_habits",
     "shop": "tattoo",
     "latitude": 47.2772107,
-    "longitude": 11.4545879
+    "longitude": 11.4545879,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bier & Mehr",
     "retailer": "bier_und_mehr",
     "shop": "beverages",
     "latitude": 47.2739881,
-    "longitude": 11.4524472
+    "longitude": 11.4524472,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "CUBE Store Innsbruck by Multicycle",
     "retailer": "cube_store_innsbruck_by_multicycle",
     "shop": "bicycle",
     "latitude": 47.2740923,
-    "longitude": 11.4542389
+    "longitude": 11.4542389,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dan Küchen",
     "retailer": "dan_kuchen",
     "shop": "kitchen",
     "latitude": 47.2740408,
-    "longitude": 11.4543526
+    "longitude": 11.4543526,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "dm",
@@ -40,28 +56,38 @@
     "shop": "chemist",
     "latitude": 47.2723386,
     "longitude": 11.4501633,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dosenberger",
     "retailer": "dosenberger",
     "shop": "car",
     "latitude": 47.2769654,
-    "longitude": 11.4541041
+    "longitude": 11.4541041,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "EKZ Neu Rum",
     "retailer": "ekz_neu_rum",
     "shop": "mall",
     "latitude": 47.2752249,
-    "longitude": 11.452265
+    "longitude": 11.452265,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farben Morscher",
     "retailer": "farben_morscher",
     "shop": "paint",
     "latitude": 47.277124,
-    "longitude": 11.4555999
+    "longitude": 11.4555999,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fiat Lüftner",
@@ -69,28 +95,42 @@
     "shop": "car",
     "latitude": 47.2776477,
     "longitude": 11.4508265,
-    "brand": "Fiat"
+    "brand": "Fiat",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gewi Winkler GmbH",
     "retailer": "gewi_winkler_gmbh",
     "shop": "clothes",
     "latitude": 47.2761076,
-    "longitude": 11.4561618
+    "longitude": 11.4561618,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Helbling Verlagsgesellschaft mbH",
     "retailer": "helbling_verlagsgesellschaft_mbh",
     "shop": "books",
     "latitude": 47.2752314,
-    "longitude": 11.4558658
+    "longitude": 11.4558658,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Herba Chemosan Standort Rum",
     "retailer": "herba_chemosan_standort_rum",
     "shop": "catalogue",
     "latitude": 47.271827,
-    "longitude": 11.4539958
+    "longitude": 11.4539958,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -98,7 +138,11 @@
     "shop": "supermarket",
     "latitude": 47.2726017,
     "longitude": 11.4506878,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hornbach",
@@ -106,7 +150,9 @@
     "shop": "doityourself",
     "latitude": 47.2757145,
     "longitude": 11.4535524,
-    "brand": "HORNBACH"
+    "brand": "HORNBACH",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hornbach Baustoff Drive IN",
@@ -114,14 +160,20 @@
     "shop": "doityourself",
     "latitude": 47.2746373,
     "longitude": 11.4542151,
-    "brand": "HORNBACH"
+    "brand": "HORNBACH",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Inkfected Tattooatelier",
     "retailer": "inkfected_tattooatelier",
     "shop": "tattoo",
     "latitude": 47.2737073,
-    "longitude": 11.4543989
+    "longitude": 11.4543989,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Interspar",
@@ -129,7 +181,9 @@
     "shop": "supermarket",
     "latitude": 47.2754193,
     "longitude": 11.4524972,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KiK",
@@ -137,21 +191,31 @@
     "shop": "clothes",
     "latitude": 47.2745543,
     "longitude": 11.4560132,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kölle Zoo",
     "retailer": "kolle_zoo",
     "shop": "pet",
     "latitude": 47.271485,
-    "longitude": 11.4527734
+    "longitude": 11.4527734,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lidl",
     "retailer": "lidl",
     "shop": "supermarket",
     "latitude": 47.2751973,
-    "longitude": 11.4514848
+    "longitude": 11.4514848,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "METRO",
@@ -159,21 +223,29 @@
     "shop": "wholesale",
     "latitude": 47.275577,
     "longitude": 11.4577477,
-    "brand": "METRO"
+    "brand": "METRO",
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Miele Center",
     "retailer": "miele_center",
     "shop": "appliance",
     "latitude": 47.2733141,
-    "longitude": 11.4547502
+    "longitude": 11.4547502,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MyPlace Innsbruck",
     "retailer": "myplace_innsbruck",
     "shop": "storage_rental",
     "latitude": 47.2751191,
-    "longitude": 11.4512788
+    "longitude": 11.4512788,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Möbelix",
@@ -181,7 +253,11 @@
     "shop": "furniture",
     "latitude": 47.2738774,
     "longitude": 11.451699,
-    "brand": "Möbelix"
+    "brand": "Möbelix",
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Mömax",
@@ -189,7 +265,11 @@
     "shop": "furniture",
     "latitude": 47.2738653,
     "longitude": 11.4553195,
-    "brand": "Mömax"
+    "brand": "Mömax",
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pagro",
@@ -197,21 +277,33 @@
     "shop": "stationery",
     "latitude": 47.2749867,
     "longitude": 11.4538377,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Personal Shop",
     "retailer": "personal_shop",
     "shop": "clothes",
     "latitude": 47.2772469,
-    "longitude": 11.4546652
+    "longitude": 11.4546652,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Riffparadies",
     "retailer": "riffparadies",
     "shop": "pet",
     "latitude": 47.2781493,
-    "longitude": 11.4501005
+    "longitude": 11.4501005,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "shoe4you",
@@ -219,42 +311,64 @@
     "shop": "shoes",
     "latitude": 47.2744751,
     "longitude": 11.4557014,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Steinbock",
     "retailer": "steinbock",
     "shop": "clothes",
     "latitude": 47.2738814,
-    "longitude": 11.4567853
+    "longitude": 11.4567853,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "teleplanet & Postparnter",
     "retailer": "teleplanet_und_postparnter",
     "shop": "telecommunication",
     "latitude": 47.2750569,
-    "longitude": 11.4520203
+    "longitude": 11.4520203,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.2754312,
-    "longitude": 11.4519864
+    "longitude": 11.4519864,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Vieider Gastro",
     "retailer": "vieider_gastro",
     "shop": "wholesale",
     "latitude": 47.2733184,
-    "longitude": 11.4543512
+    "longitude": 11.4543512,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Werkzeugmarkt",
     "retailer": "werkzeugmarkt",
     "shop": "doityourself",
     "latitude": 47.2733705,
-    "longitude": 11.4532386
+    "longitude": 11.4532386,
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth Montagetechnik",
@@ -262,7 +376,9 @@
     "shop": "hardware",
     "latitude": 47.2743913,
     "longitude": 11.4570225,
-    "brand": "Würth"
+    "brand": "Würth",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "XXXLager Innsbruck/Neu Rum",
@@ -270,7 +386,11 @@
     "shop": "furniture",
     "latitude": 47.2744788,
     "longitude": 11.4512289,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "XXXLutz",
@@ -278,6 +398,10 @@
     "shop": "furniture",
     "latitude": 47.2718962,
     "longitude": 11.4502287,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "6063",
+    "city": "Rum",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

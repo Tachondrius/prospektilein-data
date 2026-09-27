@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 47.3879804,
     "longitude": 11.7817997,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -13,7 +15,9 @@
     "shop": "chemist",
     "latitude": 47.388057,
     "longitude": 11.78197,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -21,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 47.3888847,
     "longitude": 11.7827381,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lidl",
@@ -29,6 +37,10 @@
     "shop": "supermarket",
     "latitude": 47.3876738,
     "longitude": 11.7814271,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

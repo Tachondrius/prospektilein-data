@@ -4,20 +4,30 @@
     "retailer": "maierhofer_motors",
     "shop": "car_repair",
     "latitude": 47.9252208,
-    "longitude": 16.1919099
+    "longitude": 16.1919099,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Massage Bartu",
     "retailer": "massage_bartu",
     "shop": "massage",
     "latitude": 47.9208286,
-    "longitude": 16.1955632
+    "longitude": 16.1955632,
+    "postcode": "2551",
+    "city": "Enzesfeld-Lindabrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reifen Doktor",
     "retailer": "reifen_doktor",
     "shop": "car_repair",
     "latitude": 47.9246834,
-    "longitude": 16.1973832
+    "longitude": 16.1973832,
+    "postcode": "2544",
+    "city": "Leobersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

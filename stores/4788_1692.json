@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 47.8891735,
     "longitude": 16.9277148,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "postcode": "7122",
+    "city": "Gols",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Autohaus Moser",
@@ -13,20 +17,32 @@
     "shop": "car",
     "latitude": 47.889805,
     "longitude": 16.9258893,
-    "brand": "Fiat, Alfa Romeo"
+    "brand": "Fiat, Alfa Romeo",
+    "postcode": "7122",
+    "city": "Gols",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "NIULA Boats",
     "retailer": "niula_boats",
     "shop": "boat",
     "latitude": 47.889243,
-    "longitude": 16.9263013
+    "longitude": 16.9263013,
+    "postcode": "7122",
+    "city": "Gols",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Winkler",
     "retailer": "winkler",
     "shop": "trade",
     "latitude": 47.8897353,
-    "longitude": 16.9263084
+    "longitude": 16.9263084,
+    "postcode": "7122",
+    "city": "Gols",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

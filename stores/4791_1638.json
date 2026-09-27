@@ -5,7 +5,11 @@
     "shop": "bookmaker",
     "latitude": 47.9111103,
     "longitude": 16.3879136,
-    "brand": "Admiral Sportwetten"
+    "brand": "Admiral Sportwetten",
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -13,28 +17,44 @@
     "shop": "chemist",
     "latitude": 47.9118172,
     "longitude": 16.3868366,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dieErlesene Buchhandlung",
     "retailer": "dieerlesene_buchhandlung",
     "shop": "books",
     "latitude": 47.9119165,
-    "longitude": 16.3885074
+    "longitude": 16.3885074,
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haar Atelier",
     "retailer": "haar_atelier",
     "shop": "hairdresser",
     "latitude": 47.9105645,
-    "longitude": 16.3871161
+    "longitude": 16.3871161,
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Judiths Blütenpracht",
     "retailer": "judiths_blutenpracht",
     "shop": "florist",
     "latitude": 47.910302,
-    "longitude": 16.3882696
+    "longitude": 16.3882696,
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Penny",
@@ -42,14 +62,20 @@
     "shop": "supermarket",
     "latitude": 47.9117984,
     "longitude": 16.3864413,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "2486",
+    "city": "Pottendorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Prinz",
     "retailer": "prinz",
     "shop": "jewelry",
     "latitude": 47.9111766,
-    "longitude": 16.387647
+    "longitude": 16.387647,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Renault Preisler",
@@ -57,6 +83,8 @@
     "shop": "car",
     "latitude": 47.9158999,
     "longitude": 16.3848798,
-    "brand": "Renault"
+    "brand": "Renault",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

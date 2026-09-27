@@ -5,21 +5,31 @@
     "shop": "supermarket",
     "latitude": 47.8201839,
     "longitude": 13.2009236,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "5322",
+    "city": "Hof bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fellhof",
     "retailer": "fellhof",
     "shop": "clothes",
     "latitude": 47.8238825,
-    "longitude": 13.2005175
+    "longitude": 13.2005175,
+    "postcode": "5322",
+    "city": "Hof bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gemüse",
     "retailer": "gemuse",
     "shop": "greengrocer",
     "latitude": 47.8200077,
-    "longitude": 13.2090243
+    "longitude": 13.2090243,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -27,20 +37,32 @@
     "shop": "supermarket",
     "latitude": 47.8206336,
     "longitude": 13.2073009,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5322",
+    "city": "Hof bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "garden_centre",
     "latitude": 47.8228628,
-    "longitude": 13.2001973
+    "longitude": 13.2001973,
+    "postcode": "5322",
+    "city": "Hof bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MoHair Studio",
     "retailer": "mohair_studio",
     "shop": "hairdresser",
     "latitude": 47.8203086,
-    "longitude": 13.2063328
+    "longitude": 13.2063328,
+    "postcode": "5322",
+    "city": "Hof bei Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

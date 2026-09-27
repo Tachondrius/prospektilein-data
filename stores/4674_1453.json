@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 46.7488852,
     "longitude": 14.5331513,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9371",
+    "city": "Brückl",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ford",
@@ -13,14 +17,18 @@
     "shop": "car",
     "latitude": 46.7451303,
     "longitude": 14.5312563,
-    "brand": "Ford"
+    "brand": "Ford",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Killa Performance",
     "retailer": "killa_performance",
     "shop": "car_repair",
     "latitude": 46.7468646,
-    "longitude": 14.5317087
+    "longitude": 14.5317087,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -28,27 +36,35 @@
     "shop": "clothes",
     "latitude": 46.748796,
     "longitude": 14.5317323,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Scotch Malt Whiskey Society",
     "retailer": "scotch_malt_whiskey_society",
     "shop": "yes",
     "latitude": 46.7467533,
-    "longitude": 14.5374185
+    "longitude": 14.5374185,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Silvia Kuchernig",
     "retailer": "silvia_kuchernig",
     "shop": "hairdresser",
     "latitude": 46.744733,
-    "longitude": 14.5319876
+    "longitude": 14.5319876,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.7496083,
-    "longitude": 14.5320462
+    "longitude": 14.5320462,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

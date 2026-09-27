@@ -4,20 +4,28 @@
     "retailer": "modehaus_kutsam",
     "shop": "clothes",
     "latitude": 48.2756048,
-    "longitude": 14.5814132
+    "longitude": 14.5814132,
+    "postcode": "4311",
+    "city": "Schwertberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pavaronschitz-Fürholzer",
     "retailer": "pavaronschitz_furholzer",
     "shop": "bakery",
     "latitude": 48.2747854,
-    "longitude": 14.5821284
+    "longitude": 14.5821284,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Starzer",
     "retailer": "starzer",
     "shop": "tobacco",
     "latitude": 48.2746739,
-    "longitude": 14.5822947
+    "longitude": 14.5822947,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

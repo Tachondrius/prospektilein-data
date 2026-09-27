@@ -4,7 +4,11 @@
     "retailer": "autohaus_saloschnik",
     "shop": "car",
     "latitude": 46.6296332,
-    "longitude": 14.6333157
+    "longitude": 14.6333157,
+    "postcode": "9125",
+    "city": "Eberndorf",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -12,34 +16,52 @@
     "shop": "supermarket",
     "latitude": 46.6288498,
     "longitude": 14.6334486,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9125",
+    "city": "Kühnsdorf",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Eurospar",
     "retailer": "eurospar",
     "shop": "supermarket",
     "latitude": 46.6219175,
-    "longitude": 14.6349359
+    "longitude": 14.6349359,
+    "postcode": "9125",
+    "city": "Eberndorf",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Krois Kühnsdorf",
     "retailer": "krois_kuhnsdorf",
     "shop": "bicycle",
     "latitude": 46.6244575,
-    "longitude": 14.6330385
+    "longitude": 14.6330385,
+    "postcode": "9125",
+    "city": "Eberndorf",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Krois Kühnsdorf",
     "retailer": "krois_kuhnsdorf",
     "shop": "car_repair",
     "latitude": 46.6245567,
-    "longitude": 14.6334219
+    "longitude": 14.6334219,
+    "postcode": "9125",
+    "city": "Eberndorf",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "SB - Bauernladen Kühnsdorf",
     "retailer": "sb_bauernladen_kuhnsdorf",
     "shop": "farm",
     "latitude": 46.6279457,
-    "longitude": 14.6343365
+    "longitude": 14.6343365,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

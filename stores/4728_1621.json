@@ -5,27 +5,39 @@
     "shop": "supermarket",
     "latitude": 47.2853477,
     "longitude": 16.2166729,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "DELKA",
     "retailer": "delka",
     "shop": "shoes",
     "latitude": 47.2886129,
-    "longitude": 16.2108133
+    "longitude": 16.2108133,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.2868343,
-    "longitude": 16.215379
+    "longitude": 16.215379,
+    "postcode": "7400",
+    "city": "Oberwart",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Reiss Optik, Juwelier",
     "retailer": "reiss_optik_juwelier",
     "shop": "optician",
     "latitude": 47.2884453,
-    "longitude": 16.2112631
+    "longitude": 16.2112631,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -4,14 +4,22 @@
     "retailer": "auto_cinibulk_kg",
     "shop": "car_repair",
     "latitude": 47.1513851,
-    "longitude": 14.4127702
+    "longitude": 14.4127702,
+    "postcode": "8811",
+    "city": "Scheifling",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 47.1502631,
-    "longitude": 14.4131225
+    "longitude": 14.4131225,
+    "postcode": "8811",
+    "city": "Scheifling",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -19,21 +27,29 @@
     "shop": "supermarket",
     "latitude": 47.1515248,
     "longitude": 14.4119708,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8811",
+    "city": "Scheifling",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Blumen Tanja",
     "retailer": "blumen_tanja",
     "shop": "florist",
     "latitude": 47.1503621,
-    "longitude": 14.4118908
+    "longitude": 14.4118908,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.1517203,
-    "longitude": 14.4134101
+    "longitude": 14.4134101,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -41,21 +57,31 @@
     "shop": "chemist",
     "latitude": 47.1552204,
     "longitude": 14.4156862,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8811",
+    "city": "Scheifling",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fanart Design",
     "retailer": "fanart_design",
     "shop": "party",
     "latitude": 47.1528964,
-    "longitude": 14.4110692
+    "longitude": 14.4110692,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Haar Kreativ Beate",
     "retailer": "haar_kreativ_beate",
     "shop": "hairdresser",
     "latitude": 47.1500718,
-    "longitude": 14.4132637
+    "longitude": 14.4132637,
+    "postcode": "8811",
+    "city": "Scheifling",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -63,7 +89,11 @@
     "shop": "supermarket",
     "latitude": 47.1547289,
     "longitude": 14.4149047,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8811",
+    "city": "Scheifling",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -71,28 +101,44 @@
     "shop": "clothes",
     "latitude": 47.1551572,
     "longitude": 14.4154699,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8811",
+    "city": "Scheifling",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kosmetik Schlager",
     "retailer": "kosmetik_schlager",
     "shop": "beauty;cosmetics;health_food",
     "latitude": 47.1501676,
-    "longitude": 14.4132659
+    "longitude": 14.4132659,
+    "postcode": "8811",
+    "city": "Scheifling",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nostalgie & Antik",
     "retailer": "nostalgie_und_antik",
     "shop": "antiques",
     "latitude": 47.1521269,
-    "longitude": 14.4138458
+    "longitude": 14.4138458,
+    "postcode": "8811",
+    "city": "Scheifling",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Resch&Frisch",
     "retailer": "resch_und_frisch",
     "shop": "bakery",
     "latitude": 47.15397,
-    "longitude": 14.4146112
+    "longitude": 14.4146112,
+    "postcode": "8811",
+    "city": "Scheifling",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -100,14 +146,20 @@
     "shop": "supermarket",
     "latitude": 47.1556219,
     "longitude": 14.4163109,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8811",
+    "city": "Scheifling",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Turmöl",
     "retailer": "turmol",
     "shop": "convenience",
     "latitude": 47.1528408,
-    "longitude": 14.414069
+    "longitude": 14.414069,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -115,6 +167,10 @@
     "shop": "trade",
     "latitude": 47.1538855,
     "longitude": 14.4133721,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "8811",
+    "city": "Scheifling",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

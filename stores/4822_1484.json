@@ -5,21 +5,29 @@
     "shop": "supermarket",
     "latitude": 48.2280954,
     "longitude": 14.8465831,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4360",
+    "city": "Grein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.2287735,
-    "longitude": 14.8467831
+    "longitude": 14.8467831,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "E-Tech",
     "retailer": "e_tech",
     "shop": "electrical",
     "latitude": 48.2297994,
-    "longitude": 14.8479364
+    "longitude": 14.8479364,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -27,21 +35,33 @@
     "shop": "supermarket",
     "latitude": 48.2296734,
     "longitude": 14.8457212,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4360",
+    "city": "Grein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Farben Wahl",
     "retailer": "farben_wahl",
     "shop": "paint",
     "latitude": 48.2293702,
-    "longitude": 14.8468371
+    "longitude": 14.8468371,
+    "postcode": "4360",
+    "city": "Grein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer Schuhe",
     "retailer": "hofer",
     "shop": "shoes",
     "latitude": 48.2297263,
-    "longitude": 14.8477797
+    "longitude": 14.8477797,
+    "postcode": "4360",
+    "city": "Grein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kia",
@@ -49,14 +69,20 @@
     "shop": "car",
     "latitude": 48.2286846,
     "longitude": 14.8466902,
-    "brand": "Kia"
+    "brand": "Kia",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Neudorfhofer",
     "retailer": "neudorfhofer",
     "shop": "copyshop",
     "latitude": 48.229531,
-    "longitude": 14.8471885
+    "longitude": 14.8471885,
+    "postcode": "4360",
+    "city": "Grein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Opel",
@@ -64,6 +90,8 @@
     "shop": "car",
     "latitude": 48.2286131,
     "longitude": 14.8466129,
-    "brand": "Opel"
+    "brand": "Opel",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "autohaus_mayr_gmbh_und_co_kg",
     "shop": "car",
     "latitude": 47.3229613,
-    "longitude": 13.1615149
+    "longitude": 13.1615149,
+    "postcode": "5621",
+    "city": "Sankt Veit im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Autohaus Mayr GmbH & Co KG",
@@ -12,13 +16,21 @@
     "shop": "car_repair",
     "latitude": 47.3232786,
     "longitude": 13.1618585,
-    "brand": "Ford; Mazda"
+    "brand": "Ford; Mazda",
+    "postcode": "5621",
+    "city": "Sankt Veit im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "PAP-Laden",
     "retailer": "pap_laden",
     "shop": "second_hand",
     "latitude": 47.3220555,
-    "longitude": 13.1616534
+    "longitude": 13.1616534,
+    "postcode": "5620",
+    "city": "Schwarzach im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -5,14 +5,22 @@
     "shop": "bakery",
     "latitude": 47.4075192,
     "longitude": 12.8950083,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "5761",
+    "city": "Maria Alm am Steinernen Meer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bike Point",
     "retailer": "intersport",
     "shop": "bicycle",
     "latitude": 47.4090582,
-    "longitude": 12.8922495
+    "longitude": 12.8922495,
+    "postcode": "5760",
+    "city": "Saalfelden am Steinernen Meer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MPREIS",
@@ -20,6 +28,10 @@
     "shop": "supermarket",
     "latitude": 47.4076213,
     "longitude": 12.8949162,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "5761",
+    "city": "Maria Alm am Steinernen Meer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

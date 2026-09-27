@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 48.0460662,
     "longitude": 15.3197153,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "3242",
+    "city": "Texingtal",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wollwerkstatt",
     "retailer": "wollwerkstatt",
     "shop": "clothes",
     "latitude": 48.0407992,
-    "longitude": 15.3103208
+    "longitude": 15.3103208,
+    "postcode": "3242",
+    "city": "Texingtal",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

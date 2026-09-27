@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.2433677,
     "longitude": 16.3109035,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7503",
+    "city": "Großpetersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Bipa",
@@ -13,14 +17,22 @@
     "shop": "chemist",
     "latitude": 47.2422955,
     "longitude": 16.3103432,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "7503",
+    "city": "Grosspetersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Blumentalladen",
     "retailer": "blumentalladen",
     "shop": "convenience",
     "latitude": 47.2415901,
-    "longitude": 16.3182179
+    "longitude": 16.3182179,
+    "postcode": "7503",
+    "city": "Großpetersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Penny",
@@ -28,6 +40,10 @@
     "shop": "supermarket",
     "latitude": 47.2424173,
     "longitude": 16.3102587,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "7503",
+    "city": "Großpetersdorf",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

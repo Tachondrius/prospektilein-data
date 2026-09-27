@@ -4,14 +4,18 @@
     "retailer": "abdul_market",
     "shop": "supermarket",
     "latitude": 48.275615,
-    "longitude": 14.3119103
+    "longitude": 14.3119103,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Allianz Bäckerei",
     "retailer": "allianz_backerei",
     "shop": "bakery",
     "latitude": 48.2789532,
-    "longitude": 14.310426
+    "longitude": 14.310426,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -19,7 +23,9 @@
     "shop": "supermarket",
     "latitude": 48.2742915,
     "longitude": 14.3108604,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -27,41 +33,56 @@
     "shop": "supermarket",
     "latitude": 48.2785632,
     "longitude": 14.3123345,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kardelen Bäckerei",
     "retailer": "kardelen_backerei",
     "shop": "bakery",
     "latitude": 48.2758433,
-    "longitude": 14.3124615
+    "longitude": 14.3124615,
+    "postcode": "4020",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Style Friseur",
     "retailer": "style_friseur",
     "shop": "hairdresser",
     "latitude": 48.2760222,
-    "longitude": 14.313309
+    "longitude": 14.313309,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Versus Bet",
     "retailer": "versus_bet",
     "shop": "bookmaker",
     "latitude": 48.275965,
-    "longitude": 14.3121248
+    "longitude": 14.3121248,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "webdings IT-Service GmbH",
     "retailer": "webdings_it_service_gmbh",
     "shop": "computer",
     "latitude": 48.2749196,
-    "longitude": 14.3145695
+    "longitude": 14.3145695,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "ZGONC",
     "retailer": "zgonc",
     "shop": "hardware",
     "latitude": 48.2742171,
-    "longitude": 14.3126688
+    "longitude": 14.3126688,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

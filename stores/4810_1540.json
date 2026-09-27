@@ -4,7 +4,9 @@
     "retailer": "atz",
     "shop": "car_repair",
     "latitude": 48.1016922,
-    "longitude": 15.4044253
+    "longitude": 15.4044253,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autohaus Schmal",
@@ -12,63 +14,83 @@
     "shop": "car",
     "latitude": 48.1008786,
     "longitude": 15.4049796,
-    "brand": "Škoda;Volkswagen;Seat"
+    "brand": "Škoda;Volkswagen;Seat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Backstube Aschauer",
     "retailer": "backstube_aschauer",
     "shop": "bakery",
     "latitude": 48.100319,
-    "longitude": 15.4075158
+    "longitude": 15.4075158,
+    "postcode": "3233",
+    "city": "Kilb",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.1012428,
-    "longitude": 15.4045576
+    "longitude": 15.4045576,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.1028058,
-    "longitude": 15.4068944
+    "longitude": 15.4068944,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichstetter Schuhe & Orthopädie",
     "retailer": "deichstetter_schuhe_und_orthopadie",
     "shop": "shoes",
     "latitude": 48.1002917,
-    "longitude": 15.4079243
+    "longitude": 15.4079243,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Electrical",
     "retailer": "shop_electrical",
     "shop": "electrical",
     "latitude": 48.1013745,
-    "longitude": 15.4089378
+    "longitude": 15.4089378,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fleischerei Lechner",
     "retailer": "fleischerei_lechner",
     "shop": "butcher",
     "latitude": 48.10041,
-    "longitude": 15.4080985
+    "longitude": 15.4080985,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairstyling Sarah",
     "retailer": "hairstyling_sarah",
     "shop": "hairdresser",
     "latitude": 48.1004183,
-    "longitude": 15.4059647
+    "longitude": 15.4059647,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kilber Marktplatzl",
     "retailer": "kilber_marktplatzl",
     "shop": "convenience",
     "latitude": 48.1004801,
-    "longitude": 15.4081778
+    "longitude": 15.4081778,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -76,34 +98,46 @@
     "shop": "doityourself",
     "latitude": 48.1022484,
     "longitude": 15.4045156,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Natürlich. de Wit",
     "retailer": "naturlich_de_wit",
     "shop": "supermarket",
     "latitude": 48.1009841,
-    "longitude": 15.4081283
+    "longitude": 15.4081283,
+    "postcode": "3233",
+    "city": "Kilb",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schmal",
     "retailer": "schmal",
     "shop": "car_repair",
     "latitude": 48.1009962,
-    "longitude": 15.4049697
+    "longitude": 15.4049697,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak Trafik Fried",
     "retailer": "tabak_trafik_fried",
     "shop": "tobacco",
     "latitude": 48.1003462,
-    "longitude": 15.4079865
+    "longitude": 15.4079865,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trade",
     "retailer": "shop_trade",
     "shop": "trade",
     "latitude": 48.1019681,
-    "longitude": 15.4055063
+    "longitude": 15.4055063,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

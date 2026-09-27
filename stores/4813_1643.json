@@ -5,34 +5,52 @@
     "shop": "car",
     "latitude": 48.1323159,
     "longitude": 16.4345995,
-    "brand": "opel"
+    "brand": "opel",
+    "postcode": "2320",
+    "city": "Kledering",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.1320196,
-    "longitude": 16.4351391
+    "longitude": 16.4351391,
+    "postcode": "2320",
+    "city": "Schwechat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 48.1321044,
-    "longitude": 16.4383028
+    "longitude": 16.4383028,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wenninger Bäckerei - Konditorei",
     "retailer": "wenninger_backerei_konditorei",
     "shop": "bakery",
     "latitude": 48.1321039,
-    "longitude": 16.4379259
+    "longitude": 16.4379259,
+    "postcode": "2320",
+    "city": "Schwechat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "WM Windisch-Graetz",
     "retailer": "wm_windisch_graetz",
     "shop": "oil",
     "latitude": 48.1318746,
-    "longitude": 16.4378106
+    "longitude": 16.4378106,
+    "postcode": "2320",
+    "city": "Schwechat",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

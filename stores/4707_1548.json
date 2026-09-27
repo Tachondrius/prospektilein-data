@@ -4,7 +4,11 @@
     "retailer": "kassa_bad_ragnitz",
     "shop": "ticket",
     "latitude": 47.0773035,
-    "longitude": 15.4868036
+    "longitude": 15.4868036,
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Martin Auer",
@@ -12,6 +16,10 @@
     "shop": "bakery",
     "latitude": 47.0782957,
     "longitude": 15.4853338,
-    "brand": "Martin Auer"
+    "brand": "Martin Auer",
+    "postcode": "8047",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

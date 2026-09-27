@@ -4,7 +4,9 @@
     "retailer": "auto_eisner",
     "shop": "car_repair",
     "latitude": 46.8003363,
-    "longitude": 13.4966428
+    "longitude": 13.4966428,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Auto Eisner",
@@ -12,7 +14,9 @@
     "shop": "car",
     "latitude": 46.8010373,
     "longitude": 13.4965406,
-    "brand": "Opel;Seat;Suzuki"
+    "brand": "Opel;Seat;Suzuki",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -20,21 +24,31 @@
     "shop": "supermarket",
     "latitude": 46.8003605,
     "longitude": 13.4945228,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Camaur der Friseur",
     "retailer": "camaur_der_friseur",
     "shop": "hairdresser",
     "latitude": 46.8009101,
-    "longitude": 13.4950767
+    "longitude": 13.4950767,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Elbe",
     "retailer": "elbe",
     "shop": "electronics",
     "latitude": 46.8007613,
-    "longitude": 13.4919189
+    "longitude": 13.4919189,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Gigasport",
@@ -42,7 +56,11 @@
     "shop": "sports",
     "latitude": 46.800703,
     "longitude": 13.4924984,
-    "brand": "Gigasport"
+    "brand": "Gigasport",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "K&Ö",
@@ -50,13 +68,21 @@
     "shop": "clothes",
     "latitude": 46.8005565,
     "longitude": 13.4925344,
-    "brand": "K&Ö"
+    "brand": "K&Ö",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Musik Aktiv",
     "retailer": "musik_aktiv",
     "shop": "musical_instrument",
     "latitude": 46.8001837,
-    "longitude": 13.4943552
+    "longitude": 13.4943552,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

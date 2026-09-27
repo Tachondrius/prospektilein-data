@@ -4,21 +4,31 @@
     "retailer": "blutenzauber_sabine_peer",
     "shop": "florist",
     "latitude": 47.6105529,
-    "longitude": 13.7799472
+    "longitude": 13.7799472,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "OrthoFIT",
     "retailer": "orthofit",
     "shop": "medical_supply",
     "latitude": 47.6126264,
-    "longitude": 13.7775418
+    "longitude": 13.7775418,
+    "postcode": "8990",
+    "city": "Obertressen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Raich Lederhosen",
     "retailer": "raich_lederhosen",
     "shop": "clothes",
     "latitude": 47.6133926,
-    "longitude": 13.7769809
+    "longitude": 13.7769809,
+    "postcode": "8990",
+    "city": "Obertressen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -26,7 +36,11 @@
     "shop": "supermarket",
     "latitude": 47.6106945,
     "longitude": 13.7797967,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "VW Bathelt",
@@ -34,6 +48,10 @@
     "shop": "car",
     "latitude": 47.6105853,
     "longitude": 13.7704997,
-    "brand": "Volkswagen;Audi;Skoda;Seat"
+    "brand": "Volkswagen;Audi;Skoda;Seat",
+    "postcode": "8990",
+    "city": "Bad Aussee",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

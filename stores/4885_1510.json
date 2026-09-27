@@ -5,20 +5,32 @@
     "shop": "car",
     "latitude": 48.8570485,
     "longitude": 15.1081605,
-    "brand": "Renault"
+    "brand": "Renault",
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Framson Outlet",
     "retailer": "framson_outlet",
     "shop": "clothes",
     "latitude": 48.8545798,
-    "longitude": 15.1006792
+    "longitude": 15.1006792,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Inghofer",
     "retailer": "inghofer",
     "shop": "funeral_directors",
     "latitude": 48.8583867,
-    "longitude": 15.1068194
+    "longitude": 15.1068194,
+    "postcode": "3860",
+    "city": "Heidenreichstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "blumen_thiel",
     "shop": "florist",
     "latitude": 47.4642181,
-    "longitude": 13.9897085
+    "longitude": 13.9897085,
+    "postcode": "8960",
+    "city": "Öblarn",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,7 +16,11 @@
     "shop": "supermarket",
     "latitude": 47.4614782,
     "longitude": 13.9897908,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8960",
+    "city": "Öblarn",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TKnerzl",
@@ -20,6 +28,8 @@
     "shop": "convenience",
     "latitude": 47.4601767,
     "longitude": 13.9852779,
-    "brand": "BP"
+    "brand": "BP",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

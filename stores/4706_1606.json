@@ -5,14 +5,20 @@
     "shop": "car",
     "latitude": 47.0604456,
     "longitude": 16.0622856,
-    "brand": "Toyota;Seat"
+    "brand": "Toyota;Seat",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "CarpCenter",
     "retailer": "carpcenter",
     "shop": "fishing",
     "latitude": 47.061126,
-    "longitude": 16.0660663
+    "longitude": 16.0660663,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ernsting's family",
@@ -20,28 +26,36 @@
     "shop": "clothes",
     "latitude": 47.0602821,
     "longitude": 16.0663441,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fachmarktzentrum Fürstenfeld",
     "retailer": "fachmarktzentrum_furstenfeld",
     "shop": "mall",
     "latitude": 47.0601595,
-    "longitude": 16.0663075
+    "longitude": 16.0663075,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fachmarktzentrum Fürstenfeld",
     "retailer": "fachmarktzentrum_furstenfeld",
     "shop": "mall",
     "latitude": 47.0605534,
-    "longitude": 16.0655071
+    "longitude": 16.0655071,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fachmarktzentrum Fürstenfeld",
     "retailer": "fachmarktzentrum_furstenfeld",
     "shop": "mall",
     "latitude": 47.0610774,
-    "longitude": 16.066423
+    "longitude": 16.066423,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hellweg",
@@ -49,7 +63,11 @@
     "shop": "doityourself",
     "latitude": 47.0611803,
     "longitude": 16.0647187,
-    "brand": "Hellweg"
+    "brand": "Hellweg",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MediaMarkt",
@@ -57,7 +75,9 @@
     "shop": "electronics",
     "latitude": 47.060128,
     "longitude": 16.0653578,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Müller",
@@ -65,7 +85,9 @@
     "shop": "chemist",
     "latitude": 47.0600565,
     "longitude": 16.0672455,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ONLY",
@@ -73,7 +95,9 @@
     "shop": "clothes",
     "latitude": 47.0600874,
     "longitude": 16.0670095,
-    "brand": "ONLY"
+    "brand": "ONLY",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pagro",
@@ -81,13 +105,21 @@
     "shop": "stationery",
     "latitude": 47.0606823,
     "longitude": 16.065722,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik Uhl",
     "retailer": "tabak_trafik_uhl",
     "shop": "tobacco",
     "latitude": 47.0604341,
-    "longitude": 16.0655516
+    "longitude": 16.0655516,
+    "postcode": "8280",
+    "city": "Fürstenfeld",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

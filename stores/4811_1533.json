@@ -4,14 +4,20 @@
     "retailer": "bauer_electronic_gmbh",
     "shop": "electronics",
     "latitude": 48.1122478,
-    "longitude": 15.3395579
+    "longitude": 15.3395579,
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bauernladen zum alten Wirtshaus",
     "retailer": "bauernladen_zum_alten_wirtshaus",
     "shop": "farm",
     "latitude": 48.112588,
-    "longitude": 15.3386105
+    "longitude": 15.3386105,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -19,21 +25,31 @@
     "shop": "chemist",
     "latitude": 48.1132761,
     "longitude": 15.3389284,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Gasser",
     "retailer": "blumen_gasser",
     "shop": "florist",
     "latitude": 48.1126855,
-    "longitude": 15.3390382
+    "longitude": 15.3390382,
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "HAARmanufaktur- Mank",
     "retailer": "haarmanufaktur_mank",
     "shop": "hairdresser",
     "latitude": 48.1122489,
-    "longitude": 15.3391645
+    "longitude": 15.3391645,
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -41,7 +57,11 @@
     "shop": "supermarket",
     "latitude": 48.1131804,
     "longitude": 15.3374327,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -49,27 +69,39 @@
     "shop": "clothes",
     "latitude": 48.1131872,
     "longitude": 15.3390535,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "P&F Fliesen Barbi GmbH",
     "retailer": "p_und_f_fliesen_barbi_gmbh",
     "shop": "tiles",
     "latitude": 48.1133326,
-    "longitude": 15.3342859
+    "longitude": 15.3342859,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rudolf Taubinger",
     "retailer": "rudolf_taubinger",
     "shop": "car",
     "latitude": 48.114612,
-    "longitude": 15.3364568
+    "longitude": 15.3364568,
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schagerl Music GmbH",
     "retailer": "schagerl_music_gmbh",
     "shop": "musical_instrument",
     "latitude": 48.1173311,
-    "longitude": 15.3302648
+    "longitude": 15.3302648,
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,20 +4,30 @@
     "retailer": "blumenhaus_dorn",
     "shop": "florist",
     "latitude": 48.145674,
-    "longitude": 16.7029373
+    "longitude": 16.7029373,
+    "postcode": "2304",
+    "city": "Orth an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "museumORTH",
     "retailer": "museumorth",
     "shop": "gift",
     "latitude": 48.1443127,
-    "longitude": 16.7010534
+    "longitude": 16.7010534,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Neumayer",
     "retailer": "neumayer",
     "shop": "butcher",
     "latitude": 48.1452841,
-    "longitude": 16.7021866
+    "longitude": 16.7021866,
+    "postcode": "2304",
+    "city": "Orth an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

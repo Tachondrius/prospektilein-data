@@ -4,14 +4,22 @@
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 46.8871296,
-    "longitude": 15.5098397
+    "longitude": 15.5098397,
+    "postcode": "8410",
+    "city": "Wildon",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Farben Kubelka",
     "retailer": "farben_kubelka",
     "shop": "interior_decoration",
     "latitude": 46.8884379,
-    "longitude": 15.5001516
+    "longitude": 15.5001516,
+    "postcode": "8410",
+    "city": "Wildon",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -19,21 +27,33 @@
     "shop": "supermarket",
     "latitude": 46.88662,
     "longitude": 15.5012954,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8410",
+    "city": "Wildon",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kfz-Bedarf Bontsch",
     "retailer": "kfz_bedarf_bontsch",
     "shop": "car_parts",
     "latitude": 46.885505,
-    "longitude": 15.5055276
+    "longitude": 15.5055276,
+    "postcode": "8410",
+    "city": "Wildon",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Rad Fuchs",
     "retailer": "rad_fuchs",
     "shop": "bicycle",
     "latitude": 46.8858104,
-    "longitude": 15.5057581
+    "longitude": 15.5057581,
+    "postcode": "8410",
+    "city": "Wildon",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Unimarkt",
@@ -41,13 +61,19 @@
     "shop": "supermarket",
     "latitude": 46.8862965,
     "longitude": 15.5018333,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "8410",
+    "city": "Wildon",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Yes",
     "retailer": "shop_yes",
     "shop": "yes",
     "latitude": 46.8878405,
-    "longitude": 15.5015734
+    "longitude": 15.5015734,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

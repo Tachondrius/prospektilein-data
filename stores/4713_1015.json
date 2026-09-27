@@ -4,20 +4,26 @@
     "retailer": "herberts_dorfladen",
     "shop": "convenience",
     "latitude": 47.1397322,
-    "longitude": 10.1589897
+    "longitude": 10.1589897,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sports",
     "retailer": "shop_sports",
     "shop": "sports",
     "latitude": 47.1386764,
-    "longitude": 10.1584265
+    "longitude": 10.1584265,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.1388613,
-    "longitude": 10.1583301
+    "longitude": 10.1583301,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

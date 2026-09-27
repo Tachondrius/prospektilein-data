@@ -5,14 +5,22 @@
     "shop": "yes",
     "latitude": 48.1533107,
     "longitude": 16.6573548,
-    "brand": "Aradi & Sohn GmbH"
+    "brand": "Aradi & Sohn GmbH",
+    "postcode": "2304",
+    "city": "Mannsdorf an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ETU Unger",
     "retailer": "etu_unger",
     "shop": "electrical",
     "latitude": 48.1531363,
-    "longitude": 16.6576267
+    "longitude": 16.6576267,
+    "postcode": "2304",
+    "city": "Mannsdorf an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mazda Koller Mannsdorf an der Donau",
@@ -20,7 +28,11 @@
     "shop": "car",
     "latitude": 48.1535772,
     "longitude": 16.6585283,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "postcode": "2304",
+    "city": "Mannsdorf an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mazda Koller Mannsdorf an der Donau",
@@ -28,13 +40,19 @@
     "shop": "car",
     "latitude": 48.1539449,
     "longitude": 16.6574365,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spargelhof Magoschitz",
     "retailer": "spargelhof_magoschitz",
     "shop": "greengrocer",
     "latitude": 48.1529081,
-    "longitude": 16.6595857
+    "longitude": 16.6595857,
+    "postcode": "2304",
+    "city": "Mannsdorf an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

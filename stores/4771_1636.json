@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.7172116,
     "longitude": 16.3685361,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7212",
+    "city": "Forchtenstein",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Karl Leitner GmbH",
@@ -13,6 +17,8 @@
     "shop": "car",
     "latitude": 47.7179256,
     "longitude": 16.3699994,
-    "brand": "Nissan"
+    "brand": "Nissan",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.4500411,
     "longitude": 9.9202606,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "6951",
+    "city": "Lingenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "AutoParkFink",
@@ -13,20 +17,28 @@
     "shop": "car_repair",
     "latitude": 47.4502031,
     "longitude": 9.923624,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.4502966,
-    "longitude": 9.9207665
+    "longitude": 9.9207665,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Min Lado",
     "retailer": "min_lado",
     "shop": "gift",
     "latitude": 47.4508072,
-    "longitude": 9.9224339
+    "longitude": 9.9224339,
+    "postcode": "6951",
+    "city": "Lingenau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

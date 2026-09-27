@@ -5,7 +5,11 @@
     "shop": "garden_centre",
     "latitude": 48.2751862,
     "longitude": 15.6983028,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3130",
+    "city": "Herzogenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Baustoffhandel Lagerhaus Herzogenburg",
@@ -13,14 +17,20 @@
     "shop": "trade",
     "latitude": 48.2749613,
     "longitude": 15.6980735,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3130",
+    "city": "Herzogenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Berni's Hofladen",
     "retailer": "berni_s_hofladen",
     "shop": "deli",
     "latitude": 48.2759055,
-    "longitude": 15.6985119
+    "longitude": 15.6985119,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -28,21 +38,31 @@
     "shop": "supermarket",
     "latitude": 48.2793499,
     "longitude": 15.6945652,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "City Center Herzogenburg",
     "retailer": "city_center_herzogenburg",
     "shop": "mall",
     "latitude": 48.2793828,
-    "longitude": 15.6946686
+    "longitude": 15.6946686,
+    "postcode": "3130",
+    "city": "Oberndorf in der Ebene",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "City Center Herzogenburg",
     "retailer": "city_center_herzogenburg",
     "shop": "mall",
     "latitude": 48.2799624,
-    "longitude": 15.6944726
+    "longitude": 15.6944726,
+    "postcode": "3130",
+    "city": "Oberndorf in der Ebene",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichmann",
@@ -50,7 +70,11 @@
     "shop": "shoes",
     "latitude": 48.2793309,
     "longitude": 15.6955832,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "3130",
+    "city": "Herzogenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -58,7 +82,11 @@
     "shop": "chemist",
     "latitude": 48.2793377,
     "longitude": 15.6957598,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "3130",
+    "city": "Herzogenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ernsting's family",
@@ -66,14 +94,18 @@
     "shop": "clothes",
     "latitude": 48.2799441,
     "longitude": 15.6946374,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Rath",
     "retailer": "gartnerei_rath",
     "shop": "garden_centre",
     "latitude": 48.2725603,
-    "longitude": 15.6903192
+    "longitude": 15.6903192,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -81,7 +113,11 @@
     "shop": "supermarket",
     "latitude": 48.274065,
     "longitude": 15.6933939,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3130",
+    "city": "Oberndorf in der Ebene",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Herzogenburg",
@@ -89,14 +125,22 @@
     "shop": "agrarian",
     "latitude": 48.2750211,
     "longitude": 15.6975277,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3130",
+    "city": "Herzogenburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus Technik Center Herzogenburg",
     "retailer": "lagerhaus_technik_center_herzogenburg",
     "shop": "agricultural_engines",
     "latitude": 48.2746533,
-    "longitude": 15.699487
+    "longitude": 15.699487,
+    "postcode": "3130",
+    "city": "Oberndorf in der Ebene",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -104,7 +148,9 @@
     "shop": "books",
     "latitude": 48.279316,
     "longitude": 15.695166,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -112,7 +158,9 @@
     "shop": "clothes",
     "latitude": 48.2793089,
     "longitude": 15.6949621,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Viva",
@@ -120,6 +168,10 @@
     "shop": "convenience",
     "latitude": 48.2788627,
     "longitude": 15.6954922,
-    "brand": "Viva"
+    "brand": "Viva",
+    "postcode": "3130",
+    "city": "Oberndorf in der Ebene",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

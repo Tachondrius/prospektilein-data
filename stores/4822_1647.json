@@ -5,7 +5,10 @@
     "shop": "supermarket",
     "latitude": 48.2225861,
     "longitude": 16.4739905,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1220",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa Now",
@@ -13,7 +16,9 @@
     "shop": "convenience",
     "latitude": 48.2205875,
     "longitude": 16.4798061,
-    "brand": "Billa Now"
+    "brand": "Billa Now",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -21,21 +26,31 @@
     "shop": "chemist",
     "latitude": 48.2229809,
     "longitude": 16.4741566,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Blumen Elsa",
     "retailer": "blumen_elsa",
     "shop": "florist",
     "latitude": 48.2232886,
-    "longitude": 16.4755296
+    "longitude": 16.4755296,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gärtnerei Ganger",
     "retailer": "gartnerei_ganger",
     "shop": "farm",
     "latitude": 48.2292865,
-    "longitude": 16.4707345
+    "longitude": 16.4707345,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -43,21 +58,28 @@
     "shop": "supermarket",
     "latitude": 48.2228548,
     "longitude": 16.4740731,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1220",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "JCL Logistics Lager Wien",
     "retailer": "jcl_logistics_lager_wien",
     "shop": "storage_rental",
     "latitude": 48.2289374,
-    "longitude": 16.4746518
+    "longitude": 16.4746518,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "kangmei massage",
     "retailer": "kangmei_massage",
     "shop": "massage",
     "latitude": 48.2233229,
-    "longitude": 16.4750783
+    "longitude": 16.4750783,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lidl",
@@ -65,20 +87,30 @@
     "shop": "supermarket",
     "latitude": 48.2242025,
     "longitude": 16.4700119,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Nöbauer",
     "retailer": "nobauer",
     "shop": "bakery",
     "latitude": 48.2224265,
-    "longitude": 16.4748982
+    "longitude": 16.4748982,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "the BARBIER 22",
     "retailer": "the_barbier_22",
     "shop": "hairdresser",
     "latitude": 48.2231348,
-    "longitude": 16.474178
+    "longitude": 16.474178,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

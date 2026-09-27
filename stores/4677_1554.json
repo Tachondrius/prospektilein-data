@@ -4,14 +4,20 @@
     "retailer": "bestattung_kada",
     "shop": "funeral_directors",
     "latitude": 46.7791873,
-    "longitude": 15.5403974
+    "longitude": 15.5403974,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 46.7755914,
-    "longitude": 15.5478924
+    "longitude": 15.5478924,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mazda Marko",
@@ -19,14 +25,19 @@
     "shop": "car",
     "latitude": 46.7752786,
     "longitude": 15.548392,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Music",
     "retailer": "shop_music",
     "shop": "music",
     "latitude": 46.7757425,
-    "longitude": 15.5476462
+    "longitude": 15.5476462,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Porsche Leibnitz",
@@ -34,20 +45,31 @@
     "shop": "car",
     "latitude": 46.775702,
     "longitude": 15.5497234,
-    "brand": "VW;Audi"
+    "brand": "VW;Audi",
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wasle Fotografie",
     "retailer": "wasle_fotografie",
     "shop": "photo",
     "latitude": 46.7789486,
-    "longitude": 15.543576
+    "longitude": 15.543576,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Yes",
     "retailer": "shop_yes",
     "shop": "yes",
     "latitude": 46.7759208,
-    "longitude": 15.5474333
+    "longitude": 15.5474333,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

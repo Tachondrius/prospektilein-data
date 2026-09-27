@@ -4,7 +4,11 @@
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.4860307,
-    "longitude": 13.9858013
+    "longitude": 13.9858013,
+    "postcode": "4120",
+    "city": "Neufelden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Citroën Pöchtrager",
@@ -12,7 +16,9 @@
     "shop": "car",
     "latitude": 48.4850694,
     "longitude": 13.986051,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Citroën Pöchtrager",
@@ -20,20 +26,30 @@
     "shop": "car",
     "latitude": 48.4859962,
     "longitude": 13.9858107,
-    "brand": "Citroën"
+    "brand": "Citroën",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Dogsworld",
     "retailer": "dogsworld",
     "shop": "pet",
     "latitude": 48.485189,
-    "longitude": 13.9828597
+    "longitude": 13.9828597,
+    "postcode": "4120",
+    "city": "Neufelden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reifen Krenn",
     "retailer": "reifen_krenn",
     "shop": "tyres",
     "latitude": 48.4848784,
-    "longitude": 13.982068
+    "longitude": 13.982068,
+    "postcode": "4120",
+    "city": "Neufelden",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

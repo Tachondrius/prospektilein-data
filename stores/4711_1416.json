@@ -4,7 +4,11 @@
     "retailer": "hinterschweiger",
     "shop": "books",
     "latitude": 47.1105412,
-    "longitude": 14.1669368
+    "longitude": 14.1669368,
+    "postcode": "8850",
+    "city": "Murau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "JYSK",
@@ -12,13 +16,19 @@
     "shop": "furniture",
     "latitude": 47.1124759,
     "longitude": 14.1656177,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "8850",
+    "city": "Murau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Waffen Gruber",
     "retailer": "waffen_gruber",
     "shop": "outdoor",
     "latitude": 47.1102124,
-    "longitude": 14.1684382
+    "longitude": 14.1684382,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

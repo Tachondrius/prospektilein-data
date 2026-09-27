@@ -4,7 +4,9 @@
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.2339675,
-    "longitude": 12.9983608
+    "longitude": 12.9983608,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.2307691,
     "longitude": 12.9926028,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5661",
+    "city": "Rauris",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

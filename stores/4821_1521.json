@@ -4,21 +4,33 @@
     "retailer": "backerei_schwinn",
     "shop": "bakery",
     "latitude": 48.2124837,
-    "longitude": 15.2111996
+    "longitude": 15.2111996,
+    "postcode": "3380",
+    "city": "Pöchlarn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Fuchs",
     "retailer": "gartnerei_fuchs",
     "shop": "garden_centre",
     "latitude": 48.2103378,
-    "longitude": 15.2184114
+    "longitude": 15.2184114,
+    "postcode": "3380",
+    "city": "Pöchlarn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mistlbacher",
     "retailer": "mistlbacher",
     "shop": "bakery",
     "latitude": 48.2173476,
-    "longitude": 15.2149969
+    "longitude": 15.2149969,
+    "postcode": "3660",
+    "city": "Klein-Pöchlarn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -26,6 +38,10 @@
     "shop": "supermarket",
     "latitude": 48.2174495,
     "longitude": 15.2144431,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3660",
+    "city": "Klein-Pöchlarn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

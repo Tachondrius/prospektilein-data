@@ -4,14 +4,22 @@
     "retailer": "backerei_freller",
     "shop": "bakery",
     "latitude": 48.4319973,
-    "longitude": 14.3007132
+    "longitude": 14.3007132,
+    "postcode": "4202",
+    "city": "Hellmonsödt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Draxler",
     "retailer": "draxler",
     "shop": "butcher",
     "latitude": 48.431649,
-    "longitude": 14.3014212
+    "longitude": 14.3014212,
+    "postcode": "4202",
+    "city": "Hellmonsödt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -19,6 +27,10 @@
     "shop": "supermarket",
     "latitude": 48.431925,
     "longitude": 14.3000876,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4202",
+    "city": "Hellmonsödt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

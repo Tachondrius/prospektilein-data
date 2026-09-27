@@ -4,14 +4,22 @@
     "retailer": "bauernladen_schwarzenau",
     "shop": "farm",
     "latitude": 48.7431641,
-    "longitude": 15.2602976
+    "longitude": 15.2602976,
+    "postcode": "3900",
+    "city": "Schwarzenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Raiffeisen-Lagerhaus, Filiale Schwarzenau",
     "retailer": "raiffeisen_lagerhaus_filiale_schwarzenau",
     "shop": "doityourself",
     "latitude": 48.742993,
-    "longitude": 15.268991
+    "longitude": 15.268991,
+    "postcode": "3900",
+    "city": "Schwarzenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -19,13 +27,19 @@
     "shop": "convenience",
     "latitude": 48.7427604,
     "longitude": 15.2681234,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Stylistik Haardesign",
     "retailer": "stylistik_haardesign",
     "shop": "hairdresser",
     "latitude": 48.743253,
-    "longitude": 15.2686104
+    "longitude": 15.2686104,
+    "postcode": "3900",
+    "city": "Schwarzenau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

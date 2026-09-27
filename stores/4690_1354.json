@@ -4,20 +4,30 @@
     "retailer": "computer_hardware_software",
     "shop": "computer",
     "latitude": 46.9082093,
-    "longitude": 13.541351
+    "longitude": 13.541351,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kreativwerkstatt Lilifred",
     "retailer": "kreativwerkstatt_lilifred",
     "shop": "interior_decoration",
     "latitude": 46.9091633,
-    "longitude": 13.5419634
+    "longitude": 13.5419634,
+    "postcode": "9853",
+    "city": "Gmünd in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Textilreinigung Florian",
     "retailer": "textilreinigung_florian",
     "shop": "dry_cleaning",
     "latitude": 46.9084828,
-    "longitude": 13.5417984
+    "longitude": 13.5417984,
+    "postcode": "9853",
+    "city": "Gmünd in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

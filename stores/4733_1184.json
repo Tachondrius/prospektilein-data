@@ -4,7 +4,10 @@
     "retailer": "alpinschiverleih_zillertal_fugen",
     "shop": "sports",
     "latitude": 47.3384472,
-    "longitude": 11.8441779
+    "longitude": 11.8441779,
+    "postcode": "6263",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport 2000",
@@ -12,20 +15,28 @@
     "shop": "sports",
     "latitude": 47.338972,
     "longitude": 11.8422616,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.3388128,
-    "longitude": 11.8431564
+    "longitude": 11.8431564,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.3389454,
-    "longitude": 11.8438596
+    "longitude": 11.8438596,
+    "postcode": "6263",
+    "city": "Fügen",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,28 +4,42 @@
     "retailer": "beerenstadl_salzburg",
     "shop": "farm",
     "latitude": 47.7734902,
-    "longitude": 13.0842736
+    "longitude": 13.0842736,
+    "postcode": "5061",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "BLOOM - Beauty Concept Store",
     "retailer": "bloom_beauty_concept_store",
     "shop": "beauty",
     "latitude": 47.77674,
-    "longitude": 13.0835697
+    "longitude": 13.0835697,
+    "postcode": "5026",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bäckerei Pföß",
     "retailer": "backerei_pfo",
     "shop": "bakery",
     "latitude": 47.7700672,
-    "longitude": 13.0889632
+    "longitude": 13.0889632,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Modeatelier Elisabeth Schied",
     "retailer": "modeatelier_elisabeth_schied",
     "shop": "tailor",
     "latitude": 47.7770324,
-    "longitude": 13.0898543
+    "longitude": 13.0898543,
+    "postcode": "5061",
+    "city": "Elsbethen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -33,6 +47,10 @@
     "shop": "supermarket",
     "latitude": 47.7707608,
     "longitude": 13.0876725,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5061",
+    "city": "Elsbethen",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

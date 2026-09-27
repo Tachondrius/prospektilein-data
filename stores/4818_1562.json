@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1819032,
     "longitude": 15.620453,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichmann",
@@ -13,7 +17,11 @@
     "shop": "shoes",
     "latitude": 48.1827425,
     "longitude": 15.6212535,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -21,7 +29,11 @@
     "shop": "chemist",
     "latitude": 48.1823563,
     "longitude": 15.6213024,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ernsting's family",
@@ -29,7 +41,11 @@
     "shop": "clothes",
     "latitude": 48.1828721,
     "longitude": 15.6212319,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fussl",
@@ -37,21 +53,27 @@
     "shop": "clothes",
     "latitude": 48.181884,
     "longitude": 15.6201453,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hager",
     "retailer": "hager",
     "shop": "bakery",
     "latitude": 48.1850608,
-    "longitude": 15.6208855
+    "longitude": 15.6208855,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.1860553,
-    "longitude": 15.6218074
+    "longitude": 15.6218074,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -59,28 +81,42 @@
     "shop": "clothes",
     "latitude": 48.183,
     "longitude": 15.6212209,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lager 92",
     "retailer": "lager_92",
     "shop": "storage_rental",
     "latitude": 48.1879869,
-    "longitude": 15.6223652
+    "longitude": 15.6223652,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 48.1814915,
-    "longitude": 15.6201535
+    "longitude": 15.6201535,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mazzetti",
     "retailer": "mazzetti",
     "shop": "farm",
     "latitude": 48.1897938,
-    "longitude": 15.6280905
+    "longitude": 15.6280905,
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "New Yorker",
@@ -88,7 +124,11 @@
     "shop": "clothes",
     "latitude": 48.1826177,
     "longitude": 15.6212679,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pagro",
@@ -96,7 +136,11 @@
     "shop": "stationery",
     "latitude": 48.1832402,
     "longitude": 15.6211966,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -104,7 +148,11 @@
     "shop": "supermarket",
     "latitude": 48.1855508,
     "longitude": 15.6211274,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Storebox",
@@ -112,14 +160,20 @@
     "shop": "storage_rental",
     "latitude": 48.1878386,
     "longitude": 15.622352,
-    "brand": "Storebox"
+    "brand": "Storebox",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Strassl-Schaider",
     "retailer": "strassl_schaider",
     "shop": "hairdresser",
     "latitude": 48.1818703,
-    "longitude": 15.6200115
+    "longitude": 15.6200115,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -127,7 +181,9 @@
     "shop": "tobacco",
     "latitude": 48.1851374,
     "longitude": 15.6206955,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Takko Fashion",
@@ -135,7 +191,11 @@
     "shop": "clothes",
     "latitude": 48.1824858,
     "longitude": 15.6212894,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Woolworth",
@@ -143,6 +203,10 @@
     "shop": "department_store",
     "latitude": 48.1831274,
     "longitude": 15.6212128,
-    "brand": "Woolworth"
+    "brand": "Woolworth",
+    "postcode": "3100",
+    "city": "St. Pölten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

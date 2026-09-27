@@ -5,21 +5,29 @@
     "shop": "car",
     "latitude": 47.304337,
     "longitude": 11.64033,
-    "brand": "Renault"
+    "brand": "Renault",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baustoffe Arnold",
     "retailer": "baustoffe_arnold",
     "shop": "trade",
     "latitude": 47.305109,
-    "longitude": 11.6430093
+    "longitude": 11.6430093,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Braunegger",
     "retailer": "braunegger",
     "shop": "convenience",
     "latitude": 47.3023457,
-    "longitude": 11.6423798
+    "longitude": 11.6423798,
+    "postcode": "6116",
+    "city": "Weer",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -27,7 +35,11 @@
     "shop": "supermarket",
     "latitude": 47.3058954,
     "longitude": 11.6422924,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6116",
+    "city": "Weer",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -35,20 +47,28 @@
     "shop": "supermarket",
     "latitude": 47.3061718,
     "longitude": 11.6430864,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6116",
+    "city": "Weer",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Salon Helga",
     "retailer": "salon_helga",
     "shop": "hairdresser",
     "latitude": 47.3043263,
-    "longitude": 11.640888
+    "longitude": 11.640888,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Unterlechner",
     "retailer": "unterlechner",
     "shop": "interior_decoration",
     "latitude": 47.3033627,
-    "longitude": 11.6444036
+    "longitude": 11.6444036,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,35 +4,47 @@
     "retailer": "cafe_roka",
     "shop": "bakery",
     "latitude": 47.4961257,
-    "longitude": 10.5559529
+    "longitude": 10.5559529,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "EWR Betriebsstelle Tannheimertal",
     "retailer": "ewr_betriebsstelle_tannheimertal",
     "shop": "electrical",
     "latitude": 47.4959465,
-    "longitude": 10.5560697
+    "longitude": 10.5560697,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haarwerk",
     "retailer": "haarwerk",
     "shop": "hairdresser",
     "latitude": 47.4960421,
-    "longitude": 10.555922
+    "longitude": 10.555922,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofladen Plangger Grän",
     "retailer": "hofladen_plangger_gran",
     "shop": "deli",
     "latitude": 47.4953015,
-    "longitude": 10.5568168
+    "longitude": 10.5568168,
+    "postcode": "6673",
+    "city": "Grän",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MaxiMuss Mode und Mehr",
     "retailer": "maximuss_mode_und_mehr",
     "shop": "clothes",
     "latitude": 47.4958599,
-    "longitude": 10.5561527
+    "longitude": 10.5561527,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -40,6 +52,10 @@
     "shop": "supermarket",
     "latitude": 47.4963179,
     "longitude": 10.555958,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6673",
+    "city": "Grän",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

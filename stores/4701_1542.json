@@ -4,7 +4,10 @@
     "retailer": "fleischerei_rinner",
     "shop": "butcher",
     "latitude": 47.013857,
-    "longitude": 15.4231031
+    "longitude": 15.4231031,
+    "postcode": "8055",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +15,9 @@
     "shop": "supermarket",
     "latitude": 47.0132566,
     "longitude": 15.4298281,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8055",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

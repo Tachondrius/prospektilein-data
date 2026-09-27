@@ -4,20 +4,28 @@
     "retailer": "car_wrapping",
     "shop": "car_repair",
     "latitude": 47.4229574,
-    "longitude": 13.3456123
+    "longitude": 13.3456123,
+    "postcode": "5521",
+    "city": "Hüttau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Innovaholz",
     "retailer": "innovaholz",
     "shop": "furniture",
     "latitude": 47.4232473,
-    "longitude": 13.3461275
+    "longitude": 13.3461275,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kosmetiksalon Michaela",
     "retailer": "kosmetiksalon_michaela",
     "shop": "beauty",
     "latitude": 47.4216799,
-    "longitude": 13.3439494
+    "longitude": 13.3439494,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

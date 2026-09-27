@@ -4,7 +4,9 @@
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 47.5918777,
-    "longitude": 16.5373347
+    "longitude": 16.5373347,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Billa",
@@ -12,27 +14,41 @@
     "shop": "supermarket",
     "latitude": 47.5918178,
     "longitude": 16.5385309,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7312",
+    "city": "Horitschon",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.5918852,
-    "longitude": 16.5372065
+    "longitude": 16.5372065,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lagerhaus Werkstätte",
     "retailer": "lagerhaus_werkstatte",
     "shop": "car",
     "latitude": 47.591509,
-    "longitude": 16.5398554
+    "longitude": 16.5398554,
+    "postcode": "7312",
+    "city": "Horitschon",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weingut Kerschbaum",
     "retailer": "weingut_kerschbaum",
     "shop": "wine",
     "latitude": 47.5916612,
-    "longitude": 16.533013
+    "longitude": 16.533013,
+    "postcode": "7312",
+    "city": "Horitschon",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

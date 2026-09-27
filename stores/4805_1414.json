@@ -4,13 +4,19 @@
     "retailer": "schlair",
     "shop": "convenience",
     "latitude": 48.0558042,
-    "longitude": 14.14037
+    "longitude": 14.14037,
+    "postcode": "4550",
+    "city": "Kremsmünster",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 48.0539821,
-    "longitude": 14.1469711
+    "longitude": 14.1469711,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

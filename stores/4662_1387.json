@@ -4,14 +4,22 @@
     "retailer": "ackerbox",
     "shop": "farm",
     "latitude": 46.6275263,
-    "longitude": 13.879492
+    "longitude": 13.879492,
+    "postcode": "9523",
+    "city": "Villach-Landskron",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bestattung",
     "retailer": "bestattung",
     "shop": "funeral_directors",
     "latitude": 46.6264921,
-    "longitude": 13.8740222
+    "longitude": 13.8740222,
+    "postcode": "9523",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hagebaumarkt",
@@ -19,28 +27,41 @@
     "shop": "doityourself",
     "latitude": 46.6277819,
     "longitude": 13.8788212,
-    "brand": "Hagebaumarkt"
+    "brand": "Hagebaumarkt",
+    "postcode": "9523",
+    "city": "Villach-Landskron",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hebein",
     "retailer": "hebein",
     "shop": "tailor",
     "latitude": 46.6298467,
-    "longitude": 13.8784502
+    "longitude": 13.8784502,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Karosserie Hausott",
     "retailer": "karosserie_hausott",
     "shop": "car",
     "latitude": 46.6267481,
-    "longitude": 13.8760069
+    "longitude": 13.8760069,
+    "postcode": "9523",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KFZ Doc",
     "retailer": "kfz_doc",
     "shop": "car_repair",
     "latitude": 46.6206344,
-    "longitude": 13.8737897
+    "longitude": 13.8737897,
+    "postcode": "9524",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Kia Franz",
@@ -48,7 +69,9 @@
     "shop": "car",
     "latitude": 46.6289759,
     "longitude": 13.8763085,
-    "brand": "Kia"
+    "brand": "Kia",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Toyota Tschernitz",
@@ -56,6 +79,10 @@
     "shop": "car",
     "latitude": 46.6274858,
     "longitude": 13.876166,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "postcode": "9523",
+    "city": "Villach",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

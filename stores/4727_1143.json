@@ -4,14 +4,20 @@
     "retailer": "achleitner",
     "shop": "tyres",
     "latitude": 47.2719698,
-    "longitude": 11.433785
+    "longitude": 11.433785,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Anzengruber",
     "retailer": "anzengruber",
     "shop": "car_repair",
     "latitude": 47.2713746,
-    "longitude": 11.4353499
+    "longitude": 11.4353499,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Der Bäcker Ruetz",
@@ -19,63 +25,95 @@
     "shop": "bakery",
     "latitude": 47.2772125,
     "longitude": 11.4319941,
-    "brand": "Der Bäcker Ruetz"
+    "brand": "Der Bäcker Ruetz",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Die Brotbuben Lener",
     "retailer": "die_brotbuben_lener",
     "shop": "bakery",
     "latitude": 47.277695,
-    "longitude": 11.435263
+    "longitude": 11.435263,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseurbedarf Schmid",
     "retailer": "friseurbedarf_schmid",
     "shop": "hairdresser_supply",
     "latitude": 47.2737981,
-    "longitude": 11.4396846
+    "longitude": 11.4396846,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fruchthof",
     "retailer": "fruchthof",
     "shop": "greengrocer",
     "latitude": 47.2777112,
-    "longitude": 11.434956
+    "longitude": 11.434956,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hörtnagl",
     "retailer": "hortnagl",
     "shop": "butcher",
     "latitude": 47.2778546,
-    "longitude": 11.4351571
+    "longitude": 11.4351571,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Katzen- und Hundefutterparadies Anranter",
     "retailer": "katzen_und_hundefutterparadies_anranter",
     "shop": "pet",
     "latitude": 47.2776078,
-    "longitude": 11.4339204
+    "longitude": 11.4339204,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Klein",
     "retailer": "klein",
     "shop": "car_parts",
     "latitude": 47.2708401,
-    "longitude": 11.4368639
+    "longitude": 11.4368639,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MAN Truck & Bus Vertrieb Österreich AG",
     "retailer": "man_truck_und_bus_vertrieb_osterreich_ag",
     "shop": "car_repair",
     "latitude": 47.2762805,
-    "longitude": 11.4355866
+    "longitude": 11.4355866,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Piller Schulmöbel",
     "retailer": "piller_schulmobel",
     "shop": "furniture",
     "latitude": 47.2771673,
-    "longitude": 11.4325552
+    "longitude": 11.4325552,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Porsche Austria IBS Stützpunkt Innsbruck",
@@ -83,7 +121,9 @@
     "shop": "car_repair",
     "latitude": 47.2762416,
     "longitude": 11.4347475,
-    "brand": "Porsche"
+    "brand": "Porsche",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Porsche Inter Auto Innsbruck-Hallerstraße",
@@ -91,28 +131,42 @@
     "shop": "car",
     "latitude": 47.2767475,
     "longitude": 11.4335354,
-    "brand": "Porsche"
+    "brand": "Porsche",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sanitär-Heinze",
     "retailer": "sanitar_heinze",
     "shop": "bathroom_furnishing",
     "latitude": 47.2760845,
-    "longitude": 11.4379326
+    "longitude": 11.4379326,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sonnenallee",
     "retailer": "sonnenallee",
     "shop": "cannabis",
     "latitude": 47.2776091,
-    "longitude": 11.4344178
+    "longitude": 11.4344178,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Span Küchenatelier",
     "retailer": "span_kuchenatelier",
     "shop": "kitchen",
     "latitude": 47.2739406,
-    "longitude": 11.438567
+    "longitude": 11.438567,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Troppacher",
@@ -120,27 +174,41 @@
     "shop": "convenience",
     "latitude": 47.2754274,
     "longitude": 11.4340969,
-    "brand": "BP"
+    "brand": "BP",
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tschabrun - Holz & Baustoffe",
     "retailer": "tschabrun_holz_und_baustoffe",
     "shop": "trade",
     "latitude": 47.276768,
-    "longitude": 11.4381482
+    "longitude": 11.4381482,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Verlag Jung Österreich",
     "retailer": "verlag_jung_osterreich",
     "shop": "books",
     "latitude": 47.2782768,
-    "longitude": 11.4357793
+    "longitude": 11.4357793,
+    "postcode": "6020",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Walde",
     "retailer": "walde",
     "shop": "chemist",
     "latitude": 47.2786585,
-    "longitude": 11.4327461
+    "longitude": 11.4327461,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

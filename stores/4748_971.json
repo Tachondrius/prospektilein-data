@@ -4,7 +4,11 @@
     "retailer": "heitex_hefel",
     "shop": "bed",
     "latitude": 47.4843059,
-    "longitude": 9.7164402
+    "longitude": 9.7164402,
+    "postcode": "6923",
+    "city": "Lauterach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Malang",
@@ -12,7 +16,11 @@
     "shop": "car",
     "latitude": 47.4850696,
     "longitude": 9.7123552,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Malang",
@@ -20,21 +28,33 @@
     "shop": "car",
     "latitude": 47.4852613,
     "longitude": 9.7121558,
-    "brand": "Volkswagen"
+    "brand": "Volkswagen",
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Reifen Fischer GmbH",
     "retailer": "reifen_fischer_gmbh",
     "shop": "tyres",
     "latitude": 47.4840417,
-    "longitude": 9.7178121
+    "longitude": 9.7178121,
+    "postcode": "6923",
+    "city": "Lauterach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Ruetz",
     "retailer": "ruetz",
     "shop": "bakery",
     "latitude": 47.4834026,
-    "longitude": 9.7199923
+    "longitude": 9.7199923,
+    "postcode": "6923",
+    "city": "Lauterach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -42,20 +62,30 @@
     "shop": "supermarket",
     "latitude": 47.4859964,
     "longitude": 9.7121767,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trafik Agva",
     "retailer": "trafik_agva",
     "shop": "kiosk",
     "latitude": 47.4833157,
-    "longitude": 9.7198153
+    "longitude": 9.7198153,
+    "postcode": "6923",
+    "city": "Lauterach",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Würmle Secondhand & Neuwaren für Babies & Kids",
     "retailer": "wurmle_secondhand_und_neuwaren_fur_babies_und_kids",
     "shop": "baby_goods",
     "latitude": 47.4842579,
-    "longitude": 9.7144335
+    "longitude": 9.7144335,
+    "postcode": "6971",
+    "city": "Hard",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

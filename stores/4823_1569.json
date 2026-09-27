@@ -4,7 +4,9 @@
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.2348356,
-    "longitude": 15.690389
+    "longitude": 15.690389,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -12,13 +14,21 @@
     "shop": "supermarket",
     "latitude": 48.238045,
     "longitude": 15.6948008,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3140",
+    "city": "Pottenbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trendstyle Haarstudio Andreas",
     "retailer": "trendstyle_haarstudio_andreas",
     "shop": "hairdresser",
     "latitude": 48.2396864,
-    "longitude": 15.6949431
+    "longitude": 15.6949431,
+    "postcode": "3140",
+    "city": "Pottenbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

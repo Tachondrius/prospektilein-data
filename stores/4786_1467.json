@@ -4,7 +4,11 @@
     "retailer": "ahrer",
     "shop": "antiques",
     "latitude": 47.8640266,
-    "longitude": 14.671322
+    "longitude": 14.671322,
+    "postcode": "3335",
+    "city": "Weyer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -12,20 +16,30 @@
     "shop": "supermarket",
     "latitude": 47.8625804,
     "longitude": 14.6705621,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3335",
+    "city": "Weyer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fabric",
     "retailer": "shop_fabric",
     "shop": "fabric",
     "latitude": 47.8618643,
-    "longitude": 14.6700502
+    "longitude": 14.6700502,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Holzner Kfz-tuning",
     "retailer": "holzner_kfz_tuning",
     "shop": "car_parts",
     "latitude": 47.8690041,
-    "longitude": 14.6742955
+    "longitude": 14.6742955,
+    "postcode": "3335",
+    "city": "Weyer",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

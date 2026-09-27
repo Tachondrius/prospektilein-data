@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 46.8051047,
     "longitude": 13.5678704,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9872",
+    "city": "Millstatt am See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofladen nockfrånz",
     "retailer": "hofladen_nockfranz",
     "shop": "farm",
     "latitude": 46.8047376,
-    "longitude": 13.5690561
+    "longitude": 13.5690561,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

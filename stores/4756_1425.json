@@ -4,7 +4,10 @@
     "retailer": "autohaus_liezen",
     "shop": "car",
     "latitude": 47.5607212,
-    "longitude": 14.250607
+    "longitude": 14.250607,
+    "postcode": "8940",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bellaflora",
@@ -12,7 +15,11 @@
     "shop": "garden_centre",
     "latitude": 47.5607905,
     "longitude": 14.2597514,
-    "brand": "Bellaflora"
+    "brand": "Bellaflora",
+    "postcode": "8940",
+    "city": "Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa stop & shop",
@@ -20,7 +27,11 @@
     "shop": "convenience",
     "latitude": 47.5602782,
     "longitude": 14.2578239,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "postcode": "8940",
+    "city": "Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -28,14 +39,18 @@
     "shop": "chemist",
     "latitude": 47.5601471,
     "longitude": 14.2533827,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "CENTERSHOP Liezen",
     "retailer": "centershop_liezen",
     "shop": "supermarket",
     "latitude": 47.5601978,
-    "longitude": 14.2544041
+    "longitude": 14.2544041,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "JYSK",
@@ -43,14 +58,22 @@
     "shop": "furniture",
     "latitude": 47.5607981,
     "longitude": 14.2523465,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "postcode": "8940",
+    "city": "Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Leitner Garten GmbH",
     "retailer": "leitner_garten_gmbh",
     "shop": "garden_centre",
     "latitude": 47.5603298,
-    "longitude": 14.256282
+    "longitude": 14.256282,
+    "postcode": "8940",
+    "city": "Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Matratzen Concord",
@@ -58,7 +81,11 @@
     "shop": "bed",
     "latitude": 47.5601887,
     "longitude": 14.2541231,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "postcode": "8940",
+    "city": "Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -66,21 +93,31 @@
     "shop": "supermarket",
     "latitude": 47.5602762,
     "longitude": 14.2532066,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Quester",
     "retailer": "quester",
     "shop": "doityourself",
     "latitude": 47.5642557,
-    "longitude": 14.257946
+    "longitude": 14.257946,
+    "postcode": "8940",
+    "city": "Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reifen Weichberger",
     "retailer": "reifen_weichberger",
     "shop": "tyres",
     "latitude": 47.5603144,
-    "longitude": 14.2552509
+    "longitude": 14.2552509,
+    "postcode": "8940",
+    "city": "Liezen",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "The North Face",
@@ -88,7 +125,9 @@
     "shop": "clothes",
     "latitude": 47.5602285,
     "longitude": 14.2540842,
-    "brand": "The North Face"
+    "brand": "The North Face",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zillertaler Trachtenwelt",
@@ -96,6 +135,8 @@
     "shop": "clothes",
     "latitude": 47.5602072,
     "longitude": 14.2537442,
-    "brand": "Zillertaler Trachtenwelt"
+    "brand": "Zillertaler Trachtenwelt",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

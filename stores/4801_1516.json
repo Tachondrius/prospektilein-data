@@ -4,20 +4,28 @@
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.0149952,
-    "longitude": 15.1609339
+    "longitude": 15.1609339,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dünnwald OG",
     "retailer": "dunnwald_og",
     "shop": "car_parts",
     "latitude": 48.0131558,
-    "longitude": 15.1623794
+    "longitude": 15.1623794,
+    "postcode": "3270",
+    "city": "Scheibbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gattringer",
     "retailer": "gattringer",
     "shop": "medical_supply",
     "latitude": 48.0119423,
-    "longitude": 15.1628356
+    "longitude": 15.1628356,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

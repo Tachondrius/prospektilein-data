@@ -4,14 +4,20 @@
     "retailer": "adeg",
     "shop": "convenience",
     "latitude": 48.0452456,
-    "longitude": 14.6213384
+    "longitude": 14.6213384,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Beranek",
     "retailer": "beranek",
     "shop": "pastry",
     "latitude": 48.0449731,
-    "longitude": 14.6209627
+    "longitude": 14.6209627,
+    "postcode": "3352",
+    "city": "St. Peter in der Au",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -19,28 +25,44 @@
     "shop": "chemist",
     "latitude": 48.0419022,
     "longitude": 14.6216176,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "3352",
+    "city": "St. Peter in der Au",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseur Styling M&Ms",
     "retailer": "friseur_styling_m_und_ms",
     "shop": "hairdresser",
     "latitude": 48.0440716,
-    "longitude": 14.6238042
+    "longitude": 14.6238042,
+    "postcode": "3352",
+    "city": "St. Peter in der Au",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Getränke Zach",
     "retailer": "getranke_zach",
     "shop": "beverages",
     "latitude": 48.0448726,
-    "longitude": 14.6218496
+    "longitude": 14.6218496,
+    "postcode": "3352",
+    "city": "St. Peter in der Au",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Henry Laden St. Peter/Au",
     "retailer": "henry_laden_st_peter_au",
     "shop": "clothes",
     "latitude": 48.042078,
-    "longitude": 14.6215242
+    "longitude": 14.6215242,
+    "postcode": "3352",
+    "city": "St. Peter in der Au",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -48,62 +70,92 @@
     "shop": "supermarket",
     "latitude": 48.0419269,
     "longitude": 14.6286654,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3353",
+    "city": "Seitenstetten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Imkerei Fuchs",
     "retailer": "imkerei_fuchs",
     "shop": "honey",
     "latitude": 48.0470763,
-    "longitude": 14.6225839
+    "longitude": 14.6225839,
+    "postcode": "3352",
+    "city": "St. Peter in der Au",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kammerhofer",
     "retailer": "kammerhofer",
     "shop": "bakery",
     "latitude": 48.0450982,
-    "longitude": 14.6222136
+    "longitude": 14.6222136,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Möbel Polt",
     "retailer": "mobel_polt",
     "shop": "furniture",
     "latitude": 48.0418844,
-    "longitude": 14.6236489
+    "longitude": 14.6236489,
+    "postcode": "3352",
+    "city": "St. Peter in der Au",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schenkermayr Moden",
     "retailer": "schenkermayr_moden",
     "shop": "clothes",
     "latitude": 48.0447529,
-    "longitude": 14.6236742
+    "longitude": 14.6236742,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schneckenreither",
     "retailer": "schneckenreither",
     "shop": "interior_decoration",
     "latitude": 48.0429761,
-    "longitude": 14.6226484
+    "longitude": 14.6226484,
+    "postcode": "3352",
+    "city": "St. Peter in der Au",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schuhaus Renner",
     "retailer": "schuhaus_renner",
     "shop": "shoes",
     "latitude": 48.0432291,
-    "longitude": 14.6226253
+    "longitude": 14.6226253,
+    "postcode": "3352",
+    "city": "St. Peter in der Au",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Textilreinigung Rotschädl",
     "retailer": "textilreinigung_rotschadl",
     "shop": "dry_cleaning",
     "latitude": 48.044474,
-    "longitude": 14.6233416
+    "longitude": 14.6233416,
+    "postcode": "3352",
+    "city": "St. Peter in der Au",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Vogel",
     "retailer": "vogel",
     "shop": "electrical",
     "latitude": 48.0432515,
-    "longitude": 14.6230849
+    "longitude": 14.6230849,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

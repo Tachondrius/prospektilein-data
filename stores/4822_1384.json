@@ -5,7 +5,9 @@
     "shop": "shoes",
     "latitude": 48.2263685,
     "longitude": 13.8498245,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -13,14 +15,20 @@
     "shop": "chemist",
     "latitude": 48.2265361,
     "longitude": 13.8495322,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Forstinger",
     "retailer": "forstinger",
     "shop": "car_repair",
     "latitude": 48.2250948,
-    "longitude": 13.8484439
+    "longitude": 13.8484439,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fussl",
@@ -28,7 +36,9 @@
     "shop": "clothes",
     "latitude": 48.2268205,
     "longitude": 13.8499455,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -36,7 +46,11 @@
     "shop": "supermarket",
     "latitude": 48.2257854,
     "longitude": 13.8489891,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4707",
+    "city": "Schlüßlberg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kriegner",
@@ -44,7 +58,11 @@
     "shop": "car",
     "latitude": 48.2264563,
     "longitude": 13.8445702,
-    "brand": "Renault;Dacia"
+    "brand": "Renault;Dacia",
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Pagro",
@@ -52,14 +70,18 @@
     "shop": "stationery",
     "latitude": 48.2293008,
     "longitude": 13.8411474,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Shoe4You",
     "retailer": "shoe4you",
     "shop": "shoes",
     "latitude": 48.226742,
-    "longitude": 13.8498056
+    "longitude": 13.8498056,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Turmöl Shop",
@@ -67,21 +89,33 @@
     "shop": "convenience",
     "latitude": 48.2269963,
     "longitude": 13.8434173,
-    "brand": "Turmöl"
+    "brand": "Turmöl",
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Werkzeug Fachmarkt",
     "retailer": "werkzeug_fachmarkt",
     "shop": "tools",
     "latitude": 48.2287946,
-    "longitude": 13.8409966
+    "longitude": 13.8409966,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wolfsteiner Schlüsseldienst & Sicherheitstechnik",
     "retailer": "wolfsteiner_schlusseldienst_und_sicherheitstechnik",
     "shop": "locksmith",
     "latitude": 48.2294021,
-    "longitude": 13.8406148
+    "longitude": 13.8406148,
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Würth",
@@ -89,6 +123,10 @@
     "shop": "hardware",
     "latitude": 48.2266702,
     "longitude": 13.8474119,
-    "brand": "Würth"
+    "brand": "Würth",
+    "postcode": "4710",
+    "city": "Grieskirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

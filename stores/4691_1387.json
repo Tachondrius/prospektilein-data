@@ -4,7 +4,10 @@
     "retailer": "genussladen",
     "shop": "convenience",
     "latitude": 46.9182168,
-    "longitude": 13.8734722
+    "longitude": 13.8734722,
+    "postcode": "9565",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intersport",
@@ -12,13 +15,17 @@
     "shop": "sports",
     "latitude": 46.9181687,
     "longitude": 13.873415,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stocklauser",
     "retailer": "stocklauser",
     "shop": "bakery",
     "latitude": 46.9174485,
-    "longitude": 13.8734479
+    "longitude": 13.8734479,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

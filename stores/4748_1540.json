@@ -5,13 +5,19 @@
     "shop": "convenience",
     "latitude": 47.4802015,
     "longitude": 15.4075386,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Volle Blüte",
     "retailer": "volle_blute",
     "shop": "florist",
     "latitude": 47.4815935,
-    "longitude": 15.4059855
+    "longitude": 15.4059855,
+    "postcode": "8643",
+    "city": "Kindberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

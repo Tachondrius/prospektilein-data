@@ -4,21 +4,29 @@
     "retailer": "backerei_lang",
     "shop": "bakery",
     "latitude": 47.4507712,
-    "longitude": 9.8350092
+    "longitude": 9.8350092,
+    "postcode": "6861",
+    "city": "Alberschwende",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "DM Drogeriemarkt",
     "retailer": "dm",
     "shop": "chemist",
     "latitude": 47.4508382,
-    "longitude": 9.8351384
+    "longitude": 9.8351384,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.450058,
-    "longitude": 9.8316541
+    "longitude": 9.8316541,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Hofer",
@@ -26,7 +34,11 @@
     "shop": "supermarket",
     "latitude": 47.4509221,
     "longitude": 9.8344743,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6861",
+    "city": "Alberschwende",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Intersport",
@@ -34,7 +46,11 @@
     "shop": "sports",
     "latitude": 47.4512246,
     "longitude": 9.8342183,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6861",
+    "city": "Alberschwende",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -42,20 +58,26 @@
     "shop": "supermarket",
     "latitude": 47.4514899,
     "longitude": 9.835325,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trafik Bereuter",
     "retailer": "trafik_bereuter",
     "shop": "kiosk",
     "latitude": 47.4501669,
-    "longitude": 9.8317036
+    "longitude": 9.8317036,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Wälderdrogerie Mitterberger",
     "retailer": "walderdrogerie_mitterberger",
     "shop": "cosmetics",
     "latitude": 47.4502766,
-    "longitude": 9.8316933
+    "longitude": 9.8316933,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

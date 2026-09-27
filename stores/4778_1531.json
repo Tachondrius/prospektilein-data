@@ -5,14 +5,20 @@
     "shop": "car",
     "latitude": 47.7827495,
     "longitude": 15.3105495,
-    "brand": "Volkswagen, Audi, Skoda"
+    "brand": "Volkswagen, Audi, Skoda",
+    "postcode": "8630",
+    "city": "Mariazell",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Declevas",
     "retailer": "declevas",
     "shop": "fishing",
     "latitude": 47.7808514,
-    "longitude": 15.3112153
+    "longitude": 15.3112153,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -20,6 +26,10 @@
     "shop": "supermarket",
     "latitude": 47.7834732,
     "longitude": 15.3102747,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8630",
+    "city": "Mariazell",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

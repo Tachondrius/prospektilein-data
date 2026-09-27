@@ -5,20 +5,32 @@
     "shop": "supermarket",
     "latitude": 48.0405134,
     "longitude": 16.2837753,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2352",
+    "city": "Gumpoldskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.0434015,
-    "longitude": 16.2817446
+    "longitude": 16.2817446,
+    "postcode": "2352",
+    "city": "Gumpoldskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Spätrot",
     "retailer": "weingut_spatrot",
     "shop": "wine",
     "latitude": 48.0452782,
-    "longitude": 16.2819747
+    "longitude": 16.2819747,
+    "postcode": "2352",
+    "city": "Gumpoldskirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "24h_automat_hofveitl",
     "shop": "vending_machine",
     "latitude": 47.0854295,
-    "longitude": 15.416975
+    "longitude": 15.416975,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,42 +16,64 @@
     "shop": "supermarket",
     "latitude": 47.0822915,
     "longitude": 15.4103046,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Delikateria",
     "retailer": "delikateria",
     "shop": "deli",
     "latitude": 47.0816557,
-    "longitude": 15.4110585
+    "longitude": 15.4110585,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleischerei Poparić",
     "retailer": "fleischerei_poparic",
     "shop": "butcher",
     "latitude": 47.0853982,
-    "longitude": 15.4189152
+    "longitude": 15.4189152,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fröbel Markt",
     "retailer": "frobel_markt",
     "shop": "convenience",
     "latitude": 47.0839038,
-    "longitude": 15.4192249
+    "longitude": 15.4192249,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gartenbau Friedl",
     "retailer": "gartenbau_friedl",
     "shop": "garden_centre",
     "latitude": 47.0874866,
-    "longitude": 15.4181156
+    "longitude": 15.4181156,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hali Büromöbel",
     "retailer": "hali_buromobel",
     "shop": "furniture",
     "latitude": 47.0833419,
-    "longitude": 15.4159745
+    "longitude": 15.4159745,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -55,7 +81,11 @@
     "shop": "supermarket",
     "latitude": 47.0814271,
     "longitude": 15.4120454,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -63,7 +93,11 @@
     "shop": "supermarket",
     "latitude": 47.0869034,
     "longitude": 15.418566,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Humanic Outlet",
@@ -71,21 +105,33 @@
     "shop": "shoes",
     "latitude": 47.0826749,
     "longitude": 15.4127533,
-    "brand": "Humanic"
+    "brand": "Humanic",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ Filla",
     "retailer": "kfz_filla",
     "shop": "car_repair",
     "latitude": 47.083785,
-    "longitude": 15.4120356
+    "longitude": 15.4120356,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kultstein Musterpark Graz",
     "retailer": "kultstein_musterpark_graz",
     "shop": "trade",
     "latitude": 47.0815441,
-    "longitude": 15.4143294
+    "longitude": 15.4143294,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -93,7 +139,11 @@
     "shop": "supermarket",
     "latitude": 47.0894129,
     "longitude": 15.4108286,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Polestar Space Graz",
@@ -101,28 +151,44 @@
     "shop": "car",
     "latitude": 47.0807596,
     "longitude": 15.4115165,
-    "brand": "Polestar"
+    "brand": "Polestar",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reifen Weichberger",
     "retailer": "reifen_weichberger",
     "shop": "tyres",
     "latitude": 47.0823708,
-    "longitude": 15.415889
+    "longitude": 15.415889,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Revolution Tattoo",
     "retailer": "revolution_tattoo",
     "shop": "tattoo",
     "latitude": 47.0878251,
-    "longitude": 15.4120361
+    "longitude": 15.4120361,
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sorger",
     "retailer": "sorger",
     "shop": "bakery",
     "latitude": 47.0813489,
-    "longitude": 15.4102821
+    "longitude": 15.4102821,
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -130,20 +196,30 @@
     "shop": "supermarket",
     "latitude": 47.0879544,
     "longitude": 15.4189527,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8020",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zoo Muser",
     "retailer": "zoo_muser",
     "shop": "pet",
     "latitude": 47.0881716,
-    "longitude": 15.4123521
+    "longitude": 15.4123521,
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Österreichischer Werkzeugmarkt",
     "retailer": "osterreichischer_werkzeugmarkt",
     "shop": "hardware",
     "latitude": 47.0883549,
-    "longitude": 15.4120657
+    "longitude": 15.4120657,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

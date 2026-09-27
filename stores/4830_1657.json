@@ -4,7 +4,9 @@
     "retailer": "berger_fleisch",
     "shop": "supermarket",
     "latitude": 48.3041371,
-    "longitude": 16.5784561
+    "longitude": 16.5784561,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Plus",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 48.3039594,
     "longitude": 16.5742933,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "2232",
+    "city": "Deutsch-Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -20,7 +26,11 @@
     "shop": "chemist",
     "latitude": 48.3047787,
     "longitude": 16.5748052,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2232",
+    "city": "Deutsch-Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Das Futterhaus",
@@ -28,14 +38,22 @@
     "shop": "pet",
     "latitude": 48.3047803,
     "longitude": 16.5767789,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "2232",
+    "city": "Deutsch-Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fally Sitzmöbel GmbH",
     "retailer": "fally_sitzmobel_gmbh",
     "shop": "furniture",
     "latitude": 48.3046979,
-    "longitude": 16.5742803
+    "longitude": 16.5742803,
+    "postcode": "2232",
+    "city": "Deutsch-Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -43,7 +61,11 @@
     "shop": "supermarket",
     "latitude": 48.3035777,
     "longitude": 16.5771952,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2232",
+    "city": "Deutsch-Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -51,14 +73,20 @@
     "shop": "clothes",
     "latitude": 48.3042325,
     "longitude": 16.578252,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.301459,
-    "longitude": 16.571853
+    "longitude": 16.571853,
+    "postcode": "2232",
+    "city": "Deutsch-Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Libro",
@@ -66,7 +94,9 @@
     "shop": "books",
     "latitude": 48.3047874,
     "longitude": 16.5765274,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lidl",
@@ -74,7 +104,11 @@
     "shop": "supermarket",
     "latitude": 48.3047619,
     "longitude": 16.5756827,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "2232",
+    "city": "Deutsch-Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mazda Vock & Seiter GmbH",
@@ -82,7 +116,11 @@
     "shop": "car",
     "latitude": 48.3022969,
     "longitude": 16.5767004,
-    "brand": "Mazda"
+    "brand": "Mazda",
+    "postcode": "2232",
+    "city": "Deutsch-Wagram",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Takko",
@@ -90,6 +128,8 @@
     "shop": "clothes",
     "latitude": 48.3040595,
     "longitude": 16.5785658,
-    "brand": "Takko"
+    "brand": "Takko",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

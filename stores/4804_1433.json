@@ -5,27 +5,35 @@
     "shop": "supermarket",
     "latitude": 48.0471375,
     "longitude": 14.33368,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Haarstudio Silvia Mülleder",
     "retailer": "haarstudio_silvia_mulleder",
     "shop": "hairdresser",
     "latitude": 48.0483488,
-    "longitude": 14.3355642
+    "longitude": 14.3355642,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.0464146,
-    "longitude": 14.3331221
+    "longitude": 14.3331221,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.0462596,
-    "longitude": 14.3330105
+    "longitude": 14.3330105,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

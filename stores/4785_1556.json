@@ -4,28 +4,38 @@
     "retailer": "bauernladen",
     "shop": "farm",
     "latitude": 47.8535629,
-    "longitude": 15.5629145
+    "longitude": 15.5629145,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bunter Ladem",
     "retailer": "bunter_ladem",
     "shop": "general",
     "latitude": 47.8536495,
-    "longitude": 15.5633687
+    "longitude": 15.5633687,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Franz Hajszan",
     "retailer": "gartnerei_franz_hajszan",
     "shop": "florist",
     "latitude": 47.8536632,
-    "longitude": 15.5608159
+    "longitude": 15.5608159,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schagerl & Lielacher",
     "retailer": "schagerl_und_lielacher",
     "shop": "car",
     "latitude": 47.853584,
-    "longitude": 15.5673051
+    "longitude": 15.5673051,
+    "postcode": "3193",
+    "city": "St.Aegyd am Neuwalde",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -33,13 +43,19 @@
     "shop": "supermarket",
     "latitude": 47.8533585,
     "longitude": 15.5658722,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3193",
+    "city": "St. Aegyd am Neuwalde",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik und Zeitschriften Pfeffer",
     "retailer": "trafik_und_zeitschriften_pfeffer",
     "shop": "newsagent",
     "latitude": 47.853509,
-    "longitude": 15.5616379
+    "longitude": 15.5616379,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "ad_autodienst_schnabl",
     "shop": "car_repair",
     "latitude": 46.5878455,
-    "longitude": 13.6192172
+    "longitude": 13.6192172,
+    "postcode": "9611",
+    "city": "Nötsch im Gailtal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -12,13 +16,19 @@
     "shop": "supermarket",
     "latitude": 46.5827346,
     "longitude": 13.6114007,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 46.5865692,
-    "longitude": 13.6134013
+    "longitude": 13.6134013,
+    "postcode": "9611",
+    "city": "Nötsch im Gailtal",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

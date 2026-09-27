@@ -4,21 +4,29 @@
     "retailer": "fleischer_wutti",
     "shop": "butcher",
     "latitude": 47.3068247,
-    "longitude": 14.9378754
+    "longitude": 14.9378754,
+    "postcode": "8714",
+    "city": "Kraubath an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gruber",
     "retailer": "gruber",
     "shop": "bakery",
     "latitude": 47.3064726,
-    "longitude": 14.9376672
+    "longitude": 14.9376672,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Marianne Rogner",
     "retailer": "marianne_rogner",
     "shop": "massage",
     "latitude": 47.3068764,
-    "longitude": 14.9382124
+    "longitude": 14.9382124,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nah & Frisch",
@@ -26,6 +34,10 @@
     "shop": "supermarket",
     "latitude": 47.3073556,
     "longitude": 14.935065,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "8714",
+    "city": "Kraubath an der Mur",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

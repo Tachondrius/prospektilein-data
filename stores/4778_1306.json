@@ -4,14 +4,18 @@
     "retailer": "bubblepoint_waschsalon",
     "shop": "laundry",
     "latitude": 47.7865549,
-    "longitude": 13.0660547
+    "longitude": 13.0660547,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "carla",
     "retailer": "carla",
     "shop": "second_hand",
     "latitude": 47.7856333,
-    "longitude": 13.0644722
+    "longitude": 13.0644722,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Denns BioMarkt",
@@ -19,7 +23,11 @@
     "shop": "supermarket",
     "latitude": 47.7815776,
     "longitude": 13.0679972,
-    "brand": "Denns BioMarkt"
+    "brand": "Denns BioMarkt",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -27,21 +35,29 @@
     "shop": "chemist",
     "latitude": 47.7864934,
     "longitude": 13.0656936,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Dry Cleaning",
     "retailer": "shop_dry_cleaning",
     "shop": "dry_cleaning",
     "latitude": 47.786311,
-    "longitude": 13.0656548
+    "longitude": 13.0656548,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Eni Cafe & Shop",
     "retailer": "eni_cafe_und_shop",
     "shop": "convenience",
     "latitude": 47.7836804,
-    "longitude": 13.0665691
+    "longitude": 13.0665691,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Eurospar",
@@ -49,21 +65,27 @@
     "shop": "supermarket",
     "latitude": 47.7861618,
     "longitude": 13.0652802,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "evil eye",
     "retailer": "evil_eye",
     "shop": "optician",
     "latitude": 47.7865117,
-    "longitude": 13.0655967
+    "longitude": 13.0655967,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Geo Reisen",
     "retailer": "geo_reisen",
     "shop": "travel_agency",
     "latitude": 47.7862679,
-    "longitude": 13.0661884
+    "longitude": 13.0661884,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -71,7 +93,9 @@
     "shop": "supermarket",
     "latitude": 47.7864686,
     "longitude": 13.0655342,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Jaguar Salzburg",
@@ -79,7 +103,11 @@
     "shop": "car",
     "latitude": 47.7853067,
     "longitude": 13.0669871,
-    "brand": "Jaguar"
+    "brand": "Jaguar",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KiK",
@@ -87,7 +115,9 @@
     "shop": "clothes",
     "latitude": 47.7817431,
     "longitude": 13.0682738,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Land Rover Salzburg",
@@ -95,35 +125,51 @@
     "shop": "car",
     "latitude": 47.7854579,
     "longitude": 13.0669566,
-    "brand": "Land Rover"
+    "brand": "Land Rover",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "M&M",
     "retailer": "m_und_m",
     "shop": "bicycle",
     "latitude": 47.7885338,
-    "longitude": 13.0638347
+    "longitude": 13.0638347,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Manfred Kühleitner",
     "retailer": "manfred_kuhleitner",
     "shop": "hairdresser",
     "latitude": 47.7878598,
-    "longitude": 13.064294
+    "longitude": 13.064294,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "midia",
     "retailer": "midia",
     "shop": "tailor",
     "latitude": 47.7865031,
-    "longitude": 13.0655069
+    "longitude": 13.0655069,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Radsport Ebner",
     "retailer": "radsport_ebner",
     "shop": "bicycle",
     "latitude": 47.7846019,
-    "longitude": 13.0649484
+    "longitude": 13.0649484,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "shoe4you",
@@ -131,34 +177,46 @@
     "shop": "shoes",
     "latitude": 47.781039,
     "longitude": 13.0681364,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "tobacco",
     "latitude": 47.7862775,
-    "longitude": 13.0656674
+    "longitude": 13.0656674,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Wein & CO",
     "retailer": "wein_und_co",
     "shop": "alcohol",
     "latitude": 47.7864101,
-    "longitude": 13.0666796
+    "longitude": 13.0666796,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Wohnfühlen Wieder",
     "retailer": "wohnfuhlen_wieder",
     "shop": "interior_decoration",
     "latitude": 47.7893075,
-    "longitude": 13.0656038
+    "longitude": 13.0656038,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Zentrum Herrnau",
     "retailer": "zentrum_herrnau",
     "shop": "mall",
     "latitude": 47.7863406,
-    "longitude": 13.0657522
+    "longitude": 13.0657522,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -5,20 +5,30 @@
     "shop": "supermarket",
     "latitude": 47.9831667,
     "longitude": 14.7507634,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3333",
+    "city": "Böhlerwerk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "raum + möbel gmbh",
     "retailer": "raum_plus_mobel_gmbh",
     "shop": "furniture",
     "latitude": 47.984989,
-    "longitude": 14.7503342
+    "longitude": 14.7503342,
+    "postcode": "3333",
+    "city": "Böhlerwerk",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wimpernstudio LaSu",
     "retailer": "wimpernstudio_lasu",
     "shop": "beauty",
     "latitude": 47.9807035,
-    "longitude": 14.7501176
+    "longitude": 14.7501176,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

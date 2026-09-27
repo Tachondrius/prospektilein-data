@@ -4,7 +4,11 @@
     "retailer": "friseurfeeling_andrea",
     "shop": "hairdresser",
     "latitude": 46.5614709,
-    "longitude": 13.8152537
+    "longitude": 13.8152537,
+    "postcode": "9586",
+    "city": "Fürnitz",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -12,13 +16,21 @@
     "shop": "supermarket",
     "latitude": 46.5666822,
     "longitude": 13.8102983,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9586",
+    "city": "Fürnitz",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Trafik Warum",
     "retailer": "trafik_warum",
     "shop": "tobacco",
     "latitude": 46.5614956,
-    "longitude": 13.8174949
+    "longitude": 13.8174949,
+    "postcode": "9586",
+    "city": "Fürnitz",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

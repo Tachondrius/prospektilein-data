@@ -4,21 +4,31 @@
     "retailer": "autohaus_alpbachtal",
     "shop": "car",
     "latitude": 47.4132049,
-    "longitude": 11.8855023
+    "longitude": 11.8855023,
+    "postcode": "6235",
+    "city": "Reith im Alpbachtal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
     "retailer": "baguette",
     "shop": "bakery",
     "latitude": 47.4146968,
-    "longitude": 11.8818998
+    "longitude": 11.8818998,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "H&N",
     "retailer": "h_und_n",
     "shop": "sports",
     "latitude": 47.4145868,
-    "longitude": 11.8805407
+    "longitude": 11.8805407,
+    "postcode": "6235",
+    "city": "Reith im Alpbachtal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -26,6 +36,10 @@
     "shop": "supermarket",
     "latitude": 47.4148653,
     "longitude": 11.8820673,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6235",
+    "city": "Reith im Alpbachtal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

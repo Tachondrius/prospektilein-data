@@ -4,7 +4,11 @@
     "retailer": "die_neuen",
     "shop": "bathroom_furnishing",
     "latitude": 47.2787485,
-    "longitude": 15.5166839
+    "longitude": 15.5166839,
+    "postcode": "8162",
+    "city": "Passail",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,13 +16,21 @@
     "shop": "supermarket",
     "latitude": 47.2784208,
     "longitude": 15.512885,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8162",
+    "city": "Passail",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ÖBAU Reisinger",
     "retailer": "obau_reisinger",
     "shop": "doityourself",
     "latitude": 47.2789272,
-    "longitude": 15.5155124
+    "longitude": 15.5155124,
+    "postcode": "8162",
+    "city": "Passail",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

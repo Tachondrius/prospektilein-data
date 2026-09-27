@@ -4,7 +4,10 @@
     "retailer": "autoteile_benorus_e_u",
     "shop": "car_parts",
     "latitude": 47.7336924,
-    "longitude": 16.0882577
+    "longitude": 16.0882577,
+    "postcode": "2620",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,20 +15,30 @@
     "shop": "supermarket",
     "latitude": 47.7335776,
     "longitude": 16.085521,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Histo-Tech",
     "retailer": "histo_tech",
     "shop": "car_repair",
     "latitude": 47.7311181,
-    "longitude": 16.085933
+    "longitude": 16.085933,
+    "postcode": "2620",
+    "city": "Neunkirchen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Taufer Leuchtenbau",
     "retailer": "taufer_leuchtenbau",
     "shop": "lighting",
     "latitude": 47.7312952,
-    "longitude": 16.0865922
+    "longitude": 16.0865922,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

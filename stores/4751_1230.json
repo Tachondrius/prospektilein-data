@@ -4,7 +4,9 @@
     "retailer": "24_7",
     "shop": "bookmaker",
     "latitude": 47.5136343,
-    "longitude": 12.3018127
+    "longitude": 12.3018127,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,21 +14,29 @@
     "shop": "bakery",
     "latitude": 47.5147836,
     "longitude": 12.3070007,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6352",
+    "city": "Ellmau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bianca‘s Berg-Shop",
     "retailer": "biancas_berg_shop",
     "shop": "sports",
     "latitude": 47.5137262,
-    "longitude": 12.3046197
+    "longitude": 12.3046197,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bianca‘s SportShop",
     "retailer": "biancas_sportshop",
     "shop": "rental",
     "latitude": 47.5137413,
-    "longitude": 12.3047705
+    "longitude": 12.3047705,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -34,7 +44,11 @@
     "shop": "supermarket",
     "latitude": 47.5139164,
     "longitude": 12.3050874,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6352",
+    "city": "Ellmau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -42,49 +56,67 @@
     "shop": "chemist",
     "latitude": 47.5134367,
     "longitude": 12.3035684,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6352",
+    "city": "Ellmau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dahoam",
     "retailer": "dahoam",
     "shop": "jewelry",
     "latitude": 47.5131628,
-    "longitude": 12.3015068
+    "longitude": 12.3015068,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dorfbäckerei Steinbacher",
     "retailer": "dorfbackerei_steinbacher",
     "shop": "bakery",
     "latitude": 47.5135429,
-    "longitude": 12.304405
+    "longitude": 12.304405,
+    "postcode": "6352",
+    "city": "Ellmau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eschlböck‘s Blumenstube",
     "retailer": "eschlbocks_blumenstube",
     "shop": "florist",
     "latitude": 47.5137539,
-    "longitude": 12.3017906
+    "longitude": 12.3017906,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Freysinger",
     "retailer": "freysinger",
     "shop": "electronics",
     "latitude": 47.5140378,
-    "longitude": 12.3011657
+    "longitude": 12.3011657,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "G‘wandstuben",
     "retailer": "gwandstuben",
     "shop": "clothes",
     "latitude": 47.5137372,
-    "longitude": 12.3045274
+    "longitude": 12.3045274,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Haunold",
     "retailer": "haunold",
     "shop": "clothes",
     "latitude": 47.5140051,
-    "longitude": 12.3061823
+    "longitude": 12.3061823,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Intersport",
@@ -92,14 +124,18 @@
     "shop": "sports",
     "latitude": 47.5142725,
     "longitude": 12.3008553,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Käserei Widauer",
     "retailer": "kaserei_widauer",
     "shop": "cheese",
     "latitude": 47.5135124,
-    "longitude": 12.3046017
+    "longitude": 12.3046017,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -107,35 +143,47 @@
     "shop": "supermarket",
     "latitude": 47.5149825,
     "longitude": 12.306797,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6352",
+    "city": "Ellmau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pircher Moden",
     "retailer": "pircher_moden",
     "shop": "clothes",
     "latitude": 47.5136766,
-    "longitude": 12.3028833
+    "longitude": 12.3028833,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Red Zac Hochfilzer",
     "retailer": "red_zac_hochfilzer",
     "shop": "electronics",
     "latitude": 47.5135212,
-    "longitude": 12.3055435
+    "longitude": 12.3055435,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuh & Sport Günther",
     "retailer": "schuh_und_sport_gunther",
     "shop": "outdoor",
     "latitude": 47.5139501,
-    "longitude": 12.3037559
+    "longitude": 12.3037559,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Souvenir - Jochum - Textil",
     "retailer": "souvenir_jochum_textil",
     "shop": "gift",
     "latitude": 47.5137462,
-    "longitude": 12.3031159
+    "longitude": 12.3031159,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport 2000",
@@ -143,27 +191,37 @@
     "shop": "sports",
     "latitude": 47.5133089,
     "longitude": 12.3064198,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "6352",
+    "city": "Ellmau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Unterainer",
     "retailer": "unterainer",
     "shop": "clothes",
     "latitude": 47.5138831,
-    "longitude": 12.3058572
+    "longitude": 12.3058572,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "WALTERS",
     "retailer": "walters",
     "shop": "clothes",
     "latitude": 47.5132651,
-    "longitude": 12.3024715
+    "longitude": 12.3024715,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wohnraum - Cafe & Vinothek",
     "retailer": "wohnraum_cafe_und_vinothek",
     "shop": "interior_decoration",
     "latitude": 47.5143549,
-    "longitude": 12.3065764
+    "longitude": 12.3065764,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

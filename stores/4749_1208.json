@@ -4,35 +4,51 @@
     "retailer": "autocenter_muhlbacher",
     "shop": "car",
     "latitude": 47.4950188,
-    "longitude": 12.0878067
+    "longitude": 12.0878067,
+    "postcode": "6322",
+    "city": "Kirchbichl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Brunner",
     "retailer": "brunner",
     "shop": "car",
     "latitude": 47.4944296,
-    "longitude": 12.0845623
+    "longitude": 12.0845623,
+    "postcode": "6322",
+    "city": "Kirchbichl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Microcars & Bikes",
     "retailer": "microcars_und_bikes",
     "shop": "car",
     "latitude": 47.4924159,
-    "longitude": 12.0825574
+    "longitude": 12.0825574,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "multimedia-haus.at",
     "retailer": "multimedia_haus_at",
     "shop": "hifi",
     "latitude": 47.4996868,
-    "longitude": 12.0821152
+    "longitude": 12.0821152,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tirol Milch Markt",
     "retailer": "tirol_milch_markt",
     "shop": "dairy",
     "latitude": 47.4909122,
-    "longitude": 12.0842233
+    "longitude": 12.0842233,
+    "postcode": "6300",
+    "city": "Wörgl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth",
@@ -40,13 +56,21 @@
     "shop": "hardware",
     "latitude": 47.496331,
     "longitude": 12.080792,
-    "brand": "Würth"
+    "brand": "Würth",
+    "postcode": "6322",
+    "city": "Kirchbichl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "X-Rider",
     "retailer": "x_rider",
     "shop": "bicycle",
     "latitude": 47.4939053,
-    "longitude": 12.0805856
+    "longitude": 12.0805856,
+    "postcode": "6322",
+    "city": "Kirchbichl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

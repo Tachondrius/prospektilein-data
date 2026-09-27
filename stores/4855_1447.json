@@ -4,7 +4,11 @@
     "retailer": "baeckerei_cafe_scherb",
     "shop": "bakery",
     "latitude": 48.5576865,
-    "longitude": 14.4782765
+    "longitude": 14.4782765,
+    "postcode": "4261",
+    "city": "Rainbach im Mühlkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -12,13 +16,17 @@
     "shop": "supermarket",
     "latitude": 48.5582977,
     "longitude": 14.4766644,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.5582746,
-    "longitude": 14.4771401
+    "longitude": 14.4771401,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

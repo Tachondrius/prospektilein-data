@@ -4,14 +4,21 @@
     "retailer": "autobelehnung_hafner",
     "shop": "pawnbroker",
     "latitude": 47.8081351,
-    "longitude": 16.2438011
+    "longitude": 16.2438011,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "BestDrive",
     "retailer": "bestdrive",
     "shop": "car_repair",
     "latitude": 47.8031786,
-    "longitude": 16.240226
+    "longitude": 16.240226,
+    "postcode": "2700",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen B&B",
@@ -19,7 +26,11 @@
     "shop": "florist",
     "latitude": 47.8080081,
     "longitude": 16.2437227,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -27,14 +38,20 @@
     "shop": "chemist",
     "latitude": 47.8029166,
     "longitude": 16.240789,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.8082401,
-    "longitude": 16.2438588
+    "longitude": 16.2438588,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -42,20 +59,32 @@
     "shop": "supermarket",
     "latitude": 47.8026404,
     "longitude": 16.2410892,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Reifen Sipser",
     "retailer": "reifen_sipser",
     "shop": "car_repair",
     "latitude": 47.8068915,
-    "longitude": 16.2404636
+    "longitude": 16.2404636,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tabak-Trafik Feldhofer",
     "retailer": "tabak_trafik_feldhofer",
     "shop": "kiosk",
     "latitude": 47.8088814,
-    "longitude": 16.2437086
+    "longitude": 16.2437086,
+    "postcode": "2700",
+    "city": "Wiener Neustadt",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,20 +4,28 @@
     "retailer": "alte_schmiede",
     "shop": "wine",
     "latitude": 48.5195867,
-    "longitude": 15.6976489
+    "longitude": 15.6976489,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Nah & Frisch",
     "retailer": "nah_und_frisch",
     "shop": "supermarket",
     "latitude": 48.5163183,
-    "longitude": 15.6962771
+    "longitude": 15.6962771,
+    "postcode": "3562",
+    "city": "Schönberg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Straußenland Shop",
     "retailer": "strauenland_shop",
     "shop": "farm",
     "latitude": 48.5144922,
-    "longitude": 15.693188
+    "longitude": 15.693188,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

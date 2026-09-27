@@ -4,7 +4,9 @@
     "retailer": "bike_garage_plus",
     "shop": "sports",
     "latitude": 47.576937,
-    "longitude": 12.4734984
+    "longitude": 12.4734984,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Die Elektroprofis",
@@ -12,13 +14,19 @@
     "shop": "electronics",
     "latitude": 47.5771788,
     "longitude": 12.4734265,
-    "brand": "Photovoltaik"
+    "brand": "Photovoltaik",
+    "postcode": "6383",
+    "city": "Kirchdorf in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 47.5763034,
-    "longitude": 12.4768359
+    "longitude": 12.4768359,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

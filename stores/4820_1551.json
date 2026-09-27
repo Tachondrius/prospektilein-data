@@ -4,28 +4,44 @@
     "retailer": "diesel_shop",
     "shop": "car",
     "latitude": 48.209907,
-    "longitude": 15.5149041
+    "longitude": 15.5149041,
+    "postcode": "3386",
+    "city": "Hafnerbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Friseurstudio Petra",
     "retailer": "friseurstudio_petra",
     "shop": "hairdresser",
     "latitude": 48.2020337,
-    "longitude": 15.5130227
+    "longitude": 15.5130227,
+    "postcode": "3385",
+    "city": "Prinzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Raslan",
     "retailer": "kfz_raslan",
     "shop": "car_repair",
     "latitude": 48.2087362,
-    "longitude": 15.5171773
+    "longitude": 15.5171773,
+    "postcode": "3385",
+    "city": "Prinzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Marktplatzl",
     "retailer": "marktplatzl",
     "shop": "farm",
     "latitude": 48.2010836,
-    "longitude": 15.5123417
+    "longitude": 15.5123417,
+    "postcode": "3385",
+    "city": "Prinzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -33,6 +49,10 @@
     "shop": "supermarket",
     "latitude": 48.2023342,
     "longitude": 15.5135147,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3385",
+    "city": "Prinzersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

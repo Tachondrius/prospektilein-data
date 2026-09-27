@@ -4,28 +4,38 @@
     "retailer": "friseur_mayr",
     "shop": "hairdresser",
     "latitude": 48.4159592,
-    "longitude": 14.6121637
+    "longitude": 14.6121637,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiesenhofer",
     "retailer": "kiesenhofer",
     "shop": "bakery",
     "latitude": 48.4168533,
-    "longitude": 14.6126401
+    "longitude": 14.6126401,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reisinger",
     "retailer": "reisinger",
     "shop": "bakery",
     "latitude": 48.416361,
-    "longitude": 14.6125186
+    "longitude": 14.6125186,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schuhe Brückler",
     "retailer": "schuhe_bruckler",
     "shop": "shoes",
     "latitude": 48.4174502,
-    "longitude": 14.6127064
+    "longitude": 14.6127064,
+    "postcode": "4293",
+    "city": "Gutau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -33,6 +43,8 @@
     "shop": "supermarket",
     "latitude": 48.4171898,
     "longitude": 14.6126195,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

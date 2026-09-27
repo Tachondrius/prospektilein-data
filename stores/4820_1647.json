@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 48.2019172,
     "longitude": 16.4737241,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "tobacco",
     "latitude": 48.2017789,
-    "longitude": 16.4744527
+    "longitude": 16.4744527,
+    "postcode": "1220",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 47.407271,
-    "longitude": 16.4180022
+    "longitude": 16.4180022,
+    "postcode": "7442",
+    "city": "Lockenhaus",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Billa",
@@ -12,20 +16,32 @@
     "shop": "supermarket",
     "latitude": 47.4078124,
     "longitude": 16.4187667,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7442",
+    "city": "Lockenhaus",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Butcher",
     "retailer": "shop_butcher",
     "shop": "butcher",
     "latitude": 47.407441,
-    "longitude": 16.4180537
+    "longitude": 16.4180537,
+    "postcode": "7442",
+    "city": "Lockenhaus",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 47.4071071,
-    "longitude": 16.4179717
+    "longitude": 16.4179717,
+    "postcode": "7442",
+    "city": "Lockenhaus",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

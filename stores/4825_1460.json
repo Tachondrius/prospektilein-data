@@ -4,13 +4,19 @@
     "retailer": "bauernhof_holzer",
     "shop": "farm",
     "latitude": 48.2551957,
-    "longitude": 14.6055816
+    "longitude": 14.6055816,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Weinbau Gmeiner",
     "retailer": "weinbau_gmeiner",
     "shop": "wine",
     "latitude": 48.2547013,
-    "longitude": 14.6045593
+    "longitude": 14.6045593,
+    "postcode": "4320",
+    "city": "Perg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

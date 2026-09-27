@@ -4,20 +4,28 @@
     "retailer": "hagebau",
     "shop": "trade",
     "latitude": 47.3902051,
-    "longitude": 11.7645378
+    "longitude": 11.7645378,
+    "postcode": "6200",
+    "city": "Jenbach",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tattoo",
     "retailer": "shop_tattoo",
     "shop": "tattoo",
     "latitude": 47.3920408,
-    "longitude": 11.7698225
+    "longitude": 11.7698225,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Huber",
     "retailer": "trafik_huber",
     "shop": "kiosk",
     "latitude": 47.3917491,
-    "longitude": 11.768713
+    "longitude": 11.768713,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

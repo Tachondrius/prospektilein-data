@@ -4,14 +4,21 @@
     "retailer": "autohaus_hetzendorf",
     "shop": "car_repair",
     "latitude": 48.1616431,
-    "longitude": 16.3237423
+    "longitude": 16.3237423,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 48.165713,
-    "longitude": 16.3257668
+    "longitude": 16.3257668,
+    "postcode": "1120",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -19,7 +26,9 @@
     "shop": "supermarket",
     "latitude": 48.1685499,
     "longitude": 16.3259259,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -27,7 +36,11 @@
     "shop": "chemist",
     "latitude": 48.1641955,
     "longitude": 16.3235588,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ece Butik",
@@ -35,28 +48,38 @@
     "shop": "convenience",
     "latitude": 48.1602839,
     "longitude": 16.3289454,
-    "brand": "Shop & Go"
+    "brand": "Shop & Go",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Foodpoint Meidling",
     "retailer": "foodpoint_meidling",
     "shop": "convenience",
     "latitude": 48.1642344,
-    "longitude": 16.3292605
+    "longitude": 16.3292605,
+    "postcode": "1120",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.1603293,
-    "longitude": 16.3280452
+    "longitude": 16.3280452,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Le Figaro",
     "retailer": "le_figaro",
     "shop": "hairdresser",
     "latitude": 48.1658833,
-    "longitude": 16.3275927
+    "longitude": 16.3275927,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -64,7 +87,9 @@
     "shop": "supermarket",
     "latitude": 48.1603407,
     "longitude": 16.3284739,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -72,34 +97,44 @@
     "shop": "supermarket",
     "latitude": 48.1640743,
     "longitude": 16.323421,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Risano",
     "retailer": "risano",
     "shop": "houseware",
     "latitude": 48.1685578,
-    "longitude": 16.3203019
+    "longitude": 16.3203019,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Schwarz",
     "retailer": "schwarz",
     "shop": "bakery",
     "latitude": 48.1656593,
-    "longitude": 16.3260194
+    "longitude": 16.3260194,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik Bestereimer",
     "retailer": "tabak_trafik_bestereimer",
     "shop": "kiosk",
     "latitude": 48.164285,
-    "longitude": 16.3236817
+    "longitude": 16.3236817,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.1693587,
-    "longitude": 16.3258097
+    "longitude": 16.3258097,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

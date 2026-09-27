@@ -5,20 +5,30 @@
     "shop": "bakery",
     "latitude": 46.9712622,
     "longitude": 15.3434548,
-    "brand": "Martin Auer"
+    "brand": "Martin Auer",
+    "postcode": "8501",
+    "city": "Lieboch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Positionsanalyse-Radfachhandel Andreas Knapp",
     "retailer": "positionsanalyse_radfachhandel_andreas_knapp",
     "shop": "bicycle",
     "latitude": 46.9710575,
-    "longitude": 15.3413413
+    "longitude": 15.3413413,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Skinwalker Tattoo",
     "retailer": "skinwalker_tattoo",
     "shop": "tattoo",
     "latitude": 46.9712232,
-    "longitude": 15.3428543
+    "longitude": 15.3428543,
+    "postcode": "8501",
+    "city": "Lieboch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

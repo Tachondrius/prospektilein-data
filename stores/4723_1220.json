@@ -4,20 +4,30 @@
     "retailer": "nothdurfter",
     "shop": "car_repair",
     "latitude": 47.2389514,
-    "longitude": 12.2027421
+    "longitude": 12.2027421,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pinzga Speckdorf",
     "retailer": "pinzga_speckdorf",
     "shop": "gift",
     "latitude": 47.2384361,
-    "longitude": 12.2007786
+    "longitude": 12.2007786,
+    "postcode": "5742",
+    "city": "Wald im Pinzgau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pinzga Speckdorf",
     "retailer": "pinzga_speckdorf",
     "shop": "butcher",
     "latitude": 47.2385275,
-    "longitude": 12.2010754
+    "longitude": 12.2010754,
+    "postcode": "5742",
+    "city": "Wald im Pinzgau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

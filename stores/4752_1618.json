@@ -4,14 +4,20 @@
     "retailer": "baumaschinenverleih_franz_lackner",
     "shop": "plant_hire",
     "latitude": 47.5250674,
-    "longitude": 16.1883353
+    "longitude": 16.1883353,
+    "postcode": "2851",
+    "city": "Krumbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.5267265,
-    "longitude": 16.1873533
+    "longitude": 16.1873533,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Mobilitätscenter",
@@ -19,13 +25,17 @@
     "shop": "car",
     "latitude": 47.5266395,
     "longitude": 16.1871924,
-    "brand": "Seat;Skoda;Ford"
+    "brand": "Seat;Skoda;Ford",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tyres",
     "retailer": "shop_tyres",
     "shop": "tyres",
     "latitude": 47.5271831,
-    "longitude": 16.1864848
+    "longitude": 16.1864848,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

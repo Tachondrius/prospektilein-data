@@ -4,28 +4,38 @@
     "retailer": "shop_farm",
     "shop": "farm",
     "latitude": 47.2542054,
-    "longitude": 11.2750531
+    "longitude": 11.2750531,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer Technik GmbH",
     "retailer": "hofer",
     "shop": "computer",
     "latitude": 47.2595855,
-    "longitude": 11.2725815
+    "longitude": 11.2725815,
+    "postcode": "6175",
+    "city": "Kematen in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.2575545,
-    "longitude": 11.2757773
+    "longitude": 11.2757773,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lamprecht",
     "retailer": "lamprecht",
     "shop": "hairdresser",
     "latitude": 47.2521105,
-    "longitude": 11.2712278
+    "longitude": 11.2712278,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS miniM",
@@ -33,20 +43,31 @@
     "shop": "supermarket",
     "latitude": 47.2556394,
     "longitude": 11.2715394,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6175",
+    "city": "Kematen in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Oberlotter Hof",
     "retailer": "oberlotter_hof",
     "shop": "farm",
     "latitude": 47.2537818,
-    "longitude": 11.2709321
+    "longitude": 11.2709321,
+    "city": "Kematen in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Team Sport Kematen",
     "retailer": "team_sport_kematen",
     "shop": "sports",
     "latitude": 47.2576132,
-    "longitude": 11.2721041
+    "longitude": 11.2721041,
+    "postcode": "6175",
+    "city": "Kematen in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

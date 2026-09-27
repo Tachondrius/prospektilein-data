@@ -5,7 +5,10 @@
     "shop": "car",
     "latitude": 46.7304262,
     "longitude": 15.298496,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "8544",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -13,13 +16,19 @@
     "shop": "supermarket",
     "latitude": 46.7301328,
     "longitude": 15.2965767,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8544",
+    "city": "Pölfing-Brunn",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.7308672,
-    "longitude": 15.2989919
+    "longitude": 15.2989919,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

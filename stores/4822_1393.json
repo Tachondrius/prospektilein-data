@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 48.2288188,
     "longitude": 13.936499,
-    "brand": "VW;Audi"
+    "brand": "VW;Audi",
+    "postcode": "4702",
+    "city": "Wallern an der Trattnach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -13,7 +17,9 @@
     "shop": "supermarket",
     "latitude": 48.2282315,
     "longitude": 13.9349262,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Rosenauer",
@@ -21,13 +27,21 @@
     "shop": "car",
     "latitude": 48.2237667,
     "longitude": 13.9340581,
-    "brand": "Opel;Suzuki"
+    "brand": "Opel;Suzuki",
+    "postcode": "4702",
+    "city": "Wallern an der Trattnach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sedda Modellschau (Schauraum)",
     "retailer": "sedda_modellschau_schauraum",
     "shop": "furniture",
     "latitude": 48.2269402,
-    "longitude": 13.9369538
+    "longitude": 13.9369538,
+    "postcode": "4702",
+    "city": "Wallern an der Trattnach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

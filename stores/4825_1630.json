@@ -4,7 +4,11 @@
     "retailer": "beranek",
     "shop": "car_repair",
     "latitude": 48.2509393,
-    "longitude": 16.3047378
+    "longitude": 16.3047378,
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,13 +16,21 @@
     "shop": "supermarket",
     "latitude": 48.2506593,
     "longitude": 16.3066546,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Salon Raphaela Benedikt",
     "retailer": "salon_raphaela_benedikt",
     "shop": "beauty",
     "latitude": 48.2507467,
-    "longitude": 16.3059161
+    "longitude": 16.3059161,
+    "postcode": "1190",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

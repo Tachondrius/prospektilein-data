@@ -5,28 +5,44 @@
     "shop": "supermarket",
     "latitude": 46.8239478,
     "longitude": 15.3121342,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8522",
+    "city": "Groß St. Florian",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bäckerei Graf",
     "retailer": "backerei_graf",
     "shop": "bakery",
     "latitude": 46.8239481,
-    "longitude": 15.3167564
+    "longitude": 15.3167564,
+    "postcode": "8522",
+    "city": "Groß Sankt Florian",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fleicherei Klinger",
     "retailer": "fleicherei_klinger",
     "shop": "butcher",
     "latitude": 46.8220145,
-    "longitude": 15.316984
+    "longitude": 15.316984,
+    "postcode": "8522",
+    "city": "Groß Sankt Florian",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Geflügel-Wild Draxler",
     "retailer": "geflugel_wild_draxler",
     "shop": "convenience",
     "latitude": 46.8210066,
-    "longitude": 15.3162302
+    "longitude": 15.3162302,
+    "postcode": "8522",
+    "city": "Groß Sankt Florian",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik Haring",
@@ -34,6 +50,10 @@
     "shop": "tobacco",
     "latitude": 46.8222535,
     "longitude": 15.3168091,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "postcode": "8522",
+    "city": "Groß Sankt Florian",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

@@ -4,27 +4,39 @@
     "retailer": "backerei_annamuhle",
     "shop": "bakery",
     "latitude": 48.0108436,
-    "longitude": 16.2435927
+    "longitude": 16.2435927,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cyclefactory At",
     "retailer": "cyclefactory_at",
     "shop": "bicycle",
     "latitude": 48.0105886,
-    "longitude": 16.242498
+    "longitude": 16.242498,
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Einrichtungshaus Schwarzott",
     "retailer": "einrichtungshaus_schwarzott",
     "shop": "furniture",
     "latitude": 48.0103826,
-    "longitude": 16.2426726
+    "longitude": 16.2426726,
+    "postcode": "2500",
+    "city": "Baden",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Florist",
     "retailer": "shop_florist",
     "shop": "florist",
     "latitude": 48.0110274,
-    "longitude": 16.24387
+    "longitude": 16.24387,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

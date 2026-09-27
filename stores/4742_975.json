@@ -4,35 +4,49 @@
     "retailer": "beauty_house",
     "shop": "beauty",
     "latitude": 47.424244,
-    "longitude": 9.7514161
+    "longitude": 9.7514161,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Blumentreff Karg",
     "retailer": "blumentreff_karg",
     "shop": "florist",
     "latitude": 47.4276027,
-    "longitude": 9.7550359
+    "longitude": 9.7550359,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Como 74",
     "retailer": "como_74",
     "shop": "craft",
     "latitude": 47.4265417,
-    "longitude": 9.754233
+    "longitude": 9.754233,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Gleichheit Heilbehelfe",
     "retailer": "gleichheit_heilbehelfe",
     "shop": "medical_supply",
     "latitude": 47.4297993,
-    "longitude": 9.7551231
+    "longitude": 9.7551231,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Konak Fleischwelt",
     "retailer": "konak_fleischwelt",
     "shop": "butcher",
     "latitude": 47.4290639,
-    "longitude": 9.7550726
+    "longitude": 9.7550726,
+    "postcode": "6850",
+    "city": "Dornbirn",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -40,20 +54,26 @@
     "shop": "supermarket",
     "latitude": 47.4285426,
     "longitude": 9.7554965,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "SunClub",
     "retailer": "sunclub",
     "shop": "beauty",
     "latitude": 47.4278331,
-    "longitude": 9.755042
+    "longitude": 9.755042,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Supermarket",
     "retailer": "shop_supermarket",
     "shop": "supermarket",
     "latitude": 47.4243602,
-    "longitude": 9.7515554
+    "longitude": 9.7515554,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

@@ -4,14 +4,22 @@
     "retailer": "kfz_steinkellner",
     "shop": "car_repair",
     "latitude": 48.0734871,
-    "longitude": 14.4264488
+    "longitude": 14.4264488,
+    "postcode": "4407",
+    "city": "Steyr-Gleink",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "doityourself",
     "latitude": 48.076578,
-    "longitude": 14.4247314
+    "longitude": 14.4247314,
+    "postcode": "4407",
+    "city": "Dietach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "OBI",
@@ -19,20 +27,32 @@
     "shop": "doityourself",
     "latitude": 48.0775753,
     "longitude": 14.4238921,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "4407",
+    "city": "Dietach",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Reiter Steyr",
     "retailer": "reiter_steyr",
     "shop": "car",
     "latitude": 48.070685,
-    "longitude": 14.4288034
+    "longitude": 14.4288034,
+    "postcode": "4407",
+    "city": "Steyr",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Turbobine",
     "retailer": "turbobine",
     "shop": "car_parts",
     "latitude": 48.0736362,
-    "longitude": 14.4264235
+    "longitude": 14.4264235,
+    "postcode": "4407",
+    "city": "Steyr-Gleink",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

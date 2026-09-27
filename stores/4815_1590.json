@@ -4,14 +4,22 @@
     "retailer": "arbo",
     "shop": "car_repair",
     "latitude": 48.155803,
-    "longitude": 15.9038748
+    "longitude": 15.9038748,
+    "postcode": "3033",
+    "city": "Altlengbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Austria-Shirt",
     "retailer": "austria_shirt",
     "shop": "clothes",
     "latitude": 48.1561437,
-    "longitude": 15.9032526
+    "longitude": 15.9032526,
+    "postcode": "3033",
+    "city": "Altlengbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -19,6 +27,10 @@
     "shop": "supermarket",
     "latitude": 48.151488,
     "longitude": 15.9054128,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3052",
+    "city": "Neustift-Innermanzing",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

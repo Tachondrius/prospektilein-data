@@ -5,14 +5,20 @@
     "shop": "bakery",
     "latitude": 47.2356376,
     "longitude": 10.7402439,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "bike&run",
     "retailer": "bike_und_run",
     "shop": "bicycle",
     "latitude": 47.2321878,
-    "longitude": 10.7414373
+    "longitude": 10.7414373,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -20,7 +26,11 @@
     "shop": "supermarket",
     "latitude": 47.2305008,
     "longitude": 10.7443641,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -28,35 +38,55 @@
     "shop": "chemist",
     "latitude": 47.2318496,
     "longitude": 10.7431012,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Bair",
     "retailer": "blumen_bair",
     "shop": "florist",
     "latitude": 47.2321679,
-    "longitude": 10.7438165
+    "longitude": 10.7438165,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "DruckMark Tirol",
     "retailer": "druckmark_tirol",
     "shop": "copyshop",
     "latitude": 47.2352402,
-    "longitude": 10.7407341
+    "longitude": 10.7407341,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Elektro Rokita",
     "retailer": "elektro_rokita",
     "shop": "electronics",
     "latitude": 47.2355735,
-    "longitude": 10.7421785
+    "longitude": 10.7421785,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Falkner und Riml GmbH & Co.KG",
     "retailer": "falkner_und_riml_gmbh_und_co_kg",
     "shop": "electronics",
     "latitude": 47.2321481,
-    "longitude": 10.7424004
+    "longitude": 10.7424004,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fressnapf",
@@ -64,14 +94,18 @@
     "shop": "pet",
     "latitude": 47.2318708,
     "longitude": 10.7428761,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Friseurhandwerk Birgit",
     "retailer": "friseurhandwerk_birgit",
     "shop": "hairdresser",
     "latitude": 47.2311619,
-    "longitude": 10.7427664
+    "longitude": 10.7427664,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fussl",
@@ -79,21 +113,32 @@
     "shop": "clothes",
     "latitude": 47.2338256,
     "longitude": 10.7427782,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "6460",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Galerie von Schöpf Art",
     "retailer": "galerie_von_schopf_art",
     "shop": "art",
     "latitude": 47.2389534,
-    "longitude": 10.7401073
+    "longitude": 10.7401073,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Herbert Strele - Subaru",
     "retailer": "herbert_strele_subaru",
     "shop": "car_repair",
     "latitude": 47.236347,
-    "longitude": 10.7485612
+    "longitude": 10.7485612,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -101,14 +146,20 @@
     "shop": "supermarket",
     "latitude": 47.2318281,
     "longitude": 10.7440482,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "IDC EDV",
     "retailer": "idc_edv",
     "shop": "computer",
     "latitude": 47.2396759,
-    "longitude": 10.7440954
+    "longitude": 10.7440954,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Interspar",
@@ -116,42 +167,62 @@
     "shop": "supermarket",
     "latitude": 47.2336735,
     "longitude": 10.742812,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.2354877,
-    "longitude": 10.7401455
+    "longitude": 10.7401455,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kosmetikstudio Samtweich",
     "retailer": "kosmetikstudio_samtweich",
     "shop": "beauty",
     "latitude": 47.2353511,
-    "longitude": 10.7492906
+    "longitude": 10.7492906,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "La Beautè Michelle Pfeifer",
     "retailer": "la_beaute_michelle_pfeifer",
     "shop": "cosmetics",
     "latitude": 47.2312986,
-    "longitude": 10.7458714
+    "longitude": 10.7458714,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "LK Polish & Optimum Carlove",
     "retailer": "lk_polish_und_optimum_carlove",
     "shop": "car_repair",
     "latitude": 47.2354218,
-    "longitude": 10.7491892
+    "longitude": 10.7491892,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "LLA Hofladen",
     "retailer": "lla_hofladen",
     "shop": "farm",
     "latitude": 47.2373982,
-    "longitude": 10.7405603
+    "longitude": 10.7405603,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Matratzen Concord",
@@ -159,21 +230,33 @@
     "shop": "bed",
     "latitude": 47.2305473,
     "longitude": 10.7435561,
-    "brand": "Matratzen Concord"
+    "brand": "Matratzen Concord",
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Metzgerei Raffl",
     "retailer": "metzgerei_raffl",
     "shop": "butcher",
     "latitude": 47.2389678,
-    "longitude": 10.7404819
+    "longitude": 10.7404819,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Musik Hammerschmidt",
     "retailer": "musik_hammerschmidt",
     "shop": "musical_instrument",
     "latitude": 47.2323766,
-    "longitude": 10.7413406
+    "longitude": 10.7413406,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Neuroth",
@@ -181,7 +264,9 @@
     "shop": "hearing_aids",
     "latitude": 47.2384333,
     "longitude": 10.7424449,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pagro",
@@ -189,21 +274,31 @@
     "shop": "stationery",
     "latitude": 47.231774,
     "longitude": 10.7433781,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Perktold",
     "retailer": "perktold",
     "shop": "bakery",
     "latitude": 47.2396432,
-    "longitude": 10.7420036
+    "longitude": 10.7420036,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T&G Getränkemarkt",
     "retailer": "t_und_g_getrankemarkt",
     "shop": "beverages",
     "latitude": 47.2321715,
-    "longitude": 10.74313
+    "longitude": 10.74313,
+    "postcode": "6460",
+    "city": "Imst",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TUI",
@@ -211,6 +306,8 @@
     "shop": "travel_agency",
     "latitude": 47.2375064,
     "longitude": 10.7405553,
-    "brand": "TUI"
+    "brand": "TUI",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -4,14 +4,22 @@
     "retailer": "backerei_und_kaffee_grath",
     "shop": "bakery",
     "latitude": 47.7011787,
-    "longitude": 16.9106044
+    "longitude": 16.9106044,
+    "postcode": "7152",
+    "city": "Pamhagen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Frisiersalon Marginal Bleich",
     "retailer": "frisiersalon_marginal_bleich",
     "shop": "hairdresser",
     "latitude": 47.7038078,
-    "longitude": 16.9101925
+    "longitude": 16.9101925,
+    "postcode": "7152",
+    "city": "Pamhagen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Spar",
@@ -19,13 +27,19 @@
     "shop": "supermarket",
     "latitude": 47.7006347,
     "longitude": 16.9109866,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "7152",
+    "city": "Pamhagen",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.7066527,
-    "longitude": 16.9123923
+    "longitude": 16.9123923,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

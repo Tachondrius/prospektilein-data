@@ -4,7 +4,11 @@
     "retailer": "autohaus_holzer",
     "shop": "car",
     "latitude": 47.1974557,
-    "longitude": 14.7650568
+    "longitude": 14.7650568,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa",
@@ -12,83 +16,122 @@
     "shop": "supermarket",
     "latitude": 47.1970664,
     "longitude": 14.7652531,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.1974921,
-    "longitude": 14.7652392
+    "longitude": 14.7652392,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Domu",
     "retailer": "domu",
     "shop": "car",
     "latitude": 47.19805,
-    "longitude": 14.7671565
+    "longitude": 14.7671565,
+    "postcode": "8724",
+    "city": "Spielberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gärtnerei Riegler",
     "retailer": "gartnerei_riegler",
     "shop": "garden_centre",
     "latitude": 47.1942272,
-    "longitude": 14.7622213
+    "longitude": 14.7622213,
+    "postcode": "8740",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HaRCo R3-Batterien",
     "retailer": "harco_r3_batterien",
     "shop": "electronics",
     "latitude": 47.1933159,
-    "longitude": 14.760046
+    "longitude": 14.760046,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hundumschön",
     "retailer": "hundumschon",
     "shop": "pet_grooming",
     "latitude": 47.1947061,
-    "longitude": 14.7657584
+    "longitude": 14.7657584,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ - Ronald Scheicher",
     "retailer": "kfz_ronald_scheicher",
     "shop": "car",
     "latitude": 47.1988729,
-    "longitude": 14.7657564
+    "longitude": 14.7657564,
+    "postcode": "8740",
+    "city": "Spielberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KFZ RAMZY",
     "retailer": "kfz_ramzy",
     "shop": "car",
     "latitude": 47.1977302,
-    "longitude": 14.7650483
+    "longitude": 14.7650483,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Möbel Hartleb",
     "retailer": "mobel_hartleb",
     "shop": "furniture",
     "latitude": 47.1952117,
-    "longitude": 14.7633483
+    "longitude": 14.7633483,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sturmer",
     "retailer": "sturmer",
     "shop": "hairdresser",
     "latitude": 47.1962018,
-    "longitude": 14.764667
+    "longitude": 14.764667,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "newsagent",
     "latitude": 47.1965548,
-    "longitude": 14.7643274
+    "longitude": 14.7643274,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Trödel Flo",
     "retailer": "trodel_flo",
     "shop": "antiques",
     "latitude": 47.1957681,
-    "longitude": 14.7641013
+    "longitude": 14.7641013,
+    "postcode": "8740",
+    "city": "Zeltweg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

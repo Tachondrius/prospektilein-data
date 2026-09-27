@@ -4,21 +4,29 @@
     "retailer": "achleitner",
     "shop": "tyres",
     "latitude": 47.4928456,
-    "longitude": 10.7262561
+    "longitude": 10.7262561,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "E-Welt",
     "retailer": "e_welt",
     "shop": "convenience",
     "latitude": 47.494242,
-    "longitude": 10.7249028
+    "longitude": 10.7249028,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eurogast Speckbacher",
     "retailer": "eurogast_speckbacher",
     "shop": "supermarket",
     "latitude": 47.4940369,
-    "longitude": 10.7232537
+    "longitude": 10.7232537,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eurospar",
@@ -26,7 +34,9 @@
     "shop": "supermarket",
     "latitude": 47.4905508,
     "longitude": 10.721349,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hervis",
@@ -34,42 +44,64 @@
     "shop": "sports",
     "latitude": 47.4913687,
     "longitude": 10.7207022,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lechtaler Autohaus",
     "retailer": "lechtaler_autohaus",
     "shop": "car",
     "latitude": 47.4994703,
-    "longitude": 10.7204204
+    "longitude": 10.7204204,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Müller Drogeriemarkt",
     "retailer": "mueller",
     "shop": "department_store",
     "latitude": 47.4910649,
-    "longitude": 10.7200607
+    "longitude": 10.7200607,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Optik Gundolf",
     "retailer": "optik_gundolf",
     "shop": "optician",
     "latitude": 47.4912257,
-    "longitude": 10.720833
+    "longitude": 10.720833,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schmidt's",
     "retailer": "schmidt_s",
     "shop": "hardware",
     "latitude": 47.4918293,
-    "longitude": 10.7236125
+    "longitude": 10.7236125,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Unser Lagerhaus",
     "retailer": "unser_lagerhaus",
     "shop": "doityourself",
     "latitude": 47.4956245,
-    "longitude": 10.721158
+    "longitude": 10.721158,
+    "postcode": "6600",
+    "city": "Reutte",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth Hochenburger Baumarkt",
@@ -77,7 +109,9 @@
     "shop": "doityourself",
     "latitude": 47.4934533,
     "longitude": 10.7221834,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Würth Hochenburger Baustoffe",
@@ -85,13 +119,19 @@
     "shop": "trade",
     "latitude": 47.4930468,
     "longitude": 10.7227269,
-    "brand": "Würth Hochenburger"
+    "brand": "Würth Hochenburger",
+    "postcode": "6600",
+    "city": "Innsbruck",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zangerl Schuhe",
     "retailer": "zangerl_schuhe",
     "shop": "shoes",
     "latitude": 47.4907418,
-    "longitude": 10.7200596
+    "longitude": 10.7200596,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

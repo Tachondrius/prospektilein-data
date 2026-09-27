@@ -5,20 +5,32 @@
     "shop": "supermarket",
     "latitude": 47.5151775,
     "longitude": 12.2980019,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6352",
+    "city": "Ellmau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.5124628,
-    "longitude": 12.2978427
+    "longitude": 12.2978427,
+    "postcode": "6352",
+    "city": "Ellmau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Travel Partner GmbH",
     "retailer": "travel_partner_gmbh",
     "shop": "travel_agency",
     "latitude": 47.5132384,
-    "longitude": 12.2998982
+    "longitude": 12.2998982,
+    "postcode": "6352",
+    "city": "Ellmau",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.8918095,
     "longitude": 16.9241891,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "7122",
+    "city": "Gols",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "SV Gols",
     "retailer": "sv_gols",
     "shop": "ticket",
     "latitude": 47.8940061,
-    "longitude": 16.9249063
+    "longitude": 16.9249063,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

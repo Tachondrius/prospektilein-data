@@ -4,21 +4,31 @@
     "retailer": "fahrradreparatur_michael_blaha",
     "shop": "bicycle",
     "latitude": 47.9504605,
-    "longitude": 16.2842256
+    "longitude": 16.2842256,
+    "postcode": "2524",
+    "city": "Teesdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Frisiersalon Birgit",
     "retailer": "frisiersalon_birgit",
     "shop": "hairdresser",
     "latitude": 47.9512294,
-    "longitude": 16.2825529
+    "longitude": 16.2825529,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Leitgeb Elisabeth",
     "retailer": "trafik_leitgeb_elisabeth",
     "shop": "kiosk",
     "latitude": 47.9510623,
-    "longitude": 16.2804772
+    "longitude": 16.2804772,
+    "postcode": "2524",
+    "city": "Teesdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Wäsche Fleimisch",
@@ -26,6 +36,10 @@
     "shop": "clothes",
     "latitude": 47.950227,
     "longitude": 16.2815268,
-    "brand": "Huber, Skinny"
+    "brand": "Huber, Skinny",
+    "postcode": "2524",
+    "city": "Teesdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

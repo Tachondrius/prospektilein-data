@@ -4,27 +4,39 @@
     "retailer": "aigner",
     "shop": "farm",
     "latitude": 48.5840077,
-    "longitude": 16.0704855
+    "longitude": 16.0704855,
+    "postcode": "2020",
+    "city": "Suttenbrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 48.5803859,
-    "longitude": 16.0745994
+    "longitude": 16.0745994,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Storage Rental",
     "retailer": "shop_storage_rental",
     "shop": "storage_rental",
     "latitude": 48.5804531,
-    "longitude": 16.0743424
+    "longitude": 16.0743424,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tankstelle Jet mit Billa",
     "retailer": "tankstelle_jet_mit_billa",
     "shop": "convenience",
     "latitude": 48.5800777,
-    "longitude": 16.0741651
+    "longitude": 16.0741651,
+    "postcode": "2020",
+    "city": "Hollabrunn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

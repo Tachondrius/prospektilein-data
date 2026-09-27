@@ -11,7 +11,9 @@
     "retailer": "deuring",
     "shop": "kiosk",
     "latitude": 47.5353864,
-    "longitude": 9.7381816
+    "longitude": 9.7381816,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -19,13 +21,20 @@
     "shop": "supermarket",
     "latitude": 47.5352191,
     "longitude": 9.7390727,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6912",
+    "city": "Hörbranz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Trafik OEAMTC",
     "retailer": "trafik_oeamtc",
     "shop": "tobacco",
     "latitude": 47.5365666,
-    "longitude": 9.737355
+    "longitude": 9.737355,
+    "postcode": "6912",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

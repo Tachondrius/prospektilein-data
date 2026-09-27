@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.4622028,
     "longitude": 9.6307803,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "6973",
+    "city": "Höchst",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Lagerhaus Höchst",
     "retailer": "lagerhaus_hochst",
     "shop": "convenience",
     "latitude": 47.4604676,
-    "longitude": 9.6324656
+    "longitude": 9.6324656,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

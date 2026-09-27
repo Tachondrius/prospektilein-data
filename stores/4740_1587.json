@@ -4,7 +4,11 @@
     "retailer": "f_kremnitzer_ges_m_b_h_und_co_kg",
     "shop": "car",
     "latitude": 47.4044953,
-    "longitude": 15.8788466
+    "longitude": 15.8788466,
+    "postcode": "8250",
+    "city": "Vorau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.4053088,
     "longitude": 15.8788998,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8250",
+    "city": "Vorau",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

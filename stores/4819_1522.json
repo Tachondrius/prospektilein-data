@@ -4,7 +4,9 @@
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 48.1980403,
-    "longitude": 15.2217272
+    "longitude": 15.2217272,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hofer",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 48.1997713,
     "longitude": 15.2211902,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "3380",
+    "city": "Pöchlarn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "OBI",
@@ -20,6 +26,10 @@
     "shop": "doityourself",
     "latitude": 48.198838,
     "longitude": 15.2211285,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "3380",
+    "city": "Pöchlarn",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

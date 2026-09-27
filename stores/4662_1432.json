@@ -4,7 +4,9 @@
     "retailer": "berchtaler",
     "shop": "beauty",
     "latitude": 46.6207354,
-    "longitude": 14.3280811
+    "longitude": 14.3280811,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -12,35 +14,47 @@
     "shop": "supermarket",
     "latitude": 46.6210467,
     "longitude": 14.3290421,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bäckerei Karawanke 2",
     "retailer": "backerei_karawanke_2",
     "shop": "bakery",
     "latitude": 46.621175,
-    "longitude": 14.3282134
+    "longitude": 14.3282134,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Copyplan",
     "retailer": "copyplan",
     "shop": "copyshop",
     "latitude": 46.6247654,
-    "longitude": 14.3257903
+    "longitude": 14.3257903,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Handel mit Briefmarken",
     "retailer": "handel_mit_briefmarken",
     "shop": "general",
     "latitude": 46.6243468,
-    "longitude": 14.3257563
+    "longitude": 14.3257563,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "HELLA Sonnen- und Wetterschutztechnik",
     "retailer": "hella_sonnen_und_wetterschutztechnik",
     "shop": "yes",
     "latitude": 46.6205523,
-    "longitude": 14.3281996
+    "longitude": 14.3281996,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagerhaus",
@@ -48,42 +62,61 @@
     "shop": "doityourself",
     "latitude": 46.6270913,
     "longitude": 14.3201181,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Per-Moto",
     "retailer": "per_moto",
     "shop": "motorcycle",
     "latitude": 46.6257606,
-    "longitude": 14.3232502
+    "longitude": 14.3232502,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Peter Riemer Handelsgmbh Papier- und Spielwaren",
     "retailer": "peter_riemer_handelsgmbh_papier_und_spielwaren",
     "shop": "books",
     "latitude": 46.6289915,
-    "longitude": 14.3254578
+    "longitude": 14.3254578,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Salon Ulli",
     "retailer": "salon_ulli",
     "shop": "hairdresser",
     "latitude": 46.6215755,
-    "longitude": 14.3274328
+    "longitude": 14.3274328,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schmid Kärntner Kinderwagenerzeugung",
     "retailer": "schmid_karntner_kinderwagenerzeugung",
     "shop": "toys",
     "latitude": 46.6293915,
-    "longitude": 14.3259213
+    "longitude": 14.3259213,
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Wieser Verlag",
     "retailer": "wieser_verlag",
     "shop": "books",
     "latitude": 46.622948,
-    "longitude": 14.3258627
+    "longitude": 14.3258627,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "ÖAMTC Klagenfurt",
@@ -91,6 +124,10 @@
     "shop": "car_repair",
     "latitude": 46.6267564,
     "longitude": 14.3229644,
-    "brand": "ÖAMTC"
+    "brand": "ÖAMTC",
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

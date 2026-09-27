@@ -5,28 +5,42 @@
     "shop": "variety_store",
     "latitude": 48.8124589,
     "longitude": 15.2730759,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Agrarverkauf Lagerhaus",
     "retailer": "agrarverkauf_lagerhaus",
     "shop": "agrarian",
     "latitude": 48.8128275,
-    "longitude": 15.2756472
+    "longitude": 15.2756472,
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Amazon Paketautomat",
     "retailer": "amazon_paketautomat",
     "shop": "outpost",
     "latitude": 48.8122787,
-    "longitude": 15.2752009
+    "longitude": 15.2752009,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Autowerkstatt, Tankstelle",
     "retailer": "autowerkstatt_tankstelle",
     "shop": "car_repair",
     "latitude": 48.8130978,
-    "longitude": 15.2768866
+    "longitude": 15.2768866,
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "AVIA Tankstelle",
@@ -34,14 +48,22 @@
     "shop": "kiosk",
     "latitude": 48.8185717,
     "longitude": 15.2768229,
-    "brand": "Avia"
+    "brand": "Avia",
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bauern-Laden Waidhofen",
     "retailer": "bauern_laden_waidhofen",
     "shop": "convenience",
     "latitude": 48.8119621,
-    "longitude": 15.2759002
+    "longitude": 15.2759002,
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -49,7 +71,11 @@
     "shop": "supermarket",
     "latitude": 48.8100247,
     "longitude": 15.2790676,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -57,7 +83,11 @@
     "shop": "chemist",
     "latitude": 48.8129329,
     "longitude": 15.2731562,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "C&A",
@@ -65,7 +95,9 @@
     "shop": "clothes",
     "latitude": 48.8109401,
     "longitude": 15.2716696,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Deichmann",
@@ -73,7 +105,9 @@
     "shop": "shoes",
     "latitude": 48.810894,
     "longitude": 15.2714593,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -81,28 +115,42 @@
     "shop": "chemist",
     "latitude": 48.8111271,
     "longitude": 15.2740944,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Einkaufszentrum Thayapark",
     "retailer": "einkaufszentrum_thayapark",
     "shop": "supermarket",
     "latitude": 48.8114172,
-    "longitude": 15.2725266
+    "longitude": 15.2725266,
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eisen Roth",
     "retailer": "eisen_roth",
     "shop": "doityourself",
     "latitude": 48.8179219,
-    "longitude": 15.2772371
+    "longitude": 15.2772371,
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "EKZ Thayapark",
     "retailer": "ekz_thayapark",
     "shop": "mall",
     "latitude": 48.812652,
-    "longitude": 15.2733368
+    "longitude": 15.2733368,
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -110,7 +158,11 @@
     "shop": "supermarket",
     "latitude": 48.8109377,
     "longitude": 15.2703554,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fussl",
@@ -118,21 +170,29 @@
     "shop": "clothes",
     "latitude": 48.8108346,
     "longitude": 15.271087,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Genussbox",
     "retailer": "genussbox",
     "shop": "convenience",
     "latitude": 48.8118252,
-    "longitude": 15.2740318
+    "longitude": 15.2740318,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 48.817643,
-    "longitude": 15.278686
+    "longitude": 15.278686,
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hunkemöller",
@@ -140,7 +200,9 @@
     "shop": "clothes",
     "latitude": 48.8110739,
     "longitude": 15.2730468,
-    "brand": "Hunkemöller"
+    "brand": "Hunkemöller",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KiK",
@@ -148,14 +210,18 @@
     "shop": "clothes",
     "latitude": 48.8110858,
     "longitude": 15.2737995,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.8135848,
-    "longitude": 15.2790336
+    "longitude": 15.2790336,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -163,21 +229,31 @@
     "shop": "doityourself",
     "latitude": 48.8135959,
     "longitude": 15.2741305,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lauter Fliesen",
     "retailer": "lauter_fliesen",
     "shop": "tiles",
     "latitude": 48.8146456,
-    "longitude": 15.2790854
+    "longitude": 15.2790854,
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Massage- & EnergieCenter",
     "retailer": "massage_und_energiecenter",
     "shop": "massage",
     "latitude": 48.8108841,
-    "longitude": 15.2798631
+    "longitude": 15.2798631,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "mister*lady",
@@ -185,7 +261,9 @@
     "shop": "clothes",
     "latitude": 48.8110715,
     "longitude": 15.2731817,
-    "brand": "mister*lady"
+    "brand": "mister*lady",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Müller",
@@ -193,7 +271,9 @@
     "shop": "chemist",
     "latitude": 48.8107873,
     "longitude": 15.2707839,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "New Yorker",
@@ -201,7 +281,9 @@
     "shop": "clothes",
     "latitude": 48.8110659,
     "longitude": 15.2728743,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "NKD",
@@ -209,7 +291,9 @@
     "shop": "clothes",
     "latitude": 48.8110744,
     "longitude": 15.2733189,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ONLY",
@@ -217,7 +301,9 @@
     "shop": "clothes",
     "latitude": 48.810867,
     "longitude": 15.2712848,
-    "brand": "ONLY"
+    "brand": "ONLY",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -225,7 +311,11 @@
     "shop": "supermarket",
     "latitude": 48.8122563,
     "longitude": 15.2754247,
-    "brand": "PENNY"
+    "brand": "PENNY",
+    "postcode": "3830",
+    "city": "Waidhofen an der Thaya",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pepco",
@@ -233,7 +323,9 @@
     "shop": "clothes",
     "latitude": 48.810849,
     "longitude": 15.2711923,
-    "brand": "Pepco"
+    "brand": "Pepco",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tom Tailor",
@@ -241,6 +333,8 @@
     "shop": "clothes",
     "latitude": 48.8110585,
     "longitude": 15.272442,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

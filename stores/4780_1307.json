@@ -4,7 +4,11 @@
     "retailer": "1_salzburger_modelleisenbahnclub",
     "shop": "model",
     "latitude": 47.8023676,
-    "longitude": 13.0710073
+    "longitude": 13.0710073,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -12,6 +16,9 @@
     "shop": "supermarket",
     "latitude": 47.8001415,
     "longitude": 13.0752554,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5020",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

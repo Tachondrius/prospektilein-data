@@ -4,7 +4,9 @@
     "retailer": "rodelverleih_tauernalm",
     "shop": "rental",
     "latitude": 47.3765468,
-    "longitude": 13.6536227
+    "longitude": 13.6536227,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Sport 2000",
@@ -12,13 +14,17 @@
     "shop": "sports",
     "latitude": 47.3758956,
     "longitude": 13.6543171,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 47.3760255,
-    "longitude": 13.6540647
+    "longitude": 13.6540647,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

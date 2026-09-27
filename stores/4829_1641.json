@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.2932156,
     "longitude": 16.417254,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bipa",
@@ -13,35 +17,53 @@
     "shop": "chemist",
     "latitude": 48.2927378,
     "longitude": 16.4173075,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Boutique Kokett",
     "retailer": "boutique_kokett",
     "shop": "clothes",
     "latitude": 48.2926224,
-    "longitude": 16.4169299
+    "longitude": 16.4169299,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Felber",
     "retailer": "felber",
     "shop": "bakery",
     "latitude": 48.292449,
-    "longitude": 16.4168106
+    "longitude": 16.4168106,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Haarlekin",
     "retailer": "haarlekin",
     "shop": "hairdresser",
     "latitude": 48.2931089,
-    "longitude": 16.4175227
+    "longitude": 16.4175227,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.2997005,
-    "longitude": 16.4188498
+    "longitude": 16.4188498,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Libro",
@@ -49,7 +71,11 @@
     "shop": "books",
     "latitude": 48.2930268,
     "longitude": 16.417115,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "NKD",
@@ -57,7 +83,11 @@
     "shop": "clothes",
     "latitude": 48.2922251,
     "longitude": 16.4167296,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Penny",
@@ -65,27 +95,43 @@
     "shop": "supermarket",
     "latitude": 48.2916443,
     "longitude": 16.4164227,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tennisplätze Ebinger",
     "retailer": "tennisplatze_ebinger",
     "shop": "sports",
     "latitude": 48.2997345,
-    "longitude": 16.4162629
+    "longitude": 16.4162629,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Trafik Lindner",
     "retailer": "trafik_lindner",
     "shop": "kiosk",
     "latitude": 48.2916539,
-    "longitude": 16.4165496
+    "longitude": 16.4165496,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Welt Laden",
     "retailer": "welt_laden",
     "shop": "clothes",
     "latitude": 48.2994608,
-    "longitude": 16.4192763
+    "longitude": 16.4192763,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

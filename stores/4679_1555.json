@@ -4,7 +4,11 @@
     "retailer": "abrevis_it",
     "shop": "computer",
     "latitude": 46.7911289,
-    "longitude": 15.5540921
+    "longitude": 15.5540921,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Action",
@@ -12,14 +16,21 @@
     "shop": "variety_store",
     "latitude": 46.7949756,
     "longitude": 15.5572732,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Angelcenter Leibnitz",
     "retailer": "angelcenter_leibnitz",
     "shop": "fishing",
     "latitude": 46.7984315,
-    "longitude": 15.5583277
+    "longitude": 15.5583277,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bijou Brigitte",
@@ -27,7 +38,10 @@
     "shop": "jewelry",
     "latitude": 46.7947188,
     "longitude": 15.5563679,
-    "brand": "Bijou Brigitte"
+    "brand": "Bijou Brigitte",
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -35,7 +49,11 @@
     "shop": "chemist",
     "latitude": 46.7969979,
     "longitude": 15.5558791,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "BONITA",
@@ -43,7 +61,10 @@
     "shop": "clothes",
     "latitude": 46.7948403,
     "longitude": 15.5572945,
-    "brand": "BONITA"
+    "brand": "BONITA",
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "C&A",
@@ -51,28 +72,42 @@
     "shop": "clothes",
     "latitude": 46.796477,
     "longitude": 15.5554519,
-    "brand": "C&A"
+    "brand": "C&A",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Cardiskont",
     "retailer": "cardiskont",
     "shop": "car",
     "latitude": 46.7994983,
-    "longitude": 15.5565173
+    "longitude": 15.5565173,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "COCUNI",
     "retailer": "cocuni",
     "shop": "clothes",
     "latitude": 46.7946262,
-    "longitude": 15.5565619
+    "longitude": 15.5565619,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "DanKüchen Studio",
     "retailer": "dankuchen_studio",
     "shop": "houseware",
     "latitude": 46.7990361,
-    "longitude": 15.5577634
+    "longitude": 15.5577634,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Deichmann",
@@ -80,7 +115,11 @@
     "shop": "shoes",
     "latitude": 46.7962633,
     "longitude": 15.5551846,
-    "brand": "Deichmann"
+    "brand": "Deichmann",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -88,35 +127,52 @@
     "shop": "chemist",
     "latitude": 46.7957435,
     "longitude": 15.5572853,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Dringo",
     "retailer": "dringo",
     "shop": "jewelry",
     "latitude": 46.794843,
-    "longitude": 15.5564303
+    "longitude": 15.5564303,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Einfalt-Farbenquelle",
     "retailer": "einfalt_farbenquelle",
     "shop": "paint",
     "latitude": 46.792269,
-    "longitude": 15.5512327
+    "longitude": 15.5512327,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "EKZ",
     "retailer": "ekz",
     "shop": "mall",
     "latitude": 46.7973334,
-    "longitude": 15.5561113
+    "longitude": 15.5561113,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "EKZ Weinland",
     "retailer": "ekz_weinland",
     "shop": "mall",
     "latitude": 46.79503,
-    "longitude": 15.5568737
+    "longitude": 15.5568737,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fressnapf",
@@ -124,14 +180,22 @@
     "shop": "pet",
     "latitude": 46.7950045,
     "longitude": 15.5546122,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Frischehof",
     "retailer": "frischehof",
     "shop": "supermarket",
     "latitude": 46.7986929,
-    "longitude": 15.5569808
+    "longitude": 15.5569808,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fussl",
@@ -139,28 +203,40 @@
     "shop": "clothes",
     "latitude": 46.7959882,
     "longitude": 15.5548507,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Gabrini Cosmetics",
     "retailer": "gabrini_cosmetics",
     "shop": "yes",
     "latitude": 46.7951854,
-    "longitude": 15.5563838
+    "longitude": 15.5563838,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "GARTENplant Holzer",
     "retailer": "gartenplant_holzer",
     "shop": "gift",
     "latitude": 46.7947635,
-    "longitude": 15.5567231
+    "longitude": 15.5567231,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "GRUBER",
     "retailer": "gruber",
     "shop": "travel_agency",
     "latitude": 46.7963198,
-    "longitude": 15.5552332
+    "longitude": 15.5552332,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "H&M",
@@ -168,21 +244,29 @@
     "shop": "clothes",
     "latitude": 46.7947342,
     "longitude": 15.5560923,
-    "brand": "H&M"
+    "brand": "H&M",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Handy Haus",
     "retailer": "handy_haus",
     "shop": "repair",
     "latitude": 46.7949165,
-    "longitude": 15.5565195
+    "longitude": 15.5565195,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HandyShop Leibnitz",
     "retailer": "handyshop_leibnitz",
     "shop": "mobile_phone",
     "latitude": 46.7948765,
-    "longitude": 15.5568678
+    "longitude": 15.5568678,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hervis",
@@ -190,7 +274,11 @@
     "shop": "sports",
     "latitude": 46.7952985,
     "longitude": 15.5541445,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -198,7 +286,11 @@
     "shop": "supermarket",
     "latitude": 46.7975865,
     "longitude": 15.5571623,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HUBER Shop",
@@ -206,7 +298,11 @@
     "shop": "clothes",
     "latitude": 46.7966991,
     "longitude": 15.5552724,
-    "brand": "HUBER"
+    "brand": "HUBER",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hunkemöller",
@@ -214,7 +310,11 @@
     "shop": "clothes",
     "latitude": 46.7963989,
     "longitude": 15.5553575,
-    "brand": "Hunkemöller"
+    "brand": "Hunkemöller",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Interspar",
@@ -222,7 +322,11 @@
     "shop": "supermarket",
     "latitude": 46.7962718,
     "longitude": 15.5585329,
-    "brand": "Interspar"
+    "brand": "Interspar",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intersport",
@@ -230,7 +334,11 @@
     "shop": "sports",
     "latitude": 46.7949899,
     "longitude": 15.5568588,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -238,7 +346,10 @@
     "shop": "clothes",
     "latitude": 46.7956518,
     "longitude": 15.5569867,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
@@ -246,7 +357,11 @@
     "shop": "hairdresser",
     "latitude": 46.7949209,
     "longitude": 15.5563015,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Libro",
@@ -254,7 +369,10 @@
     "shop": "books",
     "latitude": 46.7954579,
     "longitude": 15.5566746,
-    "brand": "Libro"
+    "brand": "Libro",
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -262,7 +380,11 @@
     "shop": "supermarket",
     "latitude": 46.794388,
     "longitude": 15.5556188,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MediaMarkt",
@@ -270,7 +392,11 @@
     "shop": "electronics",
     "latitude": 46.795101,
     "longitude": 15.5564185,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "mister*lady",
@@ -278,14 +404,22 @@
     "shop": "clothes",
     "latitude": 46.7947711,
     "longitude": 15.5570416,
-    "brand": "mister*lady"
+    "brand": "mister*lady",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "My Shoes",
     "retailer": "my_shoes",
     "shop": "shoes",
     "latitude": 46.7968629,
-    "longitude": 15.5554755
+    "longitude": 15.5554755,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Müller",
@@ -293,7 +427,11 @@
     "shop": "chemist",
     "latitude": 46.7957931,
     "longitude": 15.5546,
-    "brand": "Müller"
+    "brand": "Müller",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "New Yorker",
@@ -301,7 +439,11 @@
     "shop": "clothes",
     "latitude": 46.7961231,
     "longitude": 15.5550103,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -309,7 +451,11 @@
     "shop": "clothes",
     "latitude": 46.7951938,
     "longitude": 15.5543215,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ONLY",
@@ -317,7 +463,11 @@
     "shop": "clothes",
     "latitude": 46.7967922,
     "longitude": 15.5553783,
-    "brand": "ONLY"
+    "brand": "ONLY",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pagro",
@@ -325,7 +475,11 @@
     "shop": "stationery",
     "latitude": 46.7950926,
     "longitude": 15.5544674,
-    "brand": "Pagro"
+    "brand": "Pagro",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -333,14 +487,22 @@
     "shop": "supermarket",
     "latitude": 46.7970645,
     "longitude": 15.5561,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Reiter",
     "retailer": "reiter",
     "shop": "bed",
     "latitude": 46.7971371,
-    "longitude": 15.5563209
+    "longitude": 15.5563209,
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ROMA",
@@ -348,7 +510,9 @@
     "shop": "hairdresser_supply",
     "latitude": 46.7958767,
     "longitude": 15.5546977,
-    "brand": "ROMA"
+    "brand": "ROMA",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tchibo",
@@ -356,7 +520,11 @@
     "shop": "coffee;clothes",
     "latitude": 46.7954733,
     "longitude": 15.5540889,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TEDi",
@@ -364,7 +532,10 @@
     "shop": "variety_store",
     "latitude": 46.7955713,
     "longitude": 15.5568042,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wechtitsch",
@@ -372,14 +543,21 @@
     "shop": "car",
     "latitude": 46.7989396,
     "longitude": 15.5594947,
-    "brand": "Nissan;Kia"
+    "brand": "Nissan;Kia",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Woolworth",
     "retailer": "woolworth",
     "shop": "clothes",
     "latitude": 46.7951115,
-    "longitude": 15.5569701
+    "longitude": 15.5569701,
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Wutscher",
@@ -387,7 +565,10 @@
     "shop": "optician",
     "latitude": 46.7955418,
     "longitude": 15.5541709,
-    "brand": "sehen!wutscher"
+    "brand": "sehen!wutscher",
+    "postcode": "8430",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "XXXLutz",
@@ -395,6 +576,10 @@
     "shop": "furniture",
     "latitude": 46.7940888,
     "longitude": 15.5528379,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "8430",
+    "city": "Leibnitz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

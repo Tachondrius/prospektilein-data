@@ -5,7 +5,9 @@
     "shop": "bakery",
     "latitude": 48.1196267,
     "longitude": 16.5636473,
-    "brand": "Anker"
+    "brand": "Anker",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -13,7 +15,11 @@
     "shop": "supermarket",
     "latitude": 48.1196623,
     "longitude": 16.5644156,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1300",
+    "city": "Wien-Flughafen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -21,7 +27,9 @@
     "shop": "chemist",
     "latitude": 48.1199377,
     "longitude": 16.5624677,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Capi Electronics",
@@ -29,49 +37,63 @@
     "shop": "electronics",
     "latitude": 48.1199414,
     "longitude": 16.5605694,
-    "brand": "Capi"
+    "brand": "Capi",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "CAT City Airport Train",
     "retailer": "cat_city_airport_train",
     "shop": "travel_agency",
     "latitude": 48.1191735,
-    "longitude": 16.5638611
+    "longitude": 16.5638611,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "City Transfer Taxi Services",
     "retailer": "city_transfer_taxi_services",
     "shop": "travel_agency",
     "latitude": 48.1197609,
-    "longitude": 16.562586
+    "longitude": 16.562586,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 48.1193955,
-    "longitude": 16.5647456
+    "longitude": 16.5647456,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Heinemann",
     "retailer": "heinemann",
     "shop": "gift",
     "latitude": 48.1178585,
-    "longitude": 16.5687089
+    "longitude": 16.5687089,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Heinemann Duty Free",
     "retailer": "heinemann_duty_free",
     "shop": "gift",
     "latitude": 48.1185955,
-    "longitude": 16.5614032
+    "longitude": 16.5614032,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Heinemann Duty Free",
     "retailer": "heinemann_duty_free",
     "shop": "duty_free",
     "latitude": 48.1192202,
-    "longitude": 16.5644145
+    "longitude": 16.5644145,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hugo Boss",
@@ -79,7 +101,9 @@
     "shop": "clothes",
     "latitude": 48.1190183,
     "longitude": 16.5652606,
-    "brand": "Hugo Boss"
+    "brand": "Hugo Boss",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Longchamp",
@@ -87,7 +111,9 @@
     "shop": "fashion_accessories",
     "latitude": 48.1191021,
     "longitude": 16.5650025,
-    "brand": "Longchamp"
+    "brand": "Longchamp",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Relay",
@@ -95,7 +121,9 @@
     "shop": "newsagent",
     "latitude": 48.1197607,
     "longitude": 16.5628585,
-    "brand": "Relay"
+    "brand": "Relay",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Samsonite",
@@ -103,35 +131,45 @@
     "shop": "bag",
     "latitude": 48.1190492,
     "longitude": 16.5651548,
-    "brand": "Samsonite"
+    "brand": "Samsonite",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schmitt & Trunk",
     "retailer": "schmitt_und_trunk",
     "shop": "books",
     "latitude": 48.1189655,
-    "longitude": 16.5654166
+    "longitude": 16.5654166,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Senses of Austria",
     "retailer": "senses_of_austria",
     "shop": "gift",
     "latitude": 48.1189882,
-    "longitude": 16.5653534
+    "longitude": 16.5653534,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Senses of Austria",
     "retailer": "senses_of_austria",
     "shop": "bag",
     "latitude": 48.1196731,
-    "longitude": 16.566394
+    "longitude": 16.566394,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "sim local",
     "retailer": "sim_local",
     "shop": "mobile_phone",
     "latitude": 48.1195554,
-    "longitude": 16.5627561
+    "longitude": 16.5627561,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Swarovski",
@@ -139,34 +177,44 @@
     "shop": "jewelry",
     "latitude": 48.119682,
     "longitude": 16.5608436,
-    "brand": "Swarovski"
+    "brand": "Swarovski",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "the travellers electronics company",
     "retailer": "the_travellers_electronics_company",
     "shop": "electronics",
     "latitude": 48.11892,
-    "longitude": 16.5649393
+    "longitude": 16.5649393,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Watch & Fashion",
     "retailer": "watch_und_fashion",
     "shop": "jewelry",
     "latitude": 48.1189318,
-    "longitude": 16.5655096
+    "longitude": 16.5655096,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ÖBB",
     "retailer": "obb",
     "shop": "travel_agency",
     "latitude": 48.1192075,
-    "longitude": 16.5642634
+    "longitude": 16.5642634,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "ÖBB Ticket Schalter",
     "retailer": "obb_ticket_schalter",
     "shop": "ticket",
     "latitude": 48.1191572,
-    "longitude": 16.5639845
+    "longitude": 16.5639845,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

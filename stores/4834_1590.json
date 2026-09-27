@@ -4,42 +4,58 @@
     "retailer": "blumenatelier_nolz",
     "shop": "florist",
     "latitude": 48.3434301,
-    "longitude": 15.9070358
+    "longitude": 15.9070358,
+    "postcode": "3435",
+    "city": "Zwentendorf an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dagmar Rabl",
     "retailer": "dagmar_rabl",
     "shop": "cosmetics",
     "latitude": 48.3459219,
-    "longitude": 15.909149
+    "longitude": 15.909149,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Fensterservice Thomas Ebner",
     "retailer": "fensterservice_thomas_ebner",
     "shop": "window_blind",
     "latitude": 48.3407688,
-    "longitude": 15.9046611
+    "longitude": 15.9046611,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Franz Hummer GesmbH",
     "retailer": "franz_hummer_gesmbh",
     "shop": "trade",
     "latitude": 48.3445984,
-    "longitude": 15.9054432
+    "longitude": 15.9054432,
+    "postcode": "3435",
+    "city": "Zwentendorf an der Donau",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Imkerei Trabauer",
     "retailer": "imkerei_trabauer",
     "shop": "honey",
     "latitude": 48.3452667,
-    "longitude": 15.901877
+    "longitude": 15.901877,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sandra Kreuzspiegl",
     "retailer": "sandra_kreuzspiegl",
     "shop": "massage",
     "latitude": 48.3409485,
-    "longitude": 15.9095461
+    "longitude": 15.9095461,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -47,6 +63,8 @@
     "shop": "supermarket",
     "latitude": 48.3448645,
     "longitude": 15.909895,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

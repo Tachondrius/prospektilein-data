@@ -4,7 +4,11 @@
     "retailer": "frisuren_inge",
     "shop": "hairdresser",
     "latitude": 48.1095152,
-    "longitude": 16.687814
+    "longitude": 16.687814,
+    "postcode": "2402",
+    "city": "Maria Ellend",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -12,6 +16,8 @@
     "shop": "supermarket",
     "latitude": 48.1093274,
     "longitude": 16.6827454,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

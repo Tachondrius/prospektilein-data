@@ -4,7 +4,11 @@
     "retailer": "autozentrum_puntigamer_strae",
     "shop": "car",
     "latitude": 47.0344565,
-    "longitude": 15.4447667
+    "longitude": 15.4447667,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa stop & shop",
@@ -12,7 +16,11 @@
     "shop": "convenience",
     "latitude": 47.033209,
     "longitude": 15.4438025,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Boels",
@@ -20,14 +28,22 @@
     "shop": "tool_hire",
     "latitude": 47.0341503,
     "longitude": 15.4410842,
-    "brand": "Boels"
+    "brand": "Boels",
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Elektrofahrradcenter Graz",
     "retailer": "elektrofahrradcenter_graz",
     "shop": "bicycle",
     "latitude": 47.03451,
-    "longitude": 15.4448474
+    "longitude": 15.4448474,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lidl",
@@ -35,41 +51,65 @@
     "shop": "supermarket",
     "latitude": 47.0332053,
     "longitude": 15.4415182,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Lucky Car",
     "retailer": "lucky_car",
     "shop": "car_repair",
     "latitude": 47.0335683,
-    "longitude": 15.4446315
+    "longitude": 15.4446315,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Quester Fliesen & Parkett",
     "retailer": "quester_fliesen_und_parkett",
     "shop": "doityourself",
     "latitude": 47.034383,
-    "longitude": 15.444264
+    "longitude": 15.444264,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Schwarzl Flexbox-Halle",
     "retailer": "schwarzl_flexbox_halle",
     "shop": "storage_rental",
     "latitude": 47.036644,
-    "longitude": 15.4489629
+    "longitude": 15.4489629,
+    "postcode": "8041",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Stahlgruber",
     "retailer": "stahlgruber",
     "shop": "car_parts",
     "latitude": 47.0314689,
-    "longitude": 15.440366
+    "longitude": 15.440366,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Teubl Baustoffe",
     "retailer": "teubl_baustoffe",
     "shop": "trade",
     "latitude": 47.0306611,
-    "longitude": 15.4413145
+    "longitude": 15.4413145,
+    "postcode": "8055",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

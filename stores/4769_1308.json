@@ -4,41 +4,60 @@
     "retailer": "anita_hinterhofer",
     "shop": "hairdresser",
     "latitude": 47.6951199,
-    "longitude": 13.0873642
+    "longitude": 13.0873642,
+    "postcode": "5400",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bakery",
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 47.6951037,
-    "longitude": 13.0874017
+    "longitude": 13.0874017,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Getränkemarkt",
     "retailer": "getrankemarkt",
     "shop": "convenience",
     "latitude": 47.6936522,
-    "longitude": 13.0801857
+    "longitude": 13.0801857,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hafnerei Pupik",
     "retailer": "hafnerei_pupik",
     "shop": "fireplace",
     "latitude": 47.6905272,
-    "longitude": 13.0867318
+    "longitude": 13.0867318,
+    "postcode": "5400",
+    "city": "Hallein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lagerbox Hallein",
     "retailer": "lagerbox_hallein",
     "shop": "storage_rental",
     "latitude": 47.691284,
-    "longitude": 13.08563
+    "longitude": 13.08563,
+    "postcode": "5400",
+    "city": "Hallein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Putz",
     "retailer": "putz",
     "shop": "convenience",
     "latitude": 47.6942271,
-    "longitude": 13.0865146
+    "longitude": 13.0865146,
+    "postcode": "5400",
+    "city": "Hallein",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

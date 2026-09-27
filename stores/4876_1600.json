@@ -5,41 +5,60 @@
     "shop": "supermarket",
     "latitude": 48.7659709,
     "longitude": 16.0030837,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "2074",
+    "city": "Unterretzbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut & Gästehaus Rücker",
     "retailer": "weingut_und_gastehaus_rucker",
     "shop": "wine",
     "latitude": 48.7648746,
-    "longitude": 16.0020614
+    "longitude": 16.0020614,
+    "postcode": "2074",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Ludwig Hofbauer",
     "retailer": "weingut_ludwig_hofbauer",
     "shop": "wine",
     "latitude": 48.7653432,
-    "longitude": 16.0056742
+    "longitude": 16.0056742,
+    "postcode": "2074",
+    "city": "Retzbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Pastner",
     "retailer": "weingut_pastner",
     "shop": "wine",
     "latitude": 48.7681013,
-    "longitude": 16.006273
+    "longitude": 16.006273,
+    "postcode": "2074",
+    "city": "Retzbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Zuckriegl",
     "retailer": "weingut_zuckriegl",
     "shop": "wine",
     "latitude": 48.7667854,
-    "longitude": 16.0005251
+    "longitude": 16.0005251,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weinhof Pollak",
     "retailer": "weinhof_pollak",
     "shop": "wine",
     "latitude": 48.7670584,
-    "longitude": 16.0033242
+    "longitude": 16.0033242,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,20 +5,28 @@
     "shop": "supermarket",
     "latitude": 48.4714462,
     "longitude": 16.85167,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2263",
+    "city": "Dürnkrut",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Geier",
     "retailer": "geier",
     "shop": "bakery",
     "latitude": 48.4723718,
-    "longitude": 16.8521107
+    "longitude": 16.8521107,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.4720248,
-    "longitude": 16.85196
+    "longitude": 16.85196,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

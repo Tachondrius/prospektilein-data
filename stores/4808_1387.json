@@ -4,35 +4,50 @@
     "retailer": "ambientes",
     "shop": "interior_decoration",
     "latitude": 48.0859554,
-    "longitude": 13.8734852
+    "longitude": 13.8734852,
+    "postcode": "4651",
+    "city": "Stadl-Paura",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blumen Schweninger",
     "retailer": "blumen_schweninger",
     "shop": "florist",
     "latitude": 48.085132,
-    "longitude": 13.8743407
+    "longitude": 13.8743407,
+    "postcode": "4651",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Butcher",
     "retailer": "shop_butcher",
     "shop": "butcher",
     "latitude": 48.0851162,
-    "longitude": 13.8729542
+    "longitude": 13.8729542,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Erich Stöger",
     "retailer": "erich_stoger",
     "shop": "interior_decoration",
     "latitude": 48.085062,
-    "longitude": 13.8738482
+    "longitude": 13.8738482,
+    "postcode": "4651",
+    "city": "Stadl-Paura",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.08588,
-    "longitude": 13.8735773
+    "longitude": 13.8735773,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar Express",
@@ -40,6 +55,8 @@
     "shop": "convenience",
     "latitude": 48.0855628,
     "longitude": 13.8741164,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

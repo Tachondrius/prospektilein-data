@@ -4,14 +4,19 @@
     "retailer": "egt_elektro_gerate_technik_christian_plattner",
     "shop": "electrical",
     "latitude": 47.2450501,
-    "longitude": 11.2451229
+    "longitude": 11.2451229,
+    "city": "Oberperfuss",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Monika Kuen",
     "retailer": "monika_kuen",
     "shop": "florist",
     "latitude": 47.2441424,
-    "longitude": 11.2495925
+    "longitude": 11.2495925,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -19,20 +24,30 @@
     "shop": "supermarket",
     "latitude": 47.2452048,
     "longitude": 11.2451281,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6173",
+    "city": "Oberperfuss",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schluifer",
     "retailer": "schluifer",
     "shop": "bakery",
     "latitude": 47.2441432,
-    "longitude": 11.2498439
+    "longitude": 11.2498439,
+    "postcode": "6173",
+    "city": "Oberperfuss",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Haider",
     "retailer": "sport_haider",
     "shop": "sports",
     "latitude": 47.2448174,
-    "longitude": 11.2481735
+    "longitude": 11.2481735,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

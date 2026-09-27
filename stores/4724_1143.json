@@ -5,7 +5,11 @@
     "shop": "bakery",
     "latitude": 47.240981,
     "longitude": 11.4355281,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6072",
+    "city": "Lans",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -13,13 +17,19 @@
     "shop": "supermarket",
     "latitude": 47.2409374,
     "longitude": 11.4353068,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6072",
+    "city": "Lans",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Piegger",
     "retailer": "piegger",
     "shop": "butcher",
     "latitude": 47.2409289,
-    "longitude": 11.4350331
+    "longitude": 11.4350331,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

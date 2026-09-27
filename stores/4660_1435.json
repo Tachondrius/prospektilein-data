@@ -4,14 +4,22 @@
     "retailer": "blumen_schilcher",
     "shop": "florist",
     "latitude": 46.6093268,
-    "longitude": 14.3525179
+    "longitude": 14.3525179,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Frisiersalon Elisabeth",
     "retailer": "frisiersalon_elisabeth",
     "shop": "hairdresser",
     "latitude": 46.6093444,
-    "longitude": 14.3508959
+    "longitude": 14.3508959,
+    "postcode": "9020",
+    "city": "Klagenfurt am Wörthersee",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hofer",
@@ -19,21 +27,31 @@
     "shop": "supermarket",
     "latitude": 46.6083045,
     "longitude": 14.3527123,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9065",
+    "city": "Ebenthal in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Küchenmetropole Püringer",
     "retailer": "kuchenmetropole_puringer",
     "shop": "kitchen",
     "latitude": 46.6098271,
-    "longitude": 14.3587914
+    "longitude": 14.3587914,
+    "postcode": "9065",
+    "city": "Ebenthal in Kärnten",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Rupps Bauernladen",
     "retailer": "rupps_bauernladen",
     "shop": "farm",
     "latitude": 46.6039041,
-    "longitude": 14.3589232
+    "longitude": 14.3589232,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -41,13 +59,18 @@
     "shop": "supermarket",
     "latitude": 46.609073,
     "longitude": 14.3536088,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9065",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tabak Trafik Koschat",
     "retailer": "tabak_trafik_koschat",
     "shop": "kiosk",
     "latitude": 46.6088686,
-    "longitude": 14.3527624
+    "longitude": 14.3527624,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

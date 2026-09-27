@@ -5,21 +5,27 @@
     "shop": "sports",
     "latitude": 47.2133502,
     "longitude": 11.0209635,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kassa",
     "retailer": "kassa",
     "shop": "ticket",
     "latitude": 47.2148997,
-    "longitude": 11.0259395
+    "longitude": 11.0259395,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kühtai Shop",
     "retailer": "kuhtai_shop",
     "shop": "convenience",
     "latitude": 47.2143516,
-    "longitude": 11.0251275
+    "longitude": 11.0251275,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Seppl Kühtai",
@@ -27,6 +33,8 @@
     "shop": "sports",
     "latitude": 47.213439,
     "longitude": 11.0233343,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

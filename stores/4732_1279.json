@@ -4,35 +4,45 @@
     "retailer": "aran_barbershop",
     "shop": "hairdresser",
     "latitude": 47.3228918,
-    "longitude": 12.7967042
+    "longitude": 12.7967042,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Aug und Ohr",
     "retailer": "aug_und_ohr",
     "shop": "optician",
     "latitude": 47.3215598,
-    "longitude": 12.7970273
+    "longitude": 12.7970273,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Autohaus Just",
     "retailer": "autohaus_just",
     "shop": "car",
     "latitude": 47.3277653,
-    "longitude": 12.7968513
+    "longitude": 12.7968513,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Aydin",
     "retailer": "aydin",
     "shop": "supermarket",
     "latitude": 47.3228237,
-    "longitude": 12.7975125
+    "longitude": 12.7975125,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Barbara",
     "retailer": "barbara",
     "shop": "interior_decoration",
     "latitude": 47.3236168,
-    "longitude": 12.7972144
+    "longitude": 12.7972144,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -40,7 +50,11 @@
     "shop": "supermarket",
     "latitude": 47.3231274,
     "longitude": 12.7981209,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa stop & shop",
@@ -48,7 +62,9 @@
     "shop": "convenience",
     "latitude": 47.325599,
     "longitude": 12.7961855,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bipa",
@@ -56,105 +72,141 @@
     "shop": "chemist",
     "latitude": 47.323199,
     "longitude": 12.7960619,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bründl",
     "retailer": "brundl",
     "shop": "sports",
     "latitude": 47.3235419,
-    "longitude": 12.7938356
+    "longitude": 12.7938356,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Candy Land",
     "retailer": "candy_land",
     "shop": "yes",
     "latitude": 47.324263,
-    "longitude": 12.7983591
+    "longitude": 12.7983591,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Charisma am Stadtplatz",
     "retailer": "charisma_am_stadtplatz",
     "shop": "gift",
     "latitude": 47.3235638,
-    "longitude": 12.7982879
+    "longitude": 12.7982879,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Chocaholic",
     "retailer": "chocaholic",
     "shop": "deli",
     "latitude": 47.3239815,
-    "longitude": 12.7992822
+    "longitude": 12.7992822,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Elektro Hartl",
     "retailer": "elektro_hartl",
     "shop": "electronics",
     "latitude": 47.3238747,
-    "longitude": 12.7945261
+    "longitude": 12.7945261,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Ellmauer",
     "retailer": "ellmauer",
     "shop": "books",
     "latitude": 47.3227956,
-    "longitude": 12.7982511
+    "longitude": 12.7982511,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Europ Sport",
     "retailer": "europ_sport",
     "shop": "sports",
     "latitude": 47.3246354,
-    "longitude": 12.7957776
+    "longitude": 12.7957776,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fahrkartenschalter",
     "retailer": "fahrkartenschalter",
     "shop": "travel_agency",
     "latitude": 47.3208584,
-    "longitude": 12.7966566
+    "longitude": 12.7966566,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Falcon",
     "retailer": "falcon",
     "shop": "clothes",
     "latitude": 47.323756,
-    "longitude": 12.797169
+    "longitude": 12.797169,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fashion Steiner",
     "retailer": "fashion_steiner",
     "shop": "clothes",
     "latitude": 47.3239838,
-    "longitude": 12.7942877
+    "longitude": 12.7942877,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Feinkost/Speck",
     "retailer": "feinkost_speck",
     "shop": "deli",
     "latitude": 47.3239706,
-    "longitude": 12.7989128
+    "longitude": 12.7989128,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 47.3237217,
-    "longitude": 12.7974306
+    "longitude": 12.7974306,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Gift",
     "retailer": "shop_gift",
     "shop": "gift",
     "latitude": 47.3239722,
-    "longitude": 12.7993371
+    "longitude": 12.7993371,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Haarstudio Gassner",
     "retailer": "haarstudio_gassner",
     "shop": "hairdresser",
     "latitude": 47.3232825,
-    "longitude": 12.7980409
+    "longitude": 12.7980409,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hansaton",
@@ -162,7 +214,11 @@
     "shop": "hearing_aids",
     "latitude": 47.320847,
     "longitude": 12.7962056,
-    "brand": "Hansaton"
+    "brand": "Hansaton",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hartlauer",
@@ -170,21 +226,29 @@
     "shop": "electronics",
     "latitude": 47.3213878,
     "longitude": 12.796948,
-    "brand": "Hartlauer"
+    "brand": "Hartlauer",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Herzschlag",
     "retailer": "herzschlag",
     "shop": "clothes",
     "latitude": 47.3214876,
-    "longitude": 12.7972973
+    "longitude": 12.7972973,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hierandtner",
     "retailer": "hierandtner",
     "shop": "shoes",
     "latitude": 47.3223008,
-    "longitude": 12.7976627
+    "longitude": 12.7976627,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport",
@@ -192,56 +256,74 @@
     "shop": "sports",
     "latitude": 47.3217373,
     "longitude": 12.7976604,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Jones",
     "retailer": "jones",
     "shop": "clothes",
     "latitude": 47.3237472,
-    "longitude": 12.7985154
+    "longitude": 12.7985154,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KamDer",
     "retailer": "kamder",
     "shop": "hairdresser",
     "latitude": 47.3211892,
-    "longitude": 12.7967591
+    "longitude": 12.7967591,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 47.3235772,
-    "longitude": 12.7979167
+    "longitude": 12.7979167,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Kiosk",
     "retailer": "kiosk",
     "shop": "convenience",
     "latitude": 47.3246076,
-    "longitude": 12.7962931
+    "longitude": 12.7962931,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Leder Zant",
     "retailer": "leder_zant",
     "shop": "clothes",
     "latitude": 47.3262696,
-    "longitude": 12.7980635
+    "longitude": 12.7980635,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Loop",
     "retailer": "loop",
     "shop": "clothes",
     "latitude": 47.3214076,
-    "longitude": 12.7972411
+    "longitude": 12.7972411,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Manner Pop-up Shop",
     "retailer": "manner_pop_up_shop",
     "shop": "confectionery",
     "latitude": 47.3235344,
-    "longitude": 12.7977625
+    "longitude": 12.7977625,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Marionnaud",
@@ -249,7 +331,9 @@
     "shop": "perfumery",
     "latitude": 47.322985,
     "longitude": 12.7980973,
-    "brand": "Marionnaud"
+    "brand": "Marionnaud",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Moreboards",
@@ -257,21 +341,27 @@
     "shop": "clothes",
     "latitude": 47.3237298,
     "longitude": 12.7973435,
-    "brand": "Moreboards"
+    "brand": "Moreboards",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mösslacher",
     "retailer": "mosslacher",
     "shop": "jewelry",
     "latitude": 47.3238887,
-    "longitude": 12.7965369
+    "longitude": 12.7965369,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Naturprodukte Röck",
     "retailer": "naturprodukte_rock",
     "shop": "yes",
     "latitude": 47.3239258,
-    "longitude": 12.7996069
+    "longitude": 12.7996069,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Neuroth",
@@ -279,7 +369,9 @@
     "shop": "hearing_aids",
     "latitude": 47.3229681,
     "longitude": 12.7978751,
-    "brand": "Neuroth"
+    "brand": "Neuroth",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "NKD",
@@ -287,14 +379,22 @@
     "shop": "clothes",
     "latitude": 47.32145,
     "longitude": 12.7974182,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Optik Plörer",
     "retailer": "optik_plorer",
     "shop": "optician",
     "latitude": 47.3224647,
-    "longitude": 12.7978415
+    "longitude": 12.7978415,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pearle",
@@ -302,21 +402,27 @@
     "shop": "optician",
     "latitude": 47.3213521,
     "longitude": 12.7971962,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Peterleitner",
     "retailer": "peterleitner",
     "shop": "bag",
     "latitude": 47.3220843,
-    "longitude": 12.7977946
+    "longitude": 12.7977946,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Phönix Reinigung und Wäscherei",
     "retailer": "phonix_reinigung_und_wascherei",
     "shop": "dry_cleaning",
     "latitude": 47.3238496,
-    "longitude": 12.7949871
+    "longitude": 12.7949871,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "reformstark Martin",
@@ -324,42 +430,64 @@
     "shop": "health_food",
     "latitude": 47.3216288,
     "longitude": 12.7974138,
-    "brand": "reformstark Martin"
+    "brand": "reformstark Martin",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Reisewelt",
     "retailer": "reisewelt",
     "shop": "travel_agency",
     "latitude": 47.3228829,
-    "longitude": 12.7968669
+    "longitude": 12.7968669,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schmuck im Turm",
     "retailer": "schmuck_im_turm",
     "shop": "jewelry",
     "latitude": 47.3235862,
-    "longitude": 12.7978654
+    "longitude": 12.7978654,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "SkiPro & BikePro Radverleih & Sportshop ZELL AM SEE",
     "retailer": "skipro_und_bikepro_radverleih_und_sportshop_zell_am_see",
     "shop": "sports,ski,bicycle",
     "latitude": 47.3236062,
-    "longitude": 12.7972938
+    "longitude": 12.7972938,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sopure",
     "retailer": "sopure",
     "shop": "perfumery",
     "latitude": 47.324026,
-    "longitude": 12.7990375
+    "longitude": 12.7990375,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Souvenir",
     "retailer": "souvenir",
     "shop": "gift",
     "latitude": 47.3239849,
-    "longitude": 12.798355
+    "longitude": 12.798355,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -367,7 +495,9 @@
     "shop": "supermarket",
     "latitude": 47.3229006,
     "longitude": 12.7964149,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport 2000",
@@ -375,42 +505,56 @@
     "shop": "sports",
     "latitude": 47.3232996,
     "longitude": 12.7957123,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Achleitner",
     "retailer": "sport_achleitner",
     "shop": "sports",
     "latitude": 47.323906,
-    "longitude": 12.7961201
+    "longitude": 12.7961201,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sports",
     "retailer": "shop_sports",
     "shop": "sports",
     "latitude": 47.3236537,
-    "longitude": 12.7946267
+    "longitude": 12.7946267,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Steinacher",
     "retailer": "steinacher",
     "shop": "shoes",
     "latitude": 47.3241414,
-    "longitude": 12.7994904
+    "longitude": 12.7994904,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Steinreich",
     "retailer": "steinreich",
     "shop": "clothes",
     "latitude": 47.322906,
-    "longitude": 12.7980819
+    "longitude": 12.7980819,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Steinwelt",
     "retailer": "steinwelt",
     "shop": "minerals",
     "latitude": 47.3234922,
-    "longitude": 12.7984313
+    "longitude": 12.7984313,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Swarovski",
@@ -418,28 +562,38 @@
     "shop": "jewelry",
     "latitude": 47.3241013,
     "longitude": 12.7997582,
-    "brand": "Swarovski"
+    "brand": "Swarovski",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Tappe",
     "retailer": "tappe",
     "shop": "medical_supply",
     "latitude": 47.3249814,
-    "longitude": 12.7947968
+    "longitude": 12.7947968,
+    "postcode": "5700",
+    "city": "Zell am See",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "trendmaker",
     "retailer": "trendmaker",
     "shop": "clothes",
     "latitude": 47.3219055,
-    "longitude": 12.7976096
+    "longitude": 12.7976096,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Trendmaker",
     "retailer": "trendmaker",
     "shop": "clothes",
     "latitude": 47.3227122,
-    "longitude": 12.7980187
+    "longitude": 12.7980187,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "United Colors of Benetton",
@@ -447,13 +601,17 @@
     "shop": "clothes",
     "latitude": 47.3238166,
     "longitude": 12.798491,
-    "brand": "United Colors of Benetton"
+    "brand": "United Colors of Benetton",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Unterkofler",
     "retailer": "unterkofler",
     "shop": "bakery",
     "latitude": 47.3236181,
-    "longitude": 12.7984975
+    "longitude": 12.7984975,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

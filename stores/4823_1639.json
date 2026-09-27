@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.2326875,
     "longitude": 16.3957326,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1020",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -13,14 +17,20 @@
     "shop": "supermarket",
     "latitude": 48.2336381,
     "longitude": 16.3907278,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1200",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Engerth Handy",
     "retailer": "engerth_handy",
     "shop": "mobile_phone",
     "latitude": 48.233392,
-    "longitude": 16.3929861
+    "longitude": 16.3929861,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "ETSAN",
@@ -28,14 +38,20 @@
     "shop": "supermarket",
     "latitude": 48.2314743,
     "longitude": 16.3944075,
-    "brand": "ETSAN"
+    "brand": "ETSAN",
+    "postcode": "1020",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "hairielle",
     "retailer": "hairielle",
     "shop": "hairdresser",
     "latitude": 48.2339816,
-    "longitude": 16.393841
+    "longitude": 16.393841,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hofer",
@@ -43,7 +59,11 @@
     "shop": "supermarket",
     "latitude": 48.23655,
     "longitude": 16.3904175,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "1200",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "KiK",
@@ -51,14 +71,20 @@
     "shop": "clothes",
     "latitude": 48.2370353,
     "longitude": 16.3902966,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "1200",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak",
     "retailer": "tabak",
     "shop": "tobacco",
     "latitude": 48.2308747,
-    "longitude": 16.3959635
+    "longitude": 16.3959635,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Turmöl",
@@ -66,13 +92,19 @@
     "shop": "kiosk",
     "latitude": 48.2337857,
     "longitude": 16.3919192,
-    "brand": "Turmöl"
+    "brand": "Turmöl",
+    "postcode": "1200",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Zeynel",
     "retailer": "zeynel",
     "shop": "hairdresser",
     "latitude": 48.2311607,
-    "longitude": 16.3956287
+    "longitude": 16.3956287,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

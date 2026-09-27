@@ -4,7 +4,9 @@
     "retailer": "hosp",
     "shop": "bakery",
     "latitude": 47.2247713,
-    "longitude": 9.6190449
+    "longitude": 9.6190449,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Mömax",
@@ -12,20 +14,28 @@
     "shop": "furniture",
     "latitude": 47.2249471,
     "longitude": 9.6176881,
-    "brand": "Mömax"
+    "brand": "Mömax",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Panto Outdoor",
     "retailer": "panto_outdoor",
     "shop": "outdoor",
     "latitude": 47.2250902,
-    "longitude": 9.616351
+    "longitude": 9.616351,
+    "postcode": "6820",
+    "city": "Frastanz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "VIVA",
     "retailer": "viva",
     "shop": "convenience",
     "latitude": 47.2244519,
-    "longitude": 9.6173593
+    "longitude": 9.6173593,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

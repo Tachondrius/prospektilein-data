@@ -4,7 +4,9 @@
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 47.8177522,
-    "longitude": 13.0163731
+    "longitude": 13.0163731,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa stop & shop",
@@ -12,7 +14,11 @@
     "shop": "convenience",
     "latitude": 47.817827,
     "longitude": 13.0185802,
-    "brand": "Billa stop & shop"
+    "brand": "Billa stop & shop",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Blumen B&B",
@@ -20,14 +26,18 @@
     "shop": "florist",
     "latitude": 47.8166161,
     "longitude": 13.01935,
-    "brand": "Blumen B&B"
+    "brand": "Blumen B&B",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "CTS GMBH",
     "retailer": "cts_gmbh",
     "shop": "computer",
     "latitude": 47.8107391,
-    "longitude": 13.0192025
+    "longitude": 13.0192025,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Eni Shop",
@@ -35,21 +45,29 @@
     "shop": "convenience",
     "latitude": 47.8194483,
     "longitude": 13.0172146,
-    "brand": "Eni Shop"
+    "brand": "Eni Shop",
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Familie Krinner",
     "retailer": "familie_krinner",
     "shop": "greengrocer",
     "latitude": 47.819166,
-    "longitude": 13.0122833
+    "longitude": 13.0122833,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Haareszeiten",
     "retailer": "haareszeiten",
     "shop": "hairdresser",
     "latitude": 47.8190126,
-    "longitude": 13.01292
+    "longitude": 13.01292,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lidl",
@@ -57,34 +75,46 @@
     "shop": "supermarket",
     "latitude": 47.817481,
     "longitude": 13.0196442,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Martina",
     "retailer": "martina",
     "shop": "hairdresser",
     "latitude": 47.8191561,
-    "longitude": 13.0152854
+    "longitude": 13.0152854,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Optik djalli",
     "retailer": "optik_djalli",
     "shop": "optician",
     "latitude": 47.8193632,
-    "longitude": 13.015264
+    "longitude": 13.015264,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pet Well",
     "retailer": "pet_well",
     "shop": "pet_grooming",
     "latitude": 47.8189346,
-    "longitude": 13.012908
+    "longitude": 13.012908,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Pfeifenberger",
     "retailer": "pfeifenberger",
     "shop": "jewelry",
     "latitude": 47.8194324,
-    "longitude": 13.0181216
+    "longitude": 13.0181216,
+    "postcode": "5020",
+    "city": "Salzburg",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

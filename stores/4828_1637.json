@@ -4,7 +4,9 @@
     "retailer": "automobiltechnik_martin_csorgo",
     "shop": "car_repair",
     "latitude": 48.2836181,
-    "longitude": 16.3726872
+    "longitude": 16.3726872,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa Now",
@@ -12,28 +14,38 @@
     "shop": "convenience",
     "latitude": 48.2826166,
     "longitude": 16.3798634,
-    "brand": "Billa Now"
+    "brand": "Billa Now",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Design Lichtblick Outlet",
     "retailer": "design_lichtblick_outlet",
     "shop": "furniture",
     "latitude": 48.2845468,
-    "longitude": 16.3788004
+    "longitude": 16.3788004,
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "dieWerkstatt",
     "retailer": "diewerkstatt",
     "shop": "car_repair",
     "latitude": 48.284984,
-    "longitude": 16.3718203
+    "longitude": 16.3718203,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "KFZ Tec Reifen 2000",
     "retailer": "kfz_tec_reifen_2000",
     "shop": "car_repair",
     "latitude": 48.2837965,
-    "longitude": 16.372145
+    "longitude": 16.372145,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Volkshilfe Shop",
@@ -41,6 +53,10 @@
     "shop": "second_hand",
     "latitude": 48.2851054,
     "longitude": 16.3797576,
-    "brand": "Volkshilfe"
+    "brand": "Volkshilfe",
+    "postcode": "1210",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

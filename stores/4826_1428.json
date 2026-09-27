@@ -4,7 +4,9 @@
     "retailer": "be_beautiful",
     "shop": "cosmetics",
     "latitude": 48.2697215,
-    "longitude": 14.2878442
+    "longitude": 14.2878442,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -12,7 +14,9 @@
     "shop": "supermarket",
     "latitude": 48.2695392,
     "longitude": 14.2878696,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -20,21 +24,31 @@
     "shop": "chemist",
     "latitude": 48.2650235,
     "longitude": 14.2823452,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Der Grüne Zweig",
     "retailer": "der_grune_zweig",
     "shop": "florist",
     "latitude": 48.2655982,
-    "longitude": 14.2827438
+    "longitude": 14.2827438,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Elektro Gerhard Trinkl",
     "retailer": "elektro_gerhard_trinkl",
     "shop": "electronics",
     "latitude": 48.2697439,
-    "longitude": 14.2894169
+    "longitude": 14.2894169,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -42,42 +56,58 @@
     "shop": "supermarket",
     "latitude": 48.2653994,
     "longitude": 14.2820006,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fenzl",
     "retailer": "fenzl",
     "shop": "bakery",
     "latitude": 48.2650864,
-    "longitude": 14.28233
+    "longitude": 14.28233,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "H3 Hairstyle",
     "retailer": "h3_hairstyle",
     "shop": "hairdresser",
     "latitude": 48.2697471,
-    "longitude": 14.2895594
+    "longitude": 14.2895594,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "heindl",
     "retailer": "heindl",
     "shop": "medical_supply",
     "latitude": 48.2655578,
-    "longitude": 14.2826347
+    "longitude": 14.2826347,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Jenny Stadlmann",
     "retailer": "jenny_stadlmann",
     "shop": "beauty",
     "latitude": 48.2650246,
-    "longitude": 14.2818738
+    "longitude": 14.2818738,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "KFZ-Fachbetrieb Winkler",
     "retailer": "kfz_fachbetrieb_winkler",
     "shop": "car_repair",
     "latitude": 48.2667288,
-    "longitude": 14.2871831
+    "longitude": 14.2871831,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Klipp",
@@ -85,21 +115,29 @@
     "shop": "hairdresser",
     "latitude": 48.2659634,
     "longitude": 14.2878357,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "kreativ LADEN",
     "retailer": "kreativ_laden",
     "shop": "charity",
     "latitude": 48.2656836,
-    "longitude": 14.2829702
+    "longitude": 14.2829702,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lampl & Böcksteiner",
     "retailer": "lampl_und_bocksteiner",
     "shop": "optician",
     "latitude": 48.2653548,
-    "longitude": 14.2830081
+    "longitude": 14.2830081,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lidl",
@@ -107,49 +145,66 @@
     "shop": "supermarket",
     "latitude": 48.2661072,
     "longitude": 14.2876332,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Regina Schuhmoden",
     "retailer": "regina_schuhmoden",
     "shop": "shoes",
     "latitude": 48.2669803,
-    "longitude": 14.2887101
+    "longitude": 14.2887101,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Salon Heike",
     "retailer": "salon_heike",
     "shop": "hairdresser",
     "latitude": 48.2697429,
-    "longitude": 14.2888638
+    "longitude": 14.2888638,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "SAM Music",
     "retailer": "sam_music",
     "shop": "musical_instrument",
     "latitude": 48.2668576,
-    "longitude": 14.2880171
+    "longitude": 14.2880171,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schnitt ab Hof",
     "retailer": "schnitt_ab_hof",
     "shop": "hairdresser",
     "latitude": 48.2614814,
-    "longitude": 14.2835259
+    "longitude": 14.2835259,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "schÖNER Supermarkt",
     "retailer": "schoner_supermarkt",
     "shop": "supermarket",
     "latitude": 48.2669648,
-    "longitude": 14.286538
+    "longitude": 14.286538,
+    "postcode": "4020",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Trafik Perchthaler",
     "retailer": "tabak_trafik_perchthaler",
     "shop": "tobacco",
     "latitude": 48.2670775,
-    "longitude": 14.287786
+    "longitude": 14.287786,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabaktrafik",
@@ -157,20 +212,26 @@
     "shop": "tobacco",
     "latitude": 48.265084,
     "longitude": 14.2821233,
-    "brand": "Tabaktrafik"
+    "brand": "Tabaktrafik",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wolitz",
     "retailer": "wolitz",
     "shop": "interior_decoration",
     "latitude": 48.2663871,
-    "longitude": 14.2870514
+    "longitude": 14.2870514,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Änderungsschneiderei Erika Asanger",
     "retailer": "anderungsschneiderei_erika_asanger",
     "shop": "tailor",
     "latitude": 48.2650732,
-    "longitude": 14.282022
+    "longitude": 14.282022,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

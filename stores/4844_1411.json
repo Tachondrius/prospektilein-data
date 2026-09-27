@@ -4,20 +4,28 @@
     "retailer": "lagerhaus",
     "shop": "department_store",
     "latitude": 48.4407994,
-    "longitude": 14.117574
+    "longitude": 14.117574,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "doityourself",
     "latitude": 48.4409773,
-    "longitude": 14.1172769
+    "longitude": 14.1172769,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
     "retailer": "spar",
     "shop": "supermarket",
     "latitude": 48.4403568,
-    "longitude": 14.1184926
+    "longitude": 14.1184926,
+    "postcode": "4175",
+    "city": "Herzogsdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

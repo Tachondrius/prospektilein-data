@@ -4,70 +4,92 @@
     "retailer": "barbershop_class_men",
     "shop": "hairdresser",
     "latitude": 48.332051,
-    "longitude": 14.1770585
+    "longitude": 14.1770585,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "BILLA stop & shop",
     "retailer": "billa",
     "shop": "convenience",
     "latitude": 48.3373493,
-    "longitude": 14.1771515
+    "longitude": 14.1771515,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Blåkläder Workwear",
     "retailer": "blaklader_workwear",
     "shop": "clothes",
     "latitude": 48.3379575,
-    "longitude": 14.1775237
+    "longitude": 14.1775237,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "DEINRAD",
     "retailer": "deinrad",
     "shop": "bicycle",
     "latitude": 48.3321619,
-    "longitude": 14.1772788
+    "longitude": 14.1772788,
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Der Kleine Buchladen",
     "retailer": "der_kleine_buchladen",
     "shop": "books",
     "latitude": 48.3319056,
-    "longitude": 14.1767795
+    "longitude": 14.1767795,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gillhofer",
     "retailer": "gillhofer",
     "shop": "bakery",
     "latitude": 48.3319088,
-    "longitude": 14.1759864
+    "longitude": 14.1759864,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Greisslerei",
     "retailer": "greisslerei",
     "shop": "deli",
     "latitude": 48.3319538,
-    "longitude": 14.1772664
+    "longitude": 14.1772664,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Heindl",
     "retailer": "heindl",
     "shop": "medical_supply",
     "latitude": 48.3380925,
-    "longitude": 14.1770179
+    "longitude": 14.1770179,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Ilios",
     "retailer": "ilios",
     "shop": "general",
     "latitude": 48.3380502,
-    "longitude": 14.1771762
+    "longitude": 14.1771762,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kern",
     "retailer": "kern",
     "shop": "shoes",
     "latitude": 48.334882,
-    "longitude": 14.1727399
+    "longitude": 14.1727399,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Nah & Frisch",
@@ -75,13 +97,19 @@
     "shop": "supermarket",
     "latitude": 48.3327547,
     "longitude": 14.1734294,
-    "brand": "Nah & Frisch"
+    "brand": "Nah & Frisch",
+    "postcode": "4100",
+    "city": "Ottensheim",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sharana",
     "retailer": "sharana",
     "shop": "tobacco",
     "latitude": 48.3380403,
-    "longitude": 14.1772134
+    "longitude": 14.1772134,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

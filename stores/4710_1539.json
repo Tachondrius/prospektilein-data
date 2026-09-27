@@ -5,14 +5,18 @@
     "shop": "telecommunication",
     "latitude": 47.1053097,
     "longitude": 15.3977881,
-    "brand": "A1"
+    "brand": "A1",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Beauty",
     "retailer": "shop_beauty",
     "shop": "beauty",
     "latitude": 47.1049417,
-    "longitude": 15.3985512
+    "longitude": 15.3985512,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bijou Brigitte",
@@ -20,7 +24,9 @@
     "shop": "jewelry",
     "latitude": 47.1050112,
     "longitude": 15.3982243,
-    "brand": "Bijou Brigitte"
+    "brand": "Bijou Brigitte",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Billa Plus",
@@ -28,7 +34,11 @@
     "shop": "supermarket",
     "latitude": 47.1055521,
     "longitude": 15.3971177,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Bipa",
@@ -36,7 +46,11 @@
     "shop": "chemist",
     "latitude": 47.1051597,
     "longitude": 15.3975254,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "BONITA",
@@ -44,7 +58,9 @@
     "shop": "clothes",
     "latitude": 47.1052704,
     "longitude": 15.3978921,
-    "brand": "BONITA"
+    "brand": "BONITA",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "BONITA",
@@ -52,14 +68,18 @@
     "shop": "clothes",
     "latitude": 47.1054129,
     "longitude": 15.3976726,
-    "brand": "BONITA"
+    "brand": "BONITA",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Brickcomplete",
     "retailer": "brickcomplete",
     "shop": "toys",
     "latitude": 47.1048943,
-    "longitude": 15.398699
+    "longitude": 15.398699,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "C&A",
@@ -67,28 +87,38 @@
     "shop": "clothes",
     "latitude": 47.10453,
     "longitude": 15.3983617,
-    "brand": "C&A"
+    "brand": "C&A",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "city-living",
     "retailer": "city_living",
     "shop": "interior_decoration",
     "latitude": 47.1048901,
-    "longitude": 15.398159
+    "longitude": 15.398159,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "city-style",
     "retailer": "city_style",
     "shop": "clothes",
     "latitude": 47.1047525,
-    "longitude": 15.3980753
+    "longitude": 15.3980753,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "CUBE Store Graz",
     "retailer": "cube_store_graz",
     "shop": "bicycle",
     "latitude": 47.1039062,
-    "longitude": 15.3999627
+    "longitude": 15.3999627,
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Das Futterhaus",
@@ -96,7 +126,9 @@
     "shop": "pet",
     "latitude": 47.1038145,
     "longitude": 15.3996388,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Drei",
@@ -104,7 +136,11 @@
     "shop": "telecommunication",
     "latitude": 47.105202,
     "longitude": 15.3981819,
-    "brand": "Drei"
+    "brand": "Drei",
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Ernsting's family",
@@ -112,14 +148,20 @@
     "shop": "clothes",
     "latitude": 47.105355,
     "longitude": 15.3972906,
-    "brand": "Ernsting's family"
+    "brand": "Ernsting's family",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Floristik Obendrauf",
     "retailer": "floristik_obendrauf",
     "shop": "florist",
     "latitude": 47.1047927,
-    "longitude": 15.3988846
+    "longitude": 15.3988846,
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fussl",
@@ -127,14 +169,22 @@
     "shop": "clothes",
     "latitude": 47.1048403,
     "longitude": 15.3986434,
-    "brand": "Fussl"
+    "brand": "Fussl",
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Geschenkeparadies",
     "retailer": "geschenkeparadies",
     "shop": "gift",
     "latitude": 47.1054348,
-    "longitude": 15.3975807
+    "longitude": 15.3975807,
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "H&M",
@@ -142,21 +192,27 @@
     "shop": "clothes",
     "latitude": 47.1050696,
     "longitude": 15.398589,
-    "brand": "H&M"
+    "brand": "H&M",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.1049756,
-    "longitude": 15.3987399
+    "longitude": 15.3987399,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Handy Meister",
     "retailer": "handy_meister",
     "shop": "mobile_phone",
     "latitude": 47.1050875,
-    "longitude": 15.3977858
+    "longitude": 15.3977858,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Intersport",
@@ -164,7 +220,11 @@
     "shop": "sports",
     "latitude": 47.105493,
     "longitude": 15.3971628,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klipp",
@@ -172,14 +232,20 @@
     "shop": "hairdresser",
     "latitude": 47.1049005,
     "longitude": 15.3980761,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Magenta",
     "retailer": "magenta",
     "shop": "mobile_phone",
     "latitude": 47.1048816,
-    "longitude": 15.3982919
+    "longitude": 15.3982919,
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Marionnaud",
@@ -187,7 +253,9 @@
     "shop": "perfumery",
     "latitude": 47.1047214,
     "longitude": 15.3981641,
-    "brand": "Marionnaud"
+    "brand": "Marionnaud",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Martin Auer",
@@ -195,7 +263,11 @@
     "shop": "bakery",
     "latitude": 47.1053142,
     "longitude": 15.3975942,
-    "brand": "Martin Auer"
+    "brand": "Martin Auer",
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "MediaMarkt",
@@ -203,7 +275,11 @@
     "shop": "electronics",
     "latitude": 47.1046874,
     "longitude": 15.3983615,
-    "brand": "MediaMarkt"
+    "brand": "MediaMarkt",
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Mister Minit",
@@ -211,7 +287,9 @@
     "shop": "locksmith",
     "latitude": 47.1052205,
     "longitude": 15.3976982,
-    "brand": "Mister Minit"
+    "brand": "Mister Minit",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NAME IT",
@@ -219,7 +297,9 @@
     "shop": "clothes",
     "latitude": 47.1051673,
     "longitude": 15.3983396,
-    "brand": "NAME IT"
+    "brand": "NAME IT",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Nanu-Nana",
@@ -227,7 +307,9 @@
     "shop": "gift",
     "latitude": 47.1051177,
     "longitude": 15.3976791,
-    "brand": "Nanu-Nana"
+    "brand": "Nanu-Nana",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "orsay",
@@ -235,7 +317,9 @@
     "shop": "clothes",
     "latitude": 47.104854,
     "longitude": 15.3981715,
-    "brand": "orsay"
+    "brand": "orsay",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Palmers",
@@ -243,21 +327,27 @@
     "shop": "clothes",
     "latitude": 47.1048244,
     "longitude": 15.3987266,
-    "brand": "Palmers"
+    "brand": "Palmers",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Palmira",
     "retailer": "palmira",
     "shop": "hairdresser",
     "latitude": 47.1054413,
-    "longitude": 15.3975482
+    "longitude": 15.3975482,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Papillon",
     "retailer": "papillon",
     "shop": "beauty",
     "latitude": 47.1053933,
-    "longitude": 15.3972237
+    "longitude": 15.3972237,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pearle",
@@ -265,14 +355,18 @@
     "shop": "optician",
     "latitude": 47.1054092,
     "longitude": 15.3977067,
-    "brand": "Pearle"
+    "brand": "Pearle",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Pratter",
     "retailer": "pratter",
     "shop": "tobacco",
     "latitude": 47.1047992,
-    "longitude": 15.3979895
+    "longitude": 15.3979895,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "ROMA",
@@ -280,7 +374,9 @@
     "shop": "hairdresser_supply",
     "latitude": 47.1054399,
     "longitude": 15.3975096,
-    "brand": "ROMA"
+    "brand": "ROMA",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "s.Oliver",
@@ -288,14 +384,18 @@
     "shop": "clothes",
     "latitude": 47.1051567,
     "longitude": 15.3984255,
-    "brand": "s.Oliver"
+    "brand": "s.Oliver",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Segreto",
     "retailer": "segreto",
     "shop": "clothes",
     "latitude": 47.1052839,
-    "longitude": 15.398036
+    "longitude": 15.398036,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "sehen!wutscher",
@@ -303,7 +403,9 @@
     "shop": "optician",
     "latitude": 47.1048356,
     "longitude": 15.3983883,
-    "brand": "sehen!wutscher"
+    "brand": "sehen!wutscher",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "shoe4you",
@@ -311,21 +413,29 @@
     "shop": "shoes",
     "latitude": 47.1048441,
     "longitude": 15.3978659,
-    "brand": "shoe4you"
+    "brand": "shoe4you",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Shopping Nord",
     "retailer": "shopping_nord",
     "shop": "mall",
     "latitude": 47.1046467,
-    "longitude": 15.3981772
+    "longitude": 15.3981772,
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Simon",
     "retailer": "simon",
     "shop": "jewelry",
     "latitude": 47.1047722,
-    "longitude": 15.3979818
+    "longitude": 15.3979818,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Takko Fashion",
@@ -333,7 +443,9 @@
     "shop": "clothes",
     "latitude": 47.1050912,
     "longitude": 15.3977332,
-    "brand": "Takko Fashion"
+    "brand": "Takko Fashion",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tchibo",
@@ -341,7 +453,11 @@
     "shop": "coffee",
     "latitude": 47.1054133,
     "longitude": 15.3976507,
-    "brand": "Tchibo"
+    "brand": "Tchibo",
+    "postcode": "8051",
+    "city": "Graz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Thalia",
@@ -349,7 +465,9 @@
     "shop": "books",
     "latitude": 47.1052845,
     "longitude": 15.3979492,
-    "brand": "Thalia"
+    "brand": "Thalia",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tom Tailor",
@@ -357,7 +475,9 @@
     "shop": "clothes",
     "latitude": 47.1049012,
     "longitude": 15.39776,
-    "brand": "Tom Tailor"
+    "brand": "Tom Tailor",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "TUI",
@@ -365,7 +485,9 @@
     "shop": "travel_agency",
     "latitude": 47.1049921,
     "longitude": 15.3987467,
-    "brand": "TUI"
+    "brand": "TUI",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Vero Moda",
@@ -373,7 +495,9 @@
     "shop": "clothes",
     "latitude": 47.1051561,
     "longitude": 15.3983755,
-    "brand": "Vero Moda"
+    "brand": "Vero Moda",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Woolworth",
@@ -381,7 +505,9 @@
     "shop": "department_store",
     "latitude": 47.1047192,
     "longitude": 15.3982494,
-    "brand": "Woolworth"
+    "brand": "Woolworth",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Zillertaler Trachtenwelt",
@@ -389,6 +515,8 @@
     "shop": "clothes",
     "latitude": 47.1053589,
     "longitude": 15.3976693,
-    "brand": "Zillertaler Trachtenwelt"
+    "brand": "Zillertaler Trachtenwelt",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

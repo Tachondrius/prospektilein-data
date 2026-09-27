@@ -5,28 +5,42 @@
     "shop": "supermarket",
     "latitude": 48.4921016,
     "longitude": 16.1100038,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2013",
+    "city": "Göllersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bäckerei Konditorei Josef Bouchal",
     "retailer": "backerei_konditorei_josef_bouchal",
     "shop": "bakery",
     "latitude": 48.4942468,
-    "longitude": 16.1181713
+    "longitude": 16.1181713,
+    "postcode": "2013",
+    "city": "Göllersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Frisiersalon Ilse",
     "retailer": "frisiersalon_ilse",
     "shop": "hairdresser",
     "latitude": 48.4943894,
-    "longitude": 16.1178633
+    "longitude": 16.1178633,
+    "postcode": "2013",
+    "city": "Göllersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schwarzböck",
     "retailer": "schwarzbock",
     "shop": "butcher",
     "latitude": 48.4932918,
-    "longitude": 16.1197119
+    "longitude": 16.1197119,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -34,6 +48,10 @@
     "shop": "supermarket",
     "latitude": 48.4941365,
     "longitude": 16.1184256,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2013",
+    "city": "Göllersdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

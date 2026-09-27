@@ -5,7 +5,9 @@
     "shop": "car",
     "latitude": 48.2511065,
     "longitude": 14.2701448,
-    "brand": "VW;Audi;Skoda;Seat;Porsche"
+    "brand": "VW;Audi;Skoda;Seat;Porsche",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa Plus",
@@ -13,49 +15,67 @@
     "shop": "supermarket",
     "latitude": 48.2537033,
     "longitude": 14.279632,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eindrucksvoll",
     "retailer": "eindrucksvoll",
     "shop": "print",
     "latitude": 48.2548408,
-    "longitude": 14.2744298
+    "longitude": 14.2744298,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Goetzloff",
     "retailer": "goetzloff",
     "shop": "clothes",
     "latitude": 48.2527011,
-    "longitude": 14.2709702
+    "longitude": 14.2709702,
+    "postcode": "4060",
+    "city": "Leonding",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "IBS Oberösterreich Porsche Austria",
     "retailer": "ibs_oberosterreich_porsche_austria",
     "shop": "car_repair",
     "latitude": 48.2508926,
-    "longitude": 14.2706624
+    "longitude": 14.2706624,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kindlinger GesmbH",
     "retailer": "kindlinger_gesmbh",
     "shop": "doityourself",
     "latitude": 48.2523087,
-    "longitude": 14.2796072
+    "longitude": 14.2796072,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kindlinger GesmbH",
     "retailer": "kindlinger_gesmbh",
     "shop": "doityourself",
     "latitude": 48.2526314,
-    "longitude": 14.2792347
+    "longitude": 14.2792347,
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
     "retailer": "nkd",
     "shop": "clothes",
     "latitude": 48.2538533,
-    "longitude": 14.2798815
+    "longitude": 14.2798815,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Porsche Linz Leonding",
@@ -63,6 +83,8 @@
     "shop": "car",
     "latitude": 48.2512133,
     "longitude": 14.272006,
-    "brand": "Audi, Porsche"
+    "brand": "Audi, Porsche",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

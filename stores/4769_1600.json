@@ -4,7 +4,11 @@
     "retailer": "bestattung_stranz",
     "shop": "funeral_directors",
     "latitude": 47.6920613,
-    "longitude": 16.0064135
+    "longitude": 16.0064135,
+    "postcode": "2630",
+    "city": "Grafenbach-St. Valentin",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,41 +16,59 @@
     "shop": "supermarket",
     "latitude": 47.6964268,
     "longitude": 16.0059718,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen Keifl",
     "retailer": "blumen_keifl",
     "shop": "florist",
     "latitude": 47.6955286,
-    "longitude": 16.0047854
+    "longitude": 16.0047854,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Cachil Fashion Loft Handels GmbH",
     "retailer": "cachil_fashion_loft_handels_gmbh",
     "shop": "clothes",
     "latitude": 47.6970475,
-    "longitude": 16.0097796
+    "longitude": 16.0097796,
+    "postcode": "2630",
+    "city": "Ternitz",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hifi",
     "retailer": "shop_hifi",
     "shop": "hifi",
     "latitude": 47.6978849,
-    "longitude": 16.0074539
+    "longitude": 16.0074539,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Klambauer",
     "retailer": "trafik_klambauer",
     "shop": "tobacco",
     "latitude": 47.6967403,
-    "longitude": 16.0057687
+    "longitude": 16.0057687,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Klambauer",
     "retailer": "trafik_klambauer",
     "shop": "kiosk",
     "latitude": 47.697813,
-    "longitude": 16.007261
+    "longitude": 16.007261,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,13 +4,19 @@
     "retailer": "backerei_wendt",
     "shop": "bakery",
     "latitude": 46.7887692,
-    "longitude": 13.4873584
+    "longitude": 13.4873584,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Schmankerl Kiste",
     "retailer": "schmankerl_kiste",
     "shop": "pasta",
     "latitude": 46.7886754,
-    "longitude": 13.4895728
+    "longitude": 13.4895728,
+    "postcode": "9800",
+    "city": "Spittal/Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

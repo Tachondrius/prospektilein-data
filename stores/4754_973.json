@@ -5,13 +5,19 @@
     "shop": "yes",
     "latitude": 47.5446497,
     "longitude": 9.7387666,
-    "brand": "Schindele Handels-GmbH & Co. KG"
+    "brand": "Schindele Handels-GmbH & Co. KG",
+    "postcode": "6912",
+    "city": "Hörbranz",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Vignetten",
     "retailer": "vignetten",
     "shop": "ticket",
     "latitude": 47.5448457,
-    "longitude": 9.7384438
+    "longitude": 9.7384438,
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

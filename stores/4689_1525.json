@@ -4,7 +4,9 @@
     "retailer": "backerei_freydl",
     "shop": "bakery",
     "latitude": 46.8910308,
-    "longitude": 15.2505362
+    "longitude": 15.2505362,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -12,13 +14,21 @@
     "shop": "supermarket",
     "latitude": 46.8901152,
     "longitude": 15.2584952,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 46.8950787,
-    "longitude": 15.2578233
+    "longitude": 15.2578233,
+    "postcode": "8510",
+    "city": "Stainz",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

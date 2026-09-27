@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 47.3170306,
     "longitude": 9.9997483,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6883",
+    "city": "Au",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Sport + Mode Gorbach",
     "retailer": "sport_plus_mode_gorbach",
     "shop": "sports",
     "latitude": 47.3164225,
-    "longitude": 9.9998194
+    "longitude": 9.9998194,
+    "postcode": "6883",
+    "city": "Au im Bregenzerwald",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

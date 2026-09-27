@@ -4,7 +4,9 @@
     "retailer": "absolut_friseur",
     "shop": "hairdresser",
     "latitude": 48.1496065,
-    "longitude": 16.3121304
+    "longitude": 16.3121304,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 48.1412676,
     "longitude": 16.3175009,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Bogensport Traxler",
@@ -20,69 +26,96 @@
     "shop": "sports",
     "latitude": 48.1492894,
     "longitude": 16.3110779,
-    "brand": "Sportler"
+    "brand": "Sportler",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Deluxe Kids&More",
     "retailer": "deluxe_kids_und_more",
     "shop": "baby_goods",
     "latitude": 48.1489737,
-    "longitude": 16.3126897
+    "longitude": 16.3126897,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Gartenbau Woisetschläger",
     "retailer": "gartenbau_woisetschlager",
     "shop": "garden_centre",
     "latitude": 48.1450337,
-    "longitude": 16.3118479
+    "longitude": 16.3118479,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Hairteam23",
     "retailer": "hairteam23",
     "shop": "hairdresser",
     "latitude": 48.1488027,
-    "longitude": 16.3103523
+    "longitude": 16.3103523,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Helopal Gussmarmor Vertriebsgesellschaft m.b.H.",
     "retailer": "helopal_gussmarmor_vertriebsgesellschaft_m_b_h",
     "shop": "furniture",
     "latitude": 48.1401871,
-    "longitude": 16.3122618
+    "longitude": 16.3122618,
+    "postcode": "1230",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Magic Sun Bräunungsstudio",
     "retailer": "magic_sun_braunungsstudio",
     "shop": "beauty",
     "latitude": 48.1479857,
-    "longitude": 16.310057
+    "longitude": 16.310057,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Ninos Hundefriseur",
     "retailer": "ninos_hundefriseur",
     "shop": "pet_grooming",
     "latitude": 48.1407902,
-    "longitude": 16.3176316
+    "longitude": 16.3176316,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "SE-PAS",
     "retailer": "se_pas",
     "shop": "supermarket",
     "latitude": 48.1489804,
-    "longitude": 16.3124757
+    "longitude": 16.3124757,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Secret Gardens",
     "retailer": "secret_gardens",
     "shop": "hairdresser",
     "latitude": 48.142012,
-    "longitude": 16.3101737
+    "longitude": 16.3101737,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Zarghoon",
     "retailer": "zarghoon",
     "shop": "convenience",
     "latitude": 48.1476784,
-    "longitude": 16.3101957
+    "longitude": 16.3101957,
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

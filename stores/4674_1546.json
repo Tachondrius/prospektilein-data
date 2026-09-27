@@ -4,14 +4,21 @@
     "retailer": "baumarkt_dirnbock",
     "shop": "trade",
     "latitude": 46.7418504,
-    "longitude": 15.4669664
+    "longitude": 15.4669664,
+    "postcode": "8452",
+    "city": "Großklein",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Natur-Haar",
     "retailer": "natur_haar",
     "shop": "hairdresser",
     "latitude": 46.7422636,
-    "longitude": 15.4667696
+    "longitude": 15.4667696,
+    "postcode": "8452",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Unimarkt",
@@ -19,6 +26,10 @@
     "shop": "supermarket",
     "latitude": 46.7419457,
     "longitude": 15.4666026,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "8452",
+    "city": "Großklein",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

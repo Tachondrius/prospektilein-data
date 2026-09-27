@@ -4,21 +4,31 @@
     "retailer": "husler_nest",
     "shop": "bed",
     "latitude": 46.8110733,
-    "longitude": 14.8519277
+    "longitude": 14.8519277,
+    "postcode": "9431",
+    "city": "Sankt Stefan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Moderne Raumgestaltung",
     "retailer": "moderne_raumgestaltung",
     "shop": "interior_decoration",
     "latitude": 46.8119786,
-    "longitude": 14.8501099
+    "longitude": 14.8501099,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pale Sport & Bike Shop",
     "retailer": "pale_sport_und_bike_shop",
     "shop": "motorcycle",
     "latitude": 46.8109398,
-    "longitude": 14.8513384
+    "longitude": 14.8513384,
+    "postcode": "9431",
+    "city": "Sankt Stefan",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -26,6 +36,10 @@
     "shop": "supermarket",
     "latitude": 46.8177571,
     "longitude": 14.8531776,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "9431",
+    "city": "Wolfsberg",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -4,21 +4,27 @@
     "retailer": "carmen_und_siegi_photography",
     "shop": "photo",
     "latitude": 47.4238336,
-    "longitude": 11.8322359
+    "longitude": 11.8322359,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Christian Reisen",
     "retailer": "christian_reisen",
     "shop": "travel_agency",
     "latitude": 47.4237059,
-    "longitude": 11.8334517
+    "longitude": 11.8334517,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kosmetikstudio",
     "retailer": "kosmetikstudio",
     "shop": "cosmetics",
     "latitude": 47.4200756,
-    "longitude": 11.8328378
+    "longitude": 11.8328378,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -26,6 +32,10 @@
     "shop": "supermarket",
     "latitude": 47.4202495,
     "longitude": 11.8334008,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6232",
+    "city": "Münster",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

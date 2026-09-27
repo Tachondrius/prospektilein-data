@@ -5,7 +5,11 @@
     "shop": "car",
     "latitude": 48.2273315,
     "longitude": 13.4727091,
-    "brand": "Renault;Dacia"
+    "brand": "Renault;Dacia",
+    "postcode": "4971",
+    "city": "Aurolzmünster",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "JYSK",
@@ -13,7 +17,9 @@
     "shop": "furniture",
     "latitude": 48.2257867,
     "longitude": 13.4757426,
-    "brand": "JYSK"
+    "brand": "JYSK",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "OBI",
@@ -21,35 +27,51 @@
     "shop": "doityourself",
     "latitude": 48.2268391,
     "longitude": 13.4742683,
-    "brand": "OBI"
+    "brand": "OBI",
+    "postcode": "4971",
+    "city": "Aurolzmünster",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Stahlgruber Ried",
     "retailer": "stahlgruber_ried",
     "shop": "car_parts",
     "latitude": 48.2266153,
-    "longitude": 13.475881
+    "longitude": 13.475881,
+    "postcode": "4971",
+    "city": "Aurolzmünster",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Thomas Philipps",
     "retailer": "thomas_philipps",
     "shop": "variety_store",
     "latitude": 48.2256325,
-    "longitude": 13.4754106
+    "longitude": 13.4754106,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Volvo Wirth",
     "retailer": "volvo_wirth",
     "shop": "car",
     "latitude": 48.229389,
-    "longitude": 13.4781857
+    "longitude": 13.4781857,
+    "postcode": "4971",
+    "city": "Aurolzmünster",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Woolworth",
     "retailer": "woolworth",
     "shop": "variety_store",
     "latitude": 48.2255289,
-    "longitude": 13.4757723
+    "longitude": 13.4757723,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "XXXLutz",
@@ -57,6 +79,10 @@
     "shop": "furniture",
     "latitude": 48.2228914,
     "longitude": 13.4795199,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "4910",
+    "city": "Ried im Innkreis",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -5,27 +5,37 @@
     "shop": "supermarket",
     "latitude": 46.7085905,
     "longitude": 15.7829373,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "8480",
+    "city": "Mureck",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Tischlerei Baumann",
     "retailer": "tischlerei_baumann",
     "shop": "furniture",
     "latitude": 46.7074169,
-    "longitude": 15.7832481
+    "longitude": 15.7832481,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Travel Shop",
     "retailer": "travel_shop",
     "shop": "convenience",
     "latitude": 46.7066495,
-    "longitude": 15.7858423
+    "longitude": 15.7858423,
+    "postcode": "2213",
+    "city": "Zgornja Velka"
   },
   {
     "name": "Vlado Sever s.p.",
     "retailer": "vlado_sever_s_p",
     "shop": "beauty",
     "latitude": 46.7074146,
-    "longitude": 15.7879679
+    "longitude": 15.7879679,
+    "postcode": "9253",
+    "city": "Apače"
   }
 ]

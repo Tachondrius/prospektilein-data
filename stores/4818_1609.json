@@ -5,28 +5,40 @@
     "shop": "supermarket",
     "latitude": 48.1846764,
     "longitude": 16.0919614,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3013",
+    "city": "Tullnerbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumeninsel",
     "retailer": "blumeninsel",
     "shop": "florist",
     "latitude": 48.1845611,
-    "longitude": 16.0934907
+    "longitude": 16.0934907,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumiges & mehr",
     "retailer": "blumiges_und_mehr",
     "shop": "florist",
     "latitude": 48.1840872,
-    "longitude": 16.0924956
+    "longitude": 16.0924956,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Buchprinzessin Nina",
     "retailer": "buchprinzessin_nina",
     "shop": "books",
     "latitude": 48.183259,
-    "longitude": 16.0904035
+    "longitude": 16.0904035,
+    "postcode": "3021",
+    "city": "Pressbaum",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "dm",
@@ -34,28 +46,38 @@
     "shop": "chemist",
     "latitude": 48.184237,
     "longitude": 16.0918993,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "3013",
+    "city": "Tullnerbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gerhard Rapf",
     "retailer": "gerhard_rapf",
     "shop": "car_repair",
     "latitude": 48.1840245,
-    "longitude": 16.0915462
+    "longitude": 16.0915462,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haarschneider Hans",
     "retailer": "haarschneider_hans",
     "shop": "hairdresser",
     "latitude": 48.1845454,
-    "longitude": 16.0959641
+    "longitude": 16.0959641,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "holdoptik",
     "retailer": "holdoptik",
     "shop": "optician",
     "latitude": 48.1840513,
-    "longitude": 16.0924099
+    "longitude": 16.0924099,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Köfler & Ernst",
@@ -63,34 +85,50 @@
     "shop": "car",
     "latitude": 48.1845683,
     "longitude": 16.0949641,
-    "brand": "Opel; Suzuki; Citroen"
+    "brand": "Opel; Suzuki; Citroen",
+    "postcode": "3013",
+    "city": "Tullnerbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Pischinger Gärtnerei",
     "retailer": "pischinger_gartnerei",
     "shop": "florist",
     "latitude": 48.1860963,
-    "longitude": 16.098462
+    "longitude": 16.098462,
+    "postcode": "3013",
+    "city": "Tullnerbach",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ströbel",
     "retailer": "strobel",
     "shop": "butcher",
     "latitude": 48.1846745,
-    "longitude": 16.0954932
+    "longitude": 16.0954932,
+    "postcode": "3013",
+    "city": "Tullnerbach-Lawies",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 48.1836003,
-    "longitude": 16.0913682
+    "longitude": 16.0913682,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "www.byjudith.at",
     "retailer": "www_byjudith_at",
     "shop": "hifi",
     "latitude": 48.1833199,
-    "longitude": 16.0906368
+    "longitude": 16.0906368,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

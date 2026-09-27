@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 47.6997013,
     "longitude": 14.1559041,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4573",
+    "city": "Hinterstoder",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sport 2000",
@@ -13,6 +17,8 @@
     "shop": "sports",
     "latitude": 47.699525,
     "longitude": 14.1559321,
-    "brand": "Sport 2000"
+    "brand": "Sport 2000",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

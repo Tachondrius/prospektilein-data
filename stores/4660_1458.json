@@ -4,20 +4,28 @@
     "retailer": "cocina_mexicana",
     "shop": "bakery",
     "latitude": 46.6078757,
-    "longitude": 14.5855834
+    "longitude": 14.5855834,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Ice Cream",
     "retailer": "shop_ice_cream",
     "shop": "ice_cream",
     "latitude": 46.6078586,
-    "longitude": 14.5856374
+    "longitude": 14.5856374,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Seebad",
     "retailer": "seebad",
     "shop": "kiosk",
     "latitude": 46.6078143,
-    "longitude": 14.5862132
+    "longitude": 14.5862132,
+    "postcode": "9122",
+    "city": "St. Kanzian am Klopeiner See",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

@@ -4,7 +4,11 @@
     "retailer": "bike_und_sports_handels_gmbh",
     "shop": "bicycle",
     "latitude": 47.622138,
-    "longitude": 13.6336156
+    "longitude": 13.6336156,
+    "postcode": "4822",
+    "city": "Bad Goisern am Hallstättersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Fiat Aigner",
@@ -12,21 +16,33 @@
     "shop": "car",
     "latitude": 47.6271099,
     "longitude": 13.6395834,
-    "brand": "Fiat"
+    "brand": "Fiat",
+    "postcode": "4822",
+    "city": "Bad Goisern am Hallstättersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kieninger",
     "retailer": "kieninger",
     "shop": "doityourself",
     "latitude": 47.624339,
-    "longitude": 13.6308227
+    "longitude": 13.6308227,
+    "postcode": "4822",
+    "city": "Bad Goisern am Hallstättersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Milchprodukte",
     "retailer": "milchprodukte",
     "shop": "dairy",
     "latitude": 47.6291424,
-    "longitude": 13.6346772
+    "longitude": 13.6346772,
+    "postcode": "4822",
+    "city": "Bad Goisern am Hallstättersee",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Toyota Aigner",
@@ -34,6 +50,8 @@
     "shop": "car",
     "latitude": 47.6274042,
     "longitude": 13.6391304,
-    "brand": "Toyota"
+    "brand": "Toyota",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

@@ -4,14 +4,20 @@
     "retailer": "autohaus_prugger",
     "shop": "car",
     "latitude": 46.9946707,
-    "longitude": 15.5013805
+    "longitude": 15.5013805,
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "BauProfi Wagner",
     "retailer": "bauprofi_wagner",
     "shop": "doityourself",
     "latitude": 46.9939239,
-    "longitude": 15.5041273
+    "longitude": 15.5041273,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "dm",
@@ -19,28 +25,43 @@
     "shop": "chemist",
     "latitude": 46.9923485,
     "longitude": 15.5057184,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fashion Nails Hands & Feet",
     "retailer": "fashion_nails_hands_und_feet",
     "shop": "beauty",
     "latitude": 46.9909341,
-    "longitude": 15.5085477
+    "longitude": 15.5085477,
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Fisherman's Partner",
     "retailer": "fisherman_s_partner",
     "shop": "outdoor",
     "latitude": 46.9926081,
-    "longitude": 15.5046491
+    "longitude": 15.5046491,
+    "postcode": "8071",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseursalon Sandra",
     "retailer": "friseursalon_sandra",
     "shop": "hairdresser",
     "latitude": 46.9909728,
-    "longitude": 15.5084983
+    "longitude": 15.5084983,
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -48,14 +69,22 @@
     "shop": "supermarket",
     "latitude": 46.9984678,
     "longitude": 15.5020477,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Klamer Geschenksboutique",
     "retailer": "klamer_geschenksboutique",
     "shop": "lottery",
     "latitude": 46.9930835,
-    "longitude": 15.5046091
+    "longitude": 15.5046091,
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KTM Zweirad Baumschlager",
@@ -63,7 +92,11 @@
     "shop": "motorcycle",
     "latitude": 46.9940111,
     "longitude": 15.5028083,
-    "brand": "KTM"
+    "brand": "KTM",
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "NKD",
@@ -71,20 +104,30 @@
     "shop": "clothes",
     "latitude": 46.9925,
     "longitude": 15.5056168,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Prügger",
     "retailer": "prugger",
     "shop": "car",
     "latitude": 46.9942477,
-    "longitude": 15.5013366
+    "longitude": 15.5013366,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Putzerei Usen",
     "retailer": "putzerei_usen",
     "shop": "laundry",
     "latitude": 46.9941762,
-    "longitude": 15.5024753
+    "longitude": 15.5024753,
+    "postcode": "8071",
+    "city": "Hausmannstätten",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

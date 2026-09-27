@@ -5,13 +5,21 @@
     "shop": "car",
     "latitude": 47.8875914,
     "longitude": 14.2402684,
-    "brand": "Chevrolet;Nissan"
+    "brand": "Chevrolet;Nissan",
+    "postcode": "4592",
+    "city": "Leonstein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "E-Tech Molln",
     "retailer": "e_tech_molln",
     "shop": "electronics",
     "latitude": 47.888746,
-    "longitude": 14.2406563
+    "longitude": 14.2406563,
+    "postcode": "4592",
+    "city": "Leonstein",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

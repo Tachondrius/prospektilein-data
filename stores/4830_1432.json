@@ -4,28 +4,38 @@
     "retailer": "auto_zitta",
     "shop": "car_repair",
     "latitude": 48.3010527,
-    "longitude": 14.3275832
+    "longitude": 14.3275832,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hannes Mayer Ges.m.b.H.",
     "retailer": "hannes_mayer_ges_m_b_h",
     "shop": "car_repair",
     "latitude": 48.306008,
-    "longitude": 14.3237572
+    "longitude": 14.3237572,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "IKEA Abholstation Linz",
     "retailer": "ikea",
     "shop": "outpost",
     "latitude": 48.3042611,
-    "longitude": 14.3278669
+    "longitude": 14.3278669,
+    "postcode": "4020",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schmid Informatikbüro",
     "retailer": "schmid_informatikburo",
     "shop": "computer",
     "latitude": 48.3038483,
-    "longitude": 14.3231068
+    "longitude": 14.3231068,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Turmöl",
@@ -33,6 +43,8 @@
     "shop": "convenience",
     "latitude": 48.3004573,
     "longitude": 14.3207287,
-    "brand": "Turmöl"
+    "brand": "Turmöl",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

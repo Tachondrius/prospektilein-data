@@ -4,14 +4,18 @@
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 47.867008,
-    "longitude": 13.0170421
+    "longitude": 13.0170421,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Ducati Austria",
     "retailer": "ducati_austria",
     "shop": "motorcycle",
     "latitude": 47.8674403,
-    "longitude": 13.0171745
+    "longitude": 13.0171745,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar Express",
@@ -19,6 +23,10 @@
     "shop": "convenience",
     "latitude": 47.8643505,
     "longitude": 13.016022,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5102",
+    "city": "Anthering",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

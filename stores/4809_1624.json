@@ -5,14 +5,20 @@
     "shop": "supermarket",
     "latitude": 48.0984766,
     "longitude": 16.2455163,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2372",
+    "city": "Gießhübl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Car Repair",
     "retailer": "shop_car_repair",
     "shop": "car_repair",
     "latitude": 48.0977341,
-    "longitude": 16.2465593
+    "longitude": 16.2465593,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Peugeot",
@@ -20,6 +26,10 @@
     "shop": "car",
     "latitude": 48.0984087,
     "longitude": 16.2419155,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "2372",
+    "city": "Gießhübl",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

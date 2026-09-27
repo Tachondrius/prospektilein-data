@@ -5,13 +5,19 @@
     "shop": "supermarket",
     "latitude": 47.4680721,
     "longitude": 11.9922561,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6250",
+    "city": "Kundl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kundler Sitzmöbel",
     "retailer": "kundler_sitzmobel",
     "shop": "furniture",
     "latitude": 47.4683743,
-    "longitude": 11.9917817
+    "longitude": 11.9917817,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

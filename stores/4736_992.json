@@ -4,7 +4,11 @@
     "retailer": "backerei_kleber",
     "shop": "bakery",
     "latitude": 47.3689958,
-    "longitude": 9.9278138
+    "longitude": 9.9278138,
+    "postcode": "6874",
+    "city": "Bizau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   },
   {
     "name": "Spar",
@@ -12,6 +16,10 @@
     "shop": "supermarket",
     "latitude": 47.369389,
     "longitude": 9.928447,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "6874",
+    "city": "Bizau",
+    "stateCode": "AT-8",
+    "state": "Vorarlberg"
   }
 ]

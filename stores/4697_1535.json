@@ -5,20 +5,32 @@
     "shop": "variety_store",
     "latitude": 46.9702406,
     "longitude": 15.3584894,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "8501",
+    "city": "Lieboch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Friseur Lista",
     "retailer": "friseur_lista",
     "shop": "hairdresser",
     "latitude": 46.9709828,
-    "longitude": 15.3591242
+    "longitude": 15.3591242,
+    "postcode": "8501",
+    "city": "Lieboch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "HOBBY-STORE",
     "retailer": "hobby_store",
     "shop": "model",
     "latitude": 46.9701276,
-    "longitude": 15.3512011
+    "longitude": 15.3512011,
+    "postcode": "8501",
+    "city": "Lieboch",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

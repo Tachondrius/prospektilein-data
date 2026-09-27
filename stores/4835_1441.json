@@ -4,14 +4,19 @@
     "retailer": "anton_riepl",
     "shop": "butcher",
     "latitude": 48.352097,
-    "longitude": 14.4161015
+    "longitude": 14.4161015,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "ARTelier BROCK",
     "retailer": "artelier_brock",
     "shop": "art",
     "latitude": 48.3520388,
-    "longitude": 14.4154086
+    "longitude": 14.4154086,
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Loitz",
@@ -19,14 +24,20 @@
     "shop": "car",
     "latitude": 48.3508772,
     "longitude": 14.4131329,
-    "brand": "Opel;Suzuki"
+    "brand": "Opel;Suzuki",
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Baar L. Orthopädietechnik GmbH",
     "retailer": "baar_l_orthopadietechnik_gmbh",
     "shop": "medical_supply",
     "latitude": 48.3521849,
-    "longitude": 14.4150542
+    "longitude": 14.4150542,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -34,14 +45,18 @@
     "shop": "supermarket",
     "latitude": 48.3504906,
     "longitude": 14.4104355,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bioladen",
     "retailer": "bioladen",
     "shop": "convenience",
     "latitude": 48.3526081,
-    "longitude": 14.4169421
+    "longitude": 14.4169421,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bipa",
@@ -49,49 +64,75 @@
     "shop": "chemist",
     "latitude": 48.3526019,
     "longitude": 14.4155963,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bruno Böck",
     "retailer": "bruno_bock",
     "shop": "electrical",
     "latitude": 48.3506654,
-    "longitude": 14.4119188
+    "longitude": 14.4119188,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bücherinsel",
     "retailer": "bucherinsel",
     "shop": "books",
     "latitude": 48.3526003,
-    "longitude": 14.4152033
+    "longitude": 14.4152033,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "City Center",
     "retailer": "city_center",
     "shop": "mall",
     "latitude": 48.3549916,
-    "longitude": 14.4179083
+    "longitude": 14.4179083,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "City Center",
     "retailer": "city_center",
     "shop": "mall",
     "latitude": 48.3551371,
-    "longitude": 14.4182338
+    "longitude": 14.4182338,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Convenience",
     "retailer": "shop_convenience",
     "shop": "convenience",
     "latitude": 48.3526374,
-    "longitude": 14.41622
+    "longitude": 14.41622,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "DerKastner",
     "retailer": "derkastner",
     "shop": "hairdresser",
     "latitude": 48.3530601,
-    "longitude": 14.4162455
+    "longitude": 14.4162455,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "dm",
@@ -99,7 +140,11 @@
     "shop": "chemist",
     "latitude": 48.3512629,
     "longitude": 14.4103359,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Eurospar",
@@ -107,35 +152,53 @@
     "shop": "supermarket",
     "latitude": 48.3503391,
     "longitude": 14.4108484,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4209",
+    "city": "Engerwitzdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Figaro Uno",
     "retailer": "figaro_uno",
     "shop": "hairdresser",
     "latitude": 48.3507618,
-    "longitude": 14.4106986
+    "longitude": 14.4106986,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Florale Manufaktur",
     "retailer": "florale_manufaktur",
     "shop": "gift",
     "latitude": 48.3511983,
-    "longitude": 14.4136861
+    "longitude": 14.4136861,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gabauer",
     "retailer": "gabauer",
     "shop": "stationery",
     "latitude": 48.351849,
-    "longitude": 14.4162255
+    "longitude": 14.4162255,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Gisela Gabauer",
     "retailer": "gisela_gabauer",
     "shop": "stationery",
     "latitude": 48.3519096,
-    "longitude": 14.4156568
+    "longitude": 14.4156568,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -143,49 +206,71 @@
     "shop": "supermarket",
     "latitude": 48.3512745,
     "longitude": 14.411044,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Judith Nötzberger",
     "retailer": "judith_notzberger",
     "shop": "sewing",
     "latitude": 48.352794,
-    "longitude": 14.4154302
+    "longitude": 14.4154302,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Neubauer",
     "retailer": "neubauer",
     "shop": "construction",
     "latitude": 48.351636,
-    "longitude": 14.4135974
+    "longitude": 14.4135974,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Oppenborn",
     "retailer": "oppenborn",
     "shop": "optician",
     "latitude": 48.3518214,
-    "longitude": 14.4158202
+    "longitude": 14.4158202,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Schaffelhofer",
     "retailer": "schaffelhofer",
     "shop": "hifi",
     "latitude": 48.3524842,
-    "longitude": 14.4170171
+    "longitude": 14.4170171,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sport Roth, Sport 2000",
     "retailer": "sport_roth_sport_2000",
     "shop": "sports",
     "latitude": 48.3503841,
-    "longitude": 14.41239
+    "longitude": 14.41239,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tauber",
     "retailer": "tauber",
     "shop": "bakery",
     "latitude": 48.3529632,
-    "longitude": 14.4165182
+    "longitude": 14.4165182,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "TEDi",
@@ -193,14 +278,22 @@
     "shop": "variety_store",
     "latitude": 48.3511682,
     "longitude": 14.4145018,
-    "brand": "TEDi"
+    "brand": "TEDi",
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wall Wohnen",
     "retailer": "wall_wohnen",
     "shop": "handicraft",
     "latitude": 48.3527471,
-    "longitude": 14.4152659
+    "longitude": 14.4152659,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Weltladen",
@@ -208,13 +301,21 @@
     "shop": "convenience",
     "latitude": 48.3536942,
     "longitude": 14.4166707,
-    "brand": "Weltladen"
+    "brand": "Weltladen",
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Winkler",
     "retailer": "winkler",
     "shop": "bakery",
     "latitude": 48.3523225,
-    "longitude": 14.4154629
+    "longitude": 14.4154629,
+    "postcode": "4210",
+    "city": "Gallneukirchen",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

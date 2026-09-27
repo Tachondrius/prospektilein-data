@@ -4,13 +4,19 @@
     "retailer": "alexs_weingut",
     "shop": "wine",
     "latitude": 47.901021,
-    "longitude": 16.9034535
+    "longitude": 16.9034535,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Weinbau Bernd Nittnaus",
     "retailer": "weinbau_bernd_nittnaus",
     "shop": "wine",
     "latitude": 47.9004095,
-    "longitude": 16.9044058
+    "longitude": 16.9044058,
+    "postcode": "7122",
+    "city": "Gols",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

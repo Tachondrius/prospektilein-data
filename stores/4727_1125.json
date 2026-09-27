@@ -4,14 +4,20 @@
     "retailer": "autohaus_zirl",
     "shop": "car_repair",
     "latitude": 47.2710097,
-    "longitude": 11.2540885
+    "longitude": 11.2540885,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Autospenglerei Roman Hauser",
     "retailer": "autospenglerei_roman_hauser",
     "shop": "car_repair",
     "latitude": 47.2710352,
-    "longitude": 11.2512974
+    "longitude": 11.2512974,
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -19,28 +25,40 @@
     "shop": "bakery",
     "latitude": 47.2711913,
     "longitude": 11.2534394,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Die Haarwerkstatt",
     "retailer": "die_haarwerkstatt",
     "shop": "hairdresser",
     "latitude": 47.2713404,
-    "longitude": 11.2522532
+    "longitude": 11.2522532,
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Fahrzeugtechnik Kelderer OG",
     "retailer": "fahrzeugtechnik_kelderer_og",
     "shop": "car_repair",
     "latitude": 47.2710211,
-    "longitude": 11.2516273
+    "longitude": 11.2516273,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kosmetik Langpohl",
     "retailer": "kosmetik_langpohl",
     "shop": "cosmetics",
     "latitude": 47.2718008,
-    "longitude": 11.2522128
+    "longitude": 11.2522128,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -48,20 +66,30 @@
     "shop": "supermarket",
     "latitude": 47.2712664,
     "longitude": 11.2532261,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Stoneboutique Nocker&Bernardi Gmbh",
     "retailer": "stoneboutique_nocker_und_bernardi_gmbh",
     "shop": "tiles",
     "latitude": 47.2706478,
-    "longitude": 11.2505
+    "longitude": 11.2505,
+    "postcode": "6170",
+    "city": "Zirl",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Thomas Mang",
     "retailer": "thomas_mang",
     "shop": "bicycle",
     "latitude": 47.2707714,
-    "longitude": 11.253265
+    "longitude": 11.253265,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

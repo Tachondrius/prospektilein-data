@@ -4,42 +4,60 @@
     "retailer": "autoservicetechnik",
     "shop": "car_repair",
     "latitude": 48.1514653,
-    "longitude": 16.3343776
+    "longitude": 16.3343776,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Carrier Kältetechnik",
     "retailer": "carrier_kaltetechnik",
     "shop": "yes",
     "latitude": 48.1516373,
-    "longitude": 16.3357699
+    "longitude": 16.3357699,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Confiserie Heindl",
     "retailer": "confiserie_heindl",
     "shop": "chocolate",
     "latitude": 48.1509517,
-    "longitude": 16.3325691
+    "longitude": 16.3325691,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Enesta Markt",
     "retailer": "enesta_markt",
     "shop": "supermarket",
     "latitude": 48.157987,
-    "longitude": 16.3300117
+    "longitude": 16.3300117,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Kinninger Karosserie",
     "retailer": "kinninger_karosserie",
     "shop": "car_repair",
     "latitude": 48.1511535,
-    "longitude": 16.3329326
+    "longitude": 16.3329326,
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lorenc",
     "retailer": "lorenc",
     "shop": "scuba_diving",
     "latitude": 48.1536617,
-    "longitude": 16.3396452
+    "longitude": 16.3396452,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lucky Car",
@@ -47,21 +65,33 @@
     "shop": "car_repair",
     "latitude": 48.1508825,
     "longitude": 16.3361775,
-    "brand": "Midas"
+    "brand": "Midas",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Michael Trünkel Gmbh",
     "retailer": "michael_trunkel_gmbh",
     "shop": "butcher",
     "latitude": 48.1566482,
-    "longitude": 16.3365656
+    "longitude": 16.3365656,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tabak Trafik Toman",
     "retailer": "tabak_trafik_toman",
     "shop": "kiosk",
     "latitude": 48.1504613,
-    "longitude": 16.3326171
+    "longitude": 16.3326171,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Tesla Vienna",
@@ -69,13 +99,21 @@
     "shop": "car",
     "latitude": 48.1574489,
     "longitude": 16.3359137,
-    "brand": "Tesla"
+    "brand": "Tesla",
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "WIFA",
     "retailer": "wifa",
     "shop": "shoes",
     "latitude": 48.1502757,
-    "longitude": 16.3351749
+    "longitude": 16.3351749,
+    "postcode": "1230",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

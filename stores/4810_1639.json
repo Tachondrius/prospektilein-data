@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.1097009,
     "longitude": 16.3927776,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2333",
+    "city": "Leopoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa Plus",
@@ -13,7 +17,11 @@
     "shop": "supermarket",
     "latitude": 48.1039847,
     "longitude": 16.3991451,
-    "brand": "Billa Plus"
+    "brand": "Billa Plus",
+    "postcode": "2333",
+    "city": "Leopoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Bipa",
@@ -21,55 +29,81 @@
     "shop": "chemist",
     "latitude": 48.1090869,
     "longitude": 16.3933322,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "2333",
+    "city": "Leopoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Dani's",
     "retailer": "dani_s",
     "shop": "hairdresser",
     "latitude": 48.1084469,
-    "longitude": 16.3956649
+    "longitude": 16.3956649,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Frisiersalon Christa",
     "retailer": "frisiersalon_christa",
     "shop": "hairdresser",
     "latitude": 48.1082398,
-    "longitude": 16.397075
+    "longitude": 16.397075,
+    "postcode": "2333",
+    "city": "Leopoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Haus der Werte",
     "retailer": "haus_der_werte",
     "shop": "gold_buyer",
     "latitude": 48.1084062,
-    "longitude": 16.3958018
+    "longitude": 16.3958018,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Pinar",
     "retailer": "kfz_pinar",
     "shop": "car_repair",
     "latitude": 48.1089947,
-    "longitude": 16.3939866
+    "longitude": 16.3939866,
+    "postcode": "2333",
+    "city": "Leopoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kinnari",
     "retailer": "kinnari",
     "shop": "massage",
     "latitude": 48.1088265,
-    "longitude": 16.394196
+    "longitude": 16.394196,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Straight Eight",
     "retailer": "straight_eight",
     "shop": "car_repair",
     "latitude": 48.1083422,
-    "longitude": 16.3931319
+    "longitude": 16.3931319,
+    "postcode": "2333",
+    "city": "Leopoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 48.1078834,
-    "longitude": 16.3980048
+    "longitude": 16.3980048,
+    "postcode": "2333",
+    "city": "Leopoldsdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

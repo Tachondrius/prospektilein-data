@@ -4,14 +4,20 @@
     "retailer": "2_aces_motorcyclestore",
     "shop": "clothes",
     "latitude": 47.3779641,
-    "longitude": 13.4733945
+    "longitude": 13.4733945,
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "aus&raus",
     "retailer": "aus_und_raus",
     "shop": "variety_store",
     "latitude": 47.376852,
-    "longitude": 13.4755512
+    "longitude": 13.4755512,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -19,7 +25,11 @@
     "shop": "supermarket",
     "latitude": 47.3791889,
     "longitude": 13.4726416,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bipa",
@@ -27,7 +37,11 @@
     "shop": "chemist",
     "latitude": 47.3789316,
     "longitude": 13.4728083,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "BP",
@@ -35,14 +49,20 @@
     "shop": "convenience",
     "latitude": 47.3789985,
     "longitude": 13.4736657,
-    "brand": "BP"
+    "brand": "BP",
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Clothes",
     "retailer": "shop_clothes",
     "shop": "clothes",
     "latitude": 47.3793019,
-    "longitude": 13.4736616
+    "longitude": 13.4736616,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "dm",
@@ -50,7 +70,9 @@
     "shop": "chemist",
     "latitude": 47.3772112,
     "longitude": 13.4750076,
-    "brand": "dm"
+    "brand": "dm",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hofer",
@@ -58,7 +80,11 @@
     "shop": "supermarket",
     "latitude": 47.3761406,
     "longitude": 13.4767543,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport",
@@ -66,14 +92,20 @@
     "shop": "sports",
     "latitude": 47.3773014,
     "longitude": 13.474871,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Intersport Rappl",
     "retailer": "intersport",
     "shop": "sports",
     "latitude": 47.377722,
-    "longitude": 13.4742544
+    "longitude": 13.4742544,
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "KiK",
@@ -81,21 +113,33 @@
     "shop": "clothes",
     "latitude": 47.3788308,
     "longitude": 13.4728132,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Landtechnik Neumayr",
     "retailer": "landtechnik_neumayr",
     "shop": "car_repair",
     "latitude": 47.3785313,
-    "longitude": 13.4736888
+    "longitude": 13.4736888,
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mall",
     "retailer": "shop_mall",
     "shop": "mall",
     "latitude": 47.3771582,
-    "longitude": 13.4751631
+    "longitude": 13.4751631,
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "New Yorker",
@@ -103,7 +147,9 @@
     "shop": "clothes",
     "latitude": 47.3770018,
     "longitude": 13.4753245,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Peugeot Neumayr",
@@ -111,27 +157,39 @@
     "shop": "car_repair",
     "latitude": 47.3792478,
     "longitude": 13.4737949,
-    "brand": "Peugeot"
+    "brand": "Peugeot",
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "RICCO Schuh",
     "retailer": "ricco_schuh",
     "shop": "shoes",
     "latitude": 47.3771209,
-    "longitude": 13.4751442
+    "longitude": 13.4751442,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Rappl",
     "retailer": "sport_rappl",
     "shop": "sports",
     "latitude": 47.377676,
-    "longitude": 13.4742498
+    "longitude": 13.4742498,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sports",
     "retailer": "shop_sports",
     "shop": "sports",
     "latitude": 47.3780435,
-    "longitude": 13.4733887
+    "longitude": 13.4733887,
+    "postcode": "5550",
+    "city": "Radstadt",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

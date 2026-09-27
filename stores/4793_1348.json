@@ -5,7 +5,9 @@
     "shop": "car_repair",
     "latitude": 47.9350791,
     "longitude": 13.4806227,
-    "brand": "Alle"
+    "brand": "Alle",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Auto Lacher",
@@ -13,35 +15,53 @@
     "shop": "car_repair",
     "latitude": 47.934892,
     "longitude": 13.4837178,
-    "brand": "Opel"
+    "brand": "Opel",
+    "postcode": "4880",
+    "city": "St. Georgen im Attergau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Fischer Kurt",
     "retailer": "backerei_fischer_kurt",
     "shop": "bakery",
     "latitude": 47.935738,
-    "longitude": 13.4810701
+    "longitude": 13.4810701,
+    "postcode": "4880",
+    "city": "St. Georgen im Attergau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hairdresser",
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 47.9347091,
-    "longitude": 13.4887267
+    "longitude": 13.4887267,
+    "postcode": "4880",
+    "city": "St. Georgen im Attergau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Janettes Beauté",
     "retailer": "janettes_beaute",
     "shop": "beauty",
     "latitude": 47.9346956,
-    "longitude": 13.489012
+    "longitude": 13.489012,
+    "postcode": "4880",
+    "city": "St. Georgen im Attergau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kraxlshop",
     "retailer": "kraxlshop",
     "shop": "outdoor",
     "latitude": 47.9358664,
-    "longitude": 13.4829849
+    "longitude": 13.4829849,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "kritzl kratzl",
@@ -49,14 +69,18 @@
     "shop": "craft",
     "latitude": 47.9344048,
     "longitude": 13.4886875,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Maschinenring",
     "retailer": "maschinenring",
     "shop": "yes",
     "latitude": 47.9364578,
-    "longitude": 13.4851986
+    "longitude": 13.4851986,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "NKD",
@@ -64,7 +88,9 @@
     "shop": "clothes",
     "latitude": 47.936318,
     "longitude": 13.4860427,
-    "brand": "NKD"
+    "brand": "NKD",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -72,27 +98,41 @@
     "shop": "supermarket",
     "latitude": 47.9364436,
     "longitude": 13.4859658,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sport Lechner",
     "retailer": "sport_lechner",
     "shop": "bicycle",
     "latitude": 47.935582,
-    "longitude": 13.4870297
+    "longitude": 13.4870297,
+    "postcode": "4880",
+    "city": "St. Georgen im Attergau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 47.9360391,
-    "longitude": 13.4861413
+    "longitude": 13.4861413,
+    "postcode": "4880",
+    "city": "St. Georgen im Attergau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Toys",
     "retailer": "shop_toys",
     "shop": "toys",
     "latitude": 47.9356534,
-    "longitude": 13.4822073
+    "longitude": 13.4822073,
+    "postcode": "4880",
+    "city": "St. Georgen im Attergau",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

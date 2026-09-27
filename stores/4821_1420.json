@@ -4,35 +4,55 @@
     "retailer": "haar_und_co",
     "shop": "hairdresser",
     "latitude": 48.213909,
-    "longitude": 14.2062164
+    "longitude": 14.2062164,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Holzwaren Egginger",
     "retailer": "holzwaren_egginger",
     "shop": "trade",
     "latitude": 48.2135467,
-    "longitude": 14.2058466
+    "longitude": 14.2058466,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Massageinstitut Thomas Aufreiter",
     "retailer": "massageinstitut_thomas_aufreiter",
     "shop": "massage",
     "latitude": 48.2139719,
-    "longitude": 14.2062966
+    "longitude": 14.2062966,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Sariswati Tattoo",
     "retailer": "sariswati_tattoo",
     "shop": "tattoo",
     "latitude": 48.2140694,
-    "longitude": 14.205917
+    "longitude": 14.205917,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Shadow & More",
     "retailer": "shadow_und_more",
     "shop": "sun_protection",
     "latitude": 48.2141485,
-    "longitude": 14.2060124
+    "longitude": 14.2060124,
+    "postcode": "4050",
+    "city": "Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -40,13 +60,19 @@
     "shop": "supermarket",
     "latitude": 48.2156404,
     "longitude": 14.2094319,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4050",
+    "city": "Traun/Oedt",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Tabak Trafik",
     "retailer": "tabak_trafik",
     "shop": "kiosk",
     "latitude": 48.2150884,
-    "longitude": 14.2096607
+    "longitude": 14.2096607,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

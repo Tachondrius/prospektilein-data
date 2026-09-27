@@ -5,13 +5,19 @@
     "shop": "car_repair",
     "latitude": 48.1748725,
     "longitude": 14.8308014,
-    "brand": "Renault"
+    "brand": "Renault",
+    "postcode": "3321",
+    "city": "Ardagger",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Karosserie Jandl",
     "retailer": "karosserie_jandl",
     "shop": "car_repair",
     "latitude": 48.1713272,
-    "longitude": 14.8373728
+    "longitude": 14.8373728,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

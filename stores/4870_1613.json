@@ -5,20 +5,31 @@
     "shop": "supermarket",
     "latitude": 48.7062969,
     "longitude": 16.1383681,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "2061",
+    "city": "Hadres",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Autrieth",
     "retailer": "weingut_autrieth",
     "shop": "wine",
     "latitude": 48.7085791,
-    "longitude": 16.1347172
+    "longitude": 16.1347172,
+    "postcode": "2061",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Weingut Erlenhof",
     "retailer": "weingut_erlenhof",
     "shop": "wine",
     "latitude": 48.7078956,
-    "longitude": 16.132574
+    "longitude": 16.132574,
+    "postcode": "2061",
+    "city": "Hadres",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

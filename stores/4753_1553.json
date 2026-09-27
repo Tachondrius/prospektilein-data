@@ -5,7 +5,11 @@
     "shop": "chemist",
     "latitude": 47.5390384,
     "longitude": 15.5331051,
-    "brand": "dm"
+    "brand": "dm",
+    "postcode": "8670",
+    "city": "Krieglach",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Hofer",
@@ -13,7 +17,10 @@
     "shop": "supermarket",
     "latitude": 47.5393225,
     "longitude": 15.5343255,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "8670",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "KiK",
@@ -21,7 +28,9 @@
     "shop": "clothes",
     "latitude": 47.5389953,
     "longitude": 15.5329326,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "PENNY",
@@ -29,6 +38,9 @@
     "shop": "supermarket",
     "latitude": 47.5391322,
     "longitude": 15.5334952,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8670",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

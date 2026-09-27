@@ -5,28 +5,38 @@
     "shop": "variety_store",
     "latitude": 46.8306969,
     "longitude": 12.7744399,
-    "brand": "Action"
+    "brand": "Action",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "AGETech",
     "retailer": "agetech",
     "shop": "electronics",
     "latitude": 46.8314354,
-    "longitude": 12.7781192
+    "longitude": 12.7781192,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Art",
     "retailer": "shop_art",
     "shop": "art",
     "latitude": 46.8320807,
-    "longitude": 12.7717421
+    "longitude": 12.7717421,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "der Friseur der kleinen Preise",
     "retailer": "der_friseur_der_kleinen_preise",
     "shop": "hairdresser",
     "latitude": 46.8313256,
-    "longitude": 12.7780618
+    "longitude": 12.7780618,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ford",
@@ -34,21 +44,31 @@
     "shop": "car",
     "latitude": 46.8358539,
     "longitude": 12.7756323,
-    "brand": "Ford"
+    "brand": "Ford",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Geris Motorshop",
     "retailer": "geris_motorshop",
     "shop": "motorcycle",
     "latitude": 46.8311918,
-    "longitude": 12.7751186
+    "longitude": 12.7751186,
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gruber",
     "retailer": "gruber",
     "shop": "bakery",
     "latitude": 46.8348184,
-    "longitude": 12.7725318
+    "longitude": 12.7725318,
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hofer",
@@ -56,7 +76,11 @@
     "shop": "supermarket",
     "latitude": 46.8324268,
     "longitude": 12.7777254,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Lidl",
@@ -64,7 +88,11 @@
     "shop": "supermarket",
     "latitude": 46.832454,
     "longitude": 12.7793709,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -72,14 +100,20 @@
     "shop": "supermarket",
     "latitude": 46.8321427,
     "longitude": 12.7705806,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Olina Lienz Kollnig GmbH",
     "retailer": "olina_lienz_kollnig_gmbh",
     "shop": "kitchen",
     "latitude": 46.8315729,
-    "longitude": 12.778879
+    "longitude": 12.778879,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rogen",
@@ -87,7 +121,11 @@
     "shop": "car",
     "latitude": 46.8315652,
     "longitude": 12.775388,
-    "brand": "Opel & KIA"
+    "brand": "Opel & KIA",
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Skoda Pontiller",
@@ -95,7 +133,9 @@
     "shop": "car",
     "latitude": 46.8314302,
     "longitude": 12.7792162,
-    "brand": "Škoda"
+    "brand": "Škoda",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Spar",
@@ -103,13 +143,19 @@
     "shop": "supermarket",
     "latitude": 46.8372168,
     "longitude": 12.7700944,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Trafik Stangl e.U.",
     "retailer": "trafik_stangl_e_u",
     "shop": "tobacco",
     "latitude": 46.8320172,
-    "longitude": 12.77272
+    "longitude": 12.77272,
+    "postcode": "9900",
+    "city": "Lienz",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

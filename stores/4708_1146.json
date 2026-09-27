@@ -5,7 +5,9 @@
     "shop": "supermarket",
     "latitude": 47.0888378,
     "longitude": 11.4680167,
-    "brand": "Billa"
+    "brand": "Billa",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "KiK",
@@ -13,20 +15,26 @@
     "shop": "clothes",
     "latitude": 47.0886169,
     "longitude": 11.4676453,
-    "brand": "KiK"
+    "brand": "KiK",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "T&G",
     "retailer": "t_und_g",
     "shop": "beverages",
     "latitude": 47.0880251,
-    "longitude": 11.4684043
+    "longitude": 11.4684043,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wipprad - Jürgen Gstraunthaler",
     "retailer": "wipprad_jurgen_gstraunthaler",
     "shop": "bicycle",
     "latitude": 47.0883626,
-    "longitude": 11.4678195
+    "longitude": 11.4678195,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

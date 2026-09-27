@@ -5,21 +5,33 @@
     "shop": "supermarket",
     "latitude": 48.4013538,
     "longitude": 15.9859257,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "3462",
+    "city": "Absdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Drogerie Elisabeth",
     "retailer": "drogerie_elisabeth",
     "shop": "chemist",
     "latitude": 48.4009895,
-    "longitude": 15.9809345
+    "longitude": 15.9809345,
+    "postcode": "3462",
+    "city": "Absdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Blumen Schwanzer",
     "retailer": "gartnerei_blumen_schwanzer",
     "shop": "florist",
     "latitude": 48.4014825,
-    "longitude": 15.9808559
+    "longitude": 15.9808559,
+    "postcode": "3462",
+    "city": "Absdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
@@ -27,20 +39,30 @@
     "shop": "doityourself",
     "latitude": 48.4020473,
     "longitude": 15.9849509,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "3462",
+    "city": "Absdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Texx",
     "retailer": "texx",
     "shop": "electronics",
     "latitude": 48.4018417,
-    "longitude": 15.9854675
+    "longitude": 15.9854675,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Tierschuh.at",
     "retailer": "tierschuh_at",
     "shop": "pet",
     "latitude": 48.4014452,
-    "longitude": 15.9843467
+    "longitude": 15.9843467,
+    "postcode": "3462",
+    "city": "Absdorf",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

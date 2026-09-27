@@ -4,21 +4,27 @@
     "retailer": "gartnerei_gwiggner",
     "shop": "garden_centre",
     "latitude": 47.5306011,
-    "longitude": 12.0904214
+    "longitude": 12.0904214,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Hoamatkastl",
     "retailer": "hoamatkastl",
     "shop": "farm",
     "latitude": 47.5350141,
-    "longitude": 12.0929129
+    "longitude": 12.0929129,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Krone",
     "retailer": "krone",
     "shop": "car_repair",
     "latitude": 47.534636,
-    "longitude": 12.0922029
+    "longitude": 12.0922029,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -26,6 +32,8 @@
     "shop": "supermarket",
     "latitude": 47.5340202,
     "longitude": 12.0934151,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

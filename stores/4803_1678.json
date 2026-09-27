@@ -4,20 +4,30 @@
     "retailer": "hiessberger",
     "shop": "bakery",
     "latitude": 48.0364247,
-    "longitude": 16.7828604
+    "longitude": 16.7828604,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kampel Forst- u. Gartengeräte",
     "retailer": "kampel_forst_u_gartengerate",
     "shop": "doityourself",
     "latitude": 48.0327685,
-    "longitude": 16.7880546
+    "longitude": 16.7880546,
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KfZ Technik Bruck Ost",
     "retailer": "kfz_technik_bruck_ost",
     "shop": "car_repair",
     "latitude": 48.0352653,
-    "longitude": 16.7872474
+    "longitude": 16.7872474,
+    "postcode": "2460",
+    "city": "Bruck an der Leitha",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -5,14 +5,20 @@
     "shop": "car",
     "latitude": 48.2462108,
     "longitude": 14.2950528,
-    "brand": "Citroen;Peugeot;Volvo;DS;maxus;Polestar"
+    "brand": "Citroen;Peugeot;Volvo;DS;maxus;Polestar",
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Car",
     "retailer": "shop_car",
     "shop": "car",
     "latitude": 48.2463086,
-    "longitude": 14.2942892
+    "longitude": 14.2942892,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "FRANCE CAR",
@@ -20,42 +26,60 @@
     "shop": "car_repair",
     "latitude": 48.246655,
     "longitude": 14.2950769,
-    "brand": "Citroen;Peugeot;Volvo;DS"
+    "brand": "Citroen;Peugeot;Volvo;DS",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "HILTI",
     "retailer": "hilti",
     "shop": "tools",
     "latitude": 48.2419981,
-    "longitude": 14.2932964
+    "longitude": 14.2932964,
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hoflehner Interiors",
     "retailer": "hoflehner_interiors",
     "shop": "furniture",
     "latitude": 48.2460736,
-    "longitude": 14.2967362
+    "longitude": 14.2967362,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Lechner Textile Solutions GmbH",
     "retailer": "lechner_textile_solutions_gmbh",
     "shop": "clothes",
     "latitude": 48.2442964,
-    "longitude": 14.2940779
+    "longitude": 14.2940779,
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "M3 Lichtdesign",
     "retailer": "m3_lichtdesign",
     "shop": "lighting",
     "latitude": 48.2460445,
-    "longitude": 14.2965423
+    "longitude": 14.2965423,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Metabo Austria",
     "retailer": "metabo_austria",
     "shop": "hardware",
     "latitude": 48.244804,
-    "longitude": 14.2921643
+    "longitude": 14.2921643,
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Metro",
@@ -63,7 +87,9 @@
     "shop": "wholesale",
     "latitude": 48.2485221,
     "longitude": 14.294846,
-    "brand": "METRO"
+    "brand": "METRO",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Würth",
@@ -71,6 +97,10 @@
     "shop": "hardware",
     "latitude": 48.2446673,
     "longitude": 14.2943264,
-    "brand": "Würth"
+    "brand": "Würth",
+    "postcode": "4030",
+    "city": "Linz",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

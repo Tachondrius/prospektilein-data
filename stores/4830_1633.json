@@ -5,34 +5,46 @@
     "shop": "convenience",
     "latitude": 48.3000494,
     "longitude": 16.3328211,
-    "brand": "Eni Shop"
+    "brand": "Eni Shop",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Greisslerei Strandbad",
     "retailer": "greisslerei_strandbad",
     "shop": "supermarket",
     "latitude": 48.3067694,
-    "longitude": 16.3372293
+    "longitude": 16.3372293,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Gärtnerei Spitzbart",
     "retailer": "gartnerei_spitzbart",
     "shop": "greengrocer",
     "latitude": 48.3004551,
-    "longitude": 16.3337745
+    "longitude": 16.3337745,
+    "postcode": "3400",
+    "city": "Klosterneuburg",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Kiosk",
     "retailer": "shop_kiosk",
     "shop": "kiosk",
     "latitude": 48.306709,
-    "longitude": 16.3381309
+    "longitude": 16.3381309,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Ticket",
     "retailer": "shop_ticket",
     "shop": "ticket",
     "latitude": 48.3064979,
-    "longitude": 16.336563
+    "longitude": 16.336563,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

@@ -4,20 +4,28 @@
     "retailer": "brigittes_blumenland",
     "shop": "florist",
     "latitude": 48.0786441,
-    "longitude": 13.9587572
+    "longitude": 13.9587572,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Bäckerei Baumgartner",
     "retailer": "backerei_baumgartner",
     "shop": "bakery",
     "latitude": 48.0793888,
-    "longitude": 13.9560369
+    "longitude": 13.9560369,
+    "postcode": "4652",
+    "city": "Steinerkirchen an der Traun",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Friseursalon Grete",
     "retailer": "friseursalon_grete",
     "shop": "hairdresser",
     "latitude": 48.0788634,
-    "longitude": 13.9598386
+    "longitude": 13.9598386,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

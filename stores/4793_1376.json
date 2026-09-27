@@ -4,21 +4,31 @@
     "retailer": "fantasy_e_u",
     "shop": "yes",
     "latitude": 47.9356268,
-    "longitude": 13.7676347
+    "longitude": 13.7676347,
+    "postcode": "4812",
+    "city": "Pinsdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Kinast",
     "retailer": "kinast",
     "shop": "butcher",
     "latitude": 47.9303544,
-    "longitude": 13.7699265
+    "longitude": 13.7699265,
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Outlet-Store",
     "retailer": "outlet_store",
     "shop": "car",
     "latitude": 47.9353833,
-    "longitude": 13.7672996
+    "longitude": 13.7672996,
+    "postcode": "4812",
+    "city": "Pinsdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Spar",
@@ -26,6 +36,10 @@
     "shop": "supermarket",
     "latitude": 47.9330037,
     "longitude": 13.7654955,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "4812",
+    "city": "Pinsdorf",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

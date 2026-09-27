@@ -4,14 +4,18 @@
     "retailer": "cafe_eva",
     "shop": "bakery",
     "latitude": 46.6673053,
-    "longitude": 14.2578051
+    "longitude": 14.2578051,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Nahversorger Grazer Ku.",
     "retailer": "nahversorger_grazer_ku",
     "shop": "convenience",
     "latitude": 46.6670622,
-    "longitude": 14.2578429
+    "longitude": 14.2578429,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -19,13 +23,17 @@
     "shop": "supermarket",
     "latitude": 46.6680972,
     "longitude": 14.2590311,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Tobacco",
     "retailer": "shop_tobacco",
     "shop": "tobacco",
     "latitude": 46.6670427,
-    "longitude": 14.2577766
+    "longitude": 14.2577766,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

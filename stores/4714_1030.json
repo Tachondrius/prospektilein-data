@@ -4,27 +4,39 @@
     "retailer": "shop_collector",
     "shop": "collector",
     "latitude": 47.1447748,
-    "longitude": 10.3077349
+    "longitude": 10.3077349,
+    "postcode": "6580",
+    "city": "St. Anton am Arlberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dessous Schneider",
     "retailer": "dessous_schneider",
     "shop": "clothes",
     "latitude": 47.1437905,
-    "longitude": 10.3013571
+    "longitude": 10.3013571,
+    "city": "St. Anton am Arlberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Getränke Heiss",
     "retailer": "getranke_heiss",
     "shop": "beverages",
     "latitude": 47.1428452,
-    "longitude": 10.3014794
+    "longitude": 10.3014794,
+    "city": "St. Anton am Arlberg",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Ticketautomat Bergbau Gand",
     "retailer": "ticketautomat_bergbau_gand",
     "shop": "ticket",
     "latitude": 47.1451077,
-    "longitude": 10.3023386
+    "longitude": 10.3023386,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

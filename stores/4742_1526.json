@@ -4,7 +4,9 @@
     "retailer": "opel_fior",
     "shop": "car",
     "latitude": 47.4288405,
-    "longitude": 15.2677291
+    "longitude": 15.2677291,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Penny",
@@ -12,6 +14,10 @@
     "shop": "supermarket",
     "latitude": 47.4283359,
     "longitude": 15.2690034,
-    "brand": "Penny"
+    "brand": "Penny",
+    "postcode": "8605",
+    "city": "Kapfenberg",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

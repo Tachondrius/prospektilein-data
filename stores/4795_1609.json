@@ -4,7 +4,9 @@
     "retailer": "bike_doctor",
     "shop": "bicycle",
     "latitude": 47.9585857,
-    "longitude": 16.0962595
+    "longitude": 16.0962595,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Schruf Motorrad",
@@ -12,6 +14,10 @@
     "shop": "motorcycle",
     "latitude": 47.9524945,
     "longitude": 16.0982745,
-    "brand": "KTM"
+    "brand": "KTM",
+    "postcode": "2563",
+    "city": "Pottenstein",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

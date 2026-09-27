@@ -4,7 +4,9 @@
     "retailer": "shop_hairdresser",
     "shop": "hairdresser",
     "latitude": 46.9790919,
-    "longitude": 16.0573043
+    "longitude": 16.0573043,
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   },
   {
     "name": "Spar",
@@ -12,6 +14,8 @@
     "shop": "convenience",
     "latitude": 46.9785894,
     "longitude": 16.0581542,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-6",
+    "state": "Steiermark"
   }
 ]

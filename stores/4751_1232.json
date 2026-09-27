@@ -4,14 +4,20 @@
     "retailer": "auto_pletzer",
     "shop": "car_repair",
     "latitude": 47.5152395,
-    "longitude": 12.3202141
+    "longitude": 12.3202141,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "GoingSport",
     "retailer": "goingsport",
     "shop": "sports",
     "latitude": 47.5145295,
-    "longitude": 12.3266386
+    "longitude": 12.3266386,
+    "postcode": "6353",
+    "city": "Going am Wilden Kaiser",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -19,21 +25,33 @@
     "shop": "supermarket",
     "latitude": 47.5141066,
     "longitude": 12.3272297,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6353",
+    "city": "Going am Wilden Kaiser",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Variety Store",
     "retailer": "shop_variety_store",
     "shop": "variety_store",
     "latitude": 47.5131908,
-    "longitude": 12.3278377
+    "longitude": 12.3278377,
+    "postcode": "6353",
+    "city": "Going am Wilden Kaiser",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Variety Store",
     "retailer": "shop_variety_store",
     "shop": "variety_store",
     "latitude": 47.5193643,
-    "longitude": 12.3253503
+    "longitude": 12.3253503,
+    "postcode": "6353",
+    "city": "Going am Wilden Kaiser",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "XXXLutz",
@@ -41,6 +59,10 @@
     "shop": "furniture",
     "latitude": 47.5150453,
     "longitude": 12.3224066,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "6353",
+    "city": "Going am Wilden Kaiser",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

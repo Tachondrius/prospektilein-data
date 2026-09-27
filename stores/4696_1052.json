@@ -5,7 +5,9 @@
     "shop": "bakery",
     "latitude": 46.9670888,
     "longitude": 10.5292766,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -13,6 +15,10 @@
     "shop": "supermarket",
     "latitude": 46.9670491,
     "longitude": 10.5291246,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6542",
+    "city": "Pfunds",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

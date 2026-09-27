@@ -4,21 +4,31 @@
     "retailer": "24h_snackmal",
     "shop": "vending_machine",
     "latitude": 47.3285464,
-    "longitude": 11.1888188
+    "longitude": 11.1888188,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Albrecht",
     "retailer": "albrecht",
     "shop": "sports",
     "latitude": 47.328106,
-    "longitude": 11.1875349
+    "longitude": 11.1875349,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Armbruster",
     "retailer": "armbruster",
     "shop": "jewelry",
     "latitude": 47.3280297,
-    "longitude": 11.1873369
+    "longitude": 11.1873369,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -26,28 +36,44 @@
     "shop": "bakery",
     "latitude": 47.3295587,
     "longitude": 11.1860881,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bahnhofstrafik Seefeld",
     "retailer": "bahnhofstrafik_seefeld",
     "shop": "tobacco",
     "latitude": 47.3280103,
-    "longitude": 11.1889824
+    "longitude": 11.1889824,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Barbershop Hassan",
     "retailer": "barbershop_hassan",
     "shop": "hairdresser",
     "latitude": 47.328224,
-    "longitude": 11.1889704
+    "longitude": 11.1889704,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Benediktiner Seifenmanufaktur",
     "retailer": "benediktiner_seifenmanufaktur",
     "shop": "gift",
     "latitude": 47.3276388,
-    "longitude": 11.1876865
+    "longitude": 11.1876865,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Billa",
@@ -55,7 +81,11 @@
     "shop": "supermarket",
     "latitude": 47.3253912,
     "longitude": 11.1899112,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Bipa",
@@ -63,49 +93,73 @@
     "shop": "chemist",
     "latitude": 47.3288458,
     "longitude": 11.1886027,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Blumen Florista",
     "retailer": "blumen_florista",
     "shop": "florist",
     "latitude": 47.3290557,
-    "longitude": 11.188041
+    "longitude": 11.188041,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Boutique Classic Style",
     "retailer": "boutique_classic_style",
     "shop": "clothes",
     "latitude": 47.3292203,
-    "longitude": 11.1851238
+    "longitude": 11.1851238,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Brand",
     "retailer": "brand",
     "shop": "clothes",
     "latitude": 47.3288347,
-    "longitude": 11.1878081
+    "longitude": 11.1878081,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Dorothea Schmid",
     "retailer": "dorothea_schmid",
     "shop": "clothes",
     "latitude": 47.3289667,
-    "longitude": 11.1845787
+    "longitude": 11.1845787,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Egon Erich Pilotto",
     "retailer": "egon_erich_pilotto",
     "shop": "toys",
     "latitude": 47.3290947,
-    "longitude": 11.1873729
+    "longitude": 11.1873729,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Egostyling",
     "retailer": "egostyling",
     "shop": "massage",
     "latitude": 47.3272053,
-    "longitude": 11.1831629
+    "longitude": 11.1831629,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Eurospar",
@@ -113,105 +167,163 @@
     "shop": "supermarket",
     "latitude": 47.3295045,
     "longitude": 11.1843247,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Factory Outlet-Store",
     "retailer": "factory_outlet_store",
     "shop": "clothes",
     "latitude": 47.3288462,
-    "longitude": 11.188489
+    "longitude": 11.188489,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Farben Teferle",
     "retailer": "farben_teferle",
     "shop": "paint",
     "latitude": 47.3262731,
-    "longitude": 11.1898089
+    "longitude": 11.1898089,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "FunSport Frank",
     "retailer": "funsport_frank",
     "shop": "sports",
     "latitude": 47.3293942,
-    "longitude": 11.185163
+    "longitude": 11.185163,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Geppetto for Fashion-kids",
     "retailer": "geppetto_for_fashion_kids",
     "shop": "clothes",
     "latitude": 47.3275595,
-    "longitude": 11.187727
+    "longitude": 11.187727,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Geschenkehaus Seefeld",
     "retailer": "geschenkehaus_seefeld",
     "shop": "gift",
     "latitude": 47.3297814,
-    "longitude": 11.1872941
+    "longitude": 11.1872941,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Gold & Pelzankauf",
     "retailer": "gold_und_pelzankauf",
     "shop": "gold_buyer",
     "latitude": 47.3289633,
-    "longitude": 11.1877418
+    "longitude": 11.1877418,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Handl Tyrol Speckstube",
     "retailer": "handl_tyrol_speckstube",
     "shop": "deli",
     "latitude": 47.3279306,
-    "longitude": 11.1872734
+    "longitude": 11.1872734,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Holz und schenken mit ♡",
     "retailer": "holz_und_schenken_mit",
     "shop": "gift",
     "latitude": 47.3272245,
-    "longitude": 11.1875214
+    "longitude": 11.1875214,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Holzbildhauer Möck",
     "retailer": "holzbildhauer_mock",
     "shop": "gift",
     "latitude": 47.3278555,
-    "longitude": 11.1872996
+    "longitude": 11.1872996,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Jacqueline",
     "retailer": "jacqueline",
     "shop": "clothes",
     "latitude": 47.3291749,
-    "longitude": 11.1850366
+    "longitude": 11.1850366,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Kindertracht Christine",
     "retailer": "kindertracht_christine",
     "shop": "clothes",
     "latitude": 47.3287288,
-    "longitude": 11.1888129
+    "longitude": 11.1888129,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "L5",
     "retailer": "l5",
     "shop": "hairdresser",
     "latitude": 47.327488,
-    "longitude": 11.1877569
+    "longitude": 11.1877569,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Luis Trenker",
     "retailer": "luis_trenker",
     "shop": "clothes",
     "latitude": 47.3291096,
-    "longitude": 11.1869827
+    "longitude": 11.1869827,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "meier Seefeld",
     "retailer": "meier_seefeld",
     "shop": "clothes",
     "latitude": 47.3288281,
-    "longitude": 11.1874217
+    "longitude": 11.1874217,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -219,7 +331,11 @@
     "shop": "supermarket",
     "latitude": 47.3294901,
     "longitude": 11.1860995,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "NKD",
@@ -227,84 +343,130 @@
     "shop": "clothes",
     "latitude": 47.3295095,
     "longitude": 11.1839434,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Nostalgie",
     "retailer": "nostalgie",
     "shop": "gift",
     "latitude": 47.3289887,
-    "longitude": 11.188822
+    "longitude": 11.188822,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Olivers Hoamat Ladele",
     "retailer": "olivers_hoamat_ladele",
     "shop": "gift",
     "latitude": 47.3292683,
-    "longitude": 11.1855636
+    "longitude": 11.1855636,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pastry",
     "retailer": "shop_pastry",
     "shop": "pastry",
     "latitude": 47.3292744,
-    "longitude": 11.1871255
+    "longitude": 11.1871255,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pelikan-Coiffeur-Biosthetik",
     "retailer": "pelikan_coiffeur_biosthetik",
     "shop": "hairdresser",
     "latitude": 47.3287795,
-    "longitude": 11.1888109
+    "longitude": 11.1888109,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Peterschuhe",
     "retailer": "peterschuhe",
     "shop": "shoes",
     "latitude": 47.3290375,
-    "longitude": 11.1847553
+    "longitude": 11.1847553,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pirkner",
     "retailer": "pirkner",
     "shop": "jewelry",
     "latitude": 47.3287515,
-    "longitude": 11.1873726
+    "longitude": 11.1873726,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Rueckenwind",
     "retailer": "rueckenwind",
     "shop": "sports",
     "latitude": 47.3278394,
-    "longitude": 11.1817306
+    "longitude": 11.1817306,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sailer",
     "retailer": "sailer",
     "shop": "clothes",
     "latitude": 47.3283673,
-    "longitude": 11.1871129
+    "longitude": 11.1871129,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sailer Bazaar",
     "retailer": "sailer_bazaar",
     "shop": "clothes",
     "latitude": 47.3289554,
-    "longitude": 11.1872231
+    "longitude": 11.1872231,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Schuhwerk by Alexander",
     "retailer": "schuhwerk_by_alexander",
     "shop": "shoes",
     "latitude": 47.3277614,
-    "longitude": 11.1873405
+    "longitude": 11.1873405,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Seefeld Present",
     "retailer": "seefeld_present",
     "shop": "gift",
     "latitude": 47.329114,
-    "longitude": 11.1849011
+    "longitude": 11.1849011,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Shell",
@@ -312,28 +474,42 @@
     "shop": "convenience",
     "latitude": 47.3254502,
     "longitude": 11.1895137,
-    "brand": "Shell"
+    "brand": "Shell",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Skiverleih Ski Rent Seefeld",
     "retailer": "skiverleih_ski_rent_seefeld",
     "shop": "sports",
     "latitude": 47.3297033,
-    "longitude": 11.1898043
+    "longitude": 11.1898043,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sporthaus Kirchmair",
     "retailer": "sporthaus_kirchmair",
     "shop": "sports",
     "latitude": 47.329583,
-    "longitude": 11.1872212
+    "longitude": 11.1872212,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Style'isches",
     "retailer": "style_isches",
     "shop": "clothes",
     "latitude": 47.3272755,
-    "longitude": 11.1875173
+    "longitude": 11.1875173,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Swarovski",
@@ -341,69 +517,105 @@
     "shop": "jewelry",
     "latitude": 47.3288314,
     "longitude": 11.18762,
-    "brand": "Swarovski"
+    "brand": "Swarovski",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tabak Trafik Albrecht",
     "retailer": "tabak_trafik_albrecht",
     "shop": "tobacco",
     "latitude": 47.3281455,
-    "longitude": 11.1876036
+    "longitude": 11.1876036,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "tip top Self Service Laundry",
     "retailer": "tip_top_self_service_laundry",
     "shop": "laundry",
     "latitude": 47.3296117,
-    "longitude": 11.1897907
+    "longitude": 11.1897907,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Tiroler Kräuterhof",
     "retailer": "tiroler_krauterhof",
     "shop": "cosmetics",
     "latitude": 47.3288407,
-    "longitude": 11.1883603
+    "longitude": 11.1883603,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "TrachtenEck",
     "retailer": "trachteneck",
     "shop": "clothes",
     "latitude": 47.3290017,
-    "longitude": 11.1875753
+    "longitude": 11.1875753,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Unser Kraut",
     "retailer": "unser_kraut",
     "shop": "cannabis",
     "latitude": 47.3284849,
-    "longitude": 11.1888151
+    "longitude": 11.1888151,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Wagner",
     "retailer": "wagner",
     "shop": "jewelry",
     "latitude": 47.3289956,
-    "longitude": 11.1873811
+    "longitude": 11.1873811,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Waschsalon tip top",
     "retailer": "waschsalon_tip_top",
     "shop": "laundry",
     "latitude": 47.3298552,
-    "longitude": 11.189856
+    "longitude": 11.189856,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Younique Shop",
     "retailer": "younique_shop",
     "shop": "clothes",
     "latitude": 47.3290004,
-    "longitude": 11.1863322
+    "longitude": 11.1863322,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zweirad Ossi",
     "retailer": "zweirad_ossi",
     "shop": "motorcycle",
     "latitude": 47.3269367,
-    "longitude": 11.1878112
+    "longitude": 11.1878112,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

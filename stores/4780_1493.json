@@ -4,21 +4,29 @@
     "retailer": "hannah_dorfladen",
     "shop": "supermarket",
     "latitude": 47.8077296,
-    "longitude": 14.9313494
+    "longitude": 14.9313494,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Lagerhaus",
     "retailer": "lagerhaus",
     "shop": "doityourself",
     "latitude": 47.8084308,
-    "longitude": 14.9360833
+    "longitude": 14.9360833,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rotner Autohaus",
     "retailer": "rotner_autohaus",
     "shop": "car",
     "latitude": 47.8069718,
-    "longitude": 14.9383505
+    "longitude": 14.9383505,
+    "postcode": "3345",
+    "city": "Göstling an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -26,7 +34,11 @@
     "shop": "supermarket",
     "latitude": 47.8069643,
     "longitude": 14.9372377,
-    "brand": "Unimarkt"
+    "brand": "Unimarkt",
+    "postcode": "3345",
+    "city": "Göstling an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Spar",
@@ -34,20 +46,28 @@
     "shop": "supermarket",
     "latitude": 47.8075609,
     "longitude": 14.9344682,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "3345",
+    "city": "Göstling an der Ybbs",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Sportwerk",
     "retailer": "sportwerk",
     "shop": "sports",
     "latitude": 47.8077301,
-    "longitude": 14.9340046
+    "longitude": 14.9340046,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik",
     "retailer": "trafik",
     "shop": "kiosk",
     "latitude": 47.8077083,
-    "longitude": 14.9318407
+    "longitude": 14.9318407,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

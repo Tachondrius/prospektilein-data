@@ -4,7 +4,11 @@
     "retailer": "autowerkstatt_isser_peter",
     "shop": "car_repair",
     "latitude": 47.3256768,
-    "longitude": 11.1991201
+    "longitude": 11.1991201,
+    "postcode": "6100",
+    "city": "Reith bei Seefeld",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Baguette",
@@ -12,14 +16,22 @@
     "shop": "bakery",
     "latitude": 47.3249492,
     "longitude": 11.199113,
-    "brand": "Baguette"
+    "brand": "Baguette",
+    "postcode": "6100",
+    "city": "Reith bei Seefeld",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Getränke Seyrling",
     "retailer": "getranke_seyrling",
     "shop": "beverages",
     "latitude": 47.3270242,
-    "longitude": 11.1913862
+    "longitude": 11.1913862,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "MPREIS",
@@ -27,14 +39,22 @@
     "shop": "supermarket",
     "latitude": 47.3248746,
     "longitude": 11.1991953,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "6100",
+    "city": "Reith bei Seefeld",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Theresa´s Modewerkstatt",
     "retailer": "theresa_s_modewerkstatt",
     "shop": "tailor",
     "latitude": 47.3282384,
-    "longitude": 11.1929689
+    "longitude": 11.1929689,
+    "postcode": "6100",
+    "city": "Seefeld in Tirol",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Viva",
@@ -42,7 +62,11 @@
     "shop": "convenience",
     "latitude": 47.3241675,
     "longitude": 11.1991604,
-    "brand": "Viva"
+    "brand": "Viva",
+    "postcode": "6100",
+    "city": "Reith bei Seefeld",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Zweiradtechnik",
@@ -50,6 +74,10 @@
     "shop": "motorcycle",
     "latitude": 47.3202608,
     "longitude": 11.199424,
-    "brand": "Ducati"
+    "brand": "Ducati",
+    "postcode": "6100",
+    "city": "Reith bei Seefeld",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

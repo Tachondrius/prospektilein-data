@@ -4,7 +4,9 @@
     "retailer": "autohaus_lessiak",
     "shop": "car",
     "latitude": 48.1126705,
-    "longitude": 15.3417661
+    "longitude": 15.3417661,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 48.1102698,
     "longitude": 15.3415663,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Eurospar",
@@ -20,48 +26,76 @@
     "shop": "supermarket",
     "latitude": 48.1112296,
     "longitude": 15.3438466,
-    "brand": "Eurospar"
+    "brand": "Eurospar",
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Hubert Fischl",
     "retailer": "hubert_fischl",
     "shop": "bakery",
     "latitude": 48.1121533,
-    "longitude": 15.3416676
+    "longitude": 15.3416676,
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Juwelier Purtscher",
     "retailer": "juwelier_purtscher",
     "shop": "jewelry",
     "latitude": 48.1117773,
-    "longitude": 15.3420209
+    "longitude": 15.3420209,
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "KFZ Janker & Zöchbauer",
     "retailer": "kfz_janker_und_zochbauer",
     "shop": "car_repair",
     "latitude": 48.1120017,
-    "longitude": 15.3442785
+    "longitude": 15.3442785,
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Moden Anderle",
     "retailer": "moden_anderle",
     "shop": "clothes",
     "latitude": 48.1117754,
-    "longitude": 15.340723
+    "longitude": 15.340723,
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Rad Fuchs",
     "retailer": "rad_fuchs",
     "shop": "bicycle",
     "latitude": 48.112117,
-    "longitude": 15.3438972
+    "longitude": 15.3438972,
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Trafik Scheibelhofer",
     "retailer": "trafik_scheibelhofer",
     "shop": "tobacco",
     "latitude": 48.1120169,
-    "longitude": 15.3412194
+    "longitude": 15.3412194,
+    "postcode": "3240",
+    "city": "Mank",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

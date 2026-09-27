@@ -4,7 +4,9 @@
     "retailer": "agm",
     "shop": "supermarket",
     "latitude": 47.3812107,
-    "longitude": 13.4120954
+    "longitude": 13.4120954,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Billa",
@@ -12,7 +14,11 @@
     "shop": "supermarket",
     "latitude": 47.3818748,
     "longitude": 13.4182006,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "5541",
+    "city": "Altenmarkt im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Bipa",
@@ -20,28 +26,44 @@
     "shop": "chemist",
     "latitude": 47.3818655,
     "longitude": 13.4176974,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "5541",
+    "city": "Altenmarkt im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Eckhart-Jurtin Autozubehör",
     "retailer": "eckhart_jurtin_autozubehor",
     "shop": "hardware",
     "latitude": 47.3819612,
-    "longitude": 13.4154745
+    "longitude": 13.4154745,
+    "postcode": "5541",
+    "city": "Altenmarkt im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Fashion Art",
     "retailer": "fashion_art",
     "shop": "clothes",
     "latitude": 47.3808227,
-    "longitude": 13.4182101
+    "longitude": 13.4182101,
+    "postcode": "5541",
+    "city": "Altenmarkt im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Hans Schneider Moden GesmbH",
     "retailer": "hans_schneider_moden_gesmbh",
     "shop": "clothes",
     "latitude": 47.380897,
-    "longitude": 13.4177855
+    "longitude": 13.4177855,
+    "postcode": "5541",
+    "city": "Altenmarkt im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Libro",
@@ -49,14 +71,20 @@
     "shop": "books",
     "latitude": 47.3820383,
     "longitude": 13.4176823,
-    "brand": "Libro"
+    "brand": "Libro",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Mei.Handyshop",
     "retailer": "mei_handyshop",
     "shop": "mobile_phone",
     "latitude": 47.3814554,
-    "longitude": 13.4167762
+    "longitude": 13.4167762,
+    "postcode": "5541",
+    "city": "Altenmarkt im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "MPREIS",
@@ -64,14 +92,22 @@
     "shop": "supermarket",
     "latitude": 47.3802906,
     "longitude": 13.4115924,
-    "brand": "MPREIS"
+    "brand": "MPREIS",
+    "postcode": "5541",
+    "city": "Altenmarkt im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Schuhhaus Walchhofer",
     "retailer": "schuhhaus_walchhofer",
     "shop": "shoes",
     "latitude": 47.3802271,
-    "longitude": 13.418898
+    "longitude": 13.418898,
+    "postcode": "5541",
+    "city": "Altenmarkt im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Spar",
@@ -79,13 +115,19 @@
     "shop": "supermarket",
     "latitude": 47.3817041,
     "longitude": 13.414915,
-    "brand": "Spar"
+    "brand": "Spar",
+    "postcode": "5541",
+    "city": "Altenmarkt im Pongau",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Sport Art",
     "retailer": "sport_art",
     "shop": "sports",
     "latitude": 47.381723,
-    "longitude": 13.4137629
+    "longitude": 13.4137629,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

@@ -4,14 +4,22 @@
     "retailer": "autohaus_pichler",
     "shop": "car",
     "latitude": 48.2838701,
-    "longitude": 14.3547495
+    "longitude": 14.3547495,
+    "postcode": "4221",
+    "city": "Steyregg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Autohaus Wipplinger",
     "retailer": "autohaus_wipplinger",
     "shop": "car",
     "latitude": 48.2831348,
-    "longitude": 14.3582848
+    "longitude": 14.3582848,
+    "postcode": "4221",
+    "city": "Steyregg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Billa",
@@ -19,14 +27,22 @@
     "shop": "supermarket",
     "latitude": 48.2851573,
     "longitude": 14.3530709,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "4221",
+    "city": "Steyregg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "brotsüchtig",
     "retailer": "brotsuchtig",
     "shop": "bakery",
     "latitude": 48.2849451,
-    "longitude": 14.353925
+    "longitude": 14.353925,
+    "postcode": "4221",
+    "city": "Steyregg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "eni",
@@ -34,7 +50,9 @@
     "shop": "yes",
     "latitude": 48.2848361,
     "longitude": 14.3522168,
-    "brand": "eni"
+    "brand": "eni",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Hofer",
@@ -42,20 +60,32 @@
     "shop": "supermarket",
     "latitude": 48.2844935,
     "longitude": 14.3540818,
-    "brand": "Hofer"
+    "brand": "Hofer",
+    "postcode": "4421",
+    "city": "Steyregg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wagner",
     "retailer": "wagner",
     "shop": "car_repair",
     "latitude": 48.2858115,
-    "longitude": 14.3508944
+    "longitude": 14.3508944,
+    "postcode": "4221",
+    "city": "Steyregg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   },
   {
     "name": "Wegschaider",
     "retailer": "wegschaider",
     "shop": "butcher",
     "latitude": 48.2836748,
-    "longitude": 14.3593326
+    "longitude": 14.3593326,
+    "postcode": "4221",
+    "city": "Steyregg",
+    "stateCode": "AT-4",
+    "state": "Oberösterreich"
   }
 ]

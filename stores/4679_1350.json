@@ -4,14 +4,20 @@
     "retailer": "autohaus_staber",
     "shop": "car",
     "latitude": 46.7924928,
-    "longitude": 13.5081358
+    "longitude": 13.5081358,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Blumenhaus Astrid",
     "retailer": "blumenhaus_astrid",
     "shop": "florist",
     "latitude": 46.795088,
-    "longitude": 13.5086248
+    "longitude": 13.5086248,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Das Futterhaus",
@@ -19,28 +25,40 @@
     "shop": "pet",
     "latitude": 46.792979,
     "longitude": 13.5060112,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "HaarStation",
     "retailer": "haarstation",
     "shop": "hairdresser",
     "latitude": 46.7966321,
-    "longitude": 13.5010464
+    "longitude": 13.5010464,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Henelit",
     "retailer": "henelit",
     "shop": "paint",
     "latitude": 46.7937427,
-    "longitude": 13.5047351
+    "longitude": 13.5047351,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mailänder",
     "retailer": "mailander",
     "shop": "security",
     "latitude": 46.7923583,
-    "longitude": 13.5089223
+    "longitude": 13.5089223,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Markenschuhdiskont",
@@ -48,7 +66,9 @@
     "shop": "shoes",
     "latitude": 46.7921242,
     "longitude": 13.5066771,
-    "brand": "Rieder"
+    "brand": "Rieder",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Mömax",
@@ -56,7 +76,11 @@
     "shop": "furniture",
     "latitude": 46.793238,
     "longitude": 13.507775,
-    "brand": "Mömax"
+    "brand": "Mömax",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Olsacher",
@@ -64,55 +88,71 @@
     "shop": "kitchen",
     "latitude": 46.7946826,
     "longitude": 13.5037866,
-    "brand": "Miele"
+    "brand": "Miele",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Orthopädietechnik Hofer",
     "retailer": "orthopadietechnik_hofer",
     "shop": "medical_supply",
     "latitude": 46.7963736,
-    "longitude": 13.50391
+    "longitude": 13.50391,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Peter Fercher Trafik",
     "retailer": "peter_fercher_trafik",
     "shop": "kiosk",
     "latitude": 46.7930906,
-    "longitude": 13.5056382
+    "longitude": 13.5056382,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "PHS - PC Corner",
     "retailer": "phs_pc_corner",
     "shop": "computer",
     "latitude": 46.7931834,
-    "longitude": 13.5047815
+    "longitude": 13.5047815,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Pro Mente Copyshop",
     "retailer": "pro_mente_copyshop",
     "shop": "copyshop",
     "latitude": 46.7927009,
-    "longitude": 13.5055269
+    "longitude": 13.5055269,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Reymont",
     "retailer": "reymont",
     "shop": "computer",
     "latitude": 46.7921687,
-    "longitude": 13.5065198
+    "longitude": 13.5065198,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Seven Sins",
     "retailer": "seven_sins",
     "shop": "erotic",
     "latitude": 46.7921564,
-    "longitude": 13.5099266
+    "longitude": 13.5099266,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Zoo",
     "retailer": "zoo",
     "shop": "pet",
     "latitude": 46.792194,
-    "longitude": 13.5095187
+    "longitude": 13.5095187,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

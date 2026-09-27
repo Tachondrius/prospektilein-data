@@ -4,21 +4,29 @@
     "retailer": "aus_und_raus_aktionsmarkt",
     "shop": "yes",
     "latitude": 46.7876039,
-    "longitude": 13.5219805
+    "longitude": 13.5219805,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Autohaus Unterlerchner",
     "retailer": "autohaus_unterlerchner",
     "shop": "car",
     "latitude": 46.7849417,
-    "longitude": 13.5254867
+    "longitude": 13.5254867,
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "BettenMax",
     "retailer": "bettenmax",
     "shop": "bed",
     "latitude": 46.7860174,
-    "longitude": 13.5212116
+    "longitude": 13.5212116,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Billa",
@@ -26,7 +34,11 @@
     "shop": "supermarket",
     "latitude": 46.787337,
     "longitude": 13.5223328,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bipa",
@@ -34,7 +46,11 @@
     "shop": "chemist",
     "latitude": 46.7876478,
     "longitude": 13.5232205,
-    "brand": "Bipa"
+    "brand": "Bipa",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Fressnapf",
@@ -42,7 +58,9 @@
     "shop": "pet",
     "latitude": 46.7869888,
     "longitude": 13.5212808,
-    "brand": "Fressnapf"
+    "brand": "Fressnapf",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Hervis",
@@ -50,14 +68,18 @@
     "shop": "sports",
     "latitude": 46.7883534,
     "longitude": 13.5209394,
-    "brand": "Hervis"
+    "brand": "Hervis",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Huber",
     "retailer": "huber",
     "shop": "clothes",
     "latitude": 46.7877851,
-    "longitude": 13.5215769
+    "longitude": 13.5215769,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Intersport",
@@ -65,7 +87,9 @@
     "shop": "sports",
     "latitude": 46.7865246,
     "longitude": 13.5215898,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "KiK",
@@ -73,7 +97,10 @@
     "shop": "clothes",
     "latitude": 46.7856568,
     "longitude": 13.5210161,
-    "brand": "KiK"
+    "brand": "KiK",
+    "postcode": "9800",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Klipp",
@@ -81,7 +108,9 @@
     "shop": "hairdresser",
     "latitude": 46.7884074,
     "longitude": 13.5203687,
-    "brand": "Klipp"
+    "brand": "Klipp",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Lagerhaus",
@@ -89,7 +118,9 @@
     "shop": "doityourself",
     "latitude": 46.7882334,
     "longitude": 13.5207908,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Müller",
@@ -97,7 +128,9 @@
     "shop": "chemist",
     "latitude": 46.788458,
     "longitude": 13.5202316,
-    "brand": "Müller"
+    "brand": "Müller",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "New Yorker",
@@ -105,7 +138,10 @@
     "shop": "clothes",
     "latitude": 46.7861276,
     "longitude": 13.5213459,
-    "brand": "New Yorker"
+    "brand": "New Yorker",
+    "postcode": "9800",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "NKD",
@@ -113,14 +149,20 @@
     "shop": "clothes",
     "latitude": 46.7875971,
     "longitude": 13.5233677,
-    "brand": "NKD"
+    "brand": "NKD",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Rabattz",
     "retailer": "rabattz",
     "shop": "toys",
     "latitude": 46.7878835,
-    "longitude": 13.5213651
+    "longitude": 13.5213651,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar",
@@ -128,7 +170,9 @@
     "shop": "supermarket",
     "latitude": 46.7852476,
     "longitude": 13.5245803,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Spar Express",
@@ -136,7 +180,9 @@
     "shop": "convenience",
     "latitude": 46.7863472,
     "longitude": 13.5225964,
-    "brand": "Spar"
+    "brand": "Spar",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "XXXLutz",
@@ -144,13 +190,19 @@
     "shop": "furniture",
     "latitude": 46.7856034,
     "longitude": 13.5229678,
-    "brand": "XXXLutz"
+    "brand": "XXXLutz",
+    "postcode": "9800",
+    "city": "Spittal an der Drau",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Zillertaler Trachtenwelt",
     "retailer": "zillertaler_trachtenwelt",
     "shop": "clothes",
     "latitude": 46.7876812,
-    "longitude": 13.5217874
+    "longitude": 13.5217874,
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]

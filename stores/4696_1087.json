@@ -5,27 +5,37 @@
     "shop": "sports",
     "latitude": 46.9682945,
     "longitude": 10.8712668,
-    "brand": "Intersport"
+    "brand": "Intersport",
+    "postcode": "6481",
+    "city": "St. Leonhard im Pitztal",
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Pitz Rent Tal",
     "retailer": "pitz_rent_tal",
     "shop": "sports",
     "latitude": 46.9687442,
-    "longitude": 10.8707044
+    "longitude": 10.8707044,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Riccis Ladele",
     "retailer": "riccis_ladele",
     "shop": "convenience",
     "latitude": 46.9687104,
-    "longitude": 10.8714222
+    "longitude": 10.8714222,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   },
   {
     "name": "Sport Pechtl",
     "retailer": "sport_pechtl",
     "shop": "sports",
     "latitude": 46.9692417,
-    "longitude": 10.8701272
+    "longitude": 10.8701272,
+    "stateCode": "AT-7",
+    "state": "Tirol"
   }
 ]

@@ -5,27 +5,41 @@
     "shop": "supermarket",
     "latitude": 48.0157767,
     "longitude": 16.2754629,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "2511",
+    "city": "Pfaffstätten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Blumen(verkauf) Feld",
     "retailer": "blumen_verkauf_feld",
     "shop": "florist",
     "latitude": 48.0164186,
-    "longitude": 16.2708658
+    "longitude": 16.2708658,
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "LET'S DOIT",
     "retailer": "let_s_doit",
     "shop": "doityourself",
     "latitude": 48.0155164,
-    "longitude": 16.2750968
+    "longitude": 16.2750968,
+    "postcode": "2511",
+    "city": "Pfaffstätten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "Starkl",
     "retailer": "starkl",
     "shop": "garden_centre",
     "latitude": 48.0149269,
-    "longitude": 16.2718853
+    "longitude": 16.2718853,
+    "postcode": "2511",
+    "city": "Pfaffstätten",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

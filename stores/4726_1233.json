@@ -4,7 +4,9 @@
     "retailer": "autohaus_kirchner",
     "shop": "car",
     "latitude": 47.2676776,
-    "longitude": 12.3371023
+    "longitude": 12.3371023,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Lagerhaus",
@@ -12,14 +14,20 @@
     "shop": "doityourself",
     "latitude": 47.2650671,
     "longitude": 12.3311827,
-    "brand": "Lagerhaus"
+    "brand": "Lagerhaus",
+    "postcode": "5733",
+    "city": "Bramberg am Wildkogel",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Nind‘s Friseur",
     "retailer": "ninds_friseur",
     "shop": "hairdresser",
     "latitude": 47.2665193,
-    "longitude": 12.3381499
+    "longitude": 12.3381499,
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   },
   {
     "name": "Viva",
@@ -27,6 +35,10 @@
     "shop": "convenience",
     "latitude": 47.2678657,
     "longitude": 12.3375066,
-    "brand": "Viva"
+    "brand": "Viva",
+    "postcode": "5733",
+    "city": "Bramberg am Wildkogel",
+    "stateCode": "AT-5",
+    "state": "Salzburg"
   }
 ]

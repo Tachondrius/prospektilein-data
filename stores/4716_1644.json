@@ -4,27 +4,38 @@
     "retailer": "dr_moser",
     "shop": "chemist",
     "latitude": 47.1605441,
-    "longitude": 16.4477392
+    "longitude": 16.4477392,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Horvath",
     "retailer": "horvath",
     "shop": "doityourself",
     "latitude": 47.1664646,
-    "longitude": 16.4479587
+    "longitude": 16.4479587,
+    "postcode": "7474",
+    "city": "Deutsch Schützen-Eisenberg",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Lagerhaus Deutsch Schützen",
     "retailer": "lagerhaus_deutsch_schutzen",
     "shop": "convenience",
     "latitude": 47.1655628,
-    "longitude": 16.4472799
+    "longitude": 16.4472799,
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   },
   {
     "name": "Wachter mit Postfiliale",
     "retailer": "wachter_mit_postfiliale",
     "shop": "convenience",
     "latitude": 47.1623076,
-    "longitude": 16.4493023
+    "longitude": 16.4493023,
+    "postcode": "7474",
+    "stateCode": "AT-1",
+    "state": "Burgenland"
   }
 ]

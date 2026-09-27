@@ -5,7 +5,11 @@
     "shop": "supermarket",
     "latitude": 48.0455019,
     "longitude": 15.6088282,
-    "brand": "Billa"
+    "brand": "Billa",
+    "postcode": "3160",
+    "city": "Traisen",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   },
   {
     "name": "PENNY",
@@ -13,6 +17,8 @@
     "shop": "supermarket",
     "latitude": 48.0437583,
     "longitude": 15.608207,
-    "brand": "Penny"
+    "brand": "Penny",
+    "stateCode": "AT-3",
+    "state": "Niederösterreich"
   }
 ]

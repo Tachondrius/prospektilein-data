@@ -4,7 +4,11 @@
     "retailer": "cube_store_wien_ost_by_multicycle",
     "shop": "bicycle",
     "latitude": 48.170762,
-    "longitude": 16.4591442
+    "longitude": 16.4591442,
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Das Futterhaus",
@@ -12,7 +16,11 @@
     "shop": "pet",
     "latitude": 48.170924,
     "longitude": 16.4593624,
-    "brand": "Das Futterhaus"
+    "brand": "Das Futterhaus",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Lidl",
@@ -20,7 +28,11 @@
     "shop": "supermarket",
     "latitude": 48.1704069,
     "longitude": 16.4587497,
-    "brand": "Lidl"
+    "brand": "Lidl",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   },
   {
     "name": "Smyths",
@@ -28,6 +40,10 @@
     "shop": "toys",
     "latitude": 48.171073,
     "longitude": 16.4583548,
-    "brand": "Smyths"
+    "brand": "Smyths",
+    "postcode": "1110",
+    "city": "Wien",
+    "stateCode": "AT-9",
+    "state": "Wien"
   }
 ]

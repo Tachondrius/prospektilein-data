@@ -5,13 +5,21 @@
     "shop": "supermarket",
     "latitude": 46.8680503,
     "longitude": 14.876546,
-    "brand": "ADEG"
+    "brand": "ADEG",
+    "postcode": "9413",
+    "city": "Frantschach-St. Gertraud",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   },
   {
     "name": "Bakery",
     "retailer": "shop_bakery",
     "shop": "bakery",
     "latitude": 46.869671,
-    "longitude": 14.8769931
+    "longitude": 14.8769931,
+    "postcode": "9413",
+    "city": "Frantschach-St. Gertraud",
+    "stateCode": "AT-2",
+    "state": "Kärnten"
   }
 ]
