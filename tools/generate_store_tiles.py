@@ -97,8 +97,8 @@ def slugify(value: str) -> str:
 
 def canonical_retailer(tags: dict[str, str]) -> str:
     candidates = [
-        tags.get("brand", ""),
         tags.get("name", ""),
+        tags.get("brand", ""),
         tags.get("operator", ""),
     ]
 
@@ -110,9 +110,12 @@ def canonical_retailer(tags: dict[str, str]) -> str:
 
         for alias, retailer in KNOWN_RETAILERS:
             alias_normalized = normalize_for_match(alias)
+
             if (
                 normalized == alias_normalized
-                or normalized.startswith(alias_normalized + " ")
+                or normalized.startswith(
+                    alias_normalized + " "
+                )
             ):
                 return retailer
 
@@ -128,7 +131,11 @@ def canonical_retailer(tags: dict[str, str]) -> str:
     if fallback:
         return slugify(fallback)
 
-    shop_type = tags.get("shop", "shop")
+    shop_type = tags.get(
+        "shop",
+        "shop"
+    )
+
     return f"shop_{slugify(shop_type)}"
 
 
