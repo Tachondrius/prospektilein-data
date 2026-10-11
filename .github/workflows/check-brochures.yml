@@ -1,0 +1,28 @@
+name: Check Brochure Sources
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 6 * * *"
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Validate catalog
+        run: python scripts/validate_catalog.py
+      - name: Check active brochures and registered sources
+        run: python scripts/check_brochures.py --online
+      - name: Upload verification report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: brochure-verification-report
+          path: verification-report.json
+          if-no-files-found: warn
+          retention-days: 30
