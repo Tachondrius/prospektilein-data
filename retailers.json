@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "retailers": [
+    {
+      "id": "billa",
+      "name": "BILLA",
+      "category": "lebensmittel",
+      "status": "candidate"
+    },
+    {
+      "id": "billa_plus",
+      "name": "BILLA PLUS",
+      "category": "lebensmittel",
+      "status": "candidate"
+    },
+    {
+      "id": "spar",
+      "name": "SPAR",
+      "category": "lebensmittel",
+      "status": "candidate"
+    },
+    {
+      "id": "eurospar",
+      "name": "EUROSPAR",
+      "category": "lebensmittel",
+      "status": "candidate"
+    },
+    {
+      "id": "interspar",
+      "name": "INTERSPAR",
+      "category": "lebensmittel",
+      "status": "candidate"
+    },
+    {
+      "id": "hofer",
+      "name": "HOFER",
+      "category": "lebensmittel",
+      "status": "candidate"
+    },
+    {
+      "id": "lidl",
+      "name": "Lidl",
+      "category": "lebensmittel",
+      "status": "candidate"
+    },
+    {
+      "id": "penny",
+      "name": "PENNY",
+      "category": "lebensmittel",
+      "status": "candidate"
+    },
+    {
+      "id": "dm",
+      "name": "dm",
+      "category": "drogerie",
+      "status": "candidate"
+    },
+    {
+      "id": "bipa",
+      "name": "BIPA",
+      "category": "drogerie",
+      "status": "candidate"
+    },
+    {
+      "id": "mueller",
+      "name": "Müller",
+      "category": "drogerie",
+      "status": "candidate"
+    },
+    {
+      "id": "obi",
+      "name": "OBI",
+      "category": "baumarkt",
+      "status": "candidate"
+    },
+    {
+      "id": "hornbach",
+      "name": "HORNBACH",
+      "category": "baumarkt",
+      "status": "candidate"
+    },
+    {
+      "id": "bauhaus",
+      "name": "BAUHAUS",
+      "category": "baumarkt",
+      "status": "candidate"
+    },
+    {
+      "id": "ikea",
+      "name": "IKEA",
+      "category": "moebel",
+      "status": "candidate"
+    },
+    {
+      "id": "xxxlutz",
+      "name": "XXXLutz",
+      "category": "moebel",
+      "status": "candidate"
+    },
+    {
+      "id": "moebelix",
+      "name": "Möbelix",
+      "category": "moebel",
+      "status": "candidate"
+    },
+    {
+      "id": "moemax",
+      "name": "mömax",
+      "category": "moebel",
+      "status": "candidate"
+    },
+    {
+      "id": "mediamarkt",
+      "name": "MediaMarkt",
+      "category": "elektronik",
+      "status": "candidate"
+    },
+    {
+      "id": "hartlauer",
+      "name": "Hartlauer",
+      "category": "elektronik",
+      "status": "candidate"
+    },
+    {
+      "id": "action",
+      "name": "Action",
+      "category": "sonstiges",
+      "status": "candidate"
+    },
+    {
+      "id": "tedi",
+      "name": "TEDi",
+      "category": "sonstiges",
+      "status": "candidate"
+    },
+    {
+      "id": "fressnapf",
+      "name": "Fressnapf",
+      "category": "tierbedarf",
+      "status": "candidate"
+    }
+  ]
+}
