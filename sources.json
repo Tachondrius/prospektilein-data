@@ -1,4 +1,26 @@
 {
   "schemaVersion": 1,
-  "sources": []
+  "sources": [
+    {
+      "id": "billa_flyer_candidate",
+      "retailer": "billa",
+      "method": "pdf_link",
+      "enabled": false,
+      "url": "https://assets-eu-01.kc-usercontent.com/cc0b17b0-a734-010a-8710-f644b7ee1f24/96ebd6f5-1fcf-461a-8cb6-2aa012b6bb7a/BILLA_FB_KW38_2026_Wien.pdf"
+    },
+    {
+      "id": "spar_flyer_candidate",
+      "retailer": "spar",
+      "method": "pdf_link",
+      "enabled": false,
+      "url": "https://flugblatt.spar.at/niederoesterreich/spar/260924-1-flugblatt-kw39/ViewPdf.ashx"
+    },
+    {
+      "id": "billa_plus_page_candidate",
+      "retailer": "billa_plus",
+      "method": "manual",
+      "enabled": false,
+      "url": "https://www.billa.at/unsere-aktionen%2Fflugblatt?tab=billa-plus-flugblatt"
+    }
+  ]
 }
