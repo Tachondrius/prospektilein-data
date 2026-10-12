@@ -1,0 +1,37 @@
+name: Import Brochures (Phase 3)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 5 * * *"
+  push:
+    paths:
+      - "scripts/import_brochures.py"
+      - "tests/test_import_brochures.py"
+      - "sources.json"
+      - "retailers.json"
+      - ".github/workflows/import-brochures.yml"
+permissions:
+  contents: read
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Unit tests
+        run: python -m unittest discover -s tests -p "test_import_brochures.py" -v
+      - name: Import verified sources
+        run: python scripts/import_brochures.py --check-network
+      - name: Validate catalog
+        run: python scripts/validate_catalog.py
+      - name: Upload generated catalog and report (no automatic commits)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: phase3-import-output
+          path: |
+            brochures.json
+            import-report.json
+          if-no-files-found: warn
